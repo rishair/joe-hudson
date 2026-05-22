@@ -4,7 +4,7 @@ id: manufacturing-the-feeling
 title: "Manufacturing the Feeling"
 aliases: ["producing the emotion", "trying to feel it", "performing the feeling", "you started manufacturing it", "engineering the feeling", "doing the feeling at yourself"]
 tags: ["emotion", "performance", "trying", "reads", "subtle"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
 ---
 
 # Manufacturing the Feeling
@@ -67,6 +67,20 @@ Direct, light, sometimes funny. The naming is not a criticism. It is a redirect.
 - The person knows the framework well enough to perform the right answer.
 - The actual unfelt emotion is still under another layer.
 - The mind is bargaining: "if I produce this version, can we move on?"
+
+## The Variant: Trying to Call Up a Missed Emotion
+
+A specific variant of manufacturing appears when someone wants to re-access an emotion that arrived earlier and is now gone. The intuitive move is to try harder to feel it. The intuitive move is the trap.
+
+"If you're trying to generate the emotional experience, that often prevents the emotional experience. So if you're trying to call it back up, the best way to do that typically is to hold the memory in your body and in your mind of the time that you felt that most completely. And then see where it goes from there." -- Joe Hudson, Q&A #2
+
+The trying-to-call-it-back is structurally identical to in-session manufacturing: the mind constructs an emotion-shaped object to try to access. The body responds by withdrawing the actual emotional substrate. The harder the call, the further the withdrawal.
+
+The corrective is [[hold-the-memory-of-when-you-felt-it-most]] -- a different mode of access that uses memory as an anchor and waits to receive what arrives, rather than pushing for the original intensity. The lesser version that surfaces from the memory practice is genuine material; the produced version from trying is a simulacrum.
+
+Joe is explicit about the population most susceptible to this trap: "There's a whole group of people that have the tendency to push the emotions away by trying. You'll see that in the emotional inquiry work where the job is to be in wonder and curiosity about some emotional experience, and they'll try so hard and everything goes away." -- Joe Hudson, Q&A #2
+
+The trying becomes the new resistance. The push produces the opposite of what is being sought. See [[trying-prevents-the-feeling]] for the underlying principle that organizes this entire class of failures.
 
 ## Sources
 

@@ -5,7 +5,7 @@ title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
 related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform", "connection"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
 ---
 
 # VIEW
@@ -92,6 +92,28 @@ This makes VIEW the operational response to fear. Bringing vulnerability (what a
 
 The generalization: any internal state currently being managed can be approached with VIEW. The methodology does not care whether the conversation is between two people or between a person and their own difficult experience.
 
+## Scaffolds Into the VIEW State (Eye Contact and Alternatives)
+
+Several somatic moves can serve as scaffolds for entering the VIEW state. Eye contact is one of the most commonly cited. It raises oxytocin in both parties, which makes the state of mind easier to access.
+
+"What the eye contact is all about is raising the oxytocin in your system so that it's easier for you to find the place of VIEW. It is just like a training tool. It's like bumpers on a bowling alley. It keeps you in the lanes more easily." -- Joe Hudson, Q&A #2
+
+Critically, eye contact is one scaffold among many, not a requirement. Other scaffolds that produce similar somatic effects:
+
+- Holding hands
+- Having a conversation while hugging
+- Other forms of sustained physical contact
+- A round of gratitude before the conversation (especially for groups -- see [[gratitude-rounds-before-meetings]])
+- A moment of co-presence before speaking
+
+"You could use holding hands. You could use having a conversation while hugging. Or just touching each other. You could have gratitude for each other before you start the conversation. And all of those things will help you be in VIEW more naturally until you start to have a somatic memory of view, of being vulnerable, impartial, in empathy, and in wonder." -- Joe Hudson, Q&A #2
+
+The point of all these scaffolds is the same: build a somatic memory of the VIEW state until the state becomes accessible without the scaffold. The scaffolds are training wheels, not the bike.
+
+This matters for accessibility. For neurodivergent practitioners (some autistic or ADHD profiles), sustained eye contact may not produce oxytocin in the expected way, or may produce overwhelming intensity. The principle holds; the form changes. The non-negotiable is "deep sense of connection that is not intellectual, that is somatic and/or physical, emotional, nervous system pleasure." The route varies by person and context.
+
+See [[eye-contact-as-view-training]] for the full treatment, including the case where avoiding eye contact is actually avoiding the felt-sense in the body (which calls for a different gentle intervention) and the underlying universal that "everybody wants to be seen and heard" -- even if the modality of being seen has to be translated for the specific nervous system.
+
 ## Anti-Patterns
 
 - [[view-as-technique]]: Treating VIEW as a communication technique rather than a state of mind. This is the primary failure mode.
@@ -138,3 +160,4 @@ See [[love-as-deep-welcoming]] for the central treatment of the love that VIEW o
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
+- 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the eye-contact-as-bumpers metaphor; alternative scaffolds into VIEW; the universal need for connection and the variation in modality)

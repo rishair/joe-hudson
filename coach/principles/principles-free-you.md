@@ -4,8 +4,8 @@ id: principles-free-you
 title: "Living By Principles Frees You"
 aliases: ["principles create freedom", "principled living", "principles as empowerment", "elegant structure of principles", "personal constitution", "I don't work with assholes principle", "I put connection first principle", "principles handle the deciding in advance", "principled decisions evaporate the decision-feel", "principled decision-making", "decisions evaporate when principled", "live by principles to dissolve decisions", "the asshole principle", "connection-first principle"]
 tags: ["principles", "freedom", "empowerment", "structure", "values", "decisions"]
-related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment", "good-decision-is-how-you-make-it-not-the-outcome", "decisions-as-portfolio", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "surrender-the-outcome-of-a-decision", "principled-board-decision"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
+related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment", "good-decision-is-how-you-make-it-not-the-outcome", "decisions-as-portfolio", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "surrender-the-outcome-of-a-decision", "principled-board-decision", "wrestle-with-your-principles", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "rollout-principles-in-organization", "ray-dalio-transparency"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
 ---
 
 # Living By Principles Frees You
@@ -103,6 +103,46 @@ This is not rigidity. The principles are not absolutes. They get revisited and r
 "I'll revisit them every once in a while, say, is this true? Is this still right on the principles that I live by? But if I live by those principles, then it turns out that like my life is the life that I want it to be and all my choices can help me." -- Joe Hudson, How Can I Make Better Decisions?
 
 The cadence is slow. Principles do not change to accommodate a particular case. They change when accumulated evidence suggests the principle itself has stopped serving the life it was meant to serve.
+
+## The Wrestling Is What Keeps Principles Alive
+
+The revisability is not optional. A principle that is not actively wrestled with hardens into dogma or fades from operational memory. Joe is explicit that the power of principles is less about the specific principles than about the ongoing relationship with them.
+
+"The power of having principles is less about the principles you have and more about the process. And I think that this is the thing that gets people all the time is that they, whether they're CEOs or they're creating their own personal principles, it's like, I've got them and that's it. And then what happens is like, you know, 3 years later, they've completely forgotten their principles and they're not living them." -- Joe Hudson, Wrestle With Your Principles
+
+The ongoing process is itself one of Joe's principles (everything is an iteration). It applies to the set of principles too. See [[wrestle-with-your-principles]] for the full treatment of this requirement, and [[defining-principles-well]] for the mechanics of writing principles that can be wrestled with.
+
+## What Counts as a Principle (vs. a Value)
+
+Not everything called a principle is one. A value names a territory; a principle states a move. The corporate values exercise of the 1990s and 2000s often produced lists of values that did not change behavior. The values were too generic (everyone claims to value honesty) and too far from action (a value rarely contains a decision).
+
+A principle is what shows up when the value is converted into operational language. "I value connection" becomes "Connection, connection, connection -- I start in connection, stay in connection, end in connection." The first does not change a decision. The second does. See [[principle-vs-value]] for the full distinction.
+
+## You Are Already Living By Principles
+
+The work of articulating principles is not the work of inventing them. Unconscious principles are already running your life -- fear of poverty, need for approval, obligation to caretake, drive for status. These are operating as principles whether you have named them or not. They produce consistent patterns of choice with operational consequences.
+
+The conscious principles work is excavation, not invention. The unconscious principle gets named; once named, it can be examined; once examined, it can be revised or replaced with a consciously chosen one. See [[unconscious-principles-run-your-life]] for what this means in practice.
+
+## Joe's Own Five Principles (As of 2023)
+
+Joe's current five principles have been mostly stable for about five years. They are an example of what a wrestled-with set looks like over time:
+
+1. **Connection, connection, connection** -- start, stay, end in connection. See [[connection-as-life-bottom-line]].
+2. **Embrace intensity** -- move toward the avoided thing. See [[embrace-intensity]].
+3. **Everything is an iteration** -- no finish line, no shame about getting it wrong, constant learning.
+4. **Wonder!** -- open awe without needing the answer. Evolved from "what are you curious about?" to "what's the question?" to just "wonder." See [[wonder]] and [[wonder-vs-curiosity]].
+5. **Loving accountability** -- ownership without brutality. See [[five-principles-of-the-path]].
+
+The evolution of the wonder principle illustrates what wrestling produces: refinement over years, not invention in a retreat. The current form is stronger than the earlier forms because it does not require an answer at the end.
+
+## In Organizations
+
+The same principles operate at organizational scale. A company runs on principles whether they are articulated or not. When they are not articulated, the principles are typically the CEO's unconscious patterns ("the company is run by trying to make the CEO happy"). When they are articulated and rolled out well, they become the operating system for distributed decision-making.
+
+The rollout method matters. Top-down imposition produces wall decorations. Bottom-up experimentation followed by CEO codification produces operational principles. See [[rollout-principles-in-organization]] for the specific multi-step method.
+
+For an extended example of principles in operation at a major firm, see [[ray-dalio-transparency]].
 
 ## Upstream (What Leads Here)
 

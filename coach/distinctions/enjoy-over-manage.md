@@ -5,7 +5,7 @@ title: "Enjoying vs. Managing"
 aliases: ["enjoy over manage", "enjoyment vs management", "managing life", "self-management trap", "stop managing start enjoying", "fighting the river", "management is fighting the river", "the river metaphor"]
 tags: ["enjoyment", "management", "freedom", "efficiency", "control", "flow"]
 related: ["impartiality", "process-over-result", "resistance", "inherent-goodness", "listening-to-impulse", "pleasure-capacity", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "efficiency-as-enjoyment", "art-of-accomplishment", "whats-the-case-against-it", "give-parameters-of-winning", "hire-by-dream-job", "valve-handbook-desks-on-wheels", "management-required-to-launch-predicts-management-required-forever", "address-the-blocker-not-the-symptom", "flow-vs-managing-reality", "pulling-the-brakes", "running-toward-yourself", "apply-enjoy-to-whats-here"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
 ---
 
 # Enjoying vs. Managing
@@ -90,6 +90,24 @@ See [[resistance]], [[feeling-the-unfelt-emotion]], [[fear-is-about-feeling]].
 
 The closing insight: "We often try to figure stuff out before we actually allow the feeling of stuff. And if we really let that feeling happen and learn how to enjoy that feeling, then most of what we're trying to figure out doesn't need to be figured out anymore." -- Joe Hudson, Enjoy over Manage
 
+## Management Runs on Positive States Too
+
+A subtle but important extension: the management apparatus most people use on uncomfortable emotional states is also active on comfortable ones. The mind is constantly checking whether the current emotional state is okay -- including when the state is good.
+
+"Notice what the mind is constantly doing. The mind is constantly trying to manage, see if it's okay to have whatever emotional state that we're having rather than feeling it or enjoying it thoroughly. And when I say enjoying it, I mean enjoying anger or sadness or in this case, peace." -- Joe Hudson, Q&A #2
+
+The questioning of a positive state ("is it okay that I feel this peaceful?" "am I delusional for feeling this good?") is the same management apparatus as the questioning of a negative state. The mind has noticed the emotional state and reached for the apparatus that decides whether the state is permitted. The apparatus runs the same protocol regardless of whether the state is comfortable or uncomfortable.
+
+This makes the distinction load-bearing in both directions. Enjoy-over-manage applies to peace and joy as much as it applies to anger and grief. The work is to drop the management of the felt-state regardless of which felt-state is present. See [[questioning-the-positive-state]] for the specific read of when this surfaces in coaching, and see [[fear-of-joy]] for the broader pattern that explains why the management of positive states is so common.
+
+## Letting Go Is Not Doing Nothing
+
+A related distinction often gets collapsed: "letting go" is sometimes interpreted as "doing nothing." It is not. Doing nothing is essentially impossible for a waking human. Letting go is a specific orientation toward whatever you are doing -- non-management of your experience of it.
+
+"Letting go is not managing my experience. Doing nothing is literally doing nothing, which I don't really see any humans do. So doing nothing, I think, is an impossibility, whereas letting go or surrender is the non-management of your experience." -- Joe Hudson, Q&A #2
+
+This is structurally the same as enjoy-over-manage. The actions continue. The trying to control the felt-experience of the actions stops. See [[letting-go-vs-doing-nothing]] for the full distinction.
+
 ## Boundaries Are Not Management
 
 A boundary is the opposite of management. A boundary says: here is what I am willing to do. The other person can do what they choose. Management says: here is what I need you to do.
@@ -142,3 +160,4 @@ The recursive irony of the example: a sales team trying to introduce question-ba
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_Enjoy Over Manage
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the extension of enjoy-over-manage to positive states; the distinction between letting go and doing nothing)

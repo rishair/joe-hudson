@@ -5,7 +5,7 @@ title: "The Client's Wisdom, Not the Teacher's"
 aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere"]
 tags: ["principle", "coaching-methodology", "wisdom", "epistemology", "autonomy", "experience-based-learning"]
 related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
 ---
 
 # The Client's Wisdom, Not the Teacher's
@@ -78,6 +78,48 @@ The last sentence is the operational corollary. Every question Joe asks is in se
 
 This is also what protects against the slide into being the source. Even the question is not the coach's contribution to the wisdom. The question is the apparatus by which the client's wisdom becomes visible to itself.
 
+## "Please Stop. Trust Your Own Experience."
+
+The cleanest statement of this principle in Joe's voice arrives in a Q&A response. A listener has asked how Joe and Brett benefit from positioning themselves as fixers or experts. Joe walks through the costs (separation, projection, developmental stagnation) and the benefits, then offers the operational instruction directly:
+
+"If you're listening to this and you think that what we're saying is right, please stop. All I want is for you to trust your own experience. The deepest wisdom is in you. It's not outside of you. If what I say helps you point -- helps you find something, great. And if it doesn't, then just ignore it." -- Joe Hudson, Q&A #2
+
+The instruction inverts the usual teacher-student contract. A teacher whose teaching is being received as "right" would typically welcome the reception. The principle here treats the reception itself as a hazard. If the student is concluding "Joe is right," the student has located the wisdom outside themselves. The principle is to relocate the wisdom inside.
+
+The instruction is sharp because the failure mode it prevents is real and common. People in transformation work often replace one external authority (parent, religion, expert) with another (coach, teacher, podcast host). The structure remains; only the source changes. The principle here is meant to prevent this replacement.
+
+"Every perspective has its limitations and has its truth. Mine is no different. So I hear everybody's, including the person who's asking this question, that their perspective has limitation and has truth." -- Joe Hudson, Q&A #2
+
+This makes the principle radically symmetrical. The coach's perspective has limitation. The client's perspective has limitation. The coach's perspective has truth. The client's perspective has truth. The coach is not exempt from the limitation, and the client is not deficient in the truth. The relationship is between two perspectives that are operating with the same epistemic structure.
+
+The implication for the AI coach: the same instruction must be available. If a user is concluding "the AI is right about me," the AI should be able to redirect: "the only thing that matters is what your own experience tells you about what I just said. If it lands, take it. If it doesn't, ignore it. Your experience is the test, not my framing."
+
+## "I Would Far Rather Hear How People Are Than to Tell Them How They Are"
+
+A related operational statement, in the same Q&A response:
+
+"For the questioner, it's your experience. I don't know what your experience is. I have no idea. I don't know what anybody else's experience is and I can't speak to them. And what I want is for you to speak from them. I would far rather hear how people are than to tell them how they are." -- Joe Hudson, Q&A #2
+
+This is the conversational form of the principle. The coach's preference, structurally, is to receive what the client says about themselves rather than to inform the client about themselves. The information flow runs from the client to the coach, not the other way around.
+
+This does not mean the coach is silent. The coach offers framings, observations, questions, exercises. But the foundational data is what the client reports about their own experience. The coach's framings are organized around eliciting and reflecting that data, not around substituting the coach's account for the client's.
+
+The phrase "I have no idea" is doing work. A coach who claims to know what the client's experience is has violated the principle. The principle requires the coach to maintain genuine uncertainty about what is happening inside the client. The certainty would itself be a slide back into the teacher-as-source position.
+
+## Authenticity, Not Inclusivity, As the Goal
+
+A subtle extension of the same principle, in the same Q&A: the coach's goal is not to make their work fit everyone. The coach's goal is to be in their own most authentic expression.
+
+"I'm not sure if I want it to be all-inclusive. I don't want to change what I'm doing so that it's good for everybody. I do want to learn from other perspectives. What I want is for it to be the deepest and truest expression of what I'm here to do. And hopefully that allows access for lots of people, but my goal isn't so that everybody can learn from this. What I want is for it to be a true and authentic expression and for it to be respectful and loving and empowering for everybody." -- Joe Hudson, Q&A #2
+
+The structural reason this extends the principle: the goal of inclusivity for the coach would be a form of the coach altering themselves to fit the listener. The same dynamic the coach refuses to impose on the client (you should be like this), the coach refuses to impose on themselves (I should make myself fit you).
+
+"I don't want anybody else to change for me. I don't want you to change for me. So I, and in that recognition, I don't want to change for someone else. What I want is to be my full expression authentically." -- Joe Hudson, Q&A #2
+
+The symmetry is the point. Authentic expression on both sides. Neither party changing for the other. Connection happening between two intact persons, not between a manager and a managed person.
+
+This sometimes makes coaches uncomfortable because it sounds elitist or exclusive. Joe's response: the deepest authentic expression tends to be the most resonant, so authenticity often produces more access, not less. But access is the byproduct, not the design goal. Designing for access compromises the authenticity. The compromise reduces what is on offer to anyone, including the people the design was meant to include.
+
 ## Why This Makes the Methodology Robust
 
 Because the methodology rests on the client's experience, it is unfalsifiable in the bad sense if held wrong, and falsifiable in the good sense if held right. The good-sense version: a client runs the exercise sincerely and reports no contact. The exercise has not worked for this client. Either the exercise needs to be different, or the timing is wrong, or some prior block needs to be addressed. The coach takes the data seriously. The exercise is iterated. See [[address-the-blocker-not-the-symptom]].
@@ -125,3 +167,4 @@ Calm, structural, undefended. This is not a humility performance. It is a descri
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
 - 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
 - 2022-10-26_Love Over Defense (the "gravity in roses, grass, birds, trees" passage on how the trust is built from observation)
+- 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the "please stop, trust your own experience" passage; the "I would far rather hear how people are than tell them how they are" passage; the authenticity-over-inclusivity extension)

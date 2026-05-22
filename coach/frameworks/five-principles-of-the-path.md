@@ -4,8 +4,8 @@ id: five-principles-of-the-path
 title: "Five Principles of the Path"
 aliases: ["5 principles", "principles of the path", "how to walk the path", "approach to transformation", "loving accountability embrace intensity iteration curiosity connection"]
 tags: ["transformation", "framework", "development", "approach"]
-related: ["embrace-intensity", "wonder", "resistance", "process-over-result", "enjoyment-as-path", "vulnerability"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Embarking On The Journey"]
+related: ["embrace-intensity", "wonder", "resistance", "process-over-result", "enjoyment-as-path", "vulnerability", "wrestle-with-your-principles", "principles-free-you", "defining-principles-well", "principle-vs-value"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Embarking On The Journey", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
 ---
 
 # Five Principles of the Path
@@ -44,7 +44,7 @@ This applies even to extreme cases. A person who has killed cannot undo it. But 
 
 This principle connects to [[process-over-result]]: the iteration is the process. Fixating on whether an iteration was "right" or "wrong" is attachment to a result.
 
-### 4. Curiosity
+### 4. Curiosity (Evolved to "Wonder!")
 
 See [[wonder]]. Fear and curiosity cannot coexist. When running from a tiger in your imagination, the fear courses through you. Then wonder: "How much does the tiger weigh?" The fear disappears.
 
@@ -53,6 +53,12 @@ See [[wonder]]. Fear and curiosity cannot coexist. When running from a tiger in 
 Curiosity is bidirectional: turning on fear reduces curiosity, and turning on curiosity reduces fear. This is why [[conditions-for-transformation]] emphasizes safety: fear blocks learning. But curiosity is also a tool to reduce fear when it appears.
 
 The boundary condition: curiosity does not apply when you are actually in fear for your life. The nervous system has its reasons for not making you curious about a tiger that is chasing you. The principle is about ordinary fear: fear of being fired, fear of how a conversation will go, fear about a decision. In those cases, curiosity is far more enjoyable and far more productive than worry. "Being curious about being fired is far more enjoyable than worrying about being fired." -- Joe Hudson, Embarking On The Journey
+
+This principle has itself evolved through wrestling. The first articulation was "What are you curious about right now?" -- pointed at the unknown. The second was "What's the question?" -- staying in the inquiry rather than rushing to the answer. The current form is just "Wonder!" with an exclamation point, because wonder does not require an answer at the end. Curiosity can constrict into answer-seeking; wonder stays open.
+
+"I find that wonder is a stronger force. It doesn't require me looking for an answer. It's the openness and it's the awe without the needing of an answer, which seems to drive much better decision-making, problem-solving than trying to get to the answer. That try and disconnects me." -- Joe Hudson, Wrestle With Your Principles
+
+The evolution is an example of [[wrestle-with-your-principles]] in action. See [[wonder-vs-curiosity]] for the resulting distinction.
 
 ### 5. Connection
 
@@ -70,6 +76,13 @@ The contact framing matters for clients who report dissociation. When a person s
 
 The five principles create a positive feedback loop with [[enjoyment-as-path]]. Working any one principle makes the others more available. Trust makes vulnerability possible. Vulnerability enables loving accountability. Loving accountability builds trust. The speed of development increases, but more important, it becomes more enjoyable.
 
+## These Are Joe's Principles, Not Universal Mandates
+
+These five are Joe's own current operating principles, refined over years of wrestling. They are offered as a worked example of what conscious, somatically-anchored, periodically-revisited principles look like in practice -- not as a prescription that should be adopted wholesale by others.
+
+The methodology of arriving at and refining principles is more transferable than the specific principles themselves. See [[wrestle-with-your-principles]] for the iterative process, [[defining-principles-well]] for the definition criteria, [[principle-vs-value]] for what distinguishes a principle from a value, and [[unconscious-principles-run-your-life]] for the excavation work that precedes conscious principle-articulation.
+
 ## Sources
 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2023-02-17_Wrestle With Your Principles -- Decisions Series #4 (the wonder evolution from "what are you curious about?" to "what's the question?" to just "wonder!", and the framing of the five as Joe's own wrestled-with set rather than universal prescriptions)

@@ -297,6 +297,7 @@
     "decisions-are-emotional",
     "good-decision-is-how-you-make-it-not-the-outcome",
     "principles-free-you",
+    "unconscious-principles-run-your-life",
     "ask-from-slowness-not-intellect",
     "do-the-next-most-obvious-thing"
   ],
@@ -342,6 +343,7 @@
     "material-problems-are-emotional-problems",
     "perceived-certainty-not-actual-certainty",
     "refuse-to-be-defined-by-the-worst-act",
+    "unwelcomed-emotions-return-until-felt",
     "victim-stance-invites-abuse",
     "voice-creates-what-it-fears",
     "vulnerability-protects",
@@ -362,6 +364,7 @@
     "how-do-i-trust-myself",
     "we-never-fight",
     "confidence-only-where-approval-isnt-needed",
+    "loyalty-under-low-affection",
     "whats-the-ultimate-thing-youre-running-from",
     "joy-as-matriarch",
     "triggered-vs-big-emotion"
@@ -409,6 +412,7 @@
   "peace-is-what-we-resist-the-most": [
     "how-do-i-trust-myself",
     "whats-the-ultimate-thing-youre-running-from",
+    "definition-of-asshole",
     "resistance",
     "running-toward-yourself",
     "lets-go-there",
@@ -452,6 +456,7 @@
     "i-cant-apologize",
     "dont-extract-apologies",
     "apologies-as-power-struggle-surrogate",
+    "definition-of-asshole",
     "shame-as-disconnection",
     "forms-of-dysfunctional-apology",
     "apologize-for-not-seeing-the-help",
@@ -509,6 +514,7 @@
     "inherent-goodness",
     "nervous-system-recovery-after-stress",
     "refuse-to-be-defined-by-the-worst-act",
+    "unconscious-principles-run-your-life",
     "voice-creates-what-it-fears",
     "wants-over-shoulds",
     "what-we-fear-we-invite",
@@ -968,6 +974,7 @@
     "acting-as-if-already-true",
     "fear-is-about-feeling",
     "perceived-certainty-not-actual-certainty",
+    "triggers-reduce-when-you-know-you-can-leave",
     "voice-creates-what-it-fears",
     "prepare-and-release-the-difficult-conversation",
     "stacy-father-conversation"
@@ -1037,6 +1044,7 @@
     "i-freeze-around-authority",
     "desire-for-resolution",
     "linguistic-caveat",
+    "loyalty-under-low-affection",
     "manufacturing-the-feeling",
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
@@ -1108,6 +1116,7 @@
     "consciousness-is-the-product",
     "leaders-wants-are-the-organizations-wants",
     "public-failure-as-leadership-modeling",
+    "ray-dalio-transparency",
     "authenticity-in-business",
     "no-doctrine-leadership",
     "structure-and-empowerment",
@@ -1359,6 +1368,7 @@
     "defense",
     "emotional-fluidity",
     "emotions-as-road-signs",
+    "emotions-show-up-at-inopportune-times",
     "empathy",
     "engineering-heartbreak-to-avoid-heartbreak",
     "familiar-over-safe",
@@ -1455,6 +1465,7 @@
     "the-pattern-is-not-personal",
     "trust-the-awareness-dont-add-effort",
     "unprocessed-grief-creates-conflict",
+    "unwelcomed-emotions-return-until-felt",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
     "apologize-as-daily-practice-for-bad-habits",
@@ -1465,6 +1476,7 @@
     "fake-the-anger-to-let-it-move",
     "feeling-the-want-as-emotion",
     "find-the-comparable",
+    "hold-the-memory-of-when-you-felt-it-most",
     "inquiry-on-limiting-beliefs",
     "let-your-body-shake-it-out",
     "list-the-shames-you-avoided",
@@ -1535,16 +1547,22 @@
     "am-i-doing-it-right",
     "desire-for-resolution",
     "intellectual-question-with-emotional-body",
+    "loyalty-under-low-affection",
+    "questioning-the-positive-state",
     "the-happiness-filter",
     "trying-to-get-rid-of-the-emotion",
     "dont-go-after-every-emotion-at-once",
     "feel-your-way-to-freedom",
     "apply-enjoy-to-whats-here",
-    "embracing-vs-creating-intensity"
+    "embracing-vs-creating-intensity",
+    "trying-prevents-the-feeling",
+    "unwelcomed-emotions-return-until-felt",
+    "hold-the-memory-of-when-you-felt-it-most"
   ],
   "desire-for-resolution": [
     "i-keep-crashing-and-burning",
     "manufacturing-the-feeling",
+    "questioning-the-positive-state",
     "trying-to-get-rid-of-the-emotion",
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
@@ -1588,11 +1606,13 @@
     "how-is-that-not-here-right-now",
     "whats-the-case-against-it",
     "art-of-accomplishment",
+    "definition-of-asshole",
     "resistance",
     "pleasure-capacity",
     "give-parameters-of-winning",
     "hire-by-dream-job",
     "flow-vs-managing-reality",
+    "letting-go-vs-doing-nothing",
     "trying-vs-doing",
     "acceptance-as-change-strategy",
     "consciousness-is-the-product",
@@ -2095,12 +2115,15 @@
     "dont-make-it-your-job-to-prevent-their-triggers",
     "dont-use-boundaries-as-ultimatums",
     "dont-use-safety-as-control",
+    "definition-of-asshole",
     "apologize-for-trying-to-control",
     "empathize-with-fear-under-constricted-boundary",
     "reflect-back-to-make-partner-feel-heard",
     "boundary-with-vs-boundary-against",
+    "letting-go-vs-doing-nothing",
     "boundaries-expand-as-capacity-grows",
     "dont-compromise-find-both-needs-met",
+    "triggers-reduce-when-you-know-you-can-leave",
     "say-the-thing-youre-not-saying"
   ],
   "does-saying-it-increase-your-love|love test": [
@@ -2125,6 +2148,7 @@
     "boundaries",
     "agreements-renegotiate-as-you-change",
     "do-the-work-thats-harder-for-you",
+    "triggers-reduce-when-you-know-you-can-leave",
     "joes-dad-drinking-boundary"
   ],
   "joes-dad-drinking-boundary": [
@@ -2397,6 +2421,7 @@
     "dont-do-anger-at-your-partner",
     "dont-jump-to-compassion-before-anger",
     "dont-should-yourself-to-welcome-anger",
+    "dont-try-to-change-your-partner",
     "anger-as-cover-for-deeper-emotion",
     "anger",
     "depression-four-levels",
@@ -2514,6 +2539,7 @@
     "dont-step-on-the-signal",
     "anger-as-containment-for-the-conflict-seeker",
     "emotions-as-road-signs",
+    "emotions-show-up-at-inopportune-times",
     "feeling-the-unfelt-emotion",
     "kinked-emotions",
     "sublimated-wants-become-politics",
@@ -2529,6 +2555,7 @@
     "exhaustion-is-unexpressed-anger",
     "self-judgment-protects-from-emotion",
     "unprocessed-grief-creates-conflict",
+    "unwelcomed-emotions-return-until-felt",
     "daily-emotional-yoga",
     "get-angry-in-the-car",
     "joes-angry-executive-commute",
@@ -2604,6 +2631,7 @@
     "what-are-you-defending",
     "dont-position-yourself-as-your-partners-growth-guide",
     "dont-step-on-the-signal",
+    "dont-try-to-change-your-partner",
     "fixing-people",
     "view-as-technique",
     "vulnerability-as-control",
@@ -2792,6 +2820,7 @@
     "caring-vs-caretaking",
     "enjoy-over-manage",
     "judgment-vs-discernment",
+    "letting-go-vs-doing-nothing",
     "short-term-vs-long-term-partiality",
     "wants-vs-partiality",
     "awareness-as-change-agent",
@@ -3093,6 +3122,7 @@
     "what-am-i",
     "dont-go-after-every-emotion-at-once",
     "dont-indulge-emotion-instead-of-welcoming",
+    "dont-try-to-change-your-partner",
     "view-as-technique",
     "why-questions",
     "empathy",
@@ -3112,12 +3142,15 @@
     "body-lies-as-much-as-mind",
     "choosing-the-projection-that-serves",
     "follow-the-demand",
+    "principles-free-you",
     "process-over-result",
     "right-question-over-right-answer",
     "seeing-through-projections-expands-possibility",
     "spaciousness-is-the-mechanism-of-belief-dissolution",
+    "wrestle-with-your-principles",
     "emotional-inquiry",
     "find-what-you-dont-know",
+    "hold-the-memory-of-when-you-felt-it-most",
     "how-what-questions",
     "questioning-assumptions",
     "whats-looking-out-behind-my-eyes",
@@ -3400,6 +3433,7 @@
     "embrace-vs-brace",
     "embracing-vs-creating-intensity",
     "fear-vs-excitement",
+    "principle-vs-value",
     "approach-the-pink-elephant",
     "decisions-are-emotional",
     "do-the-work-thats-harder-for-you",
@@ -3407,7 +3441,9 @@
     "enjoyment-as-path",
     "friction-is-required-for-life",
     "helplessness-is-the-gateway",
+    "principles-free-you",
     "the-gold-lies-beyond-the-afraid",
+    "wrestle-with-your-principles",
     "emotional-inquiry",
     "staying-in-your-body",
     "five-principles-of-the-path",
@@ -3465,6 +3501,18 @@
     "conflict-avoidance-prevents-healing",
     "trust-requires-conflict"
   ],
+  "dont-try-to-change-your-partner": [
+    "loyalty-under-low-affection",
+    "dont-position-yourself-as-your-partners-growth-guide",
+    "so-they-attacked-you-how-do-you-want-to-be",
+    "dont-take-responsibility-for-anothers-happiness",
+    "relationships-as-personal-growth-path",
+    "romantic-relationships"
+  ],
+  "definition-of-asshole": [
+    "loyalty-under-low-affection",
+    "triggers-reduce-when-you-know-you-can-leave"
+  ],
   "undoing-not-doing": [
     "manufacturing-the-feeling",
     "tools-to-change-not-love",
@@ -3478,6 +3526,7 @@
     "layered-resistance",
     "quit-hope-lose-cycle",
     "embrace-vs-brace",
+    "letting-go-vs-doing-nothing",
     "making-vs-allowing",
     "trying-vs-doing",
     "annihilation-reveals-what-is-real",
@@ -3485,6 +3534,7 @@
     "full-understanding-of-a-behavior-dissolves-it",
     "nature-improves-itself",
     "trust-the-awareness-dont-add-effort",
+    "trying-prevents-the-feeling",
     "emotional-inquiry",
     "hands-together-exercise",
     "seven-limiting-beliefs",
@@ -3496,11 +3546,34 @@
     "manufacturing-the-feeling",
     "dont-half-ass-the-experiment",
     "undoing-not-doing",
+    "letting-go-vs-doing-nothing",
     "making-vs-allowing",
     "gentleness-not-trying-to-be-patient",
     "trust-the-awareness-dont-add-effort",
+    "trying-prevents-the-feeling",
     "brett-slackline-metaphor",
     "joes-woods-fast-stopped-fighting"
+  ],
+  "hold-the-memory-of-when-you-felt-it-most": [
+    "manufacturing-the-feeling",
+    "trying-prevents-the-feeling",
+    "unwelcomed-emotions-return-until-felt"
+  ],
+  "trying-prevents-the-feeling": [
+    "manufacturing-the-feeling",
+    "hold-the-memory-of-when-you-felt-it-most"
+  ],
+  "fear-of-joy": [
+    "questioning-the-positive-state",
+    "blocker-emotions",
+    "definition-of-asshole",
+    "joy-as-matriarch",
+    "pleasure-capacity",
+    "enjoy-over-manage",
+    "what-we-fear-we-invite",
+    "gratitude-rounds-before-meetings",
+    "cafe-emotional-stigma",
+    "joes-laughing-meditation-retreat"
   ],
   "anger-as-cover-for-deeper-emotion": [
     "recycling-anger-without-clarity",
@@ -3623,6 +3696,7 @@
   "daily-emotional-yoga": [
     "can-you-look-forward-to-feeling-it",
     "dont-name-emotion-to-avoid-feeling",
+    "dont-try-to-change-your-partner",
     "emotions-as-road-signs",
     "fear-of-self-destruction-by-anger",
     "feeling-the-unfelt-emotion",
@@ -3688,6 +3762,7 @@
     "the-want",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
+    "letting-go-vs-doing-nothing",
     "enjoyment-as-surrender",
     "integrity-as-money-compass",
     "nature-improves-itself",
@@ -3768,6 +3843,7 @@
     "seeing-through-projections-expands-possibility",
     "stay-centered-while-holding-space",
     "emotional-inquiry",
+    "eye-contact-as-view-training",
     "how-what-questions",
     "start-stay-end-in-connection",
     "view-around-self-as-identity-diagnostic",
@@ -3781,6 +3857,7 @@
     "wonder",
     "name-your-trigger-as-vulnerability",
     "community-over-teacher",
+    "eye-contact-as-view-training",
     "view"
   ],
   "natural-shame-vs-installed-shame": [
@@ -4142,6 +4219,7 @@
     "improvement-mindset-vs-maintenance-mindset",
     "mind-unsees-first-body-last",
     "stories-are-developmental-scaffolding",
+    "wrestle-with-your-principles",
     "stages-of-emotional-development",
     "team-as-scientific-method",
     "cricket-player-up-and-down"
@@ -4155,8 +4233,12 @@
   "emotional-inquiry": [
     "dont-go-after-every-emotion-at-once",
     "dont-indulge-emotion-instead-of-welcoming",
+    "emotions-show-up-at-inopportune-times",
     "feeling-the-unfelt-emotion",
-    "meaning-change-vs-feeling-through"
+    "meaning-change-vs-feeling-through",
+    "trying-prevents-the-feeling",
+    "unwelcomed-emotions-return-until-felt",
+    "hold-the-memory-of-when-you-felt-it-most"
   ],
   "gentleness-not-trying-to-be-patient": [
     "dont-go-after-every-emotion-at-once",
@@ -4169,8 +4251,10 @@
     "frame-it-as-an-experiment",
     "see-whats-right-to-build-on-it",
     "daily-gratitude-for-your-own-transformation",
+    "eye-contact-as-view-training",
     "gratitude-around-the-problem",
-    "start-stay-end-in-connection"
+    "start-stay-end-in-connection",
+    "view"
   ],
   "dont-dismiss-exercise-before-doing-it": [
     "dont-half-ass-the-experiment"
@@ -4280,22 +4364,17 @@
     "conditions-for-transformation",
     "stages-of-emotional-development"
   ],
-  "dont-try-to-change-your-partner": [
-    "dont-position-yourself-as-your-partners-growth-guide",
-    "so-they-attacked-you-how-do-you-want-to-be",
-    "dont-take-responsibility-for-anothers-happiness",
-    "relationships-as-personal-growth-path",
-    "romantic-relationships"
-  ],
   "worthlessness-freedom": [
     "dont-position-yourself-as-your-partners-growth-guide"
   ],
   "the-clients-wisdom-not-the-teachers": [
     "dont-position-yourself-as-your-partners-growth-guide",
+    "definition-of-asshole",
     "agree-when-challenged-on-the-teaching",
     "never-rob-pain-or-gold",
     "seeing-through-projections-expands-possibility",
-    "sincerity-is-the-prerequisite"
+    "sincerity-is-the-prerequisite",
+    "unwelcomed-emotions-return-until-felt"
   ],
   "relationships-as-personal-growth-path": [
     "dont-position-yourself-as-your-partners-growth-guide",
@@ -4331,6 +4410,7 @@
     "functional-team",
     "frame-it-as-an-experiment",
     "politics-from-unclear-standards",
+    "rollout-principles-in-organization",
     "walgreens-sales-per-customer",
     "family-as-team"
   ],
@@ -4382,6 +4462,7 @@
     "everyone-is-pretending",
     "everybody-wants-the-same-kind-of-team",
     "leaders-calm-becomes-the-teams-calm",
+    "rollout-principles-in-organization",
     "aristotle-project",
     "healthcare-ceo-turnaround",
     "family-as-team",
@@ -4398,6 +4479,7 @@
     "lead-and-follow",
     "politics-from-unclear-standards",
     "principles-free-you",
+    "rollout-principles-in-organization",
     "fear-triangle",
     "team-as-scientific-method",
     "buurtzorg-nursing",
@@ -4423,6 +4505,7 @@
   ],
   "dont-confuse-embracing-fear-with-inviting-danger": [
     "dont-specialize-in-the-scariest-fear",
+    "definition-of-asshole",
     "two-words-for-fear",
     "annihilation-reveals-what-is-real",
     "emile-three-relationships-with-fear"
@@ -4543,6 +4626,8 @@
     "emotions-live-in-muscles",
     "exercises-need-body-voice-emotion",
     "stay-centered-while-holding-space",
+    "eye-contact-as-view-training",
+    "hold-the-memory-of-when-you-felt-it-most",
     "is-this-mine",
     "listening-to-impulse",
     "should-vs-want-body-check",
@@ -4771,6 +4856,7 @@
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "receive-the-apology-permeably",
     "reflect-back-to-make-partner-feel-heard",
+    "eye-contact-as-view-training",
     "view"
   ],
   "subconscious-partner-selection": [
@@ -4849,15 +4935,6 @@
     "spaciousness-is-the-mechanism-of-belief-dissolution",
     "find-the-comparable",
     "inquiry-on-limiting-beliefs"
-  ],
-  "fear-of-joy": [
-    "blocker-emotions",
-    "joy-as-matriarch",
-    "pleasure-capacity",
-    "what-we-fear-we-invite",
-    "gratitude-rounds-before-meetings",
-    "cafe-emotional-stigma",
-    "joes-laughing-meditation-retreat"
   ],
   "cafe-emotional-stigma": [
     "blocker-emotions",
@@ -4943,6 +5020,7 @@
     "tension-return-to-love-cycle",
     "connection-as-life-bottom-line",
     "connection-doesnt-require-the-other",
+    "eye-contact-as-view-training",
     "notice-and-be-grateful-for-connection",
     "start-stay-end-in-connection",
     "would-you-sell-your-ability-to-connect",
@@ -4953,9 +5031,11 @@
     "connection-as-family-metric",
     "connection",
     "depression-four-levels",
+    "principle-vs-value",
     "connection-doesnt-require-the-other",
     "connection-over-perfection",
     "principles-free-you",
+    "wrestle-with-your-principles",
     "notice-and-be-grateful-for-connection",
     "start-stay-end-in-connection",
     "would-you-sell-your-ability-to-connect",
@@ -5000,7 +5080,9 @@
   ],
   "principles-free-you": [
     "decisions-as-portfolio",
+    "definition-of-asshole",
     "empowered-vs-power",
+    "principle-vs-value",
     "acting-as-if-already-true",
     "connection-as-life-bottom-line",
     "constraints-increase-creativity",
@@ -5009,10 +5091,14 @@
     "process-over-result",
     "surrender-the-outcome-of-a-decision",
     "wanting-itself-not-what-you-want",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
     "do-the-next-most-obvious-thing",
+    "rollout-principles-in-organization",
     "team-as-scientific-method",
     "joes-hr-call-firing",
     "principled-board-decision",
+    "ray-dalio-transparency",
     "structure-and-empowerment"
   ],
   "good-decision-is-how-you-make-it-not-the-outcome": [
@@ -5038,6 +5124,7 @@
     "good-decision-is-how-you-make-it-not-the-outcome",
     "principles-free-you",
     "wanting-itself-not-what-you-want",
+    "wrestle-with-your-principles",
     "ask-from-slowness-not-intellect",
     "listening-to-impulse",
     "five-principles-of-the-path",
@@ -5085,6 +5172,20 @@
     "trust-vs-safety",
     "conditions-for-transformation"
   ],
+  "dont-do-anger-at-your-partner": [
+    "definition-of-asshole",
+    "trigger",
+    "walking-on-eggshells",
+    "victim-anger-vs-dominating-anger",
+    "say-the-thing-youre-not-saying",
+    "sadie-christopher-anger-together"
+  ],
+  "dont-specialize-in-the-scariest-fear": [
+    "definition-of-asshole"
+  ],
+  "triggers-reduce-when-you-know-you-can-leave": [
+    "definition-of-asshole"
+  ],
   "invigorated-vs-depleted-as-functionality-measure": [
     "dysfunction-as-spectrum",
     "functional-team",
@@ -5124,6 +5225,11 @@
     "head-heart-gut",
     "stages-of-emotional-development",
     "body-awareness-in-meetings"
+  ],
+  "unwelcomed-emotions-return-until-felt": [
+    "emotions-show-up-at-inopportune-times",
+    "trying-prevents-the-feeling",
+    "hold-the-memory-of-when-you-felt-it-most"
   ],
   "empathy-vs-sympathy": [
     "empathy",
@@ -5292,8 +5398,10 @@
     "three-childhood-origins-of-anger-repression",
     "reframe-boss-as-customer",
     "identity-changes-on-three-levels",
+    "triggers-reduce-when-you-know-you-can-leave",
     "anxiety-as-unarticulated-need",
     "fake-the-anger-to-let-it-move",
+    "hold-the-memory-of-when-you-felt-it-most",
     "i-exist-affirmation-against-collapse",
     "let-your-body-shake-it-out",
     "prepare-and-release-the-difficult-conversation",
@@ -5305,7 +5413,10 @@
   "dont-reflect-your-patterns-as-culture": [
     "identity",
     "leaders-calm-becomes-the-teams-calm",
+    "unconscious-principles-run-your-life",
+    "wrestle-with-your-principles",
     "gratitude-rounds-before-meetings",
+    "rollout-principles-in-organization",
     "team-as-scientific-method",
     "reducing-overwhelm-in-organizations"
   ],
@@ -5435,6 +5546,7 @@
     "capacity-to-love-other-is-capacity-to-love-self",
     "empathy-makes-you-better-at-hard-jobs",
     "subjugation-prevents-healing",
+    "triggers-reduce-when-you-know-you-can-leave",
     "feel-love-and-empowerment-as-the-same",
     "joes-board-member"
   ],
@@ -5653,13 +5765,6 @@
     "walking-on-eggshells",
     "dont-buy-the-story-validate-the-emotion"
   ],
-  "dont-do-anger-at-your-partner": [
-    "trigger",
-    "walking-on-eggshells",
-    "victim-anger-vs-dominating-anger",
-    "say-the-thing-youre-not-saying",
-    "sadie-christopher-anger-together"
-  ],
   "agreements-renegotiate-as-you-change": [
     "trigger",
     "walking-on-eggshells",
@@ -5736,7 +5841,10 @@
     "wonder"
   ],
   "wonder-vs-curiosity": [
-    "wonder"
+    "wonder",
+    "principles-free-you",
+    "wrestle-with-your-principles",
+    "five-principles-of-the-path"
   ],
   "aaron-wife-fumble-coaching": [
     "athletes-unlocking-body-intelligence-in-business",
@@ -5764,6 +5872,10 @@
     "refuse-to-be-defined-by-the-worst-act",
     "joes-laughing-meditation-retreat",
     "romantic-relationships"
+  ],
+  "questioning-the-positive-state": [
+    "fear-of-joy",
+    "enjoy-over-manage"
   ],
   "address-the-blocker-not-the-symptom": [
     "forms-of-dysfunctional-apology",
@@ -5880,6 +5992,7 @@
     "frame-it-as-an-experiment",
     "address-the-blocker-not-the-symptom",
     "the-clients-wisdom-not-the-teachers",
+    "trying-prevents-the-feeling",
     "tell-yourself-you-love-yourself-in-a-mirror",
     "the-change-or-no-change-visualization"
   ],
@@ -5909,6 +6022,7 @@
     "just-be-yourself-and-see-what-happens",
     "so-they-attacked-you-how-do-you-want-to-be",
     "feared-consequences-rarely-happen",
+    "triggers-reduce-when-you-know-you-can-leave",
     "aaron-de-la-salle-first-day"
   ],
   "become-unnecessary": [
@@ -5923,6 +6037,7 @@
   ],
   "making-vs-allowing": [
     "push-past-the-protective-frame",
+    "letting-go-vs-doing-nothing",
     "do-the-work-thats-harder-for-you",
     "surrender-the-outcome-of-a-decision"
   ],
@@ -5975,6 +6090,9 @@
     "principles-free-you",
     "pow-optimist"
   ],
+  "letting-go-vs-doing-nothing": [
+    "enjoy-over-manage"
+  ],
   "whats-the-case-against-it": [
     "enjoy-over-manage"
   ],
@@ -5994,14 +6112,20 @@
   ],
   "five-principles-of-the-path": [
     "intention-vs-goal",
+    "wonder-vs-curiosity",
     "embrace-intensity",
     "principles-free-you",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
     "conditions-for-transformation"
   ],
   "public-failure-as-leadership-modeling": [
     "lead-and-follow",
     "vulnerability-in-the-workplace",
     "welcoming-fear-in-leadership"
+  ],
+  "flow-vs-managing-reality": [
+    "letting-go-vs-doing-nothing"
   ],
   "people-pleasing": [
     "love-vs-nice"
@@ -6021,6 +6145,38 @@
     "observe-vs-move-emotion",
     "daily-emotional-yoga",
     "fake-the-anger-to-let-it-move"
+  ],
+  "ray-dalio-transparency": [
+    "principle-vs-value",
+    "principles-free-you",
+    "defining-principles-well"
+  ],
+  "wrestle-with-your-principles": [
+    "principle-vs-value",
+    "wonder-vs-curiosity",
+    "principles-free-you",
+    "unconscious-principles-run-your-life",
+    "defining-principles-well",
+    "rollout-principles-in-organization",
+    "five-principles-of-the-path",
+    "team-as-scientific-method",
+    "ray-dalio-transparency"
+  ],
+  "defining-principles-well": [
+    "principle-vs-value",
+    "principles-free-you",
+    "unconscious-principles-run-your-life",
+    "wrestle-with-your-principles",
+    "rollout-principles-in-organization",
+    "five-principles-of-the-path",
+    "team-as-scientific-method",
+    "ray-dalio-transparency"
+  ],
+  "unconscious-principles-run-your-life": [
+    "principle-vs-value",
+    "principles-free-you",
+    "wrestle-with-your-principles",
+    "five-principles-of-the-path"
   ],
   "constraints-increase-creativity": [
     "resources-vs-resourcefulness",
@@ -6108,6 +6264,7 @@
   ],
   "start-stay-end-in-connection": [
     "connection-as-life-bottom-line",
+    "eye-contact-as-view-training",
     "notice-and-be-grateful-for-connection",
     "would-you-sell-your-ability-to-connect"
   ],
@@ -6236,6 +6393,20 @@
   "principled-board-decision": [
     "principles-free-you"
   ],
+  "principle-vs-value": [
+    "principles-free-you",
+    "unconscious-principles-run-your-life",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
+    "five-principles-of-the-path",
+    "ray-dalio-transparency"
+  ],
+  "rollout-principles-in-organization": [
+    "principles-free-you",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
+    "team-as-scientific-method"
+  ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
   ],
@@ -6272,6 +6443,10 @@
     "the-pattern-is-not-personal",
     "emile-three-relationships-with-fear"
   ],
+  "dont-go-after-every-emotion-at-once": [
+    "trying-prevents-the-feeling",
+    "emotional-inquiry"
+  ],
   "truth-and-reconciliation-south-africa": [
     "unprocessed-grief-creates-conflict"
   ],
@@ -6292,9 +6467,6 @@
   ],
   "dont-use-breath-to-repress": [
     "breath-to-exit-overwhelm"
-  ],
-  "dont-go-after-every-emotion-at-once": [
-    "emotional-inquiry"
   ],
   "dont-forget-the-tool-when-things-feel-good": [
     "emotional-inquiry"
@@ -6341,6 +6513,9 @@
   "what-is-it-without-resistance": [
     "three-kinds-of-limiting-beliefs",
     "joe-ferris-wheel-ride"
+  ],
+  "eye-contact-as-view-training": [
+    "view"
   ],
   "cia-sabotage-manual": [
     "aristotle-project"

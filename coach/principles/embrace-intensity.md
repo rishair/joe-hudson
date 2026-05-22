@@ -5,7 +5,7 @@ title: "Embrace Intensity"
 aliases: ["run toward intensity", "run into it", "intensity as path", "embrace the intensity"]
 tags: ["resistance", "transformation", "courage", "principle"]
 related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path", "embrace-vs-brace", "embracing-vs-creating-intensity", "are-you-bracing-or-embracing", "embracing-intensity-as-leading-indicator", "emotional-fluidity", "sensitivity-as-byproduct", "approach-the-pink-elephant", "electric-fence-with-dog", "decisions-are-emotional", "the-gold-lies-beyond-the-afraid"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
 ---
 
 # Embrace Intensity
@@ -93,6 +93,24 @@ A useful image from venture capital: the amount of effort it takes to create a d
 Joe describes a period when he asked himself "am I bracing or embracing?" approximately ten times a day. The cadence matters. The principle is not a one-time decision; it is a moment-to-moment orientation. The question, asked often, keeps the principle alive in the body rather than letting it become a slogan.
 
 "This beautiful question that I just loved asking myself." -- Joe Hudson, Embracing Intensity
+
+## Two Embrace-Intensity Moments From Recent Coaching
+
+The principle keeps being tested. Joe gives two examples from his own current practice that illustrate what embracing intensity looks like when something hooks the specific thing that hooks in him.
+
+**The retreat participant who triggered him.** At a recent retreat, a participant was acting out something with Joe that mirrored their father dynamic. Normally this is not a bother for Joe -- it is recognizable as shame-projection, the person looking for their own healing. But this particular pattern hooked exactly with what hooks in Joe, so he got actually triggered. Taking it personally. The embrace-intensity move:
+
+"For me, the whole thing is to feel is to absolutely deeply feel that taking it personally is to feel the, 'Oh, I've done something wrong here. What am I --' allow that entire emotional experience through and then to love it and welcome it. And then, I'm no longer triggered by them and I'm able to speak to it." -- Joe Hudson, Wrestle With Your Principles
+
+The intensity was the felt sense of "I've done something wrong here." The instinct is to defend or analyze. The principle says feel it all the way through and welcome it. After the embracing, the trigger no longer operates, and Joe can speak to the situation rather than from inside the reaction.
+
+**The letter that felt like a kick in the gut.** About a year and a half earlier, someone wrote Joe a letter telling him what was right. One part felt like a kick in the gut.
+
+"I reread that letter, you know, every day for -- I don't know, it was probably about a week until there was no more kick in the gut, until I could totally be with that and there was no resistance to what they were saying." -- Joe Hudson, Wrestle With Your Principles
+
+The principle here is operating against ordinary impulses: the impulse to defend, to dismiss the letter, to argue back internally, to file it away as projection. Embracing intensity instead means returning to the source of the kick until the kick is no longer there. The mechanism is feel-through-to-completion.
+
+Both examples illustrate that even with twenty-plus years of practice, embrace-intensity is not a state one arrives at. It is a move one keeps making. The instances do not get smaller or rarer; the willingness to make the move under the same internal resistance is what changes.
 
 ## Three Integration Questions
 

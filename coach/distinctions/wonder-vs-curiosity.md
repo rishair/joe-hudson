@@ -4,8 +4,8 @@ id: wonder-vs-curiosity
 title: "Wonder vs. Curiosity"
 aliases: ["wonder not curiosity", "why wonder instead of curiosity", "open vs narrowing curiosity"]
 tags: ["VIEW", "wonder", "curiosity", "presence"]
-related: ["wonder", "view"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Introduction to VIEW"]
+related: ["wonder", "view", "five-principles-of-the-path", "wrestle-with-your-principles"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Introduction to VIEW", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
 ---
 
 # Wonder vs. Curiosity
@@ -33,6 +33,14 @@ The distinction is felt in the body. Open curiosity produces expansion. Answer-s
 Wonder is the component of VIEW that dissolves fear. A person in genuine wonder cannot simultaneously be in fight-or-flight. This is why wonder was chosen over curiosity for the framework: it points specifically to the state where the question itself relaxes the system, rather than the state where the question drives toward a resolution.
 
 Wonder also propels action differently than curiosity. Curiosity can become analytical and circular. Wonder creates movement, experiment, exploration. People in wonder do not get stuck. They follow the trail of what they do not know and it leads them somewhere new.
+
+## The Evolution in Joe's Own Principles
+
+Joe's personal principle articulation has tracked this distinction over time. The principle started as "What are you curious about right now?" -- pointed at looking for the unknown, keeping a learner's mindset. It evolved to "What's the question?" -- staying inside the inquiry rather than rushing toward an answer. The current form is just "Wonder!" with an exclamation point.
+
+"I find that wonder is a stronger force. It doesn't require me looking for an answer. It's the openness and it's the awe without the needing of an answer, which seems to drive much better decision-making, problem-solving than trying to get to the answer. That try and disconnects me." -- Joe Hudson, Wrestle With Your Principles
+
+The evolution illustrates why the word matters. Curiosity is recoverable -- you can be in it without seeking an answer -- but the gravitational pull is toward the answer. Wonder names the state directly so the pull is not toward resolution. See [[five-principles-of-the-path]] and [[wrestle-with-your-principles]] for the framing of this evolution as a worked example of principle-refinement over years.
 
 ## Sources
 

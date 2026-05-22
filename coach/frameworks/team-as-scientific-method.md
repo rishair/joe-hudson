@@ -4,7 +4,7 @@ id: team-as-scientific-method
 title: "Team Design as Scientific Method (Thesis, Principles, Metrics, Iterate)"
 aliases: ["team as scientific method", "scientific method for teams", "thesis principles metrics", "team design as experiment", "iterative team design", "the team thesis", "running the team as experiment"]
 tags: ["teams", "leadership", "organizations", "design", "iteration", "experimentation", "metrics", "principles"]
-related: ["functional-team", "structure-and-empowerment", "principles-free-you", "process-over-result", "epiphany-becomes-rut", "politics-from-unclear-standards"]
+related: ["functional-team", "structure-and-empowerment", "principles-free-you", "process-over-result", "epiphany-becomes-rut", "politics-from-unclear-standards", "wrestle-with-your-principles", "rollout-principles-in-organization", "defining-principles-well", "dont-reflect-your-patterns-as-culture"]
 sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
@@ -128,6 +128,9 @@ The framework is not "design the right team and then operate it." The framework 
 - Toward [[structure-and-empowerment]] for the structural design that supports the iteration
 - Toward [[politics-from-unclear-standards]] for what happens when the metrics are unclear
 - Toward [[principles-free-you]] for the personal analog of operating by principles
+- Toward [[wrestle-with-your-principles]] for the underlying principle that the iteration is never done
+- Toward [[rollout-principles-in-organization]] for the specific multi-step method of installing the principles component
+- Toward [[defining-principles-well]] for the criteria for what makes the principles operational
 - Toward [[dont-reflect-your-patterns-as-culture]] for the most common failure mode
 - Toward [[walgreens-sales-per-customer]] for an example of the metric choice making the difference
 
