@@ -2,10 +2,10 @@
 type: example
 id: brett-cape-town-napkins
 title: "Brett's Cape Town Napkins (Discovering the Stability That Was Already There)"
-aliases: ["the Cape Town story", "Brett broke arm in Africa", "the Long Street napkins story", "writing my name on napkins on Long Street", "the South Africa story", "the moment Brett learned internal stability", "Brett's bank account empty in South Africa", "the exchange rate collapse story", "Brett 2009 South Africa", "Cape Town freelance napkins"]
-tags: ["internal stability", "limiting beliefs", "identity", "capacity", "self-trust", "example", "BASE jumping community"]
-related: ["identity-lags-behind-growth", "knowing-yourself-is-the-only-safety", "limiting-belief", "fear-vs-excitement", "resources-vs-resourcefulness", "annihilation-reveals-what-is-real"]
-sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business"]
+aliases: ["the Cape Town story", "Brett broke arm in Africa", "the Long Street napkins story", "writing my name on napkins on Long Street", "the South Africa story", "the moment Brett learned internal stability", "Brett's bank account empty in South Africa", "the exchange rate collapse story", "Brett 2009 South Africa", "Cape Town freelance napkins", "the nostalgic return to the napkins moment", "Brett looking back at Cape Town from wealth-anxiety"]
+tags: ["internal stability", "limiting beliefs", "identity", "capacity", "self-trust", "example", "BASE jumping community", "nostalgia"]
+related: ["identity-lags-behind-growth", "knowing-yourself-is-the-only-safety", "limiting-belief", "fear-vs-excitement", "resources-vs-resourcefulness", "annihilation-reveals-what-is-real", "nostalgic-claw-for-old-identity", "nothing-is-required-for-freedom", "external-freedom-vs-internal-freedom"]
+sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # Brett's Cape Town Napkins (Discovering the Stability That Was Already There)
@@ -61,6 +61,25 @@ This is how internal stability accumulates over time: through demonstrated survi
 
 The Cape Town story is one chapter in the accumulating internal stability. See [[brett-slackline-metaphor]] for the somatic version of the same accumulation.
 
+## The Nostalgic Return From a Position of Wealth-Anxiety
+
+A few years after the original event, Brett found himself in the opposite material situation: more money than he had ever had, and more anxious about money than he had ever been. From inside that moment, he looked back on the Cape Town period nostalgically. The framing in his head: "ah, that's when I was truly free."
+
+The nostalgia was not quite honest. Cape Town had been scary. He had a broken arm, no insurance, an empty bank account, and rent paid only for the current week. The narration in the moment of wealth-anxiety was smoothing all of that out, leaving an image of freedom that the actual experience had not contained.
+
+"There was a moment when I nostalgically went back to a moment in my 20s where I was completely broke in Cape Town, South Africa... I nostalgically looked back on that time from that moment as like, ah, that's when I was truly free. And it's interesting, there's a way that I was like clawing back to an old identity at the same time as I was like trying to get out of my current one. And also there was like a deep recognition of the, like the bullshit of the story that I was in. That I was somehow not free." -- Brett Kistler, What We're Afraid to Lose
+
+Brett himself names what was happening: the nostalgia was an identity move. The wealth-anxious self was trying to disown itself by reaching back to a previous self that, in retrospect, looked freer. The previous self had not actually been freer. The reaching was the dodge of the present discomfort.
+
+See [[nostalgic-claw-for-old-identity]] for the dedicated read on this pattern. The Cape Town story is the canonical example because the actual content of the moment (capacity discovery, survival, scrambling for work) does not match the romanticized version (freedom, aliveness, being the real self).
+
+The story therefore has two layers that should not be conflated:
+
+- The original moment: discovery of capacity, demonstration of internal stability, the actual lesson. See the early sections of this article.
+- The later nostalgia: the romanticization that overwrote the actual content with a freedom narrative that served the wealth-anxious self's identity move. See the [[nostalgic-claw-for-old-identity]] read.
+
+Both happened. Both are real data about how identity uses memory. The Cape Town moment is what it is. The nostalgic return to it years later is a different phenomenon, doing different work.
+
 ## Tone
 
 Brett tells this story without drama. The events were dramatic; the telling is matter-of-fact. The point is not the heroism of the moment; the point is the recognition that came out of it. The dramatic delivery would obscure the actual teaching.
@@ -91,3 +110,4 @@ A person trying to solve a problem by accumulating more resources is not solving
 
 - 2022-11-11_But... Is It Safe?
 - 2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business (re-release of the But... Is It Safe? episode under a longer title)
+- 2023-12-07_What We're Afraid to Lose (Brett describing his later nostalgic return to the Cape Town moment from a position of wealth-anxiety, and naming the move as clawing back to an old identity)

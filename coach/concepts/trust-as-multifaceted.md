@@ -2,10 +2,10 @@
 type: concept
 id: trust-as-multifaceted
 title: "Trust Is Multifaceted"
-aliases: ["trust has many dimensions", "trust is not one thing", "kinds of trust", "multifaceted trust", "trust as multiple things", "different forms of trust", "trust of self has dimensions too", "self-trust is multifaceted", "trusting myself dimensions"]
-tags: ["trust", "teams", "relationships", "leadership", "vulnerability", "self-trust"]
-related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants", "how-do-i-trust-myself", "if-you-think-youre-deciding-youre-in-fear", "trust-as-foundation-of-team-dysfunction"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Building A Functional Team", "2022-10-26_How Do I Trust Myself？"]
+aliases: ["trust has many dimensions", "trust is not one thing", "kinds of trust", "multifaceted trust", "trust as multiple things", "different forms of trust", "trust of self has dimensions too", "self-trust is multifaceted", "trusting myself dimensions", "self-trust as scorecard", "self-trust as the internal substrate", "self-trust as the metric that can't be taken away", "trust as the scorecard substrate"]
+tags: ["trust", "teams", "relationships", "leadership", "vulnerability", "self-trust", "scorecard"]
+related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants", "how-do-i-trust-myself", "if-you-think-youre-deciding-youre-in-fear", "trust-as-foundation-of-team-dysfunction", "i-need-a-scorecard", "scorecard-keeping-as-identity-structure", "whats-the-scorecard-that-cant-be-taken-away", "knowing-yourself-is-the-only-safety"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Building A Functional Team", "2022-10-26_How Do I Trust Myself？", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
 ---
 
 # Trust Is Multifaceted
@@ -103,6 +103,25 @@ A common pattern: the person has high action-capacity trust and high perception 
 
 A deeper pattern: the trust collapse is actually fear-of-outcome dressed as a trust question. See [[if-you-think-youre-deciding-youre-in-fear]]. The person is reading the felt-decision quality of their current situation as evidence of self-trust failure. The fear is what's producing the decision-feel and the decision-feel is what's producing the trust frame. Underneath the trust question is an outcome attachment that has not been felt yet.
 
+## Self-Trust as the Internal Scorecard
+
+Self-trust has a structural role that distinguishes it from the other trusts. It can function as the scorecard for someone whose identity has organized around external metrics (money, likes, status, achievement). For someone with the [[scorecard-keeping-as-identity-structure]] read, the scorecard impulse is part of how they are made. Asking them to abandon scoring is asking them to abandon orientation. The move that works is not to remove the scorecard but to relocate the substrate.
+
+Self-trust qualifies as a substrate for the scorecard because:
+
+1. **It cannot be revoked by external forces.** The market can drop. The likes can stop. The capacity to love others can be challenged by circumstance. Self-trust is the one substrate the person has full sovereignty over.
+2. **It is measurable internally.** The body knows in any given moment whether the person trusted themselves or not. The measurement does not require external instruments.
+3. **It scales with practice.** Like any scorecard, the person can put "points on the board" by trusting themselves more, more often, in harder situations. The structural pleasure of scoring is preserved.
+4. **It often turns out to have been operating all along.** See [[identity-lags-behind-growth]]. The witness move ("if I asked your wife, how long have you been working on this?") usually reveals that self-trust has been the person's quiet operating system for years. The new scorecard is not a new project; it is the recognition of an old one.
+
+The K session shows the move. K had spent his career chasing money, then likes. Both produced oscillating self-worth and post-arrival emptiness. Joe asked: "What if that's the scorecard? How much you trust yourself? You put points on the board the more you trust yourself. Your bank account is self-trust. Or your likes are self-trust." K's response: "Feels pretty fucking awesome, which is weird because I always trusted myself when there was a scorecard."
+
+The "I always trusted myself when there was a scorecard" sentence is structurally important. The person had been doing the work of self-trust their whole life, but only within the substrate of external scoring. The move was to keep the self-trust and let the external substrate fall away. The scorecard structure stays. The substrate becomes the thing that cannot be taken away.
+
+See [[whats-the-scorecard-that-cant-be-taken-away]] for the specific question that surfaces this substrate.
+
+The move is especially useful for high-achievers whose self-worth has organized around metrics. Telling such a person "stop caring about achievement" usually does not land — the orientation toward achievement is part of how they are made. Telling them "the substrate of your achievement orientation has been wrong, but the orientation itself is fine and now points at something nothing can take away" lands because it preserves what is working and shifts what isn't.
+
 ## When Someone Experiences This
 
 - You realize you have been treating "I trust them" or "I don't trust them" as final, when the actual structure is more granular
@@ -131,3 +150,4 @@ A deeper pattern: the trust collapse is actually fear-of-outcome dressed as a tr
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_Building A Functional Team
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2023-12-08_What's Your Scorecard? (Coaching Session) — self-trust as the internal scorecard substrate for someone whose identity has organized around external metrics

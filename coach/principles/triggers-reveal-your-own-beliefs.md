@@ -4,8 +4,8 @@ id: triggers-reveal-your-own-beliefs
 title: "Defensiveness Reveals You Hold the Story You're Being Triggered By"
 aliases: ["if you're defensive you also hold the story", "defensiveness shows you agree on some level", "triggers reveal limiting beliefs", "triggers show you your ego", "defense means you bought the story", "what triggers you is what you believe", "you only get triggered by what you also think", "triggers as window into your own beliefs", "if it didn't fit you wouldn't be triggered", "the trigger is showing you your belief", "what the trigger reveals about you"]
 tags: ["principle", "trigger", "limiting beliefs", "ego", "self-awareness", "defense", "shame"]
-related: ["trigger", "limiting-belief", "voice-in-the-head", "defense", "letting-judgment-in", "mirror-the-judgment", "how-is-that-not-true-about-you", "untruth-in-every-thought"]
-sources: ["2022-09-30_Triggered"]
+related: ["trigger", "limiting-belief", "voice-in-the-head", "defense", "letting-judgment-in", "mirror-the-judgment", "how-is-that-not-true-about-you", "untruth-in-every-thought", "shame-hot-potato", "non-defense-is-the-ocean", "seeing-through-essential-wrongness"]
+sources: ["2022-09-30_Triggered", "2023-12-22_The Shame Hot Potato"]
 ---
 
 # Defensiveness Reveals You Hold the Story You're Being Triggered By

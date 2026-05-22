@@ -2,10 +2,10 @@
 type: principle
 id: decisions-are-emotional
 title: "Decisions Are Emotional"
-aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion", "SWOT analysis is emotional", "pro and con lists are emotional", "Darwin's marriage list is emotional", "the intellect serves the emotional question of how you'll feel", "decisions from depression produce depression", "happy people make happy decisions", "the billion dollars but miserable thought experiment", "depression breeds depression", "the three mechanisms of embracing", "three mechanisms of transformation through emotion"]
+aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion", "SWOT analysis is emotional", "pro and con lists are emotional", "Darwin's marriage list is emotional", "the intellect serves the emotional question of how you'll feel", "decisions from depression produce depression", "happy people make happy decisions", "the billion dollars but miserable thought experiment", "depression breeds depression", "the three mechanisms of embracing", "three mechanisms of transformation through emotion", "10,000 choices a day", "ten thousand choices a day", "stuck in your head meaning emotional bypass", "the three feared emotional consequences in decisions", "fear of rejection shame helplessness in decisions", "bad decisions come from fear of emotional consequences", "your choices determine everything", "all our bad decisions come from fear"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
 related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling", "body-lies-as-much-as-mind", "good-decision-is-how-you-make-it-not-the-outcome", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "shame-as-disconnection", "self-judgment-protects-from-emotion", "embracing-changes-unconscious-decisions"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-12-19_Great Decisions Course ｜ Official Trailer"]
 ---
 
 # Decisions Are Emotional
@@ -49,6 +49,30 @@ Gödel showed that all logical systems are either incomplete or rest on a postul
 "It's not because their rationale is good or bad, it's because they have different postulates behind their rationale." -- Joe Hudson, Feel over Figure
 
 This is also why [[judgment-vs-discernment]] matters in decision-making. Judgments are decisions made through the lens of an unfelt emotion. Discernment is clean reading of the data.
+
+## The Three Specific Feared Emotional Consequences
+
+The "fear of feeling" that distorts decisions can be named more precisely. Across the population of bad decisions, three emotional consequences do most of the work as the avoided feeling:
+
+- The fear of feeling **rejected**.
+- The fear of feeling **ashamed**.
+- The fear of feeling **helplessness**.
+
+"All our bad decisions come from our fear of emotional consequences. We don't want to feel rejected, we don't want to be ashamed, and we don't want to experience helplessness." -- Joe Hudson, Great Decisions Course Trailer
+
+Naming these three sharpens the diagnostic for an AI coach. When a decision is feeling impossible, the question is not "what is the right choice?" The question is "which of these three am I trying to avoid feeling, on which branch?" The avoided feeling is usually one of these three or a compound of them. Rejection lives behind decisions about reaching out, asking, performing, exposing. Shame lives behind decisions about acknowledging, apologizing, taking action that could go badly. Helplessness lives behind decisions about action where outcome cannot be controlled -- the largest investments, the loss-of-loved-ones questions, the chronic-illness paths. See [[shame-as-disconnection]], [[helplessness-as-cayenne-pepper-of-fear]], and the rejection material in [[anxious-avoidant-dynamic]].
+
+The corrective is the same as the general principle: become someone who can feel rejection, shame, and helplessness without being destroyed by them. Then those feelings stop being deciding-criteria. The decision becomes about what is actually wanted, not about which branch lets the person avoid which of the three.
+
+## "Stuck in Your Head" Is the Folk Name for Emotional-Center Bypass
+
+A person whose decisions are being routed around their emotional center -- who is trying to think their way through what is actually an emotional question -- is colloquially described as "stuck in their head." The phrase is the everyday language for the neurological dysfunction the principle describes.
+
+"In most cases, we think we can discover the right path through thinking and analysis. But modern neurology shows us that we make decisions in the emotional center of the brain. If that emotional center got injured, it would take us hours to decide where to have lunch. Our life would fall apart. It's what we mean when we say someone is stuck in their head." -- Joe Hudson, Great Decisions Course Trailer
+
+This is useful as a detection cue. A person reporting "I'm stuck in my head about this" is reporting the exact failure mode the principle predicts: the emotional substrate is being bypassed and the intellect is being asked to do work it cannot do alone. The coaching move is not to give them better thinking tools. It is to surface the felt material the thinking has been substituting for.
+
+The "10,000 choices a day" framing -- the marketing-friendly version of "a hundred decisions a minute" -- carries the same teaching. Most of those 10,000 happen without ever feeling like decisions. The handful that do feel like decisions are exactly the ones in which the emotional center is being bypassed and the intellect is being asked to substitute. See [[if-you-think-youre-deciding-youre-in-fear]] for the related diagnostic about the felt-quality of deciding being itself the fear-signature.
 
 ## Indecisiveness Is Fear of the Feeling on Either Side
 
@@ -190,3 +214,4 @@ Each mechanism reinforces the others. Better decisions reduce the situations tha
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the depression-breeds-depression formulation; the billion-dollars-but-miserable thought experiment; the three-mechanisms framing tying decisions to pattern interruption and connection)
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the indecisiveness-is-fear-of-the-feeling formulation, including the often-missed half about fear of getting it right; the framing of decisiveness as a downstream benefit of emotional fluidity)
+- 2023-12-19_Great Decisions Course | Official Trailer (the three named feared emotional consequences -- rejection, shame, helplessness -- that drive bad decisions; the "stuck in your head" folk gloss for emotional-center bypass; the "10,000 choices a day" marketing-friendly formulation of the hundred-decisions-a-minute principle)

@@ -2,10 +2,10 @@
 type: principle
 id: money-relationship-is-an-energetic-exchange
 title: "How You Treat Money Determines How Money Treats You"
-aliases: ["money is an energetic exchange", "the way you treat money is how money treats you", "money mirrors the relationship", "energetic exchange with money", "money is less material more energetic", "money like a person at a bar", "money works for me I don't work for money", "money as energy not material", "the attitude you bring to money", "money mirrors your attitude", "money relationship as energetic"]
+aliases: ["money is an energetic exchange", "the way you treat money is how money treats you", "money mirrors the relationship", "energetic exchange with money", "money is less material more energetic", "money like a person at a bar", "money works for me I don't work for money", "money as energy not material", "the attitude you bring to money", "money mirrors your attitude", "money relationship as energetic", "your stance toward your money correlates with what happens to it", "money as burden vs blessing affects what money does", "guilt about money makes money leave", "the privilege guilt that loses the money", "the specific quality of relationship-to-money matters"]
 tags: ["money", "energy", "principle", "alignment", "relationship", "projection", "self-relationship"]
-related: ["money-must-flow", "money-is-impersonal", "money-as-surrogate", "money-domain", "integrity-as-money-compass", "joes-pleasing-dad-money-story", "expensive-to-be-poor", "consciousness-is-the-product"]
-sources: ["2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
+related: ["money-must-flow", "money-is-impersonal", "money-as-surrogate", "money-domain", "integrity-as-money-compass", "joes-pleasing-dad-money-story", "expensive-to-be-poor", "consciousness-is-the-product", "what-we-fear-we-invite", "nothing-is-required-for-freedom"]
+sources: ["2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # How You Treat Money Determines How Money Treats You
@@ -54,6 +54,28 @@ The diagnostic for whether the principle is being lived (versus performed): how 
 
 The body's response is more reliable than the words. A person can talk eloquently about money being an energetic exchange while still bracing every time a money decision arises. The brace is the data.
 
+## The Specific Quality of the Relationship Matters
+
+Beyond "good relationship vs bad relationship," the specific quality of the stance correlates with what happens to the money. Joe describes a clear set of stances and their typical consequences:
+
+**Burden + deservedness ("this money is a burden, and I deserve the burden"):** The money usually stays. The grim relationship sustains the having.
+
+**Blessing + deservedness ("this money is a blessing, and I deserve the blessing, and I feel great about this blessing"):** The money usually stays. The clean relationship sustains the having.
+
+**Good thing + avoidance ("this money is good, but it's making me avoidant"):** Mixed outcomes. The avoidance often metabolizes through the loss.
+
+**Privilege + guilt ("I'm privileged and I should have a certain amount of guilt around this money"):** The money tends to leave more quickly than it would otherwise.
+
+"Without a doubt, I noticed that people's relationship with the money that they have or they don't have is -- is -- has a big -- has a big correlation with what happens to the money that they have or they don't have." -- Joe Hudson, What We're Afraid to Lose
+
+The pattern is not a perfect algorithm. Joe is explicit about this. People with the same financial situations and the same external strategies have different outcomes that track the specific quality of their relationship to the money. The relationship is not the only variable, but it is a variable that often gets ignored because it is harder to see than the strategy variables.
+
+The guilt case is particularly worth naming. The well-meaning person who feels guilty about wealth often manifests this through avoidance behaviors -- not asking for what their work is worth, refusing high-paying clients, making unreflective gifts that they later resent, paying too much for things they do not need. Each behavior, in isolation, has its own justification. The pattern, taken together, is the slow exit of the money. The guilt was the producer of the avoidance behaviors that produced the loss.
+
+This connects to [[what-we-fear-we-invite]] in a specific form. The person who is "scared of losing the money" through guilt -- through the felt belief that they do not deserve to have it -- creates exactly the conditions under which the money will leave. The fear was producing the avoidance. The avoidance was producing the conditions of the loss. The loss confirmed what the fear had been saying all along.
+
+The same structure holds across each stance. The stance is not a passive observation of the money. It is part of the architecture of what the money does next.
+
 ## In Coaching
 
 For a coachee whose money work has been at the level of strategy (budgeting, earning more, saving more) without producing movement, the principle is often what is missing. The strategy is downstream of the relationship. Working on the strategy without working on the relationship produces the same outcome in a new form.
@@ -94,3 +116,4 @@ Practical, slightly experiential. Joe describes this as something he discovered 
 
 - 2023-07-07_Much Ado About Money
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
+- 2023-12-07_What We're Afraid to Lose (the specific stance-to-outcome correlations: burden+deservedness, blessing+deservedness, good+avoidance, privilege+guilt; the privilege-guilt case as the most common producer of loss)

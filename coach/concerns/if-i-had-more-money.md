@@ -2,9 +2,9 @@
 type: concern
 id: if-i-had-more-money
 title: "If I had more money, I could solve my problems"
-aliases: ["money will solve it", "I just need more money", "if I had enough money", "money would fix this", "I'd be free if I had more money", "more money is the answer", "money is the solution"]
-tags: ["money", "scarcity", "surrogate", "concerns", "shoulds", "security"]
-sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
+aliases: ["money will solve it", "I just need more money", "if I had enough money", "money would fix this", "I'd be free if I had more money", "more money is the answer", "money is the solution", "I'm scared I'll lose my money", "I'm scared if I lost my money I'd go back to my old ways", "if I lose the money I'll have to drive myself with fear again", "the post-acquisition money anxiety", "I made it and now I'm scared to lose it"]
+tags: ["money", "scarcity", "surrogate", "concerns", "shoulds", "security", "freedom"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You", "2023-11-24_What We're Afraid to Lose", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # If I had more money, I could solve my problems
@@ -64,8 +64,25 @@ Joe will not be aggressive about removing the money frame either. The frame is d
 
 The same underlying mechanism produces the opposite presentation: "money is bad / I don't want to play that game." Same surrogate, opposite stance. See [[money-is-bad]]. The coaching path converges at the same destination -- locating what money is actually standing in for and feeling the underlying charge -- after which money becomes [[money-is-impersonal]].
 
+## The Post-Acquisition Phase: "I Made It and Now I'm Scared to Lose It"
+
+The concern has a second presentation that looks different but is the same. A person who already acquired the money and now feels the freedom they thought it would deliver as conditional on keeping it. The fear is not "I don't have enough" but "If I lose this, I'll have to go back to my old ways." The anxiety has not changed substance. It has changed direction.
+
+A canonical example: a group of founders who have achieved material success, are now investing in workshops and retreats and therapy, and express the concern that if their resources dried up they would have to return to driving themselves with fear and anxiety to get the money back. The dependency on the money is the same dependency it was before they had the money. The freedom they have now is contingent on retaining the resources. That contingent freedom is not the freedom Joe is naming.
+
+"They're still in it. Like if they... they're scared that if they... they need something to be happy, the anxiety, it hasn't changed, right? The 'I was anxious that I needed to get this money' and now 'I'm anxious that it's gonna go.' I'm anxious that I'm incomplete without money is... it hasn't changed, right? That anxiety is still there." -- Joe Hudson, What We're Afraid to Lose
+
+The diagnostic for the post-acquisition version is to notice that the felt structure has the same shape as the pre-acquisition version. The same anxiety, with a different object. The work is not to acquire more money or to protect what is there. The work is to address the underlying belief that the freedom depends on the money in either direction. See [[what-we-fear-we-invite]] for the related principle that the avoidance behaviors built around protecting X often produce the loss of X.
+
+## The Generalized Form: Same Trap, Any X
+
+The structure "once I have X, then I'll be free" runs identically with money, with a partner, with a body, with awakening, with healing, with approval. The money form is the most common because money is the most legible currency the modern world makes available, but the trap is the trap regardless of what X is. See [[i-have-to-X-to-be-free]] for the generalized concern and [[nothing-is-required-for-freedom]] for the principle that addresses all forms of the trap.
+
+This means that even after the money form has been worked, a person can carry the same structure into the next domain. They stop chasing money and start chasing awakening. They stop chasing awakening and start chasing the right relationship. The content changes; the structure does not. The work has to be on the structure itself, not just on its current content.
+
 ## Sources
 
 - 2021-04-23_Money Can't Save You
 - 2021-05-07_Money Can't Oppress You
 - 2022-10-26_Money Can't Save You
+- 2023-11-24_What We're Afraid to Lose (the post-acquisition phase of the same concern -- the founder group whose anxiety changed object from "I need to get the money" to "I'm afraid to lose the money" without changing substance; the generalization that the same trap structure runs across money, partner, body, awakening, healing)

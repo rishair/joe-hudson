@@ -2,9 +2,9 @@
 type: move
 id: ask-the-witnesses
 title: "Ask the Witnesses"
-aliases: ["what would they say", "if we asked the women in your life", "the witness move", "imagined third-party reports", "the third-party prompt"]
-tags: ["moves", "perspective-taking", "data", "stories"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+aliases: ["what would they say", "if we asked the women in your life", "the witness move", "imagined third-party reports", "the third-party prompt", "ask the wife move", "if I asked your wife", "the spouse-witness move", "the witness move for long-standing capacity", "the witness move for self-trust", "what would they say you've been doing all along", "ask the people who have watched you"]
+tags: ["moves", "perspective-taking", "data", "stories", "self-trust", "identity-update"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
 ---
 
 # Ask the Witnesses
@@ -53,6 +53,26 @@ The person's self-story was that he was uncommitted. The witnesses he summoned a
 - For pattern detection: "Has anyone in your life ever said something to you about this?"
 - For testing the harshness of self-judgment: "Would your closest friend describe you this way?"
 - For surfacing strengths the person discounts: "If I asked the people who work with you what they appreciate, what would they say?"
+- **For surfacing a long-standing practice the person doesn't realize they've been doing:** "If I asked your wife how long you've been working on X, what would she say?" The X is usually whatever capacity the person has just newly noticed in themselves but is treating as if it's new. The witness reveals it has been operating all along.
+
+## The Long-Standing-Practice Variation
+
+A specific use of this move: when the person has just located something inside themselves (self-trust, capacity to love, integrity) as a new substrate for their identity, but is treating it as a brand-new project they have to start working on. The witness move shows the practice has been operating their whole life.
+
+The move directly addresses the [[identity-lags-behind-growth]] gap. The person's self-image hasn't caught up to the capacity that has actually been developing. The witness names what the people around the person have already been seeing.
+
+The K session shows the canonical form:
+
+- **Joe:** "Let's see if that's true. So we have this metric that we just found out, which is like trust points on the board are how well am I, how am I trusting myself? That's how we score it. How long now that we have that scorecard, can you look back and tell me how long you've been playing that game? If I asked your wife, how long has K been working on trusting himself, what would her answer be?"
+- **K:** "Something like, he's always has."
+- **Joe:** "Yeah."
+- **K:** "Or she might even be more extreme. It's like, you know, it's just a part of who he is."
+- **Joe:** "Yeah, right. So we're just looking at an orientation to a movement that you have in you naturally."
+- *(Source: What's Your Scorecard? — the move that reframed self-trust from new project to lifetime practice.)*
+
+The person's anxiety about "I just heard this an hour ago, how do I keep it for more than two weeks?" dissolves when the witness data shows the orientation has been there for decades. The fear of forgetting is the fear of losing something new. The witness move shows there is nothing new to lose. The orientation predates the recognition.
+
+This variation is especially powerful when paired with [[whats-the-scorecard-that-cant-be-taken-away]]. The inversion question locates the internal substrate. The witness move proves the substrate has been operating all along. Together they install the new scorecard as the recognition of an old practice rather than as the adoption of a new one.
 
 ## What Comes Next
 
@@ -68,7 +88,14 @@ Warm, curious, slightly playful. Not cross-examining. The energy is "I'm just cu
 
 - [[mirror-the-judgment]]: a related move for when the person is judging someone else and that judgment also applies to them.
 - [[not-sometimes-right-now]]: complementary in that both moves collapse the distance between the story and the lived reality.
+- [[whats-the-scorecard-that-cant-be-taken-away]]: the question this move often follows; together they install an internal substrate as the recognition of a lifetime practice rather than a new project.
+
+## Related Principles
+
+- [[identity-lags-behind-growth]]: the principle that explains why this move works; the witness sees the capacity the self-image hasn't caught up to.
 
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2023-12-08_What's Your Scorecard? (Coaching Session)
+- 2023-12-08_What's Your Scorecard？ (Coaching Session) — alternate release of the same session including the podcast intro/outro framing

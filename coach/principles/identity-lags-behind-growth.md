@@ -2,10 +2,10 @@
 type: principle
 id: identity-lags-behind-growth
 title: "Identity Lags Behind Your Actual Growth"
-aliases: ["identity lags behind growth", "your identity is behind your actual capacity", "you have already grown more than you think", "the gap between actual capacity and self-image", "your self-image is behind your real capability", "the lag between growth and identity", "growth happens before you see it", "you have grown but your story hasn't caught up", "the always-already grown principle", "internal stability was always there"]
+aliases: ["identity lags behind growth", "your identity is behind your actual capacity", "you have already grown more than you think", "the gap between actual capacity and self-image", "your self-image is behind your real capability", "the lag between growth and identity", "growth happens before you see it", "you have grown but your story hasn't caught up", "the always-already grown principle", "internal stability was always there", "self-trust was always there", "the work was already happening", "you've been playing this game your whole life", "your wife would tell you you've always done it", "the witness sees what the self-image doesn't", "the new scorecard turns out to be a lifetime practice", "the orientation has been there the whole time"]
 tags: ["identity", "growth", "limiting beliefs", "self-trust", "stability", "principle"]
-related: ["limiting-belief", "knowing-yourself-is-the-only-safety", "epiphany-vs-transformation", "stages-of-emotional-development", "wants-deepen-as-you-follow-them", "self-realization", "trust-as-multifaceted"]
-sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business"]
+related: ["limiting-belief", "knowing-yourself-is-the-only-safety", "epiphany-vs-transformation", "stages-of-emotional-development", "wants-deepen-as-you-follow-them", "self-realization", "trust-as-multifaceted", "ask-the-witnesses", "whats-the-scorecard-that-cant-be-taken-away", "scorecard-keeping-as-identity-structure"]
+sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
 ---
 
 # Identity Lags Behind Your Actual Growth
@@ -96,6 +96,20 @@ There is a life-level lag: the person has navigated situations the identity woul
 
 Both forms are addressable by the same recognition: trust what you have actually done over what you tell yourself about who you are.
 
+## The Witness Form of the Recognition
+
+A specific way the lag gets surfaced: ask the people who have actually watched the person what they would say about the capacity in question. The witnesses see the capacity that the self-image hasn't admitted yet. See [[ask-the-witnesses]] for the move that operationalizes this.
+
+The K session shows the canonical form. K had just located self-trust as a new substrate for his identity (replacing the external scorecards of money and likes). His anxiety about it was the standard one: "I just heard this an hour ago, how is the imprint of money 44 years and the imprint of trust 1 hour?" The anxiety treats the new substrate as a new project to be maintained.
+
+The witness move reframes it. "If I asked your wife, how long has K been working on trusting himself, what would her answer be?" K's answer: "Something like, he's always has. Or she might even be more extreme. It's just a part of who he is."
+
+The orientation toward self-trust had been operating for decades. It was not a new project. It was the recognition of an old practice. The fear of forgetting was the fear of losing something new. The witness data showed there was nothing new to lose.
+
+This pairs the principle with a specific coaching move: when a person locates a new substrate (self-trust, capacity to love, integrity, presence) and immediately worries about losing it, ask what the witnesses would say. The witnesses usually report the practice has been there all along. The identity then has the opportunity to update around what the witnesses already see.
+
+The pattern: scorecards, capacities, and orientations all tend to have been operating for much longer than the person realizes. The work is not to develop them. The work is to update the self-image around what has already been developed. See [[scorecard-keeping-as-identity-structure]] and [[whats-the-scorecard-that-cant-be-taken-away]] for the specific application to the scorecard concern.
+
 ## Tone
 
 This principle is delivered with calm. There is no urgency to convince. The recognition is more often a quiet "oh" than a dramatic shift. The person notices, somewhat to their surprise, that they have already been handling things their identity said they couldn't.
@@ -119,3 +133,5 @@ This principle is delivered with calm. There is no urgency to convince. The reco
 
 - 2022-11-11_But... Is It Safe?
 - 2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business (re-release of the But... Is It Safe? episode under a longer title)
+- 2023-12-08_What's Your Scorecard? (Coaching Session) — the witness-form of the recognition; K's self-trust orientation surfaced as a lifetime practice rather than a new project
+- 2023-12-08_What's Your Scorecard？ (Coaching Session) — alternate release of the same session including the podcast intro/outro framing

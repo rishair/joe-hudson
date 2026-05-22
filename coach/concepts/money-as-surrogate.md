@@ -2,10 +2,10 @@
 type: concept
 id: money-as-surrogate
 title: "Money as Surrogate"
-aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money", "money and spirituality as parallel surrogates", "money and awakening as the same projection", "the linkage with fame and status", "status as money surrogate", "fame as money surrogate"]
-tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection", "status", "spirituality"]
-related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
+aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money", "money and spirituality as parallel surrogates", "money and awakening as the same projection", "the linkage with fame and status", "status as money surrogate", "fame as money surrogate", "the scorecard-swap pattern", "money to likes to notoriety is the same surrogate", "swapping scorecards doesn't change the surrogate"]
+tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection", "status", "spirituality", "scorecard"]
+related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "i-need-a-scorecard", "scorecard-keeping-as-identity-structure", "whats-the-scorecard-that-cant-be-taken-away"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
 ---
 
 # Money as Surrogate
@@ -88,6 +88,16 @@ The question Joe raises: what would happen if humans put their faith in somethin
 
 This is the structural framing of the surrogate problem at the social level. The relationship with money does not heal at the level of money, individually or collectively. It heals when faith finds a different object.
 
+## The Scorecard-Swap Pattern
+
+A specific form the surrogate takes: a person notices that one scorecard (money) isn't delivering and switches to another (likes, attention, notoriety, recognition). The new scorecard runs the same operation in the same place. The substrate changes; the function does not. This is the surrogate analysis at the level of measurement: it is not just that money is standing in for love; it is that any external metric will stand in for love as long as the substitution is happening.
+
+The K session shows the pattern explicitly. K spent his early career chasing money. He "kind of achieved some of those and then kind of very quietly said, well, I don't care about those things, but instead I want likes and attention and notoriety and people to talk about me." The pivot felt like personal growth. The structure was identical: an external metric was being used to answer the question "am I okay?"
+
+What makes this version of the surrogate especially insidious: the person feels they have done growth work because they have noticed one scorecard was empty. The new scorecard is dressed in the language of meaning (likes feel more "human" than money) and so feels like an upgrade. But the same childhood imprint, the same need for an external verdict on okayness, is operating. The substrate switch is the symptom; the structure is the disease.
+
+The coaching implication: when a person reports "I used to care about money but now I care about X," check what X is doing. If X is delivering oscillating self-worth in the same way money used to, the surrogate has not changed; it has only shifted substrate. The work is at the substrate level. See [[scorecard-keeping-as-identity-structure]] for the diagnostic read and [[whats-the-scorecard-that-cant-be-taken-away]] for the move that invites an internal substrate.
+
 ## Status, Fame, and Power as the Same Surrogate
 
 The surrogate mechanism does not isolate to money. It extends to anything in the same conceptual family. For Joe, the linkage was direct: his father's pursuit of money was experienced as a pursuit of status, so anything that read as status (fame, notoriety, cachet, power) became loaded with the same charge.
@@ -157,3 +167,4 @@ This pairs with the broader question about faith objects: community satisfies th
 - 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)
 - 2023-07-07_Much Ado About Money (the status/fame/notoriety linkage, the awakening-as-parallel-surrogate framing, the "hurdle after hurdle" recognition)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
+- 2023-12-08_What's Your Scorecard? (Coaching Session) — the scorecard-swap pattern; K's money-to-likes-to-notoriety pivot as the surrogate switching substrate while keeping the same function

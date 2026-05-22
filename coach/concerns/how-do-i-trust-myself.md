@@ -65,6 +65,12 @@ The deepest layer often surfaces last: a recent hurt taught the person that goin
 
 Patient, persistent, slightly playful. Joe doesn't engage the intellectual machinery of the question. He keeps redirecting from "how do I know" to "what is happening right now in your body." He treats the elaborate question-frame with mild dismissal -- not contempt, but the friendly indifference of someone who is not going to follow the bait into the head.
 
+## Related Concerns
+
+The trust question often surfaces as the deeper layer underneath other presenting concerns. Most notably:
+
+- [[i-need-a-scorecard]] — when a person whose identity has organized around external scoreboards is asked what could replace the scorecard, "trusting myself" often surfaces as the internal substrate. The path runs in the opposite direction: from scorecard concern down into the trust question. The two concerns are deeply linked because the absence of a scorecard exposes the absence of self-trust that the scorecard had been substituting for.
+
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)

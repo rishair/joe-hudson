@@ -2,10 +2,10 @@
 type: principle
 id: caretaking-prevents-the-bottom
 title: "Caretaking Prevents the Bottom That Healing Requires"
-aliases: ["enabling prevents recovery", "no bottom no healing", "the wealthy alcoholic principle", "caretaking strengthens the dynamic", "caretaking trains the behavior"]
+aliases: ["enabling prevents recovery", "no bottom no healing", "the wealthy alcoholic principle", "caretaking strengthens the dynamic", "caretaking trains the behavior", "wealth insulates from the bottom needed for recovery", "the no-pressure-to-recover problem with wealth", "independently wealthy alcoholics least likely to recover", "no immediacy no recovery"]
 tags: ["caretaking", "addiction", "consequences", "recovery", "enabling", "principle"]
-related: ["caring-vs-caretaking", "what-is-truly-compassionate", "victim-stance-invites-abuse", "shame-drives-behavior", "boundary-with-vs-boundary-against"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+related: ["caring-vs-caretaking", "what-is-truly-compassionate", "victim-stance-invites-abuse", "shame-drives-behavior", "boundary-with-vs-boundary-against", "external-freedom-vs-internal-freedom", "embrace-intensity"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # Caretaking Prevents the Bottom That Healing Requires
@@ -27,6 +27,12 @@ The structure: recovery typically requires the consequences of the behavior to b
 In both cases, the conditions for recovery are absent. The wealth and the caretaking function identically: as insulation from the natural feedback the behavior would otherwise produce.
 
 The whole Al-Anon tradition exists to teach this. "There are whole rooms of Al-Anon built to teach those living with addicts how to take care of themselves and not take care of the addict."
+
+In a later conversation, Joe extends the same observation to argue against working with extremely wealthy people who do not have a project. The same insulation that prevents the alcoholic from recovering also prevents the wealthy person from doing the work that produces transformation. Without immediacy, without something that can fall apart, without the friction of needing to engage, the work becomes entertainment.
+
+"If you look at the data on who is least likely to recover from alcoholism, it's independently wealthy people that don't need to work... There's no flaming field, if you will. There's no immediacy that creates a drive to make their life better. There's nothing that can fall apart as easily as like losing your job and not being able to feed your family. So you can just keep on drinking." -- Joe Hudson, What We're Afraid to Lose
+
+The generalization: the principle is not only about caretaking and addiction. It is about the structural relationship between consequence and growth. Anything that insulates a person from consequence -- wealth, caretakers, status, a system that absorbs their mistakes -- tends to suppress the conditions for growth in that domain. The insulation is comfortable in the short term and costly in the long term. See [[external-freedom-vs-internal-freedom]] for the related distinction about how external freedom (resources) can become an obstacle to internal freedom (state).
 
 ## The Generalization Beyond Addiction
 
@@ -115,3 +121,4 @@ The principle delivered with care can produce a substantial reframe. The person 
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2023-12-07_What We're Afraid to Lose (the wealthy alcoholic example as direct evidence; the extension to why Joe declines wealthy clients without projects; the no-immediacy-no-recovery argument)

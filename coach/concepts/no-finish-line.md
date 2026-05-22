@@ -4,8 +4,8 @@ id: no-finish-line
 title: "No Finish Line"
 aliases: ["the arrival fantasy", "no done state", "no heaven", "no completion", "the residual religion", "the finish line story", "the I'll arrive story", "the when I'm enlightened story", "I'll be there when", "carrot on a stick", "conditional happiness", "future-located happiness", "holding connection hostage to the future"]
 tags: ["arrival", "religion", "improvement", "story", "concept", "process", "connection"]
-related: ["improvement-vs-authenticity", "process-over-result", "wanting-itself-not-what-you-want", "self-realization", "epiphany-becomes-rut", "integration", "musk-deer-parable", "what-if-there-is-no-finish-line", "connection", "connection-as-life-bottom-line"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-04-29_Connection- A State Beyond States"]
+related: ["improvement-vs-authenticity", "process-over-result", "wanting-itself-not-what-you-want", "self-realization", "epiphany-becomes-rut", "integration", "musk-deer-parable", "what-if-there-is-no-finish-line", "connection", "connection-as-life-bottom-line", "nothing-is-required-for-freedom", "external-freedom-vs-internal-freedom", "joy-of-accomplishment-is-the-absence-of-wants"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-04-29_Connection- A State Beyond States", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # No Finish Line
@@ -84,6 +84,20 @@ This applies to people who have achieved everything they were chasing and still 
 
 The instruction is not to give up on the future conditions. It is to stop using them as the price of admission to being alive now.
 
+## The Freedom Version: "I'll Be Free When..."
+
+The same finish-line structure operates around the word "freedom." The person says: I'll be free when I have the money. I'll be free when I'm meditating cleanly. I'll be free when my partner loves me right. I'll be free when I've healed the thing. Each statement places freedom on the other side of a condition.
+
+The condition is the structure of the trap, not the path through it. See [[nothing-is-required-for-freedom]] for the full treatment. The freedom that is being chased is structurally available now. The chase is what holds it at a distance.
+
+A specific feature of the freedom version: the conditions can be acquisitive ("when I have X") or renunciatory ("when I no longer need X"). Both are conditions. "I'll be free when I have the partner" and "I'll be free when I stop caring whether I have the partner" are the same trap with opposite content. The structure is the placing of freedom on the other side of any condition.
+
+"Once I meditate long enough, I will be free is like, is a big trap. Once I have enough money, I'll be free is a big trap. Once I get it, once I listen to the guru long enough and I get it, then I'll be free... Or I have to stop caring whether people love me to be free. Like, all of it's BS." -- Joe Hudson, What We're Afraid to Lose
+
+The disproof of the freedom-conditions is structural: the conditions, even when met, never produce the freedom they were supposed to produce. There is the brief window of the joy when a condition is met (see [[joy-of-accomplishment-is-the-absence-of-wants]] for the mechanism), then a new condition spins up, then the chase resumes. The freedom is what was there before the conditions installed themselves and what would be there if they dissolved.
+
+The freedom version of the finish line is also where [[external-freedom-vs-internal-freedom]] becomes operational. The conditions that feel necessary are typically conditions on the external-resources kind of freedom. The freedom that is actually being sought is the felt-state kind, which has no conditions. The category error -- chasing the second through the conditions for the first -- is what keeps the structure self-sealing.
+
 ## Cover-Ups Keep Showing Up
 
 Once the finish-line story has been seen, automatic ways of covering up the present continue to show up. Each one is a small instance of the same arrival logic. "How do I keep this?" "What about my taxes?" "What's the next step?" Each is the mind trying to put the present moment back into preparation-for-future mode.
@@ -125,3 +139,4 @@ Spacious, quiet. Joe does not deliver this as a teaching but as an inquiry. "Wha
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
 - 2022-04-29_Connection: A State Beyond States (the "I'll be there when..." conditional connection pattern)
+- 2023-12-07_What We're Afraid to Lose (the freedom-specific version of the finish-line: "I'll be free when X" as the universal structure; the acquisitive vs renunciatory forms of the condition; the link to the joy-of-accomplishment mechanism)

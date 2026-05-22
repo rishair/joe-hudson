@@ -4132,15 +4132,123 @@
     },
     {
       "folder": "2023-11-24_What We're Afraid to Lose",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T12:01:44Z",
+      "articles_created": [
+        "nothing-is-required-for-freedom",
+        "external-freedom-vs-internal-freedom",
+        "i-have-to-X-to-be-free",
+        "end-of-the-fight-is-the-freedom",
+        "what-do-you-think-you-need-to-be-free",
+        "caregiving-softens-the-self",
+        "mandela-prison-freedom",
+        "hitchhiking-freedom",
+        "dont-make-self-discovery-entertainment"
+      ],
+      "articles_updated": [
+        "if-i-had-more-money",
+        "what-we-fear-we-invite",
+        "same-scarcity-story-regardless-of-wealth"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T12:15:35Z"
+    },
+    {
+      "folder": "2023-12-07_What We're Afraid to Lose",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:02:51Z",
+      "articles_created": [
+        "joy-of-accomplishment-is-the-absence-of-wants",
+        "where-you-are-is-the-lesson",
+        "nostalgic-claw-for-old-identity"
+      ],
+      "articles_updated": [
+        "nothing-is-required-for-freedom",
+        "external-freedom-vs-internal-freedom",
+        "caregiving-softens-the-self",
+        "end-of-the-fight-is-the-freedom",
+        "dont-make-self-discovery-entertainment",
+        "mandela-prison-freedom",
+        "i-have-to-X-to-be-free",
+        "what-do-you-think-you-need-to-be-free",
+        "if-i-had-more-money",
+        "what-we-fear-we-invite",
+        "same-scarcity-story-regardless-of-wealth",
+        "hitchhiking-freedom",
+        "no-finish-line",
+        "brett-cape-town-napkins",
+        "mandela-empowerment",
+        "money-relationship-is-an-energetic-exchange",
+        "caretaking-prevents-the-bottom"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T12:22:51Z"
+    },
+    {
+      "folder": "2023-12-08_What's Your Scorecard? (Coaching Session)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:16:27Z",
+      "articles_created": [
+        "i-need-a-scorecard",
+        "scorecard-keeping-as-identity-structure",
+        "what-if-there-was-no-scorecard",
+        "whats-the-scorecard-that-cant-be-taken-away",
+        "strip-away-externals-thought-experiment"
+      ],
+      "articles_updated": [
+        "ask-the-witnesses",
+        "identity-lags-behind-growth",
+        "trust-as-multifaceted",
+        "money-as-surrogate",
+        "how-do-i-trust-myself"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T12:26:15Z"
+    },
+    {
+      "folder": "2023-12-08_What's Your Scorecard\uff1f (Coaching Session)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:24:31Z",
+      "articles_created": [
+        "tell-the-unchanging-part-it-has-to-move",
+        "compass-not-map",
+        "surface-the-assumed-dichotomy"
+      ],
+      "articles_updated": [
+        "nature-improves-itself",
+        "i-need-a-scorecard",
+        "whats-the-scorecard-that-cant-be-taken-away",
+        "scorecard-keeping-as-identity-structure",
+        "what-if-there-was-no-scorecard",
+        "strip-away-externals-thought-experiment",
+        "ask-the-witnesses",
+        "identity-lags-behind-growth"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T12:33:46Z"
+    },
+    {
+      "folder": "2023-12-19_Great Decisions Course \uff5c Official Trailer",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:26:47Z",
+      "articles_created": [],
+      "articles_updated": [
+        "decisions-are-emotional"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T12:28:51Z"
+    },
+    {
+      "folder": "2023-12-22_The Shame Hot Potato",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T12:29:31Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-12-07_What We're Afraid to Lose",
+      "folder": "2023-12-29_Fear Of Overworking",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T12:02:51Z",
+      "claimed_at": "2026-05-22T12:35:02Z",
       "articles_created": [],
       "articles_updated": []
     }

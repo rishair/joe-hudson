@@ -5,7 +5,7 @@ title: "Same Scarcity Story Regardless of Wealth"
 aliases: ["billionaire-and-me thought", "billionaires think the same way", "I'm a billionaire realization", "wealth doesn't change the story", "scarcity loop independent of money", "the mind always wants more", "more more more pattern", "the shackle of thinking I don't have enough", "the billionaires I knew also thought they didn't have enough", "the top 1% of the world realization", "the world's poor American is in the global top 1%"]
 tags: ["money", "scarcity", "mind", "patterns", "gratitude"]
 related: ["if-i-had-more-money", "money-as-surrogate", "resources-vs-resourcefulness", "ill-become-lazy-without-shoulds", "constraints-increase-creativity", "expensive-to-be-poor", "gratitude-around-the-problem"]
-sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-11-24_What We're Afraid to Lose", "2023-12-07_What We're Afraid to Lose"]
 ---
 
 # Same Scarcity Story Regardless of Wealth
@@ -62,6 +62,14 @@ When a person describes a milestone that will end their scarcity, the question t
 
 The follow-up is not "stop wanting more." The follow-up is to investigate where the wanting is coming from. See [[money-as-surrogate]].
 
+## The Wealth-Anxiety Form
+
+The pattern has a close cousin that operates at the level of anxiety rather than at the level of the "I don't have enough" thought. The pre-acquisition form of the anxiety says "I need to get the money or I will not be okay." The post-acquisition form says "I need to keep the money or I will not be okay." The thought about not having enough has shifted to a thought about possibly losing what is there. The substance of the anxiety is unchanged.
+
+"They're still in it. Like if they... they're scared that if they... they need something to be happy, the anxiety, it hasn't changed, right? The 'I was anxious that I needed to get this money' and now 'I'm anxious that it's gonna go.' I'm anxious that I'm incomplete without money is... it hasn't changed, right?" -- Joe Hudson, What We're Afraid to Lose
+
+This is the same scarcity story from a different angle. The mind that produced "I don't have enough" at every level of wealth also produces "I might lose what I have" at every level of wealth. Both are functions of the underlying belief that the person's okayness is contingent on the resource. The resource level does not change the belief. See [[i-have-to-X-to-be-free]] for the generalized concern and [[nothing-is-required-for-freedom]] for the principle.
+
 ## The Jungle of Money Perception
 
 The same gratitude practice that produced the billionaire recognition also produced a different perceptual shift in the same period: the recognition that opportunities for money were everywhere, all the time, embedded in every object in the visible environment.
@@ -82,3 +90,4 @@ Within roughly six to eight months of starting the gratitude practice, Joe was c
 - 2022-10-26_Money Can't Save You (rebroadcast)
 - 2023-07-07_Much Ado About Money (the daily gratitude practice mechanism, the 6-month time frame, the jungle of money perception, the "I'm a fucking billionaire" framing)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
+- 2023-11-24_What We're Afraid to Lose (the wealth-anxiety form: the same scarcity-story-substance running both pre-acquisition and post-acquisition, with the surface complaint changing but the underlying contingency-of-okayness unchanged)

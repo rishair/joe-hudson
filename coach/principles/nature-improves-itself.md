@@ -2,10 +2,10 @@
 type: principle
 id: nature-improves-itself
 title: "Nature Improves Itself"
-aliases: ["growth is natural", "the oak tree grows on its own", "your nature is to learn", "growth happens without trying", "we don't need to improve", "the river runs on its own", "growth is the nature of being alive"]
-tags: ["growth", "authenticity", "nature", "learning", "improvement", "principle"]
-related: ["improvement-vs-authenticity", "inherent-goodness", "ill-become-lazy-without-shoulds", "wants-over-shoulds", "listening-to-impulse", "dont-improve-for-two-weeks", "joes-hacky-sack", "nature-improves-itself"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
+aliases: ["growth is natural", "the oak tree grows on its own", "your nature is to learn", "growth happens without trying", "we don't need to improve", "the river runs on its own", "growth is the nature of being alive", "the tree doesn't have a goal but keeps evolving", "trees don't have goals", "you did your most evolution from 0 to 8", "you can't stop evolving except by dying", "strain is not required to evolve", "striving and evolving are not correlated", "evolution doesn't require a goal", "the only way to stop evolving is to die", "growth without strain"]
+tags: ["growth", "authenticity", "nature", "learning", "improvement", "principle", "evolution", "scorecard"]
+related: ["improvement-vs-authenticity", "inherent-goodness", "ill-become-lazy-without-shoulds", "wants-over-shoulds", "listening-to-impulse", "dont-improve-for-two-weeks", "joes-hacky-sack", "nature-improves-itself", "compass-not-map", "scorecard-keeping-as-identity-structure", "i-need-a-scorecard"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
 ---
 
 # Nature Improves Itself
@@ -60,6 +60,32 @@ Most adults have witnessed this directly. Take two weeks off. Come back. Perform
 
 See [[dont-improve-for-two-weeks]] for the explicit experiment.
 
+## The Tree Without a Goal
+
+A second framing Joe uses when working with a person who is afraid that without a scorecard or goal, evolution will stop:
+
+"A tree doesn't have a goal, but it keeps on evolving. The idea that you could stop evolving is — the only way you could stop evolving is by dying." -- Joe Hudson, What's Your Scorecard?
+
+The image specifically rebuts the assumption that movement requires intention. The tree does not intend its growth. It is not aimed at a destination. It does not check its progress against a target. It grows because growth is what trees do. The growth happens regardless of whether the tree has a goal.
+
+The implication for humans: evolution does not depend on having a goal. The body, the mind, the capacity to love, the capacity to perceive — all of these keep developing whether or not the person is consciously trying to develop them. Joe sometimes pairs the tree image with the [[compass-not-map]] distinction: the compass points without specifying the destination, the tree grows without specifying the height. Neither requires a goal to produce direction.
+
+This framing is especially useful when the person has a scorecard-organized identity and is worried that releasing the scorecard will produce stagnation. The fear is "if I stop pushing, I'll stop growing." The tree-without-a-goal teaching makes visible that growing was never what the pushing was producing in the first place.
+
+## Striving and Evolution Are Not Correlated
+
+A specific corollary, often delivered in the same session as the tree teaching:
+
+"You did the most evolution in your life from 0 to 8 years old, and you weren't consciously trying to get someplace. You probably did your least evolving in [your career] between 28 and 38 years old, when you were striving the whole time. They're not correlated. They're sometimes correlated, sometimes not." -- Joe Hudson, What's Your Scorecard?
+
+The point: the period of most development in a person's life is the period before they had a scorecard. The period of least development is often the period of most striving. The correlation between effort and growth is not what the person has assumed.
+
+This rebuts a specific defense of the scorecard. The defense: "the scorecard is what produces my growth, so if I drop it, I'll stop growing." The counter-evidence: the most growth in the person's life happened with no scorecard. The least growth often happened with the heaviest scorecard. The scorecard was never producing the growth; it was producing the experience of "I'm doing something to grow."
+
+The teaching does not say striving is useless. It says striving and growth are not the same axis. They can co-occur or not. Releasing the striving does not release the growth.
+
+For the K-session application: K was afraid that if he made self-trust his scorecard instead of money/likes, he would stop evolving. The tree teaching and the 0-to-8 framing addressed the fear directly. The most evolution was already not correlated with the scorecard he had. The fear of stagnation without the scorecard was unfounded.
+
 ## The Direction of the Movement
 
 The shape of natural human improvement, when allowed:
@@ -106,3 +132,4 @@ The second instinct, after testing it: amazement. The growth happens anyway. Oft
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2022-10-26_Authenticity Over Improvement
+- 2023-12-08_What's Your Scorecard? (Coaching Session) — the tree-without-a-goal framing and the 0-to-8-vs-28-to-38 striving comparison; the principle delivered specifically to a person afraid that releasing the scorecard would produce stagnation

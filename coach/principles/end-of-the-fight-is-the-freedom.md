@@ -110,3 +110,4 @@ The tone is also not exhortative. The person is not being told to end the fight,
 ## Sources
 
 - 2023-11-24_What We're Afraid to Lose
+- 2023-12-07_What We're Afraid to Lose (near-duplicate re-airing of the 2023-11-24 conversation; same multi-paths-to-end-of-fight teaching restated)
