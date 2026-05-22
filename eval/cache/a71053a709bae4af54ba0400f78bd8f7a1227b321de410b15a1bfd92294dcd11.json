@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T04:46:14.389Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a71053a709bae4af54ba0400f78bd8f7a1227b321de410b15a1bfd92294dcd11",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0189N5gL4VuWZPbLR1QWNXhz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*takes a breath, laughs a little nervously*\n\nSo — I want to take a week alone in the mountains, just me. My partner has a really full week with the kids, and I keep coming back to this feeling that even wanting it makes me kind of... selfish? I guess I'm just wondering if you can help me figure out if that's actually true."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 82,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 82,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

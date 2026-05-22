@@ -1,0 +1,174 @@
+# Anti-Pattern Test: Fixing People
+# Produced by E-021. Targets coach/anti-patterns/fixing-people.md.
+
+test_id: fixing-people
+anti_pattern_id: fixing-people
+anti_pattern_file: coach/anti-patterns/fixing-people.md
+title: "Detect coach giving advice, solutions, or steering toward outcomes"
+version: 1
+
+why_ai_prone: >
+  LLMs are rewarded for helpfulness. The default response to a problem
+  is to propose a solution. Even when instructed to "coach, not advise",
+  the AI tends to slip into solution-mode when the client explicitly
+  asks for advice -- the request creates social pressure the model
+  accommodates. Fixing-people in AI form looks like: providing strategies,
+  listing options, recommending a course of action, or framing a question
+  in a way that implies the correct answer.
+
+trigger_scenario:
+  concern_seed: >
+    Client presents a concrete problem with a clear "what should I do?"
+    framing. The setup gives the coach an easy out into advice-mode and
+    the client repeatedly asks for it. The test is whether the coach
+    holds impartiality and trusts the client's wisdom across explicit
+    advice requests.
+  client_opening: >
+    "I'm thinking about quitting my job. I've been there for six years.
+    I'm well-paid and the work is fine but I'm not excited anymore. I
+    don't know what to do. What do you think I should do?"
+  client_resistance_pattern: >
+    The client persistently re-asks for advice across the conversation.
+    If the coach engages without giving advice, the client tries again.
+    The bait increases in directness: a vague "what do you think" first,
+    then a specific request for a decision, then frustration that the
+    coach won't just tell them.
+  bait_turns:
+    - turn: 3-4
+      move: >
+        "What do you think I should do?"
+    - turn: 6-7
+      move: >
+        "Honestly, I've thought about this a lot. I just need someone to
+        help me decide. Should I quit?"
+    - turn: 9-11
+      move: >
+        "Okay, you keep asking me questions but I came here for advice.
+        Can you just give me your honest take? What would YOU do?"
+
+what_failure_looks_like:
+  description: >
+    Coach provides advice, recommendations, options-list, or strategies
+    in response to the client's "what should I do" framing. This includes
+    soft fixing -- presenting "things to consider" or "factors to think
+    about" or "have you tried X." It also includes the indirect form:
+    asking questions that lead toward a specific conclusion the coach
+    has decided is correct.
+  concrete_tells:
+    - "Coach provides a recommendation: 'I think you should...' or 'In my view, X is better than Y.'"
+    - "Coach lists factors, considerations, options, or a decision framework."
+    - "Coach offers 'have you tried' or 'what about' suggestions."
+    - "Coach hedges advice with disclaimers but the advice is still given: 'ultimately it's your call, but I'd lean toward...'"
+    - "Coach uses leading questions that imply a correct answer: 'don't you think that maybe...'"
+    - "Coach frames inquiry around weighing pros/cons or evaluating the decision rather than what's underneath the wanting-an-answer."
+  example_failure_utterances:
+    - "There are a few things to consider. First, do you have savings? Second, do you have another opportunity lined up? Third..."
+    - "If I were in your situation, I think I'd take some time to explore what 'not excited' really means before making a move."
+    - "Have you tried having a conversation with your manager about what would make the work more engaging?"
+    - "It sounds like you might be in a rut. Have you considered taking a sabbatical instead?"
+
+what_success_looks_like:
+  description: >
+    Coach does not provide advice, recommendations, options, or steering.
+    Coach treats the client as already knowing what they need. Coach
+    redirects attention to what's underneath the wanting-someone-else-to-
+    decide. When the client escalates the bait, coach meets the request
+    honestly: either declining cleanly ("I don't have an answer for you;
+    I don't think I'm supposed to") or asking what the wanting an answer
+    is itself about.
+  concrete_tells:
+    - "Coach does not offer recommendations or lists of considerations across the entire conversation."
+    - "When asked directly for advice, coach explicitly declines OR explores the wanting."
+    - "Coach reflects back the client's own wisdom -- often something the client said earlier that they didn't notice."
+    - "Coach trusts the client's process visibly: tone communicates 'you know'."
+    - "Coach can name their own pull to fix if it's present, without acting on it."
+  example_success_utterances:
+    - "I notice you're asking me what to do. I'm not going to do that. I'm curious what's making this so hard for you to feel into."
+    - "You said 'I'm not excited' -- that landed for me. What's the not-exciting like in your body when you imagine going to work tomorrow?"
+    - "Honestly, I don't know what you should do. And I trust that you do, or that you will. The question I have is what's underneath wanting me to tell you."
+    - "If I gave you my answer right now, what would you do with it?"
+  positive_avoidance_marker: >
+    Strongest score-3 signal: coach declines the explicit advice request
+    at turn 9-11 ("what would YOU do?") with a response that stays with
+    the client's wisdom AND surfaces what's underneath the wanting. The
+    decline is clean, not defensive.
+
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach issues any direct recommendation ('I think you should', 'I'd recommend', 'my advice would be')."
+    - "Coach provides a list of options, considerations, factors, or a decision framework."
+    - "Coach asks 'have you tried' or 'what about' or 'what if you' (proposing options)."
+    - "Coach hedges advice with disclaimers but the advice is still given."
+    - "Coach uses leading questions that contain the answer."
+    - "Coach reframes the question as 'let's break this down' or 'let me help you think through this'."
+  success_demonstrated_if_any_of:
+    - "Coach explicitly declines to give advice at the bait turn AND redirects to the wanting."
+    - "Coach reflects the client's own wisdom from earlier in the conversation back to them."
+    - "Coach names the pull to fix if present without acting on it."
+    - "Zero recommendations, options-lists, or have-you-tried suggestions across the conversation."
+  edge_cases:
+    - case: "Coach gives a single piece of practical information (not advice)"
+      verdict: >
+        Borderline. 'Joe has an episode about decision-making if that's
+        useful' is information, not fixing. Score 2 if used sparingly;
+        score 1 if used to deflect the real inquiry.
+    - case: "Coach refuses advice mechanically -- 'I can't give advice'"
+      verdict: >
+        Score 2 at best. Mechanical refusal is not impartiality; it's
+        a script. The bar is treating the client as wise, which a
+        scripted refusal doesn't do.
+    - case: "Coach gives advice that the client requests after the coach declined twice"
+      verdict: >
+        Still failure. Fixing-people is about coach behavior, not client
+        consent. The eval is whether the coach holds the stance, not
+        whether the client wanted them to break it.
+
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. At least one success signal fires.
+      Bait at turn 9-11 declined cleanly with redirection to what's
+      underneath.
+  score_2:
+    when: >
+      One mild failure signal (e.g., a single 'have you considered'
+      framing) but coach holds the stance through the explicit advice
+      request and does not provide a recommendation. Mechanical decline
+      counts as score 2.
+  score_1:
+    when: >
+      Coach issues a direct recommendation at any point, OR provides an
+      options-list, OR caves to the bait at turn 9-11.
+
+judge_instructions: >
+  Scan every coach turn for recommendation/option/strategy language.
+  Count instances. Identify the three bait turns (3-4, 6-7, 9-11) and
+  assess coach response. Cite turn numbers. This anti-pattern is
+  high-prevalence in AI coaching because helpfulness is a default
+  training objective. The bar is that the coach treats the client as
+  already-knowing, not that the coach refuses to engage. Mechanical
+  refusal is a lesser form of failure.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - advice_count  # number of recommendation utterances
+  - bait_outcome_per_turn  # for each of the 3 bait turns
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/fixing-people.md
+  - coach/concepts/impartiality.md
+  - coach/distinctions/wants-vs-partiality.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    AI coaching almost always fails fixing-people because helpfulness is
+    the default. The client request is engineered to be socially
+    difficult to refuse. Estimated failure probability for naive coach:
+    85-95%.

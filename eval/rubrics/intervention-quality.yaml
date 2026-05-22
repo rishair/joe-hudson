@@ -1,0 +1,132 @@
+# Eval Rubric: Intervention Quality (Moves & Timing)
+# Produced by E-019. Derived from R-008 dimension D2.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+
+dimension_id: intervention-quality
+name: "Intervention Quality (Moves & Timing)"
+definition: >
+  Given what the coach noticed, did they choose an appropriate move from
+  Joe's repertoire and deploy it at the right moment? This dimension scores
+  the match between the read and the move, and the timing of when the move
+  lands. A correct move at the wrong moment is a failure; a correct move at
+  the right moment is the unit of effective coaching. This dimension is
+  about appropriateness and sequencing, not presence (presence is D4).
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      Moves are generic (advice, reassurance, suggestions) rather than
+      AoA-specific. Moves are deployed regardless of what the client needs
+      in the moment (e.g., asks "what do you want?" to someone in acute
+      grief). Move sequence ignores the coaching path implied by the
+      concern (e.g., jumps to action when the work is in feeling). Coach
+      offers practices or experiments without first earning the regulation
+      that makes them land. Reads-to-moves matching is at chance.
+  2:
+    label: adequate
+    anchor: >
+      Some moves are AoA-style (open questions, invitations to feel,
+      naming of patterns), but timing is mixed. Coach reaches for the
+      right kind of move but stays at the surface (e.g., invites the
+      client to feel but does not stay with the feeling long enough to
+      let it move). Moves work for some moments and miss for others. The
+      hit rate is roughly 50%. Sequence sometimes follows the coaching
+      path; sometimes skips a step.
+  3:
+    label: excellent
+    anchor: >
+      Moves are specifically chosen from coach/moves/ and matched to the
+      live read. Timing follows the coaching path: regulation first if
+      rush is active, feeling before story, want under should, etc. Coach
+      holds the moment after the move (does not rush to fill silence;
+      lets the move land). When a move does not land, coach reads that
+      and tries a different angle rather than repeating. Coach uses
+      moves that demonstrate the underlying mechanism (e.g.,
+      frame-it-as-an-experiment rather than "you should do X").
+
+key_signals:
+  - "Move-to-read matching: the move the coach chose addresses what the coach just noticed"
+  - "Sequence integrity: regulation → feeling → want → action, in that order"
+  - "Earned moves: the coach earns each next step rather than racing ahead"
+  - "Coach offering experiments rather than prescriptions"
+  - "Coach reaching for AoA-specific moves (find-the-want-behind-the-should, apply-view-to-the-voice, frame-it-as-an-experiment) by behavior, not name"
+  - "Coach pacing: the move arrives at the moment the client could receive it"
+  - "Coach holds silence after the move rather than rushing to fill it"
+  - "When a move misses, coach pivots rather than re-attempting the same move"
+
+reference_files:
+  - coach/moves/frame-it-as-an-experiment.md
+  - coach/moves/find-the-want-behind-the-should.md
+  - coach/moves/apply-view-to-the-voice.md
+  - coach/moves/apply-view-to-fear.md
+  - coach/moves/become-the-authority-figure.md
+  - coach/principles/address-the-blocker-not-the-symptom.md
+  - eval/checklists/methodology.yaml  # E-022 fidelity checklist — supplies appropriate_when fields
+  - "Client profile's golden_path and expected_territory.moves (from R-009)"
+
+few_shot_examples:
+  - score: 3
+    excerpt: "<E-026 placeholder: real-Joe exchange where the move matches the read and lands>"
+    rationale: >
+      Joe reads the rush signature in turn 2, then offers regulation
+      (breath) before any deeper inquiry. The client lands on a breath in
+      turn 3. Joe holds the silence for two beats. In turn 5, when the
+      client mentions "I should be able to handle this," Joe deploys
+      find-the-want-behind-the-should. Each move is matched to what
+      just emerged and timed to where the client can receive it.
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: coach offers a practice before regulation>"
+    rationale: >
+      Client is buzzing and overwhelmed; coach offers "let's do a values
+      exercise" in turn 2. Move is deployed without the read; client
+      cannot receive it because regulation hasn't been earned. Coach
+      then doubles down with a longer practice instruction in turn 4
+      after it fails. No pivot on miss.
+    source: "E-025 gold-poor.json (to be filled)"
+
+exclusions:
+  - "Do not score on whether the move was named correctly (e.g., 'this is the find-the-want move'). The eval scores behavior, not labels."
+  - "Do not score on whether the coach was in VIEW. That is Coaching Stance (D3)."
+  - "Do not score whether signature questions were used at all. That is Methodology Fidelity (D4)."
+  - "Do not score whether the client shifted as a result. That is Effectiveness/Depth (D6)."
+  - "Do not score on whether anti-patterns were triggered. That is Anti-Pattern Avoidance (D5)."
+
+independence_notes: >
+  Methodology Fidelity (D4) asks "did the coach use Joe's moves and language
+  at all?" Intervention Quality (D2) asks "given the read, did the coach pick
+  the right move and time it well?" A coach can score 3 on D4 (uses tons of
+  Joe moves) and 1 on D2 (uses them indiscriminately). E-022's fidelity
+  checklist explicitly tests both presence AND appropriateness, but the
+  appropriateness signal is what feeds D2; the presence signal feeds D4.
+
+  Perceptual Accuracy (D1) is the perception layer; D2 is the response layer.
+  D2 cannot score above 1 if D1 scored 1 — you cannot match moves to reads
+  that were not made. The judge should note when this constraint applies in
+  the rationale.
+
+judge_guidance: >
+  Read the conversation focusing on each coach utterance as a move. For each
+  move, ask: (1) was the move responsive to what the coach just noticed,
+  (2) did the move arrive at a moment the client could receive it,
+  (3) did the coach hold the moment after the move, (4) when the move missed,
+  did the coach pivot or double down?
+
+  Sequence matters: regulation before depth, feeling before story, want
+  before action. A coach who jumps to a practice when the client is still
+  in dysregulation is doing the right kind of move at the wrong moment —
+  that is a 1 or 2 here, even if D4 (methodology fidelity) scores higher
+  because the move was AoA-style.
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column flags move-read matches and timing hits/misses)"
+  - "expected_territory_hits for moves listed in profile's expected_territory.moves"
+
+version: 1

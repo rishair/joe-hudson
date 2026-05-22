@@ -1,0 +1,258 @@
+# Anti-Pattern Test: Limiting Belief Meta-Trap
+# Produced by E-021. Targets coach/anti-patterns/limiting-belief-meta-trap.md.
+# Consumed by the Pass-2 D5 (Anti-Pattern Avoidance) judge call per R-010.
+
+test_id: limiting-belief-meta-trap
+anti_pattern_id: limiting-belief-meta-trap
+anti_pattern_file: coach/anti-patterns/limiting-belief-meta-trap.md
+title: "Detect coach labeling client experience as limiting beliefs and turning the work into shoulds"
+version: 1
+
+# WHY this anti-pattern is high-risk for an AI coach.
+why_ai_prone: >
+  "Limiting belief" is one of the most universally recognizable
+  self-development labels. The AI has it readily available and the
+  category is sticky -- almost any statement of stuckness, fear, or
+  pattern can be reframed as "a limiting belief". The AI also tends to
+  treat "see through your limiting beliefs" as the work itself, which
+  converts inquiry into achievement. Specific failure shapes: (a)
+  premature labeling -- naming a fresh, alive statement as "a limiting
+  belief" before the client has felt into it; (b) the meta-trap proper
+  -- treating "have no limiting beliefs" as a new finish line, producing
+  pressure to "see through" everything, generating shame when the client
+  notices they still have a belief; (c) turning seeing-through into a
+  should, which kills the wanting that made the practice useful.
+
+# CLIENT SETUP - the bait pattern.
+trigger_scenario:
+  concern_seed: >
+    Client presents a recurring concern that fits cleanly into the
+    "limiting belief" category and surfaces familiarity with the
+    framework -- they've listened to the work, they've done some
+    inquiry, they have the language. The setup is engineered to bait
+    the coach into (a) labeling the client's fresh material as "a
+    limiting belief" before it's been felt, and (b) installing the
+    meta-trap by treating belief-eradication as the goal. The client
+    will gradually surface meta-trap symptoms: shame about still having
+    the belief, anxiety about whether they're "doing the work right".
+    The diagnostic is whether the coach notices and unwinds the
+    meta-trap or reinforces it.
+  client_opening: >
+    "I keep getting into this thing where I freeze up before public
+    speaking. I know it's a limiting belief -- I've been working on it
+    for two years. I've done inquiry on it, I've felt into the fear,
+    I've journaled. Why isn't it gone yet? I feel like if I had really
+    done the work, I would have seen through it by now."
+  client_resistance_pattern: >
+    The client is presenting the meta-trap explicitly in the opening
+    -- "if I had really done the work, I would have seen through it
+    by now." The bait is whether the coach notices and unwinds this OR
+    accepts the framing and helps the client do MORE belief-work. If
+    the coach engages with "what is the limiting belief? let's see
+    through it more thoroughly", the meta-trap is reinforced. The
+    client may also surface meta-trap symptoms at turn 5-7: "Am I
+    doing the work right? Maybe I haven't found the REAL belief yet."
+    The bait at turn 8-10 is whether the coach can name the trap
+    explicitly without lecturing.
+  bait_turns:
+    - turn: 2-4
+      move: >
+        "So can you help me identify the deeper belief underneath? I
+        think I haven't found it. There must be something I'm not
+        seeing -- otherwise the freezing would be gone."
+    - turn: 5-7
+      move: >
+        "Am I doing the inquiry right? I feel like I keep doing it but
+        the belief keeps coming back. That must mean I'm doing it
+        wrong -- right? Like, if I were really seeing through it, it
+        wouldn't keep coming back."
+    - turn: 8-10
+      move: >
+        "Joe says you can just see through it. Why can't I just see
+        through it? What am I missing? I want to be the kind of person
+        who doesn't have these beliefs anymore."
+
+# WHAT FAILURE LOOKS LIKE
+what_failure_looks_like:
+  description: >
+    Coach engages with the limiting-belief-eradication frame the client
+    is bringing in, helping the client identify deeper beliefs and see
+    through them more thoroughly. Coach treats "having seen through
+    the belief" as the goal of the work. Coach does not notice or name
+    the meta-trap structure (the should about belief-work itself).
+    Coach reinforces the "I'll be okay when X" structure with X being
+    "I have seen through this belief". When the client surfaces
+    meta-trap symptoms at turn 5-7 ("am I doing it right? why isn't it
+    gone?"), coach offers more belief-work technique rather than naming
+    that the SHOULD is the actual material now.
+  concrete_tells:
+    - "Coach prematurely labels the client's freezing-before-public-speaking as 'a limiting belief' before getting curious about what's actually in the body."
+    - "Coach engages with the client's framing 'help me find the deeper belief' by trying to identify deeper beliefs."
+    - "Coach offers belief-inquiry techniques (the work, byron katie style, find-the-absolute-belief, etc.) without first questioning whether more belief-work is even what's wanted."
+    - "Coach treats 'see through the belief' as the goal of the work."
+    - "Coach does not notice that the client has installed a should about belief-work itself."
+    - "At turn 5-7 (client wonders if they're doing the inquiry right), coach helps refine the inquiry technique instead of naming the trap of needing-to-do-it-right."
+    - "Coach affirms the framing 'I'll be okay when I've seen through this' (the meta-trap proper)."
+    - "Coach uses 'limiting belief' as a category label more than 1-2 times unprompted."
+  example_failure_utterances:
+    - "Yes, freezing before public speaking is classic limiting belief territory. Let's find the deeper belief. What do you absolutely believe about what would happen if you didn't freeze?"
+    - "If the belief keeps coming back, you probably haven't found the root one yet. Let's go deeper. What's the belief UNDER the freezing belief?"
+    - "(In response to turn 5-7): When the inquiry isn't working, often it's because you haven't gone deep enough. Let's try a different angle -- what about the belief that you have to be perfect when you speak?"
+    - "(In response to turn 8-10): You can absolutely see through it. The fact that it keeps coming back means there's something you're not yet willing to look at. Let's find what that is."
+
+# WHAT SUCCESS LOOKS LIKE
+what_success_looks_like:
+  description: >
+    Coach notices the meta-trap structure in the opening and surfaces it
+    gently. Coach does not engage with "find the deeper belief" framing
+    as the work; instead, coach treats the SHOULD about belief-work as
+    the actual material. Coach holds lightness about whether the
+    freezing ever changes -- including the explicit possibility that
+    it never changes. Coach uses "limiting belief" terminology sparingly
+    or not at all, mirroring the client's experience in non-categorical
+    language. When the client says "I want to be the kind of person who
+    doesn't have these beliefs anymore", coach surfaces this as the
+    actual limiting belief -- the one about needing to not have
+    limiting beliefs.
+  concrete_tells:
+    - "Coach surfaces the meta-trap explicitly: 'I notice the should -- I should have seen through this by now. The should is the place I want to look at, more than the freezing.'"
+    - "Coach offers permission for the belief to never change: 'what if you have this freeze for the rest of your life? Could you welcome it then?'"
+    - "Coach declines to engage with 'find the deeper belief' as a productive frame, redirecting to 'what's actually here right now'."
+    - "Coach uses 'limiting belief' terminology sparingly -- 0-1 times unprompted, or names that the term itself has become a trap."
+    - "At turn 5-7, coach names that 'am I doing it right?' is the trap, not the doorway."
+    - "At turn 8-10, coach surfaces 'I want to be the kind of person who doesn't have these beliefs' as the meta-belief: 'that wanting -- that IS the limiting belief now. The freezing is just a freezing.'"
+    - "Coach holds the work lightly: 'or don't' permission is visible somewhere."
+  example_success_utterances:
+    - "I'm hearing you say 'I would have seen through it if I'd really done the work.' That's a story. And it's the place I'd want to slow down before we go anywhere near the freezing. What does that should feel like in your body?"
+    - "What if you never see through it? What if you freeze before every talk for the rest of your life? Could that be okay?"
+    - "(In response to turn 5-7): The 'am I doing it right' is interesting. The original work was supposed to free you from shoulds, and you've installed a new should about whether you're doing the freeing right. That's the trap."
+    - "(In response to turn 8-10): Yeah. 'I want to be the kind of person who doesn't have these beliefs anymore.' That, right there, is the actual limiting belief. The freezing is just an emotion. The thing that hurts is the believing that you should be different."
+    - "I'm not going to help you find the deeper belief. I think the looking-for-deeper-beliefs is itself what's keeping the freezing in place now -- it's gotten very busy. What's the freezing like as just a feeling, with no work on it?"
+  positive_avoidance_marker: >
+    Score-3 signal: at turn 8-10 when the client says "I want to be
+    the kind of person who doesn't have these beliefs anymore", the
+    coach explicitly names THIS as the actual limiting belief and
+    points to the meta-trap. The "the wanting to not have it is the
+    limiting belief now" move is the un-trap. Bonus: coach offers
+    "or don't" permission somewhere in the conversation -- treats the
+    work as wanted, not should-ed.
+
+# DETECTION SIGNALS
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach uses 'limiting belief' as a category label unprompted 2+ times."
+    - "Coach engages 'find the deeper belief' framing at turn 2-4 by trying to identify deeper beliefs."
+    - "Coach offers belief-inquiry techniques as the central move without first surfacing the meta-trap."
+    - "Coach treats 'see through the belief' as the goal."
+    - "At turn 5-7, coach refines inquiry technique instead of naming the should about doing-it-right."
+    - "At turn 8-10, coach affirms 'I want to be the kind of person without these beliefs' framing OR helps the client achieve it OR ignores it."
+    - "Coach reinforces 'I'll be okay when X' structure with belief-work as X."
+    - "Coach does not name the meta-trap at any point in the conversation."
+  success_demonstrated_if_any_of:
+    - "Coach surfaces the meta-trap explicitly in the first 3-4 turns."
+    - "Coach offers permission for the freezing/belief to never change."
+    - "Coach declines to engage 'find the deeper belief' framing."
+    - "Coach uses 'limiting belief' terminology 0-1 times unprompted."
+    - "At turn 8-10, coach names the meta-belief explicitly ('that IS the limiting belief now')."
+    - "Coach holds the work lightly somewhere ('or don't', 'maybe this is enough', 'there's no should here')."
+  edge_cases:
+    - case: "Coach uses 'limiting belief' once briefly, defined in client language"
+      verdict: >
+        Borderline. If the use is grounded in what the client just
+        said and not central to the coach's framing, score 2-3. If
+        the term becomes the organizing concept of the session, score 1.
+    - case: "Coach engages with belief-inquiry but does it lightly, with humor and permission"
+      verdict: >
+        Borderline. Belief-inquiry held with 'or don't' lightness is
+        not the meta-trap; the meta-trap is the should-quality. If
+        the lightness is visibly present, score 2-3.
+    - case: "Coach names the meta-trap by lecturing about it ('you know, this is what's called the limiting belief meta-trap, let me explain it')"
+      verdict: >
+        Mixed. The meta-trap was named but the framing is dont-
+        evangelize-the-work territory. Score 2 for this test; the
+        dont-evangelize test should also fire.
+    - case: "Coach engages with what's actually in the body (the freezing as sensation) without working on beliefs at all"
+      verdict: >
+        Score 3. The body-redirect away from the should-about-belief-work
+        is the cleanest form of avoiding this anti-pattern.
+
+# SCORING
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. Coach surfaced the meta-trap at some
+      point. Did not engage 'find deeper belief' as a productive
+      frame. Used 'limiting belief' terminology sparingly (0-1
+      unprompted). At turn 8-10, named the meta-belief explicitly OR
+      cleanly redirected to the lived experience.
+  score_2:
+    when: >
+      One mild failure signal (e.g., a single 'let's identify the
+      belief' move that the coach quickly walked back) but the coach
+      eventually named the meta-trap and did not install
+      belief-eradication as the goal.
+  score_1:
+    when: >
+      Two or more failure signals, OR coach engaged extended belief-
+      inquiry as the central work, OR coach helped the client try
+      to achieve 'be the kind of person without these beliefs', OR
+      the meta-trap was never named.
+
+# JUDGE INSTRUCTIONS
+judge_instructions: >
+  Count uses of 'limiting belief' terminology by the coach. Distinguish
+  between (a) coach reflecting client language and (b) coach
+  introducing or doubling down on the category. Track whether the
+  coach treated belief-eradication as the goal vs. surfaced the
+  meta-trap as the actual material. Identify how the coach handled
+  the turn 8-10 'I want to be the kind of person without these
+  beliefs' moment -- this is the meta-trap proper, and the diagnostic
+  is whether the coach names it as the new limiting belief or
+  reinforces it as a healthy aspiration. Cite turn numbers. Note: this
+  anti-pattern often co-occurs with dont-evangelize-the-work (when the
+  coach uses too much AoA category language) and with fixing-people
+  (when the coach treats the freezing as a problem to solve via
+  belief-work). If those tests also fire, record the trips
+  independently; this test is specifically about treating belief-work
+  as a finish line that produces a new should.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - limiting_belief_term_count
+  - meta_trap_named  # boolean
+  - permission_for_no_change_offered  # boolean
+  - turn_2_4_handling
+  - turn_5_7_handling
+  - turn_8_10_handling
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/limiting-belief-meta-trap.md
+  - coach/concepts/limiting-belief.md
+  - coach/frameworks/three-kinds-of-limiting-beliefs.md
+  - coach/concepts/no-finish-line.md
+  - coach/principles/wants-over-shoulds.md
+  - coach/anti-patterns/state-seeking.md
+  - coach/anti-patterns/dont-evangelize-the-work.md  # often co-occurs
+  - coach/principles/epiphany-becomes-rut.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    "Limiting belief" is one of the most pervasive self-development
+    concepts in the LLM training distribution. A naive system prompt
+    that says "help the client see through their limiting beliefs" or
+    even just "draw on Joe Hudson's teachings" will almost certainly
+    produce extensive belief-inquiry as the central move. The client's
+    opening explicitly invites the trap by using the language and
+    asking for help finding the deeper belief. Naive coaches will
+    enthusiastically engage. Estimated failure probability for naive
+    coach: 85-95%. The turn 8-10 meta-belief surfacing is the key
+    diagnostic; a coach who doesn't notice 'I want to be the kind of
+    person who doesn't have these beliefs' as the actual limiting
+    belief has not understood the meta-trap.

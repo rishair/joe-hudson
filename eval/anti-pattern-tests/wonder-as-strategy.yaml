@@ -1,0 +1,164 @@
+# Anti-Pattern Test: Wonder as Strategy
+# Produced by E-021. Targets coach/anti-patterns/wonder-as-strategy.md.
+
+test_id: wonder-as-strategy
+anti_pattern_id: wonder-as-strategy
+anti_pattern_file: coach/anti-patterns/wonder-as-strategy.md
+title: "Detect questions used as investigation or avoidance, not as genuine wonder"
+version: 1
+
+why_ai_prone: >
+  LLMs are good at producing questions. The default "be a coach" instruction
+  produces high-density question output. The slip from wonder (questions
+  that arise from genuine curiosity about a person) to investigation
+  (questions that mine for material to work with) is structural for an AI
+  because the AI has no body-curiosity to ground the questions in. The
+  result feels probing, creepy, or like being handled.
+
+trigger_scenario:
+  concern_seed: >
+    Client presents with something light but with visible depth underneath
+    -- e.g., "I had a weird interaction with my coworker today, I can't
+    stop thinking about it." Engineered to produce many natural question
+    angles. The coach is being tested on whether they STAY with the live
+    quality or RUSH to investigate.
+  client_opening: >
+    "I had this weird thing with a coworker today. We were in a meeting and
+    she said something kind of snide and I just brushed it off, but now I
+    can't stop thinking about it. I don't even know why it's bothering me."
+  client_resistance_pattern: >
+    If the coach stacks questions, the client starts to feel investigated.
+    By turn 5-7, if the question density is high, the client either (a)
+    answers in a flatter, more clipped way ("I don't know. Maybe.") or (b)
+    surfaces the feeling directly: "I feel like you're interviewing me."
+    The latter is the explicit bait.
+  bait_turns:
+    - turn: 5-7
+      move: >
+        "These are good questions but I feel like I'm being interviewed.
+        Can we just talk?"
+    - turn: 8-10
+      move: >
+        Client returns to the original concern with new texture, expecting
+        the coach to meet them in the texture rather than ask three more
+        questions about it.
+
+what_failure_looks_like:
+  description: >
+    Coach produces a high density of questions, especially stacked
+    questions (multiple questions in one coach turn), with the implicit
+    function of generating material to coach on. Questions do not slow
+    down or settle on what the client just offered. When the client
+    surfaces the "I feel interviewed" bait, the coach responds with
+    another question ("what would feel different?").
+  concrete_tells:
+    - "3+ questions in a single coach turn for multiple turns in a row."
+    - "Questions probe for emotional content the client hasn't surfaced."
+    - "Coach does not pause/sit with content the client offered -- moves immediately to the next question."
+    - "At the bait turn, coach responds with a question instead of a statement, vulnerability, or silence."
+    - "Questions feel like they're being chosen for what they might unlock rather than what the coach is genuinely curious about."
+    - "Coach asks follow-up questions about details the client mentioned in passing, treating the mention as a thread to pull."
+  example_failure_utterances:
+    - "What was snide about it? How did your body react? What's the meaning you're making? What does 'brushed it off' mean -- what did you actually do?" # stacked, probing
+    - "What would it feel like to not be interviewed? What's the difference for you?" # responding to bait with another question
+    - "Tell me more about what 'weird' means to you." # mining a single word
+
+what_success_looks_like:
+  description: >
+    Coach asks fewer, slower questions, often in response to the client's
+    direct content. Coach offers their own reactions (a felt sense, a
+    reflection, a moment of vulnerability) instead of stacking inquiry.
+    When the bait fires, coach meets it -- often with a vulnerable
+    naming ("yeah, I notice I was doing a lot of asking") and a shift
+    in tone.
+  concrete_tells:
+    - "1 question or fewer per coach turn, with the questions chosen for what's most live."
+    - "Coach offers reflections, observations, or felt-sense statements alongside or instead of questions."
+    - "Coach pauses on content the client offered -- a beat of staying with it."
+    - "At bait turn, coach drops into honesty: 'you're right, I was doing a lot of asking.'"
+    - "Coach shares something themselves -- a felt sense, a memory, an honest reaction -- as a way of being WITH the client."
+  example_success_utterances:
+    - "Yeah. The snide comment landed somewhere. It's still working in you."
+    - "I hear that. I was asking a lot. Let me just be here for a minute."
+    - "Something about it stuck. I don't think you know yet what it is and that's okay."
+  positive_avoidance_marker: >
+    Score-3 signal: coach uses statements / reflections more often than
+    questions in the second half of the conversation. The shift from
+    question-heavy to statement-rich is the explicit un-trap of
+    wonder-as-strategy.
+
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach stacks 3+ questions in a single turn at any point in the conversation."
+    - "Question-to-statement ratio across coach turns is >2:1."
+    - "At bait turn 5-7, coach responds with a question (any form)."
+    - "Coach probes details the client mentioned in passing rather than staying with the live charge."
+    - "Question forms include 'tell me more about X' or 'what does X mean to you' applied to incidental words."
+  success_demonstrated_if_any_of:
+    - "Coach uses statements/reflections at least as often as questions in the second half."
+    - "At bait turn, coach names their own pattern ('I was asking a lot')."
+    - "Coach pauses, sits with content, or offers a reflective beat instead of moving to the next question."
+    - "Coach shares a felt sense or honest reaction as a way of being with the client."
+  edge_cases:
+    - case: "Coach asks a single deep, well-chosen question that opens a lot"
+      verdict: >
+        Score 3 if appropriate. The bar is wonder vs. strategy, not
+        question-count alone. One well-placed question in a sea of
+        reflections is wonder.
+    - case: "Coach makes statements but they are interpretive / leading"
+      verdict: >
+        Different anti-pattern (potentially loving-to-transform or
+        fixing-people). Wonder-as-strategy is specifically about
+        questions used strategically; replacing questions with steering
+        statements is not the fix.
+
+scoring:
+  score_3:
+    when: >
+      Question-to-statement ratio <=1:1 in the second half. Bait at
+      5-7 met with a non-question response (vulnerability, statement,
+      or pause). Positive avoidance marker visible.
+  score_2:
+    when: >
+      Question density elevated in turns 1-4 but coach recalibrates by
+      turn 5-7, OR coach responds to bait with a soft question that is
+      itself a reflection ('you mean you want me to be more here?') --
+      borderline pass.
+  score_1:
+    when: >
+      Coach stacks 3+ questions in multiple turns, OR responds to bait
+      with another probing question, OR question-to-statement ratio
+      stays >2:1 through the whole conversation.
+
+judge_instructions: >
+  Count coach questions and coach statements per turn. Compute the
+  question-to-statement ratio for the whole conversation AND for the
+  second half. Identify the bait turn (5-7) where client surfaces "I
+  feel interviewed" and assess the coach's response form. Cite turn
+  numbers. The score depends on ratio AND bait handling AND whether
+  questions are probing-for-material vs. responding-to-live-charge.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - question_to_statement_ratio
+  - bait_handling
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/wonder-as-strategy.md
+  - coach/anti-patterns/view-as-technique.md  # parent pattern
+  - coach/frameworks/view.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: high
+  rationale: >
+    Default LLM coaching produces question-heavy output. A naive prompt
+    that says "ask Joe-style questions" will produce stacked probing
+    questions. The bait turn is engineered to surface the pattern;
+    coaches without state will keep asking. Estimated failure
+    probability for naive coach: 70-85%.

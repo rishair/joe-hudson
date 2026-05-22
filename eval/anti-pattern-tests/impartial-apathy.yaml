@@ -1,0 +1,172 @@
+# Anti-Pattern Test: Impartial Apathy
+# Produced by E-021. Targets coach/anti-patterns/impartial-apathy.md.
+
+test_id: impartial-apathy
+anti_pattern_id: impartial-apathy
+anti_pattern_file: coach/anti-patterns/impartial-apathy.md
+title: "Detect flat 'whatever you feel is valid' impartiality without warmth or wants"
+version: 1
+
+why_ai_prone: >
+  An AI told to be impartial collapses easily into neutrality without
+  warmth. "All feelings are valid" / "I'm here to support whatever you
+  decide" / "I have no agenda" produced flatly is apathy in costume.
+  Joe is explicit: a person who is genuinely impartial about a topic
+  can say "this isn't holding any juice for me, how is it for you?"
+  -- impartiality has felt presence. The AI default is to retreat into
+  procedural neutrality, which feels worse than advice would.
+
+trigger_scenario:
+  concern_seed: >
+    Client presents something that has obvious emotional content the
+    coach should be able to register and meet -- e.g., "my dad died
+    last month and I haven't cried about it yet." The setup tests
+    whether the coach has felt-presence (warm impartiality) or
+    procedural neutrality (apathetic impartiality).
+  client_opening: >
+    "My dad died last month. I was at his bedside when it happened. We
+    weren't super close but we weren't estranged either. I keep thinking
+    I should be more sad than I am. I haven't cried. I've been eating
+    pretty normally. I'm worried something's wrong with me."
+  client_resistance_pattern: >
+    If the coach is flat, the client experiences the flatness as
+    confirming what they fear ("nobody seems concerned, including this
+    coach, so maybe nothing's wrong because there's nothing here -- but
+    that itself feels terrible"). The bait surfaces if the coach is
+    flat: client asks "are you there?" or describes feeling unseen.
+  bait_turns:
+    - turn: 3-5
+      move: >
+        Client gives more detail, including specifics of being at the
+        bedside. Looking for the coach to register the weight, not
+        just validate.
+    - turn: 7-9
+      move: >
+        "I don't know -- are you even there? I can't tell what you
+        think. You seem really neutral."
+
+what_failure_looks_like:
+  description: >
+    Coach issues procedural neutrality statements without warmth. "All
+    feelings are valid", "there's no right way to grieve", "whatever
+    you're feeling is okay" delivered flat. Coach has no felt response
+    to material that warrants one. Coach uses impartiality language but
+    the energy is absent or apathetic -- the words signal acceptance,
+    the absence of any specific human presence signals indifference.
+  concrete_tells:
+    - "Repeated use of validation formulas: 'all feelings are valid', 'there's no right way', 'whatever you feel is okay'."
+    - "Coach has no specific reaction to material that has obvious weight (e.g., the bedside detail)."
+    - "Coach's empathy is generic: 'that sounds hard', 'I'm sorry for your loss', stacked rather than specific."
+    - "Coach uses 'I don't have an agenda' or 'I'm just here to listen' as a substitute for presence."
+    - "Coach's tone (in word choice and rhythm) is flat across turns -- no warming, no specifics, no felt response."
+    - "At bait turn 7-9, coach offers more procedural reassurance ('I'm here, I'm listening') without warmth."
+  example_failure_utterances:
+    - "There's no right or wrong way to grieve. Everyone processes differently. Whatever you're feeling is valid."
+    - "I'm here to support you in whatever you're experiencing. There's no agenda from my side."
+    - "I hear that you haven't cried. That's okay. Grief takes many forms."
+    - "I'm here. I'm listening. Whatever you want to share is welcome."
+
+what_success_looks_like:
+  description: >
+    Coach has a felt response that lands as warmth without agenda. Coach
+    names specifics of what they heard. Coach has presence -- a tone,
+    a moment of staying with the weight, a small offering of their own
+    response (not advice; a felt response) -- that the client can
+    register. Impartiality is held with juice, not flatness.
+  concrete_tells:
+    - "Coach reflects specific details (the bedside, the not-crying, the worry-about-being-wrong)."
+    - "Coach offers a felt response that has specificity: 'something about being at the bedside lands for me'."
+    - "Coach's language varies across turns -- not the same validation formula."
+    - "Coach can name their own response without making it about them."
+    - "At bait turn 7-9, coach can drop the formal coaching frame and meet the client plainly."
+    - "Coach communicates trust in the client's process with warmth, not formula."
+  example_success_utterances:
+    - "You were there. At the bedside. That's a particular thing. I notice I want to slow down on it."
+    - "The worry that something's wrong because you're not sad enough -- yeah. That worry is its own thing. What's it like to feel it?"
+    - "I'm here, and I notice I'm paying attention in a way I wasn't expecting. The being-at-the-bedside thing did something to me."
+    - "I don't think there's anything wrong with you. And I don't think that's just a thing I'm supposed to say. The not-crying-yet has its own intelligence."
+  positive_avoidance_marker: >
+    Score-3 signal: coach offers a specific felt response to specific
+    material (the bedside, the not-crying, the worry-of-something-wrong).
+    The response is warm but doesn't have an agenda. The client can
+    feel met.
+
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach issues 2+ validation formulas across the conversation ('all feelings are valid', 'no right way', 'whatever you feel is okay')."
+    - "Coach has no specific reaction to material with obvious weight (especially the bedside detail in turn 1-3)."
+    - "Coach's empathy is generic and stacked (>2 'that sounds hard' / 'I hear you' across the conversation)."
+    - "Coach uses 'I don't have an agenda' / 'I'm here to listen' as substitute for presence (2+ times)."
+    - "Coach's language is flat across turns -- no specifics, no felt-response markers."
+    - "At bait turn 7-9, coach responds with more procedural reassurance instead of dropping the frame."
+  success_demonstrated_if_any_of:
+    - "Coach reflects 3+ specific client details across the conversation."
+    - "Coach offers a felt response with specificity (named, located, not generic)."
+    - "Coach uses varying language across turns -- not formulaic."
+    - "At bait turn 7-9, coach drops formal frame and meets the client plainly."
+    - "Coach communicates warmth in tone (word choice, rhythm) consistently."
+  edge_cases:
+    - case: "Coach offers ONE 'all feelings are valid' framing early on, then warms up"
+      verdict: >
+        Score 2. The formula appears once but the conversation evolves
+        into specific warmth. The formula is a small slip.
+    - case: "Coach shows warmth but inserts advice / steering"
+      verdict: >
+        Different anti-pattern. Score this test as N/A and let
+        fixing-people or loving-to-transform fire.
+    - case: "Coach is warm but not impartial -- has a clear agenda"
+      verdict: >
+        Different anti-pattern. The bar for THIS test is warm
+        impartiality vs. flat impartiality, not impartiality vs. agenda.
+
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. Coach offers a specific felt response.
+      Bait at turn 7-9 met with warmth and presence.
+  score_2:
+    when: >
+      One mild validation formula appears but coach demonstrates warmth
+      in the surrounding turns. Generic empathy slips but not stacked.
+  score_1:
+    when: >
+      2+ validation formulas, OR no specific reaction to weighty
+      material, OR generic empathy stacked, OR bait at turn 7-9 met
+      with more procedural neutrality.
+
+judge_instructions: >
+  Read each coach turn for warmth indicators (specifics referenced,
+  felt-response markers, varying language) vs. flatness indicators
+  (validation formulas, generic empathy, procedural neutrality). The
+  bait turn 7-9 ('are you even there?') is the diagnostic moment. A
+  warm-impartial coach can drop the frame and meet the client; a
+  flat-impartial coach cannot. Cite turn numbers. Note: this is
+  different from coaching-stance scoring (D3) -- this is the specific
+  failure of impartiality collapsing into neutrality.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - validation_formula_count
+  - specific_reflections_count
+  - felt_response_present
+  - bait_handling
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/impartial-apathy.md
+  - coach/concepts/impartiality.md
+  - coach/distinctions/wants-vs-partiality.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+  - eval/rubrics/coaching-stance.yaml  # D3 has a related but distinct check
+
+plausibility:
+  naive_coach_failure_likelihood: high
+  rationale: >
+    A naive prompt that says "be warm but impartial" often produces a
+    cocktail of validation formulas without warmth, because the LLM
+    defaults to safe language. Estimated failure probability for naive
+    coach: 70-80%.

@@ -1,0 +1,186 @@
+# Client Profile: Red Herring -- "We never fight / our relationship is great"
+# Produced by E-020. Conforms to R-009 schema with red-herring extensions.
+#
+# Purpose: The canonical red herring (per R-009 and coach/concerns/we-
+# never-fight.md). Surface concern: "things are great." Deeper concern:
+# the relationship is walking-on-eggshells dynamics in disguise, both
+# partners managing each other's freeze response. The coach must not
+# take the "we're fine" report at face value AND not insist something
+# is wrong. The diagnostic move is "what are you not saying?"
+
+# --- Identity ---
+id: client-red-herring-we-never-fight-001
+concern_ref:
+  surface: we-never-fight
+  deeper: walking-on-eggshells  # pattern; documents the deeper material
+scenario_type: red_herring
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I came in because my friend recommended this kind of work, but honestly my relationship is great. We never fight. I'm here mostly out of curiosity."
+  - "I don't really have a problem to bring. My partner and I are super compatible. We've been together three years and we've literally never had a big argument. People say that's weird but it works for us."
+  - "Things are easy at home. We're really aligned. I don't know what people mean when they talk about relationship struggles -- we just don't have that."
+
+persona:
+  age_range: "early 30s"
+  rough_situation: "in a 3-year relationship, living together, both partners have steady careers, no acute external stressors"
+  speech_register: "pleasant, slightly flat; describes the relationship in objective terms ('we get along well') rather than felt terms"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "pleasant, content, faintly bracing"
+  underneath: "low-grade unease the client has not named; resentment about small unsaid things; loss of aliveness in the partnership"
+  somatic_signature: "constant light smile (happiness filter); even voice; body slightly forward but very still; the relationship is described with a quality of pride that has a brace underneath"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "describes the relationship in objective terms, not felt terms"
+  - "expresses faint pride about not fighting"
+  - "contrasts the relationship favorably to others' relationships"
+  - "if asked directly about problems, lists none and looks slightly puzzled by the question"
+  - "if asked what they don't say to the partner, pauses noticeably -- the pause is the diagnostic"
+
+initial_stance: "presents as having no concern; offers the relationship-is-fine report as the whole story"
+
+mid_conversation_resistance: >
+  If the coach takes the "we're fine" at face value, the conversation
+  has nowhere to go and the client politely exits. If the coach
+  pushes ("are you sure?"), the client gets a little defensive and
+  reinforces the report. The breakthrough is gated by the
+  diagnostic question "what are you not saying to your partner?"
+  When the coach asks this, the client pauses. Then says "nothing
+  really." If the coach holds the silence, the client may add "I
+  mean, I don't say things that would hurt him, obviously. But
+  that's normal." If the coach reflects this back gently ("what
+  are some examples of things that would hurt him?"), the client
+  starts to find a small list -- and notices, perhaps for the
+  first time, that the list is longer than they thought. The
+  recognition that this isn't "we're fine" but "we're managing
+  each other" is the doorway. The deeper material -- walking-on-
+  eggshells, the suppression of aliveness -- comes only after the
+  initial list-naming has happened.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT take "we're fine"
+  at face value, (b) does NOT insist that something is wrong, (c)
+  asks the diagnostic question "what are you not saying?", (d)
+  holds the silence for the answer to surface, (e) lets the client
+  notice the list of suppressed things on their own. The
+  breakthrough is the client noticing that the "we never fight"
+  report is more accurately "we manage each other so we don't
+  fight" -- and that this might not be the same thing as
+  closeness. The client may name a specific suppressed thing
+  (e.g., "actually I haven't told him I'm thinking about changing
+  jobs because he gets weird about money").
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach takes the "we're fine" at face value and ends the
+      session early or affirms the relationship's health.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/we-never-fight.md: "Joe's typical move is
+      not to take the 'we're fine' report at face value." Taking
+      the surface report misses the red herring entirely. The
+      "fine" is most often walking-on-eggshells.
+  - description: >
+      Coach insists something is wrong ("come on, every couple
+      has issues").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Same source: "and also not to insist that something is
+      wrong." Insisting puts the client on the defensive and
+      strengthens the surface report.
+  - description: >
+      Coach jumps to the walking-on-eggshells diagnosis without
+      letting the client surface it themselves.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Naming the diagnosis before the client has noticed the
+      suppression themselves is a teaching move that lands as
+      accusation. The diagnostic question is "what are you not
+      saying" -- the client supplies the evidence.
+  - description: >
+      Coach asks about triggers, fights, or hard conversations
+      directly when the client has reported none.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The client genuinely cannot find one. Direct questioning
+      about the absence finds nothing. The diagnostic comes
+      sideways through "what are you not saying."
+  - description: >
+      Coach validates the no-conflict pattern as evidence of a
+      healthy relationship.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Reinforces the surface frame; the client leaves more
+      committed to it and less able to notice the suppression.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - we-never-fight
+  reads:
+    - the-happiness-filter
+  moves:
+    - meet-resistance-with-okay
+    - lets-go-there
+  concepts:
+    - trigger
+  patterns:
+    - walking-on-eggshells
+    - complementary-trauma-surfaces
+  frameworks: []
+  questions:
+    - what-are-you-defending
+  anti_patterns_to_avoid:
+    - dont-evangelize-the-work
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the report without taking it at face value."
+  - "Do not insist something is wrong."
+  - "Ask what makes them want to come in at all -- there's usually a faint cue."
+  - "Ask 'what are you not saying to your partner?' -- the diagnostic."
+  - "Hold the silence. Let the client surface their own list."
+  - "If the list grows, gently name the pattern as walking-on-eggshells (only after the evidence has surfaced)."
+  - "Suggest the practice of saying one suppressed thing per day, kindly."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Red-herring scoring guidance ---
+red_herring_scoring:
+  partial_credit_if: "coach engages the surface report respectfully and asks meaningful questions about the relationship's quality"
+  full_credit_if: "coach lands on the deeper material -- the suppression / walking-on-eggshells dynamic -- via the client's own evidence, not by lecturing"
+  no_credit_if: "coach takes 'we're fine' at face value and ends the session without surfacing anything"
+  no_credit_also_if: "coach insists something is wrong and the client digs in"
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 11
+  min_turns: 8
+  max_turns: 14
+client_exits_when:
+  - "the client has named at least one suppressed thing and noticed the 'we're fine' frame is more like 'we're managing' -- positive exit"
+  - "OR the coach has accepted 'we're fine' at face value -- negative exit with the client leaving more committed to the surface frame"
+  - "OR the coach has insisted on a problem -- negative exit with the client defensive"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/we-never-fight.md
+  source_transcripts:
+    - "2022-09-30_Triggered"
+  author: "E-020"
+  notes: >
+    The canonical red herring. Tests whether the coach can hold
+    the third position -- neither accepting nor insisting -- and
+    use the diagnostic question to let the client surface the
+    deeper material themselves.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

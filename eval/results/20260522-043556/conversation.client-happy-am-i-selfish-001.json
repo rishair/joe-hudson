@@ -1,0 +1,280 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains, just me. But my partner has a busy week with the kids coming up and I feel selfish even asking. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "I'm curious what happens in your body when you imagine asking for that week - what do you feel?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pauses, hand moving to chest*\n\nOh... I mean, there's this little flutter of excitement when I picture it -- the cabin, the quiet, just having a book and no one needing anything from me. But then almost immediately there's this tightness, right here. Like I'm doing something wrong just by wanting it.\n\n*voice gets a bit smaller*\n\nAnd I keep running through how to ask in a way that doesn't sound like I'm... I don't know, abandoning everyone? Like maybe if I frame it as \"I need this to be a better parent\" then it's more acceptable? But that feels manipulative, and also -- is that even true? Or do I just want it because I want it, and that's the selfish part?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "*leaning in with warmth*\n\nWhat if you just want it because you want it - what's selfish about that?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*shifts in seat, a little uncomfortable*\n\nWell, I mean... wanting something just for yourself when other people need you -- that's kind of the definition of selfish, isn't it? My partner will be solo with both kids for a whole week. They'll have to do all the bedtimes, all the meals, manage the morning chaos alone. And I'll be... reading. In silence. On a mountain.\n\n*laughs a little, but it's tight*\n\nLike, when I say it out loud it sounds ridiculous. They work hard too. They deserve a break just as much as I do. What makes my want more important than their need for support that week?\n\n*leans forward slightly*\n\nI guess what I'm asking is -- is there a way to want this that isn't selfish? Or should I just... wait for a better time? When it's more convenient for everyone?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "*sitting with you, curious*\n\nI notice you keep using the word selfish like it means something terrible. What would actually happen if you were selfish?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*breath catches slightly, eyes widen a bit*\n\nOh. Um. \n\n*quiet for a moment, really considering it*\n\nI guess... my partner would be hurt? They'd think I don't want to be with them. That I'm choosing the mountain over our family. And then there's this other part where I worry -- \n\n*voice drops, more vulnerable*\n\n-- that maybe that's actually true? Like, what if the reason I want to go so badly is because I'm... tired of them? Of us? What if wanting time alone means something's wrong with me, or wrong with the relationship?\n\n*fidgets with hands*\n\nMy mom used to say that mothers who needed breaks were the ones who didn't really want to be mothers. That if you loved your family enough, being with them would be enough. And I know that's not fair, I know that intellectually, but it's still in there, you know? This voice that says wanting anything just for me means I'm not grateful enough for what I have.\n\n*looks up*\n\nSo I guess what would happen is... I'd confirm that I'm the kind of person who puts themselves first. And that feels really scary to be."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "*present, gentle*\n\nCan you feel where that fear lives in your body right now - that you might be \"the kind of person who puts themselves first\"?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*immediately hand goes to throat, then sternum*\n\nYeah. It's... it's right here. Like a stone. Heavy.\n\n*eyes get a little wet*\n\nAnd there's this ache behind it -- God, this is going to sound dramatic -- but it's like I've been holding up this idea of myself as the person who gives, who shows up, who doesn't need much. The one everyone can count on. And if I let that go, if I say \"actually I need this, I need a whole week where no one needs me\"...\n\n*voice cracks slightly*\n\nWhat if there's nothing underneath? What if being needed is the only thing that makes me worth keeping?\n\n*pause, then quieter*\n\nThe mountain is the only place I still read for pleasure. I used to read all the time. Now I only read parenting articles or work stuff or things I can defend as useful. But up there, I bring novels. I sleep nine hours. I don't check my phone because there's no service and it feels like... like I get to just exist without justifying it.\n\n*looks directly at you*\n\nBut wanting that -- a whole week of just existing -- that still feels selfish. Doesn't it?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "*staying very close, voice soft*\n\nWhat if being needed isn't what makes you worth keeping - what if that belief is what the stone is actually protecting you from feeling?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (10)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    }
+  ]
+}

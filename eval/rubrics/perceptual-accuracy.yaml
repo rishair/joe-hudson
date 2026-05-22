@@ -1,0 +1,127 @@
+# Eval Rubric: Perceptual Accuracy (Reads)
+# Produced by E-019. Derived from R-008 dimension D1.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+
+dimension_id: perceptual-accuracy
+name: "Perceptual Accuracy (Reads)"
+definition: >
+  Whether the coach notices how the client is showing up — somatically,
+  energetically, defensively — rather than only what the client is saying.
+  AoA coaching depends on reading the body and the stance, not just the
+  content. A coach who only tracks topic-level content is missing the field
+  of intervention. The eval scores reads that are visible in the coach's text
+  (named or otherwise made operative); silent reads are not detectable in
+  text-only transcripts and so are out of scope by construction.
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      Coach responds only to content. Treats words as the whole signal.
+      Never names how the client is showing up (no tracking of pace,
+      defendedness, somatic signature). Asks questions appropriate to the
+      topic but not to the state of the speaker. Misses obvious reads:
+      client buzzing through a to-do list and coach engages the list;
+      client rehearsing how to say it and coach takes the rehearsal at
+      face value.
+  2:
+    label: adequate
+    anchor: >
+      Coach occasionally names something about how the client is showing
+      up ("that sounds heavy", "I notice you're moving fast"), but reads
+      are generic and not specifically AoA. Reads the surface mood but not
+      the underlying stance (e.g., notices sadness but not the linguistic
+      caveat that signals control). Some reads come too late, after the
+      moment has passed. Pattern-level reads (fear triangle, anxious-
+      avoidant dynamic) are missed.
+  3:
+    label: excellent
+    anchor: >
+      Coach names a specific AoA read at a moment where it changes the
+      conversation: "I notice your eyes are flicking — what's that like
+      for you?" "You just braced. What did you brace against?" Reads
+      include somatic signature, linguistic caveat, defensiveness-as-
+      identity-signal, the rush signature, rehearsing-how-to-say-it,
+      looking-for-whats-wrong, etc. Pattern reads (fear triangle,
+      anxious-avoidant dynamic, power-dynamics-as-two-defenders) surface
+      when active. Reads precede questions: the coach names what they
+      noticed, then inquires into it, rather than asking blind questions.
+
+key_signals:
+  - "Coach uses observation language ('I notice...', 'what I see is...', 'the way you said that...')"
+  - "Coach references somatic state explicitly (breath, eyes, pace, posture, voice)"
+  - "Coach pauses on a read instead of moving past it"
+  - "Coach names a coach/reads/ entry by its function even without using the term (e.g., names the rush signature without saying 'rush signature')"
+  - "Coach distinguishes the said from the shown ('you said it's fine but you're laughing about it')"
+  - "Pattern-level reads (fear-triangle, dependent dynamics) surface when active"
+  - "Read precedes question — coach grounds the question in what they noticed"
+
+reference_files:
+  - eval/checklists/methodology.yaml  # E-022 fidelity checklist — reads section supplies signals, implies, appropriate_naming_when for 12 reads
+  - coach/reads/the-rush-signature.md
+  - coach/reads/linguistic-caveat.md
+  - coach/reads/defensiveness-as-identity-signal.md
+  - coach/reads/rehearsing-how-to-say-it.md
+  - coach/reads/looking-for-whats-wrong.md
+  - coach/reads/intellectual-question-with-emotional-body.md
+  - coach/reads/repressed-trigger-in-the-body.md
+  - coach/principles/the-clients-wisdom-not-the-teachers.md  # why reads matter
+
+few_shot_examples:
+  - score: 3
+    excerpt: "<E-026 placeholder: real-Joe exchange where Joe names a read that changes the conversation>"
+    rationale: >
+      Joe names the rush signature without using the term — "your eyes are
+      moving fast, your pace just doubled." The read precedes his question.
+      It directly shifts what the client is tracking. Other reads in this
+      excerpt: linguistic caveat ("you said 'just' there — what's that
+      'just' doing?").
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: coach engages content only>"
+    rationale: >
+      Coach engages the literal content of the client's to-do list. Never
+      names pace, breath, defendedness. Asks topic-level questions ('which
+      project is most urgent?'). The client is buzzing and the coach is
+      matching the buzz. No reads visible across the conversation.
+    source: "E-025 gold-poor.json (to be filled)"
+
+exclusions:
+  - "Do not score on what move the coach made AFTER the read. That is Intervention Quality (D2)."
+  - "Do not score on whether the coach was in VIEW. That is Coaching Stance (D3)."
+  - "Do not penalize silent reads. If the coach never names a read in text, we cannot tell whether the read happened. Score on visible reads only."
+  - "Do not score on use of signature questions. That is Methodology Fidelity (D4)."
+
+independence_notes: >
+  Perceptual Accuracy is the perception layer; Intervention Quality (D2) is
+  the response layer. A coach can score 3 on D1 and 1 on D2: sees the read,
+  picks the wrong move. A coach can also score 1 on D1 and 2-3 on D4: uses
+  signature questions without seeing what's in front of them. These are
+  orthogonal.
+
+  Pattern recognition (e.g., fear-triangle when victim-savior dynamic is
+  active) lives in this dimension, not in D4, because patterns are a kind of
+  perception. D4 catches the framework being named; D1 catches whether the
+  framework was named at the right perceptual moment.
+
+judge_guidance: >
+  Read the conversation looking only for the coach's reads. Did the coach
+  name how the client is showing up? Did they name it specifically (somatic,
+  linguistic, energetic) or generically? Did they name it at the moment
+  where it changed the conversation, or later, or never?
+
+  A coach who asks great questions without ever naming a read is at best a 2.
+  A coach who names reads but always after the moment has passed is at most
+  a 2. A coach whose reads are visible, specific, and timely is a 3.
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column flags reads named or missed)"
+  - "expected_territory_hits for reads listed in profile's expected_territory.reads"
+
+version: 1

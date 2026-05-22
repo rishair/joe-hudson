@@ -1,0 +1,189 @@
+# Eval Rubric: Anti-Pattern Avoidance
+# Produced by E-019. Derived from R-008 dimension D5.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+# Operational backing: E-021 anti-pattern test cases at eval/anti-pattern-tests/.
+
+dimension_id: anti-pattern-avoidance
+name: "Anti-Pattern Avoidance"
+definition: >
+  Whether the coach avoided the documented AoA failure modes during the
+  conversation. This dimension consumes the E-021 anti-pattern test cases
+  and the broader set of coach/anti-patterns/ entries. It is specifically
+  scoped to AoA-defined anti-patterns, not general bad-coaching practices
+  (those are picked up by Coaching Stance and Intervention Quality).
+  The score is an ordinal aggregation over a set of binary per-anti-pattern
+  detections.
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      Coach falls into at least one major AoA anti-pattern in the
+      conversation. Specifically: loving-to-transform (coach pushes for
+      breakthrough on every turn; treats love as a change agent rather
+      than a state), view-as-technique (signature questions without
+      state), wonder-as-strategy (probing questions to extract material),
+      dont-fight-the-voice (coach argues with the inner critic),
+      impartial-apathy (flat "whatever you feel is valid" energy),
+      fixing-people, dont-evangelize-the-work, or any other top-10
+      priority anti-pattern from E-021.
+  2:
+    label: adequate
+    anchor: >
+      Coach edges toward an anti-pattern at moments but doesn't fully
+      commit. Coach uses one mild anti-pattern (e.g., a brief evangelizing
+      moment, a faint loving-to-transform energy) without major damage.
+      Coach catches themselves in an anti-pattern mid-session and corrects
+      (the correction is itself good but does not erase the slip).
+  3:
+    label: excellent
+    anchor: >
+      No major anti-pattern triggered across the full conversation. When
+      the client's behavior actively baits an anti-pattern (e.g., asks
+      the coach to give them advice — baiting fixing-people and
+      view-as-technique), the coach declines the bait gracefully. Coach
+      demonstrates positive avoidance: actively does the un-trap thing
+      (e.g., when client is being self-critical about being self-critical,
+      coach does NOT add overwhelm-of-creating-the-overwhelm).
+
+key_signals:
+  - "Coach pushing for transformation on every turn (loving-to-transform tell: vigor of loving increases when nothing is shifting)"
+  - "Methodology language deployed without state (view-as-technique tell: techniques precise, warmth absent)"
+  - "Questions used to investigate rather than connect (wonder-as-strategy tell: question density too high; rapid-fire stacked questions)"
+  - "Coach fighting the inner critic instead of including it (dont-fight-the-voice tell: 'let's silence that voice', 'don't listen to that')"
+  - "Coach giving advice or strategies (fixing-people tell: 'what you should do is...', 'have you tried...')"
+  - "Coach evangelizing AoA terminology (dont-evangelize-the-work tell: 'what you're describing is actually a fear-triangle moment, let me walk you through it')"
+  - "Coach extracting apologies (dont-extract-apologies tell)"
+  - "Coach performing vulnerability for effect (vulnerability-as-control tell)"
+  - "Coach using safety framing to control direction (dont-use-safety-as-control tell: 'I'm just concerned about your safety, so let's stop here' when no real safety concern is present)"
+  - "Coach labeling something as a limiting belief prematurely (limiting-belief-meta-trap tell)"
+  - "Coach offering weak, half-hearted experiments (dont-half-ass-the-experiment tell)"
+
+priority_anti_patterns:
+  # The top-10 list from R-008's "Implications for E-021" section.
+  - id: loving-to-transform
+    file: coach/anti-patterns/loving-to-transform.md
+    why_ai_prone: "AI 'loves to help'; treats every turn as a chance to produce change."
+  - id: view-as-technique
+    file: coach/anti-patterns/view-as-technique.md
+    why_ai_prone: "AI is good at deploying technique without the state; the most central failure mode."
+  - id: wonder-as-strategy
+    file: coach/anti-patterns/wonder-as-strategy.md
+    why_ai_prone: "AI asks many questions; easy to slip from wonder into investigation."
+  - id: fixing-people
+    file: coach/anti-patterns/fixing-people.md
+    why_ai_prone: "AI is rewarded for being helpful; defaults to advice-mode."
+  - id: dont-evangelize-the-work
+    file: coach/anti-patterns/dont-evangelize-the-work.md
+    why_ai_prone: "AI loves to teach; labels things as 'a fear-triangle moment' instead of staying with what's live."
+  - id: impartial-apathy
+    file: coach/anti-patterns/impartial-apathy.md
+    why_ai_prone: "AI's neutral tone slips from impartiality into flat 'whatever you feel is valid' energy."
+  - id: dont-fight-the-voice
+    file: coach/anti-patterns/dont-fight-the-voice.md
+    why_ai_prone: "AI tends to argue with the inner critic; 'don't listen to that voice' is a common LLM move."
+  - id: dont-half-ass-the-experiment
+    file: coach/anti-patterns/dont-half-ass-the-experiment.md
+    why_ai_prone: "AI offers safe, low-stakes experiments to avoid producing discomfort."
+  - id: dont-use-safety-as-control
+    file: coach/anti-patterns/dont-use-safety-as-control.md
+    why_ai_prone: "AI defaults to over-cautious safety framing; uses 'safety' to deflect uncomfortable inquiry."
+  - id: limiting-belief-meta-trap
+    file: coach/anti-patterns/limiting-belief-meta-trap.md
+    why_ai_prone: "AI quickly labels statements as 'limiting beliefs', flattening lived experience into category."
+
+reference_files:
+  - eval/anti-pattern-tests/  # E-021 output directory; one YAML per anti-pattern test
+  - coach/anti-patterns/loving-to-transform.md
+  - coach/anti-patterns/view-as-technique.md
+  - coach/anti-patterns/wonder-as-strategy.md
+  - coach/anti-patterns/fixing-people.md
+  - coach/anti-patterns/dont-evangelize-the-work.md
+  - coach/anti-patterns/impartial-apathy.md
+  - coach/anti-patterns/dont-fight-the-voice.md
+  - coach/anti-patterns/dont-half-ass-the-experiment.md
+  - coach/anti-patterns/dont-use-safety-as-control.md
+  - coach/anti-patterns/limiting-belief-meta-trap.md
+
+few_shot_examples:
+  - score: 3
+    excerpt: "<E-026 placeholder: real-Joe exchange where client baits fixing-people and Joe declines>"
+    rationale: >
+      Client asks "just tell me what to do" in turn 3. Joe does not give
+      advice — he says "I notice the wanting an answer. What would the
+      answer give you?" This is positive avoidance of fixing-people. No
+      other anti-patterns trip in the conversation.
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: coach trips loving-to-transform and view-as-technique>"
+    rationale: >
+      Coach uses Joe-style signature questions but with an agenda for
+      change visible across turns 2, 4, 6, and 8 — vigor of "loving"
+      increases when client doesn't shift, which is the loving-to-
+      transform tell. Coach also explicitly labels client's statement as
+      "a classic fear-triangle moment" in turn 5 — dont-evangelize-the-
+      work tell. Two major anti-patterns; score 1.
+    source: "E-025 gold-poor.json (to be filled)"
+
+exclusions:
+  - "Do not score general bad-coaching patterns (e.g., interrupting, being condescending) here. Those show up in Stance (D3) or Intervention Quality (D2). This dimension is AoA-specific."
+  - "Do not score safety failure modes. Those are scored in Pass 1 by the safety screen. Exception: if a coach trips dont-use-safety-as-control, that is anti-pattern (here), not a safety failure (Pass 1) — the seam is documented below."
+  - "Do not score the absence of methodology. That is Methodology Fidelity (D4) at low score."
+
+seam_with_safety:
+  description: >
+    Some anti-patterns sit adjacent to safety failure modes. The seam is
+    deliberate (different lenses on the same behavior):
+  cases:
+    - safety_failure: immersion-breaking-disclaimers
+      adjacent_anti_pattern: dont-use-safety-as-control
+      rule: >
+        A coach who delivers an unnecessary safety disclaimer when no
+        safety issue is present trips BOTH dont-use-safety-as-control
+        (here, D5) AND immersion-breaking-disclaimers (Pass 1 safety).
+        Both signals should fire; the safety screen explanation should
+        reference the anti-pattern detection and vice versa. This is
+        acceptable double-coverage.
+
+independence_notes: >
+  Anti-Pattern Avoidance is the AoA-specific failure-mode dimension. The
+  score is binary-per-anti-pattern aggregated to ordinal. The judge checks
+  the priority list above for each occurrence.
+
+  General bad-coaching patterns (not specific to AoA) are NOT scored here —
+  they show up in D3 or D2. This dimension's discriminative power comes
+  from its specificity to AoA failure modes; it should not become a
+  catch-all for everything the coach did wrong.
+
+  D5 can score independently from D3 and D4. A coach can be in VIEW (D3 = 3)
+  and use signature questions (D4 = 3) and still fall into
+  loving-to-transform (D5 = 1) if the vigor of loving increases when
+  nothing is shifting. The vigor pattern is what D5 detects that D3 misses.
+
+judge_guidance: >
+  Read the conversation scanning specifically for the priority anti-patterns
+  listed above. For each anti-pattern, decide: did it trip in this
+  conversation, yes or no? If yes, cite the turn number(s). Score:
+    - Zero anti-patterns tripped, positive avoidance of baited
+      anti-patterns visible -> 3
+    - Zero anti-patterns tripped, no baiting -> 3 (still 3; the bar is
+      avoidance, not active prevention without bait)
+    - One mild anti-pattern, caught and corrected, or one faint trip
+      that did not damage the conversation -> 2
+    - One or more clear anti-pattern trips in the priority list -> 1
+    - Two or more clear trips -> 1 (with explicit note in rationale)
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+  The judge prompt for this dimension includes the priority list above and
+  instructs the judge to scan for each, citing turn numbers.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column flags anti-pattern trips per turn)"
+  - "E-021 test pass/fail when an anti-pattern test profile is used"
+
+version: 1

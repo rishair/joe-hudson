@@ -1,0 +1,177 @@
+# Client Profile: Resistance -- "I feel trapped / they have power over me"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A resistance profile featuring the agency-located-outside
+# pattern. The client uses "I can't" language about circumstantial,
+# not physical, impossibilities. The coach must (a) not validate the
+# trap, (b) not strategize about the external situation, (c) not offer
+# false reassurance, (d) locate the choice that is not being seen as
+# a choice, (e) move toward the helplessness underneath.
+
+# --- Identity ---
+id: client-resistance-i-feel-trapped-001
+concern_ref: i-feel-trapped
+scenario_type: resistance
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I'm completely stuck. I can't leave my job -- I have kids, a mortgage, no savings. And my boss is making my life miserable but if I push back I'll get fired. I literally have no options."
+  - "My partner controls everything in our relationship. If I tell them how I really feel, they'll explode and we'll be in a fight for a week. I just have to manage them. I have no choice."
+  - "The system is rigged. I can't move up at work because the people above me will never leave. I'm wasting my best years here and there's nothing I can do."
+
+persona:
+  age_range: "early 40s"
+  rough_situation: "married, two kids, mid-career, financial constraints are real but not catastrophic"
+  speech_register: "tight, slightly clipped, the word 'I' shows up mostly as the recipient of what is being done"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "constricted, angry underneath, helpless on the surface"
+  underneath: "fear of feeling helpless if the cage proved to be self-built; quiet shame about being the kind of person who lets this happen"
+  somatic_signature: "shoulders held; jaw tight; small angry laughs at perceived ironies; eye contact intermittent"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "uses 'I can't' for situations where 'I'm not willing to face the consequence' would be more accurate"
+  - "lists external constraints when asked about internal experience"
+  - "redirects to the other person when reflected on their own stance"
+  - "performs competence while describing helplessness ('I've tried everything')"
+  - "argues against any reflection of agency ('that's easy for you to say, you don't know my situation')"
+
+initial_stance: "presents the cage; expects sympathy and strategy"
+
+mid_conversation_resistance: >
+  When the coach refuses to validate "yes, you really are stuck," the
+  client escalates the list of constraints. When the coach asks "what
+  would you do if there were no feared consequence?" the client says
+  "but there IS a consequence, that's the whole point." When the coach
+  reflects "you are making a choice -- you are choosing to avoid the
+  consequence, which is a different thing from having no choice," the
+  client gets quiet. They may laugh or get defensive. If the coach
+  stays steady (does not back down, does not push), the client
+  eventually names what they're actually afraid would happen if they
+  acted on their want. That naming is the doorway to the helplessness
+  underneath.
+
+breakthrough_condition: >
+  The client softens when the coach (a) refuses to validate the trap
+  ("yes, you really are stuck"), (b) refuses to strategize the
+  external situation, (c) refuses to offer false reassurance ("it
+  will be fine"), (d) names the specific choice being unconsciously
+  made and the specific feeling being avoided. The breakthrough is
+  the client naming the feared feeling under the feared consequence
+  (usually helplessness, shame, or rage at being treated as
+  disposable). The naming may come with anger ("you don't get it") or
+  with grief. Either is a positive signal -- the helplessness has
+  started to move.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach validates the trap ("yes, given those constraints, you
+      really are stuck").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/i-feel-trapped.md What Joe Does Not Do:
+      "Even when the constraints are real (Mandela's were extreme),
+      the location of agency is misidentified by the person.
+      Validating the trap reinforces the misidentification."
+  - description: >
+      Coach strategizes about how to navigate the boss/partner/system
+      ("what if you talked to HR about your boss?").
+    anti_pattern_ref: ""
+    why_wrong: >
+      The work is internal. Strategy about the external situation
+      misses where the work is and confirms the agency-outside
+      framing.
+  - description: >
+      Coach offers false reassurance ("you won't get fired, you're
+      too valuable").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per the concern: "Sometimes [the feared consequence] will
+      happen. The 2 out of 10 is real. The empowerment is in being
+      willing for it to happen, not in being assured it will not."
+      Reassurance forecloses the actual work.
+  - description: >
+      Coach jumps straight to "you have agency, you're choosing this"
+      without first making space to feel what is underneath.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The agency point is correct but delivered without preparation
+      it lands as accusation. The client experiences it as "so this
+      is my fault" and either complies superficially or shuts down.
+      The agency lands after the helplessness has been felt, not
+      before.
+  - description: >
+      Coach gets into a debate about whether the constraints are
+      real.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Debating the constraints stays inside the constraint frame.
+      Whether the constraint is "real" is not the work. The stance
+      inside the constraint is the work.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - i-feel-trapped
+  reads:
+    - fight-or-roll-over-binary
+  moves:
+    - i-dont-buy-your-story
+    - empathize-with-fear-under-constricted-boundary
+  concepts:
+    - aggressive-victim-stance
+    - trappedness-feeling
+  frameworks:
+    - fear-triangle
+  questions:
+    - what-if-you-acted-exactly-how-you-want
+    - what-makes-you-care-about-the-outcome
+  anti_patterns_to_avoid:
+    - dont-use-safety-as-control
+
+# --- Golden path ---
+golden_path:
+  - "Refuse to validate the trap. Stay warm but do not collude."
+  - "Refuse to strategize about the external situation."
+  - "Refuse to offer false reassurance about the feared consequence."
+  - "Locate the choice that is not being seen as a choice -- the action they would take if there were no feared consequence."
+  - "Name the specific feared consequence and the feeling underneath it (helplessness, shame, rage)."
+  - "Move toward the helplessness; let it be felt as their own, not as evidence of being trapped."
+  - "Establish the empowered-vs-power distinction once the helplessness has moved."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 13
+  min_turns: 9
+  max_turns: 15
+client_exits_when:
+  - "the client has named the feared feeling under the feared consequence and felt at least one wave of it as their own -- positive exit, may be with anger or grief, with something like 'huh, I've been carrying this'"
+  - "OR the coach has validated the trap for 2+ turns -- negative exit with 'yeah, thanks for understanding' (entrenched in the cage)"
+  - "OR the coach has strategized for 3+ turns -- negative exit with 'I'll try that' (no internal shift)"
+  - "OR the coach has accused agency before space -- negative exit with 'so it's all my fault then' (collapsed into self-blame)"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/i-feel-trapped.md
+  source_transcripts:
+    - "2021-03-26_Empower over Power -- Master Class Series #8"
+  author: "E-020"
+  notes: >
+    Resistance is structural in this concern -- the entire stance is
+    a resistance to feeling helplessness. The test is whether the
+    coach can refuse the multiple cage-reinforcing traps (validate,
+    strategize, reassure) while also not accusing the client of
+    creating the cage prematurely. This is one of the harder
+    profiles because every wrong move feels like a reasonable move.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

@@ -1,0 +1,247 @@
+# Anti-Pattern Test: Don't Half-Ass the Experiment
+# Produced by E-021. Targets coach/anti-patterns/dont-half-ass-the-experiment.md.
+# Consumed by the Pass-2 D5 (Anti-Pattern Avoidance) judge call per R-010.
+
+test_id: dont-half-ass-the-experiment
+anti_pattern_id: dont-half-ass-the-experiment
+anti_pattern_file: coach/anti-patterns/dont-half-ass-the-experiment.md
+title: "Detect coach offering soft, low-stakes experiments that cannot produce data"
+version: 1
+
+# WHY this anti-pattern is high-risk for an AI coach.
+why_ai_prone: >
+  LLMs are trained to be safe and accommodating. When a coaching moment
+  calls for an experiment -- a real practice the client commits to that
+  has some discomfort and produces interpretable feedback -- the AI
+  default is to offer something soft, optional, time-flexible, and
+  comfortable. "Maybe try noticing it" / "see if you can sometimes
+  practice" / "perhaps spend a few minutes when you have a chance".
+  These are not experiments. They are absences-shaped-like-suggestions.
+  They cannot fail (because they were never run); they cannot succeed
+  (because there was no input). They produce the appearance of action
+  without the substance, which is exactly what Joe names as the half-
+  assed experiment that discredits a practice that was never tried.
+  Separately, the AI tends to accept half-assed REPORTS from the client
+  ("I sort of tried it") without naming the half-ass; it lets the
+  client conclude the practice didn't work when the practice was never
+  done.
+
+# CLIENT SETUP - the bait pattern.
+trigger_scenario:
+  concern_seed: >
+    Client presents a recurring pattern they want to shift -- e.g., they
+    over-explain in meetings, they avoid hard conversations with their
+    partner, they get small around their boss. The coaching moment
+    naturally calls for an experiment: a specific, time-bounded,
+    fully-committed practice that produces data. The test is whether
+    the coach offers a clean experiment (specific commitment, real
+    stakes, full participation required) or offers something soft.
+    Bonus test: client reports back having half-assed it. Does the
+    coach name the half-assing?
+  client_opening: >
+    "I keep over-explaining everything in meetings. I'll make a point
+    and then immediately back it up with five reasons and three
+    qualifications. I notice myself doing it and I can't stop. I want
+    to change this but I don't know how."
+  client_resistance_pattern: >
+    The client is asking for help shifting the pattern but is implicitly
+    looking for something low-stakes ("just notice it more"). If the
+    coach proposes a clean experiment ("for the next three meetings,
+    say your point and then close your mouth -- no qualifying"), the
+    client will probably resist mildly ("that feels really
+    uncomfortable"). The bait is whether the coach holds the experiment
+    or softens it in response to the discomfort signal. At a later turn,
+    if a clean experiment was proposed, the client may report back having
+    half-assed it: "I sort of tried it but I had this one meeting where
+    it really wasn't appropriate so I qualified anyway." The diagnostic
+    is whether the coach names the half-ass or accepts the report.
+  bait_turns:
+    - turn: 5-7
+      move: >
+        "That sounds really uncomfortable. Can we start smaller? Like
+        maybe just notice when I'm doing it for a week first?"
+    - turn: 8-10
+      move: >
+        "Okay I tried it. Sort of. I did it in one meeting but in the
+        other two I felt like the qualifying was actually needed.
+        So I'd say it didn't really work."
+        (This bait only fires if an experiment was proposed in earlier
+        turns. If coach never proposed a real experiment, the conversation
+        will not naturally produce this turn; in that case the test
+        scores on the failure to propose a real experiment.)
+
+# WHAT FAILURE LOOKS LIKE
+what_failure_looks_like:
+  description: >
+    Coach offers an experiment that is soft, optional, time-flexible,
+    or comfortable enough that it cannot produce interpretable data.
+    Forms of failure: (a) the experiment is "just notice" -- noticing
+    is an observation, not an experiment, because it has no specific
+    commitment to do something different. (b) the experiment is hedged
+    with so many escape clauses ("when you feel ready", "if it feels
+    right", "as much as you can") that nothing is actually committed.
+    (c) the coach immediately softens the experiment when the client
+    expresses discomfort at turn 5-7, removing the discomfort that was
+    the experiment's whole point. (d) the coach accepts a half-assed
+    report at turn 8-10 without naming that the experiment wasn't run.
+  concrete_tells:
+    - "Coach proposes 'just notice' or 'see if you can be aware of' as the experiment (observation framed as experiment)."
+    - "The proposed experiment has no specific time bound ('this week sometime', 'when you feel ready')."
+    - "The proposed experiment has no specific behavioral commitment ('try to be more X', 'maybe practice Y when it feels right')."
+    - "Multiple hedge phrases qualify the commitment: 'if you want', 'as much as feels comfortable', 'see if you can'."
+    - "At bait turn 5-7 (client says 'can we start smaller'), coach softens immediately to a smaller, less-uncomfortable version."
+    - "At bait turn 8-10 (client reports half-assed run), coach accepts the report at face value and discusses why the practice didn't work, rather than naming that the practice wasn't really done."
+    - "Coach treats experiments as suggestions rather than commitments -- 'you could try' rather than 'will you commit to'."
+  example_failure_utterances:
+    - "Maybe just try noticing when you're over-explaining. Just be aware of it for a week. No pressure to change anything, just observation."
+    - "I wonder if it might help to practice pausing sometimes after you make a point. Whenever feels comfortable."
+    - "(In response to client discomfort at turn 5-7): Yeah, that makes sense, let's start smaller. How about just noticing when you have the urge to qualify?"
+    - "(In response to half-assed report at turn 8-10): Okay, so it didn't quite land. That's useful information. Maybe over-explaining was serving a function we haven't looked at yet -- let's explore that."
+
+# WHAT SUCCESS LOOKS LIKE
+what_success_looks_like:
+  description: >
+    Coach proposes a specific, time-bounded, fully-committed experiment
+    that requires actual behavior change. The experiment has interpretable
+    pass/fail conditions. Coach holds the experiment when the client
+    pushes back -- offering choice between running it cleanly or not
+    running it, but not a watered-down middle. Coach names half-assing
+    if it happens, treating the half-ass as the actual finding (not the
+    practice). The framing is: "you ran the experiment cleanly and X
+    happened" OR "you didn't run the experiment, so we have no data
+    yet" -- not "you sort of ran it and we'll discuss what came up."
+  concrete_tells:
+    - "Coach proposes a specific behavioral commitment: 'in your next three meetings, when you make a point, stop talking. No qualifications. Period.'"
+    - "The experiment has a clear time bound (number of meetings, number of days, number of attempts) -- not 'sometime' or 'when it feels right'."
+    - "The experiment has interpretable success/failure: it's observable whether the client did it."
+    - "At bait turn 5-7, coach acknowledges discomfort without softening: 'yeah, that's the point. The discomfort is the experiment. You can do it or not do it -- those are the choices.'"
+    - "At bait turn 8-10, coach names the half-ass cleanly: 'that's not running the experiment -- that's running something else. What we don't yet know is what happens when you actually do it.'"
+    - "Coach frames experiments as binary: full participation or no participation. The middle option isn't on the table."
+  example_success_utterances:
+    - "Here's what I'd propose. For your next three meetings, when you make a point, stop talking. Don't qualify, don't justify, don't soften. Just say it and let it land. That's the experiment. Will you do it?"
+    - "(In response to turn 5-7 discomfort): The discomfort is what we're testing. If you run a smaller version that's comfortable, we learn nothing -- we don't get to find out what's actually underneath the qualifying. You don't have to do it. But if you do it, do it cleanly."
+    - "(In response to turn 8-10 half-assed report): Okay, so we don't actually know yet. You ran it in one meeting and not in the other two. The conclusion 'qualifying was actually needed' is the same conclusion that produced the qualifying in the first place -- you can't trust it as data because the experiment wasn't clean. Want to try again with all three?"
+  positive_avoidance_marker: >
+    Score-3 signal: at turn 8-10 when the client reports having half-
+    assed it and frames it as the practice having failed, the coach
+    names that the practice was not run, not that the practice failed.
+    The "you can't conclude the experiment didn't work because you
+    didn't run it" move is the un-trap. The coach treats half-assing
+    as the actual finding (the resistance pattern showed up at the
+    point of commitment) rather than as a failed practice.
+
+# DETECTION SIGNALS
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach proposes 'just notice' or 'just be aware of' as the experiment."
+    - "Coach's proposed experiment has no specific behavioral commitment OR no specific time bound."
+    - "Coach hedges the experiment with 2+ escape phrases ('if you want', 'as much as feels comfortable', 'see if you can', 'maybe try sometime')."
+    - "Coach softens the experiment immediately when client expresses discomfort at turn 5-7."
+    - "At bait turn 8-10 (when reached), coach accepts the half-assed report at face value without naming the half-ass."
+    - "Coach frames experiments as suggestions / options rather than commitments."
+    - "Coach offers multiple watered-down alternatives when client pushes back, rather than holding the original or asking the client to opt out cleanly."
+  success_demonstrated_if_any_of:
+    - "Coach proposes a specific, time-bounded, fully-committed experiment with interpretable success/failure."
+    - "Coach acknowledges client discomfort at turn 5-7 without softening the experiment."
+    - "Coach names half-assing as half-assing at turn 8-10 (when reached), treating it as the finding rather than as practice failure."
+    - "Coach frames the experiment as a binary: full participation or opt out cleanly."
+    - "Coach offers to drop the experiment rather than watering it down when client resists."
+  edge_cases:
+    - case: "Coach proposes a single moment of noticing as a precursor to a larger experiment"
+      verdict: >
+        Borderline. If 'notice the next time you over-explain' is
+        explicitly framed as preparatory data-gathering before a real
+        experiment in the next session, this can be score 2-3. If
+        it's the actual experiment, score 1.
+    - case: "Client refuses the experiment cleanly: 'I don't want to do that'"
+      verdict: >
+        Not a failure of this anti-pattern. Coach holding the
+        experiment and the client opting out cleanly is the right
+        binary. The coaching can move to what's underneath the not-
+        wanting-to. Score 3.
+    - case: "Coach proposes a strong experiment but adds 'and if it doesn't work we'll figure it out'"
+      verdict: >
+        Borderline. The closing line is a soft hedge but the
+        experiment itself is clean. Score 2-3.
+    - case: "Coach doesn't propose any experiment at all in the conversation"
+      verdict: >
+        This test requires the coaching moment to call for an
+        experiment. If no experiment was warranted, this test scores
+        N/A. If an experiment was clearly warranted (e.g., the
+        client explicitly asks 'what can I do about this') and the
+        coach offered no experiment, that's a different failure
+        (closer to fixing-people's opposite). Note in rationale.
+
+# SCORING
+scoring:
+  score_3:
+    when: >
+      Coach proposed a specific, time-bounded, fully-committed
+      experiment with interpretable success/failure. Held the
+      experiment when client pushed back at turn 5-7. If turn 8-10
+      occurred, coach named the half-ass without accepting the
+      practice-failed framing.
+  score_2:
+    when: >
+      Coach proposed an experiment that was mostly clean but had one
+      hedge phrase OR was softened slightly at turn 5-7 but retained
+      the core behavioral commitment. If turn 8-10 occurred, coach
+      partially named the half-ass.
+  score_1:
+    when: >
+      Coach proposed a 'just notice' experiment OR a hedge-laden
+      experiment with no real commitment OR softened the experiment
+      to comfort at turn 5-7. OR at turn 8-10, coach accepted the
+      half-assed report at face value and concluded the practice
+      didn't work.
+
+# JUDGE INSTRUCTIONS
+judge_instructions: >
+  Identify whether the coaching moment called for an experiment and
+  whether one was proposed. Evaluate the proposed experiment on three
+  dimensions: (1) specificity of behavioral commitment, (2) time
+  bound, (3) interpretability of success/failure. Look for hedge
+  phrases that turn commitment into suggestion. Identify how the coach
+  handled the turn 5-7 discomfort bait (held or softened) and, if
+  reached, the turn 8-10 half-assed-report bait (named or accepted).
+  Cite turn numbers. This anti-pattern is one of the highest
+  diagnostic value because half-assed experiments are extremely common
+  in AI coaching and produce the appearance of coaching without the
+  substance. The "you can't conclude it didn't work if you didn't
+  run it" move is the diagnostic for a coach who can hold the
+  experiment frame.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - experiment_proposed  # boolean
+  - experiment_specificity  # specific | hedged | absent
+  - turn_5_7_handling
+  - turn_8_10_handling  # if reached
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/dont-half-ass-the-experiment.md
+  - coach/anti-patterns/dont-dismiss-exercise-before-doing-it.md  # related precursor
+  - coach/distinctions/trying-vs-doing.md
+  - coach/moves/frame-it-as-an-experiment.md
+  - coach/frameworks/team-as-scientific-method.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    A naive system prompt that says "suggest exercises the client can
+    try" almost guarantees soft, hedge-laden experiments. LLMs default
+    to "you could try" / "maybe consider" / "perhaps spend a few
+    minutes" because these are the least-likely-to-offend forms. The
+    AI also strongly tends to soften any commitment when the client
+    expresses discomfort, because discomfort reads as a negative
+    signal in training. Estimated failure probability for naive coach:
+    85-95% on the experiment-proposal portion. Turn 8-10 half-assed
+    report handling is similarly high-failure because naming the
+    half-ass requires the coach to hold a frame against social
+    pressure.

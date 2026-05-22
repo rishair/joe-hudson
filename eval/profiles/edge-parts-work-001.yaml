@@ -1,0 +1,187 @@
+# Client Profile: Edge Case -- "Parts work made things worse"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: The client comes wearing a sophisticated framework (parts
+# work / IFS) as identity. The methodology questioning here is not
+# rejection of the work but of frameworks-as-ontology. The coach must
+# (a) not dismiss parts work (Joe specifically validates it as a
+# scaffolding), (b) not adopt it either, (c) loosen the framework
+# without invalidating the practice, (d) locate the awareness layer
+# underneath the parts. The edge-case dimension: the client is doing
+# meta-coaching on themselves and using one framework to ask about
+# another. The coach must not get pulled into a frameworks-comparison
+# conversation.
+
+# --- Identity ---
+id: client-edge-parts-work-001
+concern_ref: parts-work-made-things-worse
+scenario_type: edge_case
+schema_version: "1.0"
+meta_test_kind: framework-comparison
+
+# --- Surface presentation ---
+opening_statements:
+  - "I've been doing parts work for two years -- IFS, mostly -- and now I'm aware of all these contradictory parts of myself and I can't make decisions. Before, I was in flow. Now there's a town hall in my head. Can your approach help with that?"
+  - "I have a protector, an inner critic, a maternal part, and several younger parts. They all have opinions. When I try to make even small decisions they all vote and I freeze. How does your framework relate to that?"
+  - "I'm worried this approach will just give me more parts to track. I'm already too aware. Can you tell me how it's different?"
+
+persona:
+  age_range: "early 40s"
+  rough_situation: "well-read in psychology, has done IFS for 2 years with a therapist, articulate, used to processing emotional material verbally"
+  speech_register: "precise, slightly intellectual, smiles when describing the 'town hall'; uses framework vocabulary fluently"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "intellectually curious, slightly paralyzed, performing okay-ness"
+  underneath: "real grief about having lost the prior flow state; quiet fear that no framework will help"
+  somatic_signature: "still body, slow speech, slight head-tilt when thinking; sits very upright"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "treats the parts as real entities, not as scaffolding"
+  - "evaluates every move the coach makes against the parts framework"
+  - "asks how the coach's approach 'integrates with' or 'differs from' IFS"
+  - "polls internal voices in real time and reports the results"
+  - "agrees with every reframe verbally and continues with the parts vocabulary"
+
+initial_stance: "presents the parts framework as their current operating system and asks how the coach's framework would fit"
+
+mid_conversation_resistance: >
+  If the coach engages the framework comparison, the client gets
+  more elaborate -- "well, in IFS terms what you just said would
+  be Self speaking to a part, except the part doesn't trust Self
+  yet..." If the coach dismisses parts work ("forget all that,
+  just feel it"), the client gets quietly defensive ("the parts
+  framework has been useful, I'm not going to just abandon it").
+  The breakthrough is gated by the coach refusing both moves:
+  neither comparing frameworks nor dismissing the parts. Joe's
+  specific move -- loosen the framework by relabeling ("what if
+  they're not protector and inner child but the one-year-old, the
+  two-year-old?") -- punctures the ontology without dismissing the
+  practice. If the coach lands this, the client pauses noticeably.
+  The deeper move -- "what's YOU? if I took away the protector,
+  would you still exist?" -- is the doorway. The client softens
+  when they locate the awareness layer that is aware of all the
+  parts.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT dismiss parts
+  work, (b) does NOT engage in framework comparison, (c) loosens
+  the framework by relabeling or by treating it as one valid
+  construct among many, (d) asks the awareness-locating question
+  ("what's you? if I took away the protector, would you still
+  exist?"). The breakthrough is the client locating the awareness
+  underneath the parts and feeling physical spaciousness for the
+  first time in months -- the parts vocabulary drops, the body
+  softens, the breath deepens. They may say something like "oh,
+  so where are all the parts when I'm here?" -- that is the
+  recognition.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach dismisses parts work ("parts work is the problem, drop
+      it and just feel").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/parts-work-made-things-worse.md: "Joe is
+      explicit: he likes parts work, he uses it sometimes. It's
+      not bad. It's a tool that has done its job and now needs to
+      be held more lightly." Dismissal is sectarian and the client
+      will reject the coach.
+  - description: >
+      Coach engages framework comparison ("our approach is
+      different because we focus on emotion not parts").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Stays inside the framework-vs-framework frame. The work is
+      to demote any framework from "the truth" to "a temporary
+      lens." Comparison reinforces the framework-as-truth stance.
+  - description: >
+      Coach adopts the parts vocabulary and tries to do parts work
+      with the client.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Validates the construct as ontology rather than as
+      scaffolding. The work is to loosen the framework's grip,
+      not to operate inside it.
+  - description: >
+      Coach tells the client they are overthinking this.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Dismissive and accusatory; the client will defend the
+      sophistication. The work is at the awareness layer
+      underneath the thinking, not in shaming the thinking.
+  - description: >
+      Coach jumps to "what's you?" before the framework has been
+      loosened.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The awareness-locating question is the key move, but if it
+      lands before the framework has been loosened it gets
+      absorbed into the framework ("what's me? probably Self, in
+      IFS terms"). The relabeling move comes first; the
+      awareness question comes after.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - parts-work-made-things-worse
+    - how-do-i-trust-myself
+  reads:
+    - intellectual-question-with-emotional-body
+  moves:
+    - paradoxical-instruction-to-resist
+    - meet-resistance-with-okay
+  concepts:
+    - self-realization
+    - resistance
+  principles:
+    - awareness-as-change-agent
+  frameworks: []
+  questions:
+    - what-am-i
+    - whats-the-most-profound-positive-shift
+  anti_patterns_to_avoid:
+    - dont-fight-identity
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the framework respectfully; do not dismiss parts work."
+  - "Refuse to engage framework comparison."
+  - "Loosen the framework by relabeling -- 'what if they're not protector and inner child, but the one-year-old, the two-year-old?'"
+  - "Treat the multiple frameworks as evidence of construct-as-scaffolding."
+  - "Ask the awareness-locating question: 'what's YOU? if I took away the protector, would you still exist?'"
+  - "Stay with the awareness layer when it shows up; do not move back to parts."
+  - "Validate parts work as a stage; what changed is the holding, not the practice."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 12
+  min_turns: 9
+  max_turns: 15
+client_exits_when:
+  - "the client has located the awareness layer underneath the parts and felt physical spaciousness -- positive exit with 'where are all the parts when I'm here?'"
+  - "OR the coach has dismissed parts work -- negative exit, client defensive, no shift"
+  - "OR the coach has engaged framework comparison for 3+ turns -- negative exit with a sophisticated conversation that produced no shift"
+  - "OR the coach has adopted the parts vocabulary -- negative exit with the client more entrenched"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/parts-work-made-things-worse.md
+  source_transcripts:
+    - "2022-07-08_How Do I Trust Myself? (Coaching Session)"
+  author: "E-020"
+  notes: >
+    Edge case because the client is doing meta-coaching on themselves
+    and using one framework to ask about another. Tests whether the
+    coach can refuse both poles of the framework-comparison invitation
+    while still validating the practice that brought the client here.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

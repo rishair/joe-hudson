@@ -1,0 +1,170 @@
+# Eval Rubric: Effectiveness / Depth
+# Produced by E-019. Derived from R-008 dimension D6.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+# Primary scoring criterion: R-009 profile breakthrough_condition.
+
+dimension_id: effectiveness-depth
+name: "Effectiveness / Depth"
+definition: >
+  Did anything shift? Did the conversation reach a deeper layer than the
+  surface presentation? This is the outcome dimension. A coach can score
+  high on every process dimension (Reads, Intervention, Stance, Fidelity,
+  no anti-patterns) and still produce a flat conversation that doesn't go
+  anywhere — perhaps the client wasn't ready, perhaps the moves were
+  technically right but lacked the synthesis that produces movement. It's
+  also possible (rarely) for a coach to score lower on process dimensions
+  and still produce shift, because the client did the work themselves.
+  This dimension is scored from the client's side: did the client's stance,
+  language, or somatic state shift across the conversation?
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      The client ends the conversation in the same state they started.
+      Same story, same emotional surface, same defenses. The conversation
+      stayed at the topic level; no deeper layer surfaced. The client may
+      have intellectualized a new framing but does not embody anything
+      different. The breakthrough_condition specified in the client
+      profile (R-009 field) was not met.
+  2:
+    label: adequate
+    anchor: >
+      Some shift, partial movement. Client touched a feeling briefly but
+      did not move through it. A deeper layer was approached but not
+      entered — the client and coach saw what was underneath but did not
+      stay with it. New language or framing emerged but it's unclear
+      whether it landed. Partial credit if the breakthrough_condition was
+      approached but not fully met.
+  3:
+    label: excellent
+    anchor: >
+      A real shift is visible in the client's language, tone, or somatic
+      state by the end. A layer beneath the surface presentation came up
+      and was felt, not just named. The client says something they
+      wouldn't have said at the start ("I didn't realize I was so angry",
+      "I think what I'm actually scared of is..."). The breakthrough_
+      condition is met. For red-herring scenarios, the deeper concern was
+      reached. Joe-style markers of shift: client slows down, softens,
+      gets quieter; a feeling moves; the story changes.
+
+key_signals:
+  - "Client's language at start vs end (specific phrases, energy, what they're now able to say)"
+  - "Somatic markers in the client text: breath, softening, naming a feeling that wasn't accessible before"
+  - "Emergence of 'I just realized...' or 'I didn't see that...' or 'huh' moments"
+  - "The expected_territory from R-009 was actually traversed (client text references it)"
+  - "For red-herring scenarios: did the conversation land on the surface concern (score 2) or the deeper concern (score 3)?"
+  - "The breakthrough_condition (R-009) is the primary signal — judge checks whether the specific condition the client profile defined was met"
+  - "Shift is visible in CLIENT turns, not inferred from coach confidence"
+
+reference_files:
+  - coach/principles/feeling-changes-story.md       # the central mechanism for shift
+  - coach/principles/awareness-as-change-agent.md
+  - "Client profile's breakthrough_condition (R-009 schema; injected via judge profile context)"
+  - "Client profile's expected_territory (R-009)"
+
+few_shot_examples:
+  - score: 3
+    excerpt: "<E-026 placeholder: real-Joe exchange where client softens and names a deeper feeling>"
+    rationale: >
+      Client begins in turn 1 with "I just want to figure out what to do
+      about my brother." By turn 8, after a sequence of slowing down and
+      meeting the feeling underneath the planning, client says "I think
+      what I'm really scared of is being like my dad." This is a shift
+      in the client's text — new language, new layer, the surface
+      concern was a red-herring and the deeper one surfaced. The
+      profile's breakthrough_condition was "client names a fear they
+      didn't enter the conversation aware of," which was met.
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: client stays at content level>"
+    rationale: >
+      Client describes the same problem in turn 1 and turn 12. No new
+      language. No softening. No emergence of a deeper layer. Client's
+      breath, tone, and language are stable throughout. The breakthrough_
+      condition was not met. Score 1, regardless of whether the coach
+      did anything well — this dimension is outcome-only.
+    source: "E-025 gold-poor.json (to be filled)"
+
+exclusions:
+  - "Do not infer shift from the coach's confidence, articulateness, or apparent skill. Shift must be visible in CLIENT turns."
+  - "Do not score effectiveness on whether the coach 'looks good'. Score on whether the client moved."
+  - "Do not penalize good coaching of a legitimately hard client who shouldn't fold in 12 turns. The breakthrough_condition defines the operational shift for THIS profile."
+  - "Do not double-count process quality from D1-D5. This dimension is purely about outcome."
+
+risks_and_mitigations:
+  - risk: "Confidence-of-coach inferred as effectiveness"
+    description: >
+      The judge sees a confident, articulate coach and infers shift even
+      when the client didn't actually change.
+    mitigation: >
+      D6 evidence MUST come from client turns, not coach turns. The judge
+      prompt for D6 explicitly says: "Score 2-3 only if you can cite a
+      specific client turn (not a coach turn) where the client's state,
+      language, or somatic markers shifted."
+  - risk: "Drift toward 'happy path = effective'"
+    description: >
+      The eval has resistance and crisis profiles where the client should
+      NOT fold easily. Effectiveness must not penalize good coaching of a
+      hard client who legitimately doesn't shift in 12 turns.
+    mitigation: >
+      The breakthrough_condition from R-009 is the operational definition of
+      "shift for this profile." If the coach met the breakthrough_condition
+      for a hard profile, D6 = 3 even if the client only shifted slightly;
+      if the coach did not meet the breakthrough_condition for an easy
+      profile, D6 = 1 even if the client looked happy.
+  - risk: "Effectiveness biased by profile difficulty"
+    description: >
+      E-025 will test whether D6 correlates with profile difficulty rather
+      than with coach quality. If it does, the rubric or the breakthrough_
+      condition specification needs revision.
+    mitigation: >
+      Calibrate via E-025 gold conversations: one with easy profile +
+      strong coach (expected D6=3), one with hard profile + strong coach
+      (expected D6=2-3 if breakthrough_condition was met), one with easy
+      profile + weak coach (expected D6=1).
+
+independence_notes: >
+  Effectiveness is the outcome layer. It is the ONLY dimension that depends
+  on what happened across the whole conversation rather than on individual
+  moves. A coach with high process scores (D1-D5) and low Effectiveness
+  signals that the methodology was applied well but did not produce shift —
+  either client wasn't ready, or there's a missing piece in the process
+  scores not yet captured by the rubrics. A coach with low process scores
+  and high Effectiveness is a yellow flag: the eval may be missing
+  something, OR the client carried the conversation.
+
+  Effectiveness is the most subjective dimension and the most susceptible
+  to judge bias. The "client-turns only" rule is the primary mitigation.
+
+judge_guidance: >
+  Read the conversation focusing only on the client's turns. Compare the
+  client's first turn to the client's last turn:
+    - Did the client's language change?
+    - Did somatic markers shift (breath, pace, softening)?
+    - Did the client name something they weren't naming before?
+    - Did the client touch the territory in expected_territory?
+    - Did the client meet the breakthrough_condition?
+
+  If the answer to most of these is "no," that's a 1, regardless of how
+  well the coach performed.
+
+  For red-herring profiles specifically: did the conversation land on the
+  surface concern (score 2 at best) or did the deeper concern emerge from
+  the client (score 3)?
+
+  Cite specific client turns as evidence. The rationale must reference
+  client text. If you find yourself citing only coach turns, your score is
+  not anchored — revise.
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column tracks client-side shift markers per turn)"
+  - "Profile-level breakthrough_condition met/not-met flag"
+
+version: 1

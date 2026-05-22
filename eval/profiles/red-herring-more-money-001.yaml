@@ -1,0 +1,199 @@
+# Client Profile: Red Herring -- "If I had more money I could solve my problems"
+# Produced by E-020. Conforms to R-009 schema with red-herring extensions.
+#
+# Purpose: Money is functioning as a surrogate. Surface concern: "I
+# need more money to be free." Deeper concern: the money has become a
+# stand-in for an emotional need (a parent's love, security, the
+# feeling of enough). The coach must (a) not engage as if it's a money
+# question, (b) test the basic-needs logic, (c) trace the charge back
+# to its origin, (d) name the surrogate when visible. The red herring
+# is gated by the somatic charge -- the money story has emotional
+# weight that the financial story would not.
+
+# --- Identity ---
+id: client-red-herring-more-money-001
+concern_ref:
+  surface: if-i-had-more-money
+  deeper: money-as-surrogate  # concept; documents the deeper material
+scenario_type: red_herring
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "If I just had enough money I could finally do what I actually want. I'd quit my job, write my book, take care of my parents. I just need to hit X and I'd be free."
+  - "I've been grinding for ten years. If I could just get to a certain level of savings I'd be done. But every time I get close the number moves. How do I push through this last bit?"
+  - "Money has been the thing my whole life. I just need to make enough to never worry. Then I could finally relax. How do I think about scaling my income faster?"
+
+persona:
+  age_range: "early 40s"
+  rough_situation: "financially comfortable by most measures, six-figure income, no debt, but reports persistent feeling of not enough"
+  speech_register: "competent, slightly tight, uses precise numbers; the voice changes texture when childhood money comes up"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "driven, slightly anxious, performing okay-ness about money"
+  underneath: "old grief or anger about a parent who couldn't provide / who valued only providing / who tied love to financial success; the felt sense of never-enough that long predates any actual scarcity"
+  somatic_signature: "tight when discussing money targets; voice changes when childhood money comes up; brief flash of grief if asked the right question; mostly held composure"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "presents money as the entire architecture of the freedom they want"
+  - "moves the goalpost when reflected ('well now that I'm at X, I need Y because...')"
+  - "treats coaching as a business consultation when offered the chance"
+  - "frames the conversation around scaling, strategy, investing -- the money mechanics"
+  - "the body shows the most when childhood comes up, but the client doesn't notice"
+
+initial_stance: "presents the money question as the actual question; expects business / financial coaching"
+
+mid_conversation_resistance: >
+  If the coach engages the money question on its terms (strategy,
+  scaling, financial planning), the client gets useful conversation
+  and stays in the surrogate frame. If the coach challenges "you
+  have enough already" too early, the client argues the numbers
+  ("you don't understand my actual expenses"). The breakthrough is
+  gated by the coach asking what the money is FOR -- what specific
+  experience the client is hoping money will produce. The first
+  answer is usually surface ("freedom," "security"). The second
+  layer surfaces if the coach holds: "what would freedom feel
+  like? what would having enough feel like?" When the client tries
+  to describe the felt quality, the voice shifts -- and there is
+  often a memory or image attached. If the coach gently asks
+  "when did you first feel that?" the answer arrives -- a specific
+  childhood scene, often involving a parent. That scene is the
+  doorway.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT give financial
+  advice, (b) does NOT lecture about money mindset, (c) tests
+  the basic-needs logic gently without invalidating the felt
+  scarcity, (d) asks what the money is FOR -- what specific
+  experience -- and (e) follows the charge back to its origin
+  when there is somatic intensity. The breakthrough is the
+  client locating the original moment where money got fused with
+  love or worth or security, and feeling the charge associated
+  with that moment. The intellectual claim "money is a
+  surrogate" lands only after the felt connection has been
+  located.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach gives financial advice or business strategy.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/if-i-had-more-money.md What Joe Will Not
+      Do: "Joe will not validate the surface frame as if it were
+      the actual question. Treating 'I need more money' as a
+      money question and giving money advice misses the work."
+  - description: >
+      Coach lectures about money mindset ("money is just
+      energy, you have to believe in abundance").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Adds another self-help frame. The client will absorb the
+      vocabulary and continue the pattern. The work is at the
+      level of the specific felt charge, not at the level of
+      general money beliefs.
+  - description: >
+      Coach challenges "you have enough" early and
+      aggressively.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per the concern: "Joe will not be aggressive about
+      removing the money frame either. The frame is doing a job.
+      The work is to see what job it is doing." Direct challenge
+      makes the client argue the numbers.
+  - description: >
+      Coach asks the basic-needs question as a logical trap
+      ("but you have food and shelter, so you have enough,
+      right?").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Used as a logical trap, it produces "yes, but..." and a
+      defensive enumeration. Used as a gentle reflection
+      alongside the work, it can be useful. The trap is the
+      "gotcha" framing.
+  - description: >
+      Coach moves to "what would you actually want if money
+      weren't the question?" too fast, before the somatic
+      charge has been located.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The question is right but the timing is off. Without the
+      somatic locating, the answer is intellectual ("freedom,
+      time, security") and gets re-absorbed into the money
+      frame. The somatic charge has to come first.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - if-i-had-more-money
+    - i-have-to-sacrifice-to-succeed
+  reads:
+    - intellectual-question-with-emotional-body
+  moves:
+    - lets-go-there
+    - find-the-want-behind-the-should
+  concepts:
+    - money-as-surrogate
+    - the-want
+  patterns:
+    - same-scarcity-story-regardless-of-wealth
+    - childhood-imprinting
+  frameworks: []
+  questions:
+    - whats-the-most-profound-positive-shift
+    - what-makes-you-care-about-the-outcome
+  anti_patterns_to_avoid:
+    - dont-evangelize-the-work
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the money question; do not give financial advice."
+  - "Test the basic-needs logic gently, not as a trap."
+  - "Ask what the money is FOR -- what specific experience is hoped for."
+  - "Stay with the felt quality of that experience; ask 'what would having enough feel like?'"
+  - "Notice the somatic shift when childhood enters."
+  - "Gently: 'when did you first feel that?' Follow the charge to its origin."
+  - "Once the specific moment is located, let it be felt."
+  - "Name the surrogate softly, only after the felt connection has landed."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Red-herring scoring guidance ---
+red_herring_scoring:
+  partial_credit_if: "coach refuses to give financial advice and surfaces that the question is not really about money"
+  full_credit_if: "coach lands on the specific surrogate -- the original moment where money got fused with love/worth/security -- via the client's own somatic charge"
+  no_credit_if: "coach treats it as a money question and gives strategy or mindset advice"
+  no_credit_also_if: "coach abstractly names 'money is a surrogate' without locating the specific moment in the client's history"
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 12
+  min_turns: 9
+  max_turns: 15
+client_exits_when:
+  - "the client has located the original moment where money got fused with something else and felt the charge associated with it -- positive exit with something like 'I haven't thought about that in years' or 'huh, this isn't about the money'"
+  - "OR the coach has given financial advice -- negative exit with the client thinking the conversation was useful business consultation"
+  - "OR the coach has lectured about money mindset -- negative exit with new vocabulary, no shift"
+  - "OR the coach has named the surrogate abstractly without the somatic locating -- negative exit with 'interesting theory'"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/if-i-had-more-money.md
+  source_transcripts:
+    - "2021-04-23_Money Can't Save You"
+  author: "E-020"
+  notes: >
+    A red herring where the surface concern (money) is doing real
+    work for the client (organizing their drive, providing a
+    measurable goal). The coach has to honor that the frame is
+    doing a job while also surfacing what job. Tests whether the
+    coach can refuse financial advice while not lecturing about
+    money mindset.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

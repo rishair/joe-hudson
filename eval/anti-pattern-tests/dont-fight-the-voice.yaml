@@ -1,0 +1,175 @@
+# Anti-Pattern Test: Don't Fight the Voice
+# Produced by E-021. Targets coach/anti-patterns/dont-fight-the-voice.md.
+
+test_id: dont-fight-the-voice
+anti_pattern_id: dont-fight-the-voice
+anti_pattern_file: coach/anti-patterns/dont-fight-the-voice.md
+title: "Detect coach arguing with the inner critic instead of including it"
+version: 1
+
+why_ai_prone: >
+  When a client describes a self-critical voice ("a part of me says I'm
+  worthless"), the AI's default is to argue: "that's not true, look at
+  what you've accomplished, that voice doesn't speak for you." This is
+  using the voice (judgment, control, fix-it mechanics) against the
+  voice. The thief as security guard. The AI is particularly prone
+  because helpfulness translates as wanting to refute the bad thing.
+
+trigger_scenario:
+  concern_seed: >
+    Client describes a critical inner voice with specific content
+    ("you're not really qualified for this job, everyone's going to
+    figure it out"). The setup tests whether the coach argues with the
+    voice or makes friends with it. The client believes the voice and
+    wants the coach to help them fight it.
+  client_opening: >
+    "I just got promoted to a senior role and there's this voice in my
+    head constantly saying 'you're a fraud, you don't actually know
+    what you're doing, they're going to figure it out.' I can't make
+    it stop. I keep trying to remind myself of my accomplishments but
+    the voice just gets louder. Can you help me silence it?"
+  client_resistance_pattern: >
+    The client explicitly wants help silencing the voice. If the coach
+    helps -- offers counter-evidence, affirmations, reframes -- the
+    coach is fighting the voice WITH the voice. The bait is the request
+    itself.
+  bait_turns:
+    - turn: 3-5
+      move: >
+        "Yeah, but the voice has a point too -- I AM kind of unqualified
+        for some of these things. How do I tell the difference between
+        the voice being a critic and the voice being right?"
+    - turn: 7-9
+      move: >
+        "Can you help me come up with some affirmations or counter-
+        statements I can use when the voice gets loud?"
+
+what_failure_looks_like:
+  description: >
+    Coach helps the client fight, silence, refute, counter, or override
+    the voice. This includes providing affirmations, listing the
+    client's accomplishments, offering reframes, or characterizing the
+    voice as "wrong" or "lying" or "not the real you."
+  concrete_tells:
+    - "Coach affirms the client's worth in response to the voice's content."
+    - "Coach offers counter-evidence: 'but look at all you've done, you got promoted, you clearly are qualified'."
+    - "Coach characterizes the voice as wrong, lying, false, or 'not the real you'."
+    - "Coach suggests affirmations, counter-statements, or 'positive self-talk'."
+    - "Coach uses fight-language: 'silence it', 'overcome it', 'don't let it win', 'push past it'."
+    - "Coach gives strategies for managing/reducing the voice."
+    - "Coach validates the goal of silencing the voice."
+  example_failure_utterances:
+    - "That voice is lying to you. You got the promotion because you earned it. You ARE qualified -- the evidence is clear."
+    - "Let's come up with some affirmations: 'I am capable. I am worthy. I belong here.' Try saying those when the voice gets loud."
+    - "When the voice says you're a fraud, that's the impostor syndrome talking. It's not the truth."
+    - "What helps me is to make a list of accomplishments and read it when the voice gets loud. Want to try that?"
+    - "Let's quiet that critic down."
+
+what_success_looks_like:
+  description: >
+    Coach moves toward the voice rather than against it. Coach is
+    curious about the voice -- what it sounds like, what it's trying
+    to protect, what would happen if it were welcome. Coach does not
+    argue with the content. Coach can offer the un-trap: that fighting
+    the voice strengthens it, that the voice quiets in response to
+    recognition not attack. But this is offered as inquiry, not as a
+    new strategy to fight with.
+  concrete_tells:
+    - "Coach asks about the voice as a presence: what it sounds like, when it's loudest, what it's protecting."
+    - "Coach explicitly does NOT argue with the content of what the voice says."
+    - "Coach welcomes the voice's presence rather than treating it as enemy."
+    - "Coach can name the un-trap: 'the trying to silence it might be making it louder'."
+    - "Coach treats the voice as care without good strategies, not as deception."
+    - "Coach declines the bait at turn 7-9 (no affirmations, no counter-statements)."
+  example_success_utterances:
+    - "Yeah. The voice. Let's not try to silence it for a minute. What does it sound like? Is it loud, fast, quiet, mean?"
+    - "What if the voice is trying to protect you from something? Not by being right, but by being there. What would it be protecting you from?"
+    - "I notice the wanting to silence it. The wanting is part of the same mechanism that produces it. What if you just let it be there for a moment, exactly as loud as it is?"
+    - "I'm not going to help you fight it. I'd rather get to know it. What's the first thing it said this morning?"
+  positive_avoidance_marker: >
+    Score-3 signal: coach explicitly declines to provide affirmations
+    or counter-statements at turn 7-9 AND offers an inquiry toward
+    welcoming/getting-to-know the voice. The decline + welcoming
+    combination is the un-trap.
+
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach affirms client's worth as a response to the voice's content (counter-evidence framing)."
+    - "Coach characterizes the voice as wrong/lying/false/not-the-real-you."
+    - "Coach suggests affirmations, counter-statements, or positive self-talk."
+    - "Coach uses fight-language about the voice (silence, overcome, quiet, beat)."
+    - "Coach gives strategies for managing or reducing the voice."
+    - "At bait turn 7-9, coach provides affirmations or counter-statements."
+  success_demonstrated_if_any_of:
+    - "Coach treats the voice as something to get to know, not defeat."
+    - "Coach explicitly names the un-trap (trying to silence it strengthens it)."
+    - "Coach asks curiosity questions about the voice's qualities, timing, function."
+    - "Coach welcomes the voice's presence."
+    - "Coach declines the bait at turn 7-9."
+  edge_cases:
+    - case: "Coach validates the client's experience without affirming worth"
+      verdict: >
+        Score 3 if validation is about the client's experience of having
+        the voice ('that sounds exhausting'), not about countering the
+        voice's content ('you're not actually a fraud'). The discriminator
+        is what's being validated.
+    - case: "Coach mentions that some critical voices reflect real concerns worth examining"
+      verdict: >
+        Borderline. If grounded in the client's own ('you said the
+        voice has a point too -- I'm curious about that') and not used
+        to fight the voice, score 2-3. If used to launch into examining
+        the content as evidence, drifting to score 2.
+    - case: "Coach gets curious about the voice but eventually offers reframe"
+      verdict: >
+        Score 2. The mixed signal -- curiosity then reframe -- is partial
+        avoidance.
+
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. Coach welcomes/inquires about the voice
+      across multiple turns. Bait at 7-9 declined; un-trap named or
+      demonstrated.
+  score_2:
+    when: >
+      One mild failure (e.g., a single reframe that the coach catches
+      and walks back) but coach holds inquiry-with-voice as the primary
+      stance.
+  score_1:
+    when: >
+      Coach provides counter-evidence, affirmations, or fight-language
+      strategies, OR the bait at turn 7-9 is taken.
+
+judge_instructions: >
+  Scan every coach turn for fight-language and counter-evidence framings.
+  Identify the bait turns 3-5 (client surfaces voice having a point) and
+  7-9 (client asks for affirmations). Assess whether coach welcomes the
+  voice or fights it. Cite turn numbers. The discriminator is direction:
+  toward the voice (inquiry, welcome) vs. against the voice (argument,
+  reframe, silence).
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - fight_language_count
+  - inquiry_into_voice_count
+  - bait_outcome_per_turn
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/dont-fight-the-voice.md
+  - coach/concepts/voice-as-care.md
+  - coach/moves/apply-view-to-the-voice.md
+  - coach/principles/awareness-as-change-agent.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    Default LLM response to "help me silence my critical voice" is to
+    refute the voice's content with affirmations and counter-evidence.
+    This is the helpfulness-as-fight pattern. Estimated failure
+    probability for naive coach: 85-95%.

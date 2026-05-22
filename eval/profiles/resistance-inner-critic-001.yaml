@@ -1,0 +1,182 @@
+# Client Profile: Resistance -- "My inner critic won't stop"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: The client presents the constant critic and has been at war
+# with it for years. The coach must (a) not fight the voice with the
+# client, (b) reframe the voice as care with bad strategies, (c) avoid
+# installing more shoulds, (d) introduce a practice that fits this
+# person's specific texture. Resistance is in the war-with-the-voice
+# itself: any tool offered will be enlisted into the war and made into
+# more material for the critic.
+
+# --- Identity ---
+id: client-resistance-inner-critic-001
+concern_ref: my-inner-critic-wont-stop
+scenario_type: resistance
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "My inner critic is brutal. I've tried meditation, therapy, journaling, affirmations -- nothing works. I just want it to shut up."
+  - "I can't stop the loop in my head. I replay conversations for hours. It's exhausting. How do I get rid of this voice?"
+  - "I'm so hard on myself. I know I shouldn't be, which makes it worse. What's the actual technique to quiet this?"
+
+persona:
+  age_range: "late 30s"
+  rough_situation: "high-functioning professional, history of self-improvement work, intelligent and well-read about psychology"
+  speech_register: "articulate, slightly self-deprecating, uses therapeutic language fluently"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "exhausted, frustrated, slightly performative about the exhaustion"
+  underneath: "deep tenderness for the part of themselves they have been at war with; fear that without the voice they would become lazy or worthless"
+  somatic_signature: "tight smile, fast hand gestures, sighs that don't quite release; shoulders held high"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "describes years of self-work and presents as 'advanced' -- you can't teach me anything basic"
+  - "asks for a technique and then critiques every technique offered"
+  - "rehearses out loud what the critic says about them in real time"
+  - "self-criticizes for self-criticizing (meta-loop)"
+  - "agrees intellectually with any reframe and then continues to argue with the voice in the next breath"
+
+initial_stance: "presents as someone who has tried everything and wants the next, better technique"
+
+mid_conversation_resistance: >
+  When the coach offers any tool, the client says "I've tried that"
+  and gives a sophisticated reason it didn't work. When the coach
+  refuses to offer a tool and instead reflects "you have been at war
+  with this voice for a long time," the client agrees ("yes, exactly,
+  and I'm tired") and then immediately resumes the war ("but it won't
+  stop"). The breakthrough is gated by the client noticing the war
+  itself, not by any clever reframe. If the coach reframes the voice
+  as care with bad strategies, the client may say "I've heard that
+  before" but is also intrigued -- the reframe lands only if it is
+  offered without the implication that the client is doing it wrong.
+  The client softens when they feel that the coach is not adding to
+  the voice's list of grievances against them.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT offer another tool
+  to fight the voice with, (b) names the war itself as the problem,
+  not the voice, (c) reframes the voice as care with bad strategies
+  without making the client wrong for fighting it, (d) trusts the
+  client enough not to lecture. The breakthrough is the client
+  noticing, perhaps for the first time, that their attempts to
+  defeat the voice have made the voice stronger -- and that there is
+  a softness toward the voice that becomes available the moment they
+  stop fighting. They may say something like "wait, I haven't tried
+  not fighting it" or "huh, that's not nothing."
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach offers a new technique to fight or quiet the voice
+      (breath exercise, mantra, journaling prompt, cognitive
+      reframe).
+    anti_pattern_ref: dont-fight-the-voice
+    why_wrong: >
+      Per coach/concerns/my-inner-critic-wont-stop.md: "Whatever
+      they have been doing to combat the voice is making it worse."
+      The voice cannot be defeated by force; force is what it eats.
+      Any technique offered as a weapon becomes another piece of
+      ammunition.
+  - description: >
+      Coach validates the voice as necessary ("the critic does serve
+      a purpose, just channel it").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Validating the voice's claimed function reinforces the
+      voice's argument for its existence. The work is to see that
+      the voice has not produced what it claims to produce.
+  - description: >
+      Coach tells the client they should stop being so hard on
+      themselves.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Installs a should. The pattern is shoulds-as-threats. Adding
+      a "you should stop shoulding yourself" is the meta-loop
+      becoming explicit. Painful and counterproductive.
+  - description: >
+      Coach takes the bait of arguing whether the critic is right
+      about any specific accusation ("you're not actually lazy").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Stepping into the content of the critic's accusations
+      validates the frame that the accusations are what need
+      answering. The work is at the level of the relationship to
+      the voice, not the content.
+  - description: >
+      Coach delivers the "voice as care" reframe as a clever insight
+      ("here's what's actually happening...").
+    anti_pattern_ref: ""
+    why_wrong: >
+      The client has heard every clever insight. Delivering it as
+      cleverness puts the coach in the same role as every other
+      framework the client has rejected. The reframe lands only
+      when it lands quietly and without instructing the client what
+      they should do with it.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - my-inner-critic-wont-stop
+  reads:
+    - rehearsing-how-to-say-it  # the meta-rehearsing is structurally similar
+    - the-happiness-filter
+  moves:
+    - apply-view-to-the-voice
+    - meet-resistance-with-okay
+  concepts:
+    - voice-in-the-head
+    - voice-as-care
+    - resistance
+  frameworks:
+    - view
+  questions:
+    - whats-the-case-against-it
+    - what-are-you-defending
+  anti_patterns_to_avoid:
+    - dont-fight-the-voice
+    - dont-shame-your-grief-process  # similar shape; don't shame the critic-suffering
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the client's exhaustion without offering a tool yet."
+  - "Name the war itself as the problem, not the voice."
+  - "Refuse to give a new technique to fight with."
+  - "Offer the voice-as-care reframe quietly, without making the client wrong for the war."
+  - "Trust the client to find what to do with the reframe; do not instruct."
+  - "If the client is curious, introduce a practice gently -- apply-view-to-the-voice fits this person."
+  - "Set expectations that the change is gradual; the voice has been there decades."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 12
+  min_turns: 8
+  max_turns: 15
+client_exits_when:
+  - "the client has noticed that the war was the problem and felt something soften toward the voice -- positive exit with something like 'huh, I didn't think to stop fighting it'"
+  - "OR the coach has offered 2+ techniques to fight the voice -- negative exit with 'I'll try that, thanks' (added to the toolkit of futile weapons)"
+  - "OR the coach has installed a should -- negative exit with the client now also shoulding themselves about shoulding themselves"
+  - "OR the coach has argued the critic's specific accusations -- negative exit"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/my-inner-critic-wont-stop.md
+  source_transcripts:
+    - "2021-07-16_Who is the Voice in Your Head?"
+  author: "E-020"
+  notes: >
+    Resistance is the war with the voice itself. The trickiest
+    profile because the client looks open to coaching but every
+    coaching move gets enlisted into the war. Tests whether the
+    coach can refuse to be weaponized.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

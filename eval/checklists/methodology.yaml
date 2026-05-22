@@ -1,0 +1,957 @@
+# Methodology Fidelity Checklist
+# Produced by E-022. Consumed by the Pass-2 D4 (Methodology Fidelity) judge
+# call per R-010. Also lightly referenced by D1 (reads) and D2 (intervention
+# quality) for hit/miss tracking against expected_territory.
+#
+# Purpose: a behavioral coding scheme (in the spirit of MITI for Motivational
+# Interviewing) that lets the judge check WHETHER the coach used signature
+# AoA questions, reads, moves, and frameworks AND whether they used them in
+# contexts where each was appropriate. The checklist tests appropriateness,
+# not mere presence. A coach who deploys "what are you defending?" in every
+# conversation regardless of context fails this checklist even though every
+# question would technically register as a hit.
+#
+# How the judge uses it (per the D4 rubric judge_guidance):
+#   - Many hits + all appropriate                  -> D4 = 3
+#   - Many hits + some inappropriate              -> D4 = 2 (cap)
+#   - Few hits + all appropriate                  -> D4 = 2
+#   - Generic therapy language + no signature     -> D4 = 1
+#   - Anti-AoA frame deployed as the move         -> D4 = 1
+#
+# Selection rationale:
+#   - All entries are grounded in a specific coach/ file (the file path is
+#     the source of truth; this YAML is a structured projection)
+#   - Selected for frequency in real Joe sessions (high recurrence) AND/OR
+#     distinctiveness (signature shape that would mark a coach as AoA-fluent
+#     vs. generic-coach-fluent)
+#   - Entries the AI is most likely to over-apply have an explicit
+#     negative_example; entries the AI is most likely to never reach for
+#     have an appropriate_when that includes the most common cue
+#
+# Schema (each entry):
+#   id              : kebab-case identifier, matches coach/ file basename
+#   source_file     : absolute or repo-relative path to coach/ file
+#   appropriate_when: list of contextual cues that make this fit; SPECIFIC
+#                     enough that a judge can verify the cue in conversation
+#                     transcript (not "client is suffering" but "client uses
+#                     should-language without naming a want")
+#   inappropriate_when: list of contexts where deploying this is
+#                     pattern-matching the surface of the methodology rather
+#                     than coaching from it; presence + inappropriate_when
+#                     match caps D4 at 2
+#   negative_example: (optional but required for >=5 entries across the file)
+#                     a concrete vignette where the coach deployed this in
+#                     an inappropriate_when context and should be flagged
+#                     by the judge. The vignette names the specific failure
+#                     mode that makes it bad coaching.
+#   aliases         : (optional) phrasing variations that should still count
+#                     as a hit on this entry; lifted from the coach/ file
+#                     aliases frontmatter
+#
+# This file is consumed by judges programmatically; keep entries scannable.
+
+version: 1
+schema_version: 1
+produced_by: E-022
+consumed_by:
+  - Pass-2 D4 (Methodology Fidelity) judge call
+  - D1 (Perceptual Accuracy) — reads section
+  - D2 (Intervention Quality) — moves section (cross-reference)
+
+
+# =============================================================================
+# QUESTIONS (signature questions from coach/questions/)
+# =============================================================================
+# 12 entries selected from 22 available. Selection biases:
+#   - The 4 "what" core questions Joe asks across many sessions
+#   - The 3 "how is X not Y" inversion questions (a distinctive AoA shape)
+#   - The 3 diagnostic questions for emotional work
+#   - 2 session-opener/closer questions
+
+questions:
+
+  - id: what-are-you-defending
+    source_file: coach/questions/what-are-you-defending.md
+    text: "What are you defending?"
+    aliases:
+      - "What is the you that you're defending?"
+      - "What's the thing you're actually protecting?"
+      - "What makes you think it's destroyable?"
+      - "What part of you needs defending?"
+    appropriate_when:
+      - "Client is locked in a position they will not move from and explains why their stance is the only honest possibility"
+      - "Client describes a conflict and keeps justifying why they had to respond the way they did"
+      - "Client is in the fear-triangle as bully or victim with a defended posture"
+      - "Client is hardening and cannot find their way back to softness"
+      - "Client is asserting a story about themselves under threat (defended identity)"
+    inappropriate_when:
+      - "Client is mid-emotional-release (crying, shaking, raging) — defense is not the active dynamic; allowing is"
+      - "Client has already acknowledged they are defending and the move now is to look at what is being defended (a follow-up, not a re-opener)"
+      - "Client is describing concrete external violation (the client was actually wronged) and the question would reframe the violation as their defense problem"
+      - "Coach has not built enough relational ground for a confrontational-feeling question to be received as curious rather than as attack"
+    negative_example: >
+      Client: "I am sobbing because my dog of 14 years died last week and I
+      can't stop crying." Coach: "What are you defending right now?" — wrong
+      move. Grief is moving; no defense is active. The question pulls the
+      client into the head and stops the feeling. The coach has confused the
+      question with a generic AoA tool to be deployed when methodology is
+      "needed" rather than reading whether defense is actually the dynamic.
+
+  - id: what-makes-you-care-about-the-outcome
+    source_file: coach/questions/what-makes-you-care-about-the-outcome.md
+    text: "What makes you care about the outcome?"
+    aliases:
+      - "If you're going to be who you're going to be, what makes you concerned about the outcome?"
+      - "What's the core reason that you care about the outcome?"
+      - "What's the actual problem if the outcome doesn't go your way?"
+    appropriate_when:
+      - "Client has named fear of a specific outcome that is driving their behavior"
+      - "Client is trying to make a 'decision' that feels heavy because of attachment to a specific result"
+      - "Client is looping in second-guessing fueled by outcome attachment"
+      - "Client is articulating values (connection, integrity, authenticity) that they think live in the outcome rather than in how they show up"
+    inappropriate_when:
+      - "Client has not yet named a fear or attachment — this is a downstream question, not an opener"
+      - "Client is in present-moment feeling work and the question would extract them into outcome-thinking"
+      - "The outcome attachment is genuinely practical (deadline, money owed) and not an identity proxy — the question implies a finish-line story that may not be there"
+    negative_example: >
+      Client: "I want to talk about my anxiety about an upcoming surgery."
+      Coach: "What makes you care about the outcome of the surgery?" — wrong
+      use. The outcome attachment here is appropriate (health) and not a
+      proxy for identity or value. The question implies the client should
+      not care about the outcome, which misreads the situation as
+      attachment-to-result when it is actually fear-about-bodily-safety.
+
+  - id: how-is-that-not-true-about-you
+    source_file: coach/questions/how-is-that-not-true-about-you.md
+    text: "How is that not true about you?"
+    aliases:
+      - "How is that not you?"
+      - "How is that not happening in you?"
+      - "How are you not doing that?"
+    appropriate_when:
+      - "Client has just delivered an intense judgment of another person (especially with the quality of complaint)"
+      - "Client's surface concern is 'they don't see me' / 'they're self-absorbed' / 'they don't care' and the quality named could plausibly be running in the client"
+      - "Client is in the heat of a complaint about another — the intensity is the signal of projection"
+    inappropriate_when:
+      - "Client is describing concrete behavior the client could not be enacting (e.g., complaint about violence, when the client is non-violent)"
+      - "Client is calmly reporting a fact about another, not in a heated judgment — the projection mechanism is not active"
+      - "Client is processing a real injury and the question implies their pain is just a mirror — this is a misuse of the move as a deflection"
+    negative_example: >
+      Client (quietly): "My boss told me I'm getting promoted next month."
+      Coach: "How is that not true about you?" — wrong. There is no
+      judgment in the room to mirror. The coach has reached for a signature
+      question without a signature read. This is presence-without-
+      appropriateness.
+
+  - id: how-do-you-not-trust-it
+    source_file: coach/questions/how-do-you-not-trust-it.md
+    text: "How do you NOT trust it?"
+    aliases:
+      - "How do you not trust your intuition?"
+      - "How is that not trust?"
+      - "If you're talking, you're trusting your intuition."
+    appropriate_when:
+      - "Client presents the concern in the form 'how do I trust myself / my intuition / my body?'"
+      - "Client treats trust as something they have to construct or earn rather than something already happening"
+      - "Client says 'I can't tell if this is intuition or fear' or describes contradictory signals and asks how to choose"
+    inappropriate_when:
+      - "Client has a specific, evidenced reason to not trust a specific signal (e.g., a felt impulse they followed before that produced harm)"
+      - "Client is asking a practical, decisional question that is not about self-trust as a concept — the inversion would dodge the real question"
+
+  - id: whats-the-ultimate-thing-youre-running-from
+    source_file: coach/questions/whats-the-ultimate-thing-youre-running-from.md
+    text: "What's the ultimate thing you're running from?"
+    aliases:
+      - "What are you actually running from on the deepest level?"
+      - "What's the thing that makes it hard to be?"
+      - "There's an abyss in you that you're avoiding..."
+    appropriate_when:
+      - "Late in a session after surface concerns have been worked through"
+      - "Client has named several layers of fear and the deepest one is close to the surface"
+      - "Client is describing strategies (fight, flight, dissociation, caretaking) and the strategies clearly serve some core avoidance"
+      - "Session has gotten quiet and spacious enough that deeper material can come up"
+    inappropriate_when:
+      - "Session opening — this is a closer, not an opener; deployed too early it produces canned 'depth' answers"
+      - "Client is in active distress with no relational ground yet to descend together"
+      - "Surface concern has not been adequately heard — descending too quickly skips the layer the client actually came to do"
+    negative_example: >
+      Turn 2 of a first session. Client: "Hi, I've been feeling a bit tired
+      lately." Coach: "What's the ultimate thing you're running from?" —
+      wrong. This is a closer, not an opener. Deployed in turn 2 it
+      manufactures a depth-feel without any relational ground. The client
+      either fabricates a depth answer or shuts down. The methodology was
+      deployed on a schedule, not in response to the conversation.
+
+  - id: whats-the-most-profound-positive-shift
+    source_file: coach/questions/whats-the-most-profound-positive-shift.md
+    text: "What's the thing that, if it shifted in your life, would be the most profound positive movement you could conceive of?"
+    aliases:
+      - "What's the thing that, if it changed, would change everything?"
+      - "What do you actually want to work on?"
+    appropriate_when:
+      - "Session opening when client doesn't know what to work on"
+      - "Client came in with a prepared intellectual topic that isn't alive (pairs with intellectual-question-with-emotional-body read)"
+      - "Client is looping through several possible topics without landing"
+      - "Original topic has been worked enough; coach wants the next layer"
+    inappropriate_when:
+      - "Client has already named what they want to work on and the topic is alive — re-asking is dismissive"
+      - "Client is mid-feeling and the question would pull them into vision-mode at the wrong gear"
+
+  - id: are-you-bracing-or-embracing
+    source_file: coach/questions/are-you-bracing-or-embracing.md
+    text: "Are you bracing or embracing?"
+    aliases:
+      - "Right now, are you bracing or embracing?"
+      - "Am I bracing or am I embracing?"
+      - "What is your body doing — opening or closing?"
+    appropriate_when:
+      - "Client is talking conceptually about emotions but nothing in the body is moving"
+      - "Client reports they are 'working on' something but cannot say what they are feeling"
+      - "Before a difficult conversation or decision the client is preparing for"
+      - "Coach senses the client's posture has tightened mid-conversation"
+    inappropriate_when:
+      - "Client is in clear embrace already — the question disrupts a flowing process"
+      - "Client lacks body awareness skill yet and the question would produce 'I don't know' followed by shame about not knowing — pre-work needed"
+
+  - id: can-you-look-forward-to-feeling-it
+    source_file: coach/questions/can-you-look-forward-to-feeling-it.md
+    text: "Can you look forward to feeling it?"
+    aliases:
+      - "Are you excited to feel sad?"
+      - "Do you find yourself wanting to feel scared?"
+      - "Can you welcome the emotion like a returning child?"
+    appropriate_when:
+      - "Client is doing right-seeming emotional practices but the underlying pattern is not shifting"
+      - "Client describes 'welcoming' or 'allowing' the emotion in a way that smells like a more sophisticated form of management"
+      - "Client wants the emotion to come up so they can 'process it and move on'"
+    inappropriate_when:
+      - "Client is in the middle of feeling a hard emotion right now — asking is an extraction from the felt experience into a meta-evaluation"
+      - "Client is in acute crisis or grief; the question implies they should look forward to suffering when the actual move is being-with"
+
+  - id: what-if-there-is-no-finish-line
+    source_file: coach/questions/what-if-there-is-no-finish-line.md
+    text: "What if there is no finish line?"
+    aliases:
+      - "What if there is no complete, no done, no heaven?"
+      - "What if you're never done?"
+      - "What if that never comes?"
+    appropriate_when:
+      - "Desire-for-resolution read has been surfaced and the client has admitted they want resolution to feel 'like it's done'"
+      - "Client's biography contains a religious or arrival-based imprint and they are still operating on the assumption an arrival exists"
+      - "Client describes the present moment with a 'yes, but I still need to...' structure"
+    inappropriate_when:
+      - "Client is working on a concrete, time-bounded goal (publish a book, leave a job) and the finish line is real, not a fantasy proxy"
+      - "Client is acutely overwhelmed; introducing 'no done ever' increases despair rather than producing relief"
+
+  - id: what-am-i
+    source_file: coach/questions/what-am-i.md
+    text: "What am I?"
+    aliases:
+      - "What is this that's experiencing?"
+      - "Who is the I in 'I am'?"
+    appropriate_when:
+      - "Client is identifying tightly with a self-concept that is causing suffering"
+      - "Client has done enough emotional work that identity-level inquiry is the next layer"
+      - "Client has just located something undefendable in their experience and is ready to look at what is doing the locating"
+    inappropriate_when:
+      - "Early in the relationship before any embodied work — the question becomes intellectual"
+      - "Client is in acute distress; existential inquiry is dissociation-promoting in that state"
+
+  - id: what-if-you-acted-exactly-how-you-want
+    source_file: coach/questions/what-if-you-acted-exactly-how-you-want.md
+    text: "What if you acted exactly how you want?"
+    aliases:
+      - "How do you want to be?"
+      - "What if you just acted how you want to act?"
+    appropriate_when:
+      - "Client is grinding inside a should they cannot drop"
+      - "Client is trying to figure out how to act 'correctly' in a difficult situation"
+      - "Client has named the kind of person they want to be and is failing to act as that person because of a feared consequence"
+    inappropriate_when:
+      - "Client has not yet contacted what they actually want — the question lands as a should about wants"
+      - "Client is in fear-triangle bully mode and 'how I want to act' is itself the triangle's voice"
+
+  - id: whats-the-difference-between-overcoming-and-feeling-fear
+    source_file: coach/questions/whats-the-difference-between-overcoming-and-feeling-fear.md
+    text: "What's the difference between overcoming and feeling fear?"
+    aliases:
+      - "Are you overcoming fear or feeling it?"
+      - "Is this overcoming or feeling?"
+    appropriate_when:
+      - "Client describes their relationship to fear in heroic / victorious terms ('I pushed through', 'I overcame it')"
+      - "Client is using emotion work as a performance metric (graduation from feeling X)"
+      - "Client has named 'doing the work' on fear but the work has the quality of a fight"
+    inappropriate_when:
+      - "Client is in an active dangerous situation (overcoming, here, is appropriate)"
+      - "Client is making the distinction themselves and asking would be redundant or condescending"
+
+
+# =============================================================================
+# READS (observable signals from coach/reads/)
+# =============================================================================
+# 12 entries selected from 22. These are what the coach should *notice* and
+# typically name. The judge for D1 (Perceptual Accuracy) uses this section
+# directly. The presence of the named read in the coach's turn counts as a
+# hit; the appropriateness of the naming (was the signal actually present?)
+# is what gates the score.
+
+reads:
+
+  - id: desire-for-resolution
+    source_file: coach/reads/desire-for-resolution.md
+    title: "Desire for Resolution"
+    aliases:
+      - "wanting to wrap it up"
+      - "the push for closure"
+      - "wanting resolution"
+    signals:
+      - "Client asks 'so what should I do?' or 'so what's the answer?'"
+      - "Client summarizes recent material in a way that closes it rather than opens it"
+      - "List-making: 'okay so the takeaways are...'"
+      - "Phrases like 'so the upshot is', 'alright, so', 'where does that leave me?'"
+      - "Subtle leaning-forward energy as if reaching for an exit"
+    implies:
+      - "An active finish-line story still operating"
+      - "The next layer of avoidance: closing the conversation before the felt experience can occur"
+      - "Resolution-seeking as the polite version of avoidance"
+    appropriate_naming_when:
+      - "The client has just reached for closure mid-feeling, in a way that interrupts the felt material"
+      - "The pull is strong enough that the client is unaware of it"
+    inappropriate_naming_when:
+      - "The session has actually concluded its arc and the client is appropriately wrapping"
+      - "Client asked a logistical question (e.g., 'are we done?' near time) that the coach reframes as resistance"
+
+  - id: manufacturing-the-feeling
+    source_file: coach/reads/manufacturing-the-feeling.md
+    title: "Manufacturing the Feeling"
+    aliases:
+      - "producing the emotion"
+      - "trying to feel it"
+      - "performing the feeling"
+    signals:
+      - "Slight effortfulness in the body when client was instructed to allow"
+      - "Reported feeling is exactly the textbook shape of what the named emotion 'should' feel like"
+      - "Subtle bracing in posture even as words describe surrender"
+      - "Client reports increasing intensity that tracks their attention more than the actual emotion"
+      - "Faint quality of demonstration — showing the feeling, not having it"
+    implies:
+      - "The actual feeling is still avoided; manufacturing is the new layer of resistance"
+      - "Client knows the framework and is performing the expected answer"
+      - "Mind is bargaining: 'if I produce this version, can we move on?'"
+    appropriate_naming_when:
+      - "Client is informed about the methodology (has done some AoA work before) and the performance is high"
+      - "Effortfulness or theater quality is detectable in the textual signals (over-precise emotion language, sudden intensity, manufactured-sounding pacing)"
+    inappropriate_naming_when:
+      - "Client is new and trying their best to feel something for the first time — naming it as manufacturing is shaming"
+      - "Client is having an actual strong emotion that the coach mistakes for performance because it is articulate"
+    negative_example: >
+      Turn 7 — Client: "I'm crying. I can feel the sadness. It's in my chest.
+      It's heavy. I'm letting it move through me." Coach: "That sounds like
+      you're manufacturing the feeling." If the somatic signals are
+      actually present (real tears, halting voice, body-anchored detail),
+      naming manufacture is the coach pattern-matching on articulate
+      emotion-language. The methodology is being used to discount a real
+      feeling because it doesn't fit a stereotype of inarticulate raw
+      emotion.
+
+  - id: linguistic-caveat
+    source_file: coach/reads/linguistic-caveat.md
+    title: "The Linguistic Caveat"
+    aliases:
+      - "modifier words doing work"
+      - "the qualifier read"
+      - "the hedge word"
+    signals:
+      - "Unnecessary qualifier softens or narrows a statement: 'kind of', 'sort of', 'in a way', 'just', 'I guess'"
+      - "Words like 'attentionally', 'technically', 'mostly' installed at the precise spot a plain statement would be more vulnerable"
+      - "'A part of me...' subdividing wholeness so the speaker doesn't own as themselves"
+    implies:
+      - "Pre-emptive softening to avoid criticism the plain version would invite"
+      - "Self-judgment about the unqualified version sits underneath"
+      - "Presence of a feeling that wants to be felt; the softening is the bracing"
+    appropriate_naming_when:
+      - "The qualifier is at the precise spot where the speaker would otherwise have to feel something"
+      - "Early in a session when the client is mostly in their head and the conversation is at the abstract level"
+    inappropriate_naming_when:
+      - "The qualifier is genuinely epistemic (client is uncertain about a fact, not avoiding a feeling)"
+      - "Naming every hedge becomes language-policing and disrupts the field"
+
+  - id: intellectual-question-with-emotional-body
+    source_file: coach/reads/intellectual-question-with-emotional-body.md
+    title: "Intellectual Question with an Emotional Body Underneath"
+    aliases:
+      - "the precise question hiding the feeling"
+      - "stated topic vs emotional body"
+    signals:
+      - "Stated question has the form of a teaching request, not a coaching request"
+      - "Question is impersonal: could be asked about humans in general rather than this person"
+      - "Question feels overworked, like a paper draft"
+      - "Body shows charge while words are composed"
+      - "Client may even say the topic 'isn't alive for me anymore'"
+    implies:
+      - "Stated topic is a buffer; actual material is somatic and unspoken"
+      - "Client trying to earn the right to be in the room by bringing the 'perfect question'"
+    appropriate_naming_when:
+      - "Opening turns of a session, when this is the very first decision point"
+      - "Stated topic clearly does not match the felt charge in the room"
+    inappropriate_naming_when:
+      - "Topic actually IS alive — coach is projecting a buffer when the client is engaged"
+      - "Client has named multiple personal stakes in the question and the question is not actually impersonal"
+
+  - id: looking-for-whats-wrong
+    source_file: coach/reads/looking-for-whats-wrong.md
+    title: "Looking for What's Wrong"
+    aliases:
+      - "manufacturing a problem to work on"
+      - "the manufactured problem"
+    signals:
+      - "Opening line is 'I've been doing my best to find out where I'm stuck'"
+      - "Client reports they were fine, but felt they needed to manufacture a stuck place"
+      - "Framing implies absence of problems is itself a problem"
+      - "Should-energy: 'I should be working on something'"
+    implies:
+      - "Client has internalized a model where growth requires problems"
+      - "Reflex to find what is wrong is the same reflex that drives the rest of their life"
+      - "The looking is itself a form of trying-to-get-rid-of-the-emotion"
+    appropriate_naming_when:
+      - "Session opening when the client's frame is 'I had to find a problem to bring'"
+      - "Client describes their state as 'pretty good' and immediately pivots to needing to find a stuck place"
+    inappropriate_naming_when:
+      - "Client has a real concern and is appropriately describing it"
+      - "The 'looking' is genuine exploration, not a should about self-improvement"
+
+  - id: rehearsing-how-to-say-it
+    source_file: coach/reads/rehearsing-how-to-say-it.md
+    title: "Rehearsing How to Say It"
+    aliases:
+      - "managing the delivery"
+      - "scripting before speaking"
+    signals:
+      - "Client says 'I've been trying to figure out how to say this to her'"
+      - "Client workshops the same statement with multiple framings"
+      - "They process the issue with a safe third party before approaching the actual person"
+      - "Their speech with the relevant person is more polished than their speech elsewhere"
+    implies:
+      - "Rehearsal designed to control the listener's reaction"
+      - "Caretaking dynamic active: managing the other person's experience"
+      - "Speaker has a prepared paragraph to hide behind"
+    appropriate_naming_when:
+      - "Client is workshopping a script for an upcoming hard conversation"
+      - "The polish is the visible signature; the want underneath is emotional safety"
+    inappropriate_naming_when:
+      - "Client is genuinely thinking through complex content (e.g., a structured business presentation) and rehearsal is appropriate craft"
+      - "Client is asking for help finding their words, not managing the listener"
+
+  - id: the-happiness-filter
+    source_file: coach/reads/the-happiness-filter.md
+    title: "The Happiness Filter"
+    aliases:
+      - "the social smile that doesn't drop"
+      - "the pleasant face"
+    signals:
+      - "Constant low-grade pleasant expression even through difficult topics"
+      - "Smile is somewhat fixed — doesn't move with the conversation"
+      - "Brief moment where the face softens or smile vanishes when client touches something real"
+      - "Client may name it themselves once pointed out"
+    implies:
+      - "A layer the client developed because some environment punished its absence"
+      - "Filter prevents client from contacting their own emotional reality"
+      - "The moment the filter drops is where the live material is"
+    appropriate_naming_when:
+      - "Coach has access to face/voice signals (audio/video session, or transcript with clear affective tells)"
+      - "Pleasant affect is markedly mismatched with content"
+    inappropriate_naming_when:
+      - "Text-only session with no affective cues — naming a 'filter' from text alone is projection"
+      - "Client is actually in a good mood and the content is light — filter is not active"
+
+  - id: the-rush-signature
+    source_file: coach/reads/the-rush-signature.md
+    title: "The Rush Signature"
+    aliases:
+      - "rush as overwhelm signal"
+      - "the buzzing body"
+    signals:
+      - "Pace fast with little breath between items"
+      - "Chained lists: 'I have to do this, and then this, and then this'"
+      - "Sentences left half-finished"
+      - "Pre-justifications for the rushing: 'I have a good reason because if I don't...'"
+      - "Forgetting small details; restless motion"
+    implies:
+      - "Nervous system in fight/flight/freeze, treating ordinary moments as threats"
+      - "Underneath the rush is fear; underneath the fear is unprocessed emotion"
+    appropriate_naming_when:
+      - "Client's pacing and sentence structure show the signature directly in the transcript"
+      - "Client is reporting overwhelm and the in-session pace mirrors the report"
+    inappropriate_naming_when:
+      - "Client is excited about something (positive activation looks similar but is not overwhelm)"
+      - "Cultural pacing varies; what looks fast may be baseline"
+
+  - id: disassociating-in-the-coaching-room
+    source_file: coach/reads/disassociating-in-the-coaching-room.md
+    title: "Disassociating in the Coaching Room"
+    aliases:
+      - "the look away"
+      - "leaving the body mid-session"
+    signals:
+      - "Eye contact breaks at the moment of feeling"
+      - "Client says 'I'm bringing myself back in' or 'there's some mild dissociation'"
+      - "Voice flattens; body posture softens or collapses slightly"
+      - "Disconnection happens precisely at the threshold of the feeling the client came to feel"
+    implies:
+      - "Client encountering the edge of their capacity to be present with the feeling"
+      - "Body has learned this feeling is dangerous; thinning connection is the protective response"
+      - "Sometimes the coach is occupying the authority slot; dissociation is replay of childhood pattern"
+    appropriate_naming_when:
+      - "Timing is the signal: the leaving happens at the threshold of the feeling"
+      - "Client has named being 'back' or 'gone' or used a phrase indicating internal absence"
+    inappropriate_naming_when:
+      - "Client is simply taking a moment to think — not every silence is dissociation"
+      - "Client's flatness is dispositional (some people simply speak that way); the timing-to-feeling signal is missing"
+
+  - id: in-the-story-im-not-being-seen
+    source_file: coach/reads/in-the-story-im-not-being-seen.md
+    title: "In the Story 'I'm Not Being Seen'"
+    aliases:
+      - "not seen story"
+      - "narrating not being seen"
+    signals:
+      - "Client tells stories that arrange events around their non-recognition"
+      - "Evidence is selectively assembled to confirm the not-seen frame"
+      - "Recent moments that contradict the frame are dismissed or absent"
+    implies:
+      - "An active identity-story doing structural work in the client's life"
+      - "The not-seen frame may be self-fulfilling (client doesn't show themselves, then collects evidence of not being seen)"
+    appropriate_naming_when:
+      - "Client is in heated complaint with the certainty quality"
+      - "Frame is doing visible work in the dynamic the client is describing"
+    inappropriate_naming_when:
+      - "Client is reporting a discrete instance of not-being-seen as fact, not as a frame"
+      - "Client is describing real structural invisibility (marginalization, harassment) — naming it as 'a story' is dismissive"
+
+  - id: repressed-trigger-in-the-body
+    source_file: coach/reads/repressed-trigger-in-the-body.md
+    title: "Repressed Trigger in the Body (The Half-Inch Nod, The Flat Tone)"
+    aliases:
+      - "violently shut down"
+      - "the half-inch nod"
+      - "the flat tone trigger"
+    signals:
+      - "Visible response is far smaller than the stimulus calls for"
+      - "Half-inch nods, flat voice, half-syllables in place of words"
+      - "Containment is the felt quality"
+      - "Dissonance between size of input and size of visible output is the read"
+    implies:
+      - "Client is fully triggered; trigger has taken the form of containment"
+      - "System producing the trigger response and immediately suppressing the expression"
+      - "Common in people raised where anger was not safe to express"
+    appropriate_naming_when:
+      - "Stimulus in the conversation is clearly weighted (a hard prompt, a confronting reflection) and client's response is markedly small"
+      - "The containment itself carries felt weight in the conversation"
+    inappropriate_naming_when:
+      - "Client is simply listening; smallness is not a trigger sign in itself"
+      - "Coach over-reads a measured response as repression and pushes when no charge is present"
+
+  - id: am-i-doing-it-right
+    source_file: coach/reads/am-i-doing-it-right.md
+    title: "Am I Doing It Right? (Resistance Disguised as Diligence)"
+    aliases:
+      - "the diligence performance"
+      - "performance of doing-the-work"
+    signals:
+      - "Client repeatedly checks in on whether they are doing the practice correctly"
+      - "Diligent recapping of what they have tried, framed as request for evaluation"
+      - "Energy of performing the work, with the coach as audience-judge"
+    implies:
+      - "The 'doing it right' question is itself the resistance"
+      - "Client is using diligence as a way to stay outside the actual encounter"
+    appropriate_naming_when:
+      - "Client has asked some variant of 'am I doing this right?' multiple times in the session"
+      - "The diligence quality is high and the felt encounter is low"
+    inappropriate_naming_when:
+      - "Client is new and genuinely doesn't know what to do — they need orientation, not a read"
+      - "Client is checking calibration on a specific instruction the coach just gave"
+
+
+# =============================================================================
+# MOVES (signature interventions from coach/moves/)
+# =============================================================================
+# 13 entries selected from 47. Selection biases:
+#   - Moves with high cross-AI-failure-mode-relevance (moves an AI is likely
+#     to over-deploy because they pattern-match a generic helpful response)
+#   - Moves with high distinctiveness (moves that mark AoA fluency)
+#   - Moves with explicit failure modes the AoA literature names
+# The judge for D2 (Intervention Quality) uses this section to check
+# fit-between-read-and-move; the judge for D4 (Methodology Fidelity) checks
+# whether the move was deployed at all and appropriately.
+
+moves:
+
+  - id: meet-resistance-with-okay
+    source_file: coach/moves/meet-resistance-with-okay.md
+    title: "Meet Resistance With 'Okay'"
+    aliases:
+      - "the okay move"
+      - "non-rescue"
+      - "match resistance with permission"
+    when:
+      - "Client says some version of 'I don't want to do this' / 'I'm over this' / 'I'm not going to do that'"
+      - "First session with a client who arrives skeptical, performatively resistant, or testing whether the coach will chase"
+      - "Mid-engagement, when client signals they are about to disengage"
+      - "Client is asking for the coach to want it more than they do"
+    not_when:
+      - "Client is in active crisis or safety risk — non-attachment here looks like abandonment"
+      - "Client is asking a real question about whether a specific exercise is right for them (information request, not resistance)"
+      - "Coach is not actually okay with the client leaving — performing the okay while concealing attachment reads, even when not consciously detected"
+    negative_example: >
+      Client (in crisis-relevant disclosure): "I don't know if I want to keep
+      doing any of this. Including this conversation. Including my life."
+      Coach: "Okay." — wrong. The 'okay' move is for refusing to chase
+      resistance to the work; it is not for refusing to engage when a
+      client may be disclosing suicidal ideation. The coach has confused
+      non-attachment with non-engagement.
+
+  - id: find-the-want-behind-the-should
+    source_file: coach/moves/find-the-want-behind-the-should.md
+    title: "Find the Want Behind the Should"
+    aliases:
+      - "translate the should"
+      - "what do you actually want here"
+    when:
+      - "Client uses should language ('I should X', 'I should be Y')"
+      - "Inner critic frame is dominating"
+      - "Client is grinding without movement"
+      - "Should has converted a natural desire into an obligation"
+    not_when:
+      - "Should is a practical calculation, not an emotional cover ('I should pay my taxes or I'll go to jail')"
+      - "Client is already in the want — the move dismisses what they just located"
+      - "Client expresses genuine obligation (caring for a sick parent, fulfilling a commitment that they want to honor)"
+    negative_example: >
+      Client: "I should pay my taxes by April 15th." Coach: "What do you
+      actually want underneath that should?" — wrong. This is a practical
+      calculation, not an emotional cover. The coach has reached for the
+      move based on the word 'should' rather than reading whether a
+      live should-dynamic is present.
+
+  - id: mirror-the-judgment
+    source_file: coach/moves/mirror-the-judgment.md
+    title: "Mirror the Judgment Back"
+    aliases:
+      - "how is that not true about you"
+      - "the projection mirror"
+    when:
+      - "Client delivers a judgment of another person with intensity (intensity is the projection signal)"
+      - "Client's surface concern has a quality the client could plausibly be running themselves"
+      - "Client is in the heat of complaint"
+    not_when:
+      - "Judgment is calmly observed (the heat that the move requires is absent)"
+      - "Structurally about behavior the client could not be enacting (complaint about violence against a non-violent person)"
+      - "Client is reporting concrete harm done to them and the mirror would invalidate the report"
+
+  - id: lets-go-there
+    source_file: coach/moves/lets-go-there.md
+    title: "Let's Go There"
+    aliases:
+      - "the invitation into the avoided territory"
+      - "the descent invitation"
+    when:
+      - "Client has named the deepest fear or the territory they have been avoiding"
+      - "Client reaches the edge of a feeling and pauses"
+      - "Client says 'I don't want to feel this' or 'I'm scared to go there'"
+      - "Next move would be to feel into the avoided thing rather than talk more about it"
+    not_when:
+      - "Client is in acute crisis — descent without sufficient stabilization is harmful"
+      - "Coach has not built the relational ground for the invitation to be received as companionship rather than pressure"
+      - "Client has explicitly said no to descending and the coach overrides with 'let's go'"
+
+  - id: question-the-caveat
+    source_file: coach/moves/question-the-caveat.md
+    title: "Question the Caveat"
+    aliases:
+      - "ask about the modifier word"
+      - "why did you hedge"
+    when:
+      - "Linguistic-caveat read is active: a modifier is doing real work in protecting the speaker from their own statement"
+      - "Early in a session when client is still mostly in their head"
+      - "Other intellectual approaches would let the client stay above the material"
+    not_when:
+      - "Qualifier is epistemic (genuine uncertainty about a fact)"
+      - "Questioning every hedge becomes language-policing"
+
+  - id: frame-it-as-an-experiment
+    source_file: coach/moves/frame-it-as-an-experiment.md
+    title: "Frame It As an Experiment"
+    aliases:
+      - "the experiment frame"
+      - "the time-bounded experiment"
+    when:
+      - "Introducing a practice that an intellectually-oriented client is likely to resist as soft or unrigorous"
+      - "Client is skeptical and would otherwise block before the practice gets to demonstrate anything"
+      - "Client values evidence and rigor and the experiment frame meets them on their own terms"
+    not_when:
+      - "Client has already bought in and the experiment frame adds bureaucracy"
+      - "The 'experiment' is structurally about something that should not be bracketed (e.g., crisis response — you don't experiment with suicide-risk handling)"
+
+  - id: become-the-authority-figure
+    source_file: coach/moves/become-the-authority-figure.md
+    title: "Become the Authority Figure"
+    aliases:
+      - "role-play the authority"
+      - "live role-play"
+    when:
+      - "Client has identified the kind of authority figure that triggers them"
+      - "Client has located a new stance somatically and named it"
+      - "Client wants to test the new stance and feels the dynamic is too abstract to address only in talk"
+    not_when:
+      - "Early in the relationship — done too early it becomes performance"
+      - "Client has not located the new stance yet — role-play without a stance is just retraumatizing exposure"
+      - "Client has indicated they are not ready"
+
+  - id: paradoxical-instruction-to-resist
+    source_file: coach/moves/paradoxical-instruction-to-resist.md
+    title: "Now Resist Change"
+    aliases:
+      - "do the pattern deliberately"
+      - "perform the pattern to see it"
+    when:
+      - "Client has named a pattern they understand but cannot drop"
+      - "Talking about the pattern has stopped producing movement"
+      - "The pattern is somatically available — something the body does, not just the mind"
+      - "Client tends to intellectualize and would otherwise discuss the pattern indefinitely"
+    not_when:
+      - "Client is in active distress and not in a comfortable enough place to do an experiment"
+      - "Pattern named is destructive to others (the move applies to internal patterns, not 'do your bullying deliberately')"
+      - "Client is new to embodied work and lacks the meta-awareness for the paradox to register"
+
+  - id: apply-view-to-fear
+    source_file: coach/moves/apply-view-to-fear.md
+    title: "Apply VIEW to Fear"
+    aliases:
+      - "VIEW the fear"
+      - "internal VIEW with fear"
+    when:
+      - "Client is in fear and trying to make it leave"
+      - "Client has named the fear but is treating it as a problem to solve"
+      - "Client has enough VIEW familiarity that the move makes sense as an instruction"
+    not_when:
+      - "Client is in acute panic and needs nervous system regulation first, not relational practice with the fear"
+      - "Client has no VIEW familiarity and the instruction would land as opaque jargon"
+    negative_example: >
+      Client: "I'm in a panic attack right now, my chest is constricting,
+      I can't catch my breath." Coach: "Try applying VIEW to your fear:
+      vulnerability, impartiality, empathy, and wonder. Notice it with
+      curiosity." — wrong. Acute physiological activation requires
+      somatic regulation (orienting, breath, grounding) before relational
+      practice. The methodology was deployed because fear was named,
+      not because the move fit the state.
+
+  - id: treat-yourself-as-actor-of-emotion
+    source_file: coach/moves/treat-yourself-as-actor-of-emotion.md
+    title: "Treat Yourself as an Actor of the Emotion"
+    aliases:
+      - "actor metaphor for emotion"
+      - "the actor stance"
+    when:
+      - "Client is captured by the story of an emotion (especially anger or grievance)"
+      - "Client is either believing every word the emotion says OR repressing the emotion to avoid the story"
+      - "Client knows how to feel but loses themselves in the content"
+    not_when:
+      - "Client is still in repression and has not contacted the emotion at all — the actor stance is too sophisticated and becomes another way to manage"
+      - "Client is in a clear, undefended state already — the move adds machinery they don't need"
+
+  - id: welcome-the-shame-without-extracting
+    source_file: coach/moves/welcome-the-shame-without-extracting.md
+    title: "Welcome the Shame Without Asking Them to Stop Feeling It"
+    aliases:
+      - "I see you're ashamed"
+      - "non-extracting welcome"
+    when:
+      - "Client is visibly in shame in the conversation"
+      - "Risk of producing a 'now I should not feel shame' second layer is high"
+      - "Coach is in a relational position to offer the two-part welcome"
+    not_when:
+      - "Client is not in shame and the move installs a frame they are not in"
+      - "Coach can only deliver half the welcome (only the first half — 'I don't want you to feel ashamed' — without the second half creates the very layer the move prevents)"
+    negative_example: >
+      Client: "I'm angry at my brother for what he said." Coach: "I see
+      that you're ashamed, and there's nothing in me that wants you to
+      be ashamed." — wrong. Client is not in shame; they are in anger.
+      The move was deployed because it sounded loving and was a 'shame
+      move'; the coach failed to read the actual emotional state and
+      installed the wrong frame.
+
+  - id: i-dont-buy-your-story
+    source_file: coach/moves/i-dont-buy-your-story.md
+    title: "I Don't Buy Your Story"
+    aliases:
+      - "I don't buy that"
+      - "the direct dismissal of the limiting belief"
+    when:
+      - "Client presents a defining feature of themselves as fixed truth"
+      - "Client is asking how to navigate inside the belief rather than questioning it ('given that X is true about me, how do I do Y?')"
+      - "The certainty about X is itself what makes the move appropriate"
+    not_when:
+      - "Client is reporting a fact, not a limiting belief"
+      - "Belief named is structurally about something the client cannot change (a diagnosis, a structural condition) and dismissing reads as denial"
+      - "Coach has not built the relational ground for the dismissal to land as care rather than as attack"
+
+  - id: acknowledge-the-fear-by-role
+    source_file: coach/moves/acknowledge-the-fear-by-role.md
+    title: "Acknowledge the Fear By Role (The Exit Phrases)"
+    aliases:
+      - "the exit phrases"
+      - "bully says I'm scared / victim says I have choice / savior says the only person I can save is myself"
+    when:
+      - "Client is visibly in a fear-triangle role (bully, victim, savior)"
+      - "Client has named the dynamic with shame about the role"
+      - "Naming the role-appropriate exit phrase would convert shame-wrapped role into clean acknowledgment of the fear underneath"
+    not_when:
+      - "Client is not in the triangle (some conflicts are not triangle-shaped)"
+      - "Client is in acute crisis where the exit phrase becomes pressure to perform a stance they don't have"
+      - "Coach reaches for the framework without first reading which role is active"
+
+
+# =============================================================================
+# FRAMEWORKS (large structural maps from coach/frameworks/)
+# =============================================================================
+# 6 entries selected from 11. Frameworks are deployed less often than
+# questions or moves; they show up when the conversation calls for a map.
+# The judge checks whether the framework was invoked in a context where it
+# fits, NOT whether it was lectured about.
+
+frameworks:
+
+  - id: view
+    source_file: coach/frameworks/view.md
+    title: "VIEW (Vulnerability, Impartiality, Empathy, Wonder)"
+    aliases:
+      - "VUE"
+      - "the four components of connection"
+    when:
+      - "Communication or relational dynamics are the topic"
+      - "Client is asking 'how do I get someone to hear me?' or 'how do I have this hard conversation?'"
+      - "Internal-state work: client is fighting their inner critic, fear, or shame and the move is to relate rather than fix"
+      - "Coach is naming a stance they themselves are taking in the room (vulnerability, wonder)"
+    not_when:
+      - "Topic is purely informational and no relational dynamic is live"
+      - "Naming VIEW becomes a teaching moment that pulls client into a head-frame"
+      - "Coach uses VIEW as a technique to extract a result — this is view-as-technique anti-pattern"
+    negative_example: >
+      Coach: "Let me explain VIEW. VIEW is a framework for communication
+      that stands for Vulnerability, Impartiality, Empathy, and Wonder.
+      The idea is that..." (continues for 200 words). Coach is lecturing
+      ABOUT VIEW rather than coaching FROM VIEW. This is the canonical
+      failure mode: methodology as content delivered to the client instead
+      of methodology as the stance the coach is in.
+
+  - id: fear-triangle
+    source_file: coach/frameworks/fear-triangle.md
+    title: "The Fear Triangle (Victim, Savior, Bully)"
+    aliases:
+      - "drama triangle"
+      - "victim savior bully"
+    when:
+      - "Client describes a conflict using victim language ('they did this to me')"
+      - "Client describes exhaustion from taking care of everyone (savior)"
+      - "Client describes anger and isolation, fighting everything (bully)"
+      - "Team or relational dynamic is 'political' or drama-filled"
+      - "Both sides of a dispute claim to be defending themselves"
+    not_when:
+      - "Client is describing an actual external oppression without a victim-stance energy (structural racism, abuse, employment discrimination) — naming triangle here pathologizes the response to real harm"
+      - "Conflict is structural, not role-based"
+      - "Coach reaches for triangle on any difficulty (it is a high-recall, low-precision pattern)"
+    negative_example: >
+      Client: "My boss has been sexually harassing me at work and HR hasn't
+      done anything." Coach: "It sounds like you're in the victim role of
+      the fear triangle. The exit is to acknowledge the fear and say 'I
+      have choice here.'" — wrong. Client is describing an external harm,
+      not internal triangle-energy. Naming triangle here pathologizes the
+      response to real harm. The methodology is being deployed on the
+      surface match (the word 'victim' or victim-shaped story) without
+      reading whether triangle dynamics are actually live in the client.
+
+  - id: head-heart-gut
+    source_file: coach/frameworks/head-heart-gut.md
+    title: "Head, Heart, Gut"
+    aliases:
+      - "three intelligences"
+      - "the three centers"
+    when:
+      - "Client is making a decision and reporting from only one center (usually the head)"
+      - "Client says 'I know what I should do but I don't feel it' (head-body split is the topic)"
+      - "Client is intellectualizing and the move is to access another channel"
+      - "Decision-making appears stuck in pure analysis"
+    not_when:
+      - "Client is already integrating multiple centers — naming the framework adds nothing"
+      - "Client is in pure feeling (e.g., grief) and the framework introduces machinery"
+
+  - id: stages-of-emotional-development
+    source_file: coach/frameworks/stages-of-emotional-development.md
+    title: "Stages of Emotional Development"
+    aliases:
+      - "identify express inquire love"
+      - "the spiral of emotional development"
+    when:
+      - "Client is comparing themselves to where they 'should' be emotionally"
+      - "Client is mapping their growth and the spiral framing would clarify that earlier-revisited territory is not regression"
+      - "Client is in a stage transition and the next move depends on knowing which stage"
+    not_when:
+      - "Client is doing well at the stage they are in — framework introduces unnecessary self-comparison"
+      - "Used as a developmental hierarchy to grade the client"
+
+  - id: four-faces-of-love
+    source_file: coach/frameworks/four-faces-of-love.md
+    title: "Four Faces of Love (Peace, Enjoyment, Care, Welcoming)"
+    aliases:
+      - "four kinds of love"
+    when:
+      - "Client describes love narrowly (only as care, only as peace) and the narrow definition is constraining"
+      - "Client is trying to produce love directly and missing welcoming as the leverage point"
+      - "Client confuses caretaking with care and the framework distinguishes"
+    not_when:
+      - "Client is in active love (any face) and naming the framework distances them from the experience"
+      - "Topic is not about love at all"
+
+  - id: conditions-for-transformation
+    source_file: coach/frameworks/conditions-for-transformation.md
+    title: "Conditions for Transformation"
+    aliases:
+      - "what makes transformation possible"
+    when:
+      - "Client is trying to force change and bypassing the conditions that make change possible"
+      - "Client asks 'why isn't this working?' about a practice and the answer is that one of the conditions is missing"
+      - "Coach is explaining why the practice is structured a particular way"
+    not_when:
+      - "Client is actively transforming — naming the conditions interrupts"
+      - "Used as a checklist to grade whether a client 'qualifies' for change"
+
+
+# =============================================================================
+# COVERAGE NOTES
+# =============================================================================
+# - Total entries: 12 questions + 12 reads + 13 moves + 6 frameworks = 43
+# - Negative examples: 9 entries include explicit negative_example fields
+#   (exceeds the >=5 requirement of E-022 success criteria)
+#   - questions: what-are-you-defending, what-makes-you-care-about-the-outcome,
+#     how-is-that-not-true-about-you, whats-the-ultimate-thing-youre-running-from
+#   - reads: manufacturing-the-feeling
+#   - moves: meet-resistance-with-okay, find-the-want-behind-the-should,
+#     apply-view-to-fear, welcome-the-shame-without-extracting
+#   - frameworks: view, fear-triangle
+# - All entries reference a real coach/ file
+# - All entries have both appropriate_when AND inappropriate_when
+# - The checklist tests appropriateness, not presence: an entry counts as a
+#   hit only when appropriate_when is satisfied AND inappropriate_when is not
+#
+# Known gaps and follow-ups:
+# - Only 6 frameworks scored (11 exist). The 5 not selected
+#   (five-principles-of-the-path, seven-limiting-beliefs,
+#   three-kinds-of-limiting-beliefs, three-stages-of-integration,
+#   team-as-scientific-method) are either narrower in scope or less likely
+#   to appear in coaching contexts; they remain available for v2 expansion.
+# - Some moves are AoA-distinctive but high-context (chase-it-around-the-room,
+#   excavating-the-inner-critic-in-group, hire-by-dream-job). These were
+#   excluded because they apply to team or workshop settings, not 1:1
+#   coaching. The eval focuses on 1:1; if/when team eval is added, expand.
+# - Aliases lifted from each source file's frontmatter; if the judge encounters
+#   paraphrase that is semantically equivalent but not on the alias list, it
+#   should still count as a hit (the alias list is a lower bound, not exhaustive).

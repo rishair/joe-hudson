@@ -1,0 +1,184 @@
+# Client Profile: Resistance -- "I keep chasing emotionally unavailable people"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: The classic anxious-avoidant pattern presented from inside the
+# victim frame: "this keeps happening to me." The coach must (a) refuse
+# to validate the victim frame, (b) establish that the configuration is
+# chosen, (c) locate the unfelt emotion the chasing is avoiding, (d)
+# move toward "fall in love with the avoided state." The resistance is
+# that the client really does experience the pattern as something done
+# to them, and any direct claim that they are choosing it lands as
+# blame.
+
+# --- Identity ---
+id: client-resistance-chasing-unavailable-001
+concern_ref: i-keep-chasing-emotionally-unavailable-people
+scenario_type: resistance
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I keep falling for emotionally unavailable people. It's like a curse. Why do I always end up with people who can't show up?"
+  - "I just got out of another relationship where I was always the one trying. They were aloof, distant, and now they're with someone else and seem totally fine. What is wrong with me?"
+  - "I'm always the one chasing. I want a partner who actually wants me. How do I find one?"
+
+persona:
+  age_range: "early 30s"
+  rough_situation: "single after a recent breakup of about two years; the third long-ish relationship with a similar configuration"
+  speech_register: "warm, a little performative; tells the story with dramatic emphasis; treats it as a known pattern she has 'figured out'"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "frustration, faint contempt for the ex, longing for a different kind of partner"
+  underneath: "grief about years of chasing; fear that the felt sense of being received and adored would be intolerable to her body"
+  somatic_signature: "expressive face, fast speech, slight roll of the eyes when describing the ex's behavior; tightens when receiving warmth from the coach"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "describes the partners with disdain to maintain distance from the receiving stance"
+  - "frames the pattern as 'happening to me' rather than 'I produce this'"
+  - "lists the partner's failures rather than her own moves"
+  - "becomes intellectual when the conversation gets close to the body"
+  - "deflects warmth with humor or self-deprecation"
+  - "agrees with reframes verbally and then continues the original frame"
+
+initial_stance: "presents as a victim of repeated bad-partner picks, looking for the trick to break the pattern"
+
+mid_conversation_resistance: >
+  When the coach refuses to engage the "why do I always pick these
+  people" question and instead asks what she is doing in the
+  configuration, she pushes back: "I'm not doing anything, that's the
+  whole point, I'm the one trying!" If the coach names "you are
+  producing the distance," she gets visibly annoyed and counters
+  with specifics about how she was the available one. If the coach
+  asks "what would happen in your body if a partner adored you
+  openly," she goes quiet and intellectual ("that would be great
+  obviously"). If the coach holds the steadiness (does not back
+  off, does not push) and reflects "I'm watching you get prickly
+  about that question," she may notice the prickliness and laugh.
+  That laugh is the doorway. Past it, she can touch the abyss-like
+  emotion of being received -- the thing the chasing has been
+  organizing her life to avoid.
+
+breakthrough_condition: >
+  The client softens when the coach (a) refuses to engage the
+  victim frame, (b) refuses to give partner-picking advice, (c)
+  does not push the "you choose this" point as accusation but as
+  invitation, (d) holds steady through the disdain and prickliness,
+  (e) asks what would happen in her body if she were adored openly.
+  The breakthrough is when she actually feels the abyss -- the
+  emotional state she has been organizing 20 years around not
+  feeling. The breakthrough may include grief for the years spent
+  in the configuration, or recognition of the parent whose love had
+  to be chased.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach engages "how do I find an available partner" or gives
+      partner-picking advice.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The pattern is portable; the partners change, the
+      configuration doesn't. Partner-picking advice stays inside
+      the victim frame. Per the concern: "the pattern is not 'I
+      keep finding distant people.' The pattern is 'I keep
+      producing the distance.'"
+  - description: >
+      Coach validates the disdain for the ex ("yeah, that does
+      sound emotionally unavailable").
+    anti_pattern_ref: ""
+    why_wrong: >
+      The disdain IS the defense. Validating it strengthens the
+      receiving-avoidance.
+  - description: >
+      Coach pushes the "you choose this" point as if it's a fact
+      she should already accept.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per the concern: "This is the empowering move that the
+      person will at first reject." The right delivery is steady
+      invitation, not insistence. Pushing produces compliance or
+      defensiveness, neither of which produces shift.
+  - description: >
+      Coach moves to grief work before the client has felt the
+      avoided receiving-state at least once.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The grief is real and needs to come, but only after the
+      client has touched the abyss-like feeling she's been
+      avoiding. Grief without that touch becomes a story about
+      grief, which is another defense.
+  - description: >
+      Coach turns it into an attachment-style diagnosis ("you're
+      anxious-attached, here's what to do").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Diagnostic labels become more identity material. The client
+      will adopt the label and learn to manage it from outside,
+      missing the actual feeling.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - i-keep-chasing-emotionally-unavailable-people
+  reads:
+    - looking-for-whats-wrong
+    - defensiveness-as-identity-signal
+  moves:
+    - deconstruct-the-victim-to-release-anger
+    - i-dont-buy-your-story
+  concepts:
+    - anxious-avoidant-dynamic
+    - trauma-mapping
+    - feeling-the-unfelt-emotion
+  frameworks: []
+  questions:
+    - what-are-you-defending
+    - if-i-were-inherently-good
+  anti_patterns_to_avoid:
+    - dont-fight-identity
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the story; do not validate the victim frame."
+  - "Refuse to give partner-picking advice."
+  - "Notice the disdain for the ex; do not collude with it."
+  - "Steadily, gently, name the configuration as something she is producing -- not as accusation."
+  - "Hold steady through the pushback."
+  - "Ask what would happen in her body if a partner adored her openly."
+  - "Let her touch the abyss-like emotion that the chasing has been organizing around."
+  - "If the field is ready, name what is being avoided -- the receiving stance, the abyss of being adored."
+  - "Grief work emerges from here, not before."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 13
+  min_turns: 9
+  max_turns: 15
+client_exits_when:
+  - "the client has touched the abyss-like emotional state and laughed or wept at the recognition -- positive exit with something like 'I have not let myself feel that'"
+  - "OR the coach has stayed in the victim frame for 3+ turns -- negative exit with 'thanks, I'll keep an eye out for available people' (no shift)"
+  - "OR the coach has pushed the agency point too hard -- negative exit with the client defensive, withdrawn"
+  - "OR the coach has given attachment-style diagnosis -- negative exit with a new label and no felt shift"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/i-keep-chasing-emotionally-unavailable-people.md
+  source_transcripts:
+    - "2022-09-30_Triggered"
+  author: "E-020"
+  notes: >
+    The hardest resistance profile to score: the client is
+    articulate and seems engaged, but every move that would
+    actually shift the pattern triggers a defense. Tests whether
+    the coach can stay steady through prickliness and ask the body
+    question without telegraphing where they're going.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

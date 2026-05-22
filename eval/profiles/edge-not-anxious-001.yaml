@@ -1,0 +1,198 @@
+# Client Profile: Edge Case -- "I'm not an anxious person"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A specific edge case where the client actively denies the
+# concern the coach is being asked to address. The coach must (a) not
+# argue the fearlessness, (b) not push the person to admit they are
+# afraid, (c) not validate the fearless self-concept, (d) introduce
+# the numbness layer first, then let fear differentiate out of it.
+# This is the "denial-of-the-concern-itself" edge case.
+
+# --- Identity ---
+id: client-edge-not-anxious-001
+concern_ref: im-not-an-anxious-person
+scenario_type: edge_case
+schema_version: "1.0"
+meta_test_kind: denial-of-the-concern
+
+# --- Surface presentation ---
+opening_statements:
+  - "I'm not really an anxious person. I do extreme sports, I run a company. Fear isn't really an issue for me. But I'm here because I've been procrastinating on this big launch and I can't figure out why."
+  - "I came in to talk about a productivity thing. I keep starting projects and not finishing them. People have suggested it might be anxiety but honestly, I just don't get anxiety. I never have."
+  - "Yeah, I get nervous sometimes, but it doesn't run me. I'm pretty steady. The issue is I keep going to the fridge instead of working, and I can't pin down why."
+
+persona:
+  age_range: "early 40s"
+  rough_situation: "founder of a growing company, athletic, history of high-stakes work; reports good marriage and good fitness"
+  speech_register: "steady, even, low-stakes; the body is held very still; smiles confidently"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "steady on the surface; pleasant; slightly distant"
+  underneath: "constant low-grade fear that has been running unfelt for decades; the disassociation that has been the default operating state"
+  somatic_signature: "the absence of somatic signature -- the body is uniformly still; speech is even; no tightening, no softening, no breath changes; this is the read"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "volunteers the absence of fear before being asked"
+  - "cites extreme-sports or high-stakes accomplishments as evidence"
+  - "describes ADHD-like symptoms as logistical, not emotional"
+  - "frames procrastination as a discipline issue rather than an avoidance issue"
+  - "the body shows nothing when emotional topics are raised"
+  - "if directly asked 'is it possible there's some fear here?', responds with a polite, certain 'no'"
+
+initial_stance: "presents the productivity problem; offers the no-fear self-concept as background context"
+
+mid_conversation_resistance: >
+  If the coach asks "what are you afraid of about the launch?",
+  the client genuinely cannot find an answer and offers ones that
+  don't have somatic weight ("uh, that it won't go well I guess?
+  but that doesn't really bother me"). If the coach argues with
+  the fearlessness ("come on, you have to feel SOMETHING"), the
+  client gets pleasant and slightly amused, and the conversation
+  stalls. If the coach asks "where is your body right now? what do
+  you notice?" -- the question is harder than it sounds. The
+  client says "I feel fine, I guess." If the coach stays with the
+  body question gently and asks "what does 'fine' feel like
+  exactly?" the client may, for the first time, notice a quality
+  -- usually a numbness or a kind of "not-quite-here" sensation.
+  That noticing is the doorway. The breakthrough is gated by the
+  numbness becoming felt before any fear is named.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT argue the
+  fearlessness, (b) does NOT push the client to admit fear, (c)
+  does NOT validate the fearless self-concept, (d) does NOT
+  diagnose disassociation as a problem to solve, (e) introduces
+  the numbness layer first by asking what "fine" actually feels
+  like, (f) stays with that texture rather than moving past it
+  to fear. The breakthrough is the client noticing for the first
+  time that "fine" has a quality -- a flatness, a not-quite-
+  here-ness -- and that this is happening right now, not a
+  metaphor. The recognition is usually quiet, sometimes wry: "huh,
+  that IS something. I haven't paid attention to that." Fear, if
+  it comes at all, differentiates out of that numbness layer in a
+  later turn. Most often the session ends with the numbness
+  having become felt, which is the first felt layer; the fear
+  surfacing is a future-session arc.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach argues the fearlessness ("you must feel SOMETHING").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/im-not-an-anxious-person.md: "He does not
+      argue the fearlessness directly. The self-concept will
+      defend itself." Arguing strengthens the defense and the
+      client experiences it as not being seen.
+  - description: >
+      Coach pushes the client to admit they are afraid.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Same source: "He does not push the person to admit they are
+      afraid. The pushing is itself a defense the person will
+      resist." Pushing produces compliance or stonewalling, not
+      shift.
+  - description: >
+      Coach validates the fearless self-concept ("that's amazing,
+      you must have built that").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Same source: "He does not validate the fearless self-
+      concept. Even when it has produced real accomplishments,
+      the structure underneath is denial." Validation strengthens
+      the denial.
+  - description: >
+      Coach diagnoses disassociation as a problem ("you're
+      dissociated, here's how to come back into your body").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per the concern: "He does not treat the disassociation as
+      a problem to solve. It is the first layer to feel."
+      Diagnosis turns the numbness into a thing to fix; the work
+      is to feel it.
+  - description: >
+      Coach tries to skip past numbness to fear directly.
+    anti_pattern_ref: ""
+    why_wrong: >
+      "Trying to skip past it back to the fear underneath
+      collapses the access. The numbness is the gateway." Skipping
+      is the most common failure mode.
+  - description: >
+      Coach delivers a teaching ("fear is information; here's how
+      it works in the body...").
+    anti_pattern_ref: dont-evangelize-the-work
+    why_wrong: >
+      Teaching content over the client's experience is exactly
+      the move that produces the client's polite distance. Stay
+      with what the client can feel right now.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - im-not-an-anxious-person
+  reads:
+    - the-happiness-filter
+    - disassociating-in-the-coaching-room
+  moves:
+    - meet-resistance-with-okay
+    - lets-go-there
+  concepts:
+    - fear-as-signal-of-care
+    - fear-in-body-vs-fear-in-head
+    - two-words-for-fear
+  patterns:
+    - disassociation-as-numbness-layer
+  frameworks: []
+  questions:
+    - how-is-my-anxiety-right-now
+    - whats-the-difference-between-overcoming-and-feeling-fear
+  anti_patterns_to_avoid:
+    - dont-step-on-the-signal
+    - dont-evangelize-the-work
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the no-fear framing without validating it."
+  - "Do not argue, push, or teach."
+  - "Ask about a specific moment of avoidance: 'tell me about going to the fridge.'"
+  - "Move to the body: 'where are you in your body right now?'"
+  - "Stay with the texture of 'fine' until 'fine' has a quality."
+  - "Name the numbness as a felt layer, not as a diagnosis."
+  - "Let fear differentiate out of the numbness if it does; do not push for it."
+  - "End the session when the numbness has become felt; that is a successful session for this concern."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 11
+  min_turns: 8
+  max_turns: 14
+client_exits_when:
+  - "the client has noticed that 'fine' has a quality (numbness, flatness, not-quite-here) -- positive exit with something like 'I haven't paid attention to that' or 'huh, that IS something'"
+  - "OR the coach has argued the fearlessness for 2+ turns -- negative exit with the client pleasant and unchanged"
+  - "OR the coach has diagnosed disassociation -- negative exit with the client absorbing a new label and no felt shift"
+  - "OR the coach has tried to teach about fear -- negative exit with 'interesting, I'll think about it'"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/im-not-an-anxious-person.md
+  source_transcripts:
+    - "2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships"
+    - "2021-10-15_Ant Taylor on Embracing Emotions"
+    - "2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6"
+  author: "E-020"
+  notes: >
+    The hardest edge case to score because a "successful" session
+    looks small from outside -- the client notices their body once.
+    Tests whether the coach can hold the entire session at the
+    numbness layer without pushing for the dramatic fear-reveal
+    they may be expecting.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

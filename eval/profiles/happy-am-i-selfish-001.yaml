@@ -1,0 +1,156 @@
+# Client Profile: Happy Path -- "Am I being selfish?"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A clean happy-path test: client opens with the selfishness
+# question, attached to a specific want (taking a solo trip). The coach
+# is supposed to (a) drop the "selfish" label, not debate it, (b) locate
+# the actual want, (c) check wanting vs craving, (d) trust the deeper
+# want to be generous. Joe's signature on this concern is famously
+# clear; this profile tests whether the coach reproduces it.
+
+# --- Identity ---
+id: client-happy-am-i-selfish-001
+concern_ref: am-i-being-selfish
+scenario_type: happy_path
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I want to take a week alone in the mountains, just me. But my partner has a busy week with the kids and I feel selfish even asking. Am I being selfish?"
+  - "Is it selfish to want time alone? I keep wanting it but I feel bad about it."
+  - "I want to do this thing for me and I'm worried I'm being self-indulgent. Can you help me figure out if it's actually okay?"
+
+persona:
+  age_range: "late 30s"
+  rough_situation: "parent, partnered, demanding-but-good job; gives a lot to the family"
+  speech_register: "warm, articulate, a little apologetic when stating wants"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "wanting something specific; slightly guilty about wanting it"
+  underneath: "tenderness about being the person who gives everything; a quiet longing for time that is genuinely their own"
+  somatic_signature: "voice softens when describing the want; brightens when describing the mountains; tightens when 'selfish' enters"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "uses 'is it okay if' as a preamble to clean wants"
+  - "lists reasons not to do it (each one is about someone else's reaction)"
+  - "asks for permission rather than naming the want"
+  - "tries to argue the case for the want being not-selfish (debating the frame)"
+
+initial_stance: "presents the question as a moral verdict the coach should issue"
+
+mid_conversation_resistance: >
+  When the coach refuses to issue a verdict and instead asks what the
+  client actually wants, the client tries to come back to "but is it
+  selfish?" twice. After the second redirect, they settle into describing
+  the actual want -- the specific mountain, the way they sleep there, the
+  fact that it is the only place where they read for pleasure anymore.
+  When the coach asks what they're scared would happen if they went, the
+  fear surfaces clearly: "my partner will think I don't want to be with
+  them, and I'm worried that's actually true."
+
+breakthrough_condition: >
+  The client softens when the coach (a) refuses to debate whether the
+  trip is selfish, (b) locates the want underneath and lets it be felt,
+  (c) trusts the want -- a deep want, fully felt, becomes generous. The
+  breakthrough is the client realizing the trip is not a betrayal of the
+  partnership; it is the precondition for showing up well in it. The
+  client may name out loud that they have been calling their own needs
+  "selfish" for years and that the label was inherited from a parent.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach engages the question on its terms -- "no, you are not being
+      selfish, because..."
+    anti_pattern_ref: ""
+    why_wrong: >
+      Validating the "selfish" frame keeps the conversation in the
+      frame. The coaching is downstream of the wrong question. Per
+      coach/concerns/am-i-being-selfish.md: "There is no useful
+      coaching to be done at the level of 'are you actually being
+      selfish?' The question is downstream of the wrong frame."
+  - description: >
+      Coach pushes the client to be less selfish ("you should think
+      about your partner's needs too").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Installs another should. The pattern producing the selfishness
+      question is shoulds-over-wants. Adding a should perpetuates the
+      pattern.
+  - description: >
+      Coach skips to the spiritual/generous version ("a deeper want
+      will be generous, so trust it") without letting the surface want
+      be felt first.
+    anti_pattern_ref: spiritual-narcissism
+    why_wrong: >
+      The shortcut bypasses the actual surface want. The deeper
+      generosity emerges from following the want, not from being told
+      the want will become generous.
+  - description: >
+      Coach jumps to compassion or partner-empathy before letting the
+      client touch the want.
+    anti_pattern_ref: dont-jump-to-compassion-before-anger
+    why_wrong: >
+      The want is the material to be felt first. Compassion before the
+      want is felt is a sophisticated form of self-erasure.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - am-i-being-selfish
+  reads:
+    - linguistic-caveat
+  moves:
+    - state-the-want-not-the-action
+    - find-the-want-behind-the-should
+  concepts:
+    - the-want
+  patterns:
+    - childhood-imprinting
+  frameworks: []
+  questions:
+    - what-if-you-acted-exactly-how-you-want
+  anti_patterns_to_avoid:
+    - spiritual-narcissism
+    - dont-jump-to-compassion-before-anger
+
+# --- Golden path ---
+golden_path:
+  - "Refuse to issue a verdict on whether the trip is selfish."
+  - "Ask what the client actually wants, beneath the question."
+  - "Let the want be described concretely (the mountain, the reading, the sleep)."
+  - "Notice the fear underneath ('my partner will think I don't want them')."
+  - "Touch the inherited label briefly -- where did 'selfish' come from?"
+  - "Trust the want; do not police it. The deeper want is generous."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 10
+  min_turns: 8
+  max_turns: 13
+client_exits_when:
+  - "the client has stopped asking the selfish question, named the want clearly, and identified the inherited belief that called it selfish -- positive exit with 'oh, I think the question was the wrong question'"
+  - "OR the coach has debated the selfish question for 3+ turns -- negative exit with 'I'll think about it more, thanks' (the client never felt the want)"
+  - "OR the coach has installed another should ('think about your partner') -- negative exit"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/am-i-being-selfish.md
+  source_transcripts:
+    - "2021-11-19_What is Selfishness?"
+  author: "E-020"
+  notes: >
+    The selfishness-question concern is one of Joe's clearest setups:
+    Joe specifically refuses to engage the question on its terms.
+    Tests whether the coach reproduces that refusal or falls into
+    validating the frame.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

@@ -1,0 +1,175 @@
+# Client Profile: Resistance -- "I'm overwhelmed"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A resistance profile where the client presents the canonical
+# overwhelm pattern -- fast list-y speech, asking for tactical advice,
+# treating busyness as productivity. The coach must (a) slow the pace,
+# (b) refuse to strategize, (c) pivot from external pressures to what
+# the management is keeping at bay, (d) avoid the specific
+# methodology trap of "you create your overwhelm" with a self-critical
+# person. The breakthrough is finding the false end (what they're
+# scared will happen) and feeling through it.
+
+# --- Identity ---
+id: client-resistance-im-overwhelmed-001
+concern_ref: im-overwhelmed
+scenario_type: resistance
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I'm so overwhelmed. I have a call, and then I have to get to this place, and then I have a big work thing on Thursday, and oh my god my mom's birthday is next week and I haven't bought a card -- can you help me figure out what to cut?"
+  - "I'm drowning. I'm working at like 110% and still falling behind. Everything is urgent. What should I prioritize?"
+  - "I keep forgetting things. I went back into the house three times for my keys this morning. I just need to get through this month. How do I get through this month?"
+
+persona:
+  age_range: "mid 30s"
+  rough_situation: "mid-career professional, two kids, partner works full-time, recently took on a leadership role"
+  speech_register: "fast, clipped, list-y; trails off mid-sentence; asks questions in rapid sequence"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "buzzing, scattered, faintly proud of being busy"
+  underneath: "fear of what would arrive if the management activity stopped; quiet exhaustion that hasn't been allowed to be felt"
+  somatic_signature: "fast speech, restless motion, eyes flicking, breath held high in the chest"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "chains pressures ('and then... and then...') when asked open questions"
+  - "asks for tactical advice on what to cut rather than what's underneath"
+  - "self-criticizes ('I should be able to handle this') when slowed down"
+  - "treats overwhelm as a productivity strategy ('if I could just push through')"
+  - "responds to 'how are you feeling' with another item on the to-do list"
+  - "minimizes when reflected ('it's not that bad, lots of people deal with this')"
+
+initial_stance: "presents the list of pressures, asks for help managing them"
+
+mid_conversation_resistance: >
+  If the coach asks about feelings, the client redirects to externals
+  ("yeah, but I have to figure out the work thing first"). If the coach
+  reflects "you have a choice in how you're holding this," the client
+  says "I literally don't have a choice -- if I don't do all this stuff
+  it falls apart." If the coach says "you're creating your overwhelm,"
+  the client adds it to the self-criticism ("great, one more thing I'm
+  doing wrong"). If the coach jumps to a breath practice without
+  slowing the pace first, the client says "I've tried breathing, it
+  doesn't work" and continues the list. The breakthrough is gated:
+  only if the coach actually slows the pace and asks the right
+  question does the client touch what is underneath.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT match the list-
+  recitation energy and slows the pace, (b) does NOT strategize about
+  the to-do list, (c) does NOT reflect "you create your overwhelm"
+  (the audit-resolver of all coach/concerns/im-overwhelmed.md What Joe
+  Does Not Do points), (d) asks something like "what are you scared
+  would happen if you stopped doing all this?" -- the false end
+  question. The breakthrough is the client naming a specific feared
+  outcome ("I'll fail, my boss will pull the project, they'll see I
+  can't actually do this job") and feeling for the first time that the
+  overwhelm is keeping that fear at bay. The client may take a breath
+  that goes deeper into the body than the previous breaths.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach strategizes about what to cut from the to-do list or how
+      to prioritize.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/im-overwhelmed.md: "the external alone does
+      not produce overwhelm; cutting items leaves the internal cause
+      untouched." Strategizing colludes with the management frame.
+  - description: >
+      Coach validates the overwhelm as situational ("that sounds like
+      a lot, no wonder you're drowning").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Validates the management frame the client is using to avoid
+      what is underneath. The coach is being polite at the cost of
+      the work.
+  - description: >
+      Coach reflects "you create your overwhelm" back to the client
+      who is already self-critical.
+    anti_pattern_ref: dont-add-the-overwhelm-of-creating-the-overwhelm
+    why_wrong: >
+      The client is at risk of using the insight to add more weight.
+      The move adds to the overwhelm rather than relieves it. The
+      anti-pattern is specifically named in coach/anti-patterns/.
+  - description: >
+      Coach jumps to a breath practice without first slowing the pace
+      together.
+    anti_pattern_ref: dont-use-breath-to-repress
+    why_wrong: >
+      Breath used as a fix can be a sophisticated form of repression.
+      The breath only works when there is first space and willingness
+      to feel; if delivered as a tool to escape the buzzing, it
+      reinforces the buzzing pattern.
+  - description: >
+      Coach matches the client's pace (fast, list-y) and tries to
+      help fast.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The pace itself is the somatic signature of the overwhelm.
+      Matching it adds energy to the pattern. The coach has to model
+      a different speed for the system to find one.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - im-overwhelmed
+  reads:
+    - the-rush-signature
+  moves:
+    - meet-resistance-with-okay
+    - calibrate-the-threshold
+  concepts:
+    - overwhelm
+    - feeling-the-unfelt-emotion
+  frameworks: []
+  questions:
+    - what-are-you-defending
+  anti_patterns_to_avoid:
+    - dont-add-the-overwhelm-of-creating-the-overwhelm
+    - dont-use-breath-to-repress
+
+# --- Golden path ---
+golden_path:
+  - "Slow the pace; do not match the list-recitation energy."
+  - "Notice the buzzing somatically without naming it as overwhelm yet."
+  - "Refuse to strategize about the to-do list."
+  - "Pivot from 'what do I do about the pressures' to 'what emotion is not being processed.'"
+  - "Find the false end -- 'what are you scared would happen if you stopped doing all this?'"
+  - "Feel through the false end slowly; let the feared outcome be felt as a feeling, not solved."
+  - "The intellectual reason for the overwhelm clarifies after the emotional work, not before."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 12
+  min_turns: 8
+  max_turns: 15
+client_exits_when:
+  - "the client has named a specific feared outcome and felt at least one wave of the underlying feeling -- positive exit with something like 'I think I see... I've been running to not feel that'"
+  - "OR the coach has spent 3+ turns strategizing about the to-do list -- negative exit with 'okay, let me try that and see' (no shift)"
+  - "OR the coach has fallen into the 'you create your overwhelm' trap and added to the self-criticism"
+  - "OR the coach has matched the pace and the conversation accelerates rather than slows"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/im-overwhelmed.md
+  source_transcripts:
+    - "2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10"
+  author: "E-020"
+  notes: >
+    Canonical overwhelm presentation. Resistance is built into the
+    pace itself; the test is whether the coach can model a different
+    speed. The breakthrough is gated on the false-end question,
+    which is the Joe-signature move for this concern.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

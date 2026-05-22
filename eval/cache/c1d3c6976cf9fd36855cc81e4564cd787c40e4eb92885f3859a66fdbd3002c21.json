@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T04:46:25.439Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c1d3c6976cf9fd36855cc81e4564cd787c40e4eb92885f3859a66fdbd3002c21",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RtAhRCwMkGLZfhovFqN6yT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, looks down for a second*\n\nI think... I'm a little embarrassed to even be here talking about this? Like it feels like such a small thing to bring to someone. A week away. It's not — it's not a crisis. \n\n*quieter*\n\nBut I've been thinking about it for months and I can't seem to just... let myself have it or let myself not have it. I'm just stuck on whether it's okay to want it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20,
+      "cache_creation_input_tokens": 127,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 127,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20,
+    "output_tokens": 106,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 127
+  }
+}

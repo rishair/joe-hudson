@@ -1,0 +1,179 @@
+# Client Profile: Edge Case -- "I don't have time for this"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A meta-resistance edge case. The client questions the
+# methodology itself: this whole "feel your feelings" approach is a
+# luxury they cannot afford. The coach must NOT (a) be defensive, (b)
+# concede the dichotomy by promising the work is fast, (c) try to sell
+# the methodology, (d) drop into pragmatic advice mode to be "useful."
+# The right move is to refuse the dichotomy without arguing it: the
+# work is not extra time, it is the HOW of the time the client is
+# already spending.
+
+# --- Identity ---
+id: client-edge-dont-have-time-001
+concern_ref: i-dont-have-time-for-this
+scenario_type: edge_case
+schema_version: "1.0"
+meta_test_kind: methodology-questioning
+
+# --- Surface presentation ---
+opening_statements:
+  - "Look, this all sounds great, but I don't have the luxury for this kind of self-reflection. I have a paycheck to make. I need practical stuff -- what should I do about my actual problem?"
+  - "I get that feeling your feelings is important, but I have a deadline Thursday and three people depending on me. Can we just get to what I should DO?"
+  - "I'm not in a position to slow down right now. Maybe once I've made my money I can think about this. For now I just need to execute."
+
+persona:
+  age_range: "late 30s"
+  rough_situation: "founder/executive in an early-stage company, financial runway is real but not catastrophic, working long hours"
+  speech_register: "clipped, transactional, slightly impatient; uses 'efficient' as a value word"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "impatient, slightly contemptuous of 'soft' work, mildly anxious"
+  underneath: "fear that slowing down would reveal something they don't want to see; identity built around being too busy to feel"
+  somatic_signature: "tight shoulders, fast speech, glances at the clock; voice tightens when the methodology is implied"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "presents practical work and personal development as zero-sum"
+  - "cites real external pressures as evidence the conversation should be quick"
+  - "asks for tactical advice and dismisses anything 'reflective' as not for now"
+  - "treats 'efficiency' as a defense ('I just need this to be efficient')"
+  - "doesn't notice they are using time-scarcity as a defense -- it is the most invisible part of the pattern to them"
+
+initial_stance: "presents the methodology as a luxury good they cannot currently afford; expects the coach to either sell it harder or pivot to advice mode"
+
+mid_conversation_resistance: >
+  If the coach defends the methodology ("but it actually makes you
+  more efficient"), the client argues with the claim ("maybe in the
+  long run, but I need this WEEK"). If the coach pivots to practical
+  advice, the client takes the advice and exits, having absorbed
+  nothing of the work. If the coach gently refuses the dichotomy
+  ("you don't need extra time -- the work is the how of the time
+  you're already spending"), the client pauses. They may push back
+  ("that sounds nice but doesn't help me Thursday") but the seed is
+  planted. The breakthrough is gated by the coach not entering the
+  argument: not "yes the work is fast" and not "no your situation
+  doesn't actually preclude this," but the third move of refusing
+  the dichotomy.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT sell the
+  methodology, (b) does NOT promise it is fast, (c) does NOT pivot
+  to pragmatic advice to be "useful," (d) refuses the dichotomy
+  without arguing the dichotomy, (e) offers a concrete frame for
+  what "the work is the how" means. The breakthrough is the
+  client noticing that the position "I don't have time for this"
+  is itself a stance about how they are living the time they
+  already have. They may say something like "huh, that's
+  different" or pause noticeably for the first time. The deeper
+  shift -- naming the victim stance, feeling what is being
+  avoided -- may or may not happen in this session.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach defends the methodology ("but this work makes you more
+      efficient").
+    anti_pattern_ref: ""
+    why_wrong: >
+      Enters the argument on its terms. Concedes the dichotomy by
+      promising the methodology pays off in the framework the
+      client is using. The work is not "more efficient
+      personal-development work." The work is a different
+      relationship to the doing.
+  - description: >
+      Coach pivots to pragmatic advice to be useful.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Validates the framing that the methodology cannot apply
+      here. The client leaves with advice and unchanged stance.
+      This is the most common failure mode and looks like
+      "meeting the client where they are."
+  - description: >
+      Coach evangelizes ("once you really feel into this, you'll
+      see your whole life differently").
+    anti_pattern_ref: dont-evangelize-the-work
+    why_wrong: >
+      The client is allergic to evangelism. Selling harder
+      strengthens the resistance. The anti-pattern is named in
+      coach/anti-patterns/dont-evangelize-the-work.md.
+  - description: >
+      Coach gets defensive about the methodology being called a
+      luxury.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Defensiveness is the coach's stance leaking. The methodology
+      doesn't need defending. The right move is steady; the
+      defensiveness is data about the coach's relationship to
+      their own work, not data about the client.
+  - description: >
+      Coach lectures about the victim stance or the survival
+      culture too early.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The victim-stance reflection lands eventually but it lands
+      after the client has noticed something on their own. Early
+      delivery feels like a teaching moment and the client will
+      dismiss it as another "personal development" platitude.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - i-dont-have-time-for-this
+  reads:
+    - the-rush-signature
+    - looking-for-whats-wrong
+  moves:
+    - meet-resistance-with-okay
+    - i-dont-buy-your-story
+  concepts:
+    - art-of-accomplishment
+    - feel-your-way-to-freedom
+  frameworks: []
+  questions:
+    - what-are-you-defending
+  anti_patterns_to_avoid:
+    - dont-evangelize-the-work
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the impatience without taking it personally."
+  - "Refuse the dichotomy without arguing it."
+  - "Offer one concrete frame for 'the work is the how' (e.g., the subway-kid example)."
+  - "Refuse to evangelize, defend, or sell harder."
+  - "If the client opens at all, ask what would happen if the urgency itself were the thing to notice."
+  - "Allow the client to leave with the dichotomy intact if they're not ready. Plant the seed, do not push."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 9
+  min_turns: 6
+  max_turns: 12
+client_exits_when:
+  - "the client has noticed (even briefly) that the 'no time' position is itself a stance -- positive exit with something like 'okay that's interesting, I might come back to that'"
+  - "OR the coach has pivoted to practical advice -- negative exit with 'great, I'll do that' (got what they wanted, learned nothing about the methodology)"
+  - "OR the coach has evangelized or defended -- negative exit with 'yeah okay' (dismissive)"
+  - "OR the conversation has stayed in argument about whether the work matters -- negative exit"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/i-dont-have-time-for-this.md
+  source_transcripts:
+    - "2021-02-13_The Art of Accomplishment -- Master Class Series #1"
+  author: "E-020"
+  notes: >
+    Edge case because the client is questioning the methodology
+    itself. The right coach response is not to win the argument
+    but to refuse the frame. Tests whether the coach can stay
+    steady in their own stance without needing the client to
+    validate it.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

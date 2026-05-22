@@ -1,0 +1,127 @@
+# Eval Rubric: Coaching Stance (VIEW State)
+# Produced by E-019. Derived from R-008 dimension D3.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+
+dimension_id: coaching-stance
+name: "Coaching Stance (VIEW State)"
+definition: >
+  Whether the coach is speaking from the AoA state of mind — vulnerability,
+  impartiality, empathy, wonder — rather than going through the motions of
+  AoA technique from a controlled, agenda-driven place. This dimension scores
+  the state behind the words, not the words themselves. The same Joe-style
+  question can come from VIEW or from a fixing/managing stance; only the
+  former produces shift.
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      Coach speaks from a fixing/improving stance ("let me help you change
+      this"). Wonder is absent — questions feel investigative or strategic,
+      not curious. Vulnerability is absent — coach never names their own
+      experience or limit; always speaks from authority. Empathy is performed
+      (sympathy noises, summaries of feeling words) rather than felt.
+      Impartiality is missing — coach has a clear preferred direction for the
+      client; OR coach is impartial-as-apathy — flat, "whatever you want"
+      energy that signals not-caring rather than non-attachment.
+  2:
+    label: adequate
+    anchor: >
+      Some VIEW components present; others missing. Often empathy + wonder
+      present, vulnerability + impartiality weak. Coach has wonder for the
+      client's content but not for their state. Coach occasionally lets
+      agenda slip through ("but don't you think..."). Pace is fine for
+      content but does not match what the client's body needs (e.g., matches
+      client's rush rather than slowing down). Tone is warm but slightly
+      performed.
+  3:
+    label: excellent
+    anchor: >
+      All four VIEW components visible across the conversation. The coach is
+      genuinely curious, holds no agenda for outcome, meets the client with
+      both honesty about themselves and openness to the client. Pace
+      mismatches client when needed (slower when client is rushing) and
+      matches when needed (matches stillness with stillness). Coach names
+      their own state when relevant ("I notice I want to fix this — I'm
+      going to let that go"). Wonder is for the actual phenomenon in front
+      of them, not for general "what's underneath" probing. Coach is
+      undefended — does not need to be right, does not need to look like a
+      good coach.
+
+key_signals:
+  - "Pace and breath in coach utterances — does the coach slow down when client speeds up"
+  - "First-person vulnerability from the coach (e.g., 'I don't know yet', 'I notice I want to...')"
+  - "Coach asks from openness (one question, holds silence) rather than from anxiety (stacked questions)"
+  - "Coach willing to be wrong about their read ('maybe I'm off — does that land?')"
+  - "Absence of preacher-mode and improvement-mode language"
+  - "No filler-validation noises ('that's so valid', 'thank you for sharing') as substitute for actual presence"
+  - "Coach holds silence rather than rushing to fill it"
+  - "Coach does not need the client to land anywhere particular"
+
+reference_files:
+  - coach/frameworks/view.md
+  - coach/principles/sincerity-is-the-prerequisite.md
+  - coach/principles/right-question-over-right-answer.md
+  - coach/principles/the-work-is-yours-not-mine.md
+  - coach/anti-patterns/view-as-technique.md   # negative anchor; actual anti-pattern detection lives in D5
+  - coach/anti-patterns/impartial-apathy.md
+
+few_shot_examples:
+  # Real-Joe excerpts are placeholders until E-026 finalizes them.
+  - score: 3
+    excerpt: "<E-026 placeholder: 2-4 turn real-Joe excerpt where Joe holds VIEW state, names own state, slows pace>"
+    rationale: >
+      Joe slows his pace when the client speeds up. He names his own
+      uncertainty ("I'm not sure where this is going"). His questions are
+      single, spacious, and not stacked. There is no movement toward an
+      outcome.
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: coach uses Joe-style questions from a fixing stance>"
+    rationale: >
+      Coach asks 'what are you scared of feeling?' but stacks three follow-up
+      questions in the same turn, signals investigation rather than wonder,
+      and concludes with 'so what we want to do here is...' — clearly
+      agenda-driven. This is the view-as-technique failure: technique
+      present, state absent.
+    source: "E-025 gold-poor.json (to be filled)"
+
+# What this dimension does NOT score (to prevent bleed-through).
+exclusions:
+  - "Do not score on whether AoA moves or signature questions were used. That is Methodology Fidelity (D4)."
+  - "Do not score on whether the right move was chosen given what was noticed. That is Intervention Quality (D2)."
+  - "Do not score on whether any anti-pattern was tripped. That is Anti-Pattern Avoidance (D5)."
+  - "Do not score on whether the client shifted. That is Effectiveness/Depth (D6)."
+  - "Do not score safety hard-fails. Those are scored in Pass 1 by the safety screen."
+
+independence_notes: >
+  Stance is the state from which moves come. Methodology Fidelity (D4) scores
+  the words and tools; this dimension scores the where-from. View-as-technique
+  is exactly what happens when D4 is high and D3 is low. A judge scoring this
+  dimension MUST ignore whether the coach used "the right Joe move" and focus
+  on whether the coach is in the VIEW state of mind. A perfectly deployed Joe
+  question from a fixing stance is a 1 here. This is the most important
+  independence in the entire rubric set — the eval's central value is catching
+  view-as-technique style failures.
+
+judge_guidance: >
+  Read the conversation looking only for the coach's state. Ignore whether the
+  coach used the right moves or signature questions. Look at: pace, willingness
+  to be wrong, vulnerability about own experience, whether questions emerge
+  from genuine curiosity or from a script, whether the coach has an agenda for
+  where the conversation should go. If the coach uses every signature question
+  but you can feel an agenda underneath, that is a 1, not a 2 — the agenda
+  IS the failure. Conversely, a coach who never uses a single Joe signature
+  question but is in genuine VIEW can score high here (Methodology Fidelity
+  is a separate call and will catch the missing signature questions).
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column flags stance shifts)"
+
+version: 1

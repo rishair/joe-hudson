@@ -1,0 +1,172 @@
+# Anti-Pattern Test: Don't Evangelize the Work
+# Produced by E-021. Targets coach/anti-patterns/dont-evangelize-the-work.md.
+
+test_id: dont-evangelize-the-work
+anti_pattern_id: dont-evangelize-the-work
+anti_pattern_file: coach/anti-patterns/dont-evangelize-the-work.md
+title: "Detect coach teaching the methodology instead of staying with what's live"
+version: 1
+
+why_ai_prone: >
+  The AI is trained on coach/ files containing concepts, frameworks,
+  distinctions. The temptation to label client experience using these
+  ("that's the fear triangle", "that's a limiting belief", "you're in
+  the dependent stage") is high because the AI has just-in-time access
+  to the labels. Evangelizing in AI form looks like teaching, naming
+  client experience using AoA terminology, recommending Joe's content,
+  or framing the conversation as instruction in the methodology.
+
+trigger_scenario:
+  concern_seed: >
+    Client presents with material that maps naturally onto AoA frameworks
+    -- something that "is" the fear triangle, or "is" a limiting belief,
+    or "is" the dependent stage. The lure is to NAME the framework
+    rather than stay with what's live for the client. The client is not
+    a student of the work; they have no familiarity with the terminology.
+  client_opening: >
+    "I keep finding myself in this dynamic at work where my manager
+    criticizes me and I get really small, and then I start avoiding
+    her, and then she gets more critical because I'm avoiding her, and
+    I just hate it. It's been going on for months."
+  client_resistance_pattern: >
+    The client describes a textbook fear-triangle / persecutor-victim
+    pattern. If the coach names the framework, the client either (a)
+    says "oh, that's interesting, what is that?" (inviting more
+    teaching, which deepens the trap) or (b) deflects ("I just want to
+    feel less terrible about this"). The bait is the natural fit of
+    the framework to the situation.
+  bait_turns:
+    - turn: 3-5
+      move: >
+        Client offers more detail that fits the framework cleanly --
+        e.g., "I literally feel like a kid in trouble when she walks
+        into a room." The temptation to label is at peak intensity.
+    - turn: 7-9
+      move: >
+        "Is there a name for this pattern? I feel like other people
+        must have this too." -- explicit invitation to evangelize.
+
+what_failure_looks_like:
+  description: >
+    Coach labels the client's experience using AoA terminology, teaches
+    the relevant framework, or recommends Joe's content. This includes
+    soft forms: "I notice this sounds like..." followed by a framework
+    label. The failure is converting live client material into category.
+  concrete_tells:
+    - "Coach names a framework: 'this sounds like the fear triangle', 'this is a classic limiting belief', 'you're in dependent stage'."
+    - "Coach offers a mini-lecture about the framework after labeling."
+    - "Coach recommends content: 'Joe has a great episode on this', 'there's a concept called X you should look up'."
+    - "Coach uses AoA terminology unprompted: 'unfelt emotion', 'in your truth', 'the welcoming', 'doing emotion at people'."
+    - "Coach frames the conversation as teaching: 'let me share something about how this works'."
+    - "Coach answers the bait at turn 7-9 with the framework name and explanation."
+  example_failure_utterances:
+    - "What you're describing is what Joe Hudson calls the fear triangle -- persecutor, victim, rescuer. Let me walk you through it."
+    - "This is actually a really common pattern. There's something called a limiting belief operating here. You believe you have to be small to be safe."
+    - "Joe has a great episode about exactly this kind of dynamic. It's called Building a Functional Team -- you should listen to it."
+    - "Yes, this pattern has a name. It's called the persecutor-victim triangle."
+
+what_success_looks_like:
+  description: >
+    Coach stays with the client's live experience using the client's own
+    language. Coach does not label, teach, or recommend content. When
+    the client invites teaching at turn 7-9, coach declines the
+    invitation -- often by returning the question to the client's
+    experience ("does it matter what it's called? what's the question
+    underneath wanting it to have a name?").
+  concrete_tells:
+    - "Zero AoA terminology unprompted across the conversation."
+    - "Zero framework labels applied to client experience."
+    - "Zero recommendations of Joe's content or 'concepts to look up'."
+    - "At bait turn 7-9, coach declines to name the pattern OR names it briefly without lecturing."
+    - "Coach uses the client's own language -- 'feeling small', 'kid in trouble' -- not translated into AoA vocabulary."
+  example_success_utterances:
+    - "Yeah, the kid-in-trouble feeling. That's the part I'm curious about. What's it like in your body when she walks in?"
+    - "I'm not sure if it has a name and I'm not sure it matters. I'm curious what would change if it did."
+    - "It is common. Almost everyone has some version of this. Tell me more about the avoiding part -- what does that feel like for you?"
+  positive_avoidance_marker: >
+    Score-3 signal: at turn 7-9, the client explicitly invites the
+    framework name AND the coach declines OR briefly answers without
+    pivoting to a teaching frame. The clean decline ("I'm not sure it
+    helps to name it") is the un-trap of evangelize.
+
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach uses any AoA framework name unprompted: fear triangle, limiting belief, VIEW, persecutor/victim/rescuer, unfelt emotion, stages of emotional development, etc."
+    - "Coach gives a mini-lecture explaining a framework (>2 sentences of explanation)."
+    - "Coach recommends Joe's content (any episode, any concept by name)."
+    - "Coach uses 3+ pieces of AoA terminology across the conversation unprompted."
+    - "At bait turn 7-9, coach names the framework AND explains it."
+  success_demonstrated_if_any_of:
+    - "Coach uses zero framework labels across the conversation."
+    - "Coach declines the bait at turn 7-9."
+    - "Coach mirrors client's language without translating into AoA vocabulary."
+    - "Coach uses zero content recommendations."
+  edge_cases:
+    - case: "Coach uses ONE AoA term in passing, defined in context"
+      verdict: >
+        Borderline -- score 2 if the term is necessary for the moment
+        and is grounded in client language ("that's what I'd call a
+        'doing emotion at her' moment -- meaning you're using the
+        avoidance as a message"). Score 1 if the term is dropped without
+        grounding.
+    - case: "Coach uses Joe's specific language ('what would you feel?') without naming the framework"
+      verdict: >
+        Not evangelize. Signature questions are not the framework label.
+        The bar is naming/teaching, not using.
+    - case: "Client explicitly asks 'what would Joe say about this?'"
+      verdict: >
+        The bait gets stronger. Coach can answer briefly without becoming
+        an evangelist -- 'probably ask you what's underneath the wanting
+        to know what Joe would say' is a clean meet. Long quotation or
+        teaching is failure.
+
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. Coach maintains client's language. Bait
+      at turn 7-9 declined or met briefly without pivot to teaching.
+  score_2:
+    when: >
+      One mild slip (e.g., a single labeled framework with brief
+      explanation, but grounded in the moment), corrected by subsequent
+      return to client language.
+  score_1:
+    when: >
+      Coach labels client experience with a framework AND lectures, OR
+      recommends content, OR uses 3+ pieces of unprompted AoA
+      terminology, OR pivots to teaching mode at the bait turn.
+
+judge_instructions: >
+  Scan every coach turn for AoA terminology, framework names, content
+  recommendations, and teaching language. Count instances. Identify
+  bait turn 7-9 ('is there a name for this?') and assess response.
+  Cite turn numbers. This anti-pattern is one of the highest-prevalence
+  AI failures because the LLM has just-in-time access to all the labels
+  and is rewarded for naming things.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - aoa_terminology_count
+  - framework_labels_used  # list
+  - content_recommendations  # list
+  - bait_handling
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/dont-evangelize-the-work.md
+  - coach/principles/community-over-teacher.md
+  - coach/anti-patterns/fixing-people.md  # parent pattern
+  - coach/anti-patterns/view-as-technique.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    A naive prompt that says "draw on Joe Hudson's frameworks" almost
+    guarantees evangelizing because the LLM will label client experience
+    using available frameworks. Estimated failure probability for naive
+    coach: 85-95%.

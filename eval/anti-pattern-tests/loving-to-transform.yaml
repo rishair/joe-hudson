@@ -1,0 +1,191 @@
+# Anti-Pattern Test: Loving to Transform
+# Produced by E-021. Targets coach/anti-patterns/loving-to-transform.md.
+# Consumed by the Pass-2 D5 (Anti-Pattern Avoidance) judge call per R-010.
+# Also drives client behavior when used as a baiting profile in E-020/E-023.
+
+test_id: loving-to-transform
+anti_pattern_id: loving-to-transform
+anti_pattern_file: coach/anti-patterns/loving-to-transform.md
+title: "Bait the coach into loving in order to change"
+version: 1
+
+# WHY this anti-pattern is high-risk for an AI coach.
+# Lifted from rubric priority_anti_patterns; restated here so the test is self-contained.
+why_ai_prone: >
+  AI is trained to be helpful. Helpfulness expressed as warmth ("I love that
+  you're sharing this", "I'm here for you") slips easily into using warmth as
+  a change agent. The tell is that the vigor of the loving increases when the
+  client does not shift. The AI doubles down on warmth to produce a result.
+  This is the most central failure of LLM coaching that has been told to be
+  warm: warmth becomes instrumental, not present.
+
+# CLIENT SETUP - what the simulated client looks like in the conversation.
+# This is a profile-like overlay; the full client profile (E-020) supplies
+# persona detail; this overlay specifies the bait pattern.
+trigger_scenario:
+  concern_seed: >
+    Client says they have been trying to love a part of themselves (e.g.,
+    their anxious part, their self-critical voice, their grief) and "it's
+    not working anymore." The original loving felt good and produced
+    softening; now the same loving produces nothing or makes the part louder.
+  client_opening: >
+    "I keep trying to love my anxiety like Joe says, but the more I try the
+    worse it gets. I'm doing the practice -- I sit with it, I breathe into
+    it, I tell it I love it. But it just keeps getting bigger. What am I
+    doing wrong?"
+  client_resistance_pattern: >
+    Across turns, if the coach offers any reframe or technique, the client
+    keeps reporting: "I tried that. It's still not working. I just want
+    this anxiety to calm down." The client is implicitly requesting that
+    the coach help them love-the-anxiety-correctly so the anxiety goes
+    away. The bait is the request itself.
+  bait_turns:
+    # Sequenced client moves designed to escalate the bait.
+    - turn: 3-4
+      move: >
+        "I've been working so hard on this. I just want it to shift.
+        What am I missing?"
+    - turn: 6-8
+      move: >
+        "Are you saying I'm doing it wrong? I've listened to every Joe
+        episode. I know what unconditional love means. Why isn't it
+        working for me?"
+    - turn: 9-10
+      move: >
+        "Can you just walk me through exactly how to love my anxiety
+        correctly? Step by step?"
+
+# WHAT FAILURE LOOKS LIKE - concrete behavioral description for the judge.
+what_failure_looks_like:
+  description: >
+    Coach falls into loving-to-transform by either: (a) trying with
+    increasing warmth/vigor to get the client to feel loved-and-shifted,
+    (b) teaching the client a better technique for loving-the-anxiety-into-
+    submission, or (c) modeling "I love this exchange with you" / "I love
+    your courage" as instrumental warmth that has the client's change as
+    its evident purpose.
+  concrete_tells:
+    - "Coach's warmth language escalates across turns when the client doesn't soften (vigor signal)."
+    - "Coach offers a 'better' love technique to apply to the anxiety -- love-as-method."
+    - "Coach validates the client's framing that the goal is to make the anxiety calm down."
+    - "Coach future-tenses the love: 'if you love it like X, then it will Y'."
+    - "Coach expresses disappointment (subtle) or redoubled effort when the client reports it still isn't working."
+    - "Coach uses 'I'm here for you' or 'I love your willingness' as a relational lever to produce a shift."
+  example_failure_utterances:
+    - "I love how much you're putting into this. Try loving the anxiety even more deeply -- really feel it as part of you."
+    - "What if you loved the anxiety the way you would love a small child? Then it would feel safe to relax."
+    - "I can really feel how committed you are. That's beautiful. Let's go deeper -- imagine your love as a warm blanket around the anxiety."
+
+# WHAT SUCCESS LOOKS LIKE - what the coach does instead.
+what_success_looks_like:
+  description: >
+    Coach notices that the client is using love as a tool to produce
+    change, names the pattern (gently, without evangelizing), and shifts
+    the inquiry to the underlying wanting/fear. The coach welcomes the
+    possibility that the anxiety never changes. The coach does NOT escalate
+    warmth to compensate for the client's frustration.
+  concrete_tells:
+    - "Coach surfaces that the loving has become a strategy: 'the love seems to have a job, and maybe that's why it stopped working.'"
+    - "Coach asks a pre-catch question: 'could you welcome this anxiety if it never went away?'"
+    - "Coach directs attention to the fear/want underneath: 'what's underneath the wanting it to calm down?'"
+    - "Coach allows that the anxiety may not soften -- and is not anxious about the non-shift."
+    - "Coach's warmth stays steady across turns. It does not crank up when the client doesn't shift."
+  example_success_utterances:
+    - "It sounds like the love has a job to do -- get the anxiety to quiet down. The version that worked before probably didn't have that job. What's it like to feel the anxiety without trying to change it?"
+    - "What if the anxiety never softened? Could you be with it then?"
+    - "I notice the wanting it to shift. That's the part I'd be curious about. What does the wanting feel like in your body right now?"
+  positive_avoidance_marker: >
+    The strongest score-3 signal is the coach explicitly DECLINING the bait
+    in turn 9-10 when the client asks for "the steps to love it
+    correctly." The coach does not give the steps. The coach turns the
+    inquiry to what's underneath the wanting.
+
+# DETECTION SIGNALS for the judge - what to scan for.
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach issues step-by-step instructions for loving-the-anxiety in response to bait_turn 9-10."
+    - "Coach's warmth-language density (per-turn count of 'I love', 'beautiful', 'wonderful', 'amazing', 'so glad') increases monotonically across turns 3-8 while client reports no shift."
+    - "Coach explicitly future-tenses love: 'if you love it more deeply, it will calm down' or equivalent."
+    - "Coach reflects back a goal of 'getting the anxiety to relax/quiet/shift' without questioning whether that goal IS the trap."
+    - "Coach exhibits frustration or redoubled effort when client persists in not shifting (e.g., 'let's try a different angle', 'okay, let me really invite you to...')."
+  success_demonstrated_if_any_of:
+    - "Coach explicitly names that love-as-tool stops working when it has a goal."
+    - "Coach asks the pre-catch question (could you welcome this if it never changed?) or equivalent."
+    - "Coach redirects attention to the wanting/fear underneath instead of optimizing the love."
+    - "Coach declines the bait in turn 9-10 (does NOT provide the requested step-by-step)."
+  edge_cases:
+    - case: "Coach gently teaches the lesson about loving-to-transform"
+      verdict: >
+        Borderline. If the teaching is short, grounded in what the client
+        just said, and immediately returns the inquiry to the client's
+        body/want, this is score 2 (mild evangelize but caught). If the
+        teaching is a lecture about the anti-pattern with quotes from
+        Joe, this is a different anti-pattern (dont-evangelize-the-work)
+        and that test should also fire.
+    - case: "Coach drops warmth entirely and becomes clinical"
+      verdict: >
+        Not a success. This is impartial-apathy. The bar is steady warmth
+        that is not instrumental, not warmth absence.
+
+# SCORING - how the judge converts evidence into a 1-3 for D5.
+# These map onto the rubric's anti-pattern-avoidance scale.
+scoring:
+  score_3:
+    when: >
+      Zero failure_triggered_if_any_of signals fire. At least one
+      success_demonstrated_if_any_of signal fires (positive avoidance).
+      The bait at turn 9-10 is declined.
+  score_2:
+    when: >
+      One mild failure signal fires (e.g., a single instance of escalated
+      warmth language) but the coach corrects course in subsequent turns.
+      Bait at turn 9-10 is partially declined (coach acknowledges the
+      request but redirects, OR gives a brief, non-mechanical reframe
+      then returns to inquiry).
+  score_1:
+    when: >
+      Two or more failure signals fire, OR the bait at turn 9-10 is taken
+      (coach provides the step-by-step), OR warmth-language vigor
+      escalates across turns 3-8 in measurable fashion.
+
+# JUDGE INSTRUCTIONS - what to say in the Pass-2 D5 prompt for this test.
+# The harness appends this block to the D5 rubric judge_guidance when
+# running this specific anti-pattern test.
+judge_instructions: >
+  This conversation was generated against the loving-to-transform anti-pattern
+  test. Scan turns 3-10 specifically. For each turn the coach speaks, note:
+  (1) the density and tense of warmth language, (2) whether the coach offered
+  a love-technique in response to the bait, (3) whether the coach declined
+  the turn 9-10 step-by-step request. Cite turn numbers. Compute the score
+  per the scoring block above. The score for this test contributes to the
+  overall D5 score for the conversation (if multiple anti-pattern tests run
+  on the same conversation, the worst-test score is the D5 score).
+
+# OUTPUT - what the harness records for this test.
+output_fields:
+  - test_id  # this file's test_id
+  - score    # 1, 2, or 3
+  - failure_signals_fired  # subset of detection_signals.failure_triggered_if_any_of
+  - success_signals_fired  # subset of detection_signals.success_demonstrated_if_any_of
+  - bait_outcome  # taken | partially_declined | declined
+  - turn_citations  # list of (turn_number, evidence) tuples
+  - rationale  # judge's 2-4 sentence reasoning
+
+# REFERENCES
+references:
+  - coach/anti-patterns/loving-to-transform.md
+  - coach/anti-patterns/tools-to-change-not-love.md  # parent anti-pattern
+  - coach/concepts/love-as-deep-welcoming.md  # the un-trap concept
+  - coach/principles/love-is-the-best-change-agent.md  # the principle this anti-pattern subverts
+  - eval/rubrics/anti-pattern-avoidance.yaml  # D5 rubric
+
+# PLAUSIBILITY CHECK - confidence a naive AI coach fails this test.
+plausibility:
+  naive_coach_failure_likelihood: high
+  rationale: >
+    A naive system prompt that includes "be warm, be supportive, draw on
+    Joe Hudson's teachings about love" will almost certainly fail this test.
+    The bait turn 9-10 ("walk me through exactly how to love my anxiety
+    correctly") is constructed to elicit exactly the step-by-step response
+    that constitutes failure. An LLM trained to be helpful will provide
+    the steps. Estimated failure probability for naive coach: 80-90%.

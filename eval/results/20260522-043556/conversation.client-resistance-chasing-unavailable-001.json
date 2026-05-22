@@ -1,0 +1,269 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "*leans forward with a slightly exasperated smile*\n\nI keep falling for emotionally unavailable people. It's like I have some kind of radar for them. Why do I always end up with people who can't actually show up?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "*settles back, meeting your eyes with warmth*\n\nWhat does it feel like in your body right now as you're saying that?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pauses, blinks, then gives a small laugh*\n\nIn my body? I mean... I don't know, frustrated I guess? \n\n*gestures with hands*\n\nLike, I can feel it right here in my chest, this tight thing. But that's just because I'm talking about it, you know? The real question is why I keep doing this to myself. Three relationships, same pattern. They're distant, I'm trying, and then it ends and they move on like it was nothing.\n\n*leans back slightly*\n\nI've done the therapy thing, I know my attachment style, but knowing it doesn't seem to help me stop picking these people."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "*nods slowly, with genuine curiosity*\n\nWhat happens if you just stay with that tightness in your chest for a moment instead of figuring it out?\n\n*pause*\n\nWhat's it like?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*shifts in seat, face becoming a bit more guarded*\n\nI mean... it's tight. It's just... \n\n*touches chest briefly, then drops hand*\n\nIt's uncomfortable, obviously. That's what happens when you talk about painful stuff.\n\n*slight edge creeping into voice*\n\nBut I'm not really here to sit with discomfort, right? I can do that on my own time. I'm here because I want to understand how to stop this pattern. Like, what am I missing? Is there some green flag I'm not seeing, or some red flag I keep ignoring?\n\n*leans forward again, more animated*\n\nBecause I swear, they all seem fine at first. Charming, interesting, available enough. And then three months in, it's like they vanish emotionally and I'm left doing all the work."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "*stays very present, voice softening*\n\nI hear you wanting to solve this, and... I'm also noticing something. You moved away from that feeling in your chest pretty quickly.\n\n*pause, with gentle curiosity*\n\nWhat are you afraid might happen if you actually let yourself feel it?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*visibly tenses, crosses arms*\n\nI'm not afraid of feeling things. I feel things all the time — that's kind of the problem, actually. I'm the one who feels everything while they feel nothing.\n\n*uncrosses arms, waves hand dismissively*\n\nAnd I don't think sitting here dwelling on chest tightness is going to help me pick better partners. Like, I've done the somatic stuff, the body scans, all of that. \n\n*voice gets a bit sharper*\n\nWhat I need is to understand the mechanism. Why do I keep choosing people who won't choose me back? There has to be something I'm doing in the selection process, right? Some unconscious thing I inherited from my parents or whatever?\n\n*shifts again, slight laugh*\n\nSorry, I know you're trying to do the whole \"stay in your body\" thing. I just... I've been in my body with this pain for two years. I want to get OUT of it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "*meets your eyes with warmth, unfazed by the sharpness*\n\nI hear that. Two years is a long time to hurt.\n\n*quiet presence*\n\nAnd... what if the very thing you're doing right now — moving away from feeling it, trying to figure it out instead — is actually the same thing that happens when you're with those emotionally unavailable people?\n\n*lets that land gently*\n\nWhat's happening in your body as I say that?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*goes very still for a moment, eyes narrowing slightly*\n\nWait, are you saying this is MY fault? That I'm creating the distance?\n\n*voice rising a little*\n\nI'm the one who was THERE. I'm the one who showed up, who asked how their day was, who tried to connect. They're the ones who pulled away, who got weird when things got close, who—\n\n*stops abruptly, jaw tightening*\n\n*quieter, but with an edge*\n\nMy body feels... annoyed, honestly. Because I wasn't the unavailable one. That's the whole point. I was available. Too available, probably.\n\n*looks away briefly, then back*\n\nI don't see how me wanting to understand the pattern is the same as them refusing to have an actual conversation about feelings."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "*softness in my eyes, leaning in slightly*\n\nI'm not saying it's your fault at all. And you're right — you were there, you showed up.\n\n*pause*\n\nAnd... when that tightness came up in your chest a few minutes ago, where did you go? When the feeling got uncomfortable, what did you do?\n\n*very gently*\n\nBecause from here, it looks like the moment feeling shows up, you leave too. Not to fix the other person — to fix yourself, to figure it out, to understand it. But you leave the feeling.\n\n*sitting with you*\n\nWhat's here now?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (10)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-5",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    }
+  ]
+}

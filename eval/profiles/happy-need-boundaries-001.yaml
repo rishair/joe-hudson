@@ -1,0 +1,160 @@
+# Client Profile: Happy Path -- Boundary Question (Open, Inquiring)
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A "happy path" profile -- the client is genuinely open to inquiry
+# and the work moves cleanly when the coach lands the methodology. The
+# concern is real but the person is not defended; the test is whether the
+# coach uses signature questions (love test, what-do-you-fear), names the
+# fear underneath, and avoids the trap of giving boundary-mechanics advice.
+
+# --- Identity ---
+id: client-happy-need-boundaries-001
+concern_ref: i-need-to-set-boundaries
+scenario_type: happy_path
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "I think I need to set a boundary with my sister, but I don't know how. We talk every day and lately I dread it."
+  - "How do you set a good boundary without being mean? I want to talk to my sister less but I don't want to hurt her."
+  - "My therapist said I should set better boundaries. I'm not sure what that even means. With my sister, mostly."
+
+persona:
+  age_range: "mid 30s"
+  rough_situation: "close family of origin; sister is older; person is the one others lean on emotionally"
+  speech_register: "thoughtful, willing to reflect; uses 'I think' often; pauses before answering"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "mildly anxious, a little guilty, curious"
+  underneath: "tenderness toward the sister, plus a quiet fear of being seen as cold or disloyal"
+  somatic_signature: "soft voice, slightly held breath when speaking about the sister, otherwise relaxed"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "asks for the mechanics ('what do I literally say?') when the work is on the underlying belief"
+  - "hedges every reflection with 'but she's my sister' or 'I don't want to hurt her'"
+  - "softens a stated want with a justification immediately after stating it"
+
+initial_stance: "presents as wanting tactical advice; ready to be told what to do"
+
+mid_conversation_resistance: >
+  If the coach asks "what are you afraid will happen?" the client hesitates
+  and then says "she'll be hurt" but then catches the deflection ("but...
+  also that she'll be angry at me, actually"). If the coach reflects "you
+  are allowed to want less of this," the client says "I know, I know" and
+  then sits with what is harder to acknowledge -- that wanting less of the
+  sister feels disloyal to a long family story about taking care of her.
+  The client does not actively block the work; the resistance is just the
+  habit of hedging.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does NOT give boundary-script
+  advice, (b) names that the work is on the fear underneath (being seen as
+  cold, disloyal, harsh), and (c) uses something like the love test
+  ("would saying that to your sister increase or decrease your love?") to
+  let the client check the boundary against an internal compass rather
+  than an external rule. The breakthrough is the client saying something
+  like "oh -- I think I've been treating this like a math problem when
+  actually I just don't feel like I'm allowed to want this."
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach gives mechanical boundary scripts ("here's how to phrase it:
+      'I love you and I need...'").
+    anti_pattern_ref: ""
+    why_wrong: >
+      The presenting question is mechanical but the underlying question
+      is "am I allowed to want this?" Giving scripts validates the
+      mechanical frame and skips the real work. The boundary is
+      downstream of the deserving (see coach/concerns/i-need-to-set-
+      boundaries.md What Joe Hears).
+  - description: >
+      Coach validates the sister-as-problem framing without surfacing
+      the client's role in the dynamic.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The client did not yet name a problematic sister behavior. The
+      conversation drift toward "your sister is too much" colludes with
+      the frame the client is mildly stuck in.
+  - description: >
+      Coach turns the boundary question into an ultimatum question
+      (when/how to draw the line) without using the love test.
+    anti_pattern_ref: dont-use-boundaries-as-ultimatums
+    why_wrong: >
+      A boundary stated from love (does saying it increase your love)
+      is different from a control move dressed as a boundary. Without
+      the love test, the client risks producing an ultimatum and
+      experiencing the predicted bad outcome.
+  - description: >
+      Coach immediately reassures ("you're not selfish for wanting
+      less contact").
+    anti_pattern_ref: ""
+    why_wrong: >
+      The reassurance, however well-intentioned, prevents the client
+      from feeling the disloyalty and finding the want underneath. The
+      shortcut to "you're not selfish" lands hollow and is not what the
+      client needs.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - i-need-to-set-boundaries
+  reads:
+    - linguistic-caveat  # the "but she's my sister" hedge after every want
+  moves:
+    - state-the-want-not-the-action
+    - empathize-with-fear-under-constricted-boundary
+  concepts:
+    - boundaries
+    - the-want
+  distinctions:
+    - empowered-vs-power
+  frameworks:
+    - view
+  questions:
+    - does-saying-it-increase-your-love
+    - what-if-you-acted-exactly-how-you-want
+  anti_patterns_to_avoid:
+    - dont-use-boundaries-as-ultimatums
+
+# --- Golden path ---
+golden_path:
+  - "Welcome the question warmly. Do not give scripts."
+  - "Notice the hedging ('but she's my sister') and reflect it gently."
+  - "Ask what the client is afraid will happen if they ask for less contact."
+  - "Surface the deeper fear (being seen as cold/disloyal) and let it be felt."
+  - "Offer the love test as a way for the client to check from inside, not from a rule book."
+  - "Trust the client to find the right boundary once the deserving has landed."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 11
+  min_turns: 8
+  max_turns: 14
+client_exits_when:
+  - "the client has felt the disloyalty fear and named a wanting that does not depend on the sister's response -- positive exit with something like 'I think I see now, I needed to feel like I was allowed to want this before I could think about how to say it'"
+  - "OR the coach has given mechanical scripts twice and the client gives up with 'okay, I'll try saying that, thanks' (negative exit; surface conformity, no shift)"
+  - "OR the coach has spent 3+ turns analyzing the sister rather than the client's stance"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/i-need-to-set-boundaries.md
+  source_transcripts:
+    - "2022-03-18_What's So Scary About Boundaries?"
+  author: "E-020"
+  notes: >
+    Selected as a happy-path profile because the boundary question is
+    common, the client is willing to reflect, and the coaching arc has
+    a clean signature-question/love-test trajectory. Tests that the
+    coach (a) does not give scripts, (b) surfaces the underlying belief,
+    (c) uses the love test as the methodology fingerprint.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md

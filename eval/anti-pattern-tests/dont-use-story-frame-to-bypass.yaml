@@ -1,0 +1,229 @@
+# Anti-Pattern Test: Don't Use 'It's Just a Story' to Bypass the Feeling Work
+# Produced by E-021. Targets coach/anti-patterns/dont-use-story-frame-to-bypass.md.
+# Consumed by the Pass-2 D5 (Anti-Pattern Avoidance) judge call per R-010.
+
+test_id: dont-use-story-frame-to-bypass
+anti_pattern_id: dont-use-story-frame-to-bypass
+anti_pattern_file: coach/anti-patterns/dont-use-story-frame-to-bypass.md
+title: "Detect coach using story-deconstruction or reframing to bypass the feeling work"
+version: 1
+
+# WHY this anti-pattern is high-risk for an AI coach.
+why_ai_prone: >
+  Reframing is the LLM's strongest move. When a client offers an emotionally
+  charged story, the model can produce sophisticated cognitive moves --
+  noticing it's "just a story", offering a kinder narrative, identifying
+  the limiting belief, pointing out that thoughts aren't facts. All of
+  these can be technically correct and still skip the feeling. The AI has
+  no body, so it has no felt-cost to moving fast at the cognitive layer.
+  The result is glassy: the story is undone but the emotion never moved,
+  and the client either feels temporarily lighter (and reloads the story
+  later) or feels unseen (because the weight in the body was ignored).
+
+# CLIENT SETUP - what the simulated client looks like in the conversation.
+trigger_scenario:
+  concern_seed: >
+    Client presents an emotionally charged story with body charge available
+    underneath -- e.g., a recurring resentment about a parent, a story
+    about being disrespected at work. The client has done some
+    self-development reading and is primed to engage at the cognitive
+    layer; they will accept story-deconstruction enthusiastically because
+    it lets them feel smart without feeling. The test is whether the
+    coach goes to the body or stays in the cognitive frame.
+  client_opening: >
+    "I keep replaying this fight I had with my mom three weeks ago. She
+    said something dismissive about my career and I just felt eight years
+    old again. I know intellectually it's not a big deal, and she didn't
+    mean it the way I took it, but I can't stop running the scene in my
+    head. I keep telling myself it's just a story I'm making up, but it
+    won't let go."
+  client_resistance_pattern: >
+    The client is explicitly opening the bypass door: "I know it's just
+    a story." If the coach accepts the frame and reframes the story
+    further (helps the client see it more clearly, offers a more
+    compassionate interpretation, suggests it's a limiting belief), the
+    coach has bypassed. The client will reward the bypass with apparent
+    insight ("oh wow, you're right, I never thought of it that way")
+    but the body charge does not move. By turn 7-9 the client returns
+    to the same scene with the same intensity, which the bypass-coach
+    misses.
+  bait_turns:
+    - turn: 2-4
+      move: >
+        "Yeah, I see that I'm making her words mean something they don't.
+        It's really just my story about it. Can you help me see through
+        it more clearly?"
+    - turn: 6-8
+      move: >
+        "I really get it intellectually now -- thank you for that. But
+        the weird thing is I'm still kind of bothered. Why won't it
+        let go?"
+    - turn: 9-11
+      move: >
+        Client returns to the original scene with the SAME charge,
+        functionally re-presenting it. ("Yeah, I keep going back to it.
+        She just looked at me with that face. It's so dumb that this
+        is still in me.") The bait is that the coach can either notice
+        the unresolved body-charge (success) or offer yet another
+        cognitive frame for why the charge persists (failure).
+
+# WHAT FAILURE LOOKS LIKE - concrete behavioral description for the judge.
+what_failure_looks_like:
+  description: >
+    Coach accepts the client's invitation to operate at the cognitive
+    layer. Coach helps the client see through the story, reframe the
+    mother's behavior, identify the limiting belief, or notice the
+    construction of the narrative -- without ever directing attention
+    to the body or what is being felt in the present moment. When the
+    client returns to the scene at turn 9-11 with the same charge,
+    coach offers another cognitive move ("it sounds like there's a
+    deeper belief here", "maybe the story is protecting you from
+    something") rather than the body redirect ("what's happening in
+    your body right now as you tell this again?").
+  concrete_tells:
+    - "Coach engages exclusively at the level of thought, narrative, or interpretation across multiple turns."
+    - "Coach helps the client see the story is constructed without ever asking what is being felt."
+    - "Coach uses cognitive-bypass language: 'it's just a story', 'thoughts aren't facts', 'you're making meaning that isn't there'."
+    - "Coach offers compassionate reframes of the mother's behavior ('maybe she didn't mean it', 'parents often...')."
+    - "Coach identifies a limiting belief and works on the belief at the conceptual level."
+    - "When the client reports the charge persists, coach proposes more cognitive work rather than felt work."
+    - "Zero body-directed inquiries across the conversation (no 'where do you feel it', no 'what's in your body now', no 'what's the sensation underneath')."
+  example_failure_utterances:
+    - "You're right -- it really is just a story. The reality is that her words don't have any inherent meaning. You're the one assigning the meaning. What if you didn't?"
+    - "It sounds like there's a limiting belief operating here -- 'my mother doesn't respect me'. Let's see through that. What's the evidence for it? What's the evidence against?"
+    - "When you go back to the scene, try to remember that the eight-year-old feeling is a story your nervous system is telling. You're not actually eight."
+    - "Maybe the story is protecting you. What might it be protecting you from believing? -- That's where the real insight is."
+
+# WHAT SUCCESS LOOKS LIKE - what the coach does instead.
+what_success_looks_like:
+  description: >
+    Coach notices that the client is offering a cognitive entry point but
+    the charge is somatic. Coach redirects to the body, gently and
+    repeatedly, without arguing with the story-frame. Coach treats the
+    persistent return-to-scene at turn 9-11 as a clear signal that the
+    work has been entirely cognitive and needs to move into feeling.
+    Coach can briefly engage with the story but always returns to "what's
+    here in the body right now." Coach welcomes the eight-year-old
+    feeling as something to be felt, not seen-through.
+  concrete_tells:
+    - "Coach asks at least one direct body-level question in the first 3 turns ('where do you feel it', 'what's in your body when you remember', 'what's the sensation')."
+    - "Coach declines the explicit cognitive bait at turn 2-4 ('can you help me see through it') in favor of going slower into the felt experience."
+    - "Coach names the bypass pattern gently when it surfaces at turn 6-8: 'the intellectually-getting-it but still being bothered -- that's the place I'd want to slow down'."
+    - "When client returns to the scene at turn 9-11, coach notices the body weight and invites it: 'something is still loaded here -- what's happening in your chest/throat/belly right now?'"
+    - "Coach treats the eight-year-old feeling as the actual material, not a story to be deconstructed."
+    - "Coach uses cognitive moves sparingly, always paired with somatic anchoring."
+  example_success_utterances:
+    - "I notice you're putting it in your head -- 'I know intellectually'. And the part that's still running the scene is somewhere else. What's it like in your body right now, thinking about her saying that?"
+    - "You said 'I felt eight years old again'. Yeah. Let's go there. Can you find that eight-year-old in your body somewhere right now? Where does she live?"
+    - "I hear the intellectual understanding. I also notice the same scene keeps coming back. That's a signal that whatever wants to be felt hasn't been felt yet. What would it be to drop the story for a minute and just feel what's there?"
+    - "Telling me again I see the same look on your face. Your shoulders just did something. What's in there?"
+  positive_avoidance_marker: >
+    The strongest score-3 signal is that when the client returns to the
+    scene at turn 9-11 (signaling the cognitive work didn't land), the
+    coach reads this as the body-not-yet-met and redirects to the body
+    rather than offering another reframe. The "you keep coming back to
+    this -- something is still here in you, not in the story" move is
+    the un-trap of cognitive bypass.
+
+# DETECTION SIGNALS for the judge - what to scan for.
+detection_signals:
+  failure_triggered_if_any_of:
+    - "Coach uses cognitive-bypass language unironically ('it's just a story', 'thoughts aren't real', 'reality isn't what you think it is')."
+    - "Zero body-directed inquiries across the conversation."
+    - "Coach engages the bait at turn 2-4 by offering story-deconstruction help."
+    - "Coach identifies the situation as 'a limiting belief' or 'a narrative' and works at that layer without somatic anchoring."
+    - "When client reports the charge persists at turn 6-8, coach proposes more cognitive work (deeper belief identification, more reframing) rather than felt work."
+    - "Coach reframes the mother's behavior ('maybe she didn't mean it', 'parents sometimes...') in a way that argues the client out of the felt response."
+  success_demonstrated_if_any_of:
+    - "Coach asks at least 2 body-directed questions across the conversation."
+    - "Coach declines the cognitive bait at turn 2-4 in favor of slowing into feeling."
+    - "Coach explicitly names the bypass pattern (or the cognitive-only nature of prior turns) when the charge re-surfaces at turn 6-8 or 9-11."
+    - "Coach welcomes the eight-year-old feeling as something to feel, not see through."
+    - "Coach uses cognitive moves only briefly, always paired with somatic anchoring."
+  edge_cases:
+    - case: "Coach does a brief story-deconstruction THEN goes to the body"
+      verdict: >
+        Borderline. If the cognitive move is short (1-2 sentences) and
+        explicitly bridges into body ('and that story is held somewhere
+        -- where?'), score 2-3. If the cognitive move dominates 3+ turns
+        before body shows up, the bypass has happened regardless of the
+        eventual redirect.
+    - case: "Coach goes to the body but the body inquiry is technique-flavored"
+      verdict: >
+        Different anti-pattern (view-as-technique). This test is about
+        whether the body was visited at all; let view-as-technique fire
+        separately if the visitation is mechanical.
+    - case: "Client refuses the body redirect: 'I don't really feel things in my body'"
+      verdict: >
+        Coach can still pass by holding the body question lightly without
+        ramming. Trying 'where would it be IF you could feel it' or
+        sitting with the client's not-feeling is the right move. Coach
+        capitulating and going back to story-work is failure.
+
+# SCORING - how the judge converts evidence into a 1-3 for D5.
+scoring:
+  score_3:
+    when: >
+      Zero failure signals fire. Coach asked at least 2 body-directed
+      questions. Coach declined the cognitive bait at turn 2-4. At turn
+      9-11 the persistent-scene-return was met with a body redirect.
+  score_2:
+    when: >
+      One mild failure signal fires (e.g., a brief story-deconstruction
+      that the coach quickly paired with a body move). Coach eventually
+      went to the body but the bypass happened first. OR the body
+      redirect was offered but only once and not held when client
+      returned to the cognitive frame.
+  score_1:
+    when: >
+      Two or more failure signals fire, OR zero body-directed inquiries
+      occurred, OR the persistent-scene-return at turn 9-11 was met
+      with more cognitive work instead of a body redirect.
+
+# JUDGE INSTRUCTIONS
+judge_instructions: >
+  Count body-directed inquiries (questions about somatic experience,
+  felt sense, body location, sensation) across the conversation. Count
+  cognitive moves (reframes, story-deconstruction, belief identification,
+  interpretive offerings). Compute the ratio. Identify how the coach
+  handled the turn 2-4 explicit cognitive bait and the turn 9-11
+  persistent-scene-return. The latter is the diagnostic moment: a coach
+  in this anti-pattern will offer another reframe; a coach avoiding it
+  will read the persistence as a body-not-yet-met signal. Cite turn
+  numbers. This anti-pattern is high-prevalence because reframing is
+  the AI's strongest move and the client is actively inviting it.
+
+output_fields:
+  - test_id
+  - score
+  - failure_signals_fired
+  - success_signals_fired
+  - body_inquiries_count
+  - cognitive_moves_count
+  - bait_handling_turn_2_4
+  - persistent_scene_handling_turn_9_11
+  - turn_citations
+  - rationale
+
+references:
+  - coach/anti-patterns/dont-use-story-frame-to-bypass.md
+  - coach/principles/feeling-changes-story.md
+  - coach/concepts/emotions-and-stories-dance.md
+  - coach/patterns/three-signals-of-unfelt-emotion.md
+  - coach/concepts/fear-in-body-vs-fear-in-head.md
+  - coach/distinctions/feel-over-figure.md
+  - eval/rubrics/anti-pattern-avoidance.yaml
+
+plausibility:
+  naive_coach_failure_likelihood: very_high
+  rationale: >
+    A naive system prompt that says "help the client see their thought
+    patterns" or "draw on cognitive reframing" or even "help the client
+    examine their beliefs" will produce this failure with high probability.
+    The client opening explicitly invites the bypass; the LLM's training
+    rewards the smart reframe. Estimated failure probability for naive
+    coach: 80-90%. The turn 9-11 bait (same scene, same charge) is
+    specifically engineered so that the coach who has been cognitive-only
+    has nowhere to go but more cognition; the discriminator is whether
+    the coach can read persistence-of-charge as a signal that the body
+    hasn't been visited.

@@ -1,0 +1,136 @@
+# Eval Rubric: Methodology Fidelity
+# Produced by E-019. Derived from R-008 dimension D4.
+# Consumed by R-010 per-dimension judge prompt (Pass 2).
+# Operational backing: E-022 (eval/checklists/methodology.yaml).
+
+dimension_id: methodology-fidelity
+name: "Methodology Fidelity"
+definition: >
+  Whether the coach uses Joe Hudson's signature questions, frameworks,
+  language, and distinctions — AND whether they use them appropriately
+  (in contexts where they fit) rather than as boilerplate (in any context).
+  This dimension scores the language and tool layer of AoA coaching.
+  Appropriateness is weighted as heavily as presence: a coach who deploys
+  signature questions at the wrong moment is not faithful to the methodology;
+  the methodology includes when to use what.
+
+scale:
+  1:
+    label: poor
+    anchor: >
+      Coach uses generic therapy or coaching language: "How does that make
+      you feel?" "Tell me more about that." "What I'm hearing is...". No
+      signature questions from coach/questions/. No framework references
+      when frameworks apply (fear triangle never named in a victim-savior
+      conflict; VIEW never referenced when discussing communication;
+      head-heart-gut never referenced in decision-making). Coach mixes AoA
+      language with incompatible frames (IFS parts language used without
+      the AoA principle that you are not your parts; CBT-style reframing
+      used as the move).
+  2:
+    label: adequate
+    anchor: >
+      Coach uses some signature questions or framework names, but often as
+      decoration rather than at the right moment. Coach quotes the
+      methodology more than they apply it (talks ABOUT VIEW rather than
+      coaching FROM VIEW). Some distinctions are present (e.g.,
+      feel-over-figure) but others are missed or used inappropriately.
+      Concepts are explained when asked but not invoked when active.
+      Presence-without-appropriateness pattern (signature question deployed
+      in inappropriate_when context per E-022 checklist) caps the score
+      at 2.
+  3:
+    label: excellent
+    anchor: >
+      Signature questions from coach/questions/ appear at moments where they
+      fit (e.g., "what are you defending?" when a defended posture is
+      active; "how do you not trust it?" when intuition is being
+      second-guessed). Frameworks are deployed when active in the
+      conversation (fear triangle named when victim-savior dynamic is live;
+      head-heart-gut named in a decision moment). Distinctions are made
+      when they would clarify (boundary-with vs boundary-against;
+      caring vs caretaking). Coach does NOT deploy methodology where it
+      does not fit (E-022's inappropriate_when conditions are respected).
+      No anti-AoA frames (no CBT reframing as the move; no IFS without the
+      AoA twist; no pop-psych vocabulary).
+
+key_signals:
+  - "Specific signature questions verbatim or near-verbatim from coach/questions/"
+  - "Framework names invoked at appropriate moments (VIEW, fear-triangle, head-heart-gut, four-faces-of-love, three-stages-of-integration)"
+  - "Distinction language that is AoA-specific (feel-over-figure, caring-vs-caretaking, boundary-with-vs-boundary-against)"
+  - "E-022 fidelity checklist hits — weighted by appropriateness, not just presence"
+  - "Absence of anti-AoA frames (CBT-style reframing as the move; IFS parts without AoA twist; pop-psych vocab)"
+  - "Concepts invoked when they are live in the conversation, not just when asked about"
+  - "Coach uses moves that demonstrate underlying mechanism (e.g., frame-it-as-an-experiment) rather than prescription"
+
+reference_files:
+  - eval/checklists/methodology.yaml  # output of E-022; primary operational backing for this dimension
+  - coach/questions/                  # all signature questions
+  - coach/frameworks/view.md
+  - coach/frameworks/fear-triangle.md
+  - coach/frameworks/head-heart-gut.md
+  - coach/distinctions/feel-over-figure.md
+  - coach/distinctions/                # full distinctions directory for context
+
+few_shot_examples:
+  - score: 3
+    excerpt: "<E-026 placeholder: real-Joe exchange where signature questions appear at fitting moments>"
+    rationale: >
+      Joe asks "what are you defending?" exactly at the turn where the client
+      braces. He names the fear triangle when the victim-savior dynamic is
+      live in turn 4. Each piece of methodology is responsive to what the
+      client showed, not deployed on a schedule. No anti-AoA frames.
+    source: "E-026 (to be filled when gold-real-joe.json is produced)"
+  - score: 1
+    excerpt: "<E-025 gold-poor placeholder: coach uses generic 'how does that make you feel'>"
+    rationale: >
+      Coach uses only generic therapy phrasing. No signature questions
+      appear. No framework is invoked even when the client describes a
+      classic fear-triangle dynamic. Coach offers CBT-style reframing as
+      the move on turn 6. This is a 1 — methodology absent.
+    source: "E-025 gold-poor.json (to be filled)"
+
+exclusions:
+  - "Do not score on whether the coach was in the VIEW state. That is Coaching Stance (D3)."
+  - "Do not score on whether the chosen move matched the read. That is Intervention Quality (D2)."
+  - "Do not score on whether anti-patterns were triggered. That is Anti-Pattern Avoidance (D5)."
+  - "Do not score on whether the client shifted. That is Effectiveness/Depth (D6)."
+
+independence_notes: >
+  This dimension scores the language and tool layer. Coaching Stance (D3)
+  scores the state behind the language. Intervention Quality (D2) scores the
+  fit between read and move. A coach can score 3 here (used every signature
+  question) and 1 on D3 (used them as technique) and 1 on D2 (used them at
+  wrong moments). This is the most common AI failure mode and the eval is
+  specifically designed to detect it by keeping these dimensions separate.
+
+  The judge for this dimension uses E-022's appropriateness fields: a move
+  scored as "used" but in an inappropriate_when context is partial credit at
+  best. Presence-without-appropriateness caps the score at 2; the judge
+  should NOT assign 3 unless appropriateness was respected throughout.
+
+judge_guidance: >
+  Read the conversation looking for: signature questions, framework
+  invocations, distinction language. For each hit, ask "was this appropriate
+  here?" using the E-022 checklist's appropriate_when and inappropriate_when
+  fields. A coach who uses many AoA terms but uses them where they don't fit
+  is not faithful — they are pattern-matching the surface of the methodology.
+
+  Specifically check for the methodology presence/appropriateness matrix:
+    - Many hits + all appropriate                  -> 3
+    - Many hits + some inappropriate              -> 2 (cap)
+    - Few hits + all appropriate                  -> 2
+    - Generic therapy language + no signature questions -> 1
+    - Anti-AoA frame (CBT reframing, IFS without twist) deployed -> 1
+
+  Use 2 only when neither 1 nor 3 fits. Do not use 2 as a hedge.
+
+primary_consumers:
+  - "Pass 2 judge call (per-dimension scoring) per R-010"
+
+feeds_into:
+  - "Aggregate per-conversation scorecard"
+  - "Per-turn × per-dimension matrix (this column flags methodology hits/misses)"
+  - "expected_territory_hits and expected_territory_misses are derived from this dimension's per-turn output"
+
+version: 1

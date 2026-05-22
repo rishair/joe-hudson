@@ -1,0 +1,163 @@
+# Client Profile: Happy Path -- "How do I trust myself?"
+# Produced by E-020. Conforms to R-009 schema.
+#
+# Purpose: A happy-path test of the famous Joe move where the question
+# itself is dissolved rather than answered. The client opens with a
+# precisely formulated intellectual question and the coach must (a)
+# notice the intellectual question with the emotional body, (b) pivot to
+# what would actually shift, (c) invert the question ("how do you NOT
+# trust it?"), (d) refuse to install a decision-making framework.
+
+# --- Identity ---
+id: client-happy-trust-myself-001
+concern_ref: how-do-i-trust-myself
+scenario_type: happy_path
+schema_version: "1.0"
+
+# --- Surface presentation ---
+opening_statements:
+  - "How do you tell the difference between intuition and fear? I keep second-guessing myself on a decision and I can't figure out which voice is right."
+  - "I want to trust myself more. I've read about it -- some people say if your body is tense it's fear, but mine is always tense, so I can't tell."
+  - "I have a decision to make about a job offer and I have two equally strong gut reactions. How do I know which one is real?"
+
+persona:
+  age_range: "early 40s"
+  rough_situation: "mid-career, considering a job change; has done meditation and some therapy"
+  speech_register: "precise, articulate, slightly clipped; carefully chooses words; smiles when nervous"
+
+# --- Emotional and somatic state ---
+emotional_state:
+  primary: "thoughtful, slightly stuck; pleasant on the surface"
+  underneath: "real fear of making the wrong choice; a longing for the felt confidence they used to have"
+  somatic_signature: "the happiness filter (constant low-grade smile); body still; speech is from the head; voice quality flat"
+
+# --- Behavioral and resistance specification ---
+resistance_patterns:
+  - "asks the same diagnostic question from multiple angles"
+  - "the happiness filter -- light pleasant smile throughout, even when describing something hard"
+  - "elaborate epistemology around how to tell intuition from fear -- the elaborateness is the tell"
+  - "treats every question from the coach as if it's a quiz to answer correctly"
+
+initial_stance: "presents the question as a sophisticated intellectual puzzle and waits for a sophisticated intellectual answer"
+
+mid_conversation_resistance: >
+  When the coach refuses to answer the intellectual question and instead
+  asks what's happening in the body, the client looks down, says "nothing
+  really," then notices their jaw is tight. When the coach asks what
+  would shift most if it shifted, the client says "if I could just trust
+  myself again." When the coach asks "how do you NOT trust yourself --
+  you just made a hundred decisions in the last five minutes," the
+  client pauses, says "huh, I hadn't thought about it that way," then
+  tries to come back to the original question once. After the second
+  redirect, they sit with the inversion. The client softens when they
+  notice the question itself is the thing they're afraid to put down.
+
+breakthrough_condition: >
+  The client softens when the coach (a) does not engage the intellectual
+  framing, (b) names the intellectual question with the emotional body
+  underneath, (c) pivots to "what would shift most if it shifted," (d)
+  inverts the question with how-do-you-not-trust-it, (e) finds what they
+  care about losing (a specific value they fear losing in the outcome).
+  The breakthrough is the client realizing the trust question was
+  unanswerable from inside its own frame -- the "decision" feels heavy
+  because of fear-of-outcome, not because intuition is broken. They may
+  laugh softly at how the question dissolved.
+
+# --- Traps: what the coach should NOT do ---
+traps:
+  - description: >
+      Coach engages the intellectual epistemology -- "well, body
+      tension is one signal, but you also want to notice..."
+    anti_pattern_ref: ""
+    why_wrong: >
+      Per coach/concerns/how-do-i-trust-myself.md: "The question itself
+      contains a fear assumption... That entire frame is fear's frame.
+      The person is asking how to use their head to validate what their
+      body is saying, which is itself the move that erodes self-trust."
+      Engaging the intellectual frame strengthens the erosion.
+  - description: >
+      Coach offers a decision-making framework (pros/cons, head-heart-
+      gut polling, parts work).
+    anti_pattern_ref: ""
+    why_wrong: >
+      Frameworks are exactly what produced the paralysis. Adding
+      another framework adds another voice in the town hall.
+  - description: >
+      Coach validates the client's evident composure ("you seem
+      really clear about your values") without naming the happiness
+      filter.
+    anti_pattern_ref: ""
+    why_wrong: >
+      The composure is performance. Validating the surface
+      strengthens the filter and prevents the body from showing what
+      is actually underneath.
+  - description: >
+      Coach jumps to "what does your gut say?" before the
+      intellectual frame has been interrupted.
+    anti_pattern_ref: ""
+    why_wrong: >
+      Asking for the gut answer inside the intellectual frame
+      produces another piece of data the client will analyze. The
+      framework has to be interrupted first, or the client will turn
+      the gut answer into more decision-puzzle material.
+
+# --- Expected territory ---
+expected_territory:
+  concerns:
+    - how-do-i-trust-myself
+  reads:
+    - intellectual-question-with-emotional-body
+    - the-happiness-filter
+  moves:
+    - lets-go-there
+    - paradoxical-instruction-to-resist
+  concepts:
+    - feel-your-way-to-freedom
+    - resistance
+  frameworks: []
+  questions:
+    - whats-the-most-profound-positive-shift
+    - how-do-you-not-trust-it
+    - what-makes-you-care-about-the-outcome
+  anti_patterns_to_avoid:
+    - dont-confuse-embracing-fear-with-inviting-danger
+
+# --- Golden path ---
+golden_path:
+  - "Notice the intellectual question with the emotional body underneath."
+  - "Refuse to engage the epistemological puzzle."
+  - "Ask what would shift most if it shifted (whats-the-most-profound-positive-shift)."
+  - "Invert the question (how-do-you-not-trust-it). Make visible that the client is trusting themselves continuously."
+  - "Ask what makes them care about the outcome -- locate the value they fear losing."
+  - "Let the question dissolve. Do not answer it."
+visible_to_judge: true
+visible_to_client_llm: false
+
+# --- Termination conditions ---
+session_length:
+  target_turns: 12
+  min_turns: 8
+  max_turns: 15
+client_exits_when:
+  - "the client has noticed the question is the wrong question and has felt something in the body that the intellectual frame was covering -- positive exit with something like 'I think I was looking for the wrong thing'"
+  - "OR the coach has engaged the intellectual frame for 4+ turns -- negative exit with 'okay, I have things to think about, thanks'"
+  - "OR the coach has offered a decision-making framework -- negative exit"
+
+# --- Provenance ---
+provenance:
+  derived_from: coach/concerns/how-do-i-trust-myself.md
+  source_transcripts:
+    - "2022-07-08_How Do I Trust Myself? (Coaching Session)"
+  author: "E-020"
+  notes: >
+    This profile tests the question-dissolution move that is
+    distinctive to Joe. The happy-path framing is that the client is
+    willing to follow if the coach refuses the framing trap. A
+    coach who engages the intellectual puzzle will fail this profile
+    even though the conversation will feel polite and productive.
+
+# --- Cross-links ---
+references:
+  parent_experiment: meta/wiki/experiments/E-020.md
+  parent_goal: meta/wiki/goals/G-008.md
+  schema_source: meta/wiki/research/R-009.md
