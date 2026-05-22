@@ -5082,15 +5082,87 @@
     },
     {
       "folder": "2024-05-17_The Plight Of Perfection \u2013\u00a0Joe Hudson with Stephanie Harrison",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T17:01:05Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "what-was-x-going-to-get-you",
+        "anger-is-love"
+      ],
+      "articles_updated": [
+        "anger",
+        "self-improvement-is-shame-inducing",
+        "conversation-as-microcosm-of-relationship",
+        "religious-identity-around-pain",
+        "carl-rogers-three-day-listening-experiment",
+        "giving-from-desire-not-obligation",
+        "self-reliance-pushes-people-away",
+        "joy-as-matriarch",
+        "experimenting-with-the-voice",
+        "full-understanding-of-a-behavior-dissolves-it",
+        "improvement-vs-authenticity",
+        "how-do-i-be-happy"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T17:17:53Z"
     },
     {
       "folder": "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T17:07:24Z",
+      "articles_created": [
+        "free-write-the-anger",
+        "initial-anger-release-wave"
+      ],
+      "articles_updated": [
+        "anger",
+        "get-angry-in-the-car",
+        "three-forms-of-anger-repression",
+        "joes-pancake-anger-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T17:13:06Z"
+    },
+    {
+      "folder": "2024-05-24_Q&A #3 \u2014 Common Questions, Uncommon Answers",
+      "status": "complete",
+      "claimed_at": "2026-05-22T17:13:41Z",
+      "articles_created": [
+        "narcissism-as-incapacity-to-feel",
+        "contain-the-narcissist",
+        "stress-from-not-doing-the-thing",
+        "raw-ambition-vs-stories-on-ambition",
+        "how-do-i-deal-with-narcissistic-parent"
+      ],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T17:34:36Z"
+    },
+    {
+      "folder": "2024-05-24_Q&A #3\u2014Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional ",
+      "status": "complete",
+      "claimed_at": "2026-05-22T17:18:50Z",
+      "articles_created": [
+        "every-thought-about-not-feeling-is-an-emotion-to-feel",
+        "emotion-at-someone-means-self-manipulation",
+        "fully-feeling-restructures-the-self",
+        "identity-reproduces-childhood-stress-levels",
+        "redirect-from-doing-it-right-to-enjoying-it"
+      ],
+      "articles_updated": [
+        "emotional-fluidity",
+        "treat-yourself-as-actor-of-emotion",
+        "fake-the-anger-to-let-it-move",
+        "three-stages-of-emotional-inquiry-maturity",
+        "dont-do-emotion-at-people",
+        "how-would-you-enjoy-x"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T17:34:51Z"
+    },
+    {
+      "folder": "2024-05-27_How Do I Not Burn Out Again\uff1f",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T17:36:13Z",
       "articles_created": [],
       "articles_updated": []
     }

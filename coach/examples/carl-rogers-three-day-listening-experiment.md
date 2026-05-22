@@ -5,7 +5,7 @@ title: "Carl Rogers' Three-Day Unconditional Listening Experiment (500 People, 2
 aliases: ["Carl Rogers three day listening experiment", "Carl Rogers 500 people story", "the Carl Rogers experiment", "the 26 facilitators story", "the 3 days of unconditional love story", "Carl Rogers retreat story", "Carl Rogers transformational weekend", "the do-nothing retreat story", "the facilitators who only listened story", "the I really hear you story", "the unconditional love retreat", "the OVP retreat", "Carl Rogers organismic valuing process retreat", "the 500 people 26 facilitators 3 days story", "the retreat with no agenda", "the all-listening retreat", "Carl Rogers psychology experiment", "the 1440 facilitator story", "Joe heard this story from someone who worked with Rogers"]
 tags: ["listening", "unconditional love", "facilitation", "retreats", "example", "presence", "Carl Rogers", "humanistic psychology"]
 related: ["listening", "empathy", "view", "vulnerability", "container-of-love", "presence-over-technique-in-coaching", "the-clients-wisdom-not-the-teachers", "send-the-message-that-youre-whole", "improvement-vs-authenticity", "nature-improves-itself", "welcome-the-dumpster-fire-in-facilitation"]
-sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Carl Rogers' Three-Day Unconditional Listening Experiment
@@ -87,3 +87,4 @@ Joe tells the story with delight. The image of 500 people in a room and 26 facil
 ## Sources
 
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe sharing the story he heard from a man he facilitated something with at 1440 who had worked with Carl Rogers; using it to illustrate his own facilitation principle of listening and unconditional love as sufficient for transformation; the boils-coming-to-surface-and-healing-under-light metaphor follows directly; Stephanie connecting it later to Carl Rogers' Organismic Valuing Process)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same Carl Rogers story)

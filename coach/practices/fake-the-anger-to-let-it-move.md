@@ -5,7 +5,7 @@ title: "Fake the Anger to Let It Move"
 aliases: ["fake it to make it for anger", "perform the anger before you feel it", "acting your way into anger", "the body needs the shape first", "rehearse the angry motion", "perform anger as practice", "play the angry five year old"]
 tags: ["practice", "anger", "fake it", "release", "embodiment", "performance"]
 related: ["anger", "joes-crying-story", "daily-emotional-yoga", "treat-yourself-as-actor-of-emotion", "three-childhood-origins-of-anger-repression", "observer-vs-immersion-by-anger-type", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional"]
 ---
 
 # Fake the Anger to Let It Move
@@ -41,6 +41,40 @@ This is exactly the mechanism in [[joes-crying-story]]. Joe had not cried for 14
 The body's machinery for emotion is separate from the body's representation of itself. The performance is not lying. It is operating the machinery. Calling it "fake" describes its phenomenological status (it does not feel real at first), not its moral status.
 
 When the body has done the motion enough times, the felt state arrives, and at that point the performance becomes the real expression. The transition is usually imperceptible. The person realizes mid-motion that they are no longer performing.
+
+## The Sincerity Distinction (And Why Most Faking Fails)
+
+A precise refinement: there is a difference between faking-with-sincerity and faking-as-a-trick-on-yourself, and only the first one works.
+
+The trick-on-yourself form: the person knows they are faking, is doing the motions to try to get themselves to feel something, and is therefore self-conscious throughout. The body senses the inauthenticity. The performance does not engage the system. Nothing moves.
+
+The sincerity form: the person treats the performance as a genuine invitation to whatever feeling wants to come. The motions are scaffolding, not a deception. The body senses the openness. The performance engages the system. The actual feeling arrives.
+
+Brett's framing: "There's a fine line between just full-on faking it where on some level you know you're faking it and like you're trying to get yourself somewhere, and so the resistance happens and then you get nowhere. But there's something — there's a subtle fine line where if you're faking it with sincerity, there's an invitation. Like, hey, I'm — if there's hay in their muscles, if there's a tension that's kind of like this one that wants to be felt, let's try feeling [it]. You're welcome to feel it. If there's tears that want to come, like, I'm going to get the process started, and if I'm striking a chord, the body can follow it. And you kind of hit a resonance and it starts to move." -- Brett Kistler, Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional
+
+Joe's response: "Yeah."
+
+The bridge between the sincerity form of faking and the [[treat-yourself-as-actor-of-emotion]] move: the most convincing performance of an emotion is necessarily sincere. The actor whose job is to give the most convincing performance of sadness cannot half-ass it. The performance demands the body. The body's commitment is the sincerity. The sincerity is what lets the real feeling find the prepared path.
+
+## What to Watch For in the Sincerity Form
+
+The signs the faking is engaging sincerity, not just going through the motions:
+
+- The body changes posture during the performance (not just the face).
+- The breath shifts (deeper, more involved, sometimes catches).
+- Small involuntary signals appear (a real tear during fake crying, an actual jaw clench during fake anger).
+- The person reports that the performance "started to feel like something" partway through.
+- The motion gets easier as it continues, rather than feeling more forced.
+
+The signs it is the trick-on-yourself form that is not working:
+
+- The performance stays in the head (the person is narrating it to themselves while doing it).
+- The body remains rigid or unchanged.
+- Self-consciousness increases rather than relaxing.
+- The person reports it "feels stupid" and stops.
+- The motion gets harder, not easier.
+
+If the second pattern is operating, the move is not to push harder. The move is to slow down and invite the feeling without the performance: "what if you just sat for a minute and noticed what is there in the body?" The performance may not be the right entry for this person in this moment.
 
 ## Who Needs This
 
@@ -117,3 +151,4 @@ Light. The practice is permissioned playfulness. The instruction "just fake it" 
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
+- 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (Brett's articulation of the sincerity distinction — that faking-with-sincerity creates an invitation the body can follow, while faking-as-a-trick-on-yourself produces resistance and nowhere-ness; Joe's confirmation of the distinction and the bridge from this practice to the "most convincing performance" framing of the actor stance)

@@ -5,7 +5,7 @@ title: "Self-Reliance Pushes People Away (And Reads as Abandonment to Those Arou
 aliases: ["self-reliance pushes people away", "your self-reliance feels like abandonment to others", "the self-reliant person is hard to help", "hyper-independence pushes love away", "what self-reliance does to other people", "your dad wasn't abandoning he was self-reliant", "the abandonment-self-reliance duality", "self-reliance as push-away", "your self-reliance reads as not-needing", "I've got it I've got it I've got it pushes love away"]
 tags: ["self-reliance", "independence", "abandonment", "relationships", "intimacy", "push-pull"]
 related: ["i-have-to-do-it-all-myself", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "i-cant-find-love", "joes-abandonment-mapping", "apologize-for-not-seeing-the-help", "vulnerability-in-the-workplace", "anxious-avoidant-dynamic"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Self-Reliance Pushes People Away
@@ -152,3 +152,4 @@ The teaching has weight because Joe is talking about a pattern he runs himself (
 
 - 2023-11-10_Finding a Romantic Partner
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe naming the "be a big girl" parenting move as a recognizable upstream of self-reliance; the tragic inversion that the intention to teach resilience installs the perpetual abandonment it was trying to prevent; Stephanie naming the compounded shame layer — the emotions themselves become evidence of deficiency on top of the requirement to handle them alone)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same be-a-big-girl teaching and tragic-inversion framing)

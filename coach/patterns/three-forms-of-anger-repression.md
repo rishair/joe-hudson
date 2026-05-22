@@ -5,7 +5,7 @@ title: "Three Forms of Anger Repression"
 aliases: ["three forms of repressed anger", "three ways anger gets kinked", "inward sideways outward", "anger inward outward sideways", "three kinks of anger", "self-abuse passive-aggression rage", "three ways anger leaks", "anger inwards anger sideways anger outwards"]
 tags: ["anger", "repression", "kinked-emotions", "diagnostics", "patterns"]
 related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "passive-aggressive-vs-aggressive-aggressive", "three-things-that-go-wrong-when-releasing-anger", "three-childhood-origins-of-anger-repression"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
 ---
 
 # Three Forms of Anger Repression
@@ -17,6 +17,20 @@ Anger that cannot move cleanly comes out in one of three directions. All three a
 "There's kind of 3 ways that it goes, right? There's the anger inwards. So that's like the self-abusive talk. There's the anger sideways, right? Which is kind of passive aggression. It's like, I'm angry, but I'm not allowed to be angry. So I do a whole bunch of things. And then the other kind of repressed anger is getting angry at somebody." -- Joe Hudson, The Wisdom of Anger Part II
 
 This is the operational taxonomy of [[kinked-emotions]] applied specifically to anger. The garden hose is kinked in one of three predictable ways.
+
+## The Public-Facing Symptom List
+
+The most compressed way Joe introduces these forms in public-facing contexts is as a symptom list:
+
+"Feeling stuck, depression, self-criticism, and raging at people -- they're all forms of repressed anger." -- Joe Hudson, How Anger Works
+
+The mapping is direct:
+- **Feeling stuck** -- the inward and sideways forms produce the felt state of being trapped (anger has no outlet, energy has no movement; see [[i-feel-stuck]]).
+- **Depression** -- the inward form, sustained over time (see [[im-depressed]]).
+- **Self-criticism** -- the inward form, in its conversational mode (see [[my-inner-critic-wont-stop]]).
+- **Raging at people** -- the outward form (Form 3).
+
+The shortcut lets a coach reach for anger work even when the presenting concern is not labeled as anger. The diagnostic question "where has anger been going in your life?" can open the door from any of these entries.
 
 ## The Three Forms
 

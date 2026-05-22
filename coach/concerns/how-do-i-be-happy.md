@@ -65,6 +65,10 @@ Two people can ask "how do I be happy" and the path Joe takes diverges based on 
 4. Move toward the underlying methodology piece for the active mechanism. Victim stance opens onto [[victim-stance-invites-abuse]] and [[empowered-vs-power]]. Repression opens onto [[joy-as-matriarch]] and [[try-to-feel-scared-then-stop-experiment]]. Ungratefulness opens onto [[see-whats-right-to-build-on-it]]. Isolation opens onto [[connection-as-life-bottom-line]]. Superiority opens onto [[comparative-mind]] and [[open-your-heart-while-judging-experiment]].
 5. Offer the homework: take 4 hours and try to feel no emotion. See [[four-hour-emotional-repression-experiment]]. The homework is the smallest version of the work that produces direct first-person data.
 
+## When the Pursuit-of-Happiness Is the Whole Misframe
+
+A faster variant of the work when the person is locked into pursuing happiness through an elaborate strategy (perfection, achievement, productivity, the right partner, the right body): ask [[what-was-x-going-to-get-you]] about the pursuit itself. "What was perfection going to get you?" / "Happiness." The two-turn exchange exposes that the whole strategy was for a felt-state the strategy cannot produce. The structural alternative ([[self-improvement-is-shame-inducing]], [[nature-improves-itself]]) becomes available once the misframe is named.
+
 ## When This Concern Is Actually Something Else
 
 - "I want to be happy" is sometimes a presenting frame that quickly opens onto [[ive-lost-my-joy]] (the person has actually lost the joy, not just failed to acquire it).

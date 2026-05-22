@@ -55,7 +55,7 @@ The willingness to keep driving rather than walk in carrying it is itself a piec
 The principle is private discharge of anger through the body, not at anyone. Specific variations Joe mentions:
 - **The car on the commute.** Yelling, banging on the steering wheel, swearing freely.
 - **Yelling at the ocean.** One of Joe's executive clients went to the beach in San Francisco. The ocean does not hear or judge.
-- **Writing something angry and burning it.** The body moves through the writing; the burning marks the completion.
+- **Writing something angry and burning it.** The body moves through the writing; the burning marks the completion. The free-writing version of this practice -- non-stop, non-edited, until breakthrough -- is documented in full as [[free-write-the-anger]].
 - **Going to the beach or the woods and yelling.**
 - **Quieter ranting where someone might be nearby.** "You can just be like, goddamn motherfucker, I fucking hate when that happens. Why the fuck is that always happening? Like it can literally just be like a rant that anybody could not hear from a different room. It's not gonna release the musculature, the trauma musculature the same way, but it still is a great process of moving the anger." (Joe Hudson, The Wisdom of Anger Part II)
 - **Yelling in a pillow.** When a container has thin walls and full voice is not possible.
@@ -136,6 +136,8 @@ Joe presents this almost casually. Get in your car. Yell. That is it. The tone s
 - Toward [[daily-emotional-yoga]]: the larger sustained practice for all emotions.
 - Toward [[joes-angry-executive-commute]]: the example of what this produces over 2-3 weeks.
 - Toward [[withdrawal-with-vs-without-a-timeline]]: how to leave the house to do this without it landing as abandonment.
+- Toward [[free-write-the-anger]]: the written-form sibling practice for when yelling is not available.
+- Toward [[initial-anger-release-wave]]: what to expect in the first 2-4 weeks of consistent practice when the held charge starts discharging.
 
 ## Sources
 

@@ -5,7 +5,7 @@ title: "Religious Identity Around Pain (Defending the Pain You Identify With)"
 aliases: ["religious identity around pain", "defending the pain you identify with", "people get religious about their pain", "addiction as identity defense", "the bad habit as identity", "I am my addiction defense", "people get religious about their addictions", "the identity wrapped around suffering", "the pain-defense reaction", "defending the right to suffer", "people fight for their pain", "the suffer-as-identity pattern", "the bad-habit-is-who-I-am pattern", "the addict identity defense", "the pain-as-identity protection", "religious about the pain identity"]
 tags: ["identity", "pain", "addiction", "defense", "shame", "bad habits", "pattern"]
 related: ["identity", "every-identity-has-limits", "dont-fight-identity", "addiction-to-shame", "shame-drives-behavior", "full-understanding-of-a-behavior-dissolves-it", "feel-your-way-to-freedom", "joes-pot-habit", "what-are-you-defending", "defensiveness-as-identity-signal", "the-pulled-back-from-part-is-the-unloveable-part"]
-sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Religious Identity Around Pain
@@ -127,3 +127,4 @@ The pattern requires being held without judgment. The person defending the pain 
 ## Sources
 
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe describing the "religious" backlash to his "feel it to drop the hot frying pan" Twitter post: people defending their identity as an addict or as a person with a bad habit; the parallel to political and dietary tribalism; the recognition that this was unexpectedly fierce and required blocking some commenters; the framing that this is identity-protection rather than disagreement with the teaching)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same description of the religious backlash to the Twitter post)

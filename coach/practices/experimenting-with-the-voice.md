@@ -5,7 +5,7 @@ title: "Experimenting with the Voice"
 aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention", "Fritz Perls overdog underdog", "overdog underdog voice", "change the response to the voice", "respond differently to the voice", "the underdog response", "who is talking to who voice"]
 tags: ["voice in head", "practice", "experimentation", "play", "relationship", "depression"]
 related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels", "im-depressed", "rebellion-or-submission-to-should"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Experimenting with the Voice
@@ -137,3 +137,4 @@ This is not about pretending the voice is funny. It is about refusing to treat i
 - 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
 - 2023-06-23_Exploring Depression in the Head, Heart, and Gut
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (compressed catalog of "thousands of responses" delivered as a tight teaching: agree, ask the voice to manage better, love it and acknowledge its fear; the practical observation that shifting the response is often easier than shifting the content because the content is automatic; paired with Stephanie's affirming reframe — "instead of the default response of cowering or shaming yourself, you can change it; you're empowered to shift your response in that way")
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same catalog of voice-in-head responses)

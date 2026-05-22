@@ -5,7 +5,7 @@ title: "Don't Do Emotion At People"
 aliases: ["don't do anger at people", "don't do sadness at people", "emotion at someone is emotional abuse", "release first then talk", "don't aim emotion", "emotion as manipulation"]
 tags: ["emotions", "anger", "sadness", "boundary", "abuse", "expression"]
 related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control", "anger", "get-angry-in-the-car", "withdrawal-with-vs-without-a-timeline"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Feel Over Figure", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Feel Over Figure", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional"]
 ---
 
 # Don't Do Emotion At People
@@ -93,6 +93,22 @@ The pillow, the car, the woods, the trusted-and-consenting friend, God, the imag
 
 The "doesn't buy the story" qualifier matters. A friend who agrees with the angry narrative and stokes it is not helping the anger move; they are gluing the story to the anger. The receiving friend's job is to allow the anger without confirming or denying the story it is attached to.
 
+## The Manipulation Is Also Self-Manipulation
+
+A specific structural insight that arrived in conversation with Brett: the manipulation of the other person with an emotion is *also* a self-manipulation. The person aiming the emotion at someone else is not actually feeling the emotion. They are using its form to do work on someone else, which is the same gesture as not letting it move through themselves.
+
+The diagnostic consequence: the emotion keeps coming back. The person who is "always sad" and using sadness to guilt-trip others is not actually feeling sadness on the way through. So the sadness stays. The person who is "always anxious" and recruiting everyone into their anxiety is not feeling the anxiety. So the anxiety stays.
+
+"That's a beautiful point. Someone's guilting you with sadness — they're not actually feeling their sadness. So they want you to feel it for them. They want you to feel the fear for them. But it also means that they're not fully feeling it, because if they were fully feeling it, they wouldn't be trying to get it out of their system onto you." -- Joe Hudson, Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional
+
+Brett's original framing: "If you are using them to manipulate, you are essentially self-manipulating your experience of the emotion, which is one reason why it might just continue showing up in your life. In the same way, without really moving and transforming."
+
+This adds a self-interested motivation to the principle that lands differently for some coachees. The standard frame is moral ("you are hurting your partner"). This frame is self-directed ("you are stuck in this cycle because the emotion you keep deploying is the one you keep not feeling"). The recurrence is the evidence. For the version dedicated to this dimension, see [[emotion-at-someone-means-self-manipulation]].
+
+The cross-emotion test extends naturally. Joe is explicit that this principle applies even to love: "If it's love at somebody, it's not love. There's that. But there's this thing that looks like love at somebody that is definitely like, I'm going to love you up so that you love me back... it isn't love." -- Joe Hudson, Q&A #3
+
+The same recurrence diagnostic applies to love-bombing as to anger-controlling: the connection the love-as-strategy is trying to produce keeps failing to land, because the actual experience of loving has not been happening.
+
 ## Connection to Vulnerability as Control
 
 This principle is one specific application of [[vulnerability-as-control]]. Sadness aimed at someone to control them is weaponized vulnerability. Anger aimed at someone to control them is the same mechanism in a different costume.
@@ -134,3 +150,4 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Followup Questions
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More (same episode as 2023-01-06; one was the original posting, the other a rebroadcast or reposting)
+- 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (Brett's articulation of manipulation-as-self-manipulation; Joe's "that's a beautiful point" confirmation; the recurrence diagnostic; the explicit cross-emotion extension that includes love-bombing as the love-version of the same mechanism)

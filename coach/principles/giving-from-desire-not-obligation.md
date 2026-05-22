@@ -5,7 +5,7 @@ title: "Real Giving Requires Desire (Giving From Obligation or Guilt Disempowers
 aliases: ["giving from desire not obligation", "giving requires desire", "real giving requires desire", "obligation-giving doesn't work", "guilt-driven giving fails", "service is not self-sacrifice", "self-expansion not self-sacrifice", "service is self-expansion", "giving creates the desire to give", "give-because-you-want-to principle", "giving from guilt creates fear", "obligation giving creates disempowerment", "the kind of giving that produces happiness", "giving must be self-determined", "real service is wanted not imposed", "the kind of giving that doesn't work", "shamed giving doesn't generate happiness", "the obligated gift is not a gift"]
 tags: ["principle", "giving", "service", "obligation", "desire", "self-determination", "happiness", "boundaries"]
 related: ["obligation-cuts-off-love", "responsibility-stops-love", "wants-over-shoulds", "money-must-flow", "caretaking-prevents-the-bottom", "i-caretake-people", "self-abandonment-to-manage-the-other", "humility-vs-disempowerment", "asking-with-shame-invites-refusal", "wanting-itself-not-what-you-want"]
-sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Real Giving Requires Desire
@@ -121,3 +121,4 @@ The principle is delivered without judgment of people who are currently giving f
 ## Sources
 
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe articulating the qualm with Stephanie's "help others to be happy" frame: giving from guilt or obligation produces disempowerment and fear; the real happiness requires giving from the desire to give; the complement that many people, especially the self-reliant, need help learning to receive; Stephanie's confirming statement "Service is not self-sacrifice. It's self-expansion"; the bootstrap subtlety that "to give is useful because it creates the desire to give" while still requiring that the desire develop)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same giving-from-desire teaching)

@@ -5,7 +5,7 @@ title: "Three Stages of Emotional Inquiry Maturity (Cannot Conceive, Tool Stops 
 aliases: ["three stages of emotional inquiry maturity", "the three stages of the practice over time", "the developmental arc of emotional inquiry", "the stages of emotional inquiry practice", "stage one cannot conceive of welcoming", "stage two the tool works then stops working", "stage three looking forward to uncomfortable emotions", "the fastball stage of emotional inquiry", "the arc through emotional inquiry over months and years", "why would I welcome anxiety", "I can get rid of anxiety with this tool", "looking forward to feeling the difficult emotion", "the arc of the practice", "what changes about the practice as you do it"]
 tags: ["pattern", "emotional inquiry", "developmental arc", "stages", "practice maturity"]
 related: ["emotional-inquiry", "trying-to-get-rid-of-the-emotion", "can-you-look-forward-to-feeling-it", "stages-of-emotional-development", "feeling-the-unfelt-emotion", "dont-forget-the-tool-when-things-feel-good", "dont-go-after-every-emotion-at-once", "epiphany-becomes-rut", "each-emotion-has-its-own-positive-flavor", "nervous-system-support-during-intense-inquiry", "enter-inquiry-with-soft-sense-of-self"]
-sources: ["2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14"]
+sources: ["2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
 ---
 
 # Three Stages of Emotional Inquiry Maturity
@@ -84,6 +84,22 @@ A person stays in stage 2 forever if the management trap is never diagnosed. The
 
 A person leaves stage 3 if life pressure produces a return to management without their noticing. The slide is gradual. The practice that was a returning becomes a tool again. The tool starts being used to keep things smooth. The practice stops working. Stage 2 has been re-entered. Recognition and the same diagnostic question move the person back to stage 3.
 
+## Tools That Helped You Get Here Have to Be Left Behind
+
+A specific stage-2-to-stage-3 transition that Joe has noticed in himself: a tool that worked at an earlier stage stops working at a later one, and the work then is to drop the tool, not refine it.
+
+"There are ways in which, like, the tools that get us to emotional fluidity have to be left behind. And it can — it just turns into an experience of emotions moving through your body. But so holding on to those tools is another trap. Things that got us there — that's another trap that I think people get into with them." -- Joe Hudson, Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional
+
+Joe's own example: talking about his emotions worked for him at one stage. It helped him feel them, name them, share them. Then at a certain point that same practice — talking about the emotion — became the thing that stopped him from feeling it. The verbal-frame had outlived its usefulness. Continuing to do it was preserving a tool that was now in the way of the experience the tool had been built to produce.
+
+This is structurally the same problem as the stage-2 management trap, but pointed at a different layer. In stage 2 the trap is that the *practice* has become a strategy for getting rid of emotions. In this transition the trap is that a *specific tool inside the practice* has become a default that is no longer producing what it used to.
+
+The diagnostic is the same: notice whether the tool is still producing what it used to. If a person who used to feel through emotions reliably by journaling about them is now journaling about them and not feeling much, the journaling is the suspect, not the journaling-frequency. The tool may have done its work and now wants to be set down.
+
+The work then: stop using the tool. Let the emotional experience happen in whatever form arrives without the scaffolding. Often the form that arrives once the scaffolding is removed is more direct than the scaffolded version had become.
+
+This connects directly to [[every-thought-about-not-feeling-is-an-emotion-to-feel]]: at later stages, the tool-as-thought is often the thing producing the "I should be feeling this more" report. The tool was the helpful frame at stage 2. At stage 3, it is the residual structure that needs to dissolve so the emotion can do its own thing.
+
 ## The Stages Are Not Linear
 
 Like [[stages-of-emotional-development]], this is a spiral rather than a line. A person can be in stage 3 with one emotion (say, sadness) and stage 1 with another (say, jealousy). New material can drop a person who was in stage 3 back into stage 1 with respect to that specific emotion. The stages describe the relationship to a particular emotional encounter, not a fixed level of overall development.
@@ -115,3 +131,5 @@ Joe describes the stages with the recognizable affection of someone who has watc
 
 - 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (the explicit naming of the three stages; stage 1 as "why would I ever want to invite anxiety"; stage 2 as the discovery that the tool works followed by its conversion to management and its consequent failure; stage 3 as the looking-forward-to-difficult-emotions stance with the fastball metaphor; the framing of returning to the long form as a check against co-opting)
 - 2024-01-19_Emotional Inquiry - Emotion Series #14 (parallel transcription of the same conversation)
+- 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (the specific stage-2-to-stage-3 transition where tools that previously helped now have to be left behind; Joe's example of talking about emotions stopping working as a felt practice; the framing of tool-attachment as a distinct trap within the broader management trap)
+- 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (alternate cut of the same Q&A episode; same teaching about emotional fluidity pitfalls: tools that get you to fluidity have to be left behind; one of Joe's pitfalls is "talking about emotions" that once helped him feel and then stopped; another pitfall named here is "people start believing their emotions" — identifying with emotions the way they used to identify with thoughts; and the catch-22 that the more you identify with the emotion, the less it can restructure the identity)

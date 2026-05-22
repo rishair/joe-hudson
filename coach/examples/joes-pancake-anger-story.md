@@ -5,7 +5,7 @@ title: "Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)"
 aliases: ["the pancake story", "pretty good anger Dad", "Joe's kitchen anger", "the cooking interruption story", "the I'm angry I'm angry I'm angry story", "Joe's daughter and the anger", "spatula down anger story"]
 tags: ["example", "anger", "parenting", "family", "release", "unkinked anger"]
 related: ["anger", "kinked-emotions", "wisdom-of-each-emotion", "get-angry-in-the-car", "dont-do-emotion-at-people"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
 ---
 
 # Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)
@@ -48,6 +48,16 @@ This story shows several things at once:
 - When illustrating the difference between anger and anger-at-someone.
 - When introducing [[get-angry-in-the-car]] (the broader version of the in-the-moment release).
 
+## The Re-Tellings: What the Daughter Knew
+
+In the 2024 re-telling, Joe adds an explicit gloss on why the daughter could respond the way she did:
+
+"Because she knew it wasn't anger at her. She knew that anger was safe and there was nothing wrong with it. But very few of us have ever been taught that. What we've been taught is anger is the way somebody tries to control us, and so it's a bad thing." -- Joe Hudson, How Anger Works
+
+The framing makes explicit what the original story implied: the daughter has been taught two things that most adults have not. First, that the anger is not aimed at her. Second, that anger as such is safe -- not a tool used to control her, not a sign something is wrong, just a sensation moving through her father's body. The category "safe anger" exists for her because she has been raised inside it.
+
+This is the inverse of what most adults received as children. The cultural inheritance teaches anger as the way somebody tries to control us. So when anger arises in our own body, the inherited reading is "I am about to try to control someone" or "I am bad for having this." The daughter does not run this loop because she has not been trained into it.
+
 ## The Specific Detail That Matters
 
 The daughter's line ("That was some pretty good anger, Dad") is the load-bearing detail. It is what makes the story work as teaching. Without it, the story is just Joe yelling in the kitchen. With it, the story shows that the clean version is recognizable to a child as good. The category "good anger" exists for her because she has seen it.
@@ -80,3 +90,4 @@ Joe tells this story laughing. The lightness is the point. Anger done well is no
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_The Wisdom Of Anger, Part 1 (Joe re-tells the story in the 2022 episode with the same details and same daughter line)
+- 2024-05-20_How Anger Works (8-min Guide to Healthy Anger) (compressed retelling with the explicit gloss on why the daughter could respond the way she did -- "she knew anger was safe and there was nothing wrong with it")

@@ -5,7 +5,7 @@ title: "If You Fully Understood the Behavior, You Wouldn't Do It"
 aliases: ["full understanding dissolves behavior", "if you fully understood it you wouldn't do it", "fully feel the behavior to stop it", "understand the habit don't fight it", "feel the behavior all the way through", "understanding over doing", "the felt-experience-of-the-behavior approach", "understand instead of try to stop", "stop trying to stop start understanding", "the no-figure-it-out behavior change", "feel the behavior in the act", "the wrapping-boys-around-her-finger example", "the smoking mindfulness approach"]
 tags: ["principle", "bad habits", "behavior change", "understanding", "feeling", "transformation", "addiction", "awareness"]
 related: ["awareness-as-change-agent", "shame-drives-behavior", "address-the-blocker-not-the-symptom", "joes-pot-habit", "feeling-the-unfelt-emotion", "apologize-as-daily-practice-for-bad-habits", "dissolution-not-behavior-control", "undoing-not-doing", "embrace-intensity"]
-sources: ["2022-10-26_The Upright Apology", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2022-10-26_The Upright Apology", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # If You Fully Understood the Behavior, You Wouldn't Do It
@@ -140,3 +140,4 @@ Joe holds this principle with confidence and lightness. The confidence is becaus
 
 - 2022-10-26_The Upright Apology
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (the hot frying pan compression of the principle: "How do you drop a hot frying pan? All you have to do is feel it. If you want to drop bad habits, you just need to feel them"; the recounting of the severe backlash to this Twitter post, requiring Joe to block multiple commenters — the source for [[religious-identity-around-pain]] as the diagnostic of why the teaching produces defense rather than experimentation in some hearers)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same hot frying pan compression)

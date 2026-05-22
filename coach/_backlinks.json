@@ -349,6 +349,7 @@
     "im-burned-out",
     "whats-next-after-i-reached-my-big-goal",
     "what-if-you-acted-exactly-how-you-want",
+    "what-was-x-going-to-get-you",
     "limiting-belief-meta-trap",
     "burnout-cycle",
     "depression-four-levels",
@@ -366,6 +367,7 @@
     "stick-a-fucking-shit-in-front-of-the-should",
     "i-get-to-vs-i-have-to",
     "improvement-vs-authenticity",
+    "raw-ambition-vs-stories-on-ambition",
     "dont-shame-kids-they-self-shame",
     "enjoyment-as-path",
     "enjoyment-as-surrender",
@@ -408,6 +410,7 @@
     "dont-claim-the-wisdom-as-yours",
     "good-and-corruption-cycle",
     "heart-opening-needs-boundaries",
+    "narcissism-as-incapacity-to-feel",
     "non-defense-is-the-ocean",
     "own-your-narcissism",
     "parenting-as-honest-mirror",
@@ -425,11 +428,13 @@
     "three-forms-of-anger-repression",
     "agree-with-the-depression-dont-talk-them-out",
     "fuck-the-right-answer",
+    "anger-is-love",
     "connection-doesnt-require-the-other",
     "esme-just-need-to-be-sad"
   ],
   "5-ways-to-stay-unhappy": [
     "how-do-i-be-happy",
+    "what-was-x-going-to-get-you",
     "gratitude-as-acknowledgment-of-greater-force",
     "self-judgment-protects-from-emotion",
     "victim-stance-invites-abuse",
@@ -536,6 +541,7 @@
   ],
   "joy-as-natural-state": [
     "how-do-i-be-happy",
+    "what-was-x-going-to-get-you",
     "joy-as-matriarch",
     "discipline-starts-engine-then-let-gravity",
     "enjoyment-as-path",
@@ -658,11 +664,50 @@
     "how-do-i-be-happy",
     "5-ways-to-stay-unhappy"
   ],
+  "what-was-x-going-to-get-you": [
+    "how-do-i-be-happy"
+  ],
+  "self-improvement-is-shame-inducing": [
+    "how-do-i-be-happy",
+    "what-was-x-going-to-get-you",
+    "religious-identity-around-pain",
+    "improvement-vs-authenticity"
+  ],
+  "nature-improves-itself": [
+    "how-do-i-be-happy",
+    "i-need-a-scorecard",
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
+    "looking-for-whats-wrong",
+    "scorecard-keeping-as-identity-structure",
+    "tell-the-unchanging-part-it-has-to-move",
+    "burnout-cycle",
+    "surface-the-assumed-dichotomy",
+    "compass-not-map",
+    "improvement-vs-authenticity",
+    "making-vs-allowing",
+    "raw-ambition-vs-stories-on-ambition",
+    "dissolution-not-behavior-control",
+    "gentleness-not-trying-to-be-patient",
+    "improvement-mindset-vs-maintenance-mindset",
+    "punishing-the-remembering",
+    "self-improvement-is-shame-inducing",
+    "there-is-no-better-person-on-the-other-side",
+    "trust-the-awareness-dont-add-effort",
+    "dont-improve-for-two-weeks",
+    "buurtzorg-nursing",
+    "carl-rogers-three-day-listening-experiment",
+    "cricket-player-up-and-down",
+    "joes-godson-vape-pen",
+    "joes-hacky-sack"
+  ],
   "i-feel-stuck": [
     "how-do-i-be-happy",
     "im-not-living-up-to-my-potential",
     "anxiety-when-confronting-what-you-want",
     "treating-felt-state-as-factual-reality",
+    "anger",
+    "three-forms-of-anger-repression",
     "amplify-the-feeling-until-it-breaks-open",
     "be-intimate-with-the-feeling",
     "lets-go-there",
@@ -687,12 +732,99 @@
     "scorecard-keeping-as-identity-structure",
     "tell-the-unchanging-part-it-has-to-move",
     "what-if-there-was-no-scorecard",
+    "what-was-x-going-to-get-you",
     "whats-the-scorecard-that-cant-be-taken-away",
     "dont-use-measurement-to-beat-yourself-up",
     "gratitude-as-a-strategy-for-an-outcome",
     "surface-the-assumed-dichotomy",
     "compass-not-map",
     "only-your-own-judgment-matters"
+  ],
+  "contain-the-narcissist": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "narcissism-as-incapacity-to-feel"
+  ],
+  "narcissism-as-incapacity-to-feel": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "contain-the-narcissist"
+  ],
+  "every-trigger-with-your-kid-is-projection": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "read-anger-and-help-as-fear",
+    "contain-the-narcissist",
+    "inner-work-as-generational-repair",
+    "inner-work-then-they-change",
+    "narcissism-as-incapacity-to-feel",
+    "parenting-as-honest-mirror",
+    "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+    "parenting-as-coaching-domain"
+  ],
+  "i-feel-guilty-for-cutting-off-family": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "acceptance-without-love",
+    "using-your-emotion-to-make-others-hold-it",
+    "forgiveness-as-stop-making-them-monster",
+    "heartbreak-is-the-love-underneath-the-blockers",
+    "contain-the-narcissist",
+    "compassion-as-of-the-guts"
+  ],
+  "view-as-technique": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "i-keep-feeling-misunderstood",
+    "dont-make-listening-a-morality",
+    "loving-to-transform",
+    "tools-to-change-not-love",
+    "empathy",
+    "vulnerability",
+    "wonder",
+    "apply-view-to-fear",
+    "apply-view-to-the-voice",
+    "contain-the-narcissist",
+    "good-and-corruption-cycle",
+    "marketing-as-the-beginning",
+    "presence-over-technique-in-coaching",
+    "process-over-result",
+    "you-cant-be-seen-when-youre-not-in-yourself",
+    "view",
+    "training-coaches-and-facilitators"
+  ],
+  "boundaries": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "i-need-to-set-boundaries",
+    "someone-i-love-has-mental-health-issues",
+    "does-saying-it-increase-your-love",
+    "dont-make-it-your-job-to-prevent-their-triggers",
+    "dont-use-boundaries-as-ultimatums",
+    "dont-use-safety-as-control",
+    "definition-of-asshole",
+    "fear-of-losing-yourself-in-love",
+    "wisdom-of-each-emotion",
+    "apologize-for-trying-to-control",
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "empathize-with-fear-under-constricted-boundary",
+    "reflect-back-to-make-partner-feel-heard",
+    "say-no-to-find-the-want",
+    "stay-close-and-insist",
+    "boundary-with-vs-boundary-against",
+    "letting-go-vs-doing-nothing",
+    "losing-self-in-love-two-forms",
+    "allowing-creates-resilience",
+    "boundaries-expand-as-capacity-grows",
+    "contain-the-narcissist",
+    "dont-compromise-find-both-needs-met",
+    "heart-opening-needs-boundaries",
+    "narcissism-as-incapacity-to-feel",
+    "triggers-reduce-when-you-know-you-can-leave",
+    "say-the-thing-youre-not-saying",
+    "what-was-wired-with-love-needs-untying"
+  ],
+  "i-need-to-set-boundaries": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "i-feel-guilty-for-cutting-off-family"
+  ],
+  "i-cant-stop-being-jealous-of-my-partners-friend": [
+    "how-do-i-deal-with-narcissistic-parent",
+    "using-your-emotion-to-make-others-hold-it"
   ],
   "parts-work-made-things-worse": [
     "how-do-i-trust-myself",
@@ -734,6 +866,7 @@
     "projections",
     "the-matrix",
     "trauma-mapping",
+    "identity-reproduces-childhood-stress-levels",
     "rehearsing-conversations",
     "embrace-intensity",
     "love-means-signing-up-to-be-hurt",
@@ -824,7 +957,8 @@
   ],
   "am-i-doing-it-right": [
     "how-do-i-trust-myself",
-    "disassociating-in-the-coaching-room"
+    "disassociating-in-the-coaching-room",
+    "redirect-from-doing-it-right-to-enjoying-it"
   ],
   "whats-the-most-profound-positive-shift": [
     "how-do-i-trust-myself",
@@ -1067,6 +1201,7 @@
     "let-your-body-remember-this-moment",
     "embracing-vs-creating-intensity",
     "enjoyment-as-path",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "trying-prevents-the-feeling",
     "unwelcomed-emotions-return-until-felt",
     "hold-the-memory-of-when-you-felt-it-most",
@@ -1210,7 +1345,9 @@
     "the-pulled-back-from-part-is-the-unloveable-part",
     "the-rush-signature",
     "trying-to-get-rid-of-the-emotion",
+    "anger",
     "depression-four-levels",
+    "three-forms-of-anger-repression",
     "can-you-hang-out-with-it",
     "extend-the-no-asshole-rule-inward",
     "find-the-emotion-under-self-judgment",
@@ -1222,6 +1359,7 @@
     "im-not-living-up-to-my-potential",
     "chin-up-as-emotion-block",
     "intellectual-process-with-no-somatic-component",
+    "what-was-x-going-to-get-you",
     "swap-roles-with-the-younger-self",
     "ten-percent-more-connected-experiment",
     "toggle-between-opposite-emotions-then-hold-both",
@@ -1428,6 +1566,7 @@
     "someone-i-love-has-mental-health-issues",
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
+    "fully-feeling-restructures-the-self",
     "grief-as-gateway-to-self-love",
     "grief-is-many-emotions-not-just-sadness",
     "helplessness-distinguishes-death-grief",
@@ -1546,7 +1685,8 @@
     "every-no-contains-a-better-answer"
   ],
   "what-are-you-trying-to-control-for": [
-    "i-cant-stop-being-jealous-of-my-partners-friend"
+    "i-cant-stop-being-jealous-of-my-partners-friend",
+    "what-was-x-going-to-get-you"
   ],
   "name-the-body-defense-in-real-time": [
     "i-cant-stop-being-jealous-of-my-partners-friend",
@@ -1971,9 +2111,6 @@
     "good-decision-is-how-you-make-it-not-the-outcome",
     "host-a-grief-ceremony-as-community"
   ],
-  "i-need-to-set-boundaries": [
-    "i-feel-guilty-for-cutting-off-family"
-  ],
   "the-attack-and-cling-test-of-real-community": [
     "i-feel-lonely-i-cant-find-real-community",
     "community"
@@ -2071,11 +2208,13 @@
     "community-over-teacher",
     "connection-as-life-bottom-line",
     "connection-over-perfection",
+    "contain-the-narcissist",
     "conversation-as-microcosm-of-relationship",
     "decisions-are-emotional",
     "follow-the-demand",
     "good-and-corruption-cycle",
     "gratitude-self-corrects-when-felt",
+    "narcissism-as-incapacity-to-feel",
     "people-want-you-in-it-with-them-not-advice",
     "presence-over-technique-in-coaching",
     "process-over-result",
@@ -2108,12 +2247,15 @@
     "the-matrix",
     "3-to-5-rule",
     "addiction-to-shame",
+    "identity-reproduces-childhood-stress-levels",
     "pleasure-capacity",
     "paradoxical-instruction-to-resist",
+    "identity-shapes-who-is-around-you",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
-    "joes-abandonment-mapping"
+    "joes-abandonment-mapping",
+    "joes-parents-stressed-at-40-percent-story"
   ],
   "what-were-avoiding-is-usually-love": [
     "i-feel-stuck",
@@ -2662,6 +2804,7 @@
     "self-realization",
     "athletes-unlocking-body-intelligence-in-business",
     "making-vs-allowing",
+    "raw-ambition-vs-stories-on-ambition",
     "adversity-as-for-not-against",
     "am-i-falling-or-flying",
     "annihilation-reveals-what-is-real",
@@ -2813,6 +2956,7 @@
     "trappedness-feeling",
     "believing-the-convenient-lie",
     "complementary-trauma-surfaces",
+    "identity-reproduces-childhood-stress-levels",
     "intellectual-emotional-polarization-in-couples",
     "negative-bias-of-trauma-imprinting",
     "scapegoat-as-marriage-stabilizer",
@@ -2823,6 +2967,7 @@
     "embrace-intensity",
     "every-trigger-with-your-kid-is-projection",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+    "identity-shapes-who-is-around-you",
     "inner-work-as-generational-repair",
     "mourn-the-breakup-fully",
     "relationships-as-personal-growth-path",
@@ -2835,6 +2980,7 @@
     "electric-fence-with-dog",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
     "joes-abandonment-mapping",
+    "joes-parents-stressed-at-40-percent-story",
     "stacy-father-conversation",
     "romantic-relationships"
   ],
@@ -3015,6 +3161,7 @@
     "ill-become-lazy-without-shoulds",
     "im-depressed",
     "if-i-were-inherently-good",
+    "what-was-x-going-to-get-you",
     "art-of-accomplishment",
     "depression-four-levels",
     "emotional-fluidity",
@@ -3080,6 +3227,7 @@
     "im-burned-out",
     "ive-lost-my-joy",
     "recycling-anger-without-clarity",
+    "using-your-emotion-to-make-others-hold-it",
     "can-you-look-forward-to-feeling-it",
     "how-is-my-anxiety-right-now",
     "what-is-it-without-resistance",
@@ -3135,6 +3283,7 @@
     "complementary-trauma-surfaces",
     "disassociation-as-numbness-layer",
     "fear-of-joy",
+    "identity-reproduces-childhood-stress-levels",
     "latticework-of-limiting-beliefs",
     "negative-bias-of-trauma-imprinting",
     "negative-self-reinforcement",
@@ -3173,6 +3322,7 @@
     "meaning-change-vs-feeling-through",
     "past-shame-vs-current-shame",
     "problem-vs-something-happening",
+    "raw-ambition-vs-stories-on-ambition",
     "suffering-vs-pain",
     "approach-the-pink-elephant",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
@@ -3186,8 +3336,10 @@
     "embrace-intensity",
     "embracing-changes-unconscious-decisions",
     "embracing-intensity-as-leading-indicator",
+    "emotion-at-someone-means-self-manipulation",
     "emotion-can-move-without-a-story",
     "emotions-live-in-muscles",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "falling-in-love-with-projections",
     "fear-is-about-feeling",
     "feared-stories-about-emotions-sense-something-real",
@@ -3200,6 +3352,7 @@
     "management-required-to-launch-predicts-management-required-forever",
     "mind-unsees-first-body-last",
     "mourn-the-breakup-fully",
+    "narcissism-as-incapacity-to-feel",
     "negative-emotions-precede-positive",
     "owning-the-want-dissolves-it",
     "seeing-through-essential-wrongness",
@@ -3361,6 +3514,7 @@
     "inherent-goodness",
     "management-required-to-launch-predicts-management-required-forever",
     "process-over-result",
+    "stress-from-not-doing-the-thing",
     "listening-to-impulse",
     "butchers-blade",
     "creative-career-story",
@@ -3507,24 +3661,6 @@
     "you-cant-be-seen-when-youre-not-in-yourself",
     "listen-to-yourself-ten-percent-more"
   ],
-  "view-as-technique": [
-    "i-keep-feeling-misunderstood",
-    "dont-make-listening-a-morality",
-    "loving-to-transform",
-    "tools-to-change-not-love",
-    "empathy",
-    "vulnerability",
-    "wonder",
-    "apply-view-to-fear",
-    "apply-view-to-the-voice",
-    "good-and-corruption-cycle",
-    "marketing-as-the-beginning",
-    "presence-over-technique-in-coaching",
-    "process-over-result",
-    "you-cant-be-seen-when-youre-not-in-yourself",
-    "view",
-    "training-coaches-and-facilitators"
-  ],
   "the-rush-signature": [
     "i-keep-postponing-enjoyment",
     "im-overwhelmed",
@@ -3568,7 +3704,9 @@
     "how-would-you-enjoy-x",
     "every-moment-is-an-exit-point",
     "apply-connection-to-whatever-youre-doing",
-    "enjoyment-as-path"
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "enjoyment-as-path",
+    "stress-from-not-doing-the-thing"
   ],
   "shame-as-disconnection": [
     "i-keep-postponing-enjoyment",
@@ -3623,6 +3761,7 @@
     "pendulation",
     "quit-hope-lose-cycle",
     "apply-enjoy-to-whats-here",
+    "redirect-from-doing-it-right-to-enjoying-it",
     "improvement-vs-authenticity",
     "consciousness-is-the-product",
     "discipline-starts-engine-then-let-gravity",
@@ -3646,13 +3785,16 @@
     "whats-stopping-you-from-enjoying-x",
     "pulling-the-brakes",
     "apply-enjoy-to-whats-here",
+    "redirect-from-doing-it-right-to-enjoying-it",
     "enjoyment-as-path"
   ],
   "whats-stopping-you-from-enjoying-x": [
     "i-keep-postponing-enjoyment",
     "how-would-you-enjoy-x",
     "apply-enjoy-to-whats-here",
-    "enjoyment-as-path"
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "enjoyment-as-path",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel"
   ],
   "running-toward-yourself": [
     "i-keep-postponing-enjoyment",
@@ -3896,6 +4038,7 @@
   ],
   "what-was-really-more-important-than-you": [
     "i-make-money-only-when-i-hate-what-im-doing",
+    "what-was-x-going-to-get-you",
     "money-as-surrogate",
     "apply-the-childhood-pattern-to-the-present-problem",
     "wanting-got-wired-to-unlovability",
@@ -3947,9 +4090,12 @@
     "humility",
     "idea-of-self-vs-actual-self",
     "parenting-as-deep-tissue-massage",
+    "identity-reproduces-childhood-stress-levels",
     "transparent-identity-vs-rigid",
     "identity-changes-on-three-levels",
+    "identity-shapes-who-is-around-you",
     "questioning-assumptions",
+    "joes-parents-stressed-at-40-percent-story",
     "joes-pleasing-dad-money-story",
     "business-as-spiritual-practice"
   ],
@@ -3991,32 +4137,6 @@
     "i-need-a-scorecard",
     "scorecard-keeping-as-identity-structure",
     "whats-the-scorecard-that-cant-be-taken-away"
-  ],
-  "nature-improves-itself": [
-    "i-need-a-scorecard",
-    "i-need-to-improve-myself",
-    "im-afraid-of-stagnating",
-    "looking-for-whats-wrong",
-    "scorecard-keeping-as-identity-structure",
-    "tell-the-unchanging-part-it-has-to-move",
-    "burnout-cycle",
-    "surface-the-assumed-dichotomy",
-    "compass-not-map",
-    "improvement-vs-authenticity",
-    "making-vs-allowing",
-    "dissolution-not-behavior-control",
-    "gentleness-not-trying-to-be-patient",
-    "improvement-mindset-vs-maintenance-mindset",
-    "punishing-the-remembering",
-    "self-improvement-is-shame-inducing",
-    "there-is-no-better-person-on-the-other-side",
-    "trust-the-awareness-dont-add-effort",
-    "dont-improve-for-two-weeks",
-    "buurtzorg-nursing",
-    "carl-rogers-three-day-listening-experiment",
-    "cricket-player-up-and-down",
-    "joes-godson-vape-pen",
-    "joes-hacky-sack"
   ],
   "tell-the-unchanging-part-it-has-to-move": [
     "i-need-a-scorecard",
@@ -4096,6 +4216,7 @@
     "impulse-to-should",
     "rehearsing-conversations",
     "find-the-emotion-under-self-judgment",
+    "redirect-from-doing-it-right-to-enjoying-it",
     "improvement-vs-authenticity",
     "intention-vs-goal",
     "trying-vs-doing",
@@ -4221,32 +4342,6 @@
     "dont-improve-for-two-weeks",
     "joes-stinky-house-experiment"
   ],
-  "boundaries": [
-    "i-need-to-set-boundaries",
-    "someone-i-love-has-mental-health-issues",
-    "does-saying-it-increase-your-love",
-    "dont-make-it-your-job-to-prevent-their-triggers",
-    "dont-use-boundaries-as-ultimatums",
-    "dont-use-safety-as-control",
-    "definition-of-asshole",
-    "fear-of-losing-yourself-in-love",
-    "wisdom-of-each-emotion",
-    "apologize-for-trying-to-control",
-    "empathize-with-fear-under-constricted-boundary",
-    "reflect-back-to-make-partner-feel-heard",
-    "say-no-to-find-the-want",
-    "stay-close-and-insist",
-    "boundary-with-vs-boundary-against",
-    "letting-go-vs-doing-nothing",
-    "losing-self-in-love-two-forms",
-    "allowing-creates-resilience",
-    "boundaries-expand-as-capacity-grows",
-    "dont-compromise-find-both-needs-met",
-    "heart-opening-needs-boundaries",
-    "triggers-reduce-when-you-know-you-can-leave",
-    "say-the-thing-youre-not-saying",
-    "what-was-wired-with-love-needs-untying"
-  ],
   "does-saying-it-increase-your-love|love test": [
     "i-need-to-set-boundaries"
   ],
@@ -4349,6 +4444,7 @@
     "binary-that-forces-the-avoidance-into-view",
     "i-dont-buy-your-story",
     "is-the-shame-in-the-room-or-in-you",
+    "redirect-from-doing-it-right-to-enjoying-it",
     "say-the-forbidden-want-out-loud",
     "skill-transfer-redirect",
     "stick-a-fucking-shit-in-front-of-the-should",
@@ -4682,6 +4778,7 @@
   "urgency-as-motivation": [
     "im-burned-out",
     "burnout-cycle",
+    "identity-reproduces-childhood-stress-levels",
     "mental-task-inflation",
     "how-could-you-do-this-and-gain-energy",
     "energy-management-over-time-management"
@@ -4729,8 +4826,10 @@
   "im-depressed": [
     "im-burned-out",
     "treating-felt-state-as-factual-reality",
+    "anger",
     "soul-dysmorphia",
-    "symptoms-of-depression"
+    "symptoms-of-depression",
+    "three-forms-of-anger-repression"
   ],
   "im-afraid-ill-revert-to-my-old-pattern": [
     "im-burned-out",
@@ -4910,6 +5009,7 @@
     "soul-dysmorphia",
     "trappedness-feeling",
     "unfelt-emotion-leaks",
+    "initial-anger-release-wave",
     "three-childhood-origins-of-anger-repression",
     "three-forms-of-anger-repression",
     "three-things-that-go-wrong-when-releasing-anger",
@@ -4921,12 +5021,14 @@
     "symptoms-vs-root-causes-of-depression",
     "victim-anger-vs-dominating-anger",
     "withdrawal-with-vs-without-a-timeline",
+    "anger-is-love",
     "avoided-conflict-goes-internal",
     "dont-do-emotion-at-people",
     "exercises-need-body-voice-emotion",
     "exhaustion-is-unexpressed-anger",
     "kids-respond-to-emotional-presence-not-words",
     "fake-the-anger-to-let-it-move",
+    "free-write-the-anger",
     "i-exist-affirmation-against-collapse",
     "tell-the-body-its-safe",
     "three-reflection-questions-on-anger",
@@ -4940,6 +5042,7 @@
     "dont-do-anger-at-your-partner",
     "depression-four-levels",
     "grief-is-many-emotions-not-just-sadness",
+    "initial-anger-release-wave",
     "three-childhood-origins-of-anger-repression",
     "paradoxical-instruction-to-resist",
     "treat-yourself-as-actor-of-emotion",
@@ -4947,6 +5050,7 @@
     "victim-anger-vs-dominating-anger",
     "exhaustion-is-unexpressed-anger",
     "embodied-stages-of-grief-ritual",
+    "free-write-the-anger",
     "get-angry-in-the-car",
     "tell-the-body-its-safe"
   ],
@@ -5200,6 +5304,7 @@
     "passive-aggressive-vs-aggressive-aggressive",
     "avoided-conflict-goes-internal",
     "dont-do-emotion-at-people",
+    "emotion-at-someone-means-self-manipulation",
     "empathy-makes-you-better-at-hard-jobs",
     "exhaustion-is-unexpressed-anger",
     "kids-release-emotions-where-they-feel-safe",
@@ -5304,10 +5409,12 @@
     "empathy",
     "grief-is-many-emotions-not-just-sadness",
     "visceral-clarity-from-anger",
+    "initial-anger-release-wave",
     "name-the-authoritys-fear",
     "read-anger-and-help-as-fear",
     "so-what-makes-you-run-away-from-fear",
     "victim-anger-vs-dominating-anger",
+    "anger-is-love",
     "annihilation-reveals-what-is-real",
     "exhaustion-is-unexpressed-anger",
     "get-angry-in-the-car",
@@ -5322,6 +5429,7 @@
   "mental-task-inflation": [
     "im-not-living-up-to-my-potential",
     "anxiety-when-confronting-what-you-want",
+    "stress-from-not-doing-the-thing",
     "jeff-bezos-calls-his-mornings-wandering"
   ],
   "identity-extension-expands-fear": [
@@ -5431,6 +5539,7 @@
     "repression-vs-management",
     "epiphany-becomes-rut",
     "feared-stories-about-emotions-sense-something-real",
+    "narcissism-as-incapacity-to-feel",
     "negative-emotions-precede-positive",
     "simplicity-on-the-other-side-of-complexity",
     "you-dont-control-emotions-they-dont-control-you",
@@ -5893,11 +6002,15 @@
     "dont-fight-identity",
     "belief-integration-not-elimination",
     "expanding-sense-of-self",
+    "fully-feeling-restructures-the-self",
     "identity",
+    "identity-reproduces-childhood-stress-levels",
     "aloneness-vs-loneliness",
+    "raw-ambition-vs-stories-on-ambition",
     "allowing-creates-resilience",
     "every-identity-has-limits",
     "feared-stories-about-emotions-sense-something-real",
+    "identity-shapes-who-is-around-you",
     "questioning-assumptions",
     "view-around-self-as-identity-diagnostic"
   ],
@@ -5984,6 +6097,7 @@
     "trauma-mapping",
     "trigger",
     "childhood-imprinting",
+    "identity-reproduces-childhood-stress-levels",
     "intellectual-emotional-polarization-in-couples",
     "same-defense-shows-up-in-marriage-and-team",
     "take-contrary-action",
@@ -6227,12 +6341,6 @@
   "indulge-vs-welcoming": [
     "acceptance-without-love"
   ],
-  "i-feel-guilty-for-cutting-off-family": [
-    "acceptance-without-love",
-    "forgiveness-as-stop-making-them-monster",
-    "heartbreak-is-the-love-underneath-the-blockers",
-    "compassion-as-of-the-guts"
-  ],
   "resistance": [
     "am-i-doing-it-right",
     "how-much-fight",
@@ -6274,6 +6382,7 @@
   ],
   "how-do-i-be-happy": [
     "anxiety-when-confronting-what-you-want",
+    "what-was-x-going-to-get-you",
     "5-ways-to-stay-unhappy"
   ],
   "we-have-built-up-resentment": [
@@ -6331,6 +6440,7 @@
     "defensiveness-as-identity-signal",
     "ego-protection-as-need-to-be-understood",
     "dont-identify-as-awakened",
+    "fully-feeling-restructures-the-self",
     "humility",
     "identity",
     "religious-identity-around-pain",
@@ -6619,11 +6729,13 @@
     "anger-as-cover-for-deeper-emotion",
     "anger",
     "visceral-clarity-from-anger",
+    "initial-anger-release-wave",
     "three-forms-of-anger-repression",
     "treat-yourself-as-actor-of-emotion",
     "dysregulated-vs-released-into-freedom",
     "observer-vs-immersion-by-anger-type",
     "victim-anger-vs-dominating-anger",
+    "free-write-the-anger",
     "get-angry-in-the-car",
     "i-exist-affirmation-against-collapse"
   ],
@@ -6636,7 +6748,9 @@
     "three-things-that-go-wrong-when-releasing-anger",
     "dysregulated-vs-released-into-freedom",
     "victim-anger-vs-dominating-anger",
+    "emotion-at-someone-means-self-manipulation",
     "feeling-changes-story",
+    "free-write-the-anger",
     "get-angry-in-the-car",
     "joes-rental-house-anger"
   ],
@@ -6655,14 +6769,18 @@
     "unfelt-emotion-leaks",
     "visceral-clarity-from-anger",
     "wisdom-of-each-emotion",
+    "initial-anger-release-wave",
     "deconstruct-the-victim-to-release-anger",
+    "draw-boundaries-with-kids-to-let-anger-arise",
     "invite-the-aggression-out",
     "welcoming-the-others-emotion",
     "loving-conflict-vs-wanting-conflict",
     "passive-aggressive-vs-aggressive-aggressive",
+    "anger-is-love",
     "each-emotion-has-its-own-positive-flavor",
     "exhaustion-is-unexpressed-anger",
     "fake-the-anger-to-let-it-move",
+    "free-write-the-anger",
     "get-angry-in-the-car",
     "i-exist-affirmation-against-collapse",
     "three-reflection-questions-on-anger",
@@ -6683,6 +6801,7 @@
     "conflict-avoidance-prevents-being-loved",
     "identity",
     "every-identity-has-limits",
+    "narcissism-as-incapacity-to-feel",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "joes-pleasing-dad-money-story"
   ],
@@ -6744,6 +6863,38 @@
     "emotional-inquiry",
     "stages-of-emotional-development"
   ],
+  "dont-do-emotion-at-people": [
+    "using-your-emotion-to-make-others-hold-it",
+    "acting-out-emotions-as-fluidity",
+    "dont-do-anger-at-your-partner",
+    "dont-shame-your-grief-process",
+    "anger",
+    "depression-four-levels",
+    "unfelt-emotion-leaks",
+    "three-forms-of-anger-repression",
+    "name-your-trigger-as-vulnerability",
+    "treat-yourself-as-actor-of-emotion",
+    "boundary-with-vs-boundary-against",
+    "withdrawal-with-vs-without-a-timeline",
+    "emotion-at-someone-means-self-manipulation",
+    "hardening-means-personal",
+    "leaders-wants-are-the-organizations-wants",
+    "unprocessed-grief-creates-conflict",
+    "you-dont-control-emotions-they-dont-control-you",
+    "daily-emotional-yoga",
+    "get-angry-in-the-car",
+    "three-reflection-questions-on-anger",
+    "stages-of-emotional-development",
+    "joes-pancake-anger-story",
+    "anger-and-politics"
+  ],
+  "what-makes-you-care-about-their-emotional-state": [
+    "using-your-emotion-to-make-others-hold-it",
+    "feel-the-love-then-feel-obligation"
+  ],
+  "how-do-i-deal-with-narcissistic-parent": [
+    "using-your-emotion-to-make-others-hold-it"
+  ],
   "dont-position-yourself-as-your-partners-growth-guide": [
     "are-you-willing-to-do-the-work",
     "dont-try-to-change-your-partner",
@@ -6786,6 +6937,7 @@
     "emotions-as-road-signs",
     "fear-of-self-destruction-by-anger",
     "feeling-the-unfelt-emotion",
+    "initial-anger-release-wave",
     "observe-vs-move-emotion",
     "repression-vs-management",
     "discipline-starts-engine-then-let-gravity",
@@ -6796,6 +6948,7 @@
     "emotional-inquiry",
     "fake-the-anger-to-let-it-move",
     "feeling-the-want-as-emotion",
+    "free-write-the-anger",
     "get-angry-in-the-car",
     "let-your-body-shake-it-out",
     "love-relationship-with-anxiety",
@@ -6872,6 +7025,7 @@
     "integrity-as-money-compass",
     "nature-improves-itself",
     "process-over-result",
+    "stress-from-not-doing-the-thing",
     "wants-deepen-as-you-follow-them",
     "ask-from-slowness-not-intellect",
     "dont-improve-for-two-weeks",
@@ -6886,7 +7040,8 @@
     "exercises-need-body-voice-emotion"
   ],
   "what-do-you-want": [
-    "how-do-you-want-to-be"
+    "how-do-you-want-to-be",
+    "what-was-x-going-to-get-you"
   ],
   "what-would-happen-if-you-stopped": [
     "how-else-would-you-heal-your-shame",
@@ -6922,6 +7077,9 @@
     "no-finish-line",
     "improvement-vs-authenticity",
     "dissolution-not-behavior-control"
+  ],
+  "redirect-from-doing-it-right-to-enjoying-it": [
+    "how-would-you-enjoy-x"
   ],
   "how-what-questions": [
     "how-would-you-enjoy-x",
@@ -7110,6 +7268,7 @@
     "comparative-mind",
     "connection",
     "emotions-and-stories-dance",
+    "fully-feeling-restructures-the-self",
     "grief-is-many-emotions-not-just-sadness",
     "joy-as-matriarch",
     "measuring-transformation-across-three-brains",
@@ -7154,6 +7313,7 @@
     "unfelt-emotion-leaks",
     "upright-apology",
     "wisdom-of-each-emotion",
+    "initial-anger-release-wave",
     "three-forms-of-anger-repression",
     "treat-yourself-as-actor-of-emotion",
     "embrace-vs-brace",
@@ -7162,7 +7322,9 @@
     "passive-aggressive-vs-aggressive-aggressive",
     "triggered-vs-big-emotion",
     "allowing-creates-resilience",
+    "anger-is-love",
     "each-emotion-has-its-own-positive-flavor",
+    "emotion-at-someone-means-self-manipulation",
     "emotions-live-in-muscles",
     "negative-emotions-precede-positive",
     "resisted-vs-unresisted-everything-shows-up-different",
@@ -7170,6 +7332,7 @@
     "stronger-story-stuckier-emotion",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
+    "free-write-the-anger",
     "three-reflection-questions-on-anger",
     "try-to-feel-scared-then-stop-experiment",
     "stages-of-emotional-development",
@@ -7185,29 +7348,6 @@
     "acting-out-emotions-as-fluidity",
     "emotional-fluidity",
     "you-cant-let-go-of-emotions-only-thoughts"
-  ],
-  "dont-do-emotion-at-people": [
-    "acting-out-emotions-as-fluidity",
-    "dont-do-anger-at-your-partner",
-    "dont-shame-your-grief-process",
-    "anger",
-    "depression-four-levels",
-    "unfelt-emotion-leaks",
-    "three-forms-of-anger-repression",
-    "name-your-trigger-as-vulnerability",
-    "treat-yourself-as-actor-of-emotion",
-    "boundary-with-vs-boundary-against",
-    "withdrawal-with-vs-without-a-timeline",
-    "hardening-means-personal",
-    "leaders-wants-are-the-organizations-wants",
-    "unprocessed-grief-creates-conflict",
-    "you-dont-control-emotions-they-dont-control-you",
-    "daily-emotional-yoga",
-    "get-angry-in-the-car",
-    "three-reflection-questions-on-anger",
-    "stages-of-emotional-development",
-    "joes-pancake-anger-story",
-    "anger-and-politics"
   ],
   "the-clients-wisdom-not-the-teachers": [
     "coaching-as-savior-role",
@@ -7723,6 +7863,46 @@
     "base-jumping-broken-hand-gratitude",
     "teeth-cleaning-metaphor"
   ],
+  "kids-respond-to-emotional-presence-not-words": [
+    "dont-manage-your-kids-into-moving-emotion",
+    "parenting-as-deep-tissue-massage",
+    "model-emotional-movement-for-your-kids",
+    "stay-close-and-insist",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "inner-work-as-generational-repair",
+    "kids-release-emotions-where-they-feel-safe",
+    "people-want-you-in-it-with-them-not-advice",
+    "presence-over-technique-in-coaching",
+    "state-not-framework",
+    "esme-just-having-my-emotions",
+    "una-grabbing-joes-face",
+    "parenting-as-coaching-domain"
+  ],
+  "model-emotional-movement-for-your-kids": [
+    "dont-manage-your-kids-into-moving-emotion",
+    "draw-boundaries-with-kids-to-let-anger-arise"
+  ],
+  "draw-boundaries-with-kids-to-let-anger-arise": [
+    "dont-manage-your-kids-into-moving-emotion",
+    "model-emotional-movement-for-your-kids"
+  ],
+  "dont-make-listening-a-morality": [
+    "dont-manage-your-kids-into-moving-emotion",
+    "listening",
+    "listen-to-yourself-ten-percent-more",
+    "savannah-misunderstood-session"
+  ],
+  "teach-teenagers-to-be-their-own-authority": [
+    "dont-manage-your-kids-into-moving-emotion",
+    "stay-close-and-insist",
+    "community-over-teacher",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "people-want-you-in-it-with-them-not-advice",
+    "esme-step-by-step-project",
+    "hand-in-hand-parenting",
+    "joes-no-compliments-daughter",
+    "parenting-as-coaching-domain"
+  ],
   "emotions-live-in-muscles": [
     "dont-name-emotion-to-avoid-feeling",
     "emotional-fluidity",
@@ -7862,6 +8042,7 @@
     "shame-as-disconnection",
     "addiction-to-shame",
     "shame-hot-potato",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "obligation-cuts-off-love",
     "seeing-through-essential-wrongness",
     "shame-drives-behavior",
@@ -7961,7 +8142,9 @@
     "vulnerability",
     "trust-vs-safety",
     "vulnerability-vs-weakness",
+    "contain-the-narcissist",
     "dont-do-emotion-at-people",
+    "emotion-at-someone-means-self-manipulation",
     "good-and-corruption-cycle",
     "public-failure-as-leadership-modeling"
   ],
@@ -8095,6 +8278,7 @@
     "capacity-to-love-other-is-capacity-to-love-self",
     "dehumanization-begins-with-right-and-wrong",
     "different-languages-of-love",
+    "emotion-at-someone-means-self-manipulation",
     "every-no-contains-a-better-answer",
     "love-is-the-best-change-agent",
     "love-means-signing-up-to-be-hurt",
@@ -8129,6 +8313,7 @@
     "stick-a-fucking-shit-in-front-of-the-should",
     "love-the-anxiety-not-just-with-it",
     "connection-doesnt-require-the-other",
+    "emotion-at-someone-means-self-manipulation",
     "good-and-corruption-cycle",
     "inner-work-then-they-change",
     "love-is-the-best-change-agent",
@@ -8228,6 +8413,7 @@
     "rest-is-an-accomplishment",
     "the-work-as-three-levels-of-change",
     "three-layers-of-the-work",
+    "anger-is-love",
     "each-emotion-has-its-own-positive-flavor",
     "emotion-can-move-without-a-story",
     "joes-pancake-anger-story"
@@ -8237,11 +8423,13 @@
     "grief-is-many-emotions-not-just-sadness",
     "visceral-clarity-from-anger",
     "wisdom-of-each-emotion",
-    "exercises-need-body-voice-emotion"
+    "exercises-need-body-voice-emotion",
+    "free-write-the-anger"
   ],
   "joes-angry-executive-commute": [
     "anger",
     "unfelt-emotion-leaks",
+    "initial-anger-release-wave",
     "exhaustion-is-unexpressed-anger",
     "get-angry-in-the-car",
     "anger-and-politics"
@@ -8250,6 +8438,7 @@
     "anger",
     "three-childhood-origins-of-anger-repression",
     "say-the-forbidden-want-out-loud",
+    "anger-is-love",
     "feared-stories-about-emotions-sense-something-real",
     "tell-the-body-its-safe",
     "three-reflection-questions-on-anger"
@@ -8264,8 +8453,14 @@
     "i-exist-affirmation-against-collapse",
     "tell-the-body-its-safe"
   ],
+  "initial-anger-release-wave": [
+    "anger",
+    "get-angry-in-the-car"
+  ],
   "recycling-anger-without-clarity": [
     "anger",
+    "initial-anger-release-wave",
+    "emotion-at-someone-means-self-manipulation",
     "stronger-story-stuckier-emotion",
     "get-angry-in-the-car"
   ],
@@ -8274,12 +8469,21 @@
     "three-things-that-go-wrong-when-releasing-anger",
     "observer-vs-immersion-by-anger-type"
   ],
-  "three-reflection-questions-on-anger": [
+  "anger-is-love": [
     "anger"
+  ],
+  "three-reflection-questions-on-anger": [
+    "anger",
+    "anger-is-love"
   ],
   "anger-and-politics": [
     "anger",
     "shame-hot-potato",
+    "get-angry-in-the-car"
+  ],
+  "free-write-the-anger": [
+    "anger",
+    "initial-anger-release-wave",
     "get-angry-in-the-car"
   ],
   "head-heart-gut": [
@@ -8325,6 +8529,7 @@
     "applied-self-awareness",
     "joy-as-matriarch",
     "parenting-as-deep-tissue-massage",
+    "model-emotional-movement-for-your-kids",
     "inner-work-as-generational-repair",
     "practice-cannot-fool-itself-in-real-conditions",
     "hand-in-hand-parenting",
@@ -8409,6 +8614,7 @@
   "thoughts-as-management": [
     "belief-integration-not-elimination",
     "voice-in-the-head",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "questioning-assumptions"
   ],
   "constriction-not-truth-is-the-test": [
@@ -8428,6 +8634,7 @@
     "heartbreak-is-the-love-underneath-the-blockers",
     "fuck-the-right-answer",
     "keep-asking-whats-the-problem-with-that",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "compassion-as-of-the-guts"
   ],
   "caring-vs-caretaking|caretaking": [
@@ -8783,6 +8990,7 @@
     "trigger",
     "walking-on-eggshells",
     "victim-anger-vs-dominating-anger",
+    "anger-is-love",
     "feared-stories-about-emotions-sense-something-real",
     "say-the-thing-youre-not-saying",
     "sadie-christopher-anger-together"
@@ -8797,6 +9005,7 @@
   ],
   "treat-yourself-as-actor-of-emotion": [
     "depression-four-levels",
+    "emotional-fluidity",
     "feeling-the-unfelt-emotion",
     "logic-vs-emotional-movement",
     "three-forms-of-anger-repression",
@@ -8868,6 +9077,9 @@
     "head-heart-gut",
     "stages-of-emotional-development",
     "body-awareness-in-meetings"
+  ],
+  "fully-feeling-restructures-the-self": [
+    "emotional-fluidity"
   ],
   "each-emotion-has-its-own-positive-flavor": [
     "emotional-fluidity",
@@ -9008,6 +9220,30 @@
     "forgiveness-as-stop-making-them-monster",
     "right-and-wrong-flips-from-head-to-action"
   ],
+  "enter-inquiry-with-soft-sense-of-self": [
+    "fully-feeling-restructures-the-self",
+    "dont-take-my-word-for-it"
+  ],
+  "every-thought-about-not-feeling-is-an-emotion-to-feel": [
+    "fully-feeling-restructures-the-self",
+    "three-stages-of-emotional-inquiry-maturity"
+  ],
+  "dont-go-after-every-emotion-at-once": [
+    "fully-feeling-restructures-the-self",
+    "initial-anger-release-wave",
+    "three-stages-of-emotional-inquiry-maturity",
+    "apply-connection-to-whatever-youre-doing",
+    "am-i-falling-or-flying",
+    "trying-prevents-the-feeling",
+    "daily-emotional-yoga",
+    "emotional-inquiry",
+    "nervous-system-support-during-intense-inquiry"
+  ],
+  "every-moment-is-an-exit-point": [
+    "fully-feeling-restructures-the-self",
+    "disorienting-middle-of-self-inquiry",
+    "annihilation-reveals-what-is-real"
+  ],
   "politics-from-unclear-standards": [
     "functional-team",
     "sublimated-wants-become-politics",
@@ -9130,6 +9366,7 @@
     "shame-stagnates-emotion",
     "drop-the-hot-potato",
     "if-you-couldnt-feel-this-whats-underneath",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
     "negative-emotions-precede-positive",
     "obligation-cuts-off-love",
     "wanting-got-wired-to-unlovability",
@@ -9203,6 +9440,7 @@
   ],
   "dont-reflect-your-patterns-as-culture": [
     "identity",
+    "identity-shapes-who-is-around-you",
     "leaders-calm-becomes-the-teams-calm",
     "unconscious-principles-run-your-life",
     "wrestle-with-your-principles",
@@ -9302,7 +9540,9 @@
   ],
   "joes-pancake-anger-story": [
     "kinked-emotions",
-    "logic-vs-emotional-movement"
+    "logic-vs-emotional-movement",
+    "initial-anger-release-wave",
+    "anger-is-love"
   ],
   "passive-aggressive-vs-aggressive-aggressive": [
     "kinked-emotions",
@@ -9403,11 +9643,6 @@
     "the-clients-wisdom-not-the-teachers",
     "speaking-authentically"
   ],
-  "dont-make-listening-a-morality": [
-    "listening",
-    "listen-to-yourself-ten-percent-more",
-    "savannah-misunderstood-session"
-  ],
   "four-faces-of-love": [
     "love-as-deep-welcoming",
     "caring-vs-caretaking",
@@ -9481,6 +9716,7 @@
     "opposite-of-trying",
     "push-past-the-protective-frame",
     "letting-go-vs-doing-nothing",
+    "raw-ambition-vs-stories-on-ambition",
     "discipline-starts-engine-then-let-gravity",
     "do-the-work-thats-harder-for-you",
     "surrender-the-outcome-of-a-decision"
@@ -9500,6 +9736,7 @@
   ],
   "parenting-as-honest-mirror": [
     "parenting-as-deep-tissue-massage",
+    "model-emotional-movement-for-your-kids",
     "coaches-foundation-self-awareness",
     "every-trigger-with-your-kid-is-projection",
     "inner-work-as-generational-repair",
@@ -9511,19 +9748,6 @@
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
     "una-grabbing-joes-face",
     "family-as-team",
-    "parenting-as-coaching-domain"
-  ],
-  "kids-respond-to-emotional-presence-not-words": [
-    "parenting-as-deep-tissue-massage",
-    "stay-close-and-insist",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "inner-work-as-generational-repair",
-    "kids-release-emotions-where-they-feel-safe",
-    "people-want-you-in-it-with-them-not-advice",
-    "presence-over-technique-in-coaching",
-    "state-not-framework",
-    "esme-just-having-my-emotions",
-    "una-grabbing-joes-face",
     "parenting-as-coaching-domain"
   ],
   "parenting-as-coaching-domain": [
@@ -9917,10 +10141,6 @@
     "questioning-assumptions",
     "toggle-between-opposite-emotions-then-hold-both"
   ],
-  "every-moment-is-an-exit-point": [
-    "disorienting-middle-of-self-inquiry",
-    "annihilation-reveals-what-is-real"
-  ],
   "red-flags-of-a-teacher-or-path": [
     "downward-spiral-between-teacher-and-students",
     "us-vs-them-as-universal-manipulation-pattern",
@@ -9961,12 +10181,23 @@
     "shame-hot-potato",
     "apologize-to-exit-a-fight"
   ],
+  "religious-identity-around-pain": [
+    "identity-reproduces-childhood-stress-levels",
+    "full-understanding-of-a-behavior-dissolves-it"
+  ],
+  "identity-shapes-who-is-around-you": [
+    "identity-reproduces-childhood-stress-levels"
+  ],
+  "joes-parents-stressed-at-40-percent-story": [
+    "identity-reproduces-childhood-stress-levels"
+  ],
   "being-right-college-story": [
     "needing-to-be-right-in-teams",
     "trying-to-be-right-is-the-voice"
   ],
   "scapegoat-as-marriage-stabilizer": [
-    "one-team-member-holds-the-helplessness"
+    "one-team-member-holds-the-helplessness",
+    "identity-shapes-who-is-around-you"
   ],
   "leaders-calm-becomes-the-teams-calm": [
     "one-team-member-holds-the-helplessness",
@@ -9992,10 +10223,6 @@
     "empathize-with-fear-under-constricted-boundary",
     "public-truth-bomb",
     "visualizing-feared-outcomes"
-  ],
-  "self-improvement-is-shame-inducing": [
-    "religious-identity-around-pain",
-    "improvement-vs-authenticity"
   ],
   "gratitude-around-the-problem": [
     "same-scarcity-story-regardless-of-wealth",
@@ -10048,6 +10275,7 @@
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "coaches-foundation-self-awareness",
     "dont-claim-the-wisdom-as-yours",
+    "narcissism-as-incapacity-to-feel",
     "training-coaches-and-facilitators"
   ],
   "the-emotional-experience-decides-the-channel": [
@@ -10065,15 +10293,6 @@
   "dont-forget-the-tool-when-things-feel-good": [
     "three-stages-of-emotional-inquiry-maturity",
     "emotional-inquiry"
-  ],
-  "dont-go-after-every-emotion-at-once": [
-    "three-stages-of-emotional-inquiry-maturity",
-    "apply-connection-to-whatever-youre-doing",
-    "am-i-falling-or-flying",
-    "trying-prevents-the-feeling",
-    "daily-emotional-yoga",
-    "emotional-inquiry",
-    "nervous-system-support-during-intense-inquiry"
   ],
   "observer-vs-immersion-by-anger-type": [
     "three-things-that-go-wrong-when-releasing-anger",
@@ -10142,6 +10361,31 @@
     "three-kinds-of-limiting-beliefs",
     "joe-ferris-wheel-ride"
   ],
+  "dont-manage-your-kids-into-moving-emotion": [
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "model-emotional-movement-for-your-kids"
+  ],
+  "three-childhood-origins-of-anger-repression|origins of anger repression": [
+    "draw-boundaries-with-kids-to-let-anger-arise"
+  ],
+  "dont-hate-your-kids-and-they-wont-hate-you": [
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "hand-in-hand-parenting",
+    "parenting-as-coaching-domain"
+  ],
+  "stay-close-and-insist": [
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "kids-respond-to-emotional-presence-not-words",
+    "esme-just-having-my-emotions",
+    "parenting-as-coaching-domain"
+  ],
+  "kids-release-emotions-where-they-feel-safe": [
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "kids-respond-to-emotional-presence-not-words",
+    "esme-just-having-my-emotions",
+    "parenting-as-coaching-domain"
+  ],
   "aggressive-victim-stance|aggressive victim": [
     "empathize-with-fear-under-constricted-boundary"
   ],
@@ -10155,9 +10399,6 @@
     "enter-inquiry-with-soft-sense-of-self",
     "each-emotion-has-its-own-positive-flavor",
     "emotional-inquiry"
-  ],
-  "what-makes-you-care-about-their-emotional-state": [
-    "feel-the-love-then-feel-obligation"
   ],
   "sincerity-is-the-prerequisite": [
     "frame-it-as-an-experiment",
@@ -10261,13 +10502,9 @@
     "receive-the-projection-and-let-it-move-through",
     "identification-with-the-teaching"
   ],
-  "every-trigger-with-your-kid-is-projection": [
-    "read-anger-and-help-as-fear",
-    "inner-work-as-generational-repair",
-    "inner-work-then-they-change",
-    "parenting-as-honest-mirror",
-    "joe-apologizes-to-esme-for-the-3-year-old-imprint",
-    "parenting-as-coaching-domain"
+  "raw-ambition-vs-stories-on-ambition": [
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "stress-from-not-doing-the-thing"
   ],
   "joes-stinky-house-experiment": [
     "say-no-to-find-the-want",
@@ -10307,16 +10544,6 @@
   "welcome-the-shame-without-extracting": [
     "state-no-wish-for-their-shame",
     "dont-shame-kids-they-self-shame"
-  ],
-  "teach-teenagers-to-be-their-own-authority": [
-    "stay-close-and-insist",
-    "community-over-teacher",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "people-want-you-in-it-with-them-not-advice",
-    "esme-step-by-step-project",
-    "hand-in-hand-parenting",
-    "joes-no-compliments-daughter",
-    "parenting-as-coaching-domain"
   ],
   "dont-shame-kids-they-self-shame": [
     "stay-close-and-insist",
@@ -10488,6 +10715,12 @@
     "wrestle-with-your-principles",
     "five-principles-of-the-path"
   ],
+  "stress-from-not-doing-the-thing": [
+    "raw-ambition-vs-stories-on-ambition"
+  ],
+  "the-want-to-fit-in-vs-want-to-be-extraordinary": [
+    "raw-ambition-vs-stories-on-ambition"
+  ],
   "constraints-increase-creativity": [
     "resources-vs-resourcefulness",
     "michelangelo-sistine-chapel",
@@ -10641,11 +10874,8 @@
     "embrace-intensity",
     "the-gold-lies-beyond-the-afraid"
   ],
-  "stay-close-and-insist": [
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "kids-respond-to-emotional-presence-not-words",
-    "esme-just-having-my-emotions",
-    "parenting-as-coaching-domain"
+  "emotion-at-someone-means-self-manipulation": [
+    "dont-do-emotion-at-people"
   ],
   "take-care-of-yourself-then-marriage-then-kids": [
     "dont-hate-your-kids-and-they-wont-hate-you",
@@ -10653,11 +10883,11 @@
     "joe-and-tara-weekend-reset",
     "parenting-as-coaching-domain"
   ],
-  "enter-inquiry-with-soft-sense-of-self": [
-    "dont-take-my-word-for-it"
-  ],
   "natural dissolution of stuck patterns": [
     "embrace-intensity"
+  ],
+  "using-your-emotion-to-make-others-hold-it": [
+    "emotion-at-someone-means-self-manipulation"
   ],
   "joes-rental-house-anger": [
     "enjoyment-as-path",
@@ -10700,9 +10930,6 @@
     "business-as-spiritual-practice",
     "welcoming-fear-in-leadership"
   ],
-  "religious-identity-around-pain": [
-    "full-understanding-of-a-behavior-dissolves-it"
-  ],
   "tennis-quarter": [
     "goal-beyond-the-goal"
   ],
@@ -10736,6 +10963,10 @@
     "knowing-yourself-is-the-only-safety",
     "brett-cape-town-napkins"
   ],
+  "identity-reproduces-childhood-stress-levels": [
+    "identity-shapes-who-is-around-you",
+    "joes-parents-stressed-at-40-percent-story"
+  ],
   "what-was-wired-with-love-needs-untying": [
     "inner-work-as-generational-repair",
     "wanting-got-wired-to-unlovability"
@@ -10746,11 +10977,6 @@
   ],
   "una-grabbing-joes-face": [
     "kids-respond-to-emotional-presence-not-words",
-    "parenting-as-coaching-domain"
-  ],
-  "kids-release-emotions-where-they-feel-safe": [
-    "kids-respond-to-emotional-presence-not-words",
-    "esme-just-having-my-emotions",
     "parenting-as-coaching-domain"
   ],
   "binary-thinking-signals-fear|binary panic": [
@@ -11018,10 +11244,6 @@
   ],
   "esme-heartbreak-feels-good": [
     "esme-step-by-step-project"
-  ],
-  "dont-hate-your-kids-and-they-wont-hate-you": [
-    "hand-in-hand-parenting",
-    "parenting-as-coaching-domain"
   ],
   "external-freedom-vs-internal-freedom|internal freedom": [
     "hitchhiking-freedom"

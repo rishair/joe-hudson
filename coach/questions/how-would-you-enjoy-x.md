@@ -4,7 +4,7 @@ id: how-would-you-enjoy-x
 title: "How would you enjoy your X? (where X is the difficult thing happening right now)"
 aliases: ["how would you enjoy your shame", "how would you enjoy your sadness", "how would you enjoy your stress", "how would you enjoy your pain", "how would you enjoy rushing", "how would you enjoy this", "how do you enjoy this", "the apply-enjoyment-to-the-current-thing question", "the enjoy-it-anyway question", "the apply-enjoy-to-X question", "how do you enjoy X right now"]
 tags: ["enjoyment", "presence", "questions", "core question", "apply-to-current-thing", "shame", "pain", "stress"]
-sources: ["2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)", "2022-12-10_How Do I Stop Postponing My Enjoyment？ (Coaching Session)", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+sources: ["2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)", "2022-12-10_How Do I Stop Postponing My Enjoyment？ (Coaching Session)", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional"]
 ---
 
 # How would you enjoy your X?
@@ -36,6 +36,20 @@ Contexts where Joe reaches for this:
 - The person is in chronic pain and pulling the brakes against the pain. Apply enjoyment to the pain (and to the relationship with the pain).
 - The person is in a victim-feeling and pushing against it. Apply enjoyment to being-a-victim-for-a-moment.
 - The person is having difficulty being themselves in a particular context (fast-paced group conversation, performance situation, social setting). Apply enjoyment to the context itself.
+
+## The Work-Task Application (How Do I Enjoy This Task?)
+
+A specific high-leverage version of the question for someone stuck on work: replace "how do I do this right?" with "how do I enjoy doing this?" The two questions sound similar but produce opposite results. The right-question collapses the work into evaluation. The enjoy-question opens the work into engagement.
+
+Joe's worked example: a recent hire who was unhappy and not producing the work she needed to produce. She was working hard to do things right. Joe gave her the redirect.
+
+"For whatever reason, it clicked, and boom — like, 2 days later, everything that I would want to work with was there, just because of that flip of the switch. The ambition was wanting to be a part of the team and contribute and live this purpose that she gets to live by working with us. But the thing that was getting in the way was the trying to get something perfect. And as soon as it went to, 'oh, how do I enjoy this?' it was like the productivity quadrupled." -- Joe Hudson, Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional
+
+The instruction Joe gave: "Don't ask yourself when you have a task, don't ask yourself, how do I do this right? Please ask yourself, how do I enjoy doing the task? And then do the task the way that you enjoy doing the task."
+
+This is the same mechanism as the group-conversation application below. The "right" frame activates the partiality (the I in VIEW) — the self-judgment, the comparison to external standards, the inspection of in-progress work. The "enjoy" frame redirects attention to the present-moment relationship with the work. The partiality cannot sustain itself when attention is on enjoyment. The productivity follows.
+
+For the dedicated move-level treatment, see [[redirect-from-doing-it-right-to-enjoying-it]].
 
 ## The Group-Conversation Application
 
@@ -121,3 +135,4 @@ This is the same grammatical move that powers [[how-what-questions]]. The presup
 - 2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)
 - 2022-12-10_How Do I Stop Postponing My Enjoyment？ (Coaching Session)
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (the work-task application — Joe's employee story and the "don't ask how to do it right, ask how to enjoy it" instruction that produced quadrupled productivity in 2 days)

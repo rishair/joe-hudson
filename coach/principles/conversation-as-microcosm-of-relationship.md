@@ -5,7 +5,7 @@ title: "The Conversation Is a Microcosm of the Relationship (Diagnostic Reading)
 aliases: ["conversation as microcosm of relationship", "the conversation is the relationship", "diagnostic reading of a conversation", "Ayurvedic diagnostic frame for relationships", "the imbalance shows up in every part", "the conversation as diagnostic", "watch the give-and-take in the conversation", "the conversation reveals the relationship", "diagnose the relationship by watching the conversation", "conversation as fractal of relationship", "the relational dynamic is in the conversation", "you can see the whole relationship in any conversation", "the conversation tells you everything", "the relationship is visible in the conversation"]
 tags: ["principle", "diagnostic", "relationships", "conversation", "communication", "give and receive", "diagnostic frame"]
 related: ["listening", "being-heard", "subconscious-partner-selection", "different-languages-of-love", "view", "connection", "listening-shapes-the-reality-that-comes-back", "presence-over-technique-in-coaching", "applied-self-awareness"]
-sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # The Conversation Is a Microcosm of the Relationship
@@ -87,3 +87,4 @@ The principle is delivered with the curiosity of a diagnostician. Joe is not mak
 ## Sources
 
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe drawing the Ayurvedic/TCM analogy explicitly: imbalances in the kidney show up in the tongue; relational imbalances show up in every conversation; the live coaching corollary that the coaching session itself is the practice ground; the extension to internal dynamic — voice in the head, voice with self — as structurally identical to external dynamics with bosses and partners)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the identical articulation of the principle)

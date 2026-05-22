@@ -5,7 +5,7 @@ title: "Self-Improvement Is Shame-Inducing (The Self-Awareness Alternative)"
 aliases: ["self-improvement is shame-inducing", "improvement induces shame", "self-improvement starts with something wrong", "self-awareness starts with nothing wrong", "self-awareness over self-improvement", "improvement starts with brokenness assumption", "the self-improvement trap", "the shame mechanism of improvement orientation", "why self-improvement keeps you stuck", "the assumption of brokenness is the engine of improvement", "self-awareness vs self-improvement", "the improvement orientation installs shame", "self-improvement has the brokenness premise built in"]
 tags: ["principle", "self-improvement", "self-awareness", "shame", "improvement", "orientation", "foundation"]
 related: ["improvement-vs-authenticity", "inherent-goodness", "shame-drives-behavior", "nature-improves-itself", "seven-limiting-beliefs", "symptoms-vs-root-causes-of-depression", "art-of-accomplishment", "loving-all-parts"]
-sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Self-Improvement Is Shame-Inducing (The Self-Awareness Alternative)
@@ -104,3 +104,4 @@ Joe delivers this principle as a clean reframe, not as a moral critique of self-
 ## Sources
 
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe articulating the principle in direct contrast: "the idea of self-improvement is shame-inducing... self-awareness starts with the idea that there's nothing wrong with you"; delivered as the explicit description of how his work differs from standard self-development; paired with the oak tree metaphor for natural growth and the Stephanie-shared experience of inner-critic-driven achievement producing rashes and panic attacks)
+- 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the identical articulation of the principle)
