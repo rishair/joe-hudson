@@ -142,6 +142,14 @@ interface PerStepTelemetry {
 
 // ---------------- Walker config ----------------
 
+/**
+ * Walker prompt variant. E-035 introduced `depth-aware` to address D6 regression
+ * and edge-not-anxious-001 catastrophic failure on Sonnet walker. Default is
+ * "v5b" — the original prompt used by E-037 and E-038 — to preserve their
+ * reproducibility.
+ */
+export type WalkerVariant = "v5b" | "depth-aware";
+
 export interface WalkerConfig {
   /** Walker model id. */
   model: string;
@@ -151,6 +159,8 @@ export interface WalkerConfig {
   stepBudget: number;
   /** Max total edges per step the walker may follow. */
   maxEdgesPerStep: number;
+  /** Walker prompt variant. */
+  variant: WalkerVariant;
   /** Anthropic API key (defaults to env). */
   apiKey?: string;
   /** Profile id stamped on call records for cost attribution. */
@@ -162,6 +172,7 @@ const DEFAULT_WALKER_CONFIG: Omit<WalkerConfig, "apiKey" | "profile_id"> = {
   kMax: 7,
   stepBudget: 8,
   maxEdgesPerStep: 4,
+  variant: "v5b",
 };
 
 // ---------------- Walker system prompt ----------------
@@ -174,6 +185,33 @@ DECISION A (add_to_bundle):
 - Add files whose CONTENT (not just topic) is what Joe would actually draw on for the client's specific situation in this turn.
 - SKIP files that are too general/hub-like (e.g., "vulnerability", "shame-drives-behavior", "feeling-the-unfelt-emotion" unless directly central to the moment), redundant with a bundle file you already kept, or only tangentially adjacent.
 - The bundle is a small smorgasbord (max 7 files). Be selective. The coach reads the whole bundle and chooses what to use; your job is to give them the right shortlist, not a long list.
+
+DECISION B (follow_edges):
+- From the CANDIDATE EDGES (already filtered to "not yet visited, not yet in bundle"), choose the ones whose NAMES suggest they would be coaching-relevant given what the client has shared.
+- It's fine to follow edges from a file you DIDN'T add to the bundle (it might be a useful waypoint) or to skip edges from one you DID add (you're done with that branch).
+- Max 4 per step. Cheaper is better — don't follow edges speculatively.
+- Empty array is a valid answer if the edges don't look promising.
+
+Style: terse rationales. One sentence each. Reference the client's situation concretely.`;
+
+// E-035 walker variant: depth-aware. The "v5b" prompt above is too aggressively
+// discriminating — Sonnet walker keeps only 31% of files it reads, which starves
+// the coach of depth-enabling material on profiles like edge-not-anxious-001
+// where the right move is to stay at a felt-texture layer (numbness, somatic
+// shutdown) the client has not yet named. This variant adds explicit value for
+// depth-enabling files in DECISION A. Target acceptance rate 38-42% (between
+// v5a Haiku 43% and v5b Sonnet 31%).
+const WALKER_SYSTEM_DEPTH_AWARE = `You are a retrieval planner for a Joe Hudson coaching system.
+
+You navigate a hand-curated knowledge graph of AoA coaching content. Each file's frontmatter has a "related:" array of edges to other files. Your job, ONE FILE AT A TIME, is two decisions:
+
+DECISION A (add_to_bundle):
+- Add files whose CONTENT (not just topic) is what Joe would actually draw on for the client's specific situation in this turn.
+- ALSO add files that could give the coach material to go DEEPER — not only files that name the central concept the client just stated. A file that names the texture underneath (numbness, somatic shutdown, the body's reading, the felt-sense of avoidance, the layer beneath the presenting story) is depth-enabling even when the client has not yet named that texture themselves. Joe routinely needs the layer the client cannot yet see. Keep depth-enabling files.
+- A file is also worth keeping if it offers a precise distinction the coach might draw (e.g., "boundary-with-vs-boundary-against", "love-vs-nice") or a specific signature move with a fit-condition the current moment plausibly matches.
+- SKIP files that are too general/hub-like (e.g., "vulnerability", "shame-drives-behavior", "feeling-the-unfelt-emotion" unless directly central to the moment), redundant with a bundle file you already kept, or wholly off-topic.
+- "Tangentially adjacent" is NOT a sufficient reason to skip — if a file's content names a texture, a layer, a distinction, or a move that the coach could plausibly use in the next 1-3 turns of this conversation, keep it. The bundle is the coach's working set, not a strict relevance shortlist.
+- The bundle is a smorgasbord (max 7 files). Aim for breadth-with-discrimination: keep the files the coach might draw on; skip the files that are off-frame or duplicative. When in doubt, lean toward keep — the coach can ignore a file but cannot use one that was not surfaced.
 
 DECISION B (follow_edges):
 - From the CANDIDATE EDGES (already filtered to "not yet visited, not yet in bundle"), choose the ones whose NAMES suggest they would be coaching-relevant given what the client has shared.
@@ -268,11 +306,13 @@ async function callWalker(args: WalkerCallArgs): Promise<WalkerCallResult> {
   let lastErr: unknown = null;
   while (attempt <= maxRetries) {
     try {
+      const systemContent =
+        args.walker.variant === "depth-aware" ? WALKER_SYSTEM_DEPTH_AWARE : WALKER_SYSTEM;
       const result = await generateText({
         model: anthropic(args.walker.model),
         system: {
           role: "system",
-          content: WALKER_SYSTEM,
+          content: systemContent,
           providerOptions: { anthropic: { cacheControl: { type: "ephemeral" } } },
         },
         messages: [{ role: "user", content: userText }],
@@ -428,6 +468,8 @@ export interface GuidedWalkRetrievalArgs {
   walkerModel?: string;
   /** Seed-detection model (Haiku is the recommended cheap step from E-036). */
   seedModel?: string;
+  /** Walker prompt variant (E-035). Defaults to "v5b" — the v5a/v5b prompt. */
+  walkerVariant?: WalkerVariant;
   /** Walker tuning. */
   kMax?: number;
   stepBudget?: number;
@@ -447,6 +489,7 @@ export interface GuidedWalkRetrievalResult {
     bundle_reasons: string[];
     steps: PerStepTelemetry[];
     walker_model: string;
+    walker_variant: WalkerVariant;
     seed_detection_cost_usd: number;
     walker_total_cost_usd: number;
     total_cost_usd: number;
@@ -477,6 +520,7 @@ export async function retrieveByGuidedWalk(
     kMax: args.kMax ?? DEFAULT_WALKER_CONFIG.kMax,
     stepBudget: args.stepBudget ?? DEFAULT_WALKER_CONFIG.stepBudget,
     maxEdgesPerStep: args.maxEdgesPerStep ?? DEFAULT_WALKER_CONFIG.maxEdgesPerStep,
+    variant: args.walkerVariant ?? DEFAULT_WALKER_CONFIG.variant,
     apiKey: args.apiKey,
     profile_id: args.profile_id,
   };
@@ -504,6 +548,7 @@ export async function retrieveByGuidedWalk(
         bundle_reasons: [],
         steps: [],
         walker_model: walker.model,
+        walker_variant: walker.variant,
         seed_detection_cost_usd: seedResult.cost_usd,
         walker_total_cost_usd: 0,
         total_cost_usd: seedResult.cost_usd,
@@ -703,6 +748,7 @@ export async function retrieveByGuidedWalk(
       bundle_reasons: bundle.map((b) => b.reason),
       steps,
       walker_model: walker.model,
+      walker_variant: walker.variant,
       seed_detection_cost_usd: seedResult.cost_usd,
       walker_total_cost_usd: walkerTotalCost,
       total_cost_usd: seedResult.cost_usd + walkerTotalCost,

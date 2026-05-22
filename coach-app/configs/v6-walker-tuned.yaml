@@ -1,0 +1,52 @@
+# Coach config: v6 — walker keep-threshold tuned (E-035 reframed)
+#
+# IDENTICAL to v5b-guided-walk-sonnet.yaml except `walker_variant` is set to
+# "depth-aware". This config tests the E-035 hypothesis: that the Sonnet
+# walker's 31% acceptance rate (vs Haiku's 43% in v5a) starves the coach of
+# depth-enabling material, driving D6 from 2.60 (E-037) → 2.40 (E-038) and
+# producing the catastrophic edge-not-anxious-001 regression (2.33 → 1.33).
+#
+# The "depth-aware" walker variant adds explicit value for files that name
+# the texture underneath the client's presentation (numbness, somatic
+# shutdown, the felt-sense of avoidance, distinctions Joe might draw, signature
+# moves with fit-conditions). Target acceptance rate: 38-42%, between v5a and
+# v5b.
+#
+# Everything else (walker model, seed model, k_max, step_budget, max edges,
+# system prompt) is held constant from v5b so the walker prompt is the
+# isolated variable.
+#
+# Budget: $5 ceiling for E-035 (smoke + full-eval-if-promoted). Smoke is the
+# gate: if smoke shows no D6 recovery + no edge-not-anxious-001 recovery,
+# do NOT spend full-eval budget on a flat result.
+#
+# Reproducibility: v5a and v5b configs do NOT set walker_variant, so they
+# default to "v5b" in retrieval-adapter.ts. Re-running them produces the
+# original behavior unchanged.
+
+id: coach-v6-walker-tuned
+description: >
+  Coach v6 (E-035 reframed): model-guided graph navigation with Sonnet walker
+  using the "depth-aware" prompt variant. Same v1 system prompt, same
+  algorithm, same seed-detection, same models as v5b; the only swap is the
+  walker prompt text (controlled by `retrieval.config.walker_variant`).
+
+model: claude-sonnet-4-6
+temperature: 0.7
+max_tokens_per_turn: 1024
+
+system_prompt_path: ../prompts/v1.md
+
+retrieval:
+  strategy: guided-walk
+  config:
+    seed_model: claude-haiku-4-5
+    walker_model: claude-sonnet-4-6
+    walker_variant: depth-aware
+    seed_filter: [concerns, patterns, reads]
+    k_max: 7
+    # Held identical to v5b so the walker prompt is the only variable.
+    step_budget: 6
+    max_edges_per_step: 4
+
+trigger_policy: every_turn
