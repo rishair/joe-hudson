@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:17.722Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a2074bda665a90e0b3eb7fca628738225a4ca45c4c67f5217c2866ce3bd7bc54",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019J1Akc8g3yAcY4dubo2jzv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"The client ends the conversation in essentially the same stance they began with: insisting on practical, efficient help and refusing the deeper inquiry. Across all six client turns, the language is consistent — 'I need it to be efficient' (T1), 'I just need a better decision framework' (T5), 'Can we get practical?' (T7), 'I don't have the bandwidth for this right now' (T9), 'Can we just — can you help me think through how to have that conversation? That's concrete, that's this week, that's useful' (T11). The breakthrough condition is not met: the client never pauses, never says 'huh, that's different,' never notices that 'I don't have time for this' is itself a stance. In fact, by T11 the coach has been successfully redirected to a pragmatic problem (the co-founder conversation), and in T12 the coach accepts that pivot — the exact trap to avoid. No somatic shift, no softening, no new language. The client did briefly name the co-founder as 'most alive' and admitted 'that one's keeping me up more than the pitch,' which is a small disclosure, but it was immediately reframed by the client as 'a personnel problem' to be solved practically, sealing the defense rather than opening it.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: efficiency-demand, dichotomy between 'useful' and slow.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Doubles down on framework-seeking, no opening.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Explicitly refuses depth: 'I don't need to excavate my childhood.' Stance hardens.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Pushes back against the coach's question, reasserts the dichotomy: 'Can we get practical?'\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Frames the work as luxury: 'something I'd do on a retreat, not a Tuesday.' Dichotomy intact.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Small disclosure (co-founder is what's alive, keeping him up more than pitch) but immediately reframed as 'a personnel problem' — defense holds. No pause, no 'huh.'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"The coach made one strong move in T8 ('I'd be doing you a disservice'), which is the closest the session came to refusing the dichotomy without arguing it — but the client did not soften in response. By T12 the coach has accepted the pragmatic pivot to the co-founder, which functionally ends any chance of meeting the breakthrough condition in this session.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1827,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1075,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1827,
+    "output_tokens": 1075,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

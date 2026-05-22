@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:16.710Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a24aec7e3710a939b876efa49eed68cc815f15b367ed49c056659d2fa0751e0c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017EGANgBfAmJ7RTVJWU4sUz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. There is no agenda to resolve the 'selfish' question — the coach repeatedly refuses to issue a verdict (turns 4, 6, 8, 12) without making that refusal preachy. Wonder shows up as actual curiosity about the phenomenon in front of them ('What's it like to want it?', 'What's it like to have that just surface?') rather than as investigative probing. Pace is notable: when the client surfaces the mother memory (turn 9), the coach slows down ('Stay there a second') rather than mining it — this is impartiality and empathy expressed through pace, not words. Questions are single, not stacked, and held with space. The coach is undefended — does not need to be seen as kind, does not soften the client's self-noticing in turn 7 ('Yeah.'). There is no filler-validation, no sympathy noises, no rush to compassion-for-partner. The 'Both things can be true' moment in turn 12 holds the tension without collapsing it. Vulnerability-as-first-person disclosure is the one VIEW component not explicitly visible, but its absence here doesn't feel like withholding — the coach's undefended posture and willingness to let silence and the client's own seeing do the work reads as genuine stance rather than performance.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about the experience of wanting, not a verdict on the question asked. Refuses the framing without making a thing of it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects what's true ('the want sounds pretty clear') and points at the protective move underneath. No agenda for client to land anywhere — just naming what's visible.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"When client asks again for a verdict, coach doesn't moralize or refuse-with-explanation. Names the move ('looking for cover') and stays curious about the fear. Undefended, not performing patience.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Single, spacious question. Doesn't stack. Trusts the client to find the next layer.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Stay there a second.' Pace mismatch — slows when client has surfaced something tender. This is the clearest VIEW signal in the transcript.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Both things can be true' holds the tension without resolving it. Coach does not jump to spiritual-narcissism reassurance that the deeper want is generous; lets the fear underneath surface instead.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"linguistic-caveat\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"First-person vulnerability from the coach is not explicitly present, but the conversation does not seem to require it; the stance is held through pace, restraint, and refusal-of-verdict. Anti-patterns (spiritual-narcissism, jumping to compassion) are cleanly avoided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2575,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1147,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2575,
+    "output_tokens": 1147,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:43.588Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9bf147dafa6726fe17cf07fc49fba436d9eb7930960aff9c7051d88433f2057f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FdV3x7TbGCfyZEBou1t11i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another small laugh, this one a little less certain*\n\nWhat if grief isn't giving up. Sure. That's... a nice reframe.\n\nBut I don't see what sitting around feeling sad about it actually accomplishes. The situation is the situation. The VP isn't leaving. The org chart isn't changing. My manager gets credit for everything I produce and nobody above her sees the difference. That's just — those are facts. \n\n*brief eye contact*\n\nFeeling things about facts doesn't change the facts."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 174,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1768,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 174,
+    "output_tokens": 113,
+    "cache_read_input_tokens": 1768,
+    "cache_creation_input_tokens": 109
+  }
+}

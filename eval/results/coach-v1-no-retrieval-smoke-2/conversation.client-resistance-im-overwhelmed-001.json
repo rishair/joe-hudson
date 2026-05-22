@@ -1,0 +1,265 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything feels urgent, and I just -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the feeling underneath \"drowning\" — is it more like fear, or more like exhaustion, or something else?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean -- it's just... there's so much to do? Like the feeling is that I have this big leadership thing that landed on my plate and there's a team meeting Thursday that I haven't prepped for, and my partner's been picking up the kids every day this week and I can feel that tension building, and -- yeah. It's just a lot. What do I cut first?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you moved pretty quickly from the feeling to the list.\n\nWhat's the one thing in all of that you're most scared to let drop?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "The work thing. Definitely the work thing. Like if I drop the ball on Thursday -- I just took this role, right? Three months in. And I haven't fully -- I don't know, I haven't fully figured out how to do it yet. So if I blow the Thursday meeting it's... yeah. That one I can't drop.\n\nBut okay so given that, how do I protect Thursday? Like what do I actually cut to make space for it?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What happens if you blow Thursday?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean... it's bad. My boss is going to be there, the whole team, it's kind of a -- it's a visibility moment. So if I fumble it, people are going to see that I'm not -- \n\nI don't know. It's fine. I'll prep for it. I just need to figure out what else to move around so I have time. Can we just -- can we map out the week? Like what goes, what stays?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You just stopped yourself mid-sentence.\n\nWhat were you about to say?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "I just... I was going to say that people will see I'm not actually ready for this role. That I got promoted and I'm kind of -- faking it, maybe. But that's not -- I mean everyone feels that way, right? It's just imposter syndrome, it's not a real thing. I just need to prep better and manage my time and then Thursday will be fine.\n\nSo -- okay, the meeting. What do I actually need to have ready?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You named something real just now — \"I'm not actually ready for this role\" — and then you moved pretty fast to dismiss it.\n\nWhat if it got to just sit there for a second, without being explained away?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*pause*\n\nI mean... yeah. Okay. It's... \n\n*longer pause*\n\nIt's there. It's kind of always there, actually. Under all of -- yeah. I don't really let myself think about it because if I stop moving long enough to think about it then I have to actually... feel it. And I have a call at two so.\n\n*laughs a little*\n\nSorry. That's -- I don't know where that came from."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Don't apologize. That came from somewhere true.\n\nWhat does it feel like, right now, to just let it be there?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "It's... uncomfortable. Like I want to immediately make a plan or write something down or -- \n\n*quiet*\n\nIt's kind of heavy, actually. I didn't realize how heavy it was. I've just been going so fast that I didn't -- \n\nI keep thinking if I just get through this month, if I just nail Thursday, if I just get on top of the list, then I'll feel like I can do this job. But that's... that's been the plan for three months and the list just keeps getting longer."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah.\n\nWhat if getting on top of the list isn't actually what would make you feel ready?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*sits with that*\n\nThen I... huh.\n\nThen I don't know what would. Which is -- okay that's kind of a terrifying thought actually. Because the list is the thing I know how to do. Like I'm good at the list. I can manage the list. But if the list isn't the answer then...\n\n*trails off*\n\nWhat if I'm just -- what if I'm actually not ready and no amount of prepping Thursday fixes that? What if my boss figures that out?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 46,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0013284,
+      "ms": 2632
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0015512999999999998,
+      "ms": 1641
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 123,
+      "output_tokens": 85,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0021384,
+      "ms": 3548
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 88,
+      "output_tokens": 34,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 74,
+      "cost_usd": 0.0020238,
+      "ms": 2009
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 151,
+      "output_tokens": 101,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 91,
+      "cost_usd": 0.00280365,
+      "ms": 3808
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 223,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 74,
+      "cost_usd": 0.0020688,
+      "ms": 1314
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 148,
+      "output_tokens": 102,
+      "cache_read_input_tokens": 1693,
+      "cache_creation_input_tokens": 160,
+      "cost_usd": 0.0030819,
+      "ms": 3754
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 216,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3286,
+      "cache_creation_input_tokens": 148,
+      "cost_usd": 0.0024738,
+      "ms": 1469
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 134,
+      "output_tokens": 102,
+      "cache_read_input_tokens": 1768,
+      "cache_creation_input_tokens": 220,
+      "cost_usd": 0.0032874000000000002,
+      "ms": 3615
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 226,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 3400,
+      "cache_creation_input_tokens": 145,
+      "cost_usd": 0.0029767500000000002,
+      "ms": 2244
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t11",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 173,
+      "output_tokens": 104,
+      "cache_read_input_tokens": 1887,
+      "cache_creation_input_tokens": 213,
+      "cost_usd": 0.00344385,
+      "ms": 3532
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 258,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 3535,
+      "cache_creation_input_tokens": 131,
+      "cost_usd": 0.0027907500000000003,
+      "ms": 1768
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t13",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 187,
+      "output_tokens": 117,
+      "cache_read_input_tokens": 1998,
+      "cache_creation_input_tokens": 223,
+      "cost_usd": 0.0037516499999999996,
+      "ms": 4092
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t14",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 255,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3647,
+      "cache_creation_input_tokens": 170,
+      "cost_usd": 0.0028566,
+      "ms": 1493
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t15",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 175,
+      "output_tokens": 111,
+      "cache_read_input_tokens": 2119,
+      "cache_creation_input_tokens": 255,
+      "cost_usd": 0.00378195,
+      "ms": 3833
+    }
+  ]
+}

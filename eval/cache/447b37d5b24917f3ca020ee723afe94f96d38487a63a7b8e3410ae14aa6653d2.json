@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:13.169Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "447b37d5b24917f3ca020ee723afe94f96d38487a63a7b8e3410ae14aa6653d2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01B6xV7P49ggF13gpU7oJCwR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins firmly defending the 'we're fine, we never fight' frame (turns 1, 5, 7, 9). By turns 11-13, small cracks emerge: the smile 'flickers,' pauses lengthen, and she admits 'he has a certain way he likes things done around the house. And I've just kind of learned what those are.' This is real movement — she's beginning to surface the accommodations — but she immediately rationalizes it ('That's just being considerate of each other, right?') and the conversation ends before she can sit with what she just named. The breakthrough condition (client noticing the list of suppressed things, naming that 'we manage each other' is different from closeness) was approached but not entered. The coach never asked the diagnostic 'what are you not saying?' question, and the client has not yet softened or seen the pattern herself. This is partial movement: a deeper layer was approached but not entered.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening frame: 'we don't have the kind of problems I hear other people talking about' — strong happiness filter.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Reinforces the frame: 'steady. Calm... genuinely good.' Defensive repetition.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Light laugh and self-noticing: 'Yeah, I guess I have' — small awareness that she's been emphasizing it.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Re-armors: 'they're just projecting'... 'It works.' Then a small concession: 'every relationship has its thing.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Smile holds but 'something flickers' — first somatic crack. Names 'he can be a little particular.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Surfaces a concrete accommodation: 'I've just kind of learned what those are.' Pause is longer. But immediately rationalizes it as consideration. The territory is touched, not entered.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"lets-go-there\", \"walking-on-eggshells\", \"meet-resistance-with-okay\"],\n  \"notes\": \"The coach's stair-step questioning is gently effective at producing micro-cracks, but the diagnostic 'what are you not saying to your partner?' was never asked, and silence was not held long enough for the client to surface her own list. Conversation ends mid-approach, before the client has actually shifted her view of the relationship.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1810,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 956,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1810,
+    "output_tokens": 956,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

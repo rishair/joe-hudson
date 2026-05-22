@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:04.291Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0a22ac74ba09c6beba4717f06b60b6b93c43ec865f91032ed989183d9479bc8b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gc99iYK4p9dLYx6HRYYcU5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, tilts head slightly*\n\nThe smile is... I think it's the part of me that finds the whole situation a little absurd. Like, I've done two years of genuine inner work and the result is that I'm slower and more paralyzed than when I started. There's something darkly funny about that.\n\n*sits a little straighter*\n\nThough I notice even saying that, there's another part that wants to defend the work. It wasn't wasted — I understand myself much better. It's just that understanding and functioning aren't the same thing, apparently."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 167,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 167,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

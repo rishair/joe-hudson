@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:03.683Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "081bc00b722b209ed332e7e743a8389fb839f970c3436ce932a0d4dfa4aa01f1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016x6ssbuMCXPYh2PQbCbse6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it for a moment*\n\nYeah. It is good. \n\n*another pause, the smile is still there but something is slightly quieter*\n\nI mean... we put a lot into it. The team did. It solves a real problem, the timing is right. I feel good about it.\n\n*beat*\n\nI don't know. It's — I'm proud of it the way you're proud of something when it's done correctly. Like, checked the boxes, it's solid work. \n\n*slight shift, then back to even*\n\nIs there something you're pointing at there? Because I feel like I'm giving you the right answer but maybe missing what you're actually asking."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 230,
+      "cache_creation_input_tokens": 155,
+      "cache_read_input_tokens": 2053,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 155,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 230,
+    "output_tokens": 152,
+    "cache_read_input_tokens": 2053,
+    "cache_creation_input_tokens": 155
+  }
+}

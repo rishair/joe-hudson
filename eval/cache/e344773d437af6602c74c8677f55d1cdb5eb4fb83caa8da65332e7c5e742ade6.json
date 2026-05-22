@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:58.427Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e344773d437af6602c74c8677f55d1cdb5eb4fb83caa8da65332e7c5e742ade6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XW943EZuc3mK3ScKWrRDEA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nHim. I guess. Or — \n\n*another pause, shorter*\n\nNo, actually... maybe the version of him I needed him to be. Like if I say it hurt, I'm also saying he wasn't — he couldn't —\n\n*stops again, something shifts*\n\nWait.\n\n*quieter*\n\nGive me a second. I'm... I'm feeling weird. I'm getting cold."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 180,
+      "cache_creation_input_tokens": 263,
+      "cache_read_input_tokens": 2092,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 263,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 180,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 2092,
+    "cache_creation_input_tokens": 263
+  }
+}

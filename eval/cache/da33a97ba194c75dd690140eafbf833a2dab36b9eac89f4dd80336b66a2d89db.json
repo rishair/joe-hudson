@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:20.245Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "da33a97ba194c75dd690140eafbf833a2dab36b9eac89f4dd80336b66a2d89db",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018jGNvkJpAyUeRGmz3K7UNZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced along the feeling-before-story path. Turn 2 goes under the story to feeling; turn 4 offers a more precise emotional name (grief) and when the client pushes back, the coach doesn't drop it or debate the facts — they name the resistance itself (turn 6) and apply view to the voice (turn 8: '\\\"Grief feels like giving up.\\\" That's doing a lot of work'). Turn 10 is a clean refusal to debate the facts while redirecting to cost-of-not-feeling — this is the 'I don't buy your story' move done warmly. Turn 12 catches a micro-redirect and invites what came before it, which earns the 'tired' admission. Turn 14 lands the specific naming ('a long time of not being seen') at exactly the moment the client could receive it, producing the first non-defensive beat ('doesn't argue immediately, which is unusual'). Coach never strategizes the org chart, never validates the trap, never reassures. Pacing holds; each move earns the next.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Goes under the story to feeling immediately rather than engaging the 'rigged system' content.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Offers a more precise emotional name (grief) when 'frustration' reads as armored — testing a deeper layer.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the resistance ('you pushed back pretty quickly') rather than retreating or re-asking the same question. Good pivot quality.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice: quotes the client's belief back and gently questions it without lecturing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to debate the facts ('you're right, it doesn't change the facts') and redirects to cost of not feeling — disarms the defense without colluding.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the redirect mid-turn and invites the thing before the redirect — precise tracking of avoidance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the specific underneath ('a long time of not being seen') at the moment the client is open enough to receive it. The move lands — client doesn't argue.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Conversation ends right at the breakthrough edge — coach has done excellent move-sequencing to get here. Remaining expected territory (agency/choice work, empowered-vs-power) would be next-phase moves once the helplessness fully moves; their absence at this point in the arc is not a timing failure.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2293,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2293,
+    "output_tokens": 1125,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

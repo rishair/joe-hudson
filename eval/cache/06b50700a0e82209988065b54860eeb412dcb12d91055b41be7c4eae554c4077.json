@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:27.524Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "06b50700a0e82209988065b54860eeb412dcb12d91055b41be7c4eae554c4077",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GkL7VMuwnSzvDwBZ3ffPtz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach engages almost entirely at the content level throughout the conversation. There are no visible reads — no naming of the rush signature that is screaming through every client turn, no observation of the defensive bracing ('I don't need to excavate my childhood'), no tracking of the looking-for-what's-wrong stance, no naming of the pattern where the client repeatedly tries to redirect to the pragmatic. The closest the coach comes is 'That's a lot to be carrying' in turn 10, which is a generic empathic reflection rather than a specific somatic/energetic/linguistic read. The coach never uses observation language ('I notice...', 'the way you said that...'), never references pace or defendedness, and never distinguishes the said from the shown. By turn 12 the coach has fully capitulated to the client's content-level redirect to the co-founder problem without ever naming what just happened. Questions are asked blind rather than grounded in named reads.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Coach mirrors the content (six weeks, team, pitch) but does not name the rush or urgency signature driving the opening.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Blind question into 'the lag' without naming what the coach notices about the client's stance or pace.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach notices a content-level contradiction (knows but doesn't do) but does not name a read about how the client is showing up — the defendedness, the rush.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach refuses the framework (good move) but still does not name what they are seeing — the rush signature, the defending, the looking-for-what's-wrong. Question is unanchored to any observed state.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"'That's a lot to be carrying' is a generic empathic reflection, not a specific AoA read. Misses the chance to name the escalating urgency or the 'I don't have bandwidth for this' as itself the material.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach follows the client's pragmatic redirect without naming the pattern of redirection itself.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\"],\n  \"notes\": \"The coach made some decent intervention choices (refusing to hand over a framework in turn 8) but those belong to D2. On reads specifically, the coach is operating almost entirely on content with no visible naming of the client's stance, pace, or defensive signature.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1832,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 953,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1832,
+    "output_tokens": 953,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

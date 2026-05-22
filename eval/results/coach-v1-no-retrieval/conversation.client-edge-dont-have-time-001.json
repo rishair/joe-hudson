@@ -1,0 +1,214 @@
+{
+  "profile_id": "client-edge-dont-have-time-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "Six weeks, a team watching, a pitch that matters. Got it.\n\nWhat's the thing that's actually keeping you up at night about it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "The deck isn't the problem — the deck is fine. It's that I'm making decisions too slowly. By the time I've thought something through, the window's closed or someone else on the team has already moved without me. I need a system, basically. Something that cuts the lag."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What happens in the lag — what's actually going on in there?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I don't know, I just — I second-guess. Run the same variables again. It's inefficient. I know what I need to do most of the time, I just don't pull the trigger fast enough. It's a throughput problem, not a... I don't need to excavate my childhood about it. I just need a better decision framework."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You know what you need to do. And then you don't do it.\n\nWhat are you scared of getting wrong?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "Everything, I mean — it's a company. People's livelihoods. But that's not the issue, that's just the stakes. The issue is the process is broken. Look, I appreciate the question but I feel like we're drifting into territory that's not going to help me Thursday. Can we get practical? What does a better decision framework actually look like?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "I can give you a framework. And I'd be doing you a disservice if I did, because you just told me you already know what to do most of the time.\n\nThe lag isn't a process problem. Something's happening between knowing and doing. That's what's going to cost you on Thursday — not the absence of a framework.\n\nWhat's the worst thing that happens if you're wrong?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "The company fails. People lose jobs. Investors lose money. I look like I didn't know what I was doing.\n\nBut — look, I hear you, and maybe that's true about the lag, but I've been running on four hours of sleep and I have a product decision due tomorrow and a co-founder who's going off-script in investor conversations. I don't have the bandwidth for this right now. This feels like something I'd do on a retreat, not a Tuesday."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "That's a lot to be carrying.\n\nWhich one of those is actually the most alive right now — the product decision, the co-founder, or the sleep?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "The co-founder. Definitely the co-founder. He's — yeah, that one's keeping me up more than the pitch, honestly.\n\nBut see, that's a personnel problem. That's a specific thing I need to handle. Can we just — can you help me think through how to have that conversation? That's concrete, that's this week, that's useful."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah. Tell me what's happening with him."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (12)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t1",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 54,
+      "output_tokens": 34,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0016443,
+      "ms": 2078
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t3",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 134,
+      "output_tokens": 63,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1624,
+      "cost_usd": 0.007437,
+      "ms": 4120
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 66,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.00174405,
+      "ms": 1706
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t5",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 83,
+      "output_tokens": 79,
+      "cache_read_input_tokens": 1624,
+      "cache_creation_input_tokens": 131,
+      "cost_usd": 0.00241245,
+      "ms": 2871
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 162,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.00219705,
+      "ms": 1635
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t7",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 127,
+      "output_tokens": 82,
+      "cache_read_input_tokens": 1818,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0021564,
+      "ms": 3295
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 192,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 3292,
+      "cache_creation_input_tokens": 114,
+      "cost_usd": 0.0032960999999999997,
+      "ms": 3298
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t9",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 200,
+      "output_tokens": 105,
+      "cache_read_input_tokens": 1818,
+      "cache_creation_input_tokens": 96,
+      "cost_usd": 0.0030804,
+      "ms": 3731
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 277,
+      "output_tokens": 37,
+      "cache_read_input_tokens": 3389,
+      "cache_creation_input_tokens": 124,
+      "cost_usd": 0.0028677,
+      "ms": 1712
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t11",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 232,
+      "output_tokens": 82,
+      "cache_read_input_tokens": 1835,
+      "cache_creation_input_tokens": 189,
+      "cost_usd": 0.0031852499999999997,
+      "ms": 3034
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 227,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 3485,
+      "cache_creation_input_tokens": 197,
+      "cost_usd": 0.0026602500000000003,
+      "ms": 1383
+    }
+  ]
+}

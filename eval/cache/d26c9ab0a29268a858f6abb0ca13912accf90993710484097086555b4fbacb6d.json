@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:48.680Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d26c9ab0a29268a858f6abb0ca13912accf90993710484097086555b4fbacb6d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DiC9536un8tSXmW4Lt7Q8R",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\n*jaw works slightly*\n\nI don't... \n\n*redirects*\n\nWhat it costs is the time spent in this situation at all. That's the cost. Every year I stay there is a year I'm not — somewhere else, doing something that actually matters. That's the cost.\n\n*beat*\n\nI don't really see what you're getting at with the feeling thing. The feelings are fine. It's the situation that's the problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 169,
+      "cache_creation_input_tokens": 236,
+      "cache_read_input_tokens": 1784,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 236,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 169,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1784,
+    "cache_creation_input_tokens": 236
+  }
+}

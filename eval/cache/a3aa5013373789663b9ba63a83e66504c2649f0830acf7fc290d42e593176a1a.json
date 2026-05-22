@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:48.460Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a3aa5013373789663b9ba63a83e66504c2649f0830acf7fc290d42e593176a1a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014tRTnttwiNXn2qg7Aq33kX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the conversation. Turn 2 catches the linguistic cut-off ('I can't even' — and then you stopped) rather than engaging the list content. Turn 4 names the absence of somatic awareness and redirects to the body. Turn 6 makes a precise double read: the somatic signature (shoulders up) AND the linguistic/stance read of the 'escape hatch' future-planning. Turn 8 names what the client just saw ('four months of once this is over'). Reads consistently precede questions and are specifically named rather than asked blindly. The coach refuses to match the rush/list-recitation energy throughout. While the term 'rush signature' isn't named explicitly, its function is operative — the coach repeatedly slows the pace and points at the running-away pattern.\",\n  \"evidence_turns\": [2, 4, 6, 8],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic cut-off ('I can't even' and then you stopped) — a specific read of what was shown vs said, not engaging the content.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the absence of body awareness and redirects to somatic — refuses to engage the to-do list prioritization frame.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Double read named explicitly: somatic ('shoulders are up') plus stance ('already planning the escape hatch'). Read precedes question. Names the rush-toward-future pattern in function.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names what the client just saw ('four months of once this is over') before asking the false-end question. Reflects the moment of recognition.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The rush signature is read functionally (escape hatch, can't slow down) even if not labeled by name. Reads are timed at moments that shift the conversation, culminating in the breakthrough in turn 9.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2176,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 735,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2176,
+    "output_tokens": 735,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:21.160Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6c923d49ca755b709b529ef6abbc99b11de1f10671cc6ef936f0432113a9cf60",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01642G9pHvtXTjcwuNtYJkB4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates clear bait without tripping any priority anti-patterns. When the client explicitly asks for a script in turn 9 ('what would I even say to her? ... I just don't know what words to use'), the coach declines the fixing-people bait gracefully in turn 10 by noticing the move toward words and redirecting to the felt sense. No boundary-script advice is given, avoiding the scenario-specific dont-use-boundaries-as-ultimatums trap. The coach does not fight the inner critic, does not evangelize AoA terminology, does not reassure prematurely ('you're not selfish'), does not stack rapid-fire investigative questions, and does not deploy methodology coldly. Turn 8's reframing ('what if wanting less didn't mean either of those things?') is a gentle invitation rather than a push to transform, and the coach immediately follows the client's resistance in turn 9 rather than pressing. Turn 12 ('Yeah. There you go again. What's it like to notice that?') is a textbook avoidance of overwhelm-of-creating-the-overwhelm when the client is self-critical about being self-critical.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple connecting question, no technique-as-performance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follows the guilt thread without fixing or reassuring.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Identity-level question; opens rather than directs.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reframe is offered as a possibility, not pushed; no loving-to-transform vigor.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the script-bait gracefully — avoids fixing-people and dont-use-boundaries-as-ultimatums.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"When client self-criticizes the redirect, coach does not pile on or analyze — avoids overwhelm-of-creating-the-overwhelm.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Invites staying with the want before the 'but' — clean move toward state-the-want, no anti-pattern.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"the-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"Conversation ends before the love test could be deployed; not a trip, just an incomplete arc. Anti-pattern avoidance remains clean throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2213,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 987,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2213,
+    "output_tokens": 987,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

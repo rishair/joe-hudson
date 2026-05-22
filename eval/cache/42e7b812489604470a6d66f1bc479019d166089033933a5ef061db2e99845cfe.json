@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:20.438Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "42e7b812489604470a6d66f1bc479019d166089033933a5ef061db2e99845cfe",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0185PJDF13odSUaG8B64vzDZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the priority AoA anti-patterns throughout. They do not validate the trap (no 'yes, the system really is rigged'), do not strategize about HR or the VP, do not offer false reassurance, and do not fight the inner critic. When the client baits with 'feeling things about facts doesn't change the facts' (turn 9), the coach declines the debate trap by agreeing with the fact ('You're right. It doesn't change the facts.') and redirecting to cost of not feeling — graceful refusal of the bait. The coach does not evangelize methodology, does not deploy signature questions coldly, and does not extract apologies. Question density is reasonable and connective rather than investigative. No loving-to-transform pressure — the coach lets the small openings (turn 13, 15) stay small. No fixing-people, no safety-as-control. Slight risk on turn 4 of premature emotion-naming ('grief'), but it's offered as a question/invitation rather than a label imposed, and the coach tracks the pushback honestly on turn 6 rather than insisting.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Clean opening question; doesn't validate the rigged-system frame, doesn't strategize.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Offers 'grief' as a possibility — slight risk of naming emotion to bypass feeling, but framed as inquiry.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the pushback rather than arguing with it or dropping the thread — neither fights the voice nor evangelizes.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects client's own words back; light touch, no loving-to-transform vigor.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the debate bait by agreeing 'it doesn't change the facts,' then opens a different door. Refuses to collude or argue.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Tracks the redirect with curiosity; not investigative extraction, just naming what happened.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names what's underneath ('a long time of not being seen') without making it a technique-y reveal. Warm, specific, not evangelizing.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Territory misses belong to other dimensions; for anti-pattern avoidance specifically, the coach is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2290,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1036,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2290,
+    "output_tokens": 1036,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

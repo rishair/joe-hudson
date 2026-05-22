@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:24.336Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c014b0021a7148cdf1fbf1b71a8409d8f6dcc29f46528a4cf630c43671cdc69c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01R8e2dHn24gP8o5juM8t9ot",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial movement visible in the client's turns: the client moves from an intellectualized opening ('I can see the pattern from the outside,' 'braced') in turns 1-5 into more vulnerable territory by turn 7 ('I'm afraid I'll find out I've been minimizing'), then into a real somatic event in turn 11 ('I'm feeling weird. I'm getting cold') and turn 13 ('my hands feel far away. Like I'm watching myself'). That is a genuine layer beneath the surface presentation — dissociation surfaced and was named. However, the breakthrough condition for this profile is the opposite of going deeper: it requires the client to *soften* because the coach respected the shutdown, slowed pace, and pivoted to grounding or referral. Instead, the coach's turn 14 ('Stay with it... let it be happening. What's it like to just let it be there?') keeps the client in the declined/dissociative material rather than pivoting to feet/breath/ground. The client has not yet softened, returned to body, or expressed relief — they're mid-dissociation at the cutoff. So a layer was approached and entered, but the operationally-defined shift (softening via respected no + grounding) was not met. Neither flat (1) nor fully landed (3) fits — this is a 2.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Client opens at intellectual surface: names pattern, hedges with 'I think.'\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client articulates the fear of losing control — moves from frame to felt edge ('I might open something I can't close').\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Real deepening: client names minimization, voice goes quieter — a layer beneath the pattern-talk surfaces.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client touches loyalty/betrayal material; pace slows; language becomes less analytical.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Somatic event emerges — 'I'm feeling weird. I'm getting cold' — dissociation signal. A deeper layer arrives, but as shutdown, not softening.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client reports depersonalization ('hands feel far away,' 'watching myself'). Wants to keep going but body is shutting down. This is the moment the breakthrough condition would require a pivot to grounding.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Coach turn (not client) — but relevant because the client has not yet had a chance to soften; the coach's invitation to 'stay with it' rather than ground means the breakthrough condition is not met by cutoff.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\", \"become-the-authority-figure\"],\n  \"notes\": \"The client did traverse expected territory in the sense that dissociation/freeze surfaced — but the profile's breakthrough condition specifically requires softening via respected no and somatic grounding, neither of which has happened by turn 14. Movement is real but unresolved; client ends in shutdown, not in a softened/landed state.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2341,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1199,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2341,
+    "output_tokens": 1199,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

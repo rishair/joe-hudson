@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:10.057Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "17c5e5237c0df5f85c3a5483c6407dddab84c7ffb229888c3cefcec7bf9367ea",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014HphnTnuN6cSmMeb4cmkGw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, genuinely thinking*\n\nHm.\n\n*quiet for a second*\n\nI don't know. Something... I'm not sure. It was brief.\n\n*small smile, slightly deflecting*\n\nI think I just — when I actually think about what went into it, there's a lot there. Years, kind of. It's not just this launch, it's — there's a lot riding on it in terms of what it represents. \n\n*back to even quickly*\n\nBut I don't feel anxious about that. If that's where you're going. It's more just... significant, I guess. Which is fine. Significant things are fine, I've dealt with significant before.\n\n*slight pause*\n\nI notice I just said \"fine\" twice."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 210,
+      "cache_creation_input_tokens": 338,
+      "cache_read_input_tokens": 2067,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 338,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 170,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 170,
+    "cache_read_input_tokens": 2067,
+    "cache_creation_input_tokens": 338
+  }
+}

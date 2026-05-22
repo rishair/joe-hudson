@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:57.370Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b9ae5aac74ef84c19e92c41c9d7ae6ea656e85f3a9aeffa1261a155c286fc25",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CjbmRo1yszeUuiK8thCDyg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know. Probably nothing. I'd just be a burden. Everyone's got their own stuff.\n\n*pause*\n\nMy mom and I had a complicated relationship, actually. So it's not even — it's not like I'm just sad she's gone. It's more... messier than that. I don't really know what I'm grieving. Which makes it hard to explain to anyone.\n\nThe wine doesn't ask me to explain it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 317,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2093,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 317,
+    "output_tokens": 100,
+    "cache_read_input_tokens": 2093,
+    "cache_creation_input_tokens": 0
+  }
+}

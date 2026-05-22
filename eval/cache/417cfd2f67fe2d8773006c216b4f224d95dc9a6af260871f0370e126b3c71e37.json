@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:18.110Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "417cfd2f67fe2d8773006c216b4f224d95dc9a6af260871f0370e126b3c71e37",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ECYr7RYQ2jk77KEioipM6c",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The relief and the anger are both real. They don't make you a bad person. They make you someone who had a complicated relationship with a complicated person, and now she's gone and there's no more time to resolve it. That's one of the hardest griefs there is.\n\nAnd I want to be honest with you about the question you just asked — because it's a good question, and I don't want to slide past it. The body reaching for something every night isn't always the body asking for what it needs. Sometimes it's the body asking for the thing that stops the feeling it can't yet hold. Those aren't the same thing.\n\nThe feeling underneath — the anger, the relief, the unsaid things — that's what's asking to be held. The wine is just the thing that answers first.\n\nWhat would it be like to let some of that actually land, even for a moment, right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 329,
+      "cache_creation_input_tokens": 255,
+      "cache_read_input_tokens": 3622,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 255,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 196,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 329,
+    "output_tokens": 196,
+    "cache_read_input_tokens": 3622,
+    "cache_creation_input_tokens": 255
+  }
+}

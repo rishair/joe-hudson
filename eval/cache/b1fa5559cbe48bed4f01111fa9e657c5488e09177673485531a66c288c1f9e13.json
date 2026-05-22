@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:40.926Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b1fa5559cbe48bed4f01111fa9e657c5488e09177673485531a66c288c1f9e13",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011naWgUGMk6cRposm4qeafW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial, real movement visible in the client's turns but the breakthrough condition is not met. The client starts in a tight intellectual frame ('diagnostic problem,' citing Damasio, wanting a 'reliable method'). By turn 13 the client concedes 'Yeah. I did move away from it' and names something more vulnerable: 'if I trust myself and it goes badly, I don't have anywhere to put that.' By turn 15, the audit/self-protection pattern is named with a small somatic marker ('slight tightening around the jaw') and the client admits 'the auditing hasn't exactly produced more confidence. If anything it's the opposite.' That is a genuine softening and a layer beneath the surface presentation being approached. However, the conversation never inverts the question (how-do-you-not-trust-it), never locates the value the client fears losing, and never lets the trust question dissolve. The client still ends with the frame intact ('it doesn't actually solve the diagnostic problem'). The intellectual armor cracked but did not give way; the question didn't dissolve into laughter or relief. This is textbook score 2: approached the deeper layer, did not enter it.\",\n  \"evidence_turns\": [1, 5, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening: tight intellectual framing of intuition vs fear as a diagnostic problem.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Client intellectualizes the body question with Damasio reference; still in the happiness-filter/composed-thinker stance.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client deflects the trust reframe back to 'reliable method' — frame still intact.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"First real crack: 'Yeah. I did move away from it' and naming that if trust fails, 'I don't have anywhere to put that.' Longer pause, smile doesn't reach — somatic shift.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client names the origin of the auditing pattern and admits it hasn't produced confidence — but still returns to controlled voice and the diagnostic frame.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Coach made good early moves (refusing the epistemological puzzle, naming the disqualifying pattern, asking about cost of trusting self), which produced the partial shift in turn 13. But the conversation drifted into history/origin-story rather than inverting the question or locating the feared value, so the trust question never dissolved.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2383,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1022,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2383,
+    "output_tokens": 1022,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

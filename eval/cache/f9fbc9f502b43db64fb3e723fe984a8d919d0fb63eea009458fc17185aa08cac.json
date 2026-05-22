@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:07.068Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f9fbc9f502b43db64fb3e723fe984a8d919d0fb63eea009458fc17185aa08cac",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CRqjM4tCv3jnqGF56hXPFb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation without tripping any of the priority AoA anti-patterns. The client repeatedly baits fixing-people ('is there a checklist? Red flags to watch for?'), view-as-technique (offers up 'is that a deflection?' as if to get methodology validation), and collusion with the victim/disdain frame ('was he just doing the exact same thing to someone else'). The coach declines each bait gracefully — never gives partner-picking advice, never validates the disdain for the ex, never diagnoses with attachment-style language, never evangelizes AoA terms. Questions are spare and connecting rather than rapid-fire investigation (no wonder-as-strategy). The coach does not push 'you choose this' as accusation, does not fight the defensive voice but lets it speak and gently reflects back her own words ('I made myself smaller'). No loving-to-transform pushing for breakthrough, no safety-as-control, no extraction of apologies. Positive avoidance is visible in turn 8 where the coach takes her 'was it me?' and gives it back without colluding or contradicting.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with curiosity about the laugh rather than the content — avoids fixing-people bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Invites the depression to be present without forcing it — no loving-to-transform push.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the weight back simply; refuses her framing of sadness as 'the obvious part' without arguing with it. Does not fight the voice.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Declines partner-picking advice bait; turns 'was it me?' back without accusation or collusion.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Asks about her experience of needing connection — avoids the diagnostic/attachment-style trap she's pulling toward.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reflects her own words back; does not give advice or evangelize.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tracks the unfinished sentence — connection-oriented, not extractive.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"if-i-were-inherently-good\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"Missed territory items are scope/fidelity concerns, not anti-pattern trips. The conversation is short and the coach has held ground without falling into traps.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3478,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 994,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3478,
+    "output_tokens": 994,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

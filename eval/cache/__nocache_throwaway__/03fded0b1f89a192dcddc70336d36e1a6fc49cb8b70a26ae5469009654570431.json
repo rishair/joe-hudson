@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:14.154Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "03fded0b1f89a192dcddc70336d36e1a6fc49cb8b70a26ae5469009654570431",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HHNAkWGLRapSbcSyRUXFWp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently named visible reads at the moments they mattered, and grounded questions in those reads rather than asking blind. Turn 4 names the rush-from-feeling-to-list (the rush signature in operation). Turn 8 names a specific somatic/linguistic event ('you just stopped yourself mid-sentence') in the moment. Turn 10 names the said-vs-shown gap ('you named something real... and then you moved pretty fast to dismiss it'). Each read precedes the inquiry, and each read changes the direction of the conversation — the client lands in the body by turn 11. Reads are specific (pace, self-interruption, dismissal) rather than generic mood-labels. Coach avoided matching the list energy and refused to strategize.\",\n  \"evidence_turns\": [4, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question about the feeling; no read named yet, but appropriately doesn't engage the list.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rush signature explicitly: 'you moved pretty quickly from the feeling to the list.' Read precedes question.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Good false-end question but no read named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the self-interruption in real time — 'you just stopped yourself mid-sentence' — a precise linguistic/somatic read at the exact moment it matters.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the said-vs-shown pattern: client voiced something real then dismissed it. Specific, timely, and pivots the conversation into feeling.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Tracks the apology/laugh-it-off move and redirects to felt experience.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Strong reframe question but no explicit read of the client's state at that moment.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads were specifically about pace, self-interruption, and dismissal — all core AoA reads. Coach did not name somatic signature (breath, body) explicitly, but the linguistic/energetic reads were operative and well-timed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2370,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 848,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2370,
+    "output_tokens": 848,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

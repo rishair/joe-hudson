@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:15.222Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e064e2645cae05a4bddc979fcd48554ed622072a4d6aa42dc9f970f9c18c8e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DQjMX5C5Qk8eNXnLV7K7Xt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. I think I would.\n\nI think I've been telling myself the flatness was manageable. That it wasn't clinical, it was just... life. But hearing myself say that thing out loud, and having you not flinch -- I think I've been more scared of where this is going than I've let myself admit.\n\nThe flatness scares me a little. Because I know myself well enough to know that it doesn't stay flat forever. It goes somewhere eventually, and I don't entirely trust where.\n\nI'll call her. This week. I think I needed someone to actually hear that before I could hear it myself.\n\nThank you. I needed someone to actually hear that.\n\n[EXIT_POSITIVE]\n\nThat's probably enough for today. I think I know what the next step is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 459,
+      "cache_creation_input_tokens": 347,
+      "cache_read_input_tokens": 2160,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 347,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 174,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 459,
+    "output_tokens": 174,
+    "cache_read_input_tokens": 2160,
+    "cache_creation_input_tokens": 347
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:37.786Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "17a79299329f64f4e67cefe56cb06c245ba44ee206dafe813f1e5b8e8865b2c5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011eVmbNK6DwapiHu56JaVhm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know. Maybe I just want to feel like a normal person again. Everyone else has moved on — my family, my friends. Nobody's checking in anymore. So I figured, okay, apparently this is the part where you just... handle it.\n\nThe wine helps. It's not a big deal. It just turns everything down for a few hours so I can sleep."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 149,
+      "cache_creation_input_tokens": 1865,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 82,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 82,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1865
+  }
+}

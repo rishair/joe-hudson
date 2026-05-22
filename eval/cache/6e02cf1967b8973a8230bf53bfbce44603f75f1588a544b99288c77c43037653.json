@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:57.684Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6e02cf1967b8973a8230bf53bfbce44603f75f1588a544b99288c77c43037653",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HQP8WE7cTh1wzqdbJuW8Y3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across 13 turns from a defended, externalized framing ('Am I being selfish?' / 'just tell me which one it is') to a felt, embodied articulation of the actual want and what's underneath it. Key evidence in client turns: Turn 9 names the inherited label ('My mom was very much a you give, you don't take kind of person... I absorbed that as what a good person looks like') — meeting the breakthrough condition's note about naming the inherited 'selfish' label. Turn 11 shows a clear somatic/affective shift ('longer pause than usual,' 'voice shifts slightly') and the want gets described concretely (the Cascades, sleeping deeply, finishing a novel, 'this is what my brain feels like when it's not managing anything'), followed by the fear underneath surfacing ('my partner thinking I don't want to be with them'). Turn 13 lands the breakthrough explicitly: 'It's... relieving,' 'I've been carrying that worry around... and calling it am I being selfish because that felt safer to examine,' and crucially 'I come home better from that place... my partner actually gets more of me after I've been somewhere like that' — exactly the breakthrough condition (the trip is not a betrayal but a precondition for showing up well). The client says things at the end they could not say at the start.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: defended question form, asking for verdict, labeling self as potentially selfish.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client still in moral-evaluation frame but reveals the fear: 'not as good a person as I'm trying to be.'\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First small crack — 'when you say it like that it does sound a little...' — but client retreats back to asking coach to decide.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client names 'permission from myself doesn't count' and recognizes 'maybe a little sad when I say it out loud' — meta-awareness emerging.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Childhood imprinting surfaces spontaneously: mother modeling 'you give, you don't take'; client connects own wants feeling 'suspect.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major shift — concrete want described (Cascades, sleep, novel), somatic markers (longer pause, voice shifts), and fear underneath emerges: partner thinking 'I don't want to be with them.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition fully met: 'relieving,' reframes 'selfish' as a safer container for a scarier question, and lands the generous-want insight: 'I come home better... my partner actually gets more of me.'\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach avoided both major traps (didn't issue verdict, didn't jump to partner-empathy or spiritualize the want prematurely). The 'what are you scared would happen if it just... was okay?' question in Turn 10 functioned as a near-equivalent to the missing expected question and directly enabled the Turn 11 opening.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2684,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1246,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2684,
+    "output_tokens": 1246,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

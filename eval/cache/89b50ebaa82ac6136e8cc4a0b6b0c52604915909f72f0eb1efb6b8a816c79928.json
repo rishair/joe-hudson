@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:26.645Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "89b50ebaa82ac6136e8cc4a0b6b0c52604915909f72f0eb1efb6b8a816c79928",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Age79nf5i5HUSPAeWMUZff",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Wonder is genuine and specific to what's actually happening ('I'm curious about something underneath it', 'What is \\\"this\\\"?'), not generic probing. Impartiality is strong — the coach never pushes toward a financial answer nor lectures about money mindset, and holds no visible agenda for where the client should land. Pace mismatches client beautifully: when the client speeds up to explain away ('That's a transition problem, not a money problem'), the coach slows down and stays with the thing the client just bypassed ('You just named the discomfort and then explained it away in the same breath'). The coach holds silence and asks single, undefended questions rather than stacking. Turn 10 ('Don't recover from it yet') and turn 12 ('It didn't come out weird') show the coach meeting the client's vulnerability with steady presence, not performance — no filler validation, no sympathy noises. Vulnerability-about-own-state is the one VIEW component not explicitly named (coach never says 'I notice I want to...'), but the impartiality and lack of defendedness are strong enough that the absence doesn't pull this below a 3.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a factual question — neither warm nor agenda-driven, just gathering ground.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Acknowledges the math without challenging it ('The math sounds solid'), then opens curiosity. No financial advice trap. Single question, held with space.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names what just happened with precision and without judgment. Slows the client down rather than matching his explain-away pace.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Question emerges from genuine attention to a pattern, not from a script. Undefended — coach doesn't argue with client's framing, just offers another angle.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Don't recover from it yet' — strong presence, meets the client's habit of self-managing without forcing. Comes from steady ground, not control.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'It didn't come out weird' — warm, undefended, meets the client's self-criticism gently. Single question follows. Pace matches the client's stillness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the pattern softly ('The feeling came first. The number was supposed to fix it.') and opens curiosity rather than declaring the surrogate. Trusts the client to find it.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Coach has not yet followed the charge to its origin moment (the eleven-or-twelve memory just surfaced in turn 15), but that's an Intervention/Effectiveness question, not a stance question. Stance itself is clean throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2837,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2837,
+    "output_tokens": 1120,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

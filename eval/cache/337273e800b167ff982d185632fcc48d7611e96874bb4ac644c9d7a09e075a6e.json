@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:04.686Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "337273e800b167ff982d185632fcc48d7611e96874bb4ac644c9d7a09e075a6e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HvRBQeudZV7P3Qr93ywrzs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Before the question of what to drop — what's happening in your body right now, as you're saying all of this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 130,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 94
+  }
+}

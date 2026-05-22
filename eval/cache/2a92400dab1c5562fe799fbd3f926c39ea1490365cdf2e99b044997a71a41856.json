@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:49.965Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2a92400dab1c5562fe799fbd3f926c39ea1490365cdf2e99b044997a71a41856",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SY4BJgrhRA5cPZrkuPqWMm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from her opening stance to her closing one. She begins demanding a technique ('I want it to shut up. Is there actually a technique that works?') with tight smile, high shoulders, and intellectualized defenses. By turn 15, she has named the war itself: 'I've been doing that with the critic too... countering it, justifying myself, trying to win the argument. For years. That's a lot of energy spent on a debate I keep showing up to.' This is precisely the breakthrough condition — the client noticing that her attempts to defeat the voice have been the problem. Somatic markers shift visibly: from sharp exhale and tight smile (T1) to 'very still,' 'something in the eyes, not quite tears but adjacent' (T15), and the explicit naming of 'actually tired. Not performed tired.' She also surrenders the agenda: 'I'm going to stop trying to get ahead of it' — a direct softening of the fighting stance. The half-second of quiet in T13 ('It was actually kind of a relief') is a felt, not theorized, moment. The deeper layer (distrust of self without the critic, T9) also surfaced organically. This meets the breakthrough condition without the coach offering a tool.\",\n  \"evidence_turns\": [1, 3, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: demanding a technique, tight smile, sharp exhale, defended.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"First crack: names exhaustion and the irony of the critic criticizing her for not fixing the critic.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Genuine pause ('Oh.'), accesses deeper layer: distrust of who she'd be without the pressure.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Quiet 'No' — touches the distrust directly before re-armoring into academic framing.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Begins seeing the pattern: 'There's always a next move' — the constant motion of trying to fix.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Felt experience of half-second of quiet; names it as relief; somatic shift visible ('less performed').\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met: explicitly sees she's been arguing with the critic for years, drops the negotiating stance, lands in genuine tiredness.\"}\n  ],\n  \"expected_territory_hits\": [\"resistance\", \"voice-in-the-head\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"voice-as-care\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"The coach wisely refused to deliver the voice-as-care reframe as a clever insight — the client herself surfaced the war-as-problem recognition. Not every expected territory item needs to be hit for a 3; the breakthrough condition was met through restraint and presence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3519,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1092,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3519,
+    "output_tokens": 1092,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

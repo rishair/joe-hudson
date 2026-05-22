@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:51.978Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3091bc5f6a2e82d149f597eeab756bbecb613aad9d39e727348dc126db751c0f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WajG7yXfbpvZWKfdUfJQm5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That isolation — being the logistics person while nobody asks about you — that's its own kind of loss on top of the loss.\n\nI hear you that it feels manageable. I'm not going to argue with you about it. But I want to be honest: a bottle a night, alone, carrying grief nobody's witnessing — that's the kind of thing that quietly becomes something harder to put down. Not because you're weak. Because it's working, for now.\n\nWhat would it mean to actually let someone know how you're doing?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 284,
+      "cache_creation_input_tokens": 100,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 100,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 284,
+    "output_tokens": 115,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 100
+  }
+}

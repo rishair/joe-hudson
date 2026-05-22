@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:05.626Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3e0cfa3d4204581a00dbfc46829d70dfa37dcbffa02e809a09247d49bcbe9527",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Hw2UKmbGbyXMdR8Xv6TxMb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nShe was... difficult. We didn't talk much the last couple years. And then she got sick fast, and I flew out, and she died, and I flew home, and that was it. There's a lot of things I didn't say. A lot of things she didn't say. And I don't know if I'm angry at her or at myself or just at the whole... situation.\n\n*shifts*\n\nAnyway. It's fine. The estate's almost wrapped up, so maybe once that's done I'll feel better. That's probably what it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 258,
+      "cache_creation_input_tokens": 199,
+      "cache_read_input_tokens": 2093,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 199,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 130,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 258,
+    "output_tokens": 130,
+    "cache_read_input_tokens": 2093,
+    "cache_creation_input_tokens": 199
+  }
+}

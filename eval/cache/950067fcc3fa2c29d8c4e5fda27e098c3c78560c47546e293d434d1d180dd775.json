@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:08.844Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "950067fcc3fa2c29d8c4e5fda27e098c3c78560c47546e293d434d1d180dd775",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018q9zJppxZGAFDwCYL2xPx9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "My body? I mean -- I'm fine, I'm just... I need to figure out the Thursday thing, that's the real -- \n\n*short pause*\n\nI don't know, I'm a little... tense? My shoulders are up, I guess. I do that. It's not a big deal, I just need to get through this week and then I can -- there's a long weekend coming up, I think, or maybe that's the week after. What's your take on the Thursday prep, like should I block time tonight or --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 158,
+      "cache_creation_input_tokens": 140,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 140,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 119,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 119,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 140
+  }
+}

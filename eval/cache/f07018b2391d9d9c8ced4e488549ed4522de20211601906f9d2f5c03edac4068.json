@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:06.387Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f07018b2391d9d9c8ced4e488549ed4522de20211601906f9d2f5c03edac4068",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WUhMTFJ1Hy7H1cHKRtPSSC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You caught yourself.\n\nWhat just happened when you did that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 469,
+      "cache_creation_input_tokens": 293,
+      "cache_read_input_tokens": 3481,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 469,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 3481,
+    "cache_creation_input_tokens": 293
+  }
+}

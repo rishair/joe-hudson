@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:48.443Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4ab8d9c45c8aa6e31d2931de62cc7b6dbfaec70848a9605c68c20247541a025f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016YR5eVJqKYF3fB85fBUmx3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. I'm not convinced by it.\n\nI think... I learned to manage things so well that I managed myself out of the picture somewhere. That's the more honest version. I've done therapy, I've done the meditation, the journaling -- I know how to process. I know how to name things and set them down. And somewhere in all that I got very good at the setting down part and forgot how to just... be in something.\n\nBut I don't know what to do with that. It's not like there's an obvious thing I missed. My life is genuinely fine. The relationship is stable, work is going well. There's no crisis to point to. Which almost makes it harder to explain."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 162,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2001,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 153,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 153,
+    "cache_read_input_tokens": 2001,
+    "cache_creation_input_tokens": 0
+  }
+}

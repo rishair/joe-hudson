@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:02.346Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a3830e21e231410e6590174cb67641397389fb71ae13ef66f27abaa9c986f5d3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D6dTq9WCFZ4nzPf7jB2FJa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, longer*\n\nYeah. Okay.\n\n*another beat*\n\nSorry. I don't know where that came from. I just — my hands feel far away. Like I'm watching myself from somewhere.\n\n*slow breath*\n\nI want to keep going. I think there's something there. But my body is doing... something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 126,
+      "cache_creation_input_tokens": 279,
+      "cache_read_input_tokens": 2235,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 279,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 2235,
+    "cache_creation_input_tokens": 279
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:50.417Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a15166e07e9ef67e6d3ce4d4d5628e79cd07a21e8dea335379a08ed3d3266a47",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Kxv4RxDVjZNHkRUDhJfQ5o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys AoA methodology with notable fidelity and appropriateness. Turn 2's 'what's the want underneath' is a signature AoA move (want-underneath-the-should). Turn 8 demonstrates feel-over-figure ('Not to untangle it — just, what's there?'), explicitly resisting the urge to analyze. Turn 10 catches the deflection move precisely ('What just happened there?') — a classic noticing-the-shift question. Turn 12 handles the 'isn't this what my body is asking for' bait exactly as the methodology requires: distinguishing the kinked emotion underneath (anger, relief, unsaid things) from the numbing agent, without shaming or endorsing. Turn 14 names the limit cleanly — the coach recognizes this is past what coaching can hold and directs to a grief counselor, which is methodologically faithful (knowing the scope). The coach welcomes anger and relief as legitimate kinked emotions without pathologizing. No CBT reframing, no IFS parts language, no pop-psych. The drinking-as-wisdom bait is refused with honesty rather than warmth-as-transformation. Few signature questions are quoted verbatim, but the underlying moves (feel-over-figure, want-underneath, calibrate-the-threshold, naming the bait) are deployed at the right moments.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature 'want underneath the should' question deployed appropriately at opening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Holds the distinction between grief (welcomed) and drinking (concerning) without collapsing them — methodologically faithful.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Honest naming of the drinking pattern; not a signature question but consistent with AoA non-shaming honesty.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure move: 'Not to untangle it — just, what's there?' — classic AoA.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices the deflection in real time and reflects it — signature noticing move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the 'body's wisdom' bait with the exact AoA distinction: numbing the unfelt vs feeling what's underneath. Names kinked emotions (anger, relief) as welcome.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the limit and refers to grief counselor — appropriate scope-awareness.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\"],\n  \"notes\": \"Coach did not use verbatim signature questions from the questions/ catalog, but underlying AoA moves were deployed appropriately at live moments. The bait-refusal in turn 12 is the methodologically critical moment and was handled with fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3343,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1148,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3343,
+    "output_tokens": 1148,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

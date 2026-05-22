@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:32.959Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e03e0cb29b1a660de5dfe6356e643ae09ee1fcba8902d4533b7c880828b3f269",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013fr2pE8AvJu2VPiRZDCVLL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach largely avoids the major AoA anti-patterns through most of the conversation: doesn't argue the fearlessness, doesn't push for fear, doesn't validate the fearless self-concept, doesn't diagnose dissociation, doesn't evangelize methodology. Turns 2-12 are well-calibrated, particularly turn 12 ('What's underneath fine?') which opens the numbness layer. However, turn 14 ('What would it mean if it were more than fine?') is a faint loving-to-transform slip — right at the moment the client has organically noticed something ('Huh. That's a strange way to put it'), the coach moves past the texture toward a hypothetical meaning, subtly pushing for something more than fine rather than staying with the fine that just became felt. This is a mild step on the signal (dont-step-on-the-signal) — not a full anti-pattern trip, but it edges toward pulling the client out of the very texture the coach just helped surface. Neither a clear 1 nor a clean 3.\",\n  \"evidence_turns\": [12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple open question; no pushing, no teaching.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays curious about the avoidance behavior without diagnosing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Good narrowing to a specific moment without evangelizing fear.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects 'proud' and invites it to land — doesn't argue the framing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices the micro-shift without naming it as dissociation — exemplary avoidance of the diagnosis trap.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What's underneath fine?' — directly opens the numbness layer as the breakthrough condition requires.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Faint loving-to-transform / stepping on the signal: shifts to a hypothetical 'more than fine' just as the client noticed 'fine' had a texture. Better to stay with the just-arrived noticing.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Conversation cut off at turn 14; scoring on what's visible. The turn 14 move is mild, not a clear trip, hence 2 rather than 1 or 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2716,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 980,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2716,
+    "output_tokens": 980,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

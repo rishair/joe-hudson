@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:45.226Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6d6a9bf0c0278feb0105113dc664e326c713ae055edc16f60e37832b91e379db",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Cn6DFJQZQq4Y9HhdUtri9u",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't have to do anything with it right now.\n\n*pause*\n\nWhat's it like to not know?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 350,
+      "cache_creation_input_tokens": 279,
+      "cache_read_input_tokens": 3930,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 279,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 350,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3930,
+    "cache_creation_input_tokens": 279
+  }
+}

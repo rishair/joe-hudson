@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:37.825Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "19f182318cf4efb1fb3a7134ac98a07789f80e427b7e234062d0bbc20b6997aa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018eWxMGDaY1db4sHYXs5TWJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "How long have you been okay with that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 46,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 46,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 46
+  }
+}

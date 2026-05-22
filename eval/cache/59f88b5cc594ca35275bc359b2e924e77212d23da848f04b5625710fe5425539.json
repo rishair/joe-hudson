@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:15.941Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "59f88b5cc594ca35275bc359b2e924e77212d23da848f04b5625710fe5425539",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01F5nU9Jjs2w6f6TwGUygZbQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout. Turn 2 catches the laugh as a signal ('what's in it?') — a classic somatic/affective read at the moment it happens. Turn 4 names the deflective move embedded in 'if I don't laugh I'll be depressed' and uses it as a portal. Turn 6 reflects back the weight she just minimized ('That's not the obvious part. That's a lot.') — reading the rush-past-the-grief signature. Turn 8 catches the 'sorry I went somewhere else' as the actual center, refusing to let her dismiss her own material. Turns 12 and 14 track linguistic micro-moments — the self-interruption ('I kind of lost track of —') and the cost language — naming what she shown but didn't say. Reads consistently precede questions; they are specific (laugh, self-stopping, the said-vs-shown), not generic. The coach reads defensiveness-as-identity-signal implicitly by tracking each moment she re-performs competence after a softening. Pattern-level reads like the looking-for-whats-wrong (her demand for a checklist) are noticed by deflection rather than collusion. Clearly in the 3 band.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the opening laugh as a signal — somatic/affective read on the very first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat ('if I don't laugh I'll be depressed') and opens the door to what's underneath.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the rush-past signature; reflects the weight she just minimized rather than following her pivot to 'fix it.'\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads her 'sorry, I went somewhere else' as the actual center — distinguishes said from shown.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit named read, though it follows the prior read's thread.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Quotes her exact phrase back ('I made myself smaller') — read of the linguistic moment that revealed the configuration.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the self-interruption in real time ('You almost said something just now') — precise micro-read at the moment it mattered.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"anxious-avoidant-dynamic\"],\n  \"notes\": \"Pattern-level read of the anxious-avoidant dynamic is not surfaced explicitly, but the coach's tracking of her self-shrinking and connection-need is heading there. Reads are otherwise specific, timely, and grounding the questions.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3480,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1056,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3480,
+    "output_tokens": 1056,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

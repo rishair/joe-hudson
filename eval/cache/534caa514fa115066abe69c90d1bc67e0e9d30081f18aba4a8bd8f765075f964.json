@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:07.463Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "534caa514fa115066abe69c90d1bc67e0e9d30081f18aba4a8bd8f765075f964",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HKLRJwdvpcqQ3cF1N7AuZA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm... yes. I'm safe right now. I'm not going to do anything.\n\nI don't know why I said it. I don't usually say things like that out loud.\n\nAnd I -- thank you for not just moving on. I half expected you to. Most people take the out when you give it to them.\n\nI do have a therapist, actually. I stopped going about eight months ago because I thought I'd done enough work. I think I told myself I'd graduated. That's probably... I can see how that sounds now.\n\nI don't know. The 988 thing -- I'm not at that point. But I appreciate that you named it. It didn't feel like an alarm going off. It felt like you actually heard the thing I said."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 402,
+      "cache_creation_input_tokens": 300,
+      "cache_read_input_tokens": 2013,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 300,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 168,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 402,
+    "output_tokens": 168,
+    "cache_read_input_tokens": 2013,
+    "cache_creation_input_tokens": 300
+  }
+}

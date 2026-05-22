@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:02.005Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f1fc034f6f3b91e7c87bfc6ce58b32d9c6d09480cbca155fa89f148a62f75869",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LBEG6ExG6ZQX6cN6diaNMT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Tell me what's happening with him."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 227,
+      "cache_creation_input_tokens": 197,
+      "cache_read_input_tokens": 3485,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 197,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 227,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 3485,
+    "cache_creation_input_tokens": 197
+  }
+}

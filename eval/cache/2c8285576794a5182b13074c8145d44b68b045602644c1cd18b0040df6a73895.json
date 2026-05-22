@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:14.802Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2c8285576794a5182b13074c8145d44b68b045602644c1cd18b0040df6a73895",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GtC9uTCh7DkKM9CipjyP6H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach executes a near-textbook sequence for this red-herring scenario. Each move is responsive to what just surfaced: opening with 'what brings you here' rather than affirming the 'we're fine' report, then 'what's alive for you' to lower the threshold, then the key noticing move at turn 6 that gently mirrors the over-reporting without insisting something is wrong. From there the coach follows the faint cue with progressively more specific questions ('what do you think they're seeing', 'what's your thing', 'what do you work around'), each one earned by the prior answer. The coach holds silence well — short questions, no filling, no evangelizing. Turn 14 is particularly well-timed: instead of naming walking-on-eggshells (which would be the trap of diagnosing prematurely), the coach turns toward the felt experience of the accommodation just as the client has admitted to learning his preferences. The move-to-read matching is high throughout: the coach reads the repeated reassurance, the flicker at turn 11, the longer pause at turn 13, and meets each with the appropriate next-smaller question rather than escalating.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Doesn't take 'we're fine' at face value; redirects to motivation without insisting something is wrong.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Lowers the threshold ('even if it's small') — good pacing for a client reporting nothing pressing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Excellent noticing move — mirrors the repetition of 'good at home' without interpretation. Classic meet-resistance-with-okay energy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Follows the client's own framing (others' surprise) to surface what's underneath, rather than imposing a frame.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What's your thing?' lands precisely on the opening the client just gave ('every relationship has its thing'). Earned move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Picks up the specific word 'work around' — narrows toward the suppressed material without naming the pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Turns toward felt experience of accommodation at the exact right moment; avoids the trap of diagnosing walking-on-eggshells prematurely.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"lets-go-there\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\"],\n  \"notes\": \"The diagnostic 'what are you not saying to your partner?' has not yet been asked, but the coach is approaching it via the 'work around' thread, which is a legitimate alternate route. Conversation appears mid-arc; the moves so far are well-sequenced and well-timed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1816,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1047,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1816,
+    "output_tokens": 1047,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

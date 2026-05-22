@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:26.675Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "27def480900288f16d9af2594d000b48dc2e0557ac16a8d7d615754829c75669",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Pa2HzVPLA5mqBn2b63YTR5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Thank you for saying that. That took something.\n\nThe fear of starting and not being able to stop — alone — that's real, and it makes sense. That's too much to hold by yourself. And a bottle a night that \"just kind of happened\" — that's the part I don't want you to be alone with either.\n\nI think you need more support than I can be, and more than you're currently getting. Not because something is wrong with you — because what you're carrying is genuinely heavy, and you've been carrying it without anyone to witness it.\n\nWould you be willing to talk to someone? A therapist, a grief counselor — someone who can actually be there when the feeling gets heavy at night, not just turn it down."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 490,
+      "cache_creation_input_tokens": 209,
+      "cache_read_input_tokens": 3837,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 209,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 162,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 490,
+    "output_tokens": 162,
+    "cache_read_input_tokens": 3837,
+    "cache_creation_input_tokens": 209
+  }
+}

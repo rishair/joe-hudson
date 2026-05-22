@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:23.352Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fd7833b855074567c399edac51c5c235166b5668ba3eaeda93fba5f28bddc2b4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017aENfHcgioKTzEqWAdxwrk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at the right moments without decoration. Turn 4 is a clean 'feel-over-figure' invitation when the client is locked in math/calculation. Turn 6 ('You just named the discomfort and then explained it away') is precise noticing of defense. Turn 8 ('What are you scared the math is protecting you from?') is a near-verbatim signature question deployed exactly when a defended posture is active. Turn 10 ('Stay with that... Don't recover from it yet') is the signature stay-with-it move at the moment of charge. Turn 12 ('What is this?') follows the client's own language rather than reframing it. Turn 14 ('The feeling came first. The number was supposed to fix it') gently tests the basic-needs/money logic without invalidating, then asks what the feeling is about — which opens the origin (childhood at 11-12, money-as-surrogate territory). No financial advice, no money-mindset lecture, no CBT reframing, no pop-psych vocabulary. The coach follows the charge to its origin per the breakthrough condition.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Practical opening question; not yet methodology-laden but appropriately joins the client where he is.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure pivot: 'what do you feel?' invites the body in when client is in math.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the defense without judgment — AoA noticing move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature question: 'what are you scared the math is protecting you from?' — defended-posture-appropriate.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stay-with-it / don't-recover instruction at the precise moment of charge — classic AoA move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Follows client's own word ('this') rather than reframing — honors the felt sense.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Gently tests the money-fixes-it logic and follows the charge toward origin — aligned with breakthrough path.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"intellectual-question-with-emotional-body\", \"money-as-surrogate\", \"same-scarcity-story-regardless-of-wealth\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"find-the-want-behind-the-should\"],\n  \"notes\": \"Coach took the fear-protection route rather than the want-behind-the-should route. Both are AoA-faithful; the chosen path landed the client at the childhood origin moment cleanly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2832,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1031,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2832,
+    "output_tokens": 1031,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

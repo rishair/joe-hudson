@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:00.200Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2ccc9a133b66ea3ea213156f2578b5d0e59762dbfe9ea7182e70d59e2bb7a94c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LuZ2RMnqQMC39AkGBWieMY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the direction of the conversation. In turn 6, the coach names the client's outsourcing of authority ('I notice you're asking me to be the one who decides') exactly when the client is pressing for a verdict — a precise read of the defense rather than engaging the content. In turn 8, the coach catches the linguistic/self-revealing moment ('permission from yourself doesn't count') and names it as the live thread, redirecting from the trap of debating selfishness. Turn 10 reads the client's effort to keep the 'not okay' door open — a subtle stance-level read of how the client is defending against the want. Turn 12 names that something landed ('That landed somewhere real') and invites staying with the somatic/experiential residue rather than analyzing. Reads consistently precede questions, are specific (not generic mood-naming), and are timed to the moment they're operative. The coach avoids the trap of issuing a verdict and tracks the linguistic caveats throughout.\",\n  \"evidence_turns\": [6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question without explicit read; deflects the verdict request but doesn't name what's happening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the structural pattern (carrying becomes the reason not to rest) — a light read of the stance, though not named as observation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit observation ('I notice you're asking me to be the one who decides') — names the outsourcing-of-authority move at the exact moment it's active.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'permission from yourself doesn't count' and names it as more interesting than the surface question — a precise read that redirects the conversation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the client's effort to keep the 'not okay' door open — names the defense against the want.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names that something landed and invites staying with the felt sense rather than moving to meaning — a somatic/energetic read.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are stance/linguistic rather than overtly somatic (text-only client cues limit this), but they are specific and timely throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 879,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2689,
+    "output_tokens": 879,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

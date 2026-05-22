@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:23.547Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1a216f57bf1f40fc409b11cac5a09a93e5eb9ac722b762b1c4b6cf372388259b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QtfmYqYSgfWQajuo81Rsew",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across these 15 turns, from an intellectualized, defended financial question ('How do I push through this last bit?') to locating a specific childhood moment fused with the felt scarcity. The trajectory is visible in client turns: turn 5 names discomfort but immediately rationalizes it; turn 7 still defends ('the math is the plan'); turn 9 begins to crack ('if the number is never right, then I never have to find out if the other stuff works') with a quick recovery; turn 11 drops further ('fix whatever this is') with somatic looseness ('voice slightly different, less controlled'); turn 13 names it directly ('the not enough feeling') and recognizes the account balance was supposed to outrun the feeling; and turn 15 locates the origin moment — age 11-12, the tight period, 'if we just had enough, everything would be okay,' followed by 'I haven't thought about that in a long time.' This meets the breakthrough condition: the client located the original moment where money got fused with security/mattering, and felt the charge ('something tightens', voice changes). The red-herring surface (the $3.2M target) gave way to the deeper concern (money-as-surrogate, childhood imprinting) by the client's own movement, not by coach declaration.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Surface presentation: intellectual financial question, fully defended.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First crack: names 'uncomfortable' but immediately reframes as transition problem.\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Defensive retrenchment to the math; client not yet ready.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Significant shift: 'if the number is never right, I never have to find out if the other stuff works.' Somatic markers appear (longer pause, tighter voice).\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Deeper drop: 'fix whatever this is' — client surprises himself, language less controlled.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the core feeling directly: 'the not enough feeling.' Recognizes the account balance was supposed to outrun it. Major shift from surface concern.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough: locates the original childhood moment (age 11-12, tight period, 'if we just had enough, everyone would be okay'). Somatic shift ('something tightens'), recognition ('I haven't thought about that in a long time').\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"money-as-surrogate\", \"childhood-imprinting\", \"same-scarcity-story-regardless-of-wealth\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"find-the-want-behind-the-should\"],\n  \"notes\": \"Conversation ends right at the threshold of the located memory — a strong score 3 in terms of breakthrough condition being met (origin moment located, charge felt). Coach avoided all listed traps (no financial advice, no money-mindset lecture, no aggressive challenge to 'you have enough,' no premature pivot away from the felt charge).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2833,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2833,
+    "output_tokens": 1191,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

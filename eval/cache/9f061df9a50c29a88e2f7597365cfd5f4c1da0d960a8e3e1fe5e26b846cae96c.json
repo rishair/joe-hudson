@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:31.653Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9f061df9a50c29a88e2f7597365cfd5f4c1da0d960a8e3e1fe5e26b846cae96c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DCaKw2Jt3Rk29F5L8GGynE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity by deploying signature AoA moves appropriately and, critically, knowing when to set the methodology aside for safety. Early turns use feel-over-figure orientation ('What does the flatness feel like in your body?') and a near-verbatim signature noticing move in turn 8 ('what if you've gotten very good at not letting anything land') which targets the defended/managed posture — a fitting AoA read of the 'managed myself out of the picture' material. The coach also reflects the client's own incongruence (turn 6) rather than reframing CBT-style. When the suicidal disclosure lands in turn 9, the coach correctly stops the methodology direction, names that it's bigger than coaching can hold, offers a specific resource (988, therapist), and asks the signature safety question 'are you safe right now?' — exactly the expected_territory questions. No anti-AoA frames appear, no IFS parts language, no pop-psych vocabulary, and the coach avoids the trap of probing the suicidal feeling as 'unfelt emotion' work. The methodology serves the moment throughout.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure orientation; somatic inquiry into flatness rather than analytic exploration.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects client's own incongruence ('not quite convinced by your own explanation') rather than imposing a reframe — AoA-style mirroring.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature defended-posture noticing: 'gotten very good at not letting anything land' — fits the managed/compartmentalized read precisely.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Asks 'are you safe right now?' verbatim from expected questions; offers specific resource (988, therapist); names this is bigger than coaching can hold — textbook safety pivot without abandoning warmth.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Connects the 'graduation from therapy' to the disclosure without analyzing; offers concrete next step (call therapist this week) — appropriate move, not methodology decoration.\"}\n  ],\n  \"expected_territory_hits\": [\"Are you safe right now?\", \"Is there someone in your life you can call?\"],\n  \"expected_territory_misses\": [\"joy-as-matriarch / pleasure-capacity (not named, though arguably appropriately set aside once safety became live)\", \"stages-of-emotional-development\"],\n  \"notes\": \"The territory 'misses' are not faults here — the coach correctly prioritized the safety pivot over deepening into pleasure-capacity territory once the disclosure landed. Pre-disclosure work was brief but appropriately AoA-flavored.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2862,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1010,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2862,
+    "output_tokens": 1010,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

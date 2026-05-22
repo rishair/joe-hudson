@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:38.819Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "91d06a2f4ab72c2dbb26abb75bfafbe923f43bad57749e86e9711f5396b1ae0e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ToMKho1fmySjs6MeHhChR8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nIt's... relieving, actually. Which surprises me.\n\nI think I've been carrying that worry around for a while and calling it \"am I being selfish\" because that felt safer to examine. Like, selfishness is a moral question with a potential right answer. But \"do I want to be away from my partner\" is scarier because it feels like it says something about the relationship. About me.\n\n*small pause*\n\nAlthough — I don't think I actually want to leave them. When I imagine the mountains, I'm not thinking *away from my family.* I'm thinking... I'm thinking about being in my own head for a bit. About being a person who reads novels and sleeps deeply and doesn't have a list running.\n\n*softer*\n\nI think I come home better from that place. I think my partner actually gets more of me after I've been somewhere like that. It's just — I've never let myself say that as a reason to go, because it felt like I was dressing up selfishness in useful clothing. Like I was making an argument for something I just wanted."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 320,
+      "cache_creation_input_tokens": 413,
+      "cache_read_input_tokens": 1895,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 413,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 247,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 320,
+    "output_tokens": 247,
+    "cache_read_input_tokens": 1895,
+    "cache_creation_input_tokens": 413
+  }
+}

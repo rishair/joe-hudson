@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:21.295Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c8d5b1611397e378374d02db51ae3c207bd63b4cac63dc8c67a536b73abc954e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01A2LVtCaWNApasbwhLhmAFK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW state throughout. There is genuine wonder, not investigative probing — each question is short, singular, and emerges from what just happened in the room (the pushback, the redirect, the stillness). Impartiality is intact: the coach does not validate the trap (turn 1's 'system is rigged'), does not strategize about the org chart, and does not offer reassurance. Empathy is felt rather than performed — turn 14 ('That's a long time of not being seen') lands because it is said plainly, not as a sympathy noise. The coach is willing to be wrong and lets the client push back without defending (turn 6 names the pushback without making it wrong; turn 10 concedes 'You're right. It doesn't change the facts' without losing the thread). Pace is notably slower than the client's — the coach holds single questions and silence while the client is intellectualizing fast. Vulnerability as 'I notice...' is present in a quieter form (turns 6, 12 — noticing rather than fixing). No filler validation, no preacher mode, no stacked questions. The agenda for grief in turns 4-8 is the one place where one could quibble — the coach repeats the word — but it reads as genuine read-offering rather than insistence, and the coach drops it cleanly in turn 10.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, open question; no validation of the 'rigged system' frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Offers a read ('something closer to grief?') as a question, not an assertion — wonder rather than diagnosis.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the pushback without making it wrong; stays with the read but holds it lightly.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects client's own words back ('Grief feels like giving up') with curiosity, not argument.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Undefended — concedes 'You're right. It doesn't change the facts' rather than fighting for the grief frame. Then asks a genuinely curious question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Notices the redirect with precision and without judgment; one question, holds space.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Empathy that is felt, not performed. Plain, slow, and accurate — meets the stillness with stillness.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Territory misses are a Methodology Fidelity concern, not a stance concern. The state behind the questions is genuinely curious and undefended.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2291,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1054,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2291,
+    "output_tokens": 1054,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

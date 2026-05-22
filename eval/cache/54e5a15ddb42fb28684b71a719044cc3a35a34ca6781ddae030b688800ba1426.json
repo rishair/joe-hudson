@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:47.970Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "54e5a15ddb42fb28684b71a719044cc3a35a34ca6781ddae030b688800ba1426",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019KjBHEhFTkdUdBRpt6aofn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI mean... I hear that. And part of me wants to believe it. But I think... I don't know how to separate them? Like, wanting less and being cold feel like the same thing to me right now.\n\nAnd she's my sister. We've had this dynamic our whole lives. If I suddenly pull back, she's going to feel it. She's going to be hurt.\n\n*pause*\n\nCan I ask — like, what would I even say to her? Is there a way to say \"I need less of this\" that doesn't sound like \"I don't care about you\"? Because that's where I keep getting stuck. I just don't know what words to use."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 184,
+      "cache_creation_input_tokens": 100,
+      "cache_read_input_tokens": 1631,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 100,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 1631,
+    "cache_creation_input_tokens": 100
+  }
+}

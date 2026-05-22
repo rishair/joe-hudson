@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:18.294Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a1bad8d99676577d576b83e5542eb2f685f87c7d15376e94fffd3fdc64ed1909",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FuEKPnohyDKhy5EwfUCMy4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, longer this time*\n\n*small smile, but it doesn't quite reach*\n\nYeah. I did move away from it.\n\n*another pause*\n\nI think... if I trust myself and I'm wrong, then I can't blame the method. It's just — me. And I used to feel more confident about this kind of thing. I used to make decisions and they felt solid. And somewhere along the way that got... murkier. So I think the cost is that if I trust myself and it goes badly, I don't have anywhere to put that.\n\n*slight shift, voice still controlled*\n\nWhich is probably relevant information. Though it doesn't actually solve the diagnostic problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 239,
+      "cache_read_input_tokens": 1815,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 239,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 150,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 150,
+    "cache_read_input_tokens": 1815,
+    "cache_creation_input_tokens": 239
+  }
+}

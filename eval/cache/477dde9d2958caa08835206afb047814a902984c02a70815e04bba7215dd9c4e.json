@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:56.991Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "477dde9d2958caa08835206afb047814a902984c02a70815e04bba7215dd9c4e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GT4YZqRfi4KGjiAfCE9YFs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*considers for a moment*\n\nNothing, really. I mean — I open the doc, I read through it, and then... I end up somewhere else. Not dramatically. It's not like I slam the laptop shut or anything. I just sort of drift.\n\n*pauses*\n\nWhich is frustrating because the work itself is good. I'm proud of it, actually. So it's not like I'm avoiding it because I think it's bad. That would make more sense to me, you know? If I hated it, I'd understand the avoidance. But I don't. I think it's solid.\n\n*slight shrug*\n\nSo yeah. I sit down with it, and then I'm just... elsewhere. Doing something else. I don't really notice the transition."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 184,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2053,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 171,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 171,
+    "cache_read_input_tokens": 2053,
+    "cache_creation_input_tokens": 0
+  }
+}

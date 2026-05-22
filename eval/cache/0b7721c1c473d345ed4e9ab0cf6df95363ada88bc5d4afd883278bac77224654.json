@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:54.720Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0b7721c1c473d345ed4e9ab0cf6df95363ada88bc5d4afd883278bac77224654",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JG1cYyjuL5dJVG3vAasENN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, small smile*\n\nThat's... a good question. I've actually thought about this a fair amount — there's quite a bit written about somatic markers and how the body encodes information before the conscious mind catches up. Damasio's work, for instance. So I've been paying attention.\n\n*brief pause*\n\nI think one reaction is more expansive — like possibility. And the other is more contracted. But the thing is, I can't tell if the contraction is warning me away from something genuinely wrong, or if it's just the normal fear response that comes with anything that matters. That's really the diagnostic problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 174,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 174,
+    "output_tokens": 140,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

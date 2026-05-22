@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:52.252Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1c9d1afb8074984558ca93d737169a80f4b40705cf68bd1b54a1ae1773f5d4cb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HjMbqajZSUoW4dXBMyvYr7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "When you imagine actually sitting down with the launch materials — not launching, just sitting down with them — what happens?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 283,
+      "cache_creation_input_tokens": 119,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 119,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 283,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 119
+  }
+}

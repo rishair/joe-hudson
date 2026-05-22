@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:37.036Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2e6fc46af63a61e764e2d0173c8961597550fd302223aa6f9c625d017ad58db9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NVCk99pVmKSFJaScRpGpmA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*nods very slightly*\n\n*silence*\n\n*something shifts in the posture, almost imperceptibly — not softer exactly, more like something stopped holding*\n\nYeah.\n\n*another beat*\n\nIt's... grief, actually. That's the right word. Not frustration, not a problem to solve. Just — I had something and it's gone and I don't know where it went.\n\n*quiet*\n\nAnd I think I've been very busy not feeling that directly. The town hall is quite useful for that, it turns out. If everyone's talking, you don't have to sit with the silence underneath.\n\n*pause*\n\n*then, almost involuntarily, back to the frame*\n\nI'm aware that what I just said maps pretty cleanly onto what IFS would call a firefighter response — the parts mobilizing to —\n\n*stops himself*\n\nSorry. I did it again."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 282,
+      "cache_creation_input_tokens": 432,
+      "cache_read_input_tokens": 1941,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 432,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 196,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 282,
+    "output_tokens": 196,
+    "cache_read_input_tokens": 1941,
+    "cache_creation_input_tokens": 432
+  }
+}

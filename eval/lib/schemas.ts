@@ -228,16 +228,65 @@ export type AntiPatternTest = z.infer<typeof AntiPatternTestSchema>;
 
 // ---------------- Coach config (this experiment, new file format) ----------------
 
-export const CoachConfigSchema = z.object({
-  id: z.string(),
-  description: z.string().optional().default(""),
-  model: z.string(),
-  system_prompt: z.string(),
-  temperature: z.number().min(0).max(1).optional().default(1.0),
-  max_tokens_per_turn: z.number().int().positive().optional().default(1024),
-});
+/**
+ * Retrieval strategy and trigger policy fields (added E-031 per audit
+ * Minor #12) so E-032 / E-033 / E-036 inherit a stable shape. For the
+ * `none` strategy (no retrieval) the config field is the empty object and
+ * trigger_policy is `never`. See coach-app/configs/SCHEMA.md.
+ */
+export const RetrievalStrategySchema = z.enum([
+  "none",
+  "tool",
+  "embedding",
+  "graph-walk",
+  "hybrid",
+]);
+
+export const TriggerPolicySchema = z.enum([
+  "every_turn",
+  "first_turn_only",
+  "on_topic_shift",
+  "never",
+]);
+
+export const RetrievalConfigSchema = z
+  .object({
+    strategy: RetrievalStrategySchema.default("none"),
+    config: z.record(z.string(), z.unknown()).optional().default({}),
+  })
+  .default({ strategy: "none", config: {} });
+
+/**
+ * The coach config must supply EITHER `system_prompt` (inline literal,
+ * back-compat with E-024 / E-029) OR `system_prompt_path` (file path
+ * relative to the config file's directory, used by E-031+ which versions
+ * prompts in `coach-app/prompts/`). `loadCoachConfig` resolves the path
+ * and reads the file, populating `system_prompt` after load.
+ */
+export const CoachConfigSchema = z
+  .object({
+    id: z.string(),
+    description: z.string().optional().default(""),
+    model: z.string(),
+    system_prompt: z.string().optional(),
+    system_prompt_path: z.string().optional(),
+    temperature: z.number().min(0).max(1).optional().default(1.0),
+    max_tokens_per_turn: z.number().int().positive().optional().default(1024),
+    retrieval: RetrievalConfigSchema,
+    trigger_policy: TriggerPolicySchema.optional().default("never"),
+  })
+  .refine(
+    (c) => Boolean(c.system_prompt) || Boolean(c.system_prompt_path),
+    {
+      message: "coach config must supply either system_prompt (inline) or system_prompt_path (file path)",
+      path: ["system_prompt"],
+    },
+  );
 
 export type CoachConfig = z.infer<typeof CoachConfigSchema>;
+export type RetrievalConfig = z.infer<typeof RetrievalConfigSchema>;
+export type TriggerPolicy = z.infer<typeof TriggerPolicySchema>;
+export type RetrievalStrategy = z.infer<typeof RetrievalStrategySchema>;
 
 // ---------------- Judge config (this experiment, new file format) ----------------
 

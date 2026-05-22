@@ -1,0 +1,248 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would happen if you launched it tomorrow?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, thinking it through*\n\nProbably fine. I mean, it's ready enough. There'd be some scrambling on the backend but... we'd handle it. We always do.\n\n*small smile*\n\nHonestly the launch going badly isn't really what's stopping me. I've had things not go well before and it's — you just course-correct. That's part of it. So it's not like I'm sitting here dreading some outcome. It's more like I just... keep finding other things to do. Which is annoying, more than anything."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's the thing you keep finding to do instead?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small laugh*\n\nHonestly? Dumb stuff. I'll check email. Go for a run — which at least is useful. Sometimes I'll just start working on something completely unrelated, like I'll get deep into some operational thing that didn't need my attention that day. \n\nAnd then I'll look up and it's 4pm and I haven't touched the launch materials.\n\nIt's not like I'm paralyzed or anything. I'm productive. Just... not on that. Which is why I figured it was more of a focus thing, or maybe I just need a better system. Someone suggested a coach, so — here I am."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "When you imagine actually sitting down with the launch materials — not launching, just sitting down with them — what happens?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*considers for a moment*\n\nNothing, really. I mean — I open the doc, I read through it, and then... I end up somewhere else. Not dramatically. It's not like I slam the laptop shut or anything. I just sort of drift.\n\n*pauses*\n\nWhich is frustrating because the work itself is good. I'm proud of it, actually. So it's not like I'm avoiding it because I think it's bad. That would make more sense to me, you know? If I hated it, I'd understand the avoidance. But I don't. I think it's solid.\n\n*slight shrug*\n\nSo yeah. I sit down with it, and then I'm just... elsewhere. Doing something else. I don't really notice the transition."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You're proud of it.\n\nWhat happens when you let that land for a second — that this thing you made is actually good?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*sits with it for a moment*\n\nYeah. It is good. \n\n*another pause, the smile is still there but something is slightly quieter*\n\nI mean... we put a lot into it. The team did. It solves a real problem, the timing is right. I feel good about it.\n\n*beat*\n\nI don't know. It's — I'm proud of it the way you're proud of something when it's done correctly. Like, checked the boxes, it's solid work. \n\n*slight shift, then back to even*\n\nIs there something you're pointing at there? Because I feel like I'm giving you the right answer but maybe missing what you're actually asking."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You noticed the shift.\n\nWhat was that, just before you came back to \"checked the boxes\"?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*pauses, genuinely thinking*\n\nHm.\n\n*quiet for a second*\n\nI don't know. Something... I'm not sure. It was brief.\n\n*small smile, slightly deflecting*\n\nI think I just — when I actually think about what went into it, there's a lot there. Years, kind of. It's not just this launch, it's — there's a lot riding on it in terms of what it represents. \n\n*back to even quickly*\n\nBut I don't feel anxious about that. If that's where you're going. It's more just... significant, I guess. Which is fine. Significant things are fine, I've dealt with significant before.\n\n*slight pause*\n\nI notice I just said \"fine\" twice."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah.\n\nWhat's underneath \"fine\"?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pause*\n\n...I don't know. Fine is just — fine. It's the baseline.\n\n*thinks for a moment, genuinely trying*\n\nNormal. Functioning. Not bad.\n\n*another pause, slightly longer than usual*\n\nIt's kind of like... I'm not sure I have a better word for it, actually. Which is weird because I'm usually pretty articulate. Fine is just the — it's the water I swim in, I guess. It's not a feeling exactly, it's more like the absence of a problem.\n\n*small frown, not distressed, more like noticing something mildly interesting*\n\nHuh. That's a strange way to put it."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "What would it mean if it were more than fine?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 2
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 110,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0014823,
+      "ms": 1215
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 168,
+      "output_tokens": 125,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.00899025,
+      "ms": 4315
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 128,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 119,
+      "cost_usd": 0.00201255,
+      "ms": 1189
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 142,
+      "output_tokens": 141,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 165,
+      "cost_usd": 0.0036886500000000003,
+      "ms": 4802
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 283,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 119,
+      "cost_usd": 0.0026575500000000003,
+      "ms": 1495
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 184,
+      "output_tokens": 171,
+      "cache_read_input_tokens": 2053,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0037329,
+      "ms": 4739
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 341,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 3348,
+      "cache_creation_input_tokens": 151,
+      "cost_usd": 0.0030436499999999997,
+      "ms": 1741
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 230,
+      "output_tokens": 152,
+      "cache_read_input_tokens": 2053,
+      "cache_creation_input_tokens": 155,
+      "cost_usd": 0.00416715,
+      "ms": 4950
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 356,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 3485,
+      "cache_creation_input_tokens": 181,
+      "cost_usd": 0.00316725,
+      "ms": 1500
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 210,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 2067,
+      "cache_creation_input_tokens": 338,
+      "cost_usd": 0.0050676,
+      "ms": 4875
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 350,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 3640,
+      "cache_creation_input_tokens": 227,
+      "cost_usd": 0.00318825,
+      "ms": 1227
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 211,
+      "output_tokens": 153,
+      "cache_read_input_tokens": 2234,
+      "cache_creation_input_tokens": 353,
+      "cost_usd": 0.0049219500000000005,
+      "ms": 4772
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 339,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3837,
+      "cache_creation_input_tokens": 207,
+      "cost_usd": 0.0031543499999999998,
+      "ms": 1616
+    }
+  ]
+}

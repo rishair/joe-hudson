@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:32.281Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4633823a3a3f1ec0c4ce89a2b7fb365cbeb701cdce1bd1e047e6831081ccb4b3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MhmyNm2QbU5VfxTgjLYRHg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[slight pause, like the question landed at an angle she wasn't expecting]*\n\nWhat do you mean?\n\n*[beat]*\n\nLike — it's fine? It's just who I am. I'm a connector. I like closeness, I like knowing what's going on with someone, I like being known. That's not a flaw, that's just — that's a normal human need.\n\n*[small defensive laugh]*\n\nI'm not, like, *clingy*. I want to be clear about that. I gave these guys space. I was always the one saying \"no, it's fine, take your time, I don't need to talk every day.\" I adjusted. I made myself smaller to fit what they needed.\n\n*[something shifts almost imperceptibly — a slight tightening]*\n\nWhich, when I say it out loud, sounds bad. But at the time it felt like being a good partner. Being flexible. Not being demanding.\n\n*[looks away briefly, then back]*\n\nI guess what I'm saying is — needing connection isn't the problem. The problem is I keep ending up with people who make me feel like it *is* the problem. Like I'm too much."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 304,
+      "cache_creation_input_tokens": 480,
+      "cache_read_input_tokens": 1939,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 480,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 262,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 304,
+    "output_tokens": 262,
+    "cache_read_input_tokens": 1939,
+    "cache_creation_input_tokens": 480
+  }
+}

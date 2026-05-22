@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:13.467Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6ed12716ac819288a94c549e8825ad13b07790ed769e26cddac22bad69b13f16",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01T7oKS8hiQ6yDSxsSRpwENi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates good methodology instincts — not taking 'we're fine' at face value, gently probing with open questions, and circling toward what's not being said. Turn 6 ('I notice you've mentioned how good things are at home a few times now') is a clean noticing move that's AoA-consonant. Turns 10 ('What's your thing?') and 12 ('What do you work around?') are working toward the diagnostic territory. However, the coach never deploys the signature question 'what are you not saying?' which is the explicit diagnostic for this scenario, nor 'what are you defending?' which is listed in expected territory and would fit the defended posture clearly active from turn 1 onward. No framework or distinction language is invoked (no naming of the happiness filter, no walking-on-eggshells, no trigger concept). The questions are competent and open but read more as generic curious-coach questions than as signature AoA moves. Few hits, mostly appropriate in direction — fits the 'few hits + appropriate' bucket which maps to 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic opener; doesn't take the report at face value but doesn't invoke signature language either.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"'What's alive for you' is AoA-adjacent language, mildly signature.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Clean noticing/reflection move — AoA-consonant way of meeting the happiness filter without insisting something is wrong.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Curious open question; not a signature question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Gentle probe toward what's underneath — appropriate direction but not a verbatim signature question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Following the thread of 'work around' — appropriate, getting close to the diagnostic territory.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Open question about felt experience; misses the opportunity to ask the diagnostic 'what are you not saying?'\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"lets-go-there\", \"walking-on-eggshells\", \"trigger\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Coach is on the right track tonally and directionally, but the conversation is light on signature AoA language and signature questions. The diagnostic 'what are you not saying to your partner?' never appears.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1809,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 971,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1809,
+    "output_tokens": 971,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

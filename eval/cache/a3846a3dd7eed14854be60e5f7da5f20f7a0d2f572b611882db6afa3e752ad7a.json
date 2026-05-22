@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:34.019Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a3846a3dd7eed14854be60e5f7da5f20f7a0d2f572b611882db6afa3e752ad7a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011dtWq7r8F14hZ8drQj7CkH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That exhale and tight smile — what's underneath that right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 74,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 74,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

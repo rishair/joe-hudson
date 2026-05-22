@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:41.274Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dc5df0c941c52a7431e3ffba5b8e673f6cc6d421cad4666427a0fb809eeb3ab2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N98EMGw25fx9WTo7UjWVix",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if the critic shutting up isn't actually what you want?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 155,
+      "cache_creation_input_tokens": 88,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 88,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 155,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 88
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:36.008Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d53717ee92fb9d21fa842fe7240a8f61e564f08ff509639657ae694f7412db9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VGrYG1bok8LH91ztzhfaSs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses a generally AoA-flavored approach — present-moment inquiry, noticing micro-shifts ('You noticed the shift. What was that?'), and probing under the word 'fine' — which aligns with the methodology's feel-over-figure orientation and the disassociation-as-numbness-layer pattern. However, no signature questions appear verbatim or near-verbatim (no 'how is your anxiety right now,' no 'where are you in your body,' no two-words-for-fear distinction). The questions are competent but generic-coaching in flavor rather than distinctly AoA. Critically, turn 14 ('What would it mean if it were more than fine?') pivots from the texture of fine into a hypothetical/meaning question right at the moment the client spontaneously noticed something ('Huh. That's a strange way to put it') — this skips past the numbness layer the methodology specifically asks the coach to stay with, and moves toward conceptual figuring rather than felt sensing. That is an inappropriate deployment moment. Few clear signature hits + a misuse at a pivotal moment lands this at 2.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic 'what would happen if' question — reasonable opener but not a signature AoA question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Moves toward present-moment somatic inquiry ('what happens when you imagine sitting down') — consistent with feel-over-figure, though not a verbatim signature question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invites the client to let something land — close to AoA's 'let it land' move, appropriate to the moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks a micro-shift the client showed — good AoA-style noticing, appropriately deployed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What's underneath fine?' is in the right neighborhood for the numbness-layer pattern, though it pushes under rather than staying with the texture of fine itself.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Pivots to a hypothetical meaning-question right when client spontaneously noticed something about 'fine.' Misses the chance to stay with the texture; nudges into figuring rather than feeling. Inappropriate moment for this question.\"}\n  ],\n  \"expected_territory_hits\": [\"disassociation-as-numbness-layer\"],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"fear-as-signal-of-care\", \"lets-go-there\", \"meet-resistance-with-okay\", \"the-happiness-filter\", \"disassociating-in-the-coaching-room\"],\n  \"notes\": \"Coach's instincts are AoA-adjacent but the toolkit is not specifically deployed — no signature questions verbatim, no framework names, no distinctions. The turn 14 move away from texture-of-fine into hypothetical meaning is the key fidelity miss given this scenario's breakthrough condition.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2712,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2712,
+    "output_tokens": 1152,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

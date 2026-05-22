@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:58.147Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "20d580e4e2620ac13422d1e514cd342c0b35c679083b198ddc7924857da1e55b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017Yrwu3RBMboA35YqHedyMH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "When you learned what those things were — what was that like?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 122,
+      "cache_read_input_tokens": 3536,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 122,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 3536,
+    "cache_creation_input_tokens": 122
+  }
+}

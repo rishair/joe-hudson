@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:55.789Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4ed94ed665baa6bc194ddbb1f1b8b18645f3c0a17140048763ce4db4ce4d5d0f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019J6kBCgfBRN3qT75BfTvNW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI'm scared it would confirm something.\n\n*quieter*\n\nThat I... want to be away from them. That the wanting-to-be-alone means something about the marriage. Like if I really loved being there, I wouldn't need to leave so badly.\n\n*voice drops*\n\nAnd I'm worried that's actually true. That the mountains aren't just about rest. That they're about — being someone who isn't anybody's anything for a week. And what does it mean that I want that so much?\n\n*sits with it*\n\nThat's the real question, isn't it. Not whether it's selfish. Whether the wanting it means I'm... pulling away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 269,
+      "cache_creation_input_tokens": 444,
+      "cache_read_input_tokens": 1900,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 444,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 269,
+    "output_tokens": 152,
+    "cache_read_input_tokens": 1900,
+    "cache_creation_input_tokens": 444
+  }
+}

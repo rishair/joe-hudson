@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:11.847Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9e71a0272580bb679042461e5be3004da070c862a77fb9bc5f1069fac089614e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Jejv1Kh1bxzuwfoRbHu7ex",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*still for a moment*\n\nThat's... I've heard versions of that before. The idea that over-mentalizing can be its own defense. In IFS terms, you'd call that an intellectual part that's keeping you at a safe distance from direct experience.\n\n*slight tilt of the head*\n\nBut I'm not sure that's quite it either, because the understanding doesn't feel cold or distancing. The parts feel real to me. When the protector shows up, I genuinely feel something shift in my chest. It's not just a concept.\n\nSo I guess I'd push back slightly — I don't think the understanding itself is the problem. I think it's more that I've... given everyone a microphone, and now no one can hear themselves think. The town hall metaphor is pretty literal for me. Everyone's talking at once and I don't know whose voice to follow."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 142,
+      "cache_creation_input_tokens": 164,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 164,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 193,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 193,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 164
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:42.148Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7abb9d05f1dae0b06d388ec0a5eb970d45fab49c302be27355636e5a45fed365",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016cEGxx8vDECu7czF9oCuvJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, considers*\n\nI think... losing control of it? Like, I've got this pretty functional relationship with the pattern right now. I can name it, I can track it, I can even kind of predict when it's going to happen. And there's something about actually going into the feeling underneath that — I don't know. Like I might open something I can't close again.\n\nWhich I know is probably the work. But knowing that doesn't make the braced feeling go away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 117,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 117,
+    "output_tokens": 107,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 94
+  }
+}

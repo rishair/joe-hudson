@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:41.046Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c7af72337cce9148d8b67137517e501a9903fe133f9a6865ce8738d777cd1aa2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YYuL4mxoaieX1vQK5EC8hv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens in the lag — what's actually going on in there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 66,
+      "cache_creation_input_tokens": 85,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 85,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 85
+  }
+}

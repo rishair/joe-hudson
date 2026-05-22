@@ -6,7 +6,7 @@
  */
 
 import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
-import { join } from "node:path";
+import { join, dirname, resolve, isAbsolute } from "node:path";
 import * as YAML from "yaml";
 import { z, ZodError } from "zod";
 import {
@@ -149,12 +149,36 @@ export function loadGoldExchanges(dir: string): GoldExchange[] {
 
 export function loadCoachConfig(path: string): CoachConfig {
   const raw = path.endsWith(".json") ? loadJson(path) : loadYaml(path);
+  let parsed: CoachConfig;
   try {
-    return CoachConfigSchema.parse(raw);
+    parsed = CoachConfigSchema.parse(raw);
   } catch (e) {
     if (e instanceof ZodError) throw formatZodError(path, e, "coach-config");
     throw e;
   }
+
+  // Resolve system_prompt_path → system_prompt. The path is resolved relative
+  // to the config file's directory so configs can sit alongside their prompt
+  // files (the coach-app/configs/v1-no-retrieval.yaml convention).
+  if (!parsed.system_prompt && parsed.system_prompt_path) {
+    const baseDir = dirname(resolve(path));
+    const promptPath = isAbsolute(parsed.system_prompt_path)
+      ? parsed.system_prompt_path
+      : resolve(baseDir, parsed.system_prompt_path);
+    if (!existsSync(promptPath)) {
+      throw new Error(
+        `[coach-config] ${path}: system_prompt_path resolves to ${promptPath} which does not exist`,
+      );
+    }
+    parsed = { ...parsed, system_prompt: readFileSync(promptPath, "utf8") };
+  }
+
+  if (!parsed.system_prompt) {
+    throw new Error(
+      `[coach-config] ${path}: system_prompt is empty after loading (check system_prompt_path)`,
+    );
+  }
+  return parsed;
 }
 
 // ---- Client prompt template ----

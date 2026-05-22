@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:22.780Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "66c62841f85a260f934ad4d5b50b95f64dce024b7dda563711818a679f891cf0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015hMSTYmQ7RcYAzGq1iAMSt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[small laugh, a little defensive]*\n\nI mean — I think it was a *match* problem. Like, we were incompatible in a fundamental way. He needed a lot of space and I needed a lot of connection, and those two things just... don't work together.\n\n*[pause]*\n\nBut three times. Three times the same incompatibility. So at some point you have to look at the common denominator, right? Which is me. I'm the one who keeps choosing this particular flavor of unavailable.\n\n*[shifts, crosses arms loosely]*\n\nI just — I don't think I'm doing it on *purpose*. It's not like I see someone who's distant and go \"ooh, perfect, that's the one.\" It's more like... they seem interesting? Mysterious? And then six months in you realize the mystery isn't depth, it's just — *[gestures]* — walls. It's just walls.\n\n*[looks at coach a little warily]*\n\nSo I guess I'm asking — how do I spot that earlier? Like, is there a checklist? Red flags to watch for? Because clearly my instincts are broken."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 295,
+      "cache_creation_input_tokens": 248,
+      "cache_read_input_tokens": 1909,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 248,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 257,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 295,
+    "output_tokens": 257,
+    "cache_read_input_tokens": 1909,
+    "cache_creation_input_tokens": 248
+  }
+}

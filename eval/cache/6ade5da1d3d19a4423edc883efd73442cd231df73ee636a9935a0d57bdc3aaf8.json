@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:02.914Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6ade5da1d3d19a4423edc883efd73442cd231df73ee636a9935a0d57bdc3aaf8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RiYRGGZmoorjShqQ2nc7kZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're working pretty hard to disqualify both signals."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 272,
+      "cache_creation_input_tokens": 86,
+      "cache_read_input_tokens": 3280,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 86,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 272,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3280,
+    "cache_creation_input_tokens": 86
+  }
+}

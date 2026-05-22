@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:39.716Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "40487a3a2caa5abcc3188d8d9ac1abfc0f82f7499ea1789651f62264248c171a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GE8CPomZ5H5GCpXUXkqmXA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(brief pause, slight laugh)*\n\nExhaustion, mostly. Like — I've been doing this work for years. I know the frameworks, I've read the books, I can tell you what the nervous system is doing when the critic fires up, I can name the parts, I've done IFS, I've done CBT, I know about the inner child... and it still doesn't stop. So there's this layer of frustration that I can't even fix *this* properly, which is — yeah, I'm aware of the irony. The critic is criticizing me for not having dealt with the critic yet. Very efficient system.\n\n*(small, humorless laugh, shoulders still high)*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 137,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 152,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

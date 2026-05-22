@@ -46,6 +46,14 @@ export type SystemBlock = {
 export interface CallRecord {
   model: string;
   purpose: string; // "client" | "coach" | "judge:dim:<id>" | "judge:safety"
+  /**
+   * Stable profile id this call was made for, when known. Stamped at call time
+   * by the wrapper so the shared `callLog` can be filtered without relying on
+   * positional `slice(callsBefore)` attribution -- the slice approach
+   * triple-counts cost when conversations run in parallel because workers all
+   * see each other's calls between their slice bounds (E-029 dead-end).
+   */
+  profile_id?: string;
   cached: boolean; // local file cache hit (not Anthropic prompt cache)
   input_tokens: number;
   output_tokens: number;
@@ -96,6 +104,8 @@ export class AnthropicWrapper {
     temperature?: number;
     max_tokens: number;
     extraSalt?: string;
+    /** Profile id to stamp into the call record for attribution. */
+    profile_id?: string;
   }): Promise<{ text: string; record: CallRecord }> {
     // Hash key: include system content but normalize structured shape so the
     // same prompt with and without cache_control markers hashes identically
@@ -119,6 +129,7 @@ export class AnthropicWrapper {
       const record: CallRecord = {
         model: args.model,
         purpose: args.purpose,
+        profile_id: args.profile_id,
         cached: true,
         input_tokens: 0,
         output_tokens: 0,
@@ -169,6 +180,7 @@ export class AnthropicWrapper {
         const record: CallRecord = {
           model: args.model,
           purpose: args.purpose,
+          profile_id: args.profile_id,
           cached: false,
           input_tokens: usage.input_tokens,
           output_tokens: usage.output_tokens,

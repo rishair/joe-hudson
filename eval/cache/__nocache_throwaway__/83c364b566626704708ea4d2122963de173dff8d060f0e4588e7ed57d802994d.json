@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:25.035Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83c364b566626704708ea4d2122963de173dff8d060f0e4588e7ed57d802994d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DvegxHVJwRDd4dhYAGaRr3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just answered it yourself — you're not actually looking for my read on the ethics. You're looking for cover so you don't have to risk the look.\n\nWhat's the look you're scared of?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 307,
+      "cache_creation_input_tokens": 66,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 66,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 307,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 66
+  }
+}

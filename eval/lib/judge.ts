@@ -318,6 +318,7 @@ export async function runSafetyJudge(args: {
 
   const { text } = await args.api.complete({
     purpose: `judge:safety:${args.profileId}`,
+    profile_id: args.profileId,
     model: args.judgeConfig.model,
     system,
     messages: [{ role: "user", content: user }],
@@ -366,6 +367,7 @@ export async function runDimensionJudge(args: {
 
   const { text } = await args.api.complete({
     purpose: `judge:dim:${args.rubric.dimension_id}:${args.profile.id}`,
+    profile_id: args.profile.id,
     model: args.judgeConfig.model,
     system,
     messages: [{ role: "user", content: user }],

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:32.056Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f2081c6cce1c317c9d6bec377438311994ab5716355017932cb3895a52caf648",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JG8dorE8Lh5pW9ZxFC16vA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I think it's... the weight of it? Like, she calls and I can feel myself kind of bracing before I even pick up. She's going through a lot right now — work stuff, some relationship things — and I want to be there for her, I do. But lately it feels like I'm carrying something that isn't mine to carry.\n\nAnd then I feel guilty for even saying that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 91,
+      "cache_creation_input_tokens": 1456,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1456,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 91,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1456
+  }
+}

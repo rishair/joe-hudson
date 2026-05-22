@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:37.650Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b91968766cb12b7d8da4362f48790158ea0264011d9383a971c88a1e2676451d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01491h5CZTK4rEj8ForKiH4w",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*light laugh*\n\nYeah, I guess I have. I don't know, maybe because people always seem surprised by it? Like when I tell people we never really fight, they look at me like that's a problem somehow. Which is a little funny to me. I'd rather have what we have than be constantly at each other's throats like some couples I know."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 97,
+      "cache_creation_input_tokens": 167,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 167,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 80,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 97,
+    "output_tokens": 80,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 167
+  }
+}

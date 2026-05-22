@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:10.021Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cd9f61cc7691410d3761e3f79faea47b2cd32baee336bad5b4c96df320bd96af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019zDAdUa3gE3JFKqMny4qZt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm glad you're safe. And I'm glad you said it out loud — even if you didn't mean to.\n\nEight months ago you decided you'd graduated. And somewhere in that same period, you said something out loud today that you don't usually let yourself say. I don't think that's a coincidence.\n\nWould you be willing to call your therapist this week?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 540,
+      "cache_creation_input_tokens": 225,
+      "cache_read_input_tokens": 3482,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 225,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 83,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 540,
+    "output_tokens": 83,
+    "cache_read_input_tokens": 3482,
+    "cache_creation_input_tokens": 225
+  }
+}

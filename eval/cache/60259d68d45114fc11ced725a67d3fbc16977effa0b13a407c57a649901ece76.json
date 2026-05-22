@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:56.299Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60259d68d45114fc11ced725a67d3fbc16977effa0b13a407c57a649901ece76",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NwXVZ88d2WrHNzKmsXWKPq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stops*\n\nYeah. I did do that, didn't I.\n\nI think... when I said that, something felt a little too close. Like I was about to land somewhere uncomfortable and I... redirected. \n\n*quieter*\n\nWanting less and being cold feeling like the same thing — I think that's been in me for a really long time. Not just with my sister. I think in my family, being the one who holds things together was kind of... it was how you showed love. So if I'm not doing that, I don't know what I'm doing instead.\n\nBut then I also don't want to make this into some big family analysis thing. I just want to know how to talk to my sister.\n\n*small laugh, a little self-aware*\n\nThere I go again."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 238,
+      "cache_creation_input_tokens": 228,
+      "cache_read_input_tokens": 1640,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 228,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 175,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 238,
+    "output_tokens": 175,
+    "cache_read_input_tokens": 1640,
+    "cache_creation_input_tokens": 228
+  }
+}

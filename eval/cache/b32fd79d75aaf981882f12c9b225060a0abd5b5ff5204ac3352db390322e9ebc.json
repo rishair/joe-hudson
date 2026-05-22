@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:57.224Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b32fd79d75aaf981882f12c9b225060a0abd5b5ff5204ac3352db390322e9ebc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VTouCknPVj6xd4pjkJ8jCz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The \"if I don't laugh I'll be depressed\" — what happens if you let the depression be here for a second?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 158,
+      "cache_creation_input_tokens": 83,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 83,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 83
+  }
+}

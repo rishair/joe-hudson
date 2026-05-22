@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:57.811Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4f6ac54bf13872d49efc14e622513450d166bdbfa30f68f867c9c0379b05dd92",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JPdiErnMAnfhsuRZtfSZjZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't trust her."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 501,
+      "cache_creation_input_tokens": 186,
+      "cache_read_input_tokens": 3312,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 186,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 501,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 3312,
+    "cache_creation_input_tokens": 186
+  }
+}

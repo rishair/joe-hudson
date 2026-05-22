@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:58.535Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3c245a909ef1d9de3415a3341ae6defe6257e1a204de81b42c272c2a1662fbb9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017Ep5jRzkhekzubV8aSdymo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The feeling came first.\n\nThe number was supposed to fix it. And it hasn't — not at 1.5, not now.\n\nWhat do you think the feeling is actually about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 326,
+      "cache_creation_input_tokens": 259,
+      "cache_read_input_tokens": 3759,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 259,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 326,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3759,
+    "cache_creation_input_tokens": 259
+  }
+}

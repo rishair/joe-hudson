@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:36.931Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "724a6840f8797caccdc356cb788c12500325ad23f9951e5c93dc6634f3359c37",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011hdCMYDLmmoQCteWfJwRiZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nYeah, fair catch. I guess... I'm ready in the sense that I've been wanting to look at this for a while. I've done some therapy, I know the language, I can see the pattern from the outside. But there's a part of me that's like — okay, but do we actually have to go *in*? \n\nSo. Ready but also maybe a little... braced."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 97,
+      "cache_creation_input_tokens": 1884,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1884,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 97,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1884
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:48.250Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "67d2bf56b1aae9b2f5df4ad520a60416809ec0417f740c17154df34fdb539882",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0147rvksc1SnyT2mN1vC2gzc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\nIt's... strange. A little uncomfortable. Like I've been carrying something I didn't know had a name.\n\n*soft exhale*\n\nShe wasn't cruel about it. That's the thing. It was always said with this kind of — fond exasperation. \"Oh, you always know what you want, don't you.\" And I think I learned that knowing what you want is something you're supposed to apologize for. Or at least justify.\n\n*pause*\n\nAnd I've been doing that. For years, probably. Building the case before I make the ask. Making sure the want is defensible before I let myself feel it.\n\n*looks up, slightly*\n\nBut I'm still not sure the trip isn't selfish. Like — even with all that — my partner would genuinely have a hard week. That's real. That's not something I invented to protect myself."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 242,
+      "cache_creation_input_tokens": 431,
+      "cache_read_input_tokens": 1693,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 431,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 195,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 242,
+    "output_tokens": 195,
+    "cache_read_input_tokens": 1693,
+    "cache_creation_input_tokens": 431
+  }
+}

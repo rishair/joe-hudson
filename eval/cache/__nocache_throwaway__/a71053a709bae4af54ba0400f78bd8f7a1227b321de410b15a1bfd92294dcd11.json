@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:10.183Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a71053a709bae4af54ba0400f78bd8f7a1227b321de410b15a1bfd92294dcd11",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JskhPQiofdpdttVzVdGujq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So I have this thing I want to do — a week alone in the mountains, just me — and my partner's got a really full week with the kids and I just... is it selfish? Like, am I being selfish for even wanting it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 56,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 56,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 0
+  }
+}

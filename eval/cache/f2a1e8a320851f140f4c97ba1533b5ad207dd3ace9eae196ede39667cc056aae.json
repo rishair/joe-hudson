@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:29.430Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f2a1e8a320851f140f4c97ba1533b5ad207dd3ace9eae196ede39667cc056aae",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017vsKPmaPeNNYe7LFiC1LxA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just named the discomfort and then explained it away in the same breath.\n\nWhat's the uncomfortable part?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 268,
+      "cache_creation_input_tokens": 64,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 64,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 268,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 64
+  }
+}

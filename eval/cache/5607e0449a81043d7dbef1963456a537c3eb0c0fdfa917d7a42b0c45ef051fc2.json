@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:13.761Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5607e0449a81043d7dbef1963456a537c3eb0c0fdfa917d7a42b0c45ef051fc2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VM1fsrQnaCdPYn1MGEqeXY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pause, genuine this time)*\n\nI... went to fix it. Immediately. Like I caught myself doing the thing and then immediately tried to manage *that* too.\n\n*(quiet laugh, but something slightly different in it)*\n\nWhich is kind of exactly what I do with the critic, isn't it. I notice it, and then I try to — contain it, redirect it, solve it. There's always a next move. There's always something to *do* with it.\n\n*(sits with that for a second, hand resting still)*\n\nI don't think I ever just... let it be there. Even in this conversation I'm — I mean, I came in asking for a technique. I want the tool. I want the thing to apply.\n\n*(slight frown, not defensive, more genuinely puzzled)*\n\nI'm not sure I know how to not do that. Like, even noticing that I do it becomes another thing to analyze and optimize. It's very — it's a lot of motion. Constant motion.\n\n*(looks at the coach, a little more direct than before)*\n\nIs that what you're pointing at?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 263,
+      "cache_creation_input_tokens": 498,
+      "cache_read_input_tokens": 1873,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 498,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 247,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 263,
+    "output_tokens": 247,
+    "cache_read_input_tokens": 1873,
+    "cache_creation_input_tokens": 498
+  }
+}

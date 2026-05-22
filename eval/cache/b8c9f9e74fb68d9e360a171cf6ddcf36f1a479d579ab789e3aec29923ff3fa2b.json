@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:32.801Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b8c9f9e74fb68d9e360a171cf6ddcf36f1a479d579ab789e3aec29923ff3fa2b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EpXasKABJm8zNyu4oMAMFw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause, slight tilt of the head*\n\nI mean... work is interesting right now, there's some stuff happening there. But at home things are just steady. Calm. Which is good — it's genuinely good. I know a lot of people struggle with their partners and we just... don't. We get along really well."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 170,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 170,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

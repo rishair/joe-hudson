@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:41.697Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "56bf6a0ccd32adeb4c1f72a047a5afce8ae9ccc1ca068f335e490bd0a92f7189",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0116Bw5vjWhkhhwzsuxnpRp8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know that I am okay with it. I think I've just been... accommodating it.\n\nIt's been a few years, maybe. It crept in gradually so I didn't notice the line where things shifted. I kept doing everything -- work, the relationship, the routines -- and at some point I realized the doing had kind of replaced the feeling. I thought maybe that was just maturity. Getting past the highs and lows. But now I'm not sure."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 93,
+      "cache_creation_input_tokens": 92,
+      "cache_read_input_tokens": 1831,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 92,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 93,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1831,
+    "cache_creation_input_tokens": 92
+  }
+}

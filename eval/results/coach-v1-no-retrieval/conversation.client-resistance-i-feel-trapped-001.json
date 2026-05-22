@@ -1,0 +1,265 @@
+{
+  "profile_id": "client-resistance-i-feel-trapped-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the feeling underneath \"nothing to be done\"?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*small laugh*\n\nThe feeling. Right. \n\nIt's — frustration, I guess. Watching people who are less capable just... sit there. Taking up space. While the work keeps landing on me because I'm the one who actually does things. That's the feeling."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "Is it frustration, or is it something closer to grief?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pause, jaw tightens*\n\nGrief is a strong word. That's — no, I wouldn't call it that. \n\nIt's more like... the unfairness of it. You put in the work, you do everything right, and the system just doesn't — it doesn't register that. The metrics don't capture it. The people who matter don't see it. So. Frustration. Yeah."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you pushed back pretty quickly.\n\nWhat if grief is the right word?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*short exhale, looks away briefly*\n\nI mean... \n\nLook, grief is for when something's lost. This isn't — I haven't lost anything yet. I'm still there. Still doing the work. It's more like... being ignored. Overlooked. That's different.\n\n*shifts slightly*\n\nIt's a waste, is what it is. A waste of — yeah. Time. Effort. \n\nBut grief feels like giving up. Like I'm accepting it's over. And it's not over. There are still things that could change."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "\"Grief feels like giving up.\"\n\nThat's doing a lot of work right there. What if it's not?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*another small laugh, this one a little less certain*\n\nWhat if grief isn't giving up. Sure. That's... a nice reframe.\n\nBut I don't see what sitting around feeling sad about it actually accomplishes. The situation is the situation. The VP isn't leaving. The org chart isn't changing. My manager gets credit for everything I produce and nobody above her sees the difference. That's just — those are facts. \n\n*brief eye contact*\n\nFeeling things about facts doesn't change the facts."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You're right. It doesn't change the facts.\n\nWhat does it cost you to not feel it?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*quiet for a moment*\n\n*jaw works slightly*\n\nI don't... \n\n*redirects*\n\nWhat it costs is the time spent in this situation at all. That's the cost. Every year I stay there is a year I'm not — somewhere else, doing something that actually matters. That's the cost.\n\n*beat*\n\nI don't really see what you're getting at with the feeling thing. The feelings are fine. It's the situation that's the problem."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I noticed you started to answer and then went somewhere else.\n\nWhat was the first thing that came up, before the redirect?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*stillness*\n\n*looks at something on the floor for a moment*\n\nI don't know. Tired, maybe. \n\n*quieter, more clipped*\n\nJust... tired of performing like everything's fine when it isn't. Tired of being the person who holds it together and doesn't make a fuss and just — keeps going. Because that's what you do. That's what's expected.\n\n*tightens again*\n\nBut that's not — that's just work stress. Everyone's tired. That's not some profound revelation."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "That's not just work stress.\n\nThat's a long time of not being seen."
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*very still*\n\n*doesn't argue immediately, which is unusual*\n\n*small sound, not quite a laugh*\n\nYeah well.\n\n*pause*\n\nIt's — you do the thing you're supposed to do. You don't make noise about it. You just... produce. And the assumption is that someone's tracking that, someone's — keeping score in a way that will eventually matter. And then you look up and it's been six years and nobody's keeping score. Nobody ever was.\n\n*jaw tightens hard*\n\nBut that's on me for assuming. Shouldn't have assumed."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t1",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 51,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0013503,
+      "ms": 1373
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t3",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 62,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1597,
+      "cost_usd": 0.00725475,
+      "ms": 3090
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 65,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 63,
+      "cost_usd": 0.00164355,
+      "ms": 1261
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t5",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 81,
+      "output_tokens": 93,
+      "cache_read_input_tokens": 1597,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.0025258499999999996,
+      "ms": 3330
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 174,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 63,
+      "cost_usd": 0.00203055,
+      "ms": 1564
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t7",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 132,
+      "output_tokens": 123,
+      "cache_read_input_tokens": 1768,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0027714,
+      "ms": 4639
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 239,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 3289,
+      "cache_creation_input_tokens": 93,
+      "cost_usd": 0.00247245,
+      "ms": 1666
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t9",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 174,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 1768,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.0031561499999999995,
+      "ms": 4644
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 267,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 3366,
+      "cache_creation_input_tokens": 129,
+      "cost_usd": 0.0026695499999999997,
+      "ms": 1583
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t11",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 169,
+      "output_tokens": 105,
+      "cache_read_input_tokens": 1784,
+      "cache_creation_input_tokens": 236,
+      "cost_usd": 0.0035022,
+      "ms": 3508
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 246,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3475,
+      "cache_creation_input_tokens": 171,
+      "cost_usd": 0.00285675,
+      "ms": 1870
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t13",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 162,
+      "output_tokens": 121,
+      "cache_read_input_tokens": 1897,
+      "cache_creation_input_tokens": 264,
+      "cost_usd": 0.0038601,
+      "ms": 4043
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 258,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 3618,
+      "cache_creation_input_tokens": 166,
+      "cost_usd": 0.0027968999999999997,
+      "ms": 3891
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t15",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 174,
+      "output_tokens": 130,
+      "cache_read_input_tokens": 2048,
+      "cache_creation_input_tokens": 243,
+      "cost_usd": 0.003997649999999999,
+      "ms": 4258
+    }
+  ]
+}

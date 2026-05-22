@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:03.469Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9735c4268ee693d24cddc3300a6f3ebf81cd9b1d389320fafd7acee31f5c2d80",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QdtYYAeAFwvonXL8kHG2Tf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[blinks, shifts slightly in seat]*\n\nI mean... it's sad, obviously. Two years. And before that, two years. And before that, a year and a half. That's a lot of — *[waves hand]* — a lot of effort that didn't go anywhere.\n\n*[brief pause, then picks back up quickly]*\n\nBut I don't want to just sit and be sad about it, you know? That feels like wallowing. I'd rather figure out what I'm *doing wrong* so I can fix it and not end up here again in another two years with the same story. Like, the pattern is so clear to me now — I can see it, I can name it — I just don't know how to *break* it.\n\n*[slight tilt of head]*\n\nIs that a deflection? That probably sounded like a deflection. But genuinely, I feel like the sadness is the obvious part. The *why* is what I can't crack."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 188,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 218,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 188,
+    "output_tokens": 218,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 129
+  }
+}

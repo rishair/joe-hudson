@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:55.877Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e92e8a97784f4508fbcdf9ea5834dd5ec54d36d27fcc1422a7b243b635e65383",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FwFhihFWv5iyhgMu5YveJA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The company fails. People lose jobs. Investors lose money. I look like I didn't know what I was doing.\n\nBut — look, I hear you, and maybe that's true about the lag, but I've been running on four hours of sleep and I have a product decision due tomorrow and a co-founder who's going off-script in investor conversations. I don't have the bandwidth for this right now. This feels like something I'd do on a retreat, not a Tuesday."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 200,
+      "cache_creation_input_tokens": 96,
+      "cache_read_input_tokens": 1818,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 96,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 200,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1818,
+    "cache_creation_input_tokens": 96
+  }
+}

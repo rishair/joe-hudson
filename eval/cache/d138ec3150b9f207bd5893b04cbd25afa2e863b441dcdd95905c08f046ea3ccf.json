@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:12.053Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d138ec3150b9f207bd5893b04cbd25afa2e863b441dcdd95905c08f046ea3ccf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XfJTXVquGn7vxtqFvV5yFn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, slight stillness*\n\nThat's an interesting reframe. I'm not sure I'd put it in terms of cost exactly.\n\n*pause*\n\nI mean — the stakes are real. If I take it and it's wrong, that's... a significant disruption. And if I don't take it and that's wrong, I've passed on something that might not come around again. So the cost of getting it wrong is high either way. That's part of why I want to be sure I'm reading the signals correctly.\n\n*brief pause, voice stays even*\n\nBut I don't think it's about trusting myself, specifically. It's more about having a reliable method for distinguishing the signals. That's the actual problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 136,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 1806,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 136,
+    "output_tokens": 160,
+    "cache_read_input_tokens": 1806,
+    "cache_creation_input_tokens": 129
+  }
+}

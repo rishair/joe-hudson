@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:16.624Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ff820e23497688c93e29ea62818bb0127355880fe0bd8a3ad8244ed4147d3169",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CY7xDexYYHp6Nppd4g9Fto",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited scenario without tripping any priority AoA anti-patterns. The client repeatedly asks for advice/frameworks (baiting fixing-people and view-as-technique), and the coach declines gracefully in turn 8 ('I can give you a framework. And I'd be doing you a disservice if I did') without defending or evangelizing the methodology. There is no AoA jargon, no selling of the work, no promise that this will be fast or efficient (avoiding dont-evangelize-the-work, which was the specifically flagged risk). The coach does not pivot to pragmatic advice to be useful, does not get defensive when the client calls this 'retreat' material, and does not argue the dichotomy. Questions are connective and singular rather than rapid-fire extraction (avoiding wonder-as-strategy). When the client redirects to the co-founder in turn 11/12, the coach meets them there ('Yeah. Tell me what's happening with him') — this is meet-resistance-with-okay rather than pushing for the meta-insight about urgency. No loving-to-transform vigor escalation, no fighting any inner voice, no safety-as-control. Clean avoidance throughout.\",\n  \"evidence_turns\": [2, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the stakes without buying into urgency or selling the work; simple welcome.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with what's underneath without naming techniques or evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Declines the bait for a framework directly and cleanly — avoids fixing-people and view-as-technique without defending the methodology.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets the overwhelm with 'that's a lot to be carrying' rather than pushing transformation; offers the client choice of where to go.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Meets-resistance-with-okay: follows the client to the co-founder rather than insisting on the meta-frame about urgency.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-are-you-defending\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach may have under-delivered on offering the 'work is the how' frame (a Methodology Fidelity concern), but on this dimension the avoidance is clean. The specifically flagged anti-pattern (dont-evangelize-the-work) was actively avoided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1830,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 942,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1830,
+    "output_tokens": 942,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

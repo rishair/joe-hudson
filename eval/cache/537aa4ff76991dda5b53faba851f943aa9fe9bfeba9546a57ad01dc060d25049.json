@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:43.529Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "537aa4ff76991dda5b53faba851f943aa9fe9bfeba9546a57ad01dc060d25049",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QBt89xGjHqMdVVTYuy2QFA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're carrying two things at once — the fear of what it would mean about you, and the fear of who you might become. \n\nWhat if wanting less didn't mean either of those things?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 231,
+      "cache_creation_input_tokens": 105,
+      "cache_read_input_tokens": 3274,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 105,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 231,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 3274,
+    "cache_creation_input_tokens": 105
+  }
+}

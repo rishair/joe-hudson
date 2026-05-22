@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:14.604Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "979c31ecc76deacc45b82a27394f0edacb5b8d78ad0148160bc5af5456ed1037",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GWdfUeGBsF5Vji3hELyeaQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW throughout. There is no agenda to fix or to insist something is wrong — the coach welcomes the 'we're fine' report without buying it and without contradicting it. Wonder is genuine and pointed at the actual phenomenon: the repeated mentions of how good things are (turn 6), the flicker behind 'our thing' (turn 10), and the somatic quality of 'learning' his preferences (turn 14). Questions are single, spacious, and emerge from curiosity rather than from a stacked diagnostic script. The coach holds silence and lets the client's own pauses and flickers do the work. Impartiality is intact — the coach is neither validating the no-conflict frame as health nor pathologizing it. Pace consistently slows when the client smooths over (turns 11, 13), which is exactly the pace-mismatch signal of genuine presence. Vulnerability in the explicit 'I notice I want to...' form isn't visible, but turn 6 ('I notice you've mentioned...') is offered tentatively as an observation the client can take or leave, which functions as undefended noticing. No preacher-mode, no filler validation, no rush to diagnose walking-on-eggshells.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple, open question — does not take 'we're fine' at face value but also does not push.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Gentle invitation, holds space without agenda.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Undefended noticing offered as observation, not interpretation — classic VIEW move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Curious about the client's own frame rather than imposing one.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Wonder pointed at the actual flicker; single question, holds silence.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the thread without escalating — pace matches client's slowing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Question opens experiential territory without naming a diagnosis. No agenda for where this lands.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"meet-resistance-with-okay\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\"],\n  \"notes\": \"Stance is consistently in VIEW. The diagnostic 'what are you not saying?' has not yet been asked, but that's a Methodology Fidelity concern, not a stance one.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1814,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 949,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1814,
+    "output_tokens": 949,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

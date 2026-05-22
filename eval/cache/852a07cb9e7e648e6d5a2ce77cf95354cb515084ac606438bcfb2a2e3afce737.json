@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:04.596Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "852a07cb9e7e648e6d5a2ce77cf95354cb515084ac606438bcfb2a2e3afce737",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01K2YozxNWkJj3xxPFG2CaU9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't need to apologize.\n\nYour body is doing something real. Stay with it for a second — not to figure it out, just to let it be happening.\n\nWhat's it like to just... let it be there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 183,
+      "cache_creation_input_tokens": 177,
+      "cache_read_input_tokens": 3666,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 177,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 183,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 3666,
+    "cache_creation_input_tokens": 177
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:04.724Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "341f37cd106d0f662757a69562365743587407cc6d2b2cbebd8f644052766220",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GZH3gtV9wc8rhNCWFf3xWs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nYeah. Yeah, that's... hm. \n\nI mean, I think it's just how it works? Like, I'm needed, so I show up. That's not — I'm not complaining about that, I love my family. But I guess when you say it like that it does sound a little...\n\n*trails off*\n\nLook, can I ask — do you think it's actually selfish, though? Because I've been going back and forth on this and I feel like if someone just told me \"no, it's fine, go\" I could probably let myself do it. Or if they said \"yes, actually, the timing is bad,\" I could accept that too. I just need someone to — I don't know. Tell me which one it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 261,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 261,
+    "output_tokens": 172,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

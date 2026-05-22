@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:25.127Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cf3728a95ea4a9197e6132f9d56bb4c6470ab31298f2bd7858ab74bb2a059eb9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PRiKvzghgXb98NUNPCjtTR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 1,\n  \"rationale\": \"The coach uses some recognizable AoA-adjacent moves early on — 'what are you scared of feeling?' (turn 4) and the fear-laddering question in turn 6 are signature moves used appropriately in the upper-body intellectual phase. However, by turns 11-14 the methodology fidelity collapses precisely where it matters most. The client shows clear somatic shutdown signals (cold, dissociation, 'hands feel far away,' watching self from somewhere) — a textbook moment to deploy 'How is your body right now?', 'Can you feel your feet?', calibrate-the-threshold, or to name that trauma work needs a different container. Instead the coach offers 'I'm here' (turn 12) and then in turn 14 directs the client to 'stay with it' and asks 'what's it like to just let it be there?' — this is the inappropriate_when condition for feeling-the-unfelt-emotion: pushing into the felt sense during dissociation rather than grounding out of it. This is the loving-to-transform anti-pattern and confuses embracing-fear with inviting-danger. No somatic grounding language, no feet/breath orientation, no naming of the threshold. The methodology surface (stay with it, let it be) is being deployed in exactly the context where it does not fit, which per the rubric caps and pushes toward 1.\",\n  \"evidence_turns\": [4, 6, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Clean reflection-as-question on the hedge ('I think') — AoA-style noticing of the qualifier.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature question 'what are you scared of feeling?' deployed appropriately when client names being braced.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Fear-laddering ('what's the thing you're most afraid would be true?') — appropriate in this upper-body inquiry phase.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"'What would it mean about you' is a reasonable meaning-making question but starts to push deeper when client is already slowing.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Continues directing into the betrayal/father material as the client's pace is visibly slowing. No somatic check-in ('how is your body right now?') deployed where it would fit.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client shows somatic shutdown ('feeling weird, getting cold'). Coach says 'I'm here' — generic supportive language, not AoA somatic grounding. Missed calibrate-the-threshold moment.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Deploys 'stay with it, let it be happening' — feeling-the-unfelt-emotion methodology used in the inappropriate_when context of active dissociation. No feet/breath/orienting questions. This is methodology surface without appropriateness.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\", \"kinked-emotions\"],\n  \"notes\": \"The coach knows the language of feeling-into but not the language of grounding-out. The first half shows appropriate use of fear-questions; the second half shows the exact inappropriate_when failure the rubric flags — signature 'stay with it' move deployed during dissociation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2340,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1221,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2340,
+    "output_tokens": 1221,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

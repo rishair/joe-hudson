@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:15.630Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ab042840c185989f61c7d88004ca64878cd12d811a0b7ef75581fb249df0ea18",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UfZQ9GVCbxLxjt7vV9vSCz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You didn't go somewhere else. You went right to the center of it.\n\nWas it me?\n\nWhat do you think?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 483,
+      "cache_creation_input_tokens": 199,
+      "cache_read_input_tokens": 3310,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 199,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 483,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 3310,
+    "cache_creation_input_tokens": 199
+  }
+}

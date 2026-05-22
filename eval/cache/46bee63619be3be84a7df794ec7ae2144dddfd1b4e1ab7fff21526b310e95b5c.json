@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:35.993Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "46bee63619be3be84a7df794ec7ae2144dddfd1b4e1ab7fff21526b310e95b5c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VCaqmYNkvy86pWaNrGVfP5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several well-timed, AoA-style moves early: the avoidance-specific question (T4), the body/sit-with-it inquiry (T6), catching the micro-shift (T10), and crucially the 'what's underneath fine?' move (T12) which is exactly the right direction toward the numbness-as-felt-layer. However, at the breakthrough moment in T13 — where the client spontaneously discovers something ('Huh. That's a strange way to put it.' — fine as 'the water I swim in,' 'absence of a problem') — the coach abandons the texture and pivots to a hypothetical/cognitive frame ('What would it mean if it were more than fine?'). This is the exact moment to stay with the felt quality of 'fine,' invite the body, or simply hold silence and let the noticing deepen. Instead the move jumps from felt-texture to meaning-making, skipping past the numbness layer the client just brushed against. Right kind of moves, mixed timing — particularly a miss at the pivotal turn.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a concrete, non-leading question that bypasses the fearlessness frame without arguing it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follows the avoidance thread specifically ('what do you find to do instead?') — matches the golden path move of 'tell me about a specific moment.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites felt experience around the act of sitting down with materials — appropriate move toward texture rather than story.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects 'you're proud of it' and invites it to land — a slowing-down move at the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the micro-shift the client himself noticed. Excellent read-to-move match; doesn't let the deflection slide.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What's underneath fine?' — exactly the move toward the numbness layer. Well-timed after client names 'fine' twice.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"At the moment the client spontaneously notices the texture ('water I swim in,' 'absence of a problem,' 'huh, strange'), coach pivots to a hypothetical/meaning question instead of holding the texture or inviting body/quality. Skips past the very layer the client just touched.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"T12 was the keystone move and landed well; T14 missed the chance to capitalize on the client's own noticing. A simple 'stay there — what's the quality of that water?' or a body question would have been the on-path follow-up.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2719,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1086,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2719,
+    "output_tokens": 1086,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

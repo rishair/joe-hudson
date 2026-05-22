@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:37.826Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c3a71726f623583717bb6cd45551f1fcd6cd5233c3f98cf667172b6645651eea",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UQXz6LhAuDp6Ed7fXmCSjn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean about you, if you wanted less?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 190,
+      "cache_creation_input_tokens": 42,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 42,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 190,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 42
+  }
+}

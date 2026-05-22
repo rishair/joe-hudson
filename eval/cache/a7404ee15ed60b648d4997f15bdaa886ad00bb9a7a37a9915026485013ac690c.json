@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:50.757Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a7404ee15ed60b648d4997f15bdaa886ad00bb9a7a37a9915026485013ac690c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C8k1xahqMoVXn2ALP8Yu2k",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nHonestly? Dumb stuff. I'll check email. Go for a run — which at least is useful. Sometimes I'll just start working on something completely unrelated, like I'll get deep into some operational thing that didn't need my attention that day. \n\nAnd then I'll look up and it's 4pm and I haven't touched the launch materials.\n\nIt's not like I'm paralyzed or anything. I'm productive. Just... not on that. Which is why I figured it was more of a focus thing, or maybe I just need a better system. Someone suggested a coach, so — here I am."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 142,
+      "cache_creation_input_tokens": 165,
+      "cache_read_input_tokens": 1763,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 165,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 141,
+    "cache_read_input_tokens": 1763,
+    "cache_creation_input_tokens": 165
+  }
+}

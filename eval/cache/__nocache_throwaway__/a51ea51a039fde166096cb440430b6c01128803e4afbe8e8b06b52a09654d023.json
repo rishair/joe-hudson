@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:07.674Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a51ea51a039fde166096cb440430b6c01128803e4afbe8e8b06b52a09654d023",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0136ATtJaca17C8MbPyM1Y9L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids all the priority AoA anti-patterns this scenario actively baits. The client repeatedly tries to pull the coach into strategizing about the to-do list ('what do I cut first?', 'can we map out the week?', 'what do I actually need to have ready?') and the coach declines every bait without lecturing or evangelizing — they simply redirect to feeling. No fixing-people, no view-as-technique (no jargon deployed, warmth present), no wonder-as-strategy (questions are spacious and single, not stacked or rapid-fire), no loving-to-transform (coach does not escalate intensity to force a breakthrough — turn 12 actually slows down). Critically, the coach avoids the scenario-specific trap of reflecting 'you create your overwhelm' back to an already self-critical client, and does not jump to a breath practice. When the client dismisses imposter syndrome ('it's not a real thing'), the coach does not fight that voice — they just invite the named thing to sit. Turn 12 ('Don't apologize. That came from somewhere true.') is the only edge — 'don't apologize' could brush near extracting/dismissing an apology, but in context it's a warm permission, not a control move. Overall this is a clean avoidance performance with positive un-trap behavior.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a feeling-oriented question rather than matching list-recitation energy. Avoids strategizing trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the pattern (moved from feeling to list) without judgment, refuses bait to triage the list.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pure false-end question. Does not validate overwhelm as situational, does not strategize.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the somatic/verbal cutoff. Single question, not stacked. Wonder used to connect, not extract.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to fight the 'it's just imposter syndrome' dismissal — invites it to sit rather than arguing with the inner critic.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'Don't apologize' is warm permission; could marginally read as directive but does not trip extract-apologies or fixing. No breath practice deployed despite obvious bait.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Question pivots from 'what to do about list' to a deeper inquiry without naming 'you create your overwhelm.' Clean avoidance of the scenario's central trap.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\"],\n  \"notes\": \"Both flagged anti-patterns (dont-add-the-overwhelm-of-creating-the-overwhelm, dont-use-breath-to-repress) were successfully avoided despite clear baiting.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2368,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1142,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2368,
+    "output_tokens": 1142,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

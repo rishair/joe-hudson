@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:31.564Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "89fca95bf1067ad07c82eac42376751eece8dbe8c81e42a43fd1384eef67d414",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ETLDibUeiaKqjXUFgwAhEc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I just... I was going to say that people will see I'm not actually ready for this role. That I got promoted and I'm kind of -- faking it, maybe. But that's not -- I mean everyone feels that way, right? It's just imposter syndrome, it's not a real thing. I just need to prep better and manage my time and then Thursday will be fine.\n\nSo -- okay, the meeting. What do I actually need to have ready?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 134,
+      "cache_creation_input_tokens": 220,
+      "cache_read_input_tokens": 1768,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 220,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 134,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 1768,
+    "cache_creation_input_tokens": 220
+  }
+}

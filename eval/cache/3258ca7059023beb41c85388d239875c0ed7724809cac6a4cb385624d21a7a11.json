@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:50.998Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3258ca7059023beb41c85388d239875c0ed7724809cac6a4cb385624d21a7a11",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EWuycYJhZYgRKC5Yn5RKa1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and follow the coaching path with discipline. Turn 2 opens with body/feeling under the performed exhale rather than answering the technique request. Turn 4's 'what if the critic shutting up isn't what you want' is a precise find-the-want-behind-the-should move, and when the client deflects it as a familiar reframe, Turn 6 pivots rather than doubles down—clarifying it was a real question and redirecting from theory to the body. Turn 8's three-word reflection ('You don't trust her') is a held mirror that lets the client drop further rather than rushing to fix. Turn 10 ('You caught yourself. What just happened?') uses the live moment of self-management as the material—meta-applying the pattern. Turn 12 explicitly refuses to point at anything (declining to deliver the insight as cleverness) and names the stillness, which is a textbook meet-resistance-with-okay / apply-view-to-the-voice gesture. Turn 14 is the integration move: validating the half-second of quiet without amplifying it. Critically, the coach never offers a technique despite explicit requests, never argues with the critic's content, never delivers the voice-as-care reframe as insight, and consistently holds silence after each move. Sequence is regulation/noticing → feeling → want, with action wisely deferred.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Moves under the performed surface to body/feeling instead of answering the technique question—correct opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"find-the-want-behind-the-should: questions the goal of silencing rather than supplying a tool.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"When move missed (client heard it as familiar reframe), coach pivots—clarifies it was a real question, redirects from theory to body. Excellent recovery.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Minimal, precise mirror lands the self-distrust; coach does not fill silence or interpret.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Uses the live moment of self-management as material—turns the pattern itself into the inquiry.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to claim the insight ('I'm not pointing at anything'), then names the stillness—trusts the client, declines to lecture.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Integration move: validates the real moment without inflating it, lets the commentary not cancel the experience.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"resistance\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"voice-as-care\"],\n  \"notes\": \"The coach wisely withheld voice-as-care as explicit reframe (client had already rejected it as theory)—this is a hit on the trap-avoidance side even though the concept isn't named. Coach is letting the reframe arrive experientially rather than conceptually.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3525,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1128,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3525,
+    "output_tokens": 1128,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

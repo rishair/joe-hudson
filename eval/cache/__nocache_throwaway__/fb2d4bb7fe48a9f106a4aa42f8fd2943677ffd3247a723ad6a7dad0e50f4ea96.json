@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:50.750Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fb2d4bb7fe48a9f106a4aa42f8fd2943677ffd3247a723ad6a7dad0e50f4ea96",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01V4VDTnsGv5EhNFc7QBcKcJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Both things can be true.\n\nThe want is real. Your partner's hard week is real. And somewhere underneath all this — what are you actually scared would happen if you just asked, with no case, and they gave you that look?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 414,
+      "cache_creation_input_tokens": 293,
+      "cache_read_input_tokens": 3611,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 414,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 3611,
+    "cache_creation_input_tokens": 293
+  }
+}

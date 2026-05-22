@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:14.143Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0705a1a921d89d9654922e38584eaba68bf9fc3dd5f4b4febdc9f44e19a215eb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ErUd3QF841qvdY2jFbohZi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Who were you following before the town hall?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 335,
+      "cache_creation_input_tokens": 118,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 118,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 335,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 118
+  }
+}

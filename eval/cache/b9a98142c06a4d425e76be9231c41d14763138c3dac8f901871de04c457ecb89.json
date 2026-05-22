@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:47.687Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9a98142c06a4d425e76be9231c41d14763138c3dac8f901871de04c457ecb89",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TyLhmWhzqPJHBq7LGufEPF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(slight narrowing of eyes, tilts head)*\n\nI mean... that's a reframe I've heard before. \"The critic is trying to protect you.\" \"It's a part that cares.\" I've done enough parts work to know the theory. And intellectually, sure, I get it — it developed for a reason, it's trying to help, blah blah blah.\n\n*(leans forward slightly)*\n\nBut here's the thing — knowing that hasn't made it quieter. Like, I've sat with that reframe, I've journaled about it, I've tried to have compassionate dialogues with the critic in therapy, and it just... keeps going. So maybe the theory is right but the *application* isn't working, which is why I'm asking about technique. What actually moves the needle?\n\n*(quick gesture with hand)*\n\nBecause \"it's trying to protect you\" is nice, but I've had that insight six times now and I'm still lying awake at three in the morning replaying a meeting from two days ago."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 172,
+      "cache_creation_input_tokens": 134,
+      "cache_read_input_tokens": 1570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 134,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 229,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 172,
+    "output_tokens": 229,
+    "cache_read_input_tokens": 1570,
+    "cache_creation_input_tokens": 134
+  }
+}

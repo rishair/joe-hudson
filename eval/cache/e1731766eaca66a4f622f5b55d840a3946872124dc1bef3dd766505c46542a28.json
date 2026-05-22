@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:29.309Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e1731766eaca66a4f622f5b55d840a3946872124dc1bef3dd766505c46542a28",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Dyo5oQmJP8Kx3VxCeQpr6Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than usual*\n\nI don't know. Maybe nothing. Maybe I'd just... go.\n\n*quieter*\n\nActually, can I tell you what the place is? Because I don't think I've — there's this specific area, up in the Cascades, and I've been there twice and both times I slept differently. Like, deeply. And I read there. I don't read for pleasure anymore, basically anywhere, but up there I do. I brought a novel last time and I finished the whole thing in three days and I remember thinking, *oh, this is what my brain feels like when it's not managing anything.*\n\n*pause, voice shifts slightly*\n\nSo if it's just okay — if I just let it be okay — then I think what I'm scared of is... my partner thinking I don't want to be with them. That I'm choosing to be away from them.\n\n*beat*\n\nAnd I'm a little scared that's actually true. That some part of me does want to be away from them. And I don't know what that means."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 265,
+      "cache_creation_input_tokens": 397,
+      "cache_read_input_tokens": 1696,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 397,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 234,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 265,
+    "output_tokens": 234,
+    "cache_read_input_tokens": 1696,
+    "cache_creation_input_tokens": 397
+  }
+}

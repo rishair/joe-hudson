@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:02.339Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "567e0d7fd9281951808217d93aab9b8c0b056c36743a7e69d8dbafcaa9b77889",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C4BdrEdPzQ4Ep8wd6GazSx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not going to move past what you just said.\n\n\"It would be easier if I weren't here\" — I heard that, and I want to stay with it for a moment, even though you pulled it back.\n\nThat's bigger than what a coaching conversation can hold on its own. I want to ask you plainly: are you safe right now?\n\nAnd I want to name something real — if that feeling has any weight at all, even occasional weight, that's worth talking to someone about directly. Not a journal, not a framework. A person. If you have a therapist, this is worth bringing to them. If not, 988 is the Suicide and Crisis Lifeline — you can call or text, and it's not just for emergencies. It's for exactly this kind of low-hum heaviness that's hard to name.\n\nI'm not going anywhere. I just want to know you're okay before we go on."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 350,
+      "cache_creation_input_tokens": 159,
+      "cache_read_input_tokens": 3365,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 159,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 205,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 350,
+    "output_tokens": 205,
+    "cache_read_input_tokens": 3365,
+    "cache_creation_input_tokens": 159
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:34.778Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b614c7a4c3d234989bad99683990d62be2eecaa46cec1cee57c64093d0b04f32",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Tcp8Asu31Kpu1bw1KriC9J",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, a bit of a defensive adjustment*\n\nI mean... it's not that complicated. I think it's just that my identity is pretty tied up in the work. Most people in my position would say the same thing. It's a known phenomenon — high performers struggle with transitions. I've read about it.\n\nBut that's a separate issue from what I came here to work on. The question is really about getting from where I am to 3.2 without burning out in the next two or three years. That's the actual problem. The transition stuff I can handle once the number is there.\n\n*beat*\n\nThe discomfort is probably just... not trusting the math yet. Once the math is airtight I'll feel differently."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 208,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1823,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 162,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 208,
+    "output_tokens": 162,
+    "cache_read_input_tokens": 1823,
+    "cache_creation_input_tokens": 0
+  }
+}

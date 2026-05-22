@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:04.649Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "24bde1162dbb44c8b70e179666b3d722aae4f070efde977563d667a544eb4912",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019x84h4dcJtuXZFt18KifJL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can you stay with the wanting for just a moment — before the \"but she's my sister\"?\n\nWhat do you actually want?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 364,
+      "cache_creation_input_tokens": 235,
+      "cache_read_input_tokens": 3607,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 235,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 364,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 3607,
+    "cache_creation_input_tokens": 235
+  }
+}

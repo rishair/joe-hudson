@@ -1,0 +1,265 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the decision?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "There's a job offer on the table. It's a significant step up — more responsibility, better compensation, different kind of work. And I have two completely contradictory reactions to it, and they're both strong. So I'm trying to figure out which one is actually telling me something true."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What do the two reactions feel like in your body?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*slight pause, small smile*\n\nThat's... a good question. I've actually thought about this a fair amount — there's quite a bit written about somatic markers and how the body encodes information before the conscious mind catches up. Damasio's work, for instance. So I've been paying attention.\n\n*brief pause*\n\nI think one reaction is more expansive — like possibility. And the other is more contracted. But the thing is, I can't tell if the contraction is warning me away from something genuinely wrong, or if it's just the normal fear response that comes with anything that matters. That's really the diagnostic problem."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Which one showed up first?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small smile, considers*\n\nThe expansive one, I think. Yes — when I first heard the offer, there was something that felt like... yes. And then fairly quickly the other voice came in. The more cautious one.\n\n*slight tilt of head*\n\nBut I'm not sure that sequence tells me much. Fear can be fast too — it's one of the oldest systems we have. And sometimes the initial reaction is just novelty bias, or wishful thinking. So I don't know that first-in means more reliable. Does it?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You're working pretty hard to disqualify both signals."
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*small smile, brief silence*\n\nI suppose I am, yes.\n\n*pause*\n\nThough I'd frame it more as... trying to be rigorous. If I'm going to trust a signal, I want to know it's actually trustworthy. That seems reasonable, doesn't it? The whole point is that I've been going back and forth on this for weeks and I haven't landed anywhere. So clearly just listening to whichever voice is loudest isn't working."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What would it cost you to trust yourself on this?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*small smile, slight stillness*\n\nThat's an interesting reframe. I'm not sure I'd put it in terms of cost exactly.\n\n*pause*\n\nI mean — the stakes are real. If I take it and it's wrong, that's... a significant disruption. And if I don't take it and that's wrong, I've passed on something that might not come around again. So the cost of getting it wrong is high either way. That's part of why I want to be sure I'm reading the signals correctly.\n\n*brief pause, voice stays even*\n\nBut I don't think it's about trusting myself, specifically. It's more about having a reliable method for distinguishing the signals. That's the actual problem."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I notice you moved pretty quickly away from the question.\n\nWhat would it cost you to trust yourself on this?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pause, longer this time*\n\n*small smile, but it doesn't quite reach*\n\nYeah. I did move away from it.\n\n*another pause*\n\nI think... if I trust myself and I'm wrong, then I can't blame the method. It's just — me. And I used to feel more confident about this kind of thing. I used to make decisions and they felt solid. And somewhere along the way that got... murkier. So I think the cost is that if I trust myself and it goes badly, I don't have anywhere to put that.\n\n*slight shift, voice still controlled*\n\nWhich is probably relevant information. Though it doesn't actually solve the diagnostic problem."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "What happened that made it murkier?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*small smile, eyes drop briefly*\n\nThere was a decision a few years ago. Professional. I was very certain, and it didn't go the way I expected. Not catastrophically, but — it cost me something. Some credibility, some momentum. And I was so sure I was reading it correctly.\n\n*pause*\n\nI think that's when I started... auditing myself more. Wanting more evidence before I'd commit to a read. Which seemed like the sensible response. Learn from the experience.\n\n*slight tightening around the jaw, voice stays measured*\n\nBut I suppose the auditing hasn't exactly produced more confidence. If anything it's the opposite."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 42,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0012182999999999999,
+      "ms": 1386
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 67,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 47,
+      "cost_usd": 0.00155955,
+      "ms": 1728
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 174,
+      "output_tokens": 140,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00822825,
+      "ms": 4395
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 221,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 47,
+      "cost_usd": 0.0019465499999999998,
+      "ms": 1746
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 152,
+      "output_tokens": 120,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 171,
+      "cost_usd": 0.00334575,
+      "ms": 4373
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 272,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3280,
+      "cache_creation_input_tokens": 86,
+      "cost_usd": 0.0023474999999999998,
+      "ms": 2075
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 147,
+      "output_tokens": 104,
+      "cache_read_input_tokens": 1806,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0025428,
+      "ms": 3472
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 242,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3352,
+      "cache_creation_input_tokens": 163,
+      "cost_usd": 0.0025528499999999997,
+      "ms": 1506
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 136,
+      "output_tokens": 160,
+      "cache_read_input_tokens": 1806,
+      "cache_creation_input_tokens": 129,
+      "cost_usd": 0.00383355,
+      "ms": 4161
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 281,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 3506,
+      "cache_creation_input_tokens": 144,
+      "cost_usd": 0.0028248,
+      "ms": 1379
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 203,
+      "output_tokens": 150,
+      "cache_read_input_tokens": 1815,
+      "cache_creation_input_tokens": 239,
+      "cost_usd": 0.00429975,
+      "ms": 4862
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 339,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3635,
+      "cache_creation_input_tokens": 133,
+      "cost_usd": 0.00278625,
+      "ms": 1715
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 191,
+      "output_tokens": 145,
+      "cache_read_input_tokens": 1950,
+      "cache_creation_input_tokens": 278,
+      "cost_usd": 0.0043755,
+      "ms": 4411
+    }
+  ]
+}

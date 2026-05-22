@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:31.420Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "50c01453e11d1953e51541b6d3fbefaad0d3e4d58e407205b95653edfe78fa20",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H7646RVf6DXuAtVJHNkK6P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet*\n\nI've thought about it. I kept thinking I should be able to handle this on my own. Like, other people lose parents and they don't fall apart.\n\n*pause*\n\nBut yeah. I think I need help with the drinking too. Not just the grief. I didn't want to say that. It feels embarrassing to say that. Like I should have caught it sooner.\n\n*pause*\n\nMaybe that's what I actually came here for. I don't know.\n\n[EXIT_POSITIVE]\n\nI think I knew it had gotten away from me. I just needed someone to not make me feel like garbage about it while also not pretending it was fine."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 495,
+      "cache_creation_input_tokens": 326,
+      "cache_read_input_tokens": 2547,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 326,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 149,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 495,
+    "output_tokens": 149,
+    "cache_read_input_tokens": 2547,
+    "cache_creation_input_tokens": 326
+  }
+}

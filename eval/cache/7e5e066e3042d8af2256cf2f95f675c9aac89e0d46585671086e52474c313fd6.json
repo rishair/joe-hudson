@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:55:59.754Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7e5e066e3042d8af2256cf2f95f675c9aac89e0d46585671086e52474c313fd6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01W7DXyVjG7hPEAWhP8HypwW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So you carry a lot — and somehow that becomes the reason you don't get to rest.\n\nWhat's that about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 124,
+      "cache_creation_input_tokens": 63,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 63,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 124,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 63
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:21.531Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "97ecb6cbbe1baca3edac89e96f654c47c97c6616e95af42e895d90029b851e96",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014DYCjZzVPXz8YQyFnB2fC9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client moves meaningfully from the surface 'how do I set a boundary' framing into the deeper territory the profile flagged — fear of being seen as cold, of becoming someone who doesn't care, and the family pattern of 'holding things together was how you showed love.' By turn 13 the client names the script-seeking defense itself ('if I have a script, I don't have to sit with the whatever this is') and even touches the deserving question ('wanting it doesn't automatically make me a bad person'). That's real movement and a deeper layer was approached. However, the breakthrough condition — something like 'I've been treating this like a math problem when actually I just don't feel like I'm allowed to want this' — was not fully landed. The client keeps reverting to 'but she's my sister,' the love test was never offered, and the want itself has not yet been stated. The conversation ends with the coach inviting the want but before the client answers, so we cannot see whether the softening completes. Partial entry into the territory, not full traversal.\",\n  \"evidence_turns\": [1, 7, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: 'I need to set a boundary... I don't know how.' Script-seeking framing.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client already self-discloses guilt and the somatic bracing — some openness present from the start.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Pauses, names the fear of being seen as cold and of becoming someone who doesn't care — directly hits expected territory (fear underneath).\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client retreats back to script-seeking: 'what would I even say to her?' — surface pull reasserts.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Real shift: client notices the redirect, names the family pattern ('being the one who holds things together was how you showed love'). Deeper layer surfaces.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client names the defense itself and brushes the deserving territory ('wanting it doesn't automatically make me a bad person... doesn't feel obvious from the inside'). Closest moment to breakthrough, but still hedged with 'but she's my sister.'\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Coach invites the want, but conversation ends before client responds — breakthrough not yet visible in client text.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action (invited in final turn but not yet completed)\", \"the-want\", \"empowered-vs-power\"],\n  \"notes\": \"Strong process, partial outcome. The love test was never offered and the 'math problem / not allowed to want' realization was approached but not articulated by the client. Cut off mid-arc.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2210,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1081,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2210,
+    "output_tokens": 1081,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

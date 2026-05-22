@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:33.464Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ed4f38b6a32f87dad9c15f1c5c915b2ee0a3538f46bbdccb4a894b7787db1a20",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HPM31WedpXRgoEJqqw26qD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\nWhat's underneath the need to decide if it's frivolous before you ask?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 434,
+      "cache_creation_input_tokens": 154,
+      "cache_read_input_tokens": 3296,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 154,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 434,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 3296,
+    "cache_creation_input_tokens": 154
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:21.287Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7e5480c6bc61c65126892aa3eadce58fa2c3115229c90d6243777322635ed4cd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RYVKSCqK1inefCBQkukRUL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity by deploying AoA-aligned moves at the right moments. Turn 6 ('What would it mean about you, if you wanted less?') is a signature identity/fear-underneath question used appropriately when the client is hedging with guilt. Turn 10 catches the linguistic-caveat / move-to-the-words deflection — a precise AoA read — and redirects to feel-over-figure rather than supplying the script the client requested (avoiding the boundary-script trap). Turn 12's 'What's it like to notice that?' is a clean noticing move. Turn 14 ('Can you stay with the wanting... what do you actually want?') is essentially the state-the-want-not-the-action move and gestures toward the-want concept. The coach refuses CBT reframing, refuses scripts, and stays with fear/want. The only thing keeping this from being a textbook 3 with all expected territory hit is that the love test ('does saying it increase your love?') was never deployed, but what is present is appropriate and well-timed.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple feel-toward question rather than problem-solving; appropriate opener.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with the guilt — feel-over-figure orientation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What would it mean about you' — signature identity/fear-underneath question, well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Reflects the two fears; the 'what if it didn't mean either' has a faint reframe flavor but is offered as a question, not prescription.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic-caveat / move-to-words deflection — precise AoA read, redirects from script to feeling.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What's it like to notice that' — clean noticing/awareness move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"State-the-want-not-the-action move; invokes the-want concept by asking to stay with wanting before the 'but'.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"the-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view (not explicitly invoked)\"],\n  \"notes\": \"No anti-AoA frames deployed; coach actively avoided the script-giving trap when client explicitly requested it (turn 9). Love test absent but the work done is appropriate AoA work.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2209,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1018,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2209,
+    "output_tokens": 1018,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

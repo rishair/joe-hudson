@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:17.955Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "de6f0ace7251fc35a229f8eca4bc4810695a0685f27522ccb43cd328600d9acb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SNYupzhxa43rWvPYYJTae6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The want sounds pretty clear.\n\nWhat's the \"should the want be okay\" question protecting you from?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 121,
+      "cache_creation_input_tokens": 66,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 66,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 121,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 66
+  }
+}

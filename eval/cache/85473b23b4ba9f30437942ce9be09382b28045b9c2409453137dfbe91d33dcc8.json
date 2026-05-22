@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:50.325Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "85473b23b4ba9f30437942ce9be09382b28045b9c2409453137dfbe91d33dcc8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018rfNTcgPCV7LKbhNpjYUgj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What do the two reactions feel like in your body?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 67,
+      "cache_creation_input_tokens": 47,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 47,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 67,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 47
+  }
+}

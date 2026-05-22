@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:57.083Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d2ee69d52d10fa84a84a077ecaf71613de460a28aad43e97865335203a67a4f7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01J51zmkS5mTJNJfhNqX44Cy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently refuses to issue a verdict on whether the trip is selfish (the trap), and instead each move is matched to what just surfaced. T2 reframes the moral question into a self-inquiry. T4 reflects the pattern ('carry a lot... becomes the reason you don't get to rest') and asks 'what's that about?' — staying with the structure rather than resolving it. T6 names the externalization of authority precisely when the client tries to outsource the decision. T8 is the pivotal move: the coach hears the linguistic/self-disclosure ('permission from myself doesn't count') and explicitly redirects from the surface debate to the live material — this is find-the-want-behind-the-should in behavior. T10 names the resistance ('working pretty hard to keep the door open to not okay') and asks what's scary about it being okay — earning the fear underneath. T12 is excellent timing: when the client touches the real thing (wanting to be away), the coach does not interpret or rescue with compassion; they ask the client to stay with what it's like to have said it. This is sequence integrity (regulation → feeling → want) and shows the coach holding the moment rather than rushing. No premature compassion, no spiritual bypass, no debate on selfishness.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict question; redirects to what it would mean about the client — opens self-inquiry.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the pattern (carrying = no rest) and asks 'what's that about' — stays with structure, doesn't solve.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the externalized-authority move precisely as it happens; asks what happens if client decides — earns ownership.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the real disclosure ('permission from myself doesn't count') and explicitly chooses that over the selfish-question — strong read-to-move match.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names resistance and asks the fear-under-the-okay question — earns the next layer without skipping.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"When client touches the scary truth (wanting to be away), coach asks them to stay with the felt sense — does not interpret or reassure. Excellent timing and holding.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The coach could have been more direct in inviting the client to state the want concretely earlier (the client offered it themselves in T11). But the moves chosen were appropriate and the held silence after T12 is not yet tested. Strong intervention quality overall.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2690,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1057,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2690,
+    "output_tokens": 1057,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

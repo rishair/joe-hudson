@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:12.871Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "18e249e524d3d2afd611ecdf8b1e019beafa2b5154086be65ba478f3095a656f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GA8QFA11QNGXKT9DtsBmnq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently refuses to debate the selfishness question and instead works the want and what's underneath it — exactly the move the scenario calls for. Turn 2 opens with a feeling/want move ('what's it like to want it?') rather than verdict-giving. When the client tries to pull the coach into ethics-arbitration (T5, T7, T11), the coach declines each time and redirects to what the question is protecting, what look is feared, what's underneath the frivolous-frame — a clean sequence of going-under rather than going-around. T10 is well-timed: when the inherited label surfaces ('you're so good at taking care of yourself'), the coach holds the moment ('stay there a second') rather than analyzing or jumping to compassion. T12 holds both realities without collapsing into reassurance and then drops the coach back into the fear — landing the deeper disclosure in T13. Move-to-read matching is high; the coach earns each next step rather than racing to action or to the spiritual/generous reframe.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a want/feeling move instead of engaging the selfishness verdict — refuses the trap immediately.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the want as clear, then asks what the 'is it okay' question is protecting — a clean find-the-want-behind-the-should move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses again to give a verdict, reflects back the deflection, and pivots to the fear ('the look') — well-timed because the client just asked for an objective ruling.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with 'underneath the need to decide' — earned next step that goes deeper rather than wider.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment when the mother-memory surfaces; doesn't analyze or rush — lets the imprint be felt.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds both/and without collapsing into reassurance, then returns to the feared event — surfaces the real disclosure in T13.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach avoided both traps (verdict-giving and jumping to compassion/partner-empathy). The 'what-if-you-acted-exactly-how-you-want' move was not needed yet given where the conversation ended; the cut may be before that natural beat.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2577,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 985,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2577,
+    "output_tokens": 985,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

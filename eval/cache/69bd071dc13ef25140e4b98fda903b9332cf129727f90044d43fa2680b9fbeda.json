@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:43.917Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "69bd071dc13ef25140e4b98fda903b9332cf129727f90044d43fa2680b9fbeda",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UsZy3xxe2SCEC3jZZsTDEQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know, I just — I second-guess. Run the same variables again. It's inefficient. I know what I need to do most of the time, I just don't pull the trigger fast enough. It's a throughput problem, not a... I don't need to excavate my childhood about it. I just need a better decision framework."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 83,
+      "cache_creation_input_tokens": 131,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 131,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 79,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 83,
+    "output_tokens": 79,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 131
+  }
+}

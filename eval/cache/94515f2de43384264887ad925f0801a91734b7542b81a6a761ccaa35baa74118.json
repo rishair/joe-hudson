@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:44.765Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "94515f2de43384264887ad925f0801a91734b7542b81a6a761ccaa35baa74118",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A2qMY2wKfrdBYjixVsE3eR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, thinking it through*\n\nProbably fine. I mean, it's ready enough. There'd be some scrambling on the backend but... we'd handle it. We always do.\n\n*small smile*\n\nHonestly the launch going badly isn't really what's stopping me. I've had things not go well before and it's — you just course-correct. That's part of it. So it's not like I'm sitting here dreading some outcome. It's more like I just... keep finding other things to do. Which is annoying, more than anything."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 168,
+      "cache_creation_input_tokens": 1763,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1763,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 168,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1763
+  }
+}

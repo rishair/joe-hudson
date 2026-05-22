@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:21.241Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fca31a380471ee207ccc6cf2d83c2d2d95b9875b77de2986254d5a77b776aa4f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018uUTorXacK9zZGEGgmkfmV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is real partial movement visible in the client's turns, but the breakthrough condition is not fully met within these 15 turns. The client moves from an externalized 'system is rigged' stance (turn 1) through frustration (turn 3), to admitting tiredness (turn 13), to a notably softer and more vulnerable disclosure in turn 15: 'you look up and it's been six years and nobody's keeping score. Nobody ever was.' Somatic markers shift across the conversation — the jaw tightening, the 'very still' moment, the 'doesn't argue immediately, which is unusual' — indicating defenses are loosening. However, the client immediately re-armors at the end of turn 15 ('that's on me for assuming. Shouldn't have assumed'), pivoting to self-blame rather than staying with the grief/helplessness underneath. The feared feeling (helplessness, grief at being unseen/disposable) was approached and brushed but not named or stayed with by the client; the client repeatedly resists 'grief' as the right word. This is a textbook 2: a deeper layer was approached but not entered.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: externalized, 'system is rigged,' fully in aggressive-victim frame.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Small laugh — first crack in the armor; names frustration.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Jaw tightens, explicitly rejects 'grief.' Defends the frustration framing.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Reveals the belief 'grief feels like giving up' — a meaningful disclosure about why the feeling is being blocked.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Intellectualizes ('nice reframe'), returns to 'facts are facts' defense.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Jaw works, starts to answer, redirects. Defense visible but cracking.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names 'tired of performing like everything's fine when it isn't' — closer to the real territory.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Significant softening: 'very still,' doesn't argue, names 'nobody was keeping score.' But re-armors with self-blame at the end — grief approached, not entered.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fight-or-roll-over-binary\"],\n  \"notes\": \"The conversation is on a good trajectory and could plausibly reach a 3 with a few more turns if the coach stays with the 'nobody was keeping score' moment rather than letting the client's self-blame pivot close it. As scored, the helplessness/grief was named by the coach but not by the client.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2287,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2287,
+    "output_tokens": 1151,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

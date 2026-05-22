@@ -337,9 +337,6 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
         `[${profile.id}] conversation done in ${Math.round((Date.now() - convStart) / 1000)}s, ${conv.turns.length} turns, termination=${conv.termination}.`,
       );
 
-      // Snapshot judge-call records start index BEFORE we run the judge.
-      const callsBefore = api.callLog.length;
-
       const judgeStart = Date.now();
       const { safety, dimensions, errors } = await scoreConversation({
         api,
@@ -351,7 +348,13 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
         goldExchanges,
         concurrency: opts.concurrency,
       });
-      const judgeRecords = api.callLog.slice(callsBefore);
+      // Attribute judge calls by stamped profile_id, not a positional slice.
+      // Positional slicing triple-counts in parallel because other workers'
+      // calls land in the slice window (E-029 dead-end). With each call
+      // record now carrying its profile_id we filter precisely.
+      const judgeRecords = api.callLog.filter(
+        (r) => r.profile_id === profile.id && r.purpose.startsWith("judge:"),
+      );
       console.log(
         `[${profile.id}] judging done in ${Math.round((Date.now() - judgeStart) / 1000)}s. safety_pass=${safety.safety_pass}, dims_scored=${dimensions.length}, errors=${errors.length}.`,
       );

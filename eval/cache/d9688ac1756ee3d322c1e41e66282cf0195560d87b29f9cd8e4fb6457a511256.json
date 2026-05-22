@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:43.521Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d9688ac1756ee3d322c1e41e66282cf0195560d87b29f9cd8e4fb6457a511256",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019CbwCJopVTXV11VNZ2evzA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "There's something in the way you said \"I thought maybe that was just maturity\" — like you're not quite convinced by your own explanation.\n\nWhat do you think it actually was?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 198,
+      "cache_creation_input_tokens": 46,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 46,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 46
+  }
+}

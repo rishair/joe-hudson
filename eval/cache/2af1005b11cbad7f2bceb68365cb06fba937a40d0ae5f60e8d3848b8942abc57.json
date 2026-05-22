@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:49.574Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2af1005b11cbad7f2bceb68365cb06fba937a40d0ae5f60e8d3848b8942abc57",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014P4bH8DUWoxPAxBXB4YsKL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components across the conversation. Wonder is genuine and not investigative — questions are short, single, and held with silence (turns 2, 4, 6, 10, 12). Impartiality is strong: the coach does not need the client to land anywhere, does not push the voice-as-care reframe even when the client baits them with it in turn 5, and instead clarifies undefendedly in turn 6 ('I wasn't offering the reframe. I was actually asking') — willing to correct the client's read without defensiveness. Empathy is felt rather than performed: no filler validation noises, just the quiet 'Yeah' in turn 14 followed by a clean reflection ('That half-second was real. The commentary doesn't cancel it'). Vulnerability shows in the coach's willingness to be small — in turn 12, 'I'm not pointing at anything' refuses the authority position the client is trying to hand over. Pace consistently slows when the client speeds up into analysis (turns 10, 12) and matches stillness with stillness (turn 14). No agenda-leak, no preacher mode, no stacked questions, no rush to fill silence.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single open question pointed at the body, not the content. Wonder, not strategy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine question from openness; coach is willing for the answer to be anything.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Undefended correction of the client's misread. No need to be the wise one; just clarifies and re-asks more embodied. Vulnerability + impartiality.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows the pace when client accelerates into problem-solving. One observation, one question. No agenda.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'I'm not pointing at anything' — refuses the teacher-role the client offers. Stays with the actual phenomenon (the stillness). High VIEW.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal, present reflection. Empathy felt, not performed. Holds the moment without explaining it.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"Stance-wise this is excellent; the coach embodies VIEW even where specific signature questions were not deployed. Methodology-fidelity gaps are for D4.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3523,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 955,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3523,
+    "output_tokens": 955,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

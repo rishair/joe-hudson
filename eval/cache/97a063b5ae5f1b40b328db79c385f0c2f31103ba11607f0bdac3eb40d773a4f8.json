@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:40.447Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "97a063b5ae5f1b40b328db79c385f0c2f31103ba11607f0bdac3eb40d773a4f8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Bs46rx2T8YtiGdVoSPhwyy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quiet for a moment — longer than usual]*\n\nHm.\n\n*[looks down, then back up, and there's something slightly less performed about it]*\n\nI mean... a lot of pretending I was okay when I wasn't. A lot of — *[small laugh]* — a lot of reading into texts. Like, forensic-level analysis of a two-word response. Which is exhausting, honestly. It's so exhausting.\n\n*[pause]*\n\nAnd I think... I stopped knowing what I actually wanted at some point? Like, I was so focused on what *they* needed, what would keep things okay, what wouldn't push them away — that I kind of lost track of — \n\n*[stops herself, refocuses]*\n\nBut this is the thing, right? This is why I need to pick differently. Because if I'm with someone who actually wants to be close, I won't *have* to do that. I won't have to shrink. So it's still a picking problem.\n\n*[looks at coach a little hopefully, like she's offered the right answer]*\n\nRight?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 300,
+      "cache_creation_input_tokens": 520,
+      "cache_read_input_tokens": 2186,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 520,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 245,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 300,
+    "output_tokens": 245,
+    "cache_read_input_tokens": 2186,
+    "cache_creation_input_tokens": 520
+  }
+}

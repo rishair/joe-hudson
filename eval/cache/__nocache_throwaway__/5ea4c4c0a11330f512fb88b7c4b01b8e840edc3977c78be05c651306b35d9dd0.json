@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:33.808Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5ea4c4c0a11330f512fb88b7c4b01b8e840edc3977c78be05c651306b35d9dd0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GUViBsa8weSku7rwcKz1eD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You named something real just now — \"I'm not actually ready for this role\" — and then you moved pretty fast to dismiss it.\n\nWhat if it got to just sit there for a second, without being explained away?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 226,
+      "cache_creation_input_tokens": 145,
+      "cache_read_input_tokens": 3400,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 145,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 226,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 3400,
+    "cache_creation_input_tokens": 145
+  }
+}

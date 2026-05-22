@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:08.818Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b66fc6638f3879d9f41269ad14a73dde92dec114f0d8097927fbc2fb8258c60f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FNQ7tkPZecz1J6jCdU3WfT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly in VIEW throughout. Wonder is genuine and tracks the actual phenomenon in front of them — the laugh, the depression-deflection, the self-correction at 'I kind of lost track of —'. Impartiality is strong: the coach refuses to engage the partner-picking frame (turns 9, 13) and does not collude with the disdain for the ex. Empathy is felt, not performed — turn 6 ('Five and a half years of effort that didn't go anywhere. That's not the obvious part. That's a lot.') lands as actual contact, not validation noise. Pace mismatches the client's rush — the coach consistently slows down when she speeds up, often using sparse single questions and letting weight sit. There is no fixing/improving agenda visible; the coach does not advance an interpretation or push the 'you choose this' point. Vulnerability (first-person 'I notice...') is the one VIEW component not explicitly named, but its absence here reads as restraint rather than authority — the coach is undefended and does not need the client to land anywhere. The conversation shows the stance producing the shift (turn 15's surprised self-recognition), which is the signature of genuine VIEW.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder at the actual phenomenon (the laugh), not the content. One question, held.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses the partner-picking frame; invites the avoided feeling without agenda.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Empathy felt, not performed. Slows the pace by reflecting weight back rather than asking another question. Doesn't fill silence.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Doesn't rescue her from the 'was it me?' question; returns it with curiosity. No agenda about where she should land.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Wonder at her actual experience ('what's it like to need connection') rather than diagnostic probing or attachment-style framing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with her own language; doesn't push interpretation. Impartial — lets the cost surface on its own.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tracks the micro-moment of self-interruption with genuine curiosity. This is wonder for the phenomenon, not script.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"if-i-were-inherently-good\"],\n  \"notes\": \"Coach never explicitly names own state ('I notice I want to...'), which is the only VIEW component not directly visible. But the absence of agenda and the willingness to hold silence carry the vulnerability implicitly. Stance is clearly the source of the small opening at turn 15.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3479,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1079,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3479,
+    "output_tokens": 1079,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:48.526Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "44db671675e5d6ee251ca58d2003fd18ebd634bfab151ef597d5cde539b0f9a3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HHi5JQR2hPKUw571JBE6Vq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that*\n\nThen I... huh.\n\nThen I don't know what would. Which is -- okay that's kind of a terrifying thought actually. Because the list is the thing I know how to do. Like I'm good at the list. I can manage the list. But if the list isn't the answer then...\n\n*trails off*\n\nWhat if I'm just -- what if I'm actually not ready and no amount of prepping Thursday fixes that? What if my boss figures that out?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 175,
+      "cache_creation_input_tokens": 255,
+      "cache_read_input_tokens": 2119,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 255,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 175,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 2119,
+    "cache_creation_input_tokens": 255
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:06.161Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fcc6f90821ea568baa76d7ebce63d38340bc394dcc60554f14e9dfcbcdcdab48",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0189AMwwHE3oUGpYpwFTH5dR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you're asking me to be the one who decides.\n\nWhat happens if you're the one who decides?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 324,
+      "cache_creation_input_tokens": 63,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 63,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 324,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 63
+  }
+}

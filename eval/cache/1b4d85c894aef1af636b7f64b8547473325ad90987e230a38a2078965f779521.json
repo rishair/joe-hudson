@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:21.487Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1b4d85c894aef1af636b7f64b8547473325ad90987e230a38a2078965f779521",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NU8bBwzCsJeGQgr7kqpxPN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates several AoA-aligned moves: feel-over-figure orientation (turn 2), noticing-the-redirect (turn 12), refusing to strategize the external situation, and refusing to collude with the trap (turn 10's 'You're right. It doesn't change the facts. What does it cost you to not feel it?'). These are appropriate to the resistance scenario. However, the coach does not deploy the specific signature questions or frameworks most fitted to this territory: 'what-if-you-acted-exactly-how-you-want,' 'what-makes-you-care-about-the-outcome,' the fear-triangle naming, or the aggressive-victim-stance distinction. The repeated 'is it grief?' line in turns 4, 6, 8 starts to look like nominating-the-feeling-for-the-client rather than letting the client name it — it edges toward a CBT-style reframe attempt ('what if grief isn't giving up' which the client even names as 'a nice reframe'). The coach is using feel-over-figure broadly but not the specific signature questions in coach/questions/ for trappedness. Presence of some appropriate moves + missing signature tools for this exact territory + a faint reframe flavor = solid 2, not 3.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure orientation — goes to feeling underneath the story rather than strategizing the situation.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Nominates a specific feeling (grief). AoA-adjacent but coach is naming the feeling for the client rather than helping client locate it.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Notices the defense ('pushed back pretty quickly') — good AoA noticing — but then re-pushes the grief frame, which becomes coach-led.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"'What if it's not?' functions as a reframe invitation; client even calls it 'a nice reframe.' Edges toward CBT-style move rather than letting feeling arise.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to debate the facts and pivots to cost of not feeling — strong AoA move, refusing to collude with trap.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Notices the redirect — classic AoA tracking of what got skipped. Appropriate and well-timed.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names what is actually live ('a long time of not being seen') — lands because it's specific. Aligned with empathize-with-fear-under-constricted-boundary spirit.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\", \"aggressive-victim-stance\", \"trappedness-feeling\"],\n  \"notes\": \"Coach is operating in the right neighborhood (feel-over-figure, noticing defenses, refusing strategy) but doesn't deploy the specific signature questions/frameworks for the trappedness territory. The grief-nomination sequence has a faint reframe quality that keeps this from a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2286,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1216,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2286,
+    "output_tokens": 1216,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

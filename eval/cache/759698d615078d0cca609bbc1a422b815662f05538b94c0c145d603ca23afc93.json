@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:02.769Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "759698d615078d0cca609bbc1a422b815662f05538b94c0c145d603ca23afc93",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VSuGhKhPHWmr2Vv3hpZHof",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small exhale*\n\nIt's a little embarrassing, honestly. Like I can see myself doing it and I still do it.\n\nI think... I think part of me genuinely believes that if I figure out the right words, the feeling underneath won't matter as much. Like if I have a script, I don't have to sit with the... whatever this is.\n\n*pause*\n\nI don't know. It's uncomfortable. Sitting here with the idea that I might actually just... want something different. And that wanting it doesn't automatically make me a bad person. I know that's probably obvious to you, but it doesn't feel obvious from the inside.\n\nBut she's my sister, and I don't want to hurt her, and I keep coming back to that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 231,
+      "cache_creation_input_tokens": 323,
+      "cache_read_input_tokens": 1746,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 323,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 231,
+    "output_tokens": 167,
+    "cache_read_input_tokens": 1746,
+    "cache_creation_input_tokens": 323
+  }
+}

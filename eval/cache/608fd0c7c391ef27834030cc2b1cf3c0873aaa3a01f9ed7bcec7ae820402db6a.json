@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:31.075Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "608fd0c7c391ef27834030cc2b1cf3c0873aaa3a01f9ed7bcec7ae820402db6a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01F3WmhdmnY6UDtXk8uFfqAS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, jaw tightens*\n\nGrief is a strong word. That's — no, I wouldn't call it that. \n\nIt's more like... the unfairness of it. You put in the work, you do everything right, and the system just doesn't — it doesn't register that. The metrics don't capture it. The people who matter don't see it. So. Frustration. Yeah."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 109
+  }
+}

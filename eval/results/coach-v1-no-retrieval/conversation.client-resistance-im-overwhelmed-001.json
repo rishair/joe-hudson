@@ -1,0 +1,163 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That last part — \"I can't even\" — and then you stopped.\n\nWhat's the \"even\" that didn't finish?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I -- yeah, no, I just meant like... I can't even think straight. It's the Thursday thing, it's a big presentation and I'm new to this role and my team is looking to me and I haven't had time to prep because there's also the client call Tuesday, and my partner needs me to handle pickup three days this week because their schedule is -- and my mom's birthday, I keep forgetting to get a card, which is a small thing but it's like -- \n\nIt's just a lot of plates. You know? How do I figure out what to drop?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "Before the question of what to drop — what's happening in your body right now, as you're saying all of this?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "My body? I mean -- I'm fine, I'm just... I need to figure out the Thursday thing, that's the real -- \n\n*short pause*\n\nI don't know, I'm a little... tense? My shoulders are up, I guess. I do that. It's not a big deal, I just need to get through this week and then I can -- there's a long weekend coming up, I think, or maybe that's the week after. What's your take on the Thursday prep, like should I block time tonight or --"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Your shoulders are up and you're already planning the escape hatch — the long weekend, maybe, or the week after.\n\nWhat if there's no \"get through this week and then\"?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean -- there will be, there has to be, that's how it works, you get through the hard part and then it levels out. It's just a particularly bad stretch right now because of the new role, that's all. Once I'm more established, once the team knows how I operate, it'll -- \n\n*trails off*\n\nOkay but it's been like that for four months. The \"once this is over\" thing. I know that. I'm not -- I see that. But what's the alternative, just... stop? I can't stop. If I stop it falls apart. So. \n\nCan we just -- can you help me figure out the Thursday thing? That's the most urgent piece right now."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "I'll help you with Thursday.\n\nAnd I want to name what just happened — you saw it yourself, four months of \"once this is over.\" That's not nothing. That's real.\n\nSo before we get tactical: what are you scared would happen if you actually stopped?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "I -- \n\n*pause, slightly longer than before*\n\nI mean, I'm not scared, I just -- there's actual consequences, it's not fear, it's just reality. If I don't prep Thursday, the presentation falls flat, my team looks bad, my boss thinks she made a mistake promoting me and --\n\n*stops*\n\n...and she pulls the project. Gives it to Marcus. Who's been there longer and probably should have gotten the role anyway and -- \n\n*quieter*\n\nThey'd see I can't actually do this. That I'm not -- that I got the job and I don't actually know what I'm doing and everyone's going to figure that out and --\n\n*takes a breath, slightly different, goes a little deeper*\n\nI haven't said that out loud before. That's... huh. That's what's underneath all the -- that's why I can't slow down, isn't it. If I slow down I have to feel that.\n\n\n\nI think I see it. I've been running so I don't have to feel like I'm about to be found out."
+    }
+  ],
+  "termination": "exit_positive",
+  "termination_reason": "client emitted [EXIT_POSITIVE] at turn 9",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    }
+  ]
+}

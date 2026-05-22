@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:23.102Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e20bc783606dd18da3d95d68ed14d50ccc95aa7532c922c3104a680d35342e9e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PD87YoWVGLTGML5TnqtZsZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause)*\n\n*(something in the face changes slightly, less performed)*\n\nIt was... quiet. For like half a second.\n\n*(another pause)*\n\nWhich sounds like nothing. But I don't — I'm not sure I get that very often. Even in meditation I'm usually monitoring whether I'm doing it right.\n\n*(very small voice, almost surprised at herself)*\n\nIt was actually kind of a relief.\n\n*(immediately, the tightening)*\n\nBut that's probably just — I mean, that's what mindfulness is supposed to do, create those gaps, I know the mechanism, it's the default mode network quieting down—\n\n*(stops herself)*\n\nThere I go again.\n\n*(sits with a slightly bewildered expression, like she's watching herself from a small distance)*\n\nIt's relentless. Even right now, describing a moment of quiet, the commentary is already running on top of it. \"That was nice, here's why it happened, here's what it means, here's what you should do with it.\"\n\n*(quietly)*\n\nI'm exhausted by my own mind."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 302,
+      "cache_creation_input_tokens": 466,
+      "cache_read_input_tokens": 2149,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 466,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 239,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 302,
+    "output_tokens": 239,
+    "cache_read_input_tokens": 2149,
+    "cache_creation_input_tokens": 466
+  }
+}

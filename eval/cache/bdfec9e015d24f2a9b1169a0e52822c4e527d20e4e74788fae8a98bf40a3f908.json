@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:35.220Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bdfec9e015d24f2a9b1169a0e52822c4e527d20e4e74788fae8a98bf40a3f908",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YUCMyeNwyRV4PMM2G5bweq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six weeks, a team watching, a pitch that matters. Got it.\n\nWhat's the thing that's actually keeping you up at night about it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 54,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 34,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 54,
+    "output_tokens": 34,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

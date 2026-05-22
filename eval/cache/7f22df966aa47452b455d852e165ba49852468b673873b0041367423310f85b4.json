@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:10.699Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7f22df966aa47452b455d852e165ba49852468b673873b0041367423310f85b4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EHLTjdqFJdaCZ9DAhV1G5U",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach reads the intellectual-question-with-emotional-body signal in turn 1 and immediately moves to the affective channel ('what's in the smile?') rather than engaging the framework comparison the client baited. Each subsequent move is precisely sequenced: when the client defends parts work intellectually (turn 5), the coach pivots to history/longing ('Who were you following before?'), which earns the first non-analytical disclosure. When grief begins to surface but gets re-framed, the coach uses a meet-resistance-with-okay move ('let that be true... without the reframe') and then twice holds the client at the edge of feeling (turns 10, 12) rather than rushing to insight or to the awareness-locating question. The 'Don't apologize. The grief is still here.' is a particularly well-timed paradoxical-adjacent move that refuses the client's escape into IFS taxonomy without dismissing the framework. Turn 14's 'You don't have to do anything with it' followed by 'what's it like to not know?' is exactly the regulation-before-depth move that earns the spaciousness the client lands in ('the map became the territory'). The coach has not yet asked 'what's you?' but the sequencing is patient and correct — the framework is loosening organically and the awareness question is being earned rather than forced. No traps triggered: no dismissal of IFS, no framework comparison, no adoption of parts vocabulary, no premature 'what's you?'\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reads the smile as live affect signal; moves to body/affect rather than engaging the framework-comparison bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Sharp reframe that destabilizes the intellectual position without dismissing parts work; appropriate to the read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pivots from concept-debate to felt history when client pushes back; earns the first non-analytical disclosure ('I miss that').\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the unaccepted loss and invites staying without reframe — meet-resistance-with-okay, well-timed.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment; resists asking the awareness question prematurely; lets grief deepen.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Don't apologize. The grief is still here.' — refuses the escape into IFS taxonomy without attacking the framework. Excellent timing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Regulation move ('you don't have to do anything') followed by an open inquiry into not-knowing — earns the spaciousness; sets up the awareness-locating question for a later beat.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\", \"resistance\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"paradoxical-instruction-to-resist\", \"self-realization\"],\n  \"notes\": \"The conversation ends before the awareness-locating question lands, but the sequencing is so patient and well-earned that the misses read as 'not yet' rather than skipped. Scoring on what is present: moves are AoA-specific, matched to live reads, and held.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3023,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1208,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3023,
+    "output_tokens": 1208,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

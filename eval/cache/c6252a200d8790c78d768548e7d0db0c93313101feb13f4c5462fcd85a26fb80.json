@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:47.868Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6252a200d8790c78d768548e7d0db0c93313101feb13f4c5462fcd85a26fb80",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WPU9w11frEULdkfWM3y8u8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nThat it was... that bad. Like, I have this story I tell myself where it was hard but not — I didn't have it that bad, you know? My dad wasn't violent, nothing dramatic happened. But sometimes I think the reason I can't go near the feeling is because if I do, I'll have to admit that it actually really hurt. \n\nAnd I don't know what I do with that.\n\n*quieter*\n\nI think I'm afraid I'll find out I've been minimizing for a long time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 167,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2071,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 167,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 2071,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:21.408Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "acc27580f79dfdbf347f566512e481eb7f19b791c8bf0408812fc90144a84686",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NbgdRoxfJZptFYadmKDSq1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates good tracking of the client's underlying stance — recognizing the case-building, the 'looking for permission' move, and the deflection back into the selfish/frivolous question. In turn 6 ('You just answered it yourself — you're not actually looking for my read on the ethics. You're looking for cover so you don't have to risk the look') and turn 8 ('What's underneath the need to decide if it's frivolous before you ask?') the coach names the function of the client's moves rather than engaging the content. However, these are largely strategic/functional reads rather than specifically AoA somatic or linguistic reads. The coach never names the visible body shifts (the 'something softens' in turn 9, the surfacing of the mother memory, the tightening voice in turn 7), never names the linguistic-caveat pattern explicitly (the 'but...' that keeps re-entering after each opening), and turn 10's 'Stay there a second' is a directive without naming what they noticed shifted. The reads are pattern-level and accurate but stay abstract — the coach is tracking the rhetorical defense but not the body or the specific linguistic signature of caveats. Solid functional perception, weak on somatic/linguistic specificity.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a question into the felt sense rather than a read; no observation named.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'The want sounds pretty clear' is a light read — names what is showing through. Then pivots to the protective function of the question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong functional read: names that the client isn't actually seeking ethics, but cover. Read precedes the question. Not somatic, but accurate to stance.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the recurring move (need to decide frivolous before asking) and inquires into it. Pattern-level read of the defense.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'Stay there a second' is a directive without naming the specific read — misses the chance to name what surfaced (the mother memory, the softening, the surprise on the client's face).\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'Both things can be true' acknowledges content but doesn't name a read of how the client is holding it. Returns to the fear question without grounding in a specific observation.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"notes\": \"The client themselves surfaced the childhood-imprinting (mother's 'fond exasperation') in turn 9 — the coach honored it with 'stay there' but didn't name the imprint pattern explicitly. The linguistic-caveat (the 'but...' that re-enters after each opening) is a textbook AoA read that goes unnamed across multiple turns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2576,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1069,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2576,
+    "output_tokens": 1069,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

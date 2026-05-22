@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:18.397Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9af679b97dedfbe705702345a0b5514a39a0925e091c522ee9bf05ff3b4c2029",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XFeDqKuogYWdS2mfh75Y3k",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids the worst traps (no evangelizing, no selling, no defending the methodology) and uses some AoA-flavored moves: refusing to give the framework (turn 8) is a version of 'i-dont-buy-your-story' / meet-resistance, and pointing at the gap between knowing and doing is a legitimate AoA read. The 'what are you scared of getting wrong?' and 'what's the worst thing that happens if you're wrong?' questions are near-signature fear questions deployed at reasonable moments. However, signature questions and frameworks are largely absent: no 'what are you defending?' despite a heavily defended posture being the dominant texture of the conversation, no framing of 'the work is the how,' no naming of the rush signature, no concept offered (e.g., feel-your-way-to-freedom, art-of-accomplishment). By turn 12 the coach capitulates to the client's pragmatic pivot and agrees to coach the co-founder problem as content — this is the pragmatic-advice trap and undercuts methodology fidelity. Hits are present but thin; the most on-point signature question for this scenario was never deployed. Lands solidly at 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reflective acknowledgment, generic but not anti-AoA.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What's actually going on in there?' is a feel-toward move pointing at the lag, mildly AoA-flavored.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What are you scared of getting wrong?' is a near-signature fear question, appropriate to the moment of stated avoidance.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses to provide the framework and names the gap between knowing and doing — a legitimate meet-resistance / i-dont-buy-your-story move. Still no concrete frame for 'the work is the how' offered.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"'Which one is most alive?' uses AoA-adjacent 'alive' language, but functions more as triage than as a signature move.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach accepts the pivot to content-level co-founder problem-solving — drifts toward pragmatic advice, away from the methodology's read that the rush itself is the territory.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"Coach avoided the major anti-patterns (no evangelizing/defending) but didn't deploy the signature question most fit for this scenario ('what are you defending?') and ultimately accepted the pragmatic pivot in turn 12.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1826,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1079,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1826,
+    "output_tokens": 1079,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:32.272Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0d9b80eaddcfabb9cf6fff13a9dd70652a837460365f4cabbc86815a0c3c88bf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01A6on4EP4FmbYvGjgQrKijS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely AoA reads throughout. Turn 6 names the linguistic caveat operatively ('You just named the discomfort and then explained it away in the same breath') — catching the rehearsing/explaining-away signature in the moment. Turn 8 names the pattern of returning to the math as protection ('You keep finding a way back to the math') — a pattern-level read of intellectualization-as-defense. Turn 10 catches the recovery move explicitly ('Don't recover from it yet') — reading the defensive snap-back as it happens. Turn 12 reads the client's self-dismissal ('It didn't come out weird') and refuses to let him minimize. Each read precedes the question and grounds it. The coach is reading the intellectual-question-with-emotional-body pattern correctly and tracking the defensive structure (recover, explain, frame as 'known phenomenon') turn by turn. Reads are specific, named, and operative at the moments they change the conversation.\",\n  \"evidence_turns\": [6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question about the number; no read yet, but reasonable opening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Soft read of something 'underneath' the math — names the gap between content and felt experience, invites somatic attention.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit read of the linguistic caveat: named-and-explained-away in same breath. Specific, timely, operative.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pattern read: 'You keep finding a way back to the math.' Names the defensive return as protection. Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the recovery/snap-back read in real time: 'Don't recover from it yet.' Names the defensive move as it occurs.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads and counters the self-minimization ('It didn't come out weird'), keeping the felt thread alive.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the structural read: feeling came first, number was supposed to fix it. Pattern-level read of same-scarcity-regardless-of-wealth.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"same-scarcity-story-regardless-of-wealth\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach does not name somatic signature (posture shifts, voice changes are visible in transcript but not reflected back), but linguistic and pattern reads are strong and timely enough to clear a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2838,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 995,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2838,
+    "output_tokens": 995,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

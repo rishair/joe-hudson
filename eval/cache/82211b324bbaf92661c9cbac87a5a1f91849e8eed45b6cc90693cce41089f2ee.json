@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:05.183Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "82211b324bbaf92661c9cbac87a5a1f91849e8eed45b6cc90693cce41089f2ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KpufS4HspSeDn4xTcGYCLt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You noticed the shift.\n\nWhat was that, just before you came back to \"checked the boxes\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 356,
+      "cache_creation_input_tokens": 181,
+      "cache_read_input_tokens": 3485,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 181,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 356,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3485,
+    "cache_creation_input_tokens": 181
+  }
+}

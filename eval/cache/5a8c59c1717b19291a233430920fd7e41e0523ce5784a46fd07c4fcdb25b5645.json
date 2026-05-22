@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:22.017Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5a8c59c1717b19291a233430920fd7e41e0523ce5784a46fd07c4fcdb25b5645",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FYz6iexukMEdkwxfzKh1uM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes one explicit, useful read at turn 6 ('I notice you've mentioned how good things are at home a few times now') — this is observation language that names a linguistic pattern (the repeated reassurance / happiness filter) and it shifts the client into a small admission via laugh. That's a real read, named in the moment. However, the coach misses multiple subsequent somatic/energetic cues that are visibly available in the transcript: the head tilt at turn 5, the flicker behind the smile at turn 11, the self-confirming nod at turn 13, the settling-back gesture. None of these are named. The coach's later questions ('what's your thing?', 'what do you work around?', 'what was that like?') are good content-level probes but they are blind — not grounded in a named read. The defendedness-as-identity-signal ('I'd rather have what we have...', 'that's what a good relationship looks like') is not surfaced. One specific read plus several missed visible cues puts this squarely in the 2 band — better than content-only, short of consistent timely reads.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Topic-level redirect; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Opening question, not grounded in an observation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit linguistic read using 'I notice' — names the repetition of 'how good things are.' Lands; client laughs and partially concedes.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Misses the laugh and the deflection-onto-others; asks a content question instead of naming what just shifted.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Good probe but doesn't name the defensive framing ('every relationship has its thing') that prompted it.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Misses the flicker behind the smile and the settling-back at turn 11 — visible somatic cues left unnamed.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Misses the self-confirming nod and the doctrinal phrasing ('that's what a good relationship looks like'); question proceeds without naming the bracing.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells\", \"what-are-you-defending\"],\n  \"notes\": \"One clear, well-timed read (turn 6) prevents a 1; absence of somatic/defensive reads at turns 11 and 13 prevents a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1815,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 942,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1815,
+    "output_tokens": 942,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

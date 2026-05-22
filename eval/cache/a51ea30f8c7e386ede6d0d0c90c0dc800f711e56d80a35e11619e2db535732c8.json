@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:05.702Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a51ea30f8c7e386ede6d0d0c90c0dc800f711e56d80a35e11619e2db535732c8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011ezBFVjkcyvNXDr6DgkrNQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\n*something tightens*\n\nI don't know.\n\n*pause*\n\nMy dad... he worked constantly. Like, the defining feature of my childhood was that he was either working or exhausted from working. And the message — it was never said directly but it was completely clear — was that providing was the thing. That was how you showed up. That was how you... mattered, I guess.\n\n*voice slightly different now, less precise*\n\nHe wasn't a bad father. I want to be clear about that. He was doing what he thought he was supposed to do.\n\n*beat*\n\nBut I remember this one period when I was maybe eleven or twelve, things got tight for a while. And there was this... atmosphere in the house. Like everyone was holding their breath. My mom was stressed. My dad was barely there. And I remember thinking — if we just had enough, everything would be okay. Everyone would be okay.\n\n*stops*\n\n*quieter*\n\nI haven't thought about that in a long time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 234,
+      "cache_creation_input_tokens": 369,
+      "cache_read_input_tokens": 2215,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 369,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 230,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 234,
+    "output_tokens": 230,
+    "cache_read_input_tokens": 2215,
+    "cache_creation_input_tokens": 369
+  }
+}

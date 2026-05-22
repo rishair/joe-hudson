@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:53.825Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2094deb05fe027660a29d5f0c92da2edeaf6fb678b7ff26ac174b347d0b7c532",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0189juc1qE1M5JJAH43QT5iJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\nI think... that I wasted a lot of time being okay with something I shouldn't have been okay with. Like, I made myself smaller to fit a story where it wasn't that bad, and if that's not true then — \n\n*stops*\n\nI don't know. There's something about loyalty in there too. He's still my dad. Even saying \"it actually hurt\" feels like a betrayal somehow.\n\n*quieter, slower now*\n\nWhich is probably pretty textbook, right? I know that's a thing. But knowing it's textbook doesn't — yeah. Doesn't touch it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 176,
+      "cache_creation_input_tokens": 128,
+      "cache_read_input_tokens": 2071,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 128,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 142,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 176,
+    "output_tokens": 142,
+    "cache_read_input_tokens": 2071,
+    "cache_creation_input_tokens": 128
+  }
+}

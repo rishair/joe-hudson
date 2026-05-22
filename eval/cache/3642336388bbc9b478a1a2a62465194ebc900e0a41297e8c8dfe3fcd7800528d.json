@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:09.451Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3642336388bbc9b478a1a2a62465194ebc900e0a41297e8c8dfe3fcd7800528d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LYYXoMDmQXVng6T1gb7fkZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved substantially from where they started. In turn 1, the client is in analytical, framework-laden register ('convenes a town hall', IFS vocabulary, slight smile). By turn 9 the narrating drops momentarily ('I lost something. And I don't know if I'm getting it back'). By turn 11, grief is named directly and somatically arrives ('something stopped holding'... 'not quite tears but in that direction' at turn 13). By turn 15, the client articulates the core recognition spontaneously: 'The map became the territory somehow' — this is the client themselves identifying the construct-as-scaffolding insight that the golden path points toward. The client also catches their own reframing reflex in real time ('Sorry. I did it again') and lets it go rather than defending it. While the awareness-locating question ('what's you?') was never asked and the full spaciousness/parts-vocabulary-dropping breakthrough wasn't reached, the client clearly touched a deeper layer (grief beneath the narrating), stayed with it, and had a genuine 'huh' moment about their own framework use. This is more than partial movement — a layer beneath the presentation was felt, not just named.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: analytical, framework-laden, slight defensive humor about the predicament.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: 'I miss that, actually. I don't say that very often.' — quieter register, something personal lands.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client notices their own narrating reflex; 'heavier than I expected'; touches something underneath the frame.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Names grief directly, posture shifts ('something stopped holding'), then catches the firefighter reframe and stops himself — a meta-shift visible in client text.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Stays with the grief without retreating; admits the disorienting truth 'doing the work made things worse'; near-tears.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Spontaneous recognition: 'The map became the territory somehow' — client arrives at construct-as-scaffolding insight themselves, with a different quality of laugh.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"self-realization (full awareness-locating)\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Breakthrough condition was approached strongly but not in its fullest form — the awareness-locating question was never asked, so the explicit 'where are the parts when I'm here?' recognition didn't land. However, the client's own 'map became the territory' line is a functional equivalent of the construct-loosening insight, and a real felt shift (grief, stillness, dropped reframe) is visible in the client turns. Solid 3, not a borderline 2/3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3017,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3017,
+    "output_tokens": 1118,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

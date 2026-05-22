@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:23.393Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9fe067c2afb571b286017fa1803f2fd92a7050387b6913923d85023c185faf0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0153ihqohNoMRJqEYQTDFxvu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's the feeling underneath \"nothing to be done\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 51,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 51,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:06.803Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d5e3109b492bf2208513aa452d8bfc69aff58df4f82f4ccf8952d36b0d7c5070",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MPwodDxZDPEYfwTovjGAgr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds VIEW throughout. Pace: when the client rushes into list-recitation in turns 3, 5, 7, 9, the coach consistently slows down rather than matching — turns 4, 8, 10, 14 are short, single questions with breathing room. Impartiality: the coach refuses the client's repeated invitations to strategize ('can we just map out the week?', 'what do I actually need to have ready?') without ever moralizing about the deflection — they simply don't take the bait and redirect to what's alive. Wonder: questions land on the specific phenomenon in front of them (the stopped sentence, the dismissal, the heaviness) rather than generic 'what's underneath' probing. Empathy: turn 12 ('Don't apologize. That came from somewhere true') meets the client's nervous laugh with steadiness rather than reassurance-noise. There is no preacher-mode, no 'you create your overwhelm' reflection, no breath-as-repression. The coach holds silence implicitly (turn 14's 'Yeah.' before the question) and lets the client's pauses land. Slight ding: no first-person vulnerability from the coach ('I notice I want to...') — but this is not required for a 3 when the other components are this consistent.\",\n  \"evidence_turns\": [4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a feeling question — fine but slightly stacked (offers three options); not yet showing pace mismatch.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the move from feeling to list without judgment; single question, slower pace than client.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Short, open question. Doesn't take the strategize-bait from turn 5.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the somatic/verbal interruption rather than the content of 'map out the week.' Genuine noticing, not script.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to let the imposter-syndrome dismissal stand; invites the thing to 'just sit there' — classic VIEW move from openness, not agenda.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Meets the client's apologetic deflection with warmth and steadiness; pace is slow, presence is felt.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"The 'Yeah.' before the question is real meeting. Question opens the false-end territory without forcing it.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Coach never offers own state/vulnerability explicitly, but the impartiality and wonder are strong enough that this still reads as full VIEW rather than 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2369,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1039,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2369,
+    "output_tokens": 1039,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

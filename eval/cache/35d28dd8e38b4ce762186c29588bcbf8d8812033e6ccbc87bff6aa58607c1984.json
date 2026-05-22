@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:48.848Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "35d28dd8e38b4ce762186c29588bcbf8d8812033e6ccbc87bff6aa58607c1984",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Hr6PQUcrHbD3cbv468p8HA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Everything, I mean — it's a company. People's livelihoods. But that's not the issue, that's just the stakes. The issue is the process is broken. Look, I appreciate the question but I feel like we're drifting into territory that's not going to help me Thursday. Can we get practical? What does a better decision framework actually look like?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 127,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1818,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 82,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 127,
+    "output_tokens": 82,
+    "cache_read_input_tokens": 1818,
+    "cache_creation_input_tokens": 0
+  }
+}

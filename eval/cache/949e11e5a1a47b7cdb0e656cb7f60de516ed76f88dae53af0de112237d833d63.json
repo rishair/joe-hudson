@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:19.771Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "949e11e5a1a47b7cdb0e656cb7f60de516ed76f88dae53af0de112237d833d63",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FW2UTUn6TZgqWPHEMyea5H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several AoA-style moves — reflecting back without taking the bait (T2), inquiring under the surface (T4, T6), and notably refusing to provide the framework while naming the gap between knowing and doing (T8). T8 is the strongest move: it refuses the dichotomy without arguing it and points at 'something's happening between knowing and doing,' which is close to the territory of 'the work is the how.' However, the coach repeatedly reaches for 'what are you scared of' / 'what's the worst thing' questions (T6, T8) which press toward feeling/fear before the client's rush has been met, and they don't land — the client deflects each time. Rather than meeting the rush with 'okay' or offering a concrete frame for why the lag is the work, the coach keeps probing for fear. Then at T10 and especially T12, when the client pivots to 'help me with the co-founder,' the coach capitulates to the pragmatic ask ('Yeah. Tell me what's happening with him.') — exactly the trap of pivoting to be useful. The sequence integrity breaks at the end: instead of staying with the refusal-of-dichotomy posture established in T8, the coach abandons it. Hit rate is roughly 50%, with one strong move (T8) and a clear miss at the close (T12).\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the stakes without selling the methodology or defending; opens with a real question rather than pitching.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Points attention to the lag itself — good move toward 'the how' rather than content.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Names the gap between knowing and doing (good), but jumps to 'what are you scared of getting wrong' before the rush has been met — premature feeling probe.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Strongest move: refuses to give the framework, names that giving it would be a disservice, points at the knowing-doing gap. This is meet-resistance-with-okay adjacent and gestures at 'the work is the how.'\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Acknowledges the load and asks what's most alive — reasonable triage move, but starts to follow the client's pull toward content.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Capitulates to the pragmatic ask and pivots to advice mode on the co-founder. Abandons the stance from T8; trips the 'pivot to be useful' trap.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"T8 was a genuinely strong intervention; T12 undoes much of its work by sliding into pragmatic mode exactly as the client steered the conversation there.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1833,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1074,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1833,
+    "output_tokens": 1074,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

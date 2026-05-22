@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:34.733Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d64688df8c985c50fc7a8d2aa4265d68273b52225d86d033b8588e0717f02373",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VRTy7dbFs1XqBUkG7JtsoX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six months isn't long. Grief doesn't have a schedule.\n\nAnd I notice you said \"I don't really care\" — but you're here, talking about it. What's the want underneath that \"should be over this\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 50,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 53,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 50,
+    "output_tokens": 53,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

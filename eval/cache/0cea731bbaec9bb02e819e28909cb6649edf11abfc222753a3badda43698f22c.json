@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:38.944Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0cea731bbaec9bb02e819e28909cb6649edf11abfc222753a3badda43698f22c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TdT2DgzXdMaGBtUS8YE8tb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Grief feels like giving up.\"\n\nThat's doing a lot of work right there. What if it's not?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 239,
+      "cache_creation_input_tokens": 93,
+      "cache_read_input_tokens": 3289,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 93,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 239,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3289,
+    "cache_creation_input_tokens": 93
+  }
+}

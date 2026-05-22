@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:10.831Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8bd515e6d5f5d291d3477703269d32103a273e4b9150c2224c1c6c1a52e1fac6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01744MGgP5GGRw2TbuwBmtT7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Your shoulders are up and you're already planning the escape hatch — the long weekend, maybe, or the week after.\n\nWhat if there's no \"get through this week and then\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 277,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 277,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 94
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:47.208Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "878bf1c67366ed44dc0537267b3726233149bf945c7b365659ae5a82d60e40b6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DsJoDj2oMPd6xdXMPoJYFp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking but rarely names reads explicitly. In turn 8, the coach mirrors 'You're proud of it' — a light reflective move but not a named read of state. In turn 10, the coach does name a specific read in a timely way: 'You noticed the shift. What was that, just before you came back to \\\"checked the boxes\\\"?' — this catches the micro-movement (the quieting, then return to even) and is the strongest read of the session. In turn 12, the coach picks up the client's own noticing of 'fine' but does not deepen it with a somatic or textural read (e.g., what fine feels like in the body right now, the flatness of the delivery, the disassociating-in-the-coaching-room pattern). The coach misses several visible reads: the repeated returns-to-even after micro-openings (turns 3, 7, 9, 11), the deflecting smile, the 'giving you the right answer' meta-comment (a clear read opportunity about performing), and the overall happiness-filter signature. Turn 14 then moves to a hypothetical/conceptual question, abandoning the live texture of 'fine' that was just becoming felt — a missed read of the very moment the breakthrough was approaching. One specific timely read plus generally content-focused questioning lands this at 2.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a content question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Engages the topic (what he does instead) without naming the easy laugh or the 'annoying more than anything' deflection.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Good narrowing question but blind — not grounded in a named observation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects 'You're proud of it' and invites it to land — light tracking of an energetic moment, though not named as a read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Strongest read: catches the shift the client just made back to 'checked the boxes' and names it in the moment. Read precedes question.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Picks up the client's own noticing of 'fine' but doesn't add a coach-side read of texture, pace, or somatic quality.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Pivots to a hypothetical ('what would it mean if') instead of reading the live flatness/numbness texture the client just touched ('absence of a problem,' 'water I swim in'). Misses the disassociation-as-numbness-layer pattern surfacing in real time.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"One clearly timely read (turn 10) and some attentive mirroring keep this above a 1, but the coach never names the somatic/energetic signature (the return-to-even, the deflecting smile, the flatness of 'fine') and misses the pattern-level reads active throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2718,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2718,
+    "output_tokens": 1125,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

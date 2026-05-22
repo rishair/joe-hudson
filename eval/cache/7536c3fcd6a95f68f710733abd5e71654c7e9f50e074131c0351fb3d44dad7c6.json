@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:03.075Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7536c3fcd6a95f68f710733abd5e71654c7e9f50e074131c0351fb3d44dad7c6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WCL8LhoF7sePrRHyEDKG96",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I -- yeah, no, I just meant like... I can't even think straight. It's the Thursday thing, it's a big presentation and I'm new to this role and my team is looking to me and I haven't had time to prep because there's also the client call Tuesday, and my partner needs me to handle pickup three days this week because their schedule is -- and my mom's birthday, I keep forgetting to get a card, which is a small thing but it's like -- \n\nIt's just a lot of plates. You know? How do I figure out what to drop?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 143,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 143,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

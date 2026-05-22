@@ -1,0 +1,248 @@
+{
+  "profile_id": "client-red-herring-we-never-fight-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What brings you here, then?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "My friend does this kind of work — not coaching exactly, but something adjacent — and she kept saying I should try it. So I figured, why not? I'm curious what it's actually like. But I don't really have anything pressing to bring."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's alive for you right now, even if it's small?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small pause, slight tilt of the head*\n\nI mean... work is interesting right now, there's some stuff happening there. But at home things are just steady. Calm. Which is good — it's genuinely good. I know a lot of people struggle with their partners and we just... don't. We get along really well."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you've mentioned how good things are at home a few times now."
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*light laugh*\n\nYeah, I guess I have. I don't know, maybe because people always seem surprised by it? Like when I tell people we never really fight, they look at me like that's a problem somehow. Which is a little funny to me. I'd rather have what we have than be constantly at each other's throats like some couples I know."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What do you think they're seeing that surprises them?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*slight shrug*\n\nHonestly, I think they're just projecting. Like, conflict is so normalized in relationships that when someone doesn't have it, it reads as suspicious. But I think we've just figured out how to be good to each other. We're considerate. We don't let things escalate. It works.\n\n*brief pause*\n\nI mean, every relationship has its thing, I'm sure. But ours is pretty smooth."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What's your thing?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*pause, the smile holds but something flickers briefly*\n\nI mean... nothing major. He can be a little particular about certain things. I'm probably a bit in my head sometimes. But we work around it. It doesn't really become an issue.\n\n*settles back slightly*\n\nWe're pretty good at not making things into a bigger deal than they need to be."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What do you work around?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*another pause, slightly longer this time*\n\nLike... he has a certain way he likes things done around the house. And I've just kind of learned what those are. And I'm sure there are things about me he works around too. That's just being considerate of each other, right? That's what a good relationship looks like.\n\n*small nod, as if confirming it to herself*\n\nIt's not like it's a burden or anything. It's just how you live with someone."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "When you learned what those things were — what was that like?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t1",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 42,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0012483,
+      "ms": 1209
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t3",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 58,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 49,
+      "cost_usd": 0.0015850499999999997,
+      "ms": 1291
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t5",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 170,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.0077325,
+      "ms": 3224
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 150,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 49,
+      "cost_usd": 0.00189105,
+      "ms": 1400
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t7",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 97,
+      "output_tokens": 80,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 167,
+      "cost_usd": 0.00260505,
+      "ms": 3448
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 177,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3280,
+      "cache_creation_input_tokens": 82,
+      "cost_usd": 0.0020475,
+      "ms": 1601
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t9",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 117,
+      "output_tokens": 99,
+      "cache_read_input_tokens": 1868,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0023964,
+      "ms": 4097
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 197,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 3345,
+      "cache_creation_input_tokens": 111,
+      "cost_usd": 0.0021307500000000003,
+      "ms": 1127
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t11",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 125,
+      "output_tokens": 82,
+      "cache_read_input_tokens": 1868,
+      "cache_creation_input_tokens": 99,
+      "cost_usd": 0.00253665,
+      "ms": 7111
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 192,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 3437,
+      "cache_creation_input_tokens": 114,
+      "cost_usd": 0.0021696,
+      "ms": 1480
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t13",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 102,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 1887,
+      "cache_creation_input_tokens": 194,
+      "cost_usd": 0.0032346,
+      "ms": 3746
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 203,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3536,
+      "cache_creation_input_tokens": 122,
+      "cost_usd": 0.0023673,
+      "ms": 1336
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:13.433Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f7c2f6aba178bdd014fde013de5a2636ababa69931132cf5ea8d7dccc880af1b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SuLtL3S2QPDU1LT9oSqo5B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you moved pretty quickly away from the question.\n\nWhat would it cost you to trust yourself on this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 281,
+      "cache_creation_input_tokens": 144,
+      "cache_read_input_tokens": 3506,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 144,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 281,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 3506,
+    "cache_creation_input_tokens": 144
+  }
+}

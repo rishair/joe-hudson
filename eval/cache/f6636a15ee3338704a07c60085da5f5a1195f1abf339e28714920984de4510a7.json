@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:26.054Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f6636a15ee3338704a07c60085da5f5a1195f1abf339e28714920984de4510a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QeSZTxxY7QiiARktMgXTfV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I -- \n\n*pause, slightly longer than before*\n\nI mean, I'm not scared, I just -- there's actual consequences, it's not fear, it's just reality. If I don't prep Thursday, the presentation falls flat, my team looks bad, my boss thinks she made a mistake promoting me and --\n\n*stops*\n\n...and she pulls the project. Gives it to Marcus. Who's been there longer and probably should have gotten the role anyway and -- \n\n*quieter*\n\nThey'd see I can't actually do this. That I'm not -- that I got the job and I don't actually know what I'm doing and everyone's going to figure that out and --\n\n*takes a breath, slightly different, goes a little deeper*\n\nI haven't said that out loud before. That's... huh. That's what's underneath all the -- that's why I can't slow down, isn't it. If I slow down I have to feel that.\n\n[EXIT_POSITIVE]\n\nI think I see it. I've been running so I don't have to feel like I'm about to be found out."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 265,
+      "cache_creation_input_tokens": 147,
+      "cache_read_input_tokens": 1915,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 147,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 245,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 265,
+    "output_tokens": 245,
+    "cache_read_input_tokens": 1915,
+    "cache_creation_input_tokens": 147
+  }
+}

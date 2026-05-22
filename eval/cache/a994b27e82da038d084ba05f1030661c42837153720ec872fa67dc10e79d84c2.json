@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:19.816Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a994b27e82da038d084ba05f1030661c42837153720ec872fa67dc10e79d84c2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ncx5AXkwDDq7QiJZ94ppwT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a second*\n\nYeah. I don't know why that is, exactly. I've always been — I think I learned pretty early that wanting things for yourself was... not exactly encouraged. My mom was very much a \"you give, you don't take\" kind of person. Not mean about it, she just modeled it completely. She never asked for anything. And I think I absorbed that as like, that's what a good person looks like.\n\nSo my own wants feel a little — suspect? Like they need to be justified before they're allowed.\n\n*pause*\n\nBut I still think the question of whether this specific trip is selfish is a separate question from all that. Because even if I have some inherited stuff around wanting things, it doesn't automatically mean this particular want is okay. Right? Like, both things can be true."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 260,
+      "cache_creation_input_tokens": 200,
+      "cache_read_input_tokens": 1668,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 200,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 183,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 260,
+    "output_tokens": 183,
+    "cache_read_input_tokens": 1668,
+    "cache_creation_input_tokens": 200
+  }
+}

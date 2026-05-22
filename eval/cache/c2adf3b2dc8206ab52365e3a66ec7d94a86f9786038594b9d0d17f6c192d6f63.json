@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:55.292Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c2adf3b2dc8206ab52365e3a66ec7d94a86f9786038594b9d0d17f6c192d6f63",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WF2LXGy2mV4QyX8ouaQs1d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[slight pause, then waves a hand]*\n\nOh, it's just — you know, gallows humor? Like, if I don't laugh at how absurd it is, I'll just be depressed about it. Three times! Same guy, different face. It's almost impressive, honestly.\n\n*[leans forward slightly]*\n\nBut that's kind of why I'm here, right? Because clearly there's something I'm not seeing. Some pattern in who I'm *picking*. Like, is there a sign I'm missing? Do I need to just... run the other direction when someone seems a little mysterious and brooding? *[eye roll]* Because apparently that's my type and my type is terrible."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 132,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 155,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 155,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

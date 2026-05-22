@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:37.277Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ba783ec2a1790746238be01ecfbb79bc915cec876485fec3a02613766399a068",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NokBztRciorzzHYFVr5xGk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*short exhale, looks away briefly*\n\nI mean... \n\nLook, grief is for when something's lost. This isn't — I haven't lost anything yet. I'm still there. Still doing the work. It's more like... being ignored. Overlooked. That's different.\n\n*shifts slightly*\n\nIt's a waste, is what it is. A waste of — yeah. Time. Effort. \n\nBut grief feels like giving up. Like I'm accepting it's over. And it's not over. There are still things that could change."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 132,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1768,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 123,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 123,
+    "cache_read_input_tokens": 1768,
+    "cache_creation_input_tokens": 0
+  }
+}

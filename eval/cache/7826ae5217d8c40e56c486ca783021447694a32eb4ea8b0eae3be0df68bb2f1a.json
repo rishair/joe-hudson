@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:56.397Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7826ae5217d8c40e56c486ca783021447694a32eb4ea8b0eae3be0df68bb2f1a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ELZCUNQLXH38rNPfGYsC8d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nThe... not enough feeling. \n\n*quieter*\n\nWhich is strange to even say out loud because by any objective measure I'm fine. More than fine. I have colleagues making half what I make who seem genuinely lighter than I do. And I keep thinking — they just haven't run the real numbers. They don't understand what things actually cost. But sometimes I wonder if that's true.\n\n*voice shifts slightly, something underneath it*\n\nIt's been there a long time. The feeling. It's not new. I think I assumed at some point the account balance would just... outrun it. That I'd wake up one day and the math would have caught up to the feeling.\n\n*pause*\n\nIt hasn't. Obviously. Or I wouldn't be here."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 199,
+      "cache_creation_input_tokens": 377,
+      "cache_read_input_tokens": 2028,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 377,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 171,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 199,
+    "output_tokens": 171,
+    "cache_read_input_tokens": 2028,
+    "cache_creation_input_tokens": 377
+  }
+}

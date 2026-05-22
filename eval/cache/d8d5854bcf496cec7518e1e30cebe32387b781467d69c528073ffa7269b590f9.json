@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:36.520Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d8d5854bcf496cec7518e1e30cebe32387b781467d69c528073ffa7269b590f9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016wminFteXnKh2tGzsewmLa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's... a harder question than it sounds. \n\nIf I'm being honest, it's like -- nothing, really. Not tension, not relaxation. Just a kind of low hum that doesn't go anywhere. Like background static that you stop noticing after a while. I'm here, I'm functioning, but there's not much signal underneath that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 95,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 78,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 95,
+    "output_tokens": 78,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

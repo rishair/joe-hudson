@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:49.134Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "73c4926846480e23e4ae4573334864007b06166f0128ddc923c9eb814269ebfe",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01U8KyPSBCYCMGdppKgjCX67",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pause — caught]*\n\n*[small laugh, slightly uncomfortable]*\n\nI don't know. Myself, probably? That sounds very therapy-poster but — yeah. I lost track of what I actually wanted. What would actually feel good. Because I was so busy managing the temperature of the relationship.\n\n*[shifts in seat]*\n\nIt's like — you know when you're at a restaurant and someone else is really indecisive so you just say \"I'll have whatever you're having\" and then you end up eating something you don't even like? It was kind of like that. For two years. *[laughs a little at her own metaphor]*\n\n*[then quieter]*\n\nI think I was going to say I lost track of whether I was even happy. Like — I knew I wanted the relationship to work. I was very clear on that. But whether I was actually... *happy*... \n\n*[trails off, looks slightly surprised at herself]*\n\nThat's a weird thing to realize out loud."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 296,
+      "cache_creation_input_tokens": 533,
+      "cache_read_input_tokens": 2449,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 533,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 221,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 296,
+    "output_tokens": 221,
+    "cache_read_input_tokens": 2449,
+    "cache_creation_input_tokens": 533
+  }
+}

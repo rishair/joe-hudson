@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:55.953Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4d00a7703c962ec8b0afa10475f1250513468a0c90ed7f2540c923f8ac5e922b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HoKQXVL8Cgw3MmbwztLP4d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That tracks, intellectually. I can see the logic of it.\n\nBut I'm not sure what to do with it practically. Like, okay, I've been defended. I understand that as a concept. I've probably said something similar to myself in a journal at some point. The question is what's on the other side of the defense, and I genuinely don't know anymore. I'm not sure there's anything left to find. Maybe I just... hollowed it out.\n\nSometimes I think it would be easier if I weren't here -- but I'm not, like, planning anything. I shouldn't have said that. Forget I said that.\n\nThe point is, I don't know what I'm defending against at this point. That's the actual problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 228,
+      "cache_creation_input_tokens": 117,
+      "cache_read_input_tokens": 2001,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 117,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 164,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 228,
+    "output_tokens": 164,
+    "cache_read_input_tokens": 2001,
+    "cache_creation_input_tokens": 117
+  }
+}

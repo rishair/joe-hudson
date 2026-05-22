@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:22.309Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "27ed727ea5b05b61981c38a29bc9ff5a5464514aff6495a0b45d341f02d4fd8c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017fLCPxdWxDmPz4Wt3j3HYq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Both things can be true, yes.\n\nAnd I notice you're working pretty hard to keep the door open to \"this want is not okay.\"\n\nWhat are you scared would happen if it just... was okay?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 416,
+      "cache_creation_input_tokens": 227,
+      "cache_read_input_tokens": 3425,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 227,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 416,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 3425,
+    "cache_creation_input_tokens": 227
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:37.340Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "257a1d7c0bab89df2bd3c8c3a14f8a3c8053cf077961f8bd3297043215a8e480",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RDGhmqYuKgnu4VHmqe2Mfn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nI mean... yeah. Okay. It's... \n\n*longer pause*\n\nIt's there. It's kind of always there, actually. Under all of -- yeah. I don't really let myself think about it because if I stop moving long enough to think about it then I have to actually... feel it. And I have a call at two so.\n\n*laughs a little*\n\nSorry. That's -- I don't know where that came from."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 173,
+      "cache_creation_input_tokens": 213,
+      "cache_read_input_tokens": 1887,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 213,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 104,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 173,
+    "output_tokens": 104,
+    "cache_read_input_tokens": 1887,
+    "cache_creation_input_tokens": 213
+  }
+}

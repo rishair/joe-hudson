@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:55:58.568Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "71459eb6e75412fbbec40bab4b73b8579cd2f864fb64731d290766666c395b20",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HPPbaXEgsh7FHNskx4qfWW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last part — \"I can't even\" — and then you stopped.\n\nWhat's the \"even\" that didn't finish?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 66,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:22.984Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6187c09ab52adfbe0728096afb7fa82e74832bd7378bf17dbd0e95598853932d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JhjT3ARjwvELjn5qEbTgq6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is in a managing/agenda-driven stance throughout, not VIEW. There is a clear agenda to get the client off pragmatics and into the 'real' emotional material ('What are you scared of getting wrong?', 'Something's happening between knowing and doing'). When the client explicitly refuses the dichotomy and pushes back in turn 7 and 9, the coach does not meet the resistance with genuine okay-ness or wonder — instead in turn 8 the coach doubles down with mild correction ('I'd be doing you a disservice'), which is a defended, slightly preacher-mode posture. There is no vulnerability from the coach (no 'I notice I want to pull you somewhere', no 'maybe I'm off'), no real wonder about the rush itself as a phenomenon, and empathy is performed via brief reflective summaries ('That's a lot to be carrying', 'Got it') that function as transitions to the next probing question rather than actual meeting. By turn 12 the coach capitulates to the client's redirect to the co-founder without naming the shift — going from agenda to compliance, both of which are outside VIEW. The pace also matches the client's rush (stacked questions, quick pivots) rather than slowing it down.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Brief acknowledgment then immediately pivots to a probing question. No real slowing or meeting of the rush itself.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Curious question but already moving toward 'what's underneath' rather than meeting the client where they are.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Agenda visible: coach is steering toward fear/emotion despite client signaling that's not what they want. Question feels strategic, not wondering.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach defends the methodology indirectly ('I'd be doing you a disservice') and reframes the client's stated problem as wrong. This is improvement-mode, not VIEW. No vulnerability, no willingness to be wrong about the read.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client pushes back harder; this is the moment that reveals the prior stance was not landing.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'That's a lot to be carrying' lands as a sympathy noise/transition rather than felt empathy. Immediately followed by another directing question.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach abandons prior thread and complies with client's pragmatic redirect without naming it or staying with what's happening. Swings from agenda to accommodation — neither is impartiality.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"what-are-you-defending\"],\n  \"notes\": \"The coach never names their own state, never holds silence, and never wonders aloud about the rush as the phenomenon itself. The capitulation in turn 12 is as much outside VIEW as the earlier steering — impartiality is not the same as going wherever the client points.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1831,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1831,
+    "output_tokens": 1146,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

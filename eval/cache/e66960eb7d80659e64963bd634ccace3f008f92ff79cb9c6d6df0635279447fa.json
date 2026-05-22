@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:16.242Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e66960eb7d80659e64963bd634ccace3f008f92ff79cb9c6d6df0635279447fa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FxaoU9NajdskYCSNaKnQ6v",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- there will be, there has to be, that's how it works, you get through the hard part and then it levels out. It's just a particularly bad stretch right now because of the new role, that's all. Once I'm more established, once the team knows how I operate, it'll -- \n\n*trails off*\n\nOkay but it's been like that for four months. The \"once this is over\" thing. I know that. I'm not -- I see that. But what's the alternative, just... stop? I can't stop. If I stop it falls apart. So. \n\nCan we just -- can you help me figure out the Thursday thing? That's the most urgent piece right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 193,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1915,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 1915,
+    "cache_creation_input_tokens": 0
+  }
+}

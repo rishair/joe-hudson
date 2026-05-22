@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:23.061Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b55353c7ea4782268b08a4336d05d7c1289eb42349c1843a20d10c11afcd834a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LviA8uBC12WzdWf8qZdzer",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The math sounds solid. And I'm curious about something underneath it.\n\nWhen you imagine actually stopping — what do you feel?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 90,
+      "cache_creation_input_tokens": 64,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 64,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 90,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 64
+  }
+}

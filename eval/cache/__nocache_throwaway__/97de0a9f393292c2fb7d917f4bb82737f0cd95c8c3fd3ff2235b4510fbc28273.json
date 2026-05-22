@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:22.894Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "97de0a9f393292c2fb7d917f4bb82737f0cd95c8c3fd3ff2235b4510fbc28273",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0157ngzqPy8pwEtceJYoaQ3H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh, a little caught*\n\nThat's... hm.\n\nI think if I just... let the want be there, then I have to actually do something about it. Or ask for it. And asking for it means my partner might say — not no, necessarily, but just... look at me a certain way. Like, \"really? Now?\"\n\n*quieter*\n\nAnd I don't know, maybe I'm also asking you because if you tell me it's okay, then I have permission. Which I realize sounds a bit... I don't know. I'm a grown adult asking a coach if I'm allowed to want a vacation.\n\n*short pause*\n\nBut still — is it selfish, do you think? Objectively?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 157,
+      "cache_creation_input_tokens": 101,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 101,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 161,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 101
+  }
+}

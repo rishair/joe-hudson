@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:41.178Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fb5fddbd040c03e7952b0fc3cd3df2345fde3371e06140da9a26cbeba625f347",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WtdC4sA6va9nqcjM7HDa5h",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI think... it would mean I'm not a good sister. Like, if I can't show up for her when she needs me, what does that say about me?\n\nBut also... I think there's something else in there. I think I'm worried she'd see me as cold. Or that I'd become someone who just... doesn't care. And that's not who I am. That's not who I want to be.\n\nIt's hard to even say out loud that I want less of this. It feels like a betrayal somehow."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 118,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1631,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 122,
+    "cache_read_input_tokens": 1631,
+    "cache_creation_input_tokens": 0
+  }
+}

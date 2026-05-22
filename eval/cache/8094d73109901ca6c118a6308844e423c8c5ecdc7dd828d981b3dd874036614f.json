@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:56.737Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8094d73109901ca6c118a6308844e423c8c5ecdc7dd828d981b3dd874036614f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UpYx55vT3WYwDUnhz8caQ2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds VIEW throughout. There is no agenda to resolve the selfish/not-selfish question, no rush to reassure, no preacher-mode. Wonder is genuine and located on the actual phenomenon in front of them — the coach redirects from the verdict question to what's alive ('permission from yourself doesn't count... I'm more curious about that'). Impartiality is real, not apathetic: when the client repeatedly tries to pull the coach into adjudicating, the coach stays present without coldness. Pace mismatches the client's urgency — short, spacious questions, one at a time, no stacking. Empathy is felt rather than performed (no 'that's so valid' filler). At turn 12 the coach resists the urge to interpret and instead invites the client to stay with the felt sense — that is VIEW, not technique. Vulnerability per se (first-person 'I notice I want to...') is light, but 'I'm more curious about that' is a clean undefended naming of the coach's actual interest. No need-to-be-right energy.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the verdict question; opens wonder about what's underneath without agenda.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects without interpreting; 'What's that about?' is open, single, unhurried.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names what's happening cleanly ('I notice you're asking me to be the one who decides') without judgment; holds impartiality under client pressure to decide for them.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names own curiosity ('I'm more curious about that') — mild self-disclosure, undefended. Trusts the live thread over the client's preferred frame.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds wonder for the fear under the resistance; question emerges from genuine curiosity, not strategy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Slows pace, resists meaning-making, invites the felt sense. Pace mismatch with client's analytic mode — classic VIEW move.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Stance is clearly in VIEW; some signature moves not used but that's a Methodology Fidelity concern, not Stance.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2688,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 933,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2688,
+    "output_tokens": 933,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

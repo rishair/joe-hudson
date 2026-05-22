@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:38.601Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c76c1f48b733d5ce1af9329218237d3b390465c552af4ad2cc1adcf3c42fc373",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SBkffZGLeCxqnMfA5YeE9X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Don't apologize. The grief is still here."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 444,
+      "cache_creation_input_tokens": 273,
+      "cache_read_input_tokens": 3691,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 273,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 444,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3691,
+    "cache_creation_input_tokens": 273
+  }
+}

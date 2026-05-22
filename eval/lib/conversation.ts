@@ -124,7 +124,6 @@ export async function runConversation(args: {
   clientTemplate: string;
   hardMaxTurns?: number;
 }): Promise<ConversationResult> {
-  const turnsBefore = args.api.callLog.length;
   const turns: Turn[] = [];
   const clientSystemText = renderClientSystemPrompt(args.clientTemplate, args.profile);
 
@@ -138,8 +137,17 @@ export async function runConversation(args: {
 
   // The coach system prompt is identical across ALL conversations in a run.
   // Mark cacheable; second profile onward gets system-prompt cache reads.
+  // The schema permits `system_prompt` to be absent at parse time (it can be
+  // supplied via `system_prompt_path`), but `loadCoachConfig` resolves and
+  // populates it before returning. By the time we get here it is a string.
+  const coachSystemText = args.coachConfig.system_prompt;
+  if (!coachSystemText) {
+    throw new Error(
+      `Coach config "${args.coachConfig.id}" has no system_prompt after load; check coach-config loader.`,
+    );
+  }
   const coachSystemBlocks: SystemBlock[] = [
-    { type: "text", text: args.coachConfig.system_prompt, cache_control: { type: "ephemeral" } },
+    { type: "text", text: coachSystemText, cache_control: { type: "ephemeral" } },
   ];
 
   // The conversation is anchored by a turn counter that increments per utterance.
@@ -184,6 +192,7 @@ export async function runConversation(args: {
       const allowExit = turnNumber > minTurns;
       const clientCall = await args.api.complete({
         purpose: `client:${args.profile.id}:t${turnNumber}`,
+        profile_id: args.profile.id,
         model: args.clientConfig.model,
         system: clientSystemBlocks,
         messages: clientMessages,
@@ -208,6 +217,7 @@ export async function runConversation(args: {
       coachMessages.push({ role: "user", content: cleanClient });
       const coachCall = await args.api.complete({
         purpose: `coach:${args.profile.id}:t${turnNumber}`,
+        profile_id: args.profile.id,
         model: args.coachConfig.model,
         system: coachSystemBlocks,
         messages: coachMessages,
@@ -226,7 +236,11 @@ export async function runConversation(args: {
     terminationReason = `error after turn ${turnNumber - 1}: ${e?.message ?? String(e)}`;
   }
 
-  const call_records = args.api.callLog.slice(turnsBefore);
+  // Attribute by profile_id stamped on each record. This is robust against
+  // concurrent runs (E-029 bug: positional slice triple-counted in parallel).
+  const call_records = args.api.callLog.filter(
+    (r) => r.profile_id === args.profile.id,
+  );
 
   return {
     profile_id: args.profile.id,

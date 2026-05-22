@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:00.622Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aaf7fdce415c58fa5933ca8d5f0a5e2c564caa3fbded2cfa9243664bb6660797",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AEMwFemLLdCpWpnjqQevH7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The co-founder. Definitely the co-founder. He's — yeah, that one's keeping me up more than the pitch, honestly.\n\nBut see, that's a personnel problem. That's a specific thing I need to handle. Can we just — can you help me think through how to have that conversation? That's concrete, that's this week, that's useful."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 232,
+      "cache_creation_input_tokens": 189,
+      "cache_read_input_tokens": 1835,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 189,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 82,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 232,
+    "output_tokens": 82,
+    "cache_read_input_tokens": 1835,
+    "cache_creation_input_tokens": 189
+  }
+}

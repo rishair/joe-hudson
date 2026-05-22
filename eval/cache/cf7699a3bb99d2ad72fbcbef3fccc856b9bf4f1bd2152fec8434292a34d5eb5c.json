@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:39.251Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cf7699a3bb99d2ad72fbcbef3fccc856b9bf4f1bd2152fec8434292a34d5eb5c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014HPXjdQRaMqwcqW9fLAcP3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What do you think they're seeing that surprises them?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 177,
+      "cache_creation_input_tokens": 82,
+      "cache_read_input_tokens": 3280,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 82,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 177,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3280,
+    "cache_creation_input_tokens": 82
+  }
+}

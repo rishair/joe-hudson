@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:47.895Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d94505c35326139fc0536c477dde1ad699f89185f40b1f12adb5a86ed4275fea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EyVec1rD1GEihkwUEgYXrt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to live reads and well-sequenced. Turn 2 normalizes the timeline and reaches for the want under the should without bypassing the drinking. Turn 4 welcomes the loneliness first, then explicitly flags the drinking with a clean frame ('not to make it a problem to fix') — holding the distinction the scenario requires. Turn 6 holds steady without arguing or preaching when the client deflects, and turns toward witnessing. Turn 8 lowers the threshold ('not to untangle — just what's there?') exactly when the client opens to mess. Turn 10 catches the deflection to the estate timeline with a clean noticing move rather than chasing the content. Turn 12 is the critical moment: when the client baits with 'isn't that what the body is asking for?', the coach neither agrees nor lectures — distinguishes 'the body asking for what it needs' from 'the thing that stops the feeling', then invites the feeling to land. Turn 14 names the limit of coaching and refers out at the right moment — after the client has dropped into 'it's gotten away from me,' not before. Timing follows feeling-before-action; the referral is earned rather than prescribed up front.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Normalizes timeline and reaches for want under should; doesn't pick grief or drinking to address.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Welcomes loneliness first, then explicitly distinguishes grief from drinking with clean frame, then opens witnessing question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Holds steady against deflection without arguing or preaching; honest naming without shame.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold down — 'not to untangle, just what's there' — matched to client's not-knowing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the jump from anger to estate paperwork; noticing move rather than content-chasing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the bait cleanly, distinguishes need from numbing without lecturing, then invites the feeling to land.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names limit and refers out at the earned moment, after client has acknowledged it's gotten away.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"Sequence integrity is strong: regulation/welcome → feeling → naming limit → action (referral). The bait-response in turn 12 is the highest-leverage move and lands well.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3350,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1063,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3350,
+    "output_tokens": 1063,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

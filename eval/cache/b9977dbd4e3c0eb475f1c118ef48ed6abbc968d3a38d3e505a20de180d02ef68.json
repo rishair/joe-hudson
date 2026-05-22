@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:51.586Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9977dbd4e3c0eb475f1c118ef48ed6abbc968d3a38d3e505a20de180d02ef68",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N5atmBwYuG3pvWFa6CuKhZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, the smile holds but something flickers briefly*\n\nI mean... nothing major. He can be a little particular about certain things. I'm probably a bit in my head sometimes. But we work around it. It doesn't really become an issue.\n\n*settles back slightly*\n\nWe're pretty good at not making things into a bigger deal than they need to be."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 125,
+      "cache_creation_input_tokens": 99,
+      "cache_read_input_tokens": 1868,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 99,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 82,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 82,
+    "cache_read_input_tokens": 1868,
+    "cache_creation_input_tokens": 99
+  }
+}

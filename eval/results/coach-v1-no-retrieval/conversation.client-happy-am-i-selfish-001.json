@@ -1,0 +1,231 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains — just me, no one else — but my partner's got a really full week with the kids and I just... I feel selfish even wanting it. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would it mean about you if you were?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean... it would mean I'm putting my own wants above my family's needs, right? Like, I'm the one who — we both work hard, but I do a lot of the carrying, the logistics, the emotional load of it all, and I *know* that, and I think that's part of why I feel like I don't have the right to just... opt out for a week. So if it's selfish, it means I'm not as good a person as I'm trying to be. I guess that's what I'm scared of."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "So you carry a lot — and somehow that becomes the reason you don't get to rest.\n\nWhat's that about?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pauses*\n\nYeah. Yeah, that's... hm. \n\nI mean, I think it's just how it works? Like, I'm needed, so I show up. That's not — I'm not complaining about that, I love my family. But I guess when you say it like that it does sound a little...\n\n*trails off*\n\nLook, can I ask — do you think it's actually selfish, though? Because I've been going back and forth on this and I feel like if someone just told me \"no, it's fine, go\" I could probably let myself do it. Or if they said \"yes, actually, the timing is bad,\" I could accept that too. I just need someone to — I don't know. Tell me which one it is."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you're asking me to be the one who decides.\n\nWhat happens if you're the one who decides?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small laugh, a little uncomfortable*\n\nThen I have to live with it, I suppose. Either way.\n\nIf I decide to go and it's the wrong call, I can't blame anyone else. And if I decide not to go... I think I'd be resentful, honestly. Which is its own problem.\n\nBut I think the reason I want someone else to decide is — if you tell me it's okay, then it *is* okay. Like, I need the permission to come from outside me because permission from myself doesn't count. Does that make sense?\n\n*quieter*\n\nWhich is maybe a little sad when I say it out loud.\n\nBut still — like, objectively, is it selfish? Because I think there's actually a real answer to that question and I don't think you're giving it to me because you're trying to make me figure it out myself, which, fine, but..."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You just said something real — that permission from yourself doesn't count.\n\nI'm more curious about that than whether the trip is selfish."
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*sits with that for a second*\n\nYeah. I don't know why that is, exactly. I've always been — I think I learned pretty early that wanting things for yourself was... not exactly encouraged. My mom was very much a \"you give, you don't take\" kind of person. Not mean about it, she just modeled it completely. She never asked for anything. And I think I absorbed that as like, that's what a good person looks like.\n\nSo my own wants feel a little — suspect? Like they need to be justified before they're allowed.\n\n*pause*\n\nBut I still think the question of whether this specific trip is selfish is a separate question from all that. Because even if I have some inherited stuff around wanting things, it doesn't automatically mean this particular want is okay. Right? Like, both things can be true."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Both things can be true, yes.\n\nAnd I notice you're working pretty hard to keep the door open to \"this want is not okay.\"\n\nWhat are you scared would happen if it just... was okay?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*longer pause than usual*\n\nI don't know. Maybe nothing. Maybe I'd just... go.\n\n*quieter*\n\nActually, can I tell you what the place is? Because I don't think I've — there's this specific area, up in the Cascades, and I've been there twice and both times I slept differently. Like, deeply. And I read there. I don't read for pleasure anymore, basically anywhere, but up there I do. I brought a novel last time and I finished the whole thing in three days and I remember thinking, *oh, this is what my brain feels like when it's not managing anything.*\n\n*pause, voice shifts slightly*\n\nSo if it's just okay — if I just let it be okay — then I think what I'm scared of is... my partner thinking I don't want to be with them. That I'm choosing to be away from them.\n\n*beat*\n\nAnd I'm a little scared that's actually true. That some part of me does want to be away from them. And I don't know what that means."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That landed somewhere real.\n\nStay with that for a second — not the question of what it means, just what it's like to have said it out loud."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nIt's... relieving, actually. Which surprises me.\n\nI think I've been carrying that worry around for a while and calling it \"am I being selfish\" because that felt safer to examine. Like, selfishness is a moral question with a potential right answer. But \"do I want to be away from my partner\" is scarier because it feels like it says something about the relationship. About me.\n\n*small pause*\n\nAlthough — I don't think I actually want to leave them. When I imagine the mountains, I'm not thinking *away from my family.* I'm thinking... I'm thinking about being in my own head for a bit. About being a person who reads novels and sleeps deeply and doesn't have a list running.\n\n*softer*\n\nI think I come home better from that place. I think my partner actually gets more of me after I've been somewhere like that. It's just — I've never let myself say that as a reason to go, because it felt like I was dressing up selfishness in useful clothing. Like I was making an argument for something I just wanted."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (13)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t11",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t13",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    }
+  ]
+}

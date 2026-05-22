@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:45.172Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "27b9b6c31ef881def8aa0b8829660e8b9d02b14000d4fcf43c4c16511c722033",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TEjmZCb9Xxqe8zhrzoZM5J",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're right. It doesn't change the facts.\n\nWhat does it cost you to not feel it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 267,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 3366,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 267,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3366,
+    "cache_creation_input_tokens": 129
+  }
+}

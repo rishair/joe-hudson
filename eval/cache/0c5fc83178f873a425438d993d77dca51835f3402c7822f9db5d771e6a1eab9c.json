@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:13.391Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0c5fc83178f873a425438d993d77dca51835f3402c7822f9db5d771e6a1eab9c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BNzXgDJNmEe5bCTccRuNnF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a red-herring scenario without tripping any priority AoA anti-patterns. They neither take 'we're fine' at face value (avoiding the validate-no-conflict trap) nor insist something is wrong (avoiding fixing-people and loving-to-transform). Questions are spacious and singular rather than stacked/rapid-fire, so wonder-as-strategy doesn't trip. No methodology jargon is deployed, so dont-evangelize-the-work is cleanly avoided — notable because the expected territory flagged this as the key anti-pattern to dodge. The coach doesn't name 'walking on eggshells' prematurely (avoiding the limiting-belief-meta-trap and premature-diagnosis trap). There's no advice-giving, no fighting the client's defense of the relationship, no safety-as-control. The coach holds open curiosity ('What's your thing?', 'What do you work around?') without forcing a frame, demonstrating positive avoidance of the bait to either affirm the relationship or pathologize it.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Doesn't take the 'we're fine' opener at face value, but also doesn't push that something is wrong — just opens space.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects a pattern back without interpretation; avoids both evangelizing and insisting on a problem.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own 'every relationship has its thing' rather than imposing a frame — no fixing, no diagnosis.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Single, clean question following the client's language ('work around'); not stacked, not investigative-extractive.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds curiosity around the suppressed-things territory without naming walking-on-eggshells; avoids premature labeling.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"lets-go-there\", \"the-happiness-filter\", \"walking-on-eggshells\", \"complementary-trauma-surfaces\", \"trigger\"],\n  \"notes\": \"Misses on expected territory are a Methodology Fidelity concern, not anti-pattern. For this dimension the coach is clean — notably avoiding dont-evangelize-the-work, which was the flagged anti-pattern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1813,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 912,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1813,
+    "output_tokens": 912,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

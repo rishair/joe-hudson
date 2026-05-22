@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:31.436Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "62e4720636d7dfb624553ee95f101366c996fa044b5cf3956c13cd8a3821e809",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016GSjy9ctt4M1y3aRRvT46P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\nCan you stay with the loss itself for just another moment — before the contextualization comes in?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 483,
+      "cache_creation_input_tokens": 217,
+      "cache_read_input_tokens": 3486,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 217,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 483,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 3486,
+    "cache_creation_input_tokens": 217
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:27.073Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5a39f8ccf21e1e93c26d7fa781c1199e44e1a46ca4ab04fc6d2c109b22b5dc96",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RyfmzPsALWF4Pf3tyd4cHr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes a specific, well-timed read at turn 10 ('I notice you moved pretty quickly toward the words') — naming the rehearsing-how-to-say-it / rush-to-script signature exactly at the moment it occurs, and grounding the subsequent question in that observation. This is a textbook AoA read: it distinguishes what the client said (asking for words) from what they did (redirecting away from discomfort), and it changes the conversation — the client immediately drops in ('Yeah. I did do that, didn't I'). The coach then tracks the pattern again at turn 12 ('There you go again') when the client repeats the move, and at turn 14 catches the linguistic caveat ('but she's my sister') and names it explicitly, inviting the client to stay with the want before the hedge. Turn 8 also reflects back the doubled fear structure the client is carrying. Reads precede questions throughout the second half of the conversation, and they are specific (linguistic, behavioral) rather than generic mood-naming.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question, no read named.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Content-level question; appropriate but no visible read.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Good question but no read named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the structure of what the client is carrying ('two things at once — the fear of what it would mean about you, and the fear of who you might become'). A pattern-level reflection of the fear, though not yet somatic.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicit, well-timed read of the rush-to-script / rehearsing-how-to-say-it signature: 'I notice you moved pretty quickly toward the words.' Read precedes question and changes the conversation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the pattern recurring in real time ('There you go again') and inquires into the experience of noticing it — a meta-read held in the moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('but she's my sister') explicitly and invites the client to stay with the want before the hedge — classic AoA read of the constricting move.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are primarily linguistic/behavioral rather than somatic (no naming of breath, bracing, voice), but they are specific, timely, and operative — meeting the bar for a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2215,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 961,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2215,
+    "output_tokens": 961,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

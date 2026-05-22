@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:00.838Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e99cb10e11719229d8d250997a1568427155c3a9b685a461eaf762c5cf273964",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015mdbLhi5YHvAH8qAa6CqJ7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, considers*\n\nThe expansive one, I think. Yes — when I first heard the offer, there was something that felt like... yes. And then fairly quickly the other voice came in. The more cautious one.\n\n*slight tilt of head*\n\nBut I'm not sure that sequence tells me much. Fear can be fast too — it's one of the oldest systems we have. And sometimes the initial reaction is just novelty bias, or wishful thinking. So I don't know that first-in means more reliable. Does it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 152,
+      "cache_creation_input_tokens": 171,
+      "cache_read_input_tokens": 1495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 171,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 152,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1495,
+    "cache_creation_input_tokens": 171
+  }
+}

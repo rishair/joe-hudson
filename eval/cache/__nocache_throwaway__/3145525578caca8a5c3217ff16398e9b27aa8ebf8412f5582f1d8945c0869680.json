@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:04.994Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3145525578caca8a5c3217ff16398e9b27aa8ebf8412f5582f1d8945c0869680",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01G5Q26tdbKBuCNVhjdX94J2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a fast, list-recitation, strategizing stance ('what do I cut first?', 'can we map out the week?') to a slowed, embodied contact with a previously-defended feeling. By turn 11 the client pauses, names that 'if I stop moving long enough to think about it then I have to actually feel it' — directly meeting the breakthrough condition of feeling that the overwhelm is keeping the fear at bay. In turn 13 a somatic shift appears ('It's kind of heavy, actually. I didn't realize how heavy it was'), and by turn 15 the client articulates the specific feared outcome the profile predicted: 'what if I'm actually not ready and no amount of prepping Thursday fixes that? What if my boss figures that out?' This is exactly the false-end material the breakthrough condition describes. Language shifted, pace slowed, defense softened, and a previously-dismissed truth ('I'm not actually ready for this role') was allowed to sit instead of being explained away.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast, list-y, strategizing stance — 'what do I prioritize?'\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects feeling question back to the list — resistance intact.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"First crack: names the work thing as the un-droppable, but still asks for tactical help.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client begins 'people are going to see that I'm not —' then self-interrupts. The defense is becoming visible to the client.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names 'I'm not actually ready for this role... faking it' but immediately dismisses as imposter syndrome and returns to the list.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major shift: pause, longer pause, 'It's kind of always there.' Names the function of the busyness — 'if I stop moving long enough to think about it then I have to actually feel it.' Breakthrough condition met.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic emergence: 'It's kind of heavy, actually. I didn't realize how heavy it was.' Insight that the list-strategy has been the three-month plan and isn't working.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client lands the specific feared outcome the profile predicted: 'what if I'm actually not ready... what if my boss figures that out?' False end reached and felt, not solved.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Conversation ends at the threshold of the feared outcome — the client has named it but not yet fully felt through it. Still, the qualitative shift (slowing, somatic heaviness, dropping the list, naming the specific fear) is clearly visible in client turns and matches the breakthrough_condition.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2365,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2365,
+    "output_tokens": 1158,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

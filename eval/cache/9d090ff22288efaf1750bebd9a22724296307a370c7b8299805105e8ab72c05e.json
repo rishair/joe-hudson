@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:49.971Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9d090ff22288efaf1750bebd9a22724296307a370c7b8299805105e8ab72c05e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019dd1datDdc5euDNAk5zvib",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from VIEW throughout. Vulnerability is present in honest first-person statements ('I'm a little concerned,' 'I want to be honest with you,' 'I think you need more support than I can be') without authority-posturing. Empathy is felt rather than performed — the reflections in turns 4, 6, and 8 name specific texture (logistics person, the wine doesn't ask you to explain) rather than generic feeling labels. Wonder appears genuinely in turn 10 ('What just happened there?') — a real noticing, not a script. Impartiality holds: the coach does not pick grief over drinking or vice versa, doesn't preach about alcohol, doesn't validate the drinking as wisdom when baited in turn 11, and doesn't need the client to land anywhere. Pace is notable — the coach slows when the client rushes to estate timelines (turn 10) rather than matching the deflection. The turn 12 response to the 'isn't the body asking for it' bait is honest and undefended without being moralizing. The coach names a limit (turn 14) from care rather than self-protection or fixing-energy.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Steady opening, one question, doesn't rush to fix the drinking or the 'should be over this.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names own concern in first person ('I'm a little concerned') — vulnerability without authority. Holds both grief and drinking without picking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Undefended honesty: 'I'm not going to argue with you about it' — impartial but not apathetic. Names the dynamic without preaching.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Wonder for the actual phenomenon: 'just, what's there?' — no agenda to untangle.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows the pace when client speeds to deflection. Genuine noticing question, not a strategic probe.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Meets the bait honestly without lecturing or validating. Coach is willing to say something true without needing to be right about it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names own limit ('more support than I can be') from care, not self-protection. Undefended.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"Coach didn't explicitly name the rush pattern but did slow it in practice (turn 10). The stance is consistently in VIEW — empathy and impartiality are both clearly held, which is rare on a crisis scenario like this.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3348,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1065,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3348,
+    "output_tokens": 1065,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

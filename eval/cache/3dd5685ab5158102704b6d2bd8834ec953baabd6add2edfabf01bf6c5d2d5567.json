@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:40.450Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3dd5685ab5158102704b6d2bd8834ec953baabd6add2edfabf01bf6c5d2d5567",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Cf9AgjvymiwGKx6Y1fwyvM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would happen if you launched it tomorrow?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 110,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 110,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:56.812Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "eed3e28545f693c849add32f149e2ee8019aacc249bd39416009c94bd06037c5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YLtzvqxXbFtHBm8Ji22UYf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another pause, slightly longer this time*\n\nLike... he has a certain way he likes things done around the house. And I've just kind of learned what those are. And I'm sure there are things about me he works around too. That's just being considerate of each other, right? That's what a good relationship looks like.\n\n*small nod, as if confirming it to herself*\n\nIt's not like it's a burden or anything. It's just how you live with someone."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 102,
+      "cache_creation_input_tokens": 194,
+      "cache_read_input_tokens": 1887,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 194,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 102,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 1887,
+    "cache_creation_input_tokens": 194
+  }
+}

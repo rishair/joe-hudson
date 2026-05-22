@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:26.483Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aa7d28a2927242b2a1e7898e5925367fd5e56c03f27820f831f609009084422d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Lrj7AV5SZRFffU1eKET2sN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nThe feeling. Right. \n\nIt's — frustration, I guess. Watching people who are less capable just... sit there. Taking up space. While the work keeps landing on me because I'm the one who actually does things. That's the feeling."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 62,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 62,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:42.628Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0f10cb9d34201a990bebca97419b45d4f64200d02f277af81fe28948617c80d1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GhshvjGLYLdntipy5PPJ5E",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real curiosity and impartiality — questions are short, unstacked, and not preachy. They hold silence and don't fill it with validation noises. The move at turn 8 ('You're working pretty hard to disqualify both signals') and turn 12 (returning to the unanswered question) show the coach is tracking the client's body/avoidance rather than the intellectual content, which is a VIEW signal. However, vulnerability from the coach is entirely absent — no first-person disclosure, no 'maybe I'm off,' no naming of their own state. Wonder is present but somewhat investigative rather than awed — the questions feel like probes toward a destination (get the client to admit something) rather than genuine open curiosity about the phenomenon. There's a faint agenda visible: the coach wants the client to drop the intellectual frame, and turn 14 ('What happened that made it murkier?') pivots into history-gathering rather than staying with the live texture of the avoidance. Empathy is competent but not warm-bodied. Neither a clear 1 nor a clear 3; this lands genuinely in 2.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Short, clean question. Doesn't engage epistemology. Neutral on stance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pivot to body — suggests the coach is tracking the somatic, not the intellectual frame.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Short question, holds space, but slightly mechanical.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names what's actually happening in front of them rather than the content. Shows the coach is seeing the client, not solving the puzzle.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the diagnostic frame, pivots to a stance question. Impartiality and willingness to disrupt are visible.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Returns to the unanswered question rather than chasing the client's deflection. Shows the coach is not anxious to look helpful.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Shifts into history-gathering — slight agenda creep toward 'what caused this.' Loses the live texture in favor of backstory. No vulnerability or naming of own state at any point in the call.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"intellectual-question-with-emotional-body\", \"the-happiness-filter\", \"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Stance is competent and not in fixing-mode, but lacks the vulnerability and undefended wonder of a 3. No first-person coach disclosure anywhere.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2387,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1056,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2387,
+    "output_tokens": 1056,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

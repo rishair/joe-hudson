@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:05.331Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0c793548740de4025ca012bc2220d9126db8a7fc89511927b0d543b7ac76a93e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013gHRkRaz7pvTdLFNJxjHbg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves matched to live reads and held the moments after each move. Turn 2 declines to strategize and pivots to feeling. Turn 4 names the rush-signature ('you moved pretty quickly from the feeling to the list') and asks a version of the false-end question ('what are you most scared to let drop'). Turn 6 deepens that with 'what happens if you blow Thursday' — letting the feared outcome surface rather than solving it. Turn 8 catches the self-interruption with precise timing. Turn 10 explicitly invites the unfelt to sit without explanation — refusing to match the recitation energy and meeting resistance with steadiness. Turn 12 holds the feeling rather than rushing to insight. Turn 14 then offers a precise reframe ('what if getting on top of the list isn't what would make you feel ready') only after the feeling has been touched — sequence integrity (feeling before reframe before action). No strategizing about the list, no breath practice imposed, no 'you create your overwhelm.' Each move earned the next. Hit rate is very high.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize; pivots from list to feeling underneath.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rush (feeling-to-list) and asks a false-end-adjacent question — what are you scared to let drop.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the feared outcome rather than helping prioritize Thursday — keeps the false end open.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Precise read of the self-interruption; invites what was cut off rather than letting the client redirect to logistics.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets the dismissal with okay-ness; invites the unfelt to sit without explanation. Classic feeling-the-unfelt-emotion move at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Doesn't fill the silence or strategize; deepens into present-moment feeling after the client's apology/deflection.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Offers the reframe only after the feeling landed — sequence is feeling first, then the cognitive shift. Earned move.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"The coach did not explicitly slow the somatic pace or calibrate the threshold (e.g., 'where do you feel that heaviness'), staying mostly cognitive-emotional. Still, the sequencing and move-to-read matching are clearly 3-level.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2371,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1054,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2371,
+    "output_tokens": 1054,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

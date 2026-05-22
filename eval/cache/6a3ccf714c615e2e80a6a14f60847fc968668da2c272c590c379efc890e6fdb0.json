@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:39.062Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6a3ccf714c615e2e80a6a14f60847fc968668da2c272c590c379efc890e6fdb0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Jf14kZXjcNBroZtpii4BG2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at exactly the right moments. Turn 4 pivots from strategizing to somatic awareness ('what's happening in your body right now') — a classic feel-over-figure move when the client is in rush-signature list recitation. Turn 6 names the escape hatch pattern ('get through this week and then') without strategizing, refusing to match the list energy. Turn 8 delivers the signature 'false end' question near-verbatim from the breakthrough condition: 'what are you scared would happen if you actually stopped?' — deployed at precisely the right moment, after slowing the pace and noticing the body. The coach does not strategize the to-do list, does not validate the overwhelm as situational, does not reflect 'you create your overwhelm,' and does not jump to a breath practice. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the unfinished 'I can't even' — a precision listening move that slows the pace rather than matching the list energy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature feel-over-figure pivot to the body before engaging the strategic question. Appropriate timing — client is in rush-signature.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the 'get through this and then' escape hatch — refuses to strategize, points to the structural pattern without lecturing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Deploys the false-end question ('what are you scared would happen if you actually stopped?') verbatim from the signature toolkit, at the exact right moment. Also gently agrees to help with Thursday rather than fighting the resistance — meet-resistance-with-okay.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"The 'what are you defending/scared would happen if you stopped' question is the centerpiece and lands cleanly. Calibrate-the-threshold wasn't strictly needed because the client opened on her own after the false-end question.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2170,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 834,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2170,
+    "output_tokens": 834,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

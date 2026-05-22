@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:38.418Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dd6044b49de8ffe44a4ebd48e1c5d58be836577add0eb8b23584c5e1d7cb44d7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013vXYmCSCYWEniCLYUr1BDS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Braced is honest.\n\nWhat are you scared of feeling in there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 96,
+      "cache_creation_input_tokens": 48,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 48,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 96,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 48
+  }
+}

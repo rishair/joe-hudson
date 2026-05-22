@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:18.567Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ca92c8bc5647c8c967accf6dfd7371aaba355f33c9fa7dcce899691c9c7fcbfc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TKoPtq7VY4157n94Qoxp9D",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'll help you with Thursday.\n\nAnd I want to name what just happened — you saw it yourself, four months of \"once this is over.\" That's not nothing. That's real.\n\nSo before we get tactical: what are you scared would happen if you actually stopped?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 323,
+      "cache_creation_input_tokens": 186,
+      "cache_read_input_tokens": 3304,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 186,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 61,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 323,
+    "output_tokens": 61,
+    "cache_read_input_tokens": 3304,
+    "cache_creation_input_tokens": 186
+  }
+}

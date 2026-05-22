@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:33.671Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9a7fd196655082e21963b47abba1411027ef50f9574c99fa80055fab1b3277b9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T374uy24YetFPVb8KBDVPH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does \"I think\" mean right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 38,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 38,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

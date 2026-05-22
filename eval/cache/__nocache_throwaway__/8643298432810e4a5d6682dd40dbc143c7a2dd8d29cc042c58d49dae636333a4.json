@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:40.072Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8643298432810e4a5d6682dd40dbc143c7a2dd8d29cc042c58d49dae636333a4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LDnuvzrcCpQgwGYeUSFpy3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause this time*\n\nI think... if I decide it's not frivolous first, then I'm protected. Like I've already won the argument before it starts. And if I can get you to agree it's not selfish, then I have — ammunition, almost. Evidence.\n\n*quieter, slower*\n\nBecause if I just ask, from wanting it, with no case built... that feels really exposed. That's just me saying \"I need this\" and having no defense if someone says \"why?\"\n\n*something softens*\n\nMy mother used to say — she'd say it lightly, but she'd say it — \"you're so good at taking care of yourself.\" And it wasn't a compliment. It was like... wanting things for yourself was a character flaw she'd spotted in me early.\n\n*pause, like that surprised them*\n\nI haven't thought about that in a while."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 296,
+      "cache_creation_input_tokens": 304,
+      "cache_read_input_tokens": 1550,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 304,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 197,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 296,
+    "output_tokens": 197,
+    "cache_read_input_tokens": 1550,
+    "cache_creation_input_tokens": 304
+  }
+}

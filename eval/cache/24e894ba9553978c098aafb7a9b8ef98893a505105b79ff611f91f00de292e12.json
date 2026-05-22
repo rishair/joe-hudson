@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:27.793Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "24e894ba9553978c098aafb7a9b8ef98893a505105b79ff611f91f00de292e12",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TbZFyLFZKEx8kdGrC7Ng9r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stopping. Like... quitting? \n\n*pause*\n\nHonestly? I don't know if I've let myself really picture it. There's the obvious stuff — writing the book I've been putting off, being more present for my parents while they're still healthy enough to actually do things together. That feels real.\n\nBut if I'm being honest there's also something that feels almost... uncomfortable about the idea. Which is probably just because I've been in execution mode so long. That's a transition problem, not a money problem. Plenty of people struggle with that.\n\nThe number just needs to be right first. Once I know it's solid, I think the discomfort goes away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 119,
+      "cache_creation_input_tokens": 110,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 110,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 149,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 119,
+    "output_tokens": 149,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 110
+  }
+}

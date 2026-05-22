@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:54.594Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4a1eea82d726519856fe87872f012f8a5f451871308fa33480576e46c06c2100",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XRc7XYTvu4su25Zw6yxtD7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n*looks at something on the floor for a moment*\n\nI don't know. Tired, maybe. \n\n*quieter, more clipped*\n\nJust... tired of performing like everything's fine when it isn't. Tired of being the person who holds it together and doesn't make a fuss and just — keeps going. Because that's what you do. That's what's expected.\n\n*tightens again*\n\nBut that's not — that's just work stress. Everyone's tired. That's not some profound revelation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 162,
+      "cache_creation_input_tokens": 264,
+      "cache_read_input_tokens": 1897,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 264,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 121,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 121,
+    "cache_read_input_tokens": 1897,
+    "cache_creation_input_tokens": 264
+  }
+}

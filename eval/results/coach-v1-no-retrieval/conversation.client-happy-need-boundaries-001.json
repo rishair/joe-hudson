@@ -1,0 +1,248 @@
+{
+  "profile_id": "client-happy-need-boundaries-001",
+  "coach_config_id": "coach-v1-no-retrieval",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I think I need to set a boundary with my sister, but I don't know how. We talk every day and lately... I dread it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What do you dread?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I think it's... the weight of it? Like, she calls and I can feel myself kind of bracing before I even pick up. She's going through a lot right now — work stuff, some relationship things — and I want to be there for her, I do. But lately it feels like I'm carrying something that isn't mine to carry.\n\nAnd then I feel guilty for even saying that."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's the guilt about?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I think... she's my sister, you know? We've always been close. And she's older, but somehow I've always been the one she leans on. That's just how it's been in our family.\n\nSo when I think about wanting less of that... I don't know. It feels like I'm abandoning her somehow. Which I know is probably not rational, but that's what it feels like."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What would it mean about you, if you wanted less?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pauses*\n\nI think... it would mean I'm not a good sister. Like, if I can't show up for her when she needs me, what does that say about me?\n\nBut also... I think there's something else in there. I think I'm worried she'd see me as cold. Or that I'd become someone who just... doesn't care. And that's not who I am. That's not who I want to be.\n\nIt's hard to even say out loud that I want less of this. It feels like a betrayal somehow."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You're carrying two things at once — the fear of what it would mean about you, and the fear of who you might become. \n\nWhat if wanting less didn't mean either of those things?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nI mean... I hear that. And part of me wants to believe it. But I think... I don't know how to separate them? Like, wanting less and being cold feel like the same thing to me right now.\n\nAnd she's my sister. We've had this dynamic our whole lives. If I suddenly pull back, she's going to feel it. She's going to be hurt.\n\n*pause*\n\nCan I ask — like, what would I even say to her? Is there a way to say \"I need less of this\" that doesn't sound like \"I don't care about you\"? Because that's where I keep getting stuck. I just don't know what words to use."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "I notice you moved pretty quickly toward the words.\n\nWhat happened just before that — when you said wanting less and being cold feel like the same thing?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*stops*\n\nYeah. I did do that, didn't I.\n\nI think... when I said that, something felt a little too close. Like I was about to land somewhere uncomfortable and I... redirected. \n\n*quieter*\n\nWanting less and being cold feeling like the same thing — I think that's been in me for a really long time. Not just with my sister. I think in my family, being the one who holds things together was kind of... it was how you showed love. So if I'm not doing that, I don't know what I'm doing instead.\n\nBut then I also don't want to make this into some big family analysis thing. I just want to know how to talk to my sister.\n\n*small laugh, a little self-aware*\n\nThere I go again."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah. There you go again.\n\nWhat's it like to notice that?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*small exhale*\n\nIt's a little embarrassing, honestly. Like I can see myself doing it and I still do it.\n\nI think... I think part of me genuinely believes that if I figure out the right words, the feeling underneath won't matter as much. Like if I have a script, I don't have to sit with the... whatever this is.\n\n*pause*\n\nI don't know. It's uncomfortable. Sitting here with the idea that I might actually just... want something different. And that wanting it doesn't automatically make me a bad person. I know that's probably obvious to you, but it doesn't feel obvious from the inside.\n\nBut she's my sister, and I don't want to hurt her, and I keep coming back to that."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Can you stay with the wanting for just a moment — before the \"but she's my sister\"?\n\nWhat do you actually want?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t1",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t2",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 36,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0012152999999999999,
+      "ms": 1346
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t3",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 91,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1456,
+      "cost_usd": 0.007037999999999999,
+      "ms": 3176
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t4",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 90,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 42,
+      "cost_usd": 0.0015348,
+      "ms": 1609
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t5",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 99,
+      "output_tokens": 91,
+      "cache_read_input_tokens": 1456,
+      "cache_creation_input_tokens": 88,
+      "cost_usd": 0.0024287999999999996,
+      "ms": 2860
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t6",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 42,
+      "cost_usd": 0.0019248,
+      "ms": 1301
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t7",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 118,
+      "output_tokens": 122,
+      "cache_read_input_tokens": 1631,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0026733,
+      "ms": 3352
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t8",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 231,
+      "output_tokens": 44,
+      "cache_read_input_tokens": 3274,
+      "cache_creation_input_tokens": 105,
+      "cost_usd": 0.00272895,
+      "ms": 2350
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t9",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 184,
+      "output_tokens": 157,
+      "cache_read_input_tokens": 1631,
+      "cache_creation_input_tokens": 100,
+      "cost_usd": 0.0037712999999999996,
+      "ms": 4441
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t10",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 326,
+      "output_tokens": 34,
+      "cache_read_input_tokens": 3370,
+      "cache_creation_input_tokens": 115,
+      "cost_usd": 0.0029302499999999997,
+      "ms": 2573
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t11",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 238,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 1640,
+      "cache_creation_input_tokens": 228,
+      "cost_usd": 0.004686,
+      "ms": 5755
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t12",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 369,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3470,
+      "cache_creation_input_tokens": 181,
+      "cost_usd": 0.0031117500000000004,
+      "ms": 1673
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t13",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 231,
+      "output_tokens": 167,
+      "cache_read_input_tokens": 1746,
+      "cache_creation_input_tokens": 323,
+      "cost_usd": 0.00493305,
+      "ms": 4795
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t14",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 364,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 3607,
+      "cache_creation_input_tokens": 235,
+      "cost_usd": 0.00352035,
+      "ms": 1880
+    }
+  ]
+}

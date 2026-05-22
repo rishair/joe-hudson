@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:07.571Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "292c191d25dc8ef33edc019ba3be7503f2fe13eae9c0b785897b05602fb7f9c0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XJpLVPRVm4ECREKUZV4pFn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just named something real — the anger, the unsaid things, the not-knowing — and then you moved to the estate timeline pretty fast.\n\nWhat just happened there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 273,
+      "cache_creation_input_tokens": 314,
+      "cache_read_input_tokens": 3423,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 314,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 273,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 3423,
+    "cache_creation_input_tokens": 314
+  }
+}

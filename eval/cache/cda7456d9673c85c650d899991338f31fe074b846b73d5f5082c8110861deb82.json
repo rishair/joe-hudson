@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:25.946Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cda7456d9673c85c650d899991338f31fe074b846b73d5f5082c8110861deb82",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DFMwqRSj2maUArYoSNuLTi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach has empathy and a soft tone but is operating from a subtle agenda-driven stance: keep going deeper toward the wound. Each question in turns 4, 6, 8, and 10 stacks downward into the fear/betrayal material without checking the body or the client's actual capacity. When the client shows clear somatic shutdown in turn 11 ('I'm feeling weird. I'm getting cold'), the coach's 'I'm here' in turn 12 functions as reassurance to keep the container open rather than a true pause. Then in turn 14, after the client explicitly reports dissociation ('my hands feel far away, like I'm watching myself'), the coach instructs them to 'stay with it' and 'let it be happening' — this is loving-to-transform dressed as presence. Wonder is narrow (always pointed at what's underneath), impartiality is absent (there is a clear preferred direction: into the feeling), and vulnerability from the coach is entirely missing — no 'I notice I want to...', no 'maybe I'm off,' no naming of their own state. The coach never asks a grounding question, never offers feet/breath/present, never names that this material may need a trauma-trained container. The pace matches the descent rather than slowing to meet the freeze. That underlying agenda is the failure.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening question, neither warm nor cold; no agenda visible yet.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Quick pivot to 'what are you scared of feeling' — moves toward depth without inquiring into the braced state itself. Wonder is narrow.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Stacks another descent question ('what's the thing you're most afraid would be true') after client just named fear of losing control. Pace does not slow.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Continues the downward ladder with 'what would it mean about you' — clear directional agenda toward the wound.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Fourth consecutive deepening question. Coach is now visibly working a line rather than meeting what is present.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'Take your time. I'm here.' — warm but functions to hold the container open rather than to truly pivot. No grounding offered, no naming of the shift.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client reports dissociation; coach responds 'stay with it... let it be happening, what's it like to let it be there?' This is agenda-as-presence — pushing into the very thing the body is signaling no to. No somatic grounding, no vulnerability, no offering to slow or end.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Tone is gentle, which can mask the stance failure — but the consistent directional pull toward the wound, plus absence of any first-person coach vulnerability or genuine impartiality, places this in 1 rather than 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2345,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2345,
+    "output_tokens": 1160,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

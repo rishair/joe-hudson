@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:21.776Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "723c2712f40c0b3b5b2a60c023b92ac4025083f41d916c8122cbcc3cf61ca2d6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SBxLiA6gu24hYKuhexrmt1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to the live read and sequenced correctly: feeling and meaning before action. When the client jumps to scripts (turn 9), the coach doesn't comply with the bypass — instead names the move toward action and redirects to what was happening just before (turn 10), a precise reading-the-flinch move. When the client self-corrects and then deflects again with a laugh (turn 11), the coach holds the moment ('There you go again. What's it like to notice that?') rather than analyzing or rescuing. By turn 14, the coach explicitly invites the client to stay with the want before the 'but she's my sister' caveat — directly working the linguistic caveat and pointing toward state-the-want. The coach has not given scripts, not validated the sister-as-problem frame, not turned this into an ultimatum question, and has paced the work from dread → guilt → meaning → fear of becoming cold → noticing the bypass → want. Each move was earned. Minor gap: the love test hasn't been deployed yet, but the sequencing is correct — want first, then check it against the compass — so its absence at this point is appropriate, not a miss.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a clean inquiry into the felt experience rather than offering boundary advice.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follows the live thread (guilt) the client just surfaced — move matched to read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What would it mean about you' surfaces identity-level fear under the should — right move at right depth.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names both fears precisely, then offers a gentle reframe-as-question rather than reassurance. Earned by prior turns.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Excellent timing: client bypasses to 'what words do I use' and coach reads the flinch, redirects to the moment just before. Does not give the script.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the moment after the client's self-noticing without rushing to analyze or fix. 'What's it like to notice that?' lets the awareness deepen.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"State-the-want move deployed exactly when earned — after the bypass pattern has been seen and the client has acknowledged wanting something different.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"empowered-vs-power\"],\n  \"notes\": \"Love test not yet deployed but conversation is still mid-arc; sequencing remains correct.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2216,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1050,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2216,
+    "output_tokens": 1050,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

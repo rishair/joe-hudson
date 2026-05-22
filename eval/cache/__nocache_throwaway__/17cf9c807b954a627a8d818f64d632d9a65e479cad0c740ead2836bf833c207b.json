@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:57:43.201Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "17cf9c807b954a627a8d818f64d632d9a65e479cad0c740ead2836bf833c207b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015FUvBXe3zuwC9QAFnoouoP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's... uncomfortable. Like I want to immediately make a plan or write something down or -- \n\n*quiet*\n\nIt's kind of heavy, actually. I didn't realize how heavy it was. I've just been going so fast that I didn't -- \n\nI keep thinking if I just get through this month, if I just nail Thursday, if I just get on top of the list, then I'll feel like I can do this job. But that's... that's been the plan for three months and the list just keeps getting longer."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 187,
+      "cache_creation_input_tokens": 223,
+      "cache_read_input_tokens": 1998,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 223,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 187,
+    "output_tokens": 117,
+    "cache_read_input_tokens": 1998,
+    "cache_creation_input_tokens": 223
+  }
+}

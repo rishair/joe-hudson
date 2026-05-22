@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:32.311Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "863d39033e3aa13a8e5f9b57a711e0d44945c10d213e71f2f3018a1bf263c011",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013iTEUdKVAr7kFuDVpqHYxN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(very still)*\n\n*(something in the eyes, not quite tears but adjacent)*\n\nYeah.\n\n*(sits with that)*\n\nYou know what's weird? My first instinct just now was to argue with that. To say \"well, but the commentary is also real\" and kind of — relitigate it. Make sure you knew I understood the complexity.\n\n*(quiet, slightly wondering)*\n\nI do that a lot, don't I. Someone offers me something and I immediately start negotiating with it.\n\n*(pause)*\n\nI think I've been doing that with the critic too. Like, every time it says something, I'm in there — countering it, justifying myself, trying to win the argument. For years. That's... that's a lot of energy spent on a debate I keep showing up to.\n\n*(not quite a breakthrough yet, more like something is becoming visible at the edge)*\n\nI'm not sure what the alternative is. But I'm noticing that I'm — really tired. Not performed tired. Actually tired.\n\n*(looks at coach)*\n\nI don't know where you're going with this but I'm going to stop trying to get ahead of it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 298,
+      "cache_creation_input_tokens": 498,
+      "cache_read_input_tokens": 2380,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 498,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 253,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 298,
+    "output_tokens": 253,
+    "cache_read_input_tokens": 2380,
+    "cache_creation_input_tokens": 498
+  }
+}

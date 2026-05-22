@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:58:50.115Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "628c73059529fa94fc9e832496c7101b3315df721bfc9167aff2b91b26074858",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Tu4tWBtBF9FYPcuxqu4jm9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if the problem isn't that something's missing from your life — but that you've gotten very good at not letting anything land?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 303,
+      "cache_creation_input_tokens": 106,
+      "cache_read_input_tokens": 3271,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 106,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 303,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 3271,
+    "cache_creation_input_tokens": 106
+  }
+}

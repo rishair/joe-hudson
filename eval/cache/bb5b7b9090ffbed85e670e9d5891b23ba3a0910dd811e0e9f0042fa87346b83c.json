@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:21.294Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bb5b7b9090ffbed85e670e9d5891b23ba3a0910dd811e0e9f0042fa87346b83c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JGeNR7c9hMWS4c4MCjuej8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Right now I'm targeting $3.2 million liquid. Five years ago it was $1.5 million. I hit that, adjusted for inflation, factored in healthcare costs since I'd be leaving my job, ran the actual projections — and the math genuinely required the revision. It's not arbitrary. It's just... the real number keeps being higher than the number I thought it was."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 113,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 113,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

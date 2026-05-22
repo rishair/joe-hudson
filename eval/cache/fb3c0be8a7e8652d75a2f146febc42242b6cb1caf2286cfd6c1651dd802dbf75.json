@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:49.823Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fb3c0be8a7e8652d75a2f146febc42242b6cb1caf2286cfd6c1651dd802dbf75",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Hq4WHXJvmBE9KxEbu5k5iV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I wasn't offering the reframe. I was actually asking.\n\nWhat if — not as theory, right now, in your body — what if the critic going quiet would mean something you're not sure you want?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 401,
+      "cache_creation_input_tokens": 88,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 88,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 401,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 88
+  }
+}

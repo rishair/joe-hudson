@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:57.589Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "db10bdebc1be13b1549b2f2624631c2c52a2cd74553364576a8b8bc1ff503a5f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LF6jSH5Uek4d66D1kuTK6n",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a lot to be carrying.\n\nWhich one of those is actually the most alive right now — the product decision, the co-founder, or the sleep?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 277,
+      "cache_creation_input_tokens": 124,
+      "cache_read_input_tokens": 3389,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 124,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 37,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 277,
+    "output_tokens": 37,
+    "cache_read_input_tokens": 3389,
+    "cache_creation_input_tokens": 124
+  }
+}

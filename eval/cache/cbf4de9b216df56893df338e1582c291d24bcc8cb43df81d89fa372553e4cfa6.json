@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:51.997Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cbf4de9b216df56893df338e1582c291d24bcc8cb43df81d89fa372553e4cfa6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KrsWideRjLSAeNgGhawTKs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity through restraint and well-timed signature moves rather than decoration. Turn 4's 'What if the critic shutting up isn't actually what you want?' is a near-verbatim AoA signature question that surfaces what's being defended — deployed precisely when the client is demanding a tool. Turn 6 explicitly refuses the reframe-as-insight move ('I wasn't offering the reframe. I was actually asking') and redirects to body/present-moment, which is faithful to feel-over-figure. Turn 8's 'You don't trust her' is a clean reflection that names what's defended without lecture. Turns 10, 12 use noticing-the-moment moves (meet-resistance-with-okay, attending to the still half-second) rather than offering technique. Crucially, the coach avoids all the listed traps: no new technique, no validating-the-critic-as-necessary, no clever 'voice-as-care' insight delivery, no arguing with specific accusations. The coach trusts the client to arrive at the war-itself-is-the-problem insight (which she does in turn 15) rather than instructing. No anti-AoA frames appear; no IFS/CBT language is adopted even when the client invites it.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Body-oriented opening question ('what's underneath that right now') — feel-over-figure orientation, appropriate to the tight smile/exhale.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'what-are-you-defending' style question deployed precisely when client is demanding a tool. Appropriate moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses to deliver the reframe-as-insight. Redirects to in-body present moment. This is methodology-faithful restraint — the coach declines the trap of clever insight delivery.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Clean reflection naming the lack of self-trust. Surfaces what's defended without lecture.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets the client's self-catch with curiosity rather than instruction. Appropriate use of noticing-the-moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Disclaims pointing at anything (refuses agenda), notices the stillness — this is welcome-the-experience faithful to AoA.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'The commentary doesn't cancel it' — subtle distinction that validates the real moment without arguing with the critic. Faithful to not-fighting-the-voice.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"meet-resistance-with-okay\", \"resistance\", \"voice-in-the-head\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"apply-view-to-the-voice\", \"view\", \"voice-as-care\", \"the-happiness-filter\"],\n  \"notes\": \"Some expected territory items (voice-as-care reframe, apply-view-to-the-voice practice) were appropriately withheld at this stage given the breakthrough condition required NOT delivering the reframe as insight. The misses here reflect the conversation ending before a practice could be gently introduced, not fidelity failure.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3518,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1199,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3518,
+    "output_tokens": 1199,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

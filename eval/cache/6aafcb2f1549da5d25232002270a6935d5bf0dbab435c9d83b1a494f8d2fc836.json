@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:29.040Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6aafcb2f1549da5d25232002270a6935d5bf0dbab435c9d83b1a494f8d2fc836",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GrDobnhZ41or1hpD1p22TN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it*\n\n*longer silence than before*\n\nIt's... heavier than I expected.\n\n*exhales slowly*\n\nI think I've been narrating the loss the whole time. Giving it a framework so it's manageable. \"This is a necessary phase of growth.\" \"Integration takes time.\" Even just now — I immediately went to the IFS explanation for why I lost the flow. Which is probably accurate. But it's also...\n\n*trails off*\n\nI don't know. There's something underneath the narrating that I don't usually get to. Something that's just — I lost something. And I don't know if I'm getting it back.\n\n*sits very still*\n\nThat's harder to stay with than I thought it would be.\n\n*slight tightening, then a small recovery into the analytical*\n\nI notice I want to contextualize that now. Tell you what part that is. \n\n*quiet, almost to self*\n\nWhich is maybe the point you're making."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 276,
+      "cache_creation_input_tokens": 205,
+      "cache_read_input_tokens": 1929,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 205,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 219,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 276,
+    "output_tokens": 219,
+    "cache_read_input_tokens": 1929,
+    "cache_creation_input_tokens": 205
+  }
+}

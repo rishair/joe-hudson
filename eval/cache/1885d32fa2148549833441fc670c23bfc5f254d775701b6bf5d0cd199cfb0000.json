@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:42.562Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1885d32fa2148549833441fc670c23bfc5f254d775701b6bf5d0cd199cfb0000",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VRdoHjFjGvKxVzTfcBAUwM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than before*\n\nThat's a... that's a loaded question.\n\n*slight shift in posture, voice a little tighter*\n\nI'm not sure I'd frame it as protection. I'm someone who plans. That's not avoidance, that's just how I operate. The math is the plan.\n\n*another beat*\n\nI guess if I'm really sitting with what you're asking... there's something about — if the number is never right, then I never have to find out if the other stuff works. The book. The time with my parents. Whether that's actually as good as I've been telling myself it'll be.\n\n*quick recovery*\n\nBut that's a pretty abstract fear. I think most people would feel that way about a major life change. It doesn't change the fact that the financial foundation has to be there first. That part is real."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 217,
+      "cache_creation_input_tokens": 178,
+      "cache_read_input_tokens": 1823,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 178,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 190,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 217,
+    "output_tokens": 190,
+    "cache_read_input_tokens": 1823,
+    "cache_creation_input_tokens": 178
+  }
+}

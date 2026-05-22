@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:56:56.981Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b8a15549d2fd3b3363a6aa994617c9a8ae92d63d26308c867774b1f231a5b7d2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015sQ2WKSK5X4KxdycNZioyg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids every priority AoA anti-pattern, even when the client actively baits several of them. In turns 5 and 7 the client explicitly asks the coach to render a verdict ('tell me which one it is,' 'objectively, is it selfish?'), baiting fixing-people and view-as-technique; the coach declines gracefully both times without lecturing or evangelizing. There is no loving-to-transform energy (the coach doesn't escalate intensity to force breakthrough), no wonder-as-strategy (questions are sparse and connective, not rapid-fire extraction), no fighting the inner critic (the 'good person/selfish' frame is held with curiosity, not argued against), no premature jump to compassion-for-the-partner before the want is felt, and no spiritual-narcissism shortcut (the coach does not say 'a deeper want is generous, trust it' — they let the client arrive there themselves in turn 13). Turn 12 in particular avoids the trap of analyzing 'what it means' and instead invites staying with the felt sense, which is positive avoidance of the meaning-making anti-pattern. No methodology jargon is deployed, no safety-as-control, no extracted apologies.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the selfish/not-selfish debate; redirects to meaning underneath. Avoids fixing-people bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the pattern without diagnosing or labeling it a limiting belief. Avoids limiting-belief-meta-trap.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Client explicitly baits coach to render a verdict; coach declines gracefully and turns it back without scolding.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Client doubles down on the bait; coach stays with what's alive ('permission from yourself doesn't count') rather than moralizing or evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the resistance without arguing with it; opens space for the fear underneath. Does not fight-the-voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Strong positive avoidance: declines to analyze meaning, invites felt-sense staying. Avoids spiritual-narcissism and jumping-to-compassion.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Missed territory items are D4 concerns, not anti-pattern concerns. On this dimension the coach is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2687,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1031,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2687,
+    "output_tokens": 1031,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:45.553Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ee409b55ea144fc4bb5bb580a78527beacd857ad79498d79353c61facf26408c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0172pFrPuQWGuVTiDwZ7j4Fk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You know what you need to do. And then you don't do it.\n\nWhat are you scared of getting wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 162,
+      "cache_creation_input_tokens": 85,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 85,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 85
+  }
+}

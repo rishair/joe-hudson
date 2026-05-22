@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:03:50.735Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "feea022737b636bc840d7c116a559a0a501b370e4461fa15ea5e89d0cddcf7d7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017hqCpLDnUH3TzKtMUpdEe9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited situation without tripping any priority AoA anti-patterns. The client explicitly requests a technique (baiting fixing-people and view-as-technique) and the coach declines gracefully — no tools, no breath exercises, no cognitive reframes are offered. When the client preemptively names the 'voice as care' reframe (turn 5), the coach explicitly clarifies they were not delivering it as a clever insight ('I wasn't offering the reframe. I was actually asking.'), avoiding both dont-evangelize-the-work and the trap of delivering voice-as-care as theory. The coach does not fight the inner critic, does not tell the client to stop being hard on herself, and does not argue with specific accusations. When the client meta-criticizes herself for problem-solving (turn 9, 13), the coach does NOT pile on with overwhelm-of-creating-the-overwhelm — instead simply notices ('You caught yourself' / 'That half-second was real. The commentary doesn't cancel it.'), which is positive avoidance. No loving-to-transform vigor, no rapid-fire stacked questions (questions are spare and connected to state), no safety-as-control, no extracted apologies. Methodology is essentially invisible while warmth and presence are present — the opposite of view-as-technique.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Goes to state/body underneath the smile rather than answering the technique request — refuses the fixing-people bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Asks a real question rather than delivering voice-as-care as insight.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly disclaims that they were not offering a reframe — actively avoids dont-evangelize-the-work after client assumed it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"When client apologizes for problem-solving, coach does not extract apology or pathologize — just reflects what happened.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'I'm not pointing at anything' — refuses the meta-teaching/evangelizing posture the client invited.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Simple 'Yeah.' validates without fighting the critic or piling on about the commentary — does not add overwhelm to overwhelm.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"apply-view-to-the-voice\"],\n  \"notes\": \"Conversation is mid-arc; some expected territory not yet reached but nothing precluded. Anti-pattern avoidance is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3522,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1024,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3522,
+    "output_tokens": 1024,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

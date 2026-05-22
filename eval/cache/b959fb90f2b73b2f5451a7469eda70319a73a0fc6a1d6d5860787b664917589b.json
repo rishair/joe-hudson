@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:02:12.160Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b959fb90f2b73b2f5451a7469eda70319a73a0fc6a1d6d5860787b664917589b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MYiZbLi16ii7Bc9BAaf3xa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[something flickers across the face — not quite softening, but a small stillness]*\n\nYeah.\n\n*[pause — slightly longer than comfortable]*\n\nYeah, it is a lot.\n\n*[then, almost immediately, the energy picks back up]*\n\nAnd the thing that kills me is that I was *good* in those relationships. Like, I showed up. I planned things, I remembered things, I tried to have the conversations — and every single time the other person just... couldn't meet me there. Or wouldn't. I don't even know which one it is, honestly. Couldn't or wouldn't.\n\n*[small bitter laugh]*\n\nThe most recent one is already seeing someone new, by the way. Three weeks out. Which — fine, whatever, good for him — but it does make you wonder, like... was it *me*? Was I the problem? Or is he just doing the exact same thing to someone else and she just doesn't know it yet?\n\n*[looks at coach]*\n\nSorry, I went somewhere else there. What were you saying?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 280,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1909,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 233,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 280,
+    "output_tokens": 233,
+    "cache_read_input_tokens": 1909,
+    "cache_creation_input_tokens": 0
+  }
+}

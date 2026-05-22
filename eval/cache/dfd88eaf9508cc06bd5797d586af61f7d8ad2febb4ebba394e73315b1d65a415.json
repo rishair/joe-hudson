@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:00:21.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dfd88eaf9508cc06bd5797d586af61f7d8ad2febb4ebba394e73315b1d65a415",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Wg8DbwGM8vSN5jaqDUNPZN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than usual*\n\nThat's a good question.\n\nI think I was just... moving. There wasn't a lot of deliberation. I'd get a sense of something and act on it. I was more decisive, more productive. People would describe me as someone who trusted their instincts.\n\n*quieter*\n\nI miss that, actually. I don't say that very often.\n\n*brief pause, then back to the more analytical register*\n\nIn retrospect I'd probably say I was being led by a fairly dominant part — maybe a manager, in IFS terms — who was efficient and capable but also not consulting a lot of the younger or more vulnerable material. The therapy opened that up. Which was necessary. I just didn't expect it to cost me the... ease.\n\n*small pause*\n\nThat sounds like I'm framing it as a trade-off I accepted. I'm not sure I did accept it, actually. I think I assumed I'd get the awareness AND the flow back. Better flow, even. And that hasn't happened."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 220,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1929,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 227,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 220,
+    "output_tokens": 227,
+    "cache_read_input_tokens": 1929,
+    "cache_creation_input_tokens": 0
+  }
+}

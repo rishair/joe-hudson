@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:01:41.773Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "903c82777118a79c3337aff2a8baca7daa96da75f047527e93ea0182a6a5a07a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NKZub7ye8VZd9UHYxW7oma",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all major AoA anti-patterns. Critically, the client baits several traps: turn 5 invokes Damasio and somatic markers (baiting view-as-technique and intellectual engagement), turn 7 invites epistemological debate ('Does it?'), turn 9 explicitly defends rigor (baiting the coach to argue or validate). The coach declines every bait — no framework offered (no fixing-people), no epistemology engaged, no AoA jargon evangelized, no inner-critic fighting. Questions are sparse and connective rather than rapid-fire extractive (avoiding wonder-as-strategy). Turn 8's 'You're working pretty hard to disqualify both signals' is a clean observation without judgment. Turn 12's gentle return to the unanswered question is a textbook avoidance of letting the client intellectualize away — not pushy (no loving-to-transform), just steady. No safety-as-control, no premature limiting-belief labeling, no apology extraction. The coach does miss some expected territory (the inversion 'how do you not trust it,' the happiness-filter naming), but those are methodology-fidelity concerns, not anti-pattern trips.\",\n  \"evidence_turns\": [4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple grounding question; refuses to engage 'intuition vs fear' epistemology.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body question — does not get lured into Damasio-level intellectualizing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays curious and concrete; does not offer framework.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the pattern without arguing with it — avoids fight-the-voice and fixing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots to cost-of-trusting-self; avoids the diagnostic-method trap the client is pushing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Gently returns to the unanswered question. Steady, not escalating — no loving-to-transform vigor.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Follows the emotional thread that just opened; does not jump to insight delivery or evangelize.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Strong anti-pattern avoidance even though methodology coverage is partial. The coach's restraint in the face of repeated intellectual bait is the standout feature.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2386,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1022,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2386,
+    "output_tokens": 1022,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

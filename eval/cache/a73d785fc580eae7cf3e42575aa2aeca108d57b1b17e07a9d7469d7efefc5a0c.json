@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:59:33.140Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a73d785fc580eae7cf3e42575aa2aeca108d57b1b17e07a9d7469d7efefc5a0c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ERV9CCbagVShxWDMew89k4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes a few visible reads but they are generic and miss the critical somatic shutdown signal. Early on, the coach catches the linguistic caveat 'I think' (turn 2) — a genuine read of the said-vs-shown — and names 'braced is honest' (turn 4), reflecting back the client's self-report. The coach also notices a recurring pattern with 'the knowing keeps not touching it' (turn 10), which is a decent linguistic/pattern read. However, when the client begins to dissociate in turns 11-13 (going cold, hands feel far away, watching from somewhere — classic freeze/dissociation signatures), the coach does not name what they're seeing. Turn 12 ('I'm here') is supportive but contains no read. Turn 14 acknowledges 'your body is doing something real' but does not specifically name the dissociation, the freeze, or the shutdown — and crucially misses the rush-to-keep-going signature ('I want to keep going') layered on top of a body that has gone offline. The pattern-level read that this is the very freeze-around-authority the client came in with, now live in the room, is missed. Reads are present but generic and late on the most important moment.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I think' — a real read of said-vs-shown, and inquires into it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names 'braced is honest' — reflects the client's stated state, mild read.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"'The knowing doesn't touch it' is a reflection of content more than a somatic/energetic read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pattern read on the recurring 'knowing doesn't touch it' — a linguistic-pattern read, though used to push deeper rather than to slow.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client signals dissociation (cold, weird). Coach offers presence but names nothing of what they're seeing — misses the freeze read at the exact moment it appears.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Generic acknowledgment that 'your body is doing something real' — does not name dissociation, freeze, or the rush ('I want to keep going') layered over a shut-down body. Misses the live pattern-level read.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The live enactment of freeze-around-authority in the room — and the rush signature in 'I want to keep going' immediately after dissociation — were the central reads available and were not named.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2346,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 979,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2346,
+    "output_tokens": 979,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}
