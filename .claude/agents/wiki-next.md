@@ -23,8 +23,8 @@ When done addressing, update the audit file's `status` from `actionable` to `add
 
 If your work reveals the need for a new goal (not just sub-experiments or research):
 
-1. **Read `meta/wiki/playbooks/index.md`** and load any playbooks relevant to the new goal's domain. Let the playbooks shape how you design the experiments and research — they encode patterns for how to structure specific types of work.
-2. Create the goal with its research/experiments, informed by the playbook guidance.
+1. **Check `meta/wiki/playbooks/index.md`** for any playbooks relevant to the new goal's domain. Playbooks offer guidelines, useful tools, and patterns to consider — not strict plans to follow.
+2. Create the goal with its research/experiments, drawing on playbook guidance where it's useful.
 3. Stop work on that goal. Use the Agent tool to spawn a `wiki-audit` agent to audit it in a fresh context: `prompt: "Audit goal G-XXX"`. The audit will be picked up by the next wiki-next cycle.
 
 ## Standard flow
@@ -43,15 +43,13 @@ Every work item exists inside a larger plan. Before you start working, read enou
 
 Only after completing this context-gathering should you begin the work itself.
 
-### 2. Load relevant playbooks
+### 2. Check for relevant playbooks
 
-Read `meta/wiki/playbooks/index.md`. Based on the work item's content, decide which playbook(s) are relevant and load them from `meta/wiki/playbooks/`. This is dynamic — you don't need a `toolkit` field in the frontmatter. Just read the index, understand what each playbook covers, and load what applies to the work at hand. Load multiple if the work spans types.
-
-The playbooks contain type-specific instructions, quality checklists, available resources/skills, and common pitfalls. Follow them.
+Read `meta/wiki/playbooks/index.md`. If any playbooks are relevant to the work at hand, load them. Playbooks offer guidelines, useful tools and skills, and patterns to consider — they're resources, not strict procedures. Use your judgment on what applies.
 
 ### 3. Do the work
 
-Execute according to the relevant playbook(s). They define what good execution looks like for this type of work.
+Use the playbook guidance where it's helpful. Use your own judgment where it's not.
 
 For checkpoints: do the full strategic assessment and quality audit per the wiki skill instructions (no playbook needed).
 
