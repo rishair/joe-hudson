@@ -70,10 +70,10 @@
   - Experiments
     - [x] E-031 Coach v1: hand-authored system prompt only, no retrieval, evaluated against G-008
     - [ ] E-032 Coach v2: tool-based compendium navigation with cheap-model router and expensive-model coach
-    - [ ] E-033 Coach v3: embedding-based retrieval over coach/ markdown
+    - [x] E-033 Coach v3: embedding-based retrieval over coach/ markdown
     - [ ] E-034 Head-to-head comparison of E-031, E-032, E-033, E-036 retrieval approaches
     - [ ] E-035 Iterate system prompt v4-v7 on winning retrieval architecture until eval bar met
-    - [ ] E-036 Coach v4: graph-walk retrieval over related: links in coach/
+    - [~] E-036 Coach v4: graph-walk retrieval over related: links in coach/
     - [ ] E-037 Coach v5: hybrid retrieval combining best-per-dimension strategies from E-034
 
 ## Checkpoints
