@@ -2,10 +2,10 @@
 type: principle
 id: body-lies-as-much-as-mind
 title: "The Body Lies Just as Much as the Mind"
-aliases: ["the body lies", "body lies as much as mind", "the gut can be wrong", "body wisdom isn't absolute truth", "heart wisdom isn't absolute truth", "no organ is the truth", "the photograph metaphor", "all knowing is partial", "every intelligence is partial"]
+aliases: ["the body lies", "body lies as much as mind", "the gut can be wrong", "body wisdom isn't absolute truth", "heart wisdom isn't absolute truth", "no organ is the truth", "the photograph metaphor", "all knowing is partial", "every intelligence is partial", "emotions can lie too", "trauma-driven emotions are not signal", "the trauma-emotion error", "anxiety vs excitement confusion", "the emotion may not mean what the mind says it means", "the body emotions and mind all have errors"]
 tags: ["body", "intelligence", "humility", "ways of knowing", "limits of knowing"]
-related: ["head-heart-gut", "feel-over-figure", "decisions-are-emotional", "wonder", "judgment-vs-discernment"]
-sources: ["2022-01-07_How Your Body Speaks", "2022-10-26_How Your Body Speaks"]
+related: ["head-heart-gut", "feel-over-figure", "decisions-are-emotional", "wonder", "judgment-vs-discernment", "fear-vs-excitement", "trauma-mapping"]
+sources: ["2022-01-07_How Your Body Speaks", "2022-10-26_How Your Body Speaks", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
 ---
 
 # The Body Lies Just as Much as the Mind
@@ -41,6 +41,24 @@ The principle is not just about errors of individual organs. It is about the fun
 "We are limited to the capacity of our senses and our mind. There are things that we will never be able to understand because of that. It does not mean that we don't know what's right for us right now. It doesn't make life purposeless. It's just the humility of the fact that there is always going to be a mystery." -- Joe Hudson, How Your Body Speaks
 
 The principle is a doorway to humility, not despair. The person still knows what is right for them right now. They simply stop pretending they have access to the totality.
+
+## Emotions Lie Too
+
+The principle extends to the emotional system. Brett's articulation while talking with Joe about decision-making:
+
+"The body lies as much as the mind... or you could say even the emotions do." -- Brett Kistler, How Can I Make Better Decisions?
+
+Joe affirms: "Yeah... that's what we're really doing... yes, your emotional system is not always clear in itself in the fact that you might be, say, feeling something because of a trauma that isn't actually happening in this moment, or your mind might be telling you a certain emotion means something that it doesn't mean, right?" -- Joe Hudson, How Can I Make Better Decisions?
+
+Two emotional-system errors Joe names:
+
+**Trauma-driven emotion.** A feeling arrives that is responding to something from the past, not from the present. The body is producing the emotion accurately as a record of an old situation. Mistaking the old-situation signal for a current-situation signal is the error. See [[trauma-mapping]].
+
+**Mislabeled emotion.** The mind interprets a body sensation as one emotion when it could just as easily be another. The classic example: anxiety and excitement use the same body. "There's this great phrase that excitement is just fear with breath, or anxiety is excitement without the breath. Basically, that if you can breathe into a feeling of anxiety or fear, that it can become excitement very, very quickly. And so that, like, what's the right emotional experience there? Is it that you're not breathing? Is it that you're actually feeling excitement or fear?" -- Joe Hudson, How Can I Make Better Decisions? See [[fear-vs-excitement]].
+
+The implication: "It's not like, listen to your body and you'll make all these great decisions. It's literally understanding how your emotions work, how your body works, how your intellect works in the decision-making process is, uh, is the beginning of learning to make great decisions." -- Joe Hudson, How Can I Make Better Decisions?
+
+All three systems -- mind, body, emotion -- produce partial and sometimes erroneous reads. The work is not to find the master organ but to understand the error modes of each and integrate the reads. The decision-making implication is significant: see [[decisions-are-emotional]] for why this matters and [[head-heart-gut]] for the integration practice.
 
 ## In Coaching: When to Reach for This
 
@@ -84,3 +102,5 @@ When he first said it to Brett, Brett found it "really fascinating." The princip
 
 - 2022-01-07_How Your Body Speaks
 - 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)
+- 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (Brett's extension of the principle to emotions; the anxiety-vs-excitement example; the trauma-driven emotion as error)
+- 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)

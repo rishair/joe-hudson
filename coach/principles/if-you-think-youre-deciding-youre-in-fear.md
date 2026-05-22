@@ -2,9 +2,9 @@
 type: principle
 id: if-you-think-youre-deciding-youre-in-fear
 title: "If You Think You're Making a Decision, You're in Fear"
-aliases: ["if you think you're deciding you're in fear", "decisions are fear", "the decision-as-fear principle", "feeling like a decision means fear", "the felt decision is fear", "what feels like a decision is fear", "decisions feel like decisions only when scared", "feeling decisions vs not feeling them", "non-decisions are most decisions", "decisions you didn't notice", "you make a hundred decisions a minute and don't feel them"]
+aliases: ["if you think you're deciding you're in fear", "decisions are fear", "the decision-as-fear principle", "feeling like a decision means fear", "the felt decision is fear", "what feels like a decision is fear", "decisions feel like decisions only when scared", "feeling decisions vs not feeling them", "non-decisions are most decisions", "decisions you didn't notice", "you make a hundred decisions a minute and don't feel them", "if a choice has become a decision you're in fear", "choices become decisions when fear enters", "the distinction between choice and decision", "choices vs decisions", "when a choice becomes a decision"]
 tags: ["fear", "decisions", "intuition", "trust", "flow", "freedom"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
 ---
 
 # If You Think You're Making a Decision, You're in Fear
@@ -24,6 +24,14 @@ The same principle, expressed earlier in the teaching context, places "I have to
 "We all make 1,000 decisions a day, right? Easily 1,000 decisions a day. And we don't even think that we're making them. So when we think we have to make a decision, it means that we're scared of a consequence. We're scared that we're gonna do something wrong. And so the first thing to do in those moments is to address the fear, not try to figure it out, because the brain doesn't figure out fear. It can't." -- Joe Hudson, Fear: A Path to Authenticity
 
 The "felt decision is fear" formulation in the trust-coaching session and the "we make a thousand decisions a day without feeling them" formulation in the teaching are the same principle stated from two angles. The teaching version frames it as a diagnostic of the head signature of fear. The coaching version uses it to dissolve a presenting concern about self-trust. See [[fear-in-body-vs-fear-in-head]] for the full diagnostic this is the third marker of.
+
+## The Choice/Decision Semantic Distinction
+
+Joe formalizes the principle with a specific semantic distinction. A choice is a moment of selection that happens without felt deliberation -- where to look, what to say, what to drink, where to walk. A decision is a choice that has acquired weight: the felt experience of "I have to think about this carefully, weigh the options, decide correctly."
+
+"I have made 500 choices today. I am unaware of those choices. They just happened, right? So I, I'm choosing to talk to you right now. I'm choosing to have my phone in or my computer in this configuration. I'm choosing where to look. I'm choosing what I'm drinking. I'm choosing what words to say. And they're all choice. So for semantics, I'm going to call those choices. Decisions is where you go, okay, I have a decision to make. And now I'm sitting here thinking about, do I go left or do I go right? Do I take the job? Do I not take the job?... So if you're in a thing where a decision, where a choice has become a decision, where all of a sudden there's a lot of thought put into it and you're really putting some energy into that in itself is, is fear. So already you're in some fear, operating in some fear." -- Joe Hudson, How Can I Make Better Decisions?
+
+The choice-to-decision transition is itself the diagnostic. The same selection that would have happened without thought (which restaurant to go to, what to order, whether to text someone back) becomes a "decision" specifically when fear enters the system. Watching for the moment a choice becomes a decision is watching for the moment fear arrived.
 
 ## Why This Is True
 
@@ -60,6 +68,33 @@ A standard form of the trust-collapse: "how do I tell intuition from fear?" The 
 This principle dissolves the question. The thing that feels like a decision is fear. The intuition is what was happening when the action was effortless and unnoticed -- the hundred choices a minute the body made without consultation. The person isn't failing to access their intuition. They're trying to find an intuitive answer to a decision-feel, and the decision-feel is itself the noise that's drowning out the intuitive signal.
 
 The move is not to sharpen the discrimination. The move is to feel the fear that's producing the decision-feel. Once the fear is felt and dissolved, the action becomes available and the question of "was that intuition or fear?" doesn't arise because there's no decision being made.
+
+## The Both-Fear-and-Desire Question
+
+A natural devil's-advocate to the principle: surely the energy of a decision could be desire rather than fear? On one side of the coin we fear a bad outcome; on the other we desire a good one. Why insist on fear?
+
+The principle does not deny that desire is present. It says fear is also present, and fear is the part that produces the deciding-feel.
+
+"It can be both, but, but all that I'm saying is that fear is involved, that there's, there's some place where there's fear involved. So there could be a ton of motivations, desire being one of them, or the motivation to be right, or the motivation to not be judged, or the -- there's a thousand motivations in there, but there's a fear. There's a fear of getting it wrong. There's a fear of a consequence if you're making a decision instead of just having a choice that is in front of you." -- Joe Hudson, How Can I Make Better Decisions?
+
+Pure desire produces movement, not deliberation. The added friction of "I have to decide" comes from the fear of getting the desire wrong, of choosing the option that won't satisfy, of being judged for the choice, of losing what one already has. Desire is the engine; fear is what turns desire into deciding.
+
+## What Fear Does to Cognition Once Inside
+
+The fear that produces the deciding-feel also degrades the deciding itself. Three documented effects:
+
+"When there is fear involved in it, our ability to think becomes less clear. Our ability to learn becomes dwindled, our ability to see more solutions because we've become more binary in our thinking. So all of that occurs because we're in fear. So once we're in that decision-making, that's what happens." -- Joe Hudson, How Can I Make Better Decisions?
+
+Three losses:
+- Clarity of thought drops
+- Learning capacity narrows
+- Options collapse to a binary
+
+This means the deciding-feel is not just a felt symptom of fear; it is the moment cognition becomes worse at solving the problem it is being asked to solve. The harder the person tries to "decide well," the more contracted the cognition becomes. The deliberation actively interferes with the seeing. See [[binary-thinking-signals-fear]].
+
+## The Operational Move
+
+Because the deciding-feel is fear-feel, the move is not to deliberate better. The move is to address the fear directly via the next genuine step toward the actual concern. See [[do-the-next-most-obvious-thing]] for the practice. The success criterion for the deciding becomes how the decision is being made, not what outcome it produces. See [[good-decision-is-how-you-make-it-not-the-outcome]].
 
 ## The Boundary With Healthy Deliberation
 
@@ -98,6 +133,9 @@ In any of these, the principle applies. The work is not better decision-making. 
 ## Downstream (Where This Leads)
 
 - Toward [[fear-is-about-feeling]]: the next step is feeling the fear under the decision-feel
+- Toward [[do-the-next-most-obvious-thing]]: the operational practice for moving through the fear instead of trying to deliberate it away
+- Toward [[good-decision-is-how-you-make-it-not-the-outcome]]: the success-criterion reframe that follows from the principle
+- Toward [[surrender-the-outcome-of-a-decision]]: the partial surrender that lets the deciding-feel dissolve
 - Toward [[impartiality]]: the relaxation of attachment to outcome
 - Toward [[wanting-vs-craving]]: the deeper distinction underneath the decision-feel
 - Toward [[craving-is-the-pushing-away]]: a related principle about how grasping produces avoidance
@@ -113,3 +151,5 @@ Direct, slightly provocative. Joe states this as fact, not opinion. The principl
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the choice-vs-decision distinction explicitly framed; the "I have 500 choices today" example)
+- 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)

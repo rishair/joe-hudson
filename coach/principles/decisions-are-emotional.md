@@ -2,10 +2,10 @@
 type: principle
 id: decisions-are-emotional
 title: "Decisions Are Emotional"
-aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
+aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion", "SWOT analysis is emotional", "pro and con lists are emotional", "Darwin's marriage list is emotional", "the intellect serves the emotional question of how you'll feel"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
-related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling", "body-lies-as-much-as-mind", "good-decision-is-how-you-make-it-not-the-outcome", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
 ---
 
 # Decisions Are Emotional
@@ -92,6 +92,34 @@ Because decisions are emotional, transformation that increases emotional fluidit
 
 This is the mechanism by which [[epiphany-vs-transformation]] at the emotional level operates. It is not that the person decides differently through willpower. Their emotional landscape has shifted, so different decisions emerge naturally.
 
+## The SWOT-Analysis Tell
+
+A clean demonstration that the intellect is serving the emotional question: imagine you have just completed an exhaustive SWOT analysis or pro-con list for a major life decision. Then someone you trust completely says "if you choose this, you will be happier and more satisfied." The SWOT analysis goes out the window. You take the option the trusted authority pointed at.
+
+"If you took your SWOT analysis and some authority that you completely trusted looked at you and said, well, you know, if you just choose this, you'll be happier, or if you just choose this, you'll have a more satisfied life, the SWOT analysis just goes out the window." -- Joe Hudson, How Can I Make Better Decisions?
+
+The tell is what this reveals: the analysis was never really the deciding mechanism. The analysis was a way of trying to figure out which option would produce the wanted feeling. Once the wanted feeling is guaranteed through another route, the analysis is irrelevant.
+
+Darwin's famous pro-and-con list about whether to marry his wife is the canonical example. The list looks like rigorous deliberation. The decision was always going to be made by the answer to "which one makes me happier."
+
+"If somebody would have said to Charles like, hey, Charles, man, guarantee you're gonna have a happier, better life if you marry her than if you don't. It's just like all that whole analysis just goes out the window. And so that's the other clue that what we're really doing is we're just using the intellect to try to figure out how we'll feel best." -- Joe Hudson, How Can I Make Better Decisions?
+
+The decision was always emotional. The analysis was an instrument of emotional anticipation. This is what intellect actually does in decisions.
+
+## The Assumption-Stack Inside the Intellect's Service
+
+The intellect serving the emotional question is not a clean operation. The intellect is also running a stack of assumptions about which outcomes will produce which feelings -- assumptions that are often wrong.
+
+"In that is a whole bunch of assumptions that are often full of errors. And so the intellect can also lead us into the wrong place, whereas the emotional experience is a great way if you're really aware of your emotions, and you understand how they move, then decision-making becomes something like a completely different thing." -- Joe Hudson, How Can I Make Better Decisions?
+
+The decider believes: I will feel better if my wife is supportive, if the job makes me money, if I am successful. Each of those assumptions may be wrong. Many people get the supportive wife, the lucrative job, the success -- and discover they do not feel better. The intellect was trying to solve an emotional puzzle through guesses about how emotions work, and the guesses were inherited rather than verified.
+
+This is why the principle is not "let your emotions decide for you" -- the emotional system has its own errors. See [[body-lies-as-much-as-mind]]. The principle is "understand that decision-making is fundamentally an emotional process and learn how your emotions actually work, so that the deciding can be done with the actual material."
+
+## The Operational Move
+
+Because decisions are emotional, the move when standing in front of a decision is not to think harder. The move is to address the fear that is shaping the decision-feel and take the next genuine step. See [[do-the-next-most-obvious-thing]] and [[if-you-think-youre-deciding-youre-in-fear]]. The success criterion is the quality of how the decision is made, not the outcome. See [[good-decision-is-how-you-make-it-not-the-outcome]].
+
 ## Upstream (What Leads Here)
 
 - When someone believes logic alone should drive a decision and is frustrated that people are not responding to their arguments.
@@ -114,3 +142,5 @@ This is the mechanism by which [[epiphany-vs-transformation]] at the emotional l
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the SWOT-analysis tell, the Darwin pro-and-con list example, the assumption-stack inside the intellect's service)
+- 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)

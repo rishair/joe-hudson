@@ -4,8 +4,8 @@ id: trust-vs-safety
 title: "Trust vs. Safety"
 aliases: ["trust versus safety", "safety as control vs trust", "safety vs trust", "why Joe steers away from safety", "trust over safety", "the safety word problem", "safety as manipulation"]
 tags: ["trust", "safety", "teams", "leadership", "manipulation", "boundaries"]
-related: ["trust-as-multifaceted", "functional-team", "safety-vs-defensiveness", "vulnerability-as-control", "dont-use-safety-as-control", "friction-is-required-for-life", "conditions-for-transformation"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
+related: ["trust-as-multifaceted", "functional-team", "safety-vs-defensiveness", "vulnerability-as-control", "dont-use-safety-as-control", "friction-is-required-for-life", "conditions-for-transformation", "safety-that-connects-vs-disconnects-from-reality", "knowing-yourself-is-the-only-safety"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-11-11_But... Is It Safe?"]
 ---
 
 # Trust vs. Safety
@@ -77,6 +77,29 @@ The trust frame leads to action by the speaker (what would build trust here?). T
 
 This is not to say the team member's experience is invalid. It is to say that the framing determines whether the experience becomes the start of work or the end of it.
 
+## The Deeper Problem: Safety Isn't a State, It's a Story
+
+There is a structural reason the word "safety" is so available for manipulation: safety is not actually a state of the world. It is a story we construct to feel comfortable enough to act. Brett Kistler names this directly from a context far from team dynamics -- BASE jumping, where the conventional question "is this jump safe?" has no answer because nothing is.
+
+"Safety is an illusion. Nothing is safe. We will call something safe if we feel comfortable, if we feel like we can be in flow, if we feel like we are capable of navigating the environment... if we feel like we are going to survive it." -- Brett Kistler, But... Is It Safe?
+
+The framing transfers to the interpersonal domain. When someone says "I don't feel safe," they are reporting a story they are telling about the situation. The story may track reality well or badly. The discrimination is whether the felt safety (or unsafety) is built from contact with what is actually present or from a construction that excludes parts of what is present.
+
+This is why "I don't feel safe" can be wielded as a demand. The phrase reports an internal state, not a fact about the world. The implicit move is that the demand follows from the state. But the state is also a story, and the story can be one that requires others to change or one that is the speaker's own work to do.
+
+See [[safety-that-connects-vs-disconnects-from-reality]] for the full development of this point. The principle in shorthand: the same word "safety" can refer to either a felt sense built from full contact with reality, or a felt sense built by excluding part of reality. The two are opposites, but share the word.
+
+## Why This Matters for Teams
+
+In a team context, the conflation of the two senses of "safety" produces predictable confusion. A team member says "I don't feel safe to bring this up." The leader hears this and treats it as a fact about the team environment. But the unsafety could be:
+
+- A real environmental issue (a colleague's aggression, a punitive leadership pattern, a history of retribution) -- the safety-as-contact form, where the felt sense matches a real condition
+- A story being constructed because the team member doesn't want to face the discomfort of bringing the issue up themselves -- the safety-as-dissociation form, where the unsafety is being maintained by the avoidance, not by an external threat
+
+Treating both as the first kind always creates a different problem from treating both as the second. The discrimination is part of the work.
+
+The trust frame helps here too. "What would build trust here?" routes the conversation toward the specific work to be done. "What makes you not feel safe?" can route into either a real diagnostic or a story about what others should change. The first form of the question is harder to wield. The second is easier.
+
 ## Tone
 
 Joe is measured here. He acknowledges safety is real and important. He is making a careful distinction, not dismissing safety. The point is that the word is weaker as an organizing concept than trust, and is more available for weaponization.
@@ -94,8 +117,11 @@ Joe is measured here. He acknowledges safety is real and important. He is making
 - Toward [[dont-use-safety-as-control]] for the explicit anti-pattern
 - Toward [[functional-team]] which is organized around trust rather than safety
 - Toward [[safety-vs-defensiveness]] for the body-level discrimination
+- Toward [[safety-that-connects-vs-disconnects-from-reality]] for the structural reason safety is a manipulable word
+- Toward [[knowing-yourself-is-the-only-safety]] for the deeper principle about where unshakeable safety actually lives
 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-10-26_Building A Functional Team
+- 2022-11-11_But... Is It Safe?

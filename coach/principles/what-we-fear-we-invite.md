@@ -2,10 +2,10 @@
 type: principle
 id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
-aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy"]
+aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy", "the things we fear we invite through avoidance of the feeling", "avoidance of the feeling is what invites the thing", "the avoidance-of-feeling invites the feared outcome"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions", "feared-stories-about-emotions-sense-something-real"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_Stages Of Emotional Development"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions", "feared-stories-about-emotions-sense-something-real", "joes-daughter-new-boyfriend-fear", "anxious-avoidant-dynamic", "engineering-heartbreak-to-avoid-heartbreak"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_Stages Of Emotional Development", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
 ---
 
 # What We Fear, We Invite
@@ -112,6 +112,20 @@ The application generalizes. Cautious or prudent action without fear (the action
 
 This also connects to [[hardening-means-personal]] at the leadership level: the leader who is hardening to protect something they care about is taking it personally, and the hardening itself contributes to the loss of the thing they are trying to protect.
 
+## The Daughter at Dinner: The Small-Scale Daily Version
+
+The principle is easiest to see in the catastrophic life-pattern cases. Joe's own abandonment-mapping. The fearful base jumper who rigidifies into the mistake. The leader whose terror of being attacked produces the war. The catastrophic cases make the mechanism legible.
+
+But the principle operates continuously in daily, low-stakes interactions. The clearest illustration is [[joes-daughter-new-boyfriend-fear]]: Joe's daughter, scared her new boyfriend might be playing her, reaches toward him for reassurance in a way that looks like good communication but is actually driven by avoidance of feeling the abandonment fear. Joe, watching her defend the boyfriend at dinner the next day, asks what's underneath. She cries and recognizes it.
+
+Joe's teaching to her in the moment names the mechanism:
+
+"Acting on that fear made it more likely that he was going to abandon you, right? Because you're more likely to come off needy and she has broken up with a lot of guys who are needy. So she knows that world, right?... And the other thing is that, like, if you can take or leave him, if you can be in that fear yourself and, you know, learn to welcome it, then you're self-possessed, and that's a harder person to leave, right?... So for her, it's the avoidance of that emotional experience that is creating, is recreating the fear." -- Joe Hudson, How Can I Make Better Decisions?
+
+The structure: the unfelt fear of abandonment produces reaching/neediness/seeking-reassurance behaviors, which produce the conditions that make abandonment more likely (push away self-possessed partners, pressure premature commitments, signal anxious attachment). The avoidance is the engine of the recreation. The principle is operating at every meal and every text message in every relationship, not just at the cataclysmic life moments.
+
+The corrective for the daily-scale operation of the principle is the same as for the catastrophic-scale: feel the avoided emotion, become someone who can take or leave the feared outcome, watch the recreation stop. See also [[anxious-avoidant-dynamic]] for the relational version of this loop.
+
 ## The Way Out
 
 The only way out of the loop is feeling the avoided emotion. See [[feeling-the-unfelt-emotion]]. Once the body has felt the emotion fully and welcomed it, there is no need to keep generating opportunities to feel it. Homeostasis is restored. The pattern dissolves.
@@ -146,3 +160,5 @@ Feeling the emotion is also what grounds the person into actual reality rather t
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
 - 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode; Brett's framing about "you're only grounding into what's real by feeling the emotion" -- the facade in a codependent relationship is what holds together by not feeling the anger)
+- 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the daughter-and-the-boyfriend example for the live, small-scale mechanism: avoidance of hurt by extracting reassurance produces the needy reaching that pushes self-possessed partners away)
+- 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)

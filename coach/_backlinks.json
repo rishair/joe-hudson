@@ -262,7 +262,9 @@
     "how-do-you-not-trust-it",
     "just-be-yourself-and-see-what-happens",
     "lets-go-there",
-    "if-you-think-youre-deciding-youre-in-fear"
+    "if-you-think-youre-deciding-youre-in-fear",
+    "surrender-the-outcome-of-a-decision",
+    "do-the-next-most-obvious-thing"
   ],
   "if-you-think-youre-deciding-youre-in-fear": [
     "how-do-i-trust-myself",
@@ -270,7 +272,11 @@
     "what-makes-you-care-about-the-outcome",
     "trust-as-multifaceted",
     "craving-is-the-pushing-away",
-    "ask-from-slowness-not-intellect"
+    "decisions-are-emotional",
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "principles-free-you",
+    "ask-from-slowness-not-intellect",
+    "do-the-next-most-obvious-thing"
   ],
   "engineering-heartbreak-to-avoid-heartbreak": [
     "how-do-i-trust-myself",
@@ -315,6 +321,7 @@
     "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
+    "joes-daughter-new-boyfriend-fear",
     "target-fixation"
   ],
   "intellectual-question-with-emotional-body": [
@@ -616,6 +623,7 @@
   ],
   "rehearsing-how-to-say-it": [
     "i-caretake-people",
+    "i-keep-postponing-enjoyment",
     "im-afraid-of-offending-people",
     "manufacturing-the-feeling",
     "rehearsing-conversations",
@@ -786,9 +794,11 @@
     "if-you-think-youre-deciding-youre-in-fear",
     "love-requires-empowerment",
     "perceived-certainty-not-actual-certainty",
+    "surrender-the-outcome-of-a-decision",
     "vulnerability-protects",
     "what-we-fear-we-invite",
     "breath-to-exit-overwhelm",
+    "do-the-next-most-obvious-thing",
     "visualize-the-felt-aftermath",
     "aaron-wife-fumble-coaching",
     "body-awareness-in-meetings"
@@ -804,6 +814,7 @@
     "i-dont-have-time-for-this",
     "i-have-to-sacrifice-to-succeed",
     "empowered-vs-power",
+    "good-decision-is-how-you-make-it-not-the-outcome",
     "victim-stance-invites-abuse",
     "subway-kid"
   ],
@@ -863,6 +874,7 @@
     "fear-is-about-feeling",
     "love-requires-empowerment",
     "shame-drives-behavior",
+    "surrender-the-outcome-of-a-decision",
     "victim-stance-invites-abuse",
     "fear-triangle"
   ],
@@ -1044,6 +1056,7 @@
     "complementary-trauma-surfaces",
     "negative-bias-of-trauma-imprinting",
     "apologize-for-not-seeing-the-help",
+    "body-lies-as-much-as-mind",
     "embrace-intensity",
     "mourn-the-breakup-fully",
     "relationships-as-personal-growth-path",
@@ -1061,7 +1074,8 @@
     "feeling-the-unfelt-emotion",
     "reclaiming-abandonment",
     "trauma-mapping",
-    "what-we-fear-we-invite"
+    "what-we-fear-we-invite",
+    "joes-daughter-new-boyfriend-fear"
   ],
   "meet-resistance-with-okay": [
     "i-have-to-do-it-all-myself",
@@ -1227,7 +1241,9 @@
   ],
   "anxious-avoidant-dynamic": [
     "i-keep-chasing-emotionally-unavailable-people",
-    "joe-mina-china-overwhelm"
+    "what-we-fear-we-invite",
+    "joe-mina-china-overwhelm",
+    "joes-daughter-new-boyfriend-fear"
   ],
   "deconstruct-the-victim-to-release-anger": [
     "i-keep-chasing-emotionally-unavailable-people",
@@ -1439,6 +1455,7 @@
   ],
   "no-finish-line": [
     "i-keep-crashing-and-burning",
+    "i-keep-postponing-enjoyment",
     "desire-for-resolution",
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
@@ -1453,8 +1470,10 @@
     "limiting-belief-detection-signals",
     "connection-as-life-bottom-line",
     "craving-is-the-pushing-away",
+    "good-decision-is-how-you-make-it-not-the-outcome",
     "improvement-mindset-vs-maintenance-mindset",
     "peace-precedes-joy-after-non-duality",
+    "surrender-the-outcome-of-a-decision",
     "notice-and-be-grateful-for-connection",
     "seven-limiting-beliefs"
   ],
@@ -1516,6 +1535,103 @@
     "feel-love-and-empowerment-as-the-same",
     "cricket-player-up-and-down"
   ],
+  "ive-lost-my-joy": [
+    "i-keep-postponing-enjoyment",
+    "listlessness-after-awakening",
+    "recycling-anger-without-clarity",
+    "trying-to-get-rid-of-the-emotion",
+    "joy-as-matriarch",
+    "fear-of-joy"
+  ],
+  "the-rush-signature": [
+    "i-keep-postponing-enjoyment",
+    "im-overwhelmed",
+    "overwhelm"
+  ],
+  "craving-is-the-pushing-away": [
+    "i-keep-postponing-enjoyment",
+    "what-makes-you-care-about-the-outcome",
+    "anxious-avoidant-dynamic",
+    "resistance",
+    "wanting-vs-craving",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "peace-is-what-we-resist-the-most",
+    "peace-precedes-joy-after-non-duality"
+  ],
+  "trying-to-get-rid-of-the-emotion": [
+    "i-keep-postponing-enjoyment",
+    "ive-lost-my-joy",
+    "looking-for-whats-wrong",
+    "can-you-look-forward-to-feeling-it",
+    "joy-as-matriarch",
+    "apply-view-to-fear",
+    "love-the-anxiety-not-just-with-it",
+    "feeling-changes-story",
+    "embodied-stages-of-grief-ritual",
+    "stages-of-emotional-development"
+  ],
+  "pulling-the-brakes": [
+    "i-keep-postponing-enjoyment"
+  ],
+  "apply-enjoy-to-whats-here": [
+    "i-keep-postponing-enjoyment"
+  ],
+  "shame-as-disconnection": [
+    "i-keep-postponing-enjoyment",
+    "im-afraid-of-offending-people",
+    "how-else-would-you-heal-your-shame",
+    "if-i-were-inherently-good",
+    "comparative-mind",
+    "container-of-love",
+    "shame-stagnates-emotion",
+    "three-keepers-of-stuck-beliefs",
+    "addiction-to-shame",
+    "everyone-is-pretending",
+    "forms-of-dysfunctional-apology",
+    "the-shame-avoidance-loop",
+    "welcome-the-shame-without-extracting",
+    "natural-shame-vs-installed-shame",
+    "past-shame-vs-current-shame",
+    "authenticity-reduces-shame",
+    "conflict-avoidance-prevents-healing",
+    "shame-drives-behavior",
+    "list-the-shames-you-avoided",
+    "joes-laughing-meditation-retreat"
+  ],
+  "enjoyment-as-path": [
+    "i-keep-postponing-enjoyment",
+    "state-seeking",
+    "development-as-corkscrew",
+    "pendulation",
+    "quit-hope-lose-cycle",
+    "improvement-vs-authenticity",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
+    "embrace-intensity",
+    "enjoyment-as-surrender",
+    "nature-improves-itself",
+    "nervous-system-recovery-after-stress",
+    "overwhelm-reduces-productivity",
+    "wants-over-shoulds",
+    "five-principles-of-the-path",
+    "four-faces-of-love",
+    "joes-rental-house-anger"
+  ],
+  "how-is-that-not-here-right-now": [
+    "i-keep-postponing-enjoyment",
+    "how-do-you-not-trust-it",
+    "what-if-there-is-no-finish-line",
+    "no-finish-line"
+  ],
+  "how-would-you-enjoy-x": [
+    "i-keep-postponing-enjoyment"
+  ],
+  "whats-stopping-you-from-enjoying-x": [
+    "i-keep-postponing-enjoyment"
+  ],
+  "running-toward-yourself": [
+    "i-keep-postponing-enjoyment"
+  ],
   "binary-thinking-signals-fear": [
     "i-keep-running-into-the-same-wall",
     "fight-or-roll-over-binary",
@@ -1534,7 +1650,9 @@
     "constriction-not-truth-is-the-test",
     "decisions-are-emotional",
     "empathy-makes-you-better-at-hard-jobs",
+    "if-you-think-youre-deciding-youre-in-fear",
     "voice-creates-what-it-fears",
+    "do-the-next-most-obvious-thing",
     "three-kinds-of-limiting-beliefs"
   ],
   "limiting-belief": [
@@ -1969,27 +2087,6 @@
     "spend-time-across-class-boundaries",
     "money-domain"
   ],
-  "shame-as-disconnection": [
-    "im-afraid-of-offending-people",
-    "how-else-would-you-heal-your-shame",
-    "if-i-were-inherently-good",
-    "comparative-mind",
-    "container-of-love",
-    "shame-stagnates-emotion",
-    "three-keepers-of-stuck-beliefs",
-    "addiction-to-shame",
-    "everyone-is-pretending",
-    "forms-of-dysfunctional-apology",
-    "the-shame-avoidance-loop",
-    "welcome-the-shame-without-extracting",
-    "natural-shame-vs-installed-shame",
-    "past-shame-vs-current-shame",
-    "authenticity-reduces-shame",
-    "conflict-avoidance-prevents-healing",
-    "shame-drives-behavior",
-    "list-the-shames-you-avoided",
-    "joes-laughing-meditation-retreat"
-  ],
   "the-shame-avoidance-loop": [
     "im-afraid-of-offending-people",
     "im-not-an-anxious-person",
@@ -2199,6 +2296,7 @@
     "perceived-certainty-not-actual-certainty",
     "resentment-as-unspoken-want",
     "what-we-fear-we-invite",
+    "do-the-next-most-obvious-thing",
     "love-relationship-with-anxiety",
     "welcoming-fear-in-leadership"
   ],
@@ -2316,10 +2414,6 @@
     "leaders-calm-becomes-the-teams-calm",
     "reducing-overwhelm-in-organizations"
   ],
-  "the-rush-signature": [
-    "im-overwhelmed",
-    "overwhelm"
-  ],
   "dont-add-the-overwhelm-of-creating-the-overwhelm": [
     "im-overwhelmed",
     "overwhelm",
@@ -2427,6 +2521,7 @@
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
     "spaciousness-is-the-mechanism-of-belief-dissolution",
+    "surrender-the-outcome-of-a-decision",
     "what-we-fear-we-invite",
     "listening-to-impulse",
     "questioning-assumptions",
@@ -2449,17 +2544,6 @@
     "joy-as-matriarch",
     "stages-of-emotional-development",
     "cafe-emotional-stigma"
-  ],
-  "trying-to-get-rid-of-the-emotion": [
-    "ive-lost-my-joy",
-    "looking-for-whats-wrong",
-    "can-you-look-forward-to-feeling-it",
-    "joy-as-matriarch",
-    "apply-view-to-fear",
-    "love-the-anxiety-not-just-with-it",
-    "feeling-changes-story",
-    "embodied-stages-of-grief-ritual",
-    "stages-of-emotional-development"
   ],
   "nervous-system-recovery-after-stress": [
     "ive-lost-my-joy",
@@ -2981,13 +3065,6 @@
     "listlessness-after-awakening",
     "peace-is-what-we-resist-the-most"
   ],
-  "ive-lost-my-joy": [
-    "listlessness-after-awakening",
-    "recycling-anger-without-clarity",
-    "trying-to-get-rid-of-the-emotion",
-    "joy-as-matriarch",
-    "fear-of-joy"
-  ],
   "zen-sickness": [
     "listlessness-after-awakening",
     "dont-use-story-frame-to-bypass",
@@ -3151,6 +3228,7 @@
   ],
   "grounded-excitement-vs-ungrounded-excitement": [
     "the-thing-not-being-said-as-the-fear-signal",
+    "fear-vs-excitement",
     "safety-that-connects-vs-disconnects-from-reality",
     "brett-wingsuit-girlfriend-thought"
   ],
@@ -3159,6 +3237,7 @@
     "joy-as-matriarch",
     "love-the-anxiety-not-just-with-it",
     "feeling-changes-story",
+    "good-decision-is-how-you-make-it-not-the-outcome",
     "stages-of-emotional-development"
   ],
   "daily-emotional-yoga": [
@@ -3221,11 +3300,6 @@
   "how-is-that-not-true-about-you": [
     "how-do-you-not-trust-it",
     "projections"
-  ],
-  "how-is-that-not-here-right-now": [
-    "how-do-you-not-trust-it",
-    "what-if-there-is-no-finish-line",
-    "no-finish-line"
   ],
   "listening-to-impulse": [
     "how-do-you-want-to-be",
@@ -3358,15 +3432,6 @@
     "empathize-with-fear-under-constricted-boundary",
     "fear-triangle"
   ],
-  "craving-is-the-pushing-away": [
-    "what-makes-you-care-about-the-outcome",
-    "anxious-avoidant-dynamic",
-    "resistance",
-    "wanting-vs-craving",
-    "if-you-think-youre-deciding-youre-in-fear",
-    "peace-is-what-we-resist-the-most",
-    "peace-precedes-joy-after-non-duality"
-  ],
   "welcoming-the-others-emotion": [
     "what-would-happen-if-you-stopped",
     "dont-should-yourself-to-welcome-anger",
@@ -3435,6 +3500,7 @@
     "wisdom-of-each-emotion",
     "athletes-unlocking-body-intelligence-in-business",
     "grounded-excitement-vs-ungrounded-excitement",
+    "body-lies-as-much-as-mind",
     "fear-is-misuse-of-imagination",
     "visualize-the-felt-aftermath",
     "aaron-wife-fumble-coaching",
@@ -4168,24 +4234,6 @@
     "quit-hope-lose-cycle",
     "enjoyment-as-path"
   ],
-  "enjoyment-as-path": [
-    "state-seeking",
-    "development-as-corkscrew",
-    "pendulation",
-    "quit-hope-lose-cycle",
-    "improvement-vs-authenticity",
-    "consciousness-is-the-product",
-    "efficiency-as-enjoyment",
-    "embrace-intensity",
-    "enjoyment-as-surrender",
-    "nature-improves-itself",
-    "nervous-system-recovery-after-stress",
-    "overwhelm-reduces-productivity",
-    "wants-over-shoulds",
-    "five-principles-of-the-path",
-    "four-faces-of-love",
-    "joes-rental-house-anger"
-  ],
   "loving-to-transform": [
     "tools-to-change-not-love",
     "love-as-deep-welcoming",
@@ -4518,6 +4566,7 @@
     "connection",
     "connection-doesnt-require-the-other",
     "connection-over-perfection",
+    "principles-free-you",
     "notice-and-be-grateful-for-connection",
     "start-stay-end-in-connection",
     "would-you-sell-your-ability-to-connect",
@@ -4556,6 +4605,56 @@
     "community-over-teacher",
     "connection-doesnt-require-the-other",
     "subjugation-prevents-healing"
+  ],
+  "principles-free-you": [
+    "decisions-as-portfolio",
+    "empowered-vs-power",
+    "acting-as-if-already-true",
+    "connection-as-life-bottom-line",
+    "constraints-increase-creativity",
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "process-over-result",
+    "surrender-the-outcome-of-a-decision",
+    "wanting-itself-not-what-you-want",
+    "do-the-next-most-obvious-thing",
+    "team-as-scientific-method",
+    "joes-hr-call-firing",
+    "principled-board-decision",
+    "structure-and-empowerment"
+  ],
+  "good-decision-is-how-you-make-it-not-the-outcome": [
+    "decisions-as-portfolio",
+    "decisions-are-emotional",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "principles-free-you",
+    "surrender-the-outcome-of-a-decision",
+    "do-the-next-most-obvious-thing"
+  ],
+  "process-over-result": [
+    "decisions-as-portfolio",
+    "no-finish-line",
+    "quit-hope-lose-cycle",
+    "enjoy-over-manage",
+    "intention-vs-goal",
+    "short-term-vs-long-term-partiality",
+    "wanting-vs-craving",
+    "awareness-as-change-agent",
+    "connection-over-perfection",
+    "dissolution-not-behavior-control",
+    "enjoyment-as-path",
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "principles-free-you",
+    "wanting-itself-not-what-you-want",
+    "ask-from-slowness-not-intellect",
+    "listening-to-impulse",
+    "five-principles-of-the-path",
+    "view",
+    "pow-optimist"
+  ],
+  "surrender-the-outcome-of-a-decision": [
+    "decisions-as-portfolio",
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "if-you-think-youre-deciding-youre-in-fear"
   ],
   "examples/joes-board-member": [
     "defense",
@@ -4618,9 +4717,12 @@
     "three-signals-of-unfelt-emotion",
     "epiphany-vs-transformation",
     "feel-over-figure",
+    "body-lies-as-much-as-mind",
     "conflict-avoidance-prevents-healing",
     "embrace-intensity",
+    "good-decision-is-how-you-make-it-not-the-outcome",
     "intelligence-requires-self-awareness",
+    "do-the-next-most-obvious-thing",
     "patient-on-the-table",
     "head-heart-gut",
     "stages-of-emotional-development",
@@ -4947,25 +5049,6 @@
     "money-must-flow",
     "money-domain"
   ],
-  "process-over-result": [
-    "no-finish-line",
-    "quit-hope-lose-cycle",
-    "enjoy-over-manage",
-    "intention-vs-goal",
-    "short-term-vs-long-term-partiality",
-    "wanting-vs-craving",
-    "awareness-as-change-agent",
-    "connection-over-perfection",
-    "dissolution-not-behavior-control",
-    "enjoyment-as-path",
-    "principles-free-you",
-    "wanting-itself-not-what-you-want",
-    "ask-from-slowness-not-intellect",
-    "listening-to-impulse",
-    "five-principles-of-the-path",
-    "view",
-    "pow-optimist"
-  ],
   "ask-from-slowness-not-intellect": [
     "overwhelm"
   ],
@@ -4973,6 +5056,7 @@
     "overwhelm",
     "three-keepers-of-stuck-beliefs",
     "safety-that-connects-vs-disconnects-from-reality",
+    "trust-vs-safety",
     "identity-lags-behind-growth",
     "ask-from-slowness-not-intellect",
     "brett-cape-town-napkins",
@@ -5029,6 +5113,8 @@
   ],
   "body-lies-as-much-as-mind": [
     "sensitivity-as-byproduct",
+    "decisions-are-emotional",
+    "do-the-next-most-obvious-thing",
     "staying-in-your-body",
     "head-heart-gut",
     "three-kinds-of-limiting-beliefs"
@@ -5238,6 +5324,7 @@
     "sincerity-is-the-prerequisite",
     "the-clients-wisdom-not-the-teachers",
     "apologize-as-daily-practice-for-bad-habits",
+    "do-the-next-most-obvious-thing",
     "the-change-or-no-change-visualization"
   ],
   "apologies-as-power-struggle-surrogate": [
@@ -5375,7 +5462,8 @@
   ],
   "making-vs-allowing": [
     "push-past-the-protective-frame",
-    "do-the-work-thats-harder-for-you"
+    "do-the-work-thats-harder-for-you",
+    "surrender-the-outcome-of-a-decision"
   ],
   "just-be-yourself-and-see-what-happens": [
     "so-they-attacked-you-how-do-you-want-to-be",
@@ -5416,17 +5504,6 @@
     "feared-consequences-rarely-happen",
     "principles-free-you",
     "pow-optimist"
-  ],
-  "principles-free-you": [
-    "empowered-vs-power",
-    "acting-as-if-already-true",
-    "connection-as-life-bottom-line",
-    "constraints-increase-creativity",
-    "process-over-result",
-    "wanting-itself-not-what-you-want",
-    "team-as-scientific-method",
-    "joes-hr-call-firing",
-    "structure-and-empowerment"
   ],
   "whats-the-case-against-it": [
     "enjoy-over-manage"
@@ -5488,6 +5565,12 @@
     "safety-vs-defensiveness",
     "knowing-yourself-is-the-only-safety",
     "five-principles-of-the-path"
+  ],
+  "safety-that-connects-vs-disconnects-from-reality": [
+    "trust-vs-safety",
+    "knowing-yourself-is-the-only-safety",
+    "visualizing-feared-outcomes",
+    "brett-wingsuit-girlfriend-thought"
   ],
   "Wants-Over-Shoulds": [
     "acting-as-if-already-true"
@@ -5573,6 +5656,12 @@
   "Inquiry-on-limiting-beliefs": [
     "constriction-not-truth-is-the-test"
   ],
+  "do-the-next-most-obvious-thing": [
+    "decisions-are-emotional",
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "surrender-the-outcome-of-a-decision"
+  ],
   "being-with-anothers-emotion-is-being-with-your-own-pain": [
     "do-the-work-thats-harder-for-you"
   ],
@@ -5628,13 +5717,27 @@
   "tennis-quarter": [
     "goal-beyond-the-goal"
   ],
+  "decisions-as-portfolio": [
+    "good-decision-is-how-you-make-it-not-the-outcome",
+    "principled-board-decision"
+  ],
+  "i-cant-get-over-this-loss": [
+    "good-decision-is-how-you-make-it-not-the-outcome"
+  ],
   "brett-cape-town-napkins": [
     "identity-lags-behind-growth",
+    "knowing-yourself-is-the-only-safety",
     "brett-slackline-metaphor"
   ],
   "brett-slackline-metaphor": [
     "identity-lags-behind-growth",
+    "knowing-yourself-is-the-only-safety",
     "brett-cape-town-napkins"
+  ],
+  "identity-lags-behind-growth": [
+    "knowing-yourself-is-the-only-safety",
+    "brett-cape-town-napkins",
+    "brett-slackline-metaphor"
   ],
   "feel-your-way-to-freedom": [
     "knowing-yourself-is-the-only-safety",
@@ -5663,6 +5766,9 @@
     "peace-is-what-we-resist-the-most",
     "peace-precedes-joy-after-non-duality"
   ],
+  "principled-board-decision": [
+    "principles-free-you"
+  ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
   ],
@@ -5687,6 +5793,9 @@
     "shame-drives-behavior",
     "list-the-shames-you-avoided"
   ],
+  "if-you-think-youre-deciding-youre-in-fear|decision-feel": [
+    "surrender-the-outcome-of-a-decision"
+  ],
   "empathy-makes-you-better-at-hard-jobs": [
     "sustained-fear-requires-post-hoc-processing",
     "will-chesney-seal-collapse-and-return",
@@ -5703,6 +5812,9 @@
     "vulnerability-protects"
   ],
   "target-fixation": [
+    "what-we-fear-we-invite"
+  ],
+  "joes-daughter-new-boyfriend-fear": [
     "what-we-fear-we-invite"
   ],
   "dont-use-breath-to-repress": [
@@ -5735,6 +5847,9 @@
   "what-makes-you-care-about-the-outcome": [
     "visualize-the-felt-aftermath"
   ],
+  "brett-wingsuit-girlfriend-thought": [
+    "visualizing-feared-outcomes"
+  ],
   "walgreens-sales-per-customer": [
     "team-as-scientific-method"
   ],
@@ -5754,13 +5869,6 @@
   "trust-as-multifaceted|trust": [
     "boeing-ford-bad-news"
   ],
-  "identity-lags-behind-growth": [
-    "brett-cape-town-napkins",
-    "brett-slackline-metaphor"
-  ],
-  "safety-that-connects-vs-disconnects-from-reality": [
-    "brett-wingsuit-girlfriend-thought"
-  ],
   "dont-defer-decisions-to-large-committees": [
     "cia-organization-sabotage-manual"
   ],
@@ -5778,6 +5886,9 @@
   ],
   "us-vs-them": [
     "political-signs-steakhouse-story"
+  ],
+  "leaders-calm-becomes-the-teams-calm": [
+    "principled-board-decision"
   ],
   "dont-use-boundaries-as-ultimatums|ultimatum disguised as boundary": [
     "rubbermaid-dish-solution"

@@ -2,10 +2,10 @@
 type: practice
 id: visualizing-feared-outcomes
 title: "Visualizing Feared Outcomes"
-aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance"]
-tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief"]
+aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance", "pre-jump visualization", "feel-through every possible outcome before acting", "the pre-feel practice"]
+tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships", "BASE jumping"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling", "safety-that-connects-vs-disconnects-from-reality", "grounded-excitement-vs-ungrounded-excitement", "brett-wingsuit-girlfriend-thought"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief", "2022-11-11_But... Is It Safe?"]
 ---
 
 # Visualizing Feared Outcomes
@@ -75,6 +75,30 @@ The freedom that followed the visualization was operational. Once getting fired 
 This is the same mechanism Joe describes for caretakers. The fear that holds the behavior in place is fear of what would have to be felt if the avoided outcome happened. Pre-feeling the outcome removes the lock. The behavior reorganizes.
 
 The leadership-specific form: at work, the worst thing that can happen is usually you get fired. That is a finite, knowable, survivable outcome. Once that has been pre-felt, the fear of all the smaller outcomes (offending a colleague, displeasing a manager, being seen as difficult) collapses, because they are all milder versions of the same thing.
+
+## Application: High-Stakes Action Where Execution Requires Full Presence
+
+A specific application where the pre-feel becomes operational rather than reflective: any high-stakes act where the execution itself requires full presence and cannot accommodate mid-execution feeling-through.
+
+Brett Kistler applies the practice as preparation for BASE jumps:
+
+"As I'm preparing to do something, allowing myself to feel what it would be like to have that occur and recover from it, have that occur and not recover from it, have that occur and have that last, oh shit, moment before impact. And just having all of that, like all of that possibility moving through my body and integrating is something that allows me to, when I actually make the jump, if something goes a little bit awry, I know like my body knows what to do." -- Brett Kistler, But... Is It Safe?
+
+The structure: every failure mode gets visualized in full. The recovery is visualized. The non-recovery is visualized. The last seconds before impact are visualized. Every possibility is allowed to move through the body and integrate.
+
+The result is a body that has already met each outcome. When the jump begins, the body is not feeling through possibilities for the first time. It is executing from a base of integrated readiness. Mid-flight, the body knows what to do because it has rehearsed all the conditions.
+
+This is the form of [[safety-that-connects-vs-disconnects-from-reality]] that produces real readiness rather than dissociation. The practice produces safety-as-contact, not safety-as-construction.
+
+## The Preparation/Execution Distinction
+
+A critical companion principle for this practice: the feeling-through is preparation work, not execution work. It belongs before the act, not during. When a feeling-through thought arrives during execution, it disrupts the presence the act requires.
+
+Brett's wingsuit story illustrates this. Mid-flight, the thought of his girlfriend getting a phone call broke his contact with the present-tense flight. He bailed unnecessarily and landed in someone's backyard in France. See [[brett-wingsuit-girlfriend-thought]] for the full story.
+
+The lesson: do the visualization before the act. During the act, be present. Feeling-through thoughts that arrive mid-execution are signs that the preparation work was incomplete and is trying to finish itself at the wrong moment.
+
+For everyday applications -- a hard conversation, a difficult decision in a meeting, a creative performance -- the same structure applies. Pre-feel the consequences in advance. Once you are in the moment, be in the moment. If the pre-feeling arises during execution, notice it as the thing that disrupts presence, not as the thing that creates safety.
 
 ## When This Comes Up in Coaching
 

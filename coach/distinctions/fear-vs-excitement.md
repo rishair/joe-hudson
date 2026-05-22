@@ -4,8 +4,8 @@ id: fear-vs-excitement
 title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
-related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need", "two-words-for-fear"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure"]
+related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need", "two-words-for-fear", "grounded-excitement-vs-ungrounded-excitement", "safety-that-connects-vs-disconnects-from-reality"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-11-11_But... Is It Safe?"]
 ---
 
 # Fear vs. Excitement
@@ -92,6 +92,22 @@ These two examples make the flow point concrete: when the body is allowed to do 
 The post-event collapse Brett describes ("after you get out of the situation, that's when, that's when like the next wave hits and you're just like, oh my God, that just happened") is the discharge. The flow state was the doing. The wave is the body completing what it could not complete during the event. See [[sustained-fear-requires-post-hoc-processing]] for the broader principle this brief example illustrates.
 
 See [[two-words-for-fear]] for the broader frame these examples sit inside: the flow-fear of acute threat is a different kind of fear from the chronic identity-protective fear, and they should not be conflated.
+
+## The Grounded-vs-Ungrounded Refinement
+
+Within excitement itself, a further discrimination is needed. Not all excitement is the same. Brett Kistler names two forms:
+
+**Grounded excitement** is the body genuinely amped and metabolically prepared, with any anxieties present integrated into the readiness. Flow is accessible. Red flags get welcomed and addressed. The state is built from welcoming, not from blinders.
+
+**Ungrounded excitement** is excitement sitting on top of an unfelt anxiety. The body is bouncy rather than amped. The excitement has a grasping quality. The person is reaching for the opportunity (the jump, the deal, the moment) partly because the underlying anxiety has not been let through.
+
+"If you're really excited but there's like that excitement is sort of covering up a little bit of anxiety and you're not letting that anxiety move through and integrate into your excitement, then you're going to find yourself a little bit bouncy." -- Brett Kistler, But... Is It Safe?
+
+Both feel like excitement on the surface. The difference is whether the anxiety has been integrated or is being managed out of awareness. The first is a green light. The second looks like a green light and is the dissociation that produces the failure.
+
+See [[grounded-excitement-vs-ungrounded-excitement]] for the full distinction with diagnostic questions and somatic markers. The short version: ask whether the excitement is integrated or compensatory. If it's compensatory, the anxiety it's covering will still show up in the outcome.
+
+This adds a second layer to the basic fear-vs-excitement frame. The first layer asks whether the energy is constricted or open. The second layer, given an open energy, asks whether it is grounded or bouncy. Both layers are needed to read what is actually happening in the body.
 
 ## The Pattern Across Emotions
 
