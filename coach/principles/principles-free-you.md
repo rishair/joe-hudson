@@ -5,7 +5,7 @@ title: "Living By Principles Frees You"
 aliases: ["principles create freedom", "principled living", "principles as empowerment", "elegant structure of principles", "personal constitution"]
 tags: ["principles", "freedom", "empowerment", "structure", "values"]
 related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power"]
 ---
 
 # Living By Principles Frees You

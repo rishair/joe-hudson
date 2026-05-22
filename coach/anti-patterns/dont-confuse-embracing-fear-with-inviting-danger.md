@@ -4,8 +4,8 @@ id: dont-confuse-embracing-fear-with-inviting-danger
 title: "Don't Confuse Embracing Fear With Inviting Danger"
 aliases: ["embracing fear is not creating fear", "don't manufacture danger to practice fear", "embracing fear doesn't mean reckless action", "feeling fear isn't ignoring fear", "the embrace-fear misreading", "embracing fear vs being reckless"]
 tags: ["fear", "misreading", "danger", "anti-pattern", "discernment", "embrace"]
-related: ["annihilation-reveals-what-is-real", "fear-as-signal-of-care", "embracing-vs-creating-intensity", "embrace-intensity", "dont-step-on-the-signal", "fear-vs-excitement"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["annihilation-reveals-what-is-real", "fear-as-signal-of-care", "embracing-vs-creating-intensity", "embrace-intensity", "dont-step-on-the-signal", "fear-vs-excitement", "emile-three-relationships-with-fear"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Don't Confuse Embracing Fear With Inviting Danger
@@ -64,6 +64,16 @@ The fear that points at actual danger is meant to be heard and acted on. That is
 
 Better reaction to fear means clearer action in the face of danger, not less response to danger. The person who has done the inner work of feeling identity-extension fear is also the person who can hear the actual-threat fear most cleanly, because they are not flooded with the unprocessed material that would otherwise distort the signal.
 
+## A First-Person Caveat From Someone Who Lived the Misreading
+
+Émile DeWeaver, describing his stage-three relationship to fear after coming out of the manufactured-anger stage, names exactly this anti-pattern from inside the experience:
+
+"There was a time where, like, I was afraid, I'm running straight towards it, right? Which I don't advise, right? I just, like, you know, because this is -- this is less in the realms of, like, surviving prisons and more in terms of, like, personal relationships, interpersonal fears, right? Like, I'd be afraid, so I would just, like, dive into it." -- Émile DeWeaver, Life After Murder
+
+Two things matter about this account. First, the speaker has done the work, and he is the one calling the strategy unwise -- not a coach diagnosing from outside, but a practitioner reporting what stage three cost him before he found the mature relationship. Second, the misreading is named as continuous with the manufactured-anger strategy of stage one. The form is different (run toward instead of override), but the structure is the same -- the fear is still being treated as an opponent to be beaten through opposition, rather than as information to be felt and read.
+
+See [[emile-three-relationships-with-fear]] for the full arc and how it resolves into the mature stance.
+
 ## Joe's Words
 
 "I'm not saying go create fear. I'm just saying -- and I'm not saying that don't listen to fear. I'm saying listen to it." -- Joe Hudson, Fear: A Path to Authenticity
@@ -79,3 +89,4 @@ See also [[embracing-vs-creating-intensity]] for the broader version of the prin
 ## Sources
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-10-26_Emile DeWeaver (Émile's first-person caveat about running straight toward fear from inside stage three)

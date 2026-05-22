@@ -5,7 +5,7 @@ title: "Two Words for Fear (Threat Fear vs. Growth Fear)"
 aliases: ["two words for fear", "Hebrew has two words for fear", "the Jewish teaching on fear", "threat fear vs growth fear", "existential fear vs stepping-into-the-room fear", "aliveness fear", "fear of stepping into a bigger room", "performance fear as the good fear", "the fear that is your friend", "the spinning-car fear", "the fear of growing into who you're being asked to be"]
 tags: ["fear", "growth", "performance", "aliveness", "distinctions", "flow"]
 related: ["fear-vs-excitement", "fear-as-signal-of-care", "fear-in-body-vs-fear-in-head", "annihilation-reveals-what-is-real", "identity-extension-expands-fear", "embrace-intensity", "dont-confuse-embracing-fear-with-inviting-danger"]
-sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Two Words for Fear (Threat Fear vs. Growth Fear)
@@ -101,3 +101,4 @@ Emile's tone about his own fear-as-friend version is warm and slightly playful: 
 ## Sources
 
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast of the conversation that produced this distinction)

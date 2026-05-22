@@ -4,8 +4,8 @@ id: emile-three-relationships-with-fear
 title: "Emile DeWeaver: Three Relationships With Fear"
 aliases: ["Emile DeWeaver story", "Emile's three relationships with fear", "the murderer who became a writer", "Emile's fear arc", "fear as anger-cover to endurance to roadmap", "Emile's developmental arc with fear", "the prison fear arc", "Life After Murder example"]
 tags: ["fear", "anger", "trauma", "transformation", "prison", "developmental arc", "identity"]
-related: ["two-words-for-fear", "fear-as-signal-of-care", "everyone-is-pretending", "refuse-to-be-defined-by-the-worst-act", "anger-as-cover-for-deeper-emotion", "honor-the-patterns-intent", "im-not-an-anxious-person", "fear-vs-excitement", "stages-of-emotional-development"]
-sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+related: ["two-words-for-fear", "fear-as-signal-of-care", "everyone-is-pretending", "refuse-to-be-defined-by-the-worst-act", "anger-as-cover-for-deeper-emotion", "honor-the-patterns-intent", "im-not-an-anxious-person", "fear-vs-excitement", "stages-of-emotional-development", "talk-to-your-parts-and-ask-for-trust", "dont-confuse-embracing-fear-with-inviting-danger"]
+sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Emile DeWeaver: Three Relationships With Fear
@@ -42,6 +42,16 @@ Emile is precise about this stage: "I wouldn't advocate that, like, that's the h
 
 The stage is unhealthy in its mechanism (self-loathing) but produced healthier action than the previous stage. Doing the right thing for the wrong reasons created the conditions for the right thing to eventually be done for the right reasons. The doing came first; the why corrected later.
 
+### Joe's Coaching Question Inside Stage Two
+
+In the conversation Joe asks the coaching-level question that the stage two account opens up: what distinguishes the people who, after the heinous act, abandon the manufactured-anger strategy from the people who keep using it?
+
+"There's obviously some people who did that in jail and then they kept with that technique. They're like, I learned that to overcome fear with anger worked and then I created this heinous act and now I'm in jail and I'm gonna keep on with that strategy. Whereas you were like, no, I can't do that strategy anymore. What do you think is the difference between the people in jail who keep with the strategy and the people in jail who are like, that's not how I want to be?" -- Joe Hudson, Life After Murder
+
+Émile's answer names two factors: luck, and the arrival of an operationally stronger identity than the old strategy could support. The luck was that his child was born during his trial, which produced a felt urgency he could not have manufactured for himself. The operationally stronger identity was father, and later writer. See [[refuse-to-be-defined-by-the-worst-act]] for the principle this answer expresses.
+
+The coaching move embedded in the question: when someone has used a destructive strategy for years and then describes abandoning it, ask what made the abandonment possible. The answer is rarely willpower. It is almost always the convergence of conditions plus the arrival of an identity strong enough to make the old strategy intolerable. Naming this is the foundation for building the same conditions deliberately for people who have not had Émile's luck.
+
 ## Stage Three (Intermediate): Courage as Virtue
 
 Reading Greek philosophy in prison -- Plato's dialogues, the classical virtues -- Emile arrived at the standard formulation of courage: not the absence of fear, but doing the right thing despite the fear.
@@ -50,7 +60,7 @@ Reading Greek philosophy in prison -- Plato's dialogues, the classical virtues -
 
 This is the version of fear-relationship that most adults consider mature. Feel the fear; do the thing anyway. It is functional. It produced years of right action. But fear remained a separate thing -- an obstacle, an opponent, something to overcome.
 
-The note about "running straight toward it" is important. Even at this stage, the relationship was still adversarial. The fear was something to conquer through opposition. The strategy worked but carried cost. See [[dont-confuse-embracing-fear-with-inviting-danger]] for the related anti-pattern.
+The note about "running straight toward it" is important. Even at this stage, the relationship was still adversarial. The fear was something to conquer through opposition. The strategy worked but carried cost. Émile names the caveat himself in the same breath: "There was a time where I was afraid, I'm running straight towards it, right? Which I don't advise." -- this is someone who has lived stage three reporting from inside it, and the warning is the warning of someone who paid the cost. See [[dont-confuse-embracing-fear-with-inviting-danger]] for the related anti-pattern.
 
 ## Stage Three (Mature): Fear as Roadmap and Partner
 
@@ -65,6 +75,8 @@ From honor came collaboration. The body's mechanisms could be updated, given cho
 "Now fear isn't something I overcome. Fear is actually a roadmap for me. Fear is a signal that I need to pay attention right now. Fear is a signal that I'm avoiding something right now, and I may need to be careful about how I approach it... But it is signaling something very important to my growth and my spiritual journey that I need to pay attention to. And so now I use it like a road map. It's like, oh, I feel nervous about that. Okay, what's going on with that? What's beneath that? What's happening for you? What is it that's crying out to be healed in this moment?" -- Emile DeWeaver
 
 This is [[fear-as-signal-of-care]] arrived at from a different door. The same destination Joe reaches from one trajectory, Emile reaches from another. The convergence is itself instructive.
+
+The mature version is operationalized in a specific practice Émile names: actually talking to his body, heart, mind, and fears as parts that have their own intelligence and need to be respected. See [[talk-to-your-parts-and-ask-for-trust]]. The roadmap framing is the principle; the conversations are the daily expression of it.
 
 ## Joe's Mirror From His Own Meditation Practice
 
@@ -109,3 +121,4 @@ Joe's tone is awe-tinged respect, with the willingness to push back on Emile's f
 ## Sources
 
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast; Joe's coaching question about what distinguishes those who keep vs abandon the manufactured-anger strategy; Émile's self-caveat about running straight toward fear; the linkage to the conversations-with-your-parts practice)

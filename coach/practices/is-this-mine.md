@@ -5,7 +5,7 @@ title: "Is This Mine?"
 aliases: ["is this mine question", "whose emotion is this", "checking emotional ownership", "empathic boundary question"]
 tags: ["empathy", "emotions", "boundaries", "grounding", "mirror neurons"]
 related: ["empathy", "losing-yourself-in-others", "staying-in-your-body"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
 ---
 
 # Is This Mine?

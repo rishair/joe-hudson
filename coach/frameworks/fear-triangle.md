@@ -5,7 +5,7 @@ title: "The Fear Triangle"
 aliases: ["drama triangle", "victim savior bully", "fight flight freeze triangle", "Karpman drama triangle", "fear triangle roles"]
 tags: ["fear", "drama", "roles", "victim", "savior", "bully", "fight flight freeze", "power dynamics"]
 related: ["empowered-vs-power", "helplessness-is-the-gateway", "caring-vs-caretaking", "shame-drives-behavior", "power-dynamics-as-two-defenders", "dont-modify-behavior-to-exit-the-triangle", "acknowledge-the-fear-by-role"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power"]
 ---
 
 # The Fear Triangle

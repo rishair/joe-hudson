@@ -4,8 +4,8 @@ id: layered-resistance
 title: "Layered Resistance"
 aliases: ["meta-resistance", "resisting the resistance", "resistance in sheep's clothing", "compounding resistance", "fighting the fight", "levels of fight"]
 tags: ["resistance", "patterns", "stuck", "self-improvement"]
-related: ["resistance", "shame-drives-behavior", "negative-self-reinforcement"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["resistance", "shame-drives-behavior", "negative-self-reinforcement", "undoing-not-doing", "joes-woods-fast-stopped-fighting"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Layered Resistance
@@ -36,6 +36,14 @@ The tell: asking "should I accept this or change it?" is itself a layer. The que
 Names the layers. Does not try to resolve the question "should I accept or change this?" Instead, points out that the question itself is the resistance expressing itself. This reframe collapses the layers.
 
 The instruction is not to fight less, but to stop stacking fights. Each individual layer of resistance has its own wisdom and its own transformation. See [[resistance]].
+
+## The Recursion in Joe's Own Life
+
+The clearest demonstration of the recursive structure comes from Joe himself, at 24, fasting in the woods. He noticed he was fighting himself. Then noticed he was fighting himself to stop fighting himself. Then noticed he was fighting himself to stop fighting himself to stop fighting himself. The recursion has no natural endpoint inside the category of effort.
+
+"In a war with yourself, who's gonna lose?" -- Joe Hudson, Embarking On The Journey
+
+The exit is not another effort move. It is dropping the category. He stopped. See [[joes-woods-fast-stopped-fighting]] and [[undoing-not-doing]]. The same insight applies whenever a person is in the recursion: the way out is to stop fighting, not to fight better.
 
 ## Connected Concerns
 

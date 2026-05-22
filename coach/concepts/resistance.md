@@ -5,7 +5,7 @@ title: "Resistance"
 aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
 tags: ["resistance", "transformation", "emotions", "core mechanism"]
 related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure", "love-as-deep-welcoming", "craving-is-the-pushing-away", "peace-is-what-we-resist-the-most"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-04-09_Love over Defense — Master Class Series #9", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-04-09_Love over Defense — Master Class Series #9", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Resistance

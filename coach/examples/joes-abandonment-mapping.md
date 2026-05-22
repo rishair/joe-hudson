@@ -5,7 +5,7 @@ title: "Joe's Abandonment Mapping"
 aliases: ["Joe's emotional abandonment", "falling in love with abandonment", "Joe attracted abandonment", "Joe's trauma mapping example"]
 tags: ["personal example", "trauma mapping", "abandonment", "transformation", "feeling"]
 related: ["trauma-mapping", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "familiar-over-safe", "childhood-imprinting"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Embracing Intensity"]
 ---
 
 # Joe's Abandonment Mapping
@@ -17,6 +17,14 @@ For reasons in his childhood, Joe felt emotionally abandoned. He did not want to
 In the process of building that world, he kept recreating the conditions that produced the original abandonment. He attracted people who would emotionally abandon him. Over and over. Different people, different bodies, different backgrounds. Same dynamic.
 
 "I created a whole world to not feel that. But in the way I created that whole world, like everybody, I reintroduced it over and over and over again." -- Joe Hudson, Feel over Figure
+
+## The Specific Mechanism: Anger as the Recreation Engine
+
+Joe later named the specific behavior that did the recreating. The anger was the engine. The moment he sensed he was about to be abandoned, he would get angry. The anger was an attempt to avoid feeling the abandonment that was arriving. The anger then produced more abandonment, because being yelled at causes people to leave.
+
+"I used to, when I was recreating the pattern of emotional abandonment, I would get angry whenever I saw that I was starting to get abandoned as a way to avoid feeling that feeling. Obviously the anger made more people abandon me, 'cause who wants to be around someone who's yelling at them? And therefore I'd invite it in." -- Joe Hudson, Embracing Intensity (2022)
+
+This is the same general structure that operates in any [[engineering-heartbreak-to-avoid-heartbreak]] pattern. The behavior that is meant to prevent the feared outcome produces the feared outcome. The avoidance is the mechanism of recreation. Naming the specific behavior matters because it makes the pattern visible: a person can usually identify what they do when they sense the feared thing approaching. That behavior is almost always doing the engineering.
 
 ## The Turn
 
@@ -72,3 +80,4 @@ Matter-of-fact, instructive. Joe uses this as a teaching example. He is not dwel
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Embracing Intensity (the specific anger-as-recreation-engine mechanism: getting angry when sensing abandonment caused people to leave)

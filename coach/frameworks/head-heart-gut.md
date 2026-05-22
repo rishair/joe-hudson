@@ -5,7 +5,7 @@ title: "Head, Heart, Gut"
 aliases: ["three intelligences", "head heart gut", "speaking from your head", "speaking from your heart", "speaking from your gut", "listening from head heart gut", "three ways of knowing", "the three centers", "head heart body", "speaking from different intelligences", "three pointers"]
 tags: ["body", "intelligence", "ways of knowing", "framework", "intuition"]
 related: ["staying-in-your-body", "feel-over-figure", "decisions-are-emotional", "body-lies-as-much-as-mind", "wonder", "view", "anxiety-three-definitions", "athletes-unlocking-body-intelligence-in-business"]
-sources: ["2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Head, Heart, Gut
@@ -70,6 +70,16 @@ A person who is head-dominant has emotions running them but cannot see it. "They
 The reverse is true for gut-dominant people: they have stories driving them but cannot see the stories. "Maybe they walk into a room and they start to feel anger and so they just believe that the anger means that they've been wronged." (Brett) "That's exactly right. And then they have a story about how they were wronged, but they don't question it." -- Joe Hudson, How Your Body Speaks
 
 The work is not to switch dominance. It is to cultivate the underused intelligences until all three are accessible.
+
+## The Three Pencils Bound by Rubber Bands
+
+A useful image for why the underdeveloped intelligence is the highest-leverage one to work on: three pencils attached by rubber bands. Each pencil represents one of the three intelligences. If one pencil is much lower than the others, the rubber bands hold the higher ones back. Lifting the high one further is hard; lifting the low one gives everything else more room to move.
+
+"It's like having 3 pencils attached by rubber bands and one can get only so high if one is so low. And the most bang you're going to get for your buck is to move the low one higher because it gives everything else the most flexibility." -- Joe Hudson, Embarking On The Journey
+
+This is the diagnostic for the person whose work has stalled. If the path stopped producing movement, the highly-developed intelligence is probably being asked to do more work than it can do without the others coming up. The most leverage is in the neglected one.
+
+"If the path that you're working on has stopped working, you probably neglected one of the sides of yourself, one of the parts of yourself." -- Joe Hudson, Embarking On The Journey
 
 ## The Path of Learning Has a Trap
 

@@ -5,7 +5,7 @@ title: "Honor What the Pattern Tried to Give You"
 aliases: ["honor the pattern's intent", "the pattern came for a good reason", "love the patterns", "respect the pattern", "find the gift in the pattern", "the pattern's positive intent", "the pattern was trying to take care of you", "even mean patterns have good intent", "your body is smart", "the body's protective mechanisms saved your life", "honor what kept you alive", "the somatic therapy framing"]
 tags: ["patterns", "trauma", "self-compassion", "loving all parts", "voice as care", "transformation"]
 related: ["childhood-imprinting", "loving-all-parts", "voice-as-care", "love-is-the-best-change-agent", "feeling-the-unfelt-emotion", "shame-drives-behavior", "emile-three-relationships-with-fear"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Honor What the Pattern Tried to Give You
@@ -103,3 +103,4 @@ Joe speaks about this gently. The tone matters: the principle cannot be delivere
 
 - 2021-08-13_Seeing Through Family Dynamics
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast of the conversation that produced the somatic-therapy framing)

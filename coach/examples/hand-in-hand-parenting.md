@@ -5,7 +5,7 @@ title: "Learning Empathy Through Children's Tantrums"
 aliases: ["Hand in Hand Parenting", "Parenting by Connection", "stay listening", "temper tantrum empathy"]
 tags: ["empathy", "parenting", "emotions", "self-discovery"]
 related: ["empathy", "feeling-the-unfelt-emotion", "caring-vs-caretaking"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
 ---
 
 # Learning Empathy Through Children's Tantrums

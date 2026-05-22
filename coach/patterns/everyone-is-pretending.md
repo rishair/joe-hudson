@@ -5,7 +5,7 @@ title: "Everyone Is Pretending (The Collective Bravado)"
 aliases: ["everyone is pretending", "the collective pretending", "we were all pretending", "the predator-or-prey culture", "no-fear culture", "if you show fear you're prey", "the hyper-masculine performance", "the boardroom bravado", "the collective false bravado", "the no-fear environment", "everyone afraid no one showing"]
 tags: ["fear", "culture", "performance", "bravado", "shame", "isolation", "prison", "boardroom", "masculinity"]
 related: ["im-not-an-anxious-person", "vulnerability", "welcoming-fear-in-leadership", "two-words-for-fear", "shame-as-disconnection", "authenticity-reduces-shame", "leaders-wants-are-the-organizations-wants", "honor-the-patterns-intent"]
-sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Everyone Is Pretending (The Collective Bravado)
@@ -63,6 +63,22 @@ Emile makes the parallel explicit, with sharp observation:
 And later, about the healing journeys of people he meets in tech, philanthropy, the nonprofit world: "Everyone is trying hard to heal from trauma in their life. And I'm like, wait, in that -- like, it's different details, but there's something very similar about my healing journey and the healing journeys of many people around me who have seen nothing of like what I have seen."
 
 The disposability is the substrate. The pretending is the surface. The structures repeat across domains because they share an underlying logic: when belonging is contingent on performance of strength, every member becomes a performer of strength, and the population of performers can never truly know each other.
+
+## Solitary Confinement as the Severe Form of an Ordinary Logic
+
+Émile extends the cross-domain mapping by way of solitary confinement. The argument: solitary is not categorically different from the rest of prison; it is more severe along the same axis. And prison is not categorically different from the rest of society; it is more severe along the same axis. The mechanism that produces all three is disposability.
+
+"It's a different scale, but solitary confinement is not different from prison. It's just like more severe than the general conditions of prison... Think about prison as a mechanism of disposability. And then think about how many people feel in an office." -- Émile DeWeaver
+
+The implication for coaching: the corporate professional who is doing trauma work to heal from their childhood, their job, their relationships, is doing work that has the same structure as the work of someone who came out of prison. The conditions that produced the trauma differ in severity; the trauma itself, and the work to undo it, are recognizable across the range. This is why the patterns extracted from coaching extreme cases (like Émile's) generalize to high-functioning professional cases without distortion.
+
+## The Maximum-Security Writing Workshop: Same Journey, Different Crimes
+
+Joe carries his own version of this recognition. In his 20s and 30s he was in a men's group that met weekly to share their healing journeys. During that period a PBS special aired of a workshop the playwright Eve Ensler (author of *The Vagina Monologues*) had done with women in maximum-security prison -- most of them convicted of murder. Watching the women share their work, Joe noticed something that shook him:
+
+"These women who had committed murder, they were going through the same stuff we were going through. Their stories were a little bit different, but their journeys, their healing journey, it was all the same. I remember just being blown away by it. It shook me that there was really no difference between what they were doing and what we were doing. That moment for me was one of the more profound moments of that year, was just like, oh, we are all in this together." -- Joe Hudson, Life After Murder
+
+The lesson is the same as Émile's lesson about people in tech. The content of the trauma varies. The shape of the work to heal it does not. The recognition that "we are all in this together" was for Joe a precondition for the coaching he now does across radically different populations. The work generalizes because the underlying structures are shared.
 
 ## Why the Pattern Is So Stable
 
@@ -124,3 +140,4 @@ When this pattern is named in coaching, the tone is matter-of-fact rather than t
 ## Sources
 
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast; the disposability-as-substrate framing, the solitary-confinement microcosm, the Eve Ensler maximum-security writing workshop story)

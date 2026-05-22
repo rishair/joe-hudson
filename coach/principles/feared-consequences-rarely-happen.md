@@ -5,7 +5,7 @@ title: "Feared Consequences Rarely Happen (8 out of 10)"
 aliases: ["8 out of 10 times", "consequences don't materialize", "the feared outcome usually doesn't happen", "predicted vs real consequences", "the just-be-yourself experiment", "since you're going to quit anyway", "act as if you've already lost it"]
 tags: ["fear", "consequences", "empowerment", "vulnerability", "prediction"]
 related: ["empowered-vs-power", "acting-as-if-already-true", "fear-is-about-feeling", "vulnerability", "what-we-fear-we-invite", "boundaries", "what-if-you-acted-exactly-how-you-want"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_Empower Over Power"]
 ---
 
 # Feared Consequences Rarely Happen (8 out of 10)

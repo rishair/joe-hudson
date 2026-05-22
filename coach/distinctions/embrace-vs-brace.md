@@ -5,7 +5,7 @@ title: "Embrace vs. Brace"
 aliases: ["bracing vs embracing", "embracing or bracing", "embrace or brace", "the brace vs embrace felt sense", "am I bracing or embracing"]
 tags: ["felt sense", "resistance", "embracing", "diagnostic", "embodied"]
 related: ["embrace-intensity", "resistance", "feeling-the-unfelt-emotion", "are-you-bracing-or-embracing", "embracing-vs-creating-intensity", "love-the-anxiety-not-just-with-it", "anxiety-as-constricted-life-force"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-10-26_Embracing Intensity"]
 ---
 
 # Embrace vs. Brace
@@ -85,3 +85,4 @@ The distinction is delivered as a friendly question, not an injunction. "Am I br
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-10-26_Embracing Intensity (re-recording of the same teaching)

@@ -5,7 +5,7 @@ title: "Wants Over Shoulds"
 aliases: ["follow your wants", "shoulds slow transformation", "wants accelerate transformation", "should is control", "wants vs shoulds", "0 to 7 no shoulds", "shoulds slow development", "should is a bad management technique", "the should kills motivation"]
 tags: ["transformation", "wants", "shoulds", "freedom", "motivation"]
 related: ["wants-vs-partiality", "wanting-vs-craving", "the-want", "resistance", "selfishness-is-the-engine-of-unity", "enjoyment-as-path", "shame-drives-behavior", "seven-limiting-beliefs", "inherent-goodness", "impulse-to-should", "should-as-threat", "rebellion-or-submission-to-should", "find-the-want-behind-the-should", "ill-become-lazy-without-shoulds", "i-should-be-doing-this", "owning-the-want-dissolves-it", "joes-pleasing-dad-money-story", "joes-26-year-old-list"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Wants Over Shoulds
@@ -40,6 +40,10 @@ The voice in the head saying "you should do that" is the obvious form. There is 
 ## In Practice
 
 The subtle trap: as people mature, they stop wanting to throw temper tantrums. But instead of recognizing this as an evolved want ("I don't want to throw a temper tantrum"), they convert it into a should ("I shouldn't throw a temper tantrum"). The natural impulse is replaced by a rule. The energy shifts from desire to obligation.
+
+The mechanism of the conversion is worth seeing. A five-year-old genuinely wants to throw a temper tantrum and does so. At twenty-five, the same person has iterated; they have developed. They actually want different things now. They could just notice: "I have evolved. I now want something different." Instead, they layer a should on top of the old behavior and treat it as a moral correction. The iteration that happened naturally gets reframed as a rule that has to be enforced. The natural impulse inside us gets converted into a thing we should do.
+
+"That isn't -- we have iterated, we have evolved, we now want something different. But we turn that into a should, we change that natural impetus inside us into something that we should do." -- Joe Hudson, Embarking On The Journey
 
 Finding the want behind every should is the practice. "I should stop smoking" becomes "I want to breathe freely." "I should exercise" becomes "I want to feel strong." The should drags. The want pulls. See [[find-the-want-behind-the-should]].
 

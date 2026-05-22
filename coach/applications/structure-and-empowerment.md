@@ -5,7 +5,7 @@ title: "Structure and Empowerment in Organizations"
 aliases: ["structure creates safety", "org design empowerment", "decentralized empowerment", "structure for empowerment", "roles and empowerment"]
 tags: ["leadership", "organization", "empowerment", "structure", "decentralization", "teams"]
 related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace", "childhood-imprinting", "reframe-boss-as-customer", "become-unnecessary", "politics-from-unclear-standards", "functional-team", "team-as-scientific-method"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics", "2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Empower Over Power"]
 ---
 
 # Structure and Empowerment in Organizations

@@ -5,7 +5,7 @@ title: "Pendulation"
 aliases: ["back and forth learning", "I lost it", "two steps forward one step back", "the learning went away", "regression in learning"]
 tags: ["transformation", "learning", "development", "patterns"]
 related: ["late-stage-reversion", "development-as-corkscrew", "enjoyment-as-path", "resistance"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Pendulation

@@ -2,9 +2,9 @@
 type: concern
 id: i-have-to-do-it-all-myself
 title: "I have to do it all myself / I can't depend on others"
-aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself"]
-tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "concern"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself", "it's lonely at the top", "nobody around me really gets it", "I have to hold all of this myself", "the lonely CEO presenting"]
+tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "loneliness", "concern"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection"]
 ---
 
 # I have to do it all myself / I can't depend on others
@@ -22,10 +22,16 @@ sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 - "I can't really lean on anyone."
 - "I don't show certain emotions at work."
 - "I had to be the strong one."
+- "It's lonely at the top."
+- "Nobody around me really gets it."
+- "I'm the only one who can see the whole picture."
+- "My team is fine, but they don't really show up."
 
 The phrasing is often delivered as a strength or a fact, not as a complaint. The person is reporting how they operate, sometimes with pride. The concern is buried inside the self-description.
 
 The presenting language is often a CEO or leader's language: efficiency, getting it done, hiring good people, muscling through.
+
+The lonely-CEO variant is the same concern with the loneliness foregrounded. The leader names the isolation directly, often treats it as a feature of the role rather than as a perception, and uses it as evidence of how exceptional their burden is. The position is full of people; the person inside it reports feeling alone. The contradiction is the diagnostic.
 
 ## Detection Cues
 
@@ -69,6 +75,8 @@ The same statement can lead in different directions:
 
 - **If the person is asking how to be more vulnerable as a CEO without giving an inch on competence:** the question itself is the constraint. The competence is not threatened by vulnerability. The fear of losing competence is.
 
+- **If the person presents the loneliness of the role as a fact rather than as a perception:** the move is [[apologize-for-not-seeing-the-help]]. Name the old truth ("you were alone as a kid") and the new one ("you are not alone now") in the same breath. Point them to the team that is, in fact, trying. Then have them apologize to the team for not recognizing it. The vulnerable act lands the recognition relationally rather than just internally.
+
 ## Coaching Path
 
 1. Name the cost of the pattern, gently and specifically. The pattern works for what it was designed for. It also has a price. The price is usually the limit on intimacy and the limit on what the team can become.
@@ -82,6 +90,10 @@ The same statement can lead in different directions:
 5. Practice receiving in low-stakes moments. The capacity to receive is a muscle that has atrophied. Start where the stakes are small and let the pattern interrupt itself.
 
 6. Translate the work into leadership. The leader who has felt their own helplessness can hold their team's vulnerability. The leader who has not, cannot. See [[vulnerability-in-the-workplace]].
+
+7. For the lonely-CEO version specifically, deploy [[apologize-for-not-seeing-the-help]]. The old imprint says "I am alone." The current reality usually contradicts this: the team is trying. The move converts the internal recognition into a relational act, which is what shifts the dynamic. The apology is short, undefended, and acknowledges the team's contributions that the leader has not been letting register. The team's response is typically increased engagement, not less.
+
+"I know you had to be resourceful and you had to be self-reliant and you were alone as a kid, but you're not alone now. And if you're looking for evidence, look around at all the people who are trying to make you successful... And then apologize to them for not recognizing it. And that would be the vulnerable act. And then see how much more inspired they are to be there with you and to show up with you because they see your humanness instead of are scared of you." -- Joe Hudson, Connection Over Perfection
 
 ## What Joe Does Not Do
 
@@ -102,3 +114,4 @@ He does not skip to vulnerability as a tactic. The work is the substrate emotion
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Connection Over Perfection (the lonely-CEO variant and the apologize-for-not-seeing-the-help move)

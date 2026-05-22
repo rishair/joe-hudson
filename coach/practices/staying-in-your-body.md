@@ -5,7 +5,7 @@ title: "Staying in Your Body"
 aliases: ["body awareness in conversation", "put attention in your body", "grounding in the body", "feel the bottom of your feet", "being in your body", "speak from the body", "listen from the body", "speak from the silence", "attention in the body"]
 tags: ["empathy", "body", "grounding", "presence", "practice", "flow state"]
 related: ["empathy", "losing-yourself-in-others", "is-this-mine", "emotions-live-in-muscles", "head-heart-gut", "body-lies-as-much-as-mind", "embrace-intensity", "sensitivity-as-byproduct", "body-awareness-in-meetings"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks", "2022-10-26_Empathy"]
 ---
 
 # Staying in Your Body

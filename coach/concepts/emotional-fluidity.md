@@ -5,7 +5,7 @@ title: "Emotional Fluidity"
 aliases: ["fluid emotions", "emotions change when welcomed", "sadness becomes grief and gratitude", "the changed quality of welcomed emotion", "what emotions look like when allowed", "fluid emotional state", "crying weekly without knowing why", "unstoried emotional movement"]
 tags: ["emotions", "transformation", "welcoming", "fluidity"]
 related: ["embrace-intensity", "kinked-emotions", "feeling-the-unfelt-emotion", "joy-as-matriarch", "stages-of-emotional-development", "wisdom-of-each-emotion", "emotion-can-move-without-a-story", "stronger-story-stuckier-emotion"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Embracing Intensity"]
 ---
 
 # Emotional Fluidity
@@ -109,3 +109,4 @@ Fluidity and story-strength are inversely related. The lighter the holding of st
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-10-26_Embracing Intensity (re-recording with the same anger-poor-me vs anger-clean-clarity contrast and the venture-capital deal-effort framing)

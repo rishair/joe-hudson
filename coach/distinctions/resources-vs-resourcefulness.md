@@ -5,7 +5,7 @@ title: "Resources vs. Resourcefulness"
 aliases: ["resources versus resourcefulness", "resources won't solve resourcefulness", "money vs creativity", "capital vs capability", "resources can't fix resourcefulness"]
 tags: ["money", "business", "creativity", "scarcity", "limiting-belief"]
 related: ["if-i-had-more-money", "money-as-surrogate", "constraints-increase-creativity", "ill-become-lazy-without-shoulds"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Empower Over Power"]
 ---
 
 # Resources vs. Resourcefulness
@@ -42,6 +42,14 @@ Constraints often produce resourcefulness. Shakespeare's iambic pentameter. Mich
 Naming this distinction interrupts the loop where every new milestone reveals a new financial gap. The person realizes that the gap is not the financial one. This is rarely a one-step conversation. The belief that resources will solve resourcefulness is deeply built into the modern frame.
 
 This connects to [[if-i-had-more-money]] as the concern this distinction addresses. It also connects to [[money-as-surrogate]] when the resource-seeking is also a chase for what money has come to symbolize.
+
+## Resourcefulness as the Felt Substance of Empowerment
+
+Resourcefulness is also what empowerment looks like in practice. The person who is empowered is not waiting for the right circumstances. They are using what is in front of them. The willingness to act from truth with whatever is available is the same capacity as the willingness to build with whatever is available.
+
+"It's not really about how many resources you have. It's about your resourcefulness. It's knowing that you have the courage to do what's true for you." -- Joe Hudson, Empower over Power (2022)
+
+This is why the [[empowered-vs-power]] distinction maps cleanly onto the resources-vs-resourcefulness distinction. Power is to resources as empowerment is to resourcefulness. The first is external and can be taken. The second is internal and cannot.
 
 ## Sources
 

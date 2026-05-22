@@ -5,7 +5,7 @@ title: "Connection as the Bottom-Line Principle for Life"
 aliases: ["connection as bottom line", "connection as life principle", "connection connection connection", "connection as the first principle", "the connection principle", "live by connection", "connection as operating principle"]
 tags: ["connection", "principles", "bottom-line", "values", "operating-principle"]
 related: ["connection", "connection-as-family-metric", "connection-over-perfection", "principles-free-you", "view", "five-principles-of-the-path", "would-you-sell-your-ability-to-connect"]
-sources: ["2022-04-29_Connection- A State Beyond States"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection- A State Beyond States"]
 ---
 
 # Connection as the Bottom-Line Principle for Life
@@ -72,6 +72,16 @@ If connection is so effective, why is it not the default? Two reasons.
 
 The cultural model in business does not provide many examples of people operating from connection. "There's very few examples of somebody living in really deep connection in the business world. And then when you see it, you're like, 'Oh crap, I can do that.'" -- Joe Hudson. The first job of the principle is to show people the example exists.
 
+## Every Move in the Methodology Points Here
+
+Connection is not one teaching among many in the larger body of work. It is the destination every other teaching is pointing at.
+
+The observation Brett offered in a follow-up conversation: "Whatever it is that we've ever done in any of your courses has been aimed towards connection -- even identifying those ways that we think we're in connection, but is actually pulling us out of connection, like caretaking, for example. And yeah, power versus empowerment -- all these different kind of things that get in the way of us in our life tend to also be all of them seem to point back to actually being in connection." Joe's response: "Yeah, I haven't thought about it that way and it feels very right to me."
+
+The implication for coaching: any topic can be brought back to connection. [[caring-vs-caretaking]] is a connection teaching because caretaking looks like connection and is not. [[empowered-vs-power]] is a connection teaching because power without empowerment severs connection with self. [[view]] is a connection teaching because each of its four components (vulnerability, impartiality, empathy, wonder) is a doorway into connection. The full body of work coheres around the single principle.
+
+This matters for an AI coach: when a presenting concern does not obviously involve connection, look for the connection-disguised-as-its-opposite that the person is mistaking for the real thing. The work is to surface the substitute and point back to the actual.
+
 ## When Joe Asks Long-Term Coaching Clients About Their Bottom Line
 
 After working with someone over time, Joe will ask: what is the bottom line of your life? What is the thing that, if you had a lot of it at the end of your life, would mean it was a life well lived?
@@ -100,6 +110,7 @@ This suggests the principle is not Joe's imposed value. It is the value that eme
 
 - Toward [[connection]] as the foundational concept.
 - Toward [[start-stay-end-in-connection]] as the practice form.
+- Toward [[notice-and-be-grateful-for-connection]] when the person needs a return-to-connection practice during the day.
 - Toward [[would-you-sell-your-ability-to-connect]] when the person needs to feel the value of what they already have.
 - Toward [[connection-over-perfection]] when the application is to product, work, or self-relationship.
 - Toward [[connection-as-family-metric]] when the application is family.
@@ -108,3 +119,4 @@ This suggests the principle is not Joe's imposed value. It is the value that eme
 ## Sources
 
 - 2022-04-29_Connection: A State Beyond States
+- 2022-10-26_Connection: A State Beyond States (the meta-frame that every teaching in the methodology points back to connection; the substitutes for connection as the disguised topic of most coaching)

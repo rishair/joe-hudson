@@ -5,7 +5,7 @@ title: "What if you acted exactly how you want to act and saw what happens?"
 aliases: ["what if you acted exactly how you want", "the empowerment question", "act how you want and see", "stop compromising your truth question", "since you're going to quit anyway just be yourself", "act as if you've already lost it"]
 tags: ["empowerment", "vulnerability", "questions", "authenticity"]
 related: ["empowered-vs-power", "feared-consequences-rarely-happen", "vulnerability", "i-feel-trapped", "boundaries"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_Empower Over Power"]
 ---
 
 # What if you acted exactly how you want to act and saw what happens?

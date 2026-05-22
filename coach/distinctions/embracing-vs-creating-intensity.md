@@ -2,10 +2,10 @@
 type: distinction
 id: embracing-vs-creating-intensity
 title: "Embracing Intensity vs. Creating Intensity"
-aliases: ["embrace intensity vs create intensity", "creating intensity", "manufactured intensity vs embraced intensity", "intensity manufacturing", "engineering intensity for growth", "don't drag tension up", "the tension is already there"]
+aliases: ["embrace intensity vs create intensity", "creating intensity", "manufactured intensity vs embraced intensity", "intensity manufacturing", "engineering intensity for growth", "don't drag tension up", "the tension is already there", "intensity lives in feeling not action", "intensity is in the feeling", "no intensity in action only in feeling", "cliff jump without emotion isn't intense", "the daughter driving across country example"]
 tags: ["intensity", "transformation", "anti-pattern", "distinction"]
-related: ["embrace-intensity", "embrace-vs-brace", "manufacturing-the-feeling", "trying-to-get-rid-of-the-emotion", "tension-return-to-love-cycle", "connection"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-04-29_Connection- A State Beyond States"]
+related: ["embrace-intensity", "embrace-vs-brace", "manufacturing-the-feeling", "trying-to-get-rid-of-the-emotion", "tension-return-to-love-cycle", "connection", "fear-is-about-feeling"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Embracing Intensity"]
 ---
 
 # Embracing Intensity vs. Creating Intensity
@@ -22,7 +22,21 @@ This is not the principle. The principle assumes that intensity is already prese
 
 When a 12-year-old is asked to drive a car across the country, that is creating intensity, not embracing it. When the same 12-year-old is asked to lean into a feeling she is running away from, that is embracing intensity.
 
+The example is concrete because it actually happened. Joe was sitting in a cafe with his 12-year-old daughter, talking through what embracing intensity meant -- "oh, hey, you're running away from a feeling there. Lean into the feeling." A woman at a nearby table watched the conversation with her jaw dropping, registering the strangeness of a father and a 12-year-old talking this way. Later, when Brett joked about Joe's older daughter driving across country, Joe drew the line: "that wouldn't be embracing intensity. That'd be creating intensity. Big distinction."
+
 The difference matters because creating intensity often masquerades as growth work. The person feels the rush of the manufactured intensity and mistakes it for transformation. They are bracing against something they engineered. The brace and the engineering cancel each other out.
+
+## Intensity Lives in Feeling, Not in Action
+
+A sharper formulation of the same distinction: intensity is not a property of actions. It is a property of feelings. The action itself is neutral. What makes anything intense is the felt experience -- physical or emotional -- that accompanies it.
+
+"There is no real intensity in an action. There's only an intensity in a feeling, physical or emotional. So, you know, if you were jumping off a cliff and you didn't have any emotional experience, it wouldn't be intense with or without a parachute outside of maybe the wind on your face and like that experience." -- Joe Hudson, Embracing Intensity (2022)
+
+This is why creating intensity backfires structurally. Stacking dramatic actions does not produce embracing-of-intensity; it produces a stack of actions with feelings still being avoided in each one. The intensity the person was looking for was never available through the action. It was always available through the feeling, which was present before any action was added.
+
+The inverse is also true. A person sitting silently in a chair can be in extreme intensity if a long-avoided feeling is being met. No one watching can see the intensity. The body knows.
+
+This connects to [[fear-is-about-feeling]]: the fear of any situation is fear of what the situation will require you to feel. The action is the proxy. The feeling is the substance.
 
 ## Why Creating Intensity Backfires
 
@@ -77,3 +91,4 @@ Joe delivers this distinction quickly and almost in passing -- "that wouldn't be
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-04-29_Connection: A State Beyond States (the coaching application: don't drag tension up)
+- 2022-10-26_Embracing Intensity (the cafe-with-12-year-old story; the cliff-jump example for intensity-lives-in-feeling)

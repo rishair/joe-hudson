@@ -4,8 +4,8 @@ id: undoing-not-doing
 title: "Undoing, Not Doing"
 aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
-related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line", "joes-woods-fast-stopped-fighting", "layered-resistance"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Undoing, Not Doing
@@ -57,6 +57,16 @@ Pema Chödrön offers a parallel formulation that points at the same movement: c
 What gets annihilated is the things you think you are that you have to defend. The diagnostic for which parts these are is the defense itself. "I don't want to be seen as a hypocrite. I don't want to be seen as helpless. I don't want to be seen as greedy. I don't want to be seen as weak." Each protected self-image is something to be released. What remains after enough release is what was always there. See [[defense-vs-love]] and [[self-realization]].
 
 The annihilation frame is more confrontational than the undoing frame, but it points at the same mechanism. Both describe transformation as subtraction from the false rather than addition to the true.
+
+## The Ridgeline Discovery: Joe at 24
+
+The earliest moment Joe describes finding this distinction in his own life happened on a fast in the woods at 24. He noticed he was fighting himself. Then noticed he was fighting himself to stop fighting himself. Then noticed he was fighting himself to stop fighting himself to stop fighting himself. The recursion runs as long as effort is the chosen tool. Joe just stopped.
+
+"That was the first moment that I realized that it's not a matter of effort. It's a matter of acceptance. It's a matter of not efforting. It's the stopping of the trying. It is the trust." -- Joe Hudson, Embarking On The Journey
+
+See [[joes-woods-fast-stopped-fighting]] for the full story. It illustrates why the entire category of effort cannot solve the recursion. The only exit is to stop trying. The undoing is not another move inside the category of doing; it is leaving the category.
+
+This same insight is why [[layered-resistance]] cannot be solved by resisting the resistance. The structure is identical: each layer of effort against effort just adds another layer to oppose.
 
 ## In Practice
 

@@ -5,7 +5,7 @@ title: "The POW Optimist (Stockdale Paradox)"
 aliases: ["Stockdale paradox", "Vietnam POW story", "optimists died story", "POW camp empowerment"]
 tags: ["empowerment", "example", "optimism", "vision", "POW", "Stockdale"]
 related: ["acting-as-if-already-true", "empowered-vs-power", "process-over-result", "quit-hope-lose-cycle", "intention-vs-goal", "art-of-accomplishment"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Empower Over Power"]
 ---
 
 # The POW Optimist (Stockdale Paradox)

@@ -5,7 +5,7 @@ title: "Joe's Creative Career Story"
 aliases: ["stock lending to TV directing", "international stock lending story", "say yes to what shows up", "surrender to enjoyment"]
 tags: ["enjoyment", "management", "career", "surrender", "personal story"]
 related: ["enjoy-over-manage", "process-over-result", "inherent-goodness"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-10-26_Enjoy Over Manage"]
 ---
 
 # Joe's Creative Career Story
@@ -35,3 +35,4 @@ When someone is gripping a specific career outcome, life plan, or vision of succ
 ## Sources
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
+- 2022-10-26_Enjoy Over Manage

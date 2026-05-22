@@ -4,7 +4,7 @@ id: are-you-bracing-or-embracing
 title: "Are you bracing or embracing?"
 aliases: ["am I bracing or embracing", "bracing or embracing question", "the brace embrace diagnostic", "embracing or bracing", "you might be bracing for it"]
 tags: ["diagnostic question", "embodied", "felt sense", "moment-to-moment", "consent"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Embracing Intensity"]
 ---
 
 # Are you bracing or embracing?
@@ -82,3 +82,4 @@ Light. The question is offered with affection, the way Joe describes loving aski
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Embracing Intensity (re-recording with the same loving-the-question framing)

@@ -5,7 +5,7 @@ title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
 related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity"]
 ---
 
 # Decisions Are Emotional

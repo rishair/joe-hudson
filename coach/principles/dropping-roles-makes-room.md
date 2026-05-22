@@ -5,7 +5,7 @@ title: "Dropping a Role Makes Room For Others to Step Into Theirs"
 aliases: ["dropping roles makes room", "the role you drop someone else picks up", "drop the role and others step in", "I dropped the planner role and my son became the planner", "roles taken vs roles left", "when you get out of the way it gets replaced by something better", "the role vacuum principle"]
 tags: ["roles", "leadership", "family", "delegation", "empowerment", "agency", "letting-go"]
 related: ["caring-vs-caretaking", "community-over-teacher", "become-unnecessary", "state-the-want-not-the-action", "love-requires-empowerment", "structure-and-empowerment", "caretaking-prevents-the-bottom"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # Dropping a Role Makes Room For Others to Step Into Theirs
@@ -126,3 +126,4 @@ Joe brings this with confidence about the underlying dynamic and curiosity about
 ## Sources
 
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

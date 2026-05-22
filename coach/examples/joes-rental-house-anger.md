@@ -5,7 +5,7 @@ title: "Joe's Rental House: The Kick in the Stomach"
 aliases: ["the rental house story", "Joe driving past the rental house", "the kick in the stomach story", "Joe feeling through anger at the neighbors", "the daughter yelled at story", "the 2 to 3 weeks anger story", "milking the kick"]
 tags: ["anger", "feeling-through", "story-change", "example", "Joe's biography"]
 related: ["feeling-changes-story", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "emotions-and-stories-dance", "stronger-story-stuckier-emotion"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Joe's Rental House: The Kick in the Stomach
@@ -68,6 +68,14 @@ Notably, the new story was not "these are great people who didn't do anything wr
 This is the typical pattern of post-release clarity. The change is not toward a positive interpretation. It is toward a more complete one. The kink in the perception unkinked, and what came through was the fuller picture.
 
 See [[visceral-clarity-from-anger]] for why the post-release perception is structured this way.
+
+## The Same Story Told for Enjoying the Uncomfortable
+
+Joe tells this story in different episodes with different framings. In one version it illustrates [[feeling-changes-story]] (the rental-house people stopped being assholes once the anger had moved). In another, told a few months later, it illustrates [[enjoyment-as-path]] -- specifically the idea that the path includes learning to enjoy the very things you have been telling yourself are unbearable.
+
+"It got to the point where like I would literally drive by the house to hope that that feeling would come back so I could be with it and I could love it and I could spend time with it, I could attend to it. I learned how to enjoy the thing that I thought was uncomfortable." -- Joe Hudson, Embarking On The Journey
+
+This second framing is structurally identical to the first. He drove past the house. He let the kick happen. The feeling moved. The story changed. The only difference is the lesson the teller draws out at the end. In one telling, the lesson is what becomes possible when emotion moves; in the other, the lesson is the orientation that makes that movement available -- looking forward to the feeling rather than fleeing it. The two framings are companions, not contradictions.
 
 ## How to Use This Story in Coaching
 

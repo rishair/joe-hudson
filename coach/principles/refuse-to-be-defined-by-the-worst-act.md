@@ -2,10 +2,10 @@
 type: principle
 id: refuse-to-be-defined-by-the-worst-act
 title: "Refuse to Be Defined by the Worst Thing You Have Done"
-aliases: ["don't define yourself by the worst act", "refuse the worst-act identity", "how you define yourself is how you act", "the murderer identity prevents change", "you are not your worst act", "accountability without identity", "I murdered someone, I am not a murderer", "identity as constraint on change", "self-definition determines action"]
+aliases: ["don't define yourself by the worst act", "refuse the worst-act identity", "how you define yourself is how you act", "the murderer identity prevents change", "you are not your worst act", "accountability without identity", "I murdered someone, I am not a murderer", "identity as constraint on change", "self-definition determines action", "I am in that regard a murderer and that's not the only thing I am", "both/and the act and the larger self", "own the act refuse the totality", "I am all my actions and everything beyond that", "not bypass the act refuse the identity-collapse"]
 tags: ["identity", "shame", "accountability", "self-definition", "transformation", "freedom"]
 related: ["past-shame-vs-current-shame", "shame-drives-behavior", "fault-vs-responsibility", "dont-make-family-dynamics-the-story", "authenticity-reduces-shame", "limiting-belief", "what-we-fear-we-invite"]
-sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Refuse to Be Defined by the Worst Thing You Have Done
@@ -29,6 +29,20 @@ And: "I don't believe in identifying a person based on the worst act they've eve
 The grammatical move is precise. The act is named in the past tense as a verb the person committed. The identity is refused as a noun the person is. The accountability is in the verb. The identity-as-noun is the trap.
 
 This connects to [[fault-vs-responsibility]] -- responsibility for what happened does not require identifying yourself with what happened. The two have been conflated by most cultural and institutional pressures. Separating them is itself the work.
+
+## The Both/And Clarification: Not Bypassing the Act, Refusing It as the Whole
+
+A common worry about this principle: does refusing the worst-act identity slide into denial of the act itself? "Oh, that wasn't really me, that was some other dissociated thing." The principle does not endorse that move. The work is both/and, not either/or.
+
+Brett Kistler's framing of the distinction lands cleanly:
+
+"It's not that you're like bypassing the identity of a murderer, that's something that you've done. In some sense, teaching kids not to murder involves being, hey, look, I am somebody who has murdered. I am in that regard a murderer, and that's not the only thing I am. That doesn't entirely define me. There's still freedom to be had in who I am and how I show up in the world, regardless of what I've done in my past. It's not this 'oh, I'm not a murderer, that was just some other thing that I'm dissociated from, and don't hold me accountable for those actions.' It's just, yeah, I am all of me, I'm all of my actions, and I am everything beyond that as well." -- Brett Kistler, Life After Murder
+
+The grammatical refinement: the act remains owned. The identity refuses the act as the totality. "I am all of my actions" -- accountability is unconditional. "And I am everything beyond that as well" -- the act is part of the person, not the whole of the person.
+
+Émile's response confirms the distinction: "This isn't a conversation about, like, I'm not accountable for killing a man. I am accountable for killing a man. I will always be accountable for killing a man."
+
+The work is to hold both at once. The act is yours. The act is not the totality of you. Both are true. Collapsing into either pole alone produces a failure -- the first into the worst-act identity that prevents change, the second into the bypass that prevents accountability.
 
 ## Why the Worst-Act Identity Prevents Change
 
@@ -125,3 +139,4 @@ Emile holds it with the specific firmness of someone who has done the time: "I f
 ## Sources
 
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast; Brett's both/and framing about not bypassing the act while refusing the identity-collapse)

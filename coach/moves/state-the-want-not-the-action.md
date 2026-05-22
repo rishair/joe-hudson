@@ -5,7 +5,7 @@ title: "State the Want, Not the Action"
 aliases: ["I want and need X", "say the want instead of giving the action", "drop the assigned action", "leader's want instead of the action item", "stop assigning actions", "I want X instead of you do X", "want over action item", "the I want and need move"]
 tags: ["leadership", "wants", "delegation", "live move", "workplace", "agency"]
 related: ["wants-vs-partiality", "the-want", "sublimated-wants-become-politics", "tell-them-like-an-asshole", "structure-and-empowerment", "no-doctrine-leadership", "community-over-teacher", "follow-the-demand", "name-your-trigger-as-vulnerability"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # State the Want, Not the Action
@@ -109,3 +109,4 @@ Plain. The "I want and need X" is delivered as a statement of fact, not a reques
 ## Sources
 
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

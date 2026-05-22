@@ -5,7 +5,7 @@ title: "Inherent Goodness"
 aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants", "letting go of shame reveals goodness", "shame requires the belief you are not inherently good"]
 tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
 related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want", "if-i-were-inherently-good", "shame-as-disconnection", "natural-shame-vs-installed-shame", "dont-shame-kids-they-self-shame"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Enjoy Over Manage"]
 ---
 
 # Inherent Goodness
@@ -23,6 +23,12 @@ If a person wants an active, enjoyable, fulfilling life, and believes they want 
 This principle operates at every level:
 
 **In parenting:** Joe raised two children without punishment. No grounding, no timeout, no consequences. He and his wife trusted that their children wanted to be connected, and that when connected to themselves, they would show up thoughtfully and lovingly. "We never said to them, you're a bad person, you're naughty and we need to control that naughtiness. So they never believed that they were naughty. They just saw that we saw them as good, and they ended up as good." -- Joe Hudson, Enjoy over Manage
+
+The empirical evidence: the children turned out well-regarded by everyone who met them. People ask Joe and his wife how they raised the kids. The result is observable, not theoretical.
+
+"My kids are amazing kids. It's so palpable that when people come, they're like, 'Oh wow, you have amazing children. How did you raise them?' That question gets asked all the time... It's what we trusted in. That they wanted to be connected with us. We trusted that they wanted to be connected with themselves. And when they were connected with themselves, they would show up thoughtfully and lovingly and with care. And that's what they did." -- Joe Hudson, Enjoy Over Manage
+
+The boundary condition: this approach works because the children were trusted from the start. With adults who have internalized "I am naughty" for years, the same approach would take far longer to land. Joe is explicit that he is not suggesting walking into a maximum-security prison and treating everyone as inherently good without preparation. The friction would be enormous because the belief is so calcified. But in general, the way to walk through life is to find what is motivating people, find what they want to do, and follow that flow rather than imposing what you want them to do.
 
 **In management:** Any boss who micromanages also micromanages themselves. The external projection is the internal relationship made visible. A manager who trusts their own inherent goodness trusts their employees. One who fears their own impulses fears their employees' impulses. See [[impartiality]].
 
@@ -123,3 +129,4 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_Enjoy Over Manage

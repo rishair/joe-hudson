@@ -5,7 +5,7 @@ title: "Three Signals of an Unfelt Emotion"
 aliases: ["three signals", "looping thought judgment indecision", "diagnostic signals of unfelt emotion", "how to know there's unfelt emotion", "the three diagnostics"]
 tags: ["diagnostics", "emotions", "reads", "patterns", "decision making"]
 related: ["unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # Three Signals of an Unfelt Emotion
@@ -31,6 +31,12 @@ A common surface form: "Should I do X or not do X?" running repeatedly with no r
 ### Lack of Clarity in Decisions
 
 This is the externalized version of the recursive loop. Clear decisions require clean emotional data. When an emotion is being avoided, the data is contaminated by the avoidance. The person cannot tell what they want because the wanting is mixed with the not-wanting-to-feel. See [[decisions-are-emotional]].
+
+Clients who learn this signal often report recognizing it retroactively in years of stuck decisions. Carla Piñeyro Sublett, a CMO who suppressed emotion for decades as a survival strategy in corporate America, describes how she eventually noticed the pattern:
+
+"I started to realize that decision-making became difficult. I started to loop and get stuck. And I learned through this work that that was a sign of emotion that needed to be moved. And it was extremely clearing for me once I had let myself have access, once I learned to have access to things like fear and grief and anger. It was immensely clarifying, and it enabled me to make better decisions." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+The recognition matters: the difficulty in deciding was not a deficiency in her analytic capacity. It was the body trying to push an unfelt emotion through. Once she gave the emotion access, the decision clarified. The clarification was not the result of more thinking. It was the result of less suppression.
 
 ### Judgment of Another Person
 
@@ -83,3 +89,5 @@ The work is feeling the emotion, not solving the content. Once the emotion moves
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

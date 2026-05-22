@@ -5,7 +5,7 @@ title: "Empathy vs. Sympathy"
 aliases: ["sympathy is not empathy", "above vs beside", "helping vs being with", "saving vs supporting"]
 tags: ["empathy", "VIEW", "connection", "coaching"]
 related: ["empathy", "caring-vs-caretaking", "fixing-people", "losing-yourself-in-others"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
 ---
 
 # Empathy vs. Sympathy

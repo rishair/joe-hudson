@@ -5,14 +5,14 @@ title: "Predator or Prey (Joe's Head Start in Hayes Valley)"
 aliases: ["Joe's Head Start story", "Hayes Valley story", "predator or prey", "if you show fear you're prey", "Joe teaching Head Start in San Francisco", "the no-fear culture story", "nobody shows fear here", "the survival logic of no-fear culture"]
 tags: ["fear", "culture", "no-fear culture", "prey", "predator", "survival", "story"]
 related: ["everyone-is-pretending", "im-not-an-anxious-person", "two-words-for-fear", "emile-three-relationships-with-fear", "welcoming-fear-in-leadership"]
-sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Predator or Prey (Joe's Head Start in Hayes Valley)
 
 ## The Story
 
-Just out of college, Joe taught Head Start in the Hayes Valley Projects in San Francisco. He noticed something that did not match what he had been taught about culture: nobody showed any fear. Not the men, not the women, not the children. The absence was striking.
+Just out of college, Joe taught Head Start in the Hayes Valley Projects in San Francisco. He was also living in East Oakland at the time (47th and San Leandro) during the same late-1990s period when Émile DeWeaver was selling drugs near 106th and MacArthur a few miles south. The neighborhoods were both severe; people in Joe's part said Émile's was worse. Joe was teaching Head Start across the Bay during the days. He noticed something that did not match what he had been taught about culture: nobody showed any fear. Not the men, not the women, not the children. The absence was striking.
 
 He asked someone about it. The answer made the structure visible:
 
@@ -68,3 +68,4 @@ Joe tells this without judgment of the people he was teaching. The respect for t
 ## Sources
 
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Emile DeWeaver (rebroadcast; the East Oakland geographic detail of Joe living at 47th and San Leandro during the same period)

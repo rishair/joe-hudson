@@ -5,7 +5,7 @@ title: "Acting As If Your Vision Is Already True"
 aliases: ["live the vision now", "be the change already", "visionary action", "as if reality", "the world bends toward your truth"]
 tags: ["empowerment", "vision", "leadership", "truth", "principles"]
 related: ["empowered-vs-power", "principles-free-you", "vulnerability", "process-over-result", "feared-consequences-rarely-happen"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power"]
 ---
 
 # Acting As If Your Vision Is Already True

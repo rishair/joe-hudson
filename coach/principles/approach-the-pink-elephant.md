@@ -5,7 +5,7 @@ title: "Approach the Pink Elephant First"
 aliases: ["pink elephant principle", "look at what you don't want to look at first", "MIT principle", "start with what you understand least", "approach the avoided thing first", "effectiveness through embracing intensity"]
 tags: ["effectiveness", "leadership", "marriage", "decision-making", "intensity"]
 related: ["embrace-intensity", "embrace-vs-brace", "feel-over-figure", "decisions-are-emotional", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-10-26_Embracing Intensity"]
 ---
 
 # Approach the Pink Elephant First
@@ -83,3 +83,4 @@ Matter-of-fact, almost obvious. Joe presents this as a basic feature of how effe
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-10-26_Embracing Intensity (re-recording where Joe extends the principle from project to CEO to marriage with the "approach immediately, as quickly as you can" emphasis)

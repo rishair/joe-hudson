@@ -5,7 +5,7 @@ title: "Don't lose yourself in others' emotions"
 aliases: ["merging with emotions", "codependent empathy", "lost in the other person", "empathic merging", "over-empathizing"]
 tags: ["empathy", "VIEW", "boundaries", "mirror neurons", "codependence"]
 related: ["empathy", "is-this-mine", "staying-in-your-body", "empathy-vs-sympathy", "caring-vs-caretaking"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
 ---
 
 # Don't lose yourself in others' emotions

@@ -5,7 +5,7 @@ title: "Freedom to Be Worthless"
 aliases: ["meaningless conversation story", "need to be valuable", "I was so critical to my sense of self that I had to be valuable"]
 tags: ["empathy", "self-worth", "emotions", "freedom"]
 related: ["empathy", "feeling-the-unfelt-emotion"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
 ---
 
 # Freedom to Be Worthless

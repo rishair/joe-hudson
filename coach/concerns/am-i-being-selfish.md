@@ -4,7 +4,7 @@ id: am-i-being-selfish
 title: "Am I being selfish? / I don't want to be selfish"
 aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting", "I felt like it was self-indulgent", "self-indulgent", "doing this work feels self-indulgent", "therapy feels self-indulgent", "I don't have time for this kind of self-focus"]
 tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming", "self-indulgent"]
-sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # Am I being selfish? / I don't want to be selfish
@@ -111,3 +111,4 @@ This is why the coaching does not need to police the surface wants. The wants se
 - 2021-11-19_What is Selfishness?
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

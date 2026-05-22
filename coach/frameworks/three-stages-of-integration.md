@@ -4,8 +4,8 @@ id: three-stages-of-integration
 title: "Three Stages of Integration"
 aliases: ["stages of integration", "surprise recognition mastery", "baby hand metaphor", "primary and tertiary reaction"]
 tags: ["development", "integration", "learning", "transformation"]
-related: ["integration", "epiphany-vs-transformation", "late-stage-reversion", "process-over-result"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+related: ["integration", "epiphany-vs-transformation", "late-stage-reversion", "process-over-result", "simplicity-on-the-other-side-of-complexity"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Three Stages of Integration
@@ -26,6 +26,16 @@ The new thing is identified as real and as belonging to the person. Understandin
 
 **Stage 3: Mastery (It's just normal)**
 The new capacity is integrated into ordinary functioning. It no longer requires conscious effort. The baby uses its hand without thinking about it. A 3-year-old walks without excitement or awareness of walking.
+
+## The Piaget Frame
+
+The three-stage pattern maps onto what Piaget called primary, secondary, and tertiary circular reactions in infant development. Joe references the terminology to ground the framework: this is not Joe's invention. It is a documented pattern in how human beings acquire new capacities, observable from the first weeks of life.
+
+"Piaget calls this like, I think, primary, secondary, and tertiary circular reaction, I think is the terminology for it. But that doesn't happen just with the use of our hands. It happens like when people like fully access for the first time, let's say, their emotional intelligence or their somatic intelligence or their awareness." -- Joe Hudson, Embarking On The Journey
+
+This matters because adults often expect adult learning to bypass the unclear-to-clear progression. A person has an awakening, cannot articulate it, tries to reconstruct everything they previously believed, and treats the disorientation as a problem. The Piaget mapping says: this is the same sequence the body went through with its own hand at three months old. The disorientation is not a glitch. It is stage one. There is nothing to fix; there is something to allow.
+
+The application to awakening specifically: "Oftentimes they can't even talk. They're like, 'What's going on?' And they like try to reconstruct their life because they're like, 'Well, everything I believed is gone. What the hell's going on?' And that's the way it works. It's like they've walked into this new world that they can't control and they can't even identify the parts of. But slowly you just hang out in the world and everything takes care of itself just like it does with an infant." -- Joe Hudson, Embarking On The Journey
 
 ## In Practice
 

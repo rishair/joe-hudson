@@ -5,7 +5,7 @@ title: "Familiar Over Safe"
 aliases: ["choosing familiar over safe", "addiction to trauma", "homeostasis seeking", "cell seeking homeostasis"]
 tags: ["trauma", "patterns", "attachment", "repetition"]
 related: ["trauma-mapping", "feeling-the-unfelt-emotion", "pleasure-capacity", "engineering-heartbreak-to-avoid-heartbreak", "embrace-intensity"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-10-26_Embracing Intensity"]
 ---
 
 # Familiar Over Safe
@@ -48,3 +48,5 @@ This is also why the recreation often involves engineering, not passive attracti
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
+- 2021-10-08_Embracing Intensity - Emotion Series #2 (the cell-seeking-homeostasis framing)
+- 2022-10-26_Embracing Intensity (re-recording with the same cell-homeostasis framing; Brett extends with the electric-fence parallel)

@@ -5,7 +5,7 @@ title: "Five Principles of the Path"
 aliases: ["5 principles", "principles of the path", "how to walk the path", "approach to transformation", "loving accountability embrace intensity iteration curiosity connection"]
 tags: ["transformation", "framework", "development", "approach"]
 related: ["embrace-intensity", "wonder", "resistance", "process-over-result", "enjoyment-as-path", "vulnerability"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Five Principles of the Path
@@ -52,6 +52,8 @@ See [[wonder]]. Fear and curiosity cannot coexist. When running from a tiger in 
 
 Curiosity is bidirectional: turning on fear reduces curiosity, and turning on curiosity reduces fear. This is why [[conditions-for-transformation]] emphasizes safety: fear blocks learning. But curiosity is also a tool to reduce fear when it appears.
 
+The boundary condition: curiosity does not apply when you are actually in fear for your life. The nervous system has its reasons for not making you curious about a tiger that is chasing you. The principle is about ordinary fear: fear of being fired, fear of how a conversation will go, fear about a decision. In those cases, curiosity is far more enjoyable and far more productive than worry. "Being curious about being fired is far more enjoyable than worrying about being fired." -- Joe Hudson, Embarking On The Journey
+
 ### 5. Connection
 
 Staying in contact with each other, with yourself, with your body. Connection is not agreement or closeness. It is touching. Can I touch into the emotion? The pain? Into you? Into the part of me I do not want to see?
@@ -59,6 +61,10 @@ Staying in contact with each other, with yourself, with your body. Connection is
 "It's what allows the tree to evolve. It's what allows us to evolve. Is connection." -- Joe Hudson, Embarking on the Journey
 
 This is not the same as [[empathy]], though they overlap. Connection here means literal contact: maintaining the point of touch even when the content is uncomfortable.
+
+The contact framing matters for clients who report dissociation. When a person says "I can't feel anything in my body, all I have is disassociation," connection does not require feeling. It requires touching. The smallest gesture toward the difficult thing is the work. Can I just touch into the emotion? Can I just touch into the pain? Can I just touch into the part of me I am not proud of? Can I just touch into the part of me that is proud? Each touch is connection in its minimum viable form.
+
+"Contact means literally like touching. It's just like to have that point of contact." -- Joe Hudson, Embarking On The Journey
 
 ## How the Five Interact
 

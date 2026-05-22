@@ -5,7 +5,7 @@ title: "Connection"
 aliases: ["being in connection", "state of connection", "the connection state", "what connection is", "connection as a meta-state", "being in touch with what is", "felt sense of connection", "connection beyond states"]
 tags: ["connection", "presence", "view", "core-concept", "foundation"]
 related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "connection-over-perfection", "connection-as-family-metric", "container-of-love", "love-as-deep-welcoming", "four-faces-of-love", "embrace-intensity", "no-finish-line"]
-sources: ["2022-04-29_Connection- A State Beyond States"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection Over Perfection", "2022-10-26_Connection- A State Beyond States"]
 ---
 
 # Connection
@@ -37,6 +37,18 @@ The instruction Joe offers: close your eyes and feel a moment when you were sad 
 "There is a visceral feeling that tells you when you have a sense of connection. It's like I said, a state that is beyond states." -- Joe Hudson
 
 When emotion arises and is met with connection, it moves on its own. When emotion arises and is met with disconnection, it stays stuck. The movement is the diagnostic. See [[feeling-the-unfelt-emotion]] and [[emotional-fluidity]] for the mechanism.
+
+## The Neurochemistry of Connection
+
+Connection has a measurable neurochemical signature. Two compounds carry it: oxytocin and serotonin. Oxytocin is the primary one. It is released during breastfeeding, during hugging, during sex, during the moments most people would immediately recognize as deep connection.
+
+Serotonin carries a complementary aspect of connection: pride in the other, meaning, and satiety. The clearest example is watching a friend have a moment of accomplishment and feeling pride that is not about the self. That pride is serotonin doing the work of connection.
+
+"Neurochemically, it is oxytocin and serotonin. Mostly it's oxytocin, which is the drug that is felt when we're in deep connection, when mothers feel it when they're breastfeeding, and we feel it when we're hugging, and we feel it during sex. And serotonin is more of like a pride, proud of each other drug, and something that you would feel like if you were watching a friend have a great moment, you had a lot of pride in what they had just accomplished. Those are our connection neurochemicals." -- Joe Hudson, Connection Over Perfection
+
+The reason this matters operationally: the human nervous system is built to seek connection, not perfection. The neurochemicals propel humans toward connection because connection is the survival strategy the species was built for. Working with this design produces both better results and deeper satisfaction. Working against it (chasing perfection, optimizing performance metrics that have no connection signal in them) fights the underlying chemistry.
+
+This is also why prioritizing connection produces such consistent results across domains: the design of the nervous system is already on the side of the practice. See [[connection-as-life-bottom-line]].
 
 ## Connection Does Not Depend on Anyone Else
 
@@ -105,6 +117,18 @@ The "practice" level: the felt sense of connection requires attention. The capac
 
 The instruction is not to choose one level. Both are operating. The recognition that connection is always there releases the urgency. The practice cultivates the capacity to feel it.
 
+## How to Return After a Drop
+
+The return after a drop is simpler than people expect. Two moves: notice and be grateful.
+
+The noticing is not a search for a missing state. It is the recognition that the connection was always here. The wondering "am I in connection?" is itself a form of presence. As soon as the question forms, the connection has already returned.
+
+"Even right now, if you feel into this moment, you can feel your connection. It's always there and you can be grateful for it. Easy peasy lemon squeezy." -- Joe Hudson
+
+The gratitude does the rest. Receiving the connection that was already there deepens it without requiring any further work. See [[notice-and-be-grateful-for-connection]] for the practice form. Effort to retrieve connection produces more disconnection; the practice is a recognition, not a retrieval.
+
+Many other re-entry routes exist -- meditation, body, exercise, prayer, metta, community service -- and all of them help. None are required. The minimum viable practice is the noticing.
+
 ## When Someone Experiences This
 
 - Their body relaxes, energy expands, and the field around them becomes wider.
@@ -139,6 +163,7 @@ Other mechanisms: trying to control the other person's state, trying to make a f
 - Toward [[tension-return-to-love-cycle]] when the person is conflating connection with absence of difficulty.
 - Toward [[no-finish-line]] when the loss-of-connection mechanism is future-orientation.
 - Toward [[would-you-sell-your-ability-to-connect]] when the person needs to feel its worth.
+- Toward [[notice-and-be-grateful-for-connection]] as the minimum viable re-entry practice after a drop.
 - Toward gratitude as the simplest re-entry: just be thankful for the connection that is always available.
 
 ## Boundary Conditions
@@ -150,3 +175,5 @@ Connection is not merger. Two people in connection retain their separate truths,
 ## Sources
 
 - 2022-04-29_Connection: A State Beyond States
+- 2022-10-26_Connection Over Perfection (the neurochemistry of connection: oxytocin and serotonin)
+- 2022-10-26_Connection: A State Beyond States (the noticing-and-gratitude re-entry; "even the desire for connection is a form of connection"; the all-courses-point-to-connection meta-frame)

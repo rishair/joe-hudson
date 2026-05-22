@@ -5,7 +5,7 @@ title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern", "codependence vs care", "managing emotions vs supporting"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior", "codependence"]
 related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice", "resentment-as-caretaking-diagnostic", "softening-as-caring-diagnostic", "you-think-they-cant-handle-it", "rehearsing-how-to-say-it", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # Caring vs. Caretaking
@@ -243,3 +243,4 @@ The follow-up Joe asks when someone finally breaks through into their want: "And
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

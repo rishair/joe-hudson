@@ -5,7 +5,7 @@ title: "Community Over Teacher"
 aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group", "the teacher pointing back to the student", "people creating their own tools from their consciousness"]
 tags: ["community", "learning", "development", "teaching", "integration"]
 related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle", "subjugation-prevents-healing", "cult-of-one", "keeping-cult-dynamics-conscious", "surrender-to-ineffable-vs-person"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # Community Over Teacher
@@ -92,3 +92,4 @@ This connects directly to [[become-unnecessary]]. The teacher's tools, when held
 - 2021-06-04_The Business Behind our Courses
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

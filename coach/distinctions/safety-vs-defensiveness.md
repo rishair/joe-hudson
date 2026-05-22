@@ -5,7 +5,7 @@ title: "Safety vs. Defensiveness"
 aliases: ["unsafe vs defensive", "feeling unsafe vs feeling defensive", "threat vs rigidity"]
 tags: ["safety", "body awareness", "transformation", "conditions"]
 related: ["conditions-for-transformation", "staying-in-your-body", "emotions-live-in-muscles"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Embarking On The Journey"]
 ---
 
 # Safety vs. Defensiveness

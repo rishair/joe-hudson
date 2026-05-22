@@ -5,7 +5,7 @@ title: "Connection Over Perfection"
 aliases: ["connection vs perfection", "prioritize connection", "iterate don't perfect", "connection produces better results", "perfection is the meditation killer", "perfect first date fails", "connection is the trick for great iteration", "stay connected to iterate well", "four channels of connection for iteration"]
 tags: ["connection", "productivity", "business", "relationships", "principle"]
 related: ["perfectionism", "view", "impartiality", "process-over-result", "resistance", "impulse-to-should", "spaghetti-tower-experiment", "seven-limiting-beliefs", "inherent-goodness", "connection", "connection-as-life-bottom-line"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-29_Connection- A State Beyond States"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-29_Connection- A State Beyond States", "2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)", "2022-10-26_Connection Over Perfection"]
 ---
 
 # Connection Over Perfection
@@ -105,3 +105,4 @@ In the Art of Accomplishment framework, choosing perfection over connection is o
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-04-29_Connection: A State Beyond States (connection as the bottom-line operating principle for a life)
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode) (the four-channel connection that makes iteration generative)
+- 2022-10-26_Connection Over Perfection (rebroadcast of the 2021-02-13 master class)

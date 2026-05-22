@@ -5,7 +5,7 @@ title: "A Leader's Wants Are the Organization's Wants"
 aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information", "the CEO who hides fear destroys trust", "leader hiding feelings is leader hiding wants"]
 tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability", "trust"]
 related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want", "trust-as-multifaceted", "welcoming-fear-in-leadership", "functional-team"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
 ---
 
 # A Leader's Wants Are the Organization's Wants
@@ -129,3 +129,4 @@ Direct and serious. The reframe is a significant inversion of how most leaders h
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-10-26_Building A Functional Team
+- 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)

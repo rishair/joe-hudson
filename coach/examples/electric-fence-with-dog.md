@@ -5,7 +5,7 @@ title: "The Electric Fence with the Dog"
 aliases: ["electric fence metaphor", "dog and the electric fence", "the invisible fence", "the dog won't cross", "freedom on the other side of the fence", "the dog that runs through quickly", "running through the fence"]
 tags: ["metaphor", "avoidance", "conditioned avoidance", "trauma", "freedom", "shame", "addiction"]
 related: ["embrace-intensity", "embrace-vs-brace", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "trauma-mapping", "kinked-emotions", "shame-as-disconnection", "addiction-to-shame", "the-shame-avoidance-loop", "natural-shame-vs-installed-shame"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Embracing Intensity"]
 ---
 
 # The Electric Fence with the Dog
@@ -100,3 +100,4 @@ Joe's answer: do not run through the fence. Turn the fence off instead. Investig
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_Embracing Intensity (re-recording where Brett introduces the metaphor again; Joe extends with the touching-the-fence-doesn't-harm-you framing)

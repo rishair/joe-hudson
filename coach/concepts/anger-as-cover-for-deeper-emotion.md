@@ -4,8 +4,8 @@ id: anger-as-cover-for-deeper-emotion
 title: "Anger as Cover for a Deeper Emotion (and Vice Versa)"
 aliases: ["anger covering grief", "anger as default emotion", "anger over hurt", "anger over fear", "anger over helplessness", "recycling anger means deeper emotion", "anger as cover", "anger as defense against hurt", "the emotion underneath anger", "anger under hurt", "hurt under anger", "the bidirectional layering of anger and hurt", "under anger is hurt under hurt is anger", "sadness covering anger", "crying as cover for anger", "crying doesn't resolve because anger underneath"]
 tags: ["anger", "grief", "hurt", "fear", "emotions", "diagnostics", "defense", "sadness"]
-related: ["anger", "visceral-clarity-from-anger", "three-things-that-go-wrong-when-releasing-anger", "feeling-the-unfelt-emotion", "kinked-emotions", "negative-emotions-precede-positive", "dont-jump-to-compassion-before-anger"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+related: ["anger", "visceral-clarity-from-anger", "three-things-that-go-wrong-when-releasing-anger", "feeling-the-unfelt-emotion", "kinked-emotions", "negative-emotions-precede-positive", "dont-jump-to-compassion-before-anger", "emile-three-relationships-with-fear", "everyone-is-pretending"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Emile DeWeaver"]
 ---
 
 # Anger as Cover for a Deeper Emotion
@@ -110,6 +110,20 @@ The move: when crying isn't resolving, check for the anger. Often the anger is h
 
 This is also why some people get the diagnosis "you have so much sadness" and spend years working on the sadness without anything actually shifting. The sadness work was real and useful but incomplete. The anger underneath was the unfelt material that kept the sadness pattern in place.
 
+## The Childhood-Installed Form: Manufactured Anger to Cover Fear
+
+The cover-pattern can be installed in childhood as the primary survival strategy, not just as a default that develops after years of anger work. A child in an environment that forbids fear (a hyper-masculine family, a violent neighborhood, a no-fear culture; see [[everyone-is-pretending]]) discovers that anger overrides the fear, and the discovery becomes the default.
+
+Émile DeWeaver's account of this discovery, formed at a young age in an environment where showing fear marked him as weak:
+
+"From that moment, I was like, oh, there's this way that I can cover up fear and cover up this sense of inadequacy I have through anger... I felt like after that moment, understanding that that was a source of like power and safety in a way that I could like not feel afraid and so not feel the shame, I would manufacture anger and feed it and stoke it and stoke it and stoke it until I could like drive myself to like move through this fear." -- Émile DeWeaver, Life After Murder
+
+The anger in this case is not only covering fear; it is being deliberately produced for the purpose of covering fear. The system has learned to construct the anger when the fear arrives. The construction is rapid, automatic, and intelligent: the body knows exactly how to manufacture the rage that will give it cover.
+
+This is the same dynamic as the more common adult version, but with two distinctions. First, the trigger is fear specifically (rather than grief, hurt, or helplessness). Second, the cover is the primary strategy from very early, not a default that develops over time. The undoing follows the same shape (let the anger move, then meet the fear) but the cultural and developmental scaffolding around the pattern is heavier. See [[emile-three-relationships-with-fear]] for the developmental arc of dismantling this version.
+
+The extreme case of where this strategy leads when it is left to run: Émile's murder at 18 happened "out of fear and uncontrolled anger manufactured up." The mechanism is the ordinary one. The cost depended on the circumstances. In professional or relational settings the same pattern produces fights, sabotaged relationships, and outbursts that the person later cannot explain to themselves. In Émile's case it produced a death.
+
 ## The Cultural-Conditioning Variant
 
 A specific application: sadness is more socially acceptable than anger, especially for women. People who have learned that anger is dangerous or unwelcome often develop a sophisticated capacity for sadness and an underdeveloped capacity for anger.
@@ -147,3 +161,4 @@ Joe presents this matter-of-factly. The anger functioning as cover is not a mora
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_Emile DeWeaver (the childhood-installed manufactured-anger-to-cover-fear variant)
