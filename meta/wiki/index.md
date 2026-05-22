@@ -74,7 +74,7 @@
     - [ ] E-034 Head-to-head comparison of E-031, E-032, E-033, E-036 retrieval approaches
     - [ ] E-035 Iterate system prompt v4-v7 on winning retrieval architecture until eval bar met
     - [x] E-036 Coach v4: graph-walk retrieval over related: links in coach/
-    - [ ] E-037 Coach v5a: model-guided graph navigation with Haiku walker
+    - [x] E-037 Coach v5a: model-guided graph navigation with Haiku walker
     - [ ] E-038 Coach v5b: model-guided graph navigation with Sonnet walker
 
 ## Checkpoints
