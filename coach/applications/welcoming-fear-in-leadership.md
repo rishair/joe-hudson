@@ -2,10 +2,10 @@
 type: application
 id: welcoming-fear-in-leadership
 title: "Welcoming Fear in Leadership"
-aliases: ["welcoming fear at work", "leader's relationship to fear", "fear in teams", "permissioning fear", "naming fear with the team", "CEO fear", "welcoming team fear", "fear and team trust", "leader doesn't have to keep it all together", "saying I'm scared at work"]
+aliases: ["welcoming fear at work", "leader's relationship to fear", "fear in teams", "permissioning fear", "naming fear with the team", "CEO fear", "welcoming team fear", "fear and team trust", "leader doesn't have to keep it all together", "saying I'm scared at work", "the CEO patterns visible at the exit point", "fear-response patterns in leadership", "the anger CEO the helpless CEO the determined CEO"]
 tags: ["leadership", "fear", "teams", "vulnerability", "business", "CEO", "trust", "application"]
-related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability", "public-truth-bomb", "anxiety-as-unarticulated-need", "public-failure-as-leadership-modeling", "trace-emotion-to-its-first-felt"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear"]
+related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability", "public-truth-bomb", "anxiety-as-unarticulated-need", "public-failure-as-leadership-modeling", "trace-emotion-to-its-first-felt", "fear-hot-potato", "welcoming-fear-as-group-stabilizer", "read-anger-and-help-as-fear"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2024-02-02_A Workshop for Welcoming Fear"]
 ---
 
 # Welcoming Fear in Leadership
@@ -147,6 +147,40 @@ Sometimes the leader will hear the team's fear, take it seriously, investigate t
 
 This connects to [[vulnerability-in-the-workplace]]: vulnerability does not require tolerating bad behavior or making decisions by committee. It requires that the decisions be made with all the information available, including the emotional information that the suppressing leader has been throwing away.
 
+## The CEO Patterns Visible at the Exit Point
+
+A specific extension of the leadership application, drawn from Brett Kistler's Welcoming Fear retreat: when CEOs are put in physiological activation (a cliff edge, a Highline, a free-fall jump), the fear-response patterns they bring to their companies become visible in concentrated form. The patterns translate directly to how the leader behaves under workplace pressure.
+
+Brett describes the patterns seen across participants:
+
+"There's somebody who showed up and they really learned how much that when they're scared, they tend to go into anger at what they're scared at. And that's just an initial response. And they needed to move through that and feel and love the whole thing." -- Brett Kistler, A Workshop for Welcoming Fear
+
+This is the angry-CEO pattern in concentrated form. In the company: there is always something wrong, someone doing something wrong, and the CEO is attacking people. The team starts feeling fear because the CEO is not. The CEO's unfelt fear becomes the team's felt fear, distributed across all the people who now have to manage the angry leader. The team becomes unproductive, uncreative, and unable to take risks because the energy is going into managing the leader's affect.
+
+The post-recognition pattern Brett describes:
+
+"There might be a leader who's like, hey, I noticed that like when I'm scared, often I get angry. And so if you find me being angry, know that it might not be about you. It might just be that I'm scared. And I'd love an invitation to check in with myself. And I'll, of course, be tracking that in myself as well." -- Brett Kistler, A Workshop for Welcoming Fear
+
+The shift: the leader names the pattern publicly, deputizes the team to recognize it, and takes responsibility for the fear-anger conversion as their own work. The team is no longer responsible for absorbing the affect. The fear can be brought into the room as fear instead of as anger directed at people. "Oh, I'm actually just scared we're not gonna hit the numbers. Or I'm scared we're gonna lose this client. Or I'm scared we're gonna lose an employee that feels key to me." The naming dissolves the redirection.
+
+The other patterns visible at the exit point translate similarly:
+
+- **The buttoned-up leader who flips in the moment of helplessness.** Composed before and after; in the actual moment of free-fall, "they wanted to be absolutely anywhere else but here." In the company: this is the leader who handles everything except the moment when control is genuinely impossible. The recognition: "I can't unsee that that is my response to helplessness when I'm in it." The work: building capacity to be in helplessness rather than escaping it. See [[helplessness-is-the-gateway]].
+- **The grim-determination leader.** Once geared up, they go; the processing happens after, often as a large emotional release. In the company: the executor who runs hard and crashes hard. The recognition: post-processing is real and needed. The work: building post-action integration time into the operational cadence, rather than treating the post-crash as failure.
+- **The leader who walks away.** The participant who did not jump and "got perhaps one of the biggest growth experiences out of it." Their initial pattern was shame and self-flagellation about the no. The breakthrough was seeing that the deepest freedom for them was in walking through the social fear of being the person who chose not to jump. In the company: the leader who is paralyzed by other people's opinions. The recognition: the freedom is in not taking so seriously what people think of them. See [[approach-and-say-no-with-group-honoring]] for the related practice and [[no-doctrine-leadership]] for the broader application.
+
+Brett's summary of what he would hand a CEO as the most useful gift:
+
+"If there's one thing that I would love to like just hand as an epiphany gift to a new CEO or an experienced CEO, you know, it would be that. Or to my, to myself as a CEO." -- Brett Kistler, A Workshop for Welcoming Fear
+
+The "that" he is referring to is the participant who had a giggle fit about no longer needing to take so seriously what people think of them. The most valuable thing a CEO can metabolize is often not the executional capacity but the freedom from the audience-anxiety that distorts every decision.
+
+## The Fear Hot Potato in the Team
+
+The leadership application connects directly to [[fear-hot-potato]]. The angry-CEO pattern is a hot-potato throw: the CEO's unfelt fear is being installed in the team through the anger. The team now feels the fear. Some team members throw it back through defensiveness or counter-anger; others absorb it as a chronic carrier role; either way, the team's energy goes into managing the affect rather than into the work.
+
+The structural alternative for teams is the same as [[welcoming-fear-as-group-stabilizer]] for groups: name the fear as a shared condition, have each person hold their own, build the team's capacity to support individual fear-feeling without consolidating it in one carrier. This is hard to install in ordinary workplaces but possible. The retreat conditions are easier; the workplace conditions are harder; the principles are the same.
+
 ## What Changes for the Leader
 
 When a leader makes this shift, the person-level changes show up first:
@@ -182,3 +216,4 @@ When a leader makes this shift, the person-level changes show up first:
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
+- 2024-02-02_A Workshop for Welcoming Fear (the CEO patterns visible at the exit point: anger, control-loss-in-helplessness, grim-determination, and the leader-who-walks-away; the angry-leader-naming-the-pattern as the post-recognition workplace move)

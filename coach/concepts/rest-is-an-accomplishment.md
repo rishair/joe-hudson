@@ -2,10 +2,10 @@
 type: concept
 id: rest-is-an-accomplishment
 title: "Rest Is an Accomplishment (Not the Absence of One)"
-aliases: ["rest is an accomplishment", "resting well is a skill", "rest as accomplishment", "becoming the best at resting", "rest as aesthetic", "rest as art", "resting is hard", "how do we measure how well you're resting", "are you going to be the best at resting", "rest as something you do well", "the resting flip", "rest-as-accomplishment hack", "Olympic athletes recover well", "the secret of Olympic athletes", "best athletes know how to recover", "the recovery skill", "rest is a skill not a default", "tiredness is the recovery signal", "welcoming the tiredness", "the sensation of tiredness is the body asking to rest", "sleep is a feeling of tiredness", "tiredness as reparative not wrong"]
+aliases: ["rest is an accomplishment", "resting well is a skill", "rest as accomplishment", "becoming the best at resting", "rest as aesthetic", "rest as art", "resting is hard", "how do we measure how well you're resting", "are you going to be the best at resting", "rest as something you do well", "the resting flip", "rest-as-accomplishment hack", "Olympic athletes recover well", "the secret of Olympic athletes", "best athletes know how to recover", "the recovery skill", "rest is a skill not a default", "tiredness is the recovery signal", "welcoming the tiredness", "the sensation of tiredness is the body asking to rest", "sleep is a feeling of tiredness", "tiredness as reparative not wrong", "biathlete 7 hours of TV", "Norwegian biathlete rest example", "rest as the underrated half of performance", "rest as integration not absence of work"]
 tags: ["burnout", "rest", "recovery", "concept", "self-talk", "achievement-orientation"]
-related: ["nervous-system-recovery-after-stress", "burnout-cycle", "im-burned-out", "energy-management-over-time-management", "efficiency-as-enjoyment", "post-rest-second-wind-trap", "should-as-threat", "wisdom-of-each-emotion"]
-sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle"]
+related: ["nervous-system-recovery-after-stress", "burnout-cycle", "im-burned-out", "energy-management-over-time-management", "efficiency-as-enjoyment", "post-rest-second-wind-trap", "should-as-threat", "wisdom-of-each-emotion", "activation-release-rest-cycle", "inner-critic-prevents-rest-and-integration", "biathlon-athlete-7-hours-tv"]
+sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-02-16_'WTF Is A Nervous System?' With Jonny Miller"]
 ---
 
 # Rest Is an Accomplishment
@@ -57,6 +57,28 @@ The observation: the people who actually perform at the highest level are not th
 
 This generalizes outside of sport. The CEO who works hard and recovers poorly is an amateur in the same sense.
 
+## The Norwegian Biathlete Watching 7 Hours of TV a Day
+
+A specific instance Joe brings up to land the point: one of the world's top biathletes (cross-country skiing combined with rifle shooting) told Joe that 7 hours of his day was spent sitting and watching television. Not the most refined form of rest. But the discipline of the rest itself was what made him a gold medalist.
+
+"I do really intense workouts, but I do a tremendous amount of resting so that I can be at top performance." -- the biathlete, paraphrased by Joe Hudson, 'WTF Is A Nervous System?' With Jonny Miller
+
+The biathlete is a useful witness because his sport requires both sustained cardiovascular output (skiing) and fine motor precision under load (shooting). A person who hasn't recovered cannot shoot well, no matter how much they trained. The sport itself rewards recovery skill as much as training intensity. See [[biathlon-athlete-7-hours-tv]] for the fuller treatment.
+
+The application to inner work is direct: a lot of people underestimate how important the rest and not-doing is in doing any kind of self-transformation. The breakthroughs and insights are the activation and release. The integration that turns them into lasting change happens in the rest. A person doing intense inner work without protected rest is in the same position as an athlete who trains hard and recovers poorly. The work is happening. The integration is not.
+
+## Rest Is Where the Neuroplasticity Window Opens
+
+The mechanistic reason rest is load-bearing: integration of the experience into the system requires a window of neuroplasticity, and that window opens in the rest phase, not the activation or release phases. State becomes trait through the body settling into a regulatory phase where the rewiring can happen.
+
+"There's roughly a 5-hour window of neuroplasticity, which if someone is able to rest deeply after an experience like that, then whatever emerged will kind of go from a state to a trait. It'll get rewired." -- Jonny Miller, 'WTF Is A Nervous System?' With Jonny Miller
+
+This is the structural reason why people can have massive breakthroughs in breathwork, in psychedelic experiences, in coaching sessions, in retreats — and have nothing change in their life afterward. The activation happened. The release happened. The rest didn't. The window closed without the rewiring occurring. The state never became a trait.
+
+It's also the reason why working with [[inner-critic-prevents-rest-and-integration]] tends to accelerate everything else the person is doing. When the voice softens, the body can finally settle into the rest phase, the integration window actually opens, and the work that was previously not sticking starts to take hold.
+
+See [[activation-release-rest-cycle]] for the full picture of how this fits into the stress cycle.
+
 ## When Someone Experiences This
 
 - When you have just stopped a long stretch of work (sold the company, finished the project, started a long vacation) and find yourself unable to rest.
@@ -104,3 +126,4 @@ Light, slightly playful, with the energy of "let me show you a fun trick." Joe n
 
 - 2023-09-01_The Burnout Cycle
 - 2023-09-08_The Burnout Cycle
+- 2024-02-16_'WTF Is A Nervous System?' With Jonny Miller

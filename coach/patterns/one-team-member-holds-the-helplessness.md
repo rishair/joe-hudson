@@ -4,7 +4,7 @@ id: one-team-member-holds-the-helplessness
 title: "One Team Member Holds the Helplessness (And Gets Rejected for It)"
 aliases: ["one person holds the helplessness for the team", "the helplessness scapegoat", "team helplessness consolidation", "one person holds the unfelt emotion", "the helplessness carrier on a team", "team helplessness pattern", "why teams reject the truth-teller", "the canary in the team", "consolidating the unfelt", "the carrier of the team's unprocessed emotion", "team denial and the helplessness carrier"]
 tags: ["pattern", "teams", "helplessness", "scapegoat", "denial", "leadership", "burnout", "team dynamics"]
-related: ["helplessness-as-cayenne-pepper-of-fear", "helplessness-is-the-gateway", "scapegoat-as-marriage-stabilizer", "team-feels-oppressed-not-accountable", "signs-of-a-dysfunctional-team", "unfelt-emotion-leaks", "sublimated-wants-become-politics", "reducing-overwhelm-in-organizations", "leaders-calm-becomes-the-teams-calm"]
+related: ["helplessness-as-cayenne-pepper-of-fear", "helplessness-is-the-gateway", "scapegoat-as-marriage-stabilizer", "team-feels-oppressed-not-accountable", "signs-of-a-dysfunctional-team", "unfelt-emotion-leaks", "sublimated-wants-become-politics", "reducing-overwhelm-in-organizations", "leaders-calm-becomes-the-teams-calm", "fear-hot-potato", "shame-hot-potato", "welcoming-fear-as-group-stabilizer"]
 sources: ["2023-07-21_Helplessness- The Cayenne Pepper of Fear — Emotion Series #12", "2023-07-27_Helplessness： The Cayenne Pepper of Fear"]
 ---
 

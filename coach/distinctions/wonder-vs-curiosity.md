@@ -5,7 +5,7 @@ title: "Wonder vs. Curiosity"
 aliases: ["wonder not curiosity", "why wonder instead of curiosity", "open vs narrowing curiosity"]
 tags: ["VIEW", "wonder", "curiosity", "presence"]
 related: ["wonder", "view", "five-principles-of-the-path", "wrestle-with-your-principles"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Introduction to VIEW", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Introduction to VIEW", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14"]
 ---
 
 # Wonder vs. Curiosity
@@ -48,3 +48,6 @@ The evolution illustrates why the word matters. Curiosity is recoverable -- you 
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-04_Wonder -- Connection Course Series #2
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2023-02-17_Wrestle With Your Principles -- Decisions Series #4
+- 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (the wonder-vs-curiosity distinction reaffirmed in the context of emotional inquiry: "you're in wonder, you're not in curiosity, meaning you're in the awe of the experience, and that's a fully embodied thing rather than in an 'I'm trying to figure you out' experience")
+- 2024-01-19_Emotional Inquiry - Emotion Series #14 (parallel transcription of the same conversation)

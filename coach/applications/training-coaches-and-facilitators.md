@@ -4,8 +4,8 @@ id: training-coaches-and-facilitators
 title: "Training Coaches and Facilitators as a Domain"
 aliases: ["training coaches", "training facilitators", "coach training", "facilitator training", "becoming a coach", "the coaching program", "how Joe trains coaches", "I want to be a coach", "coaching school", "the coach training domain", "training the trainers", "the coaches Joe trains", "what makes a good coach", "qualifications for coaching", "the coach development arc"]
 tags: ["application", "coaching", "facilitation", "training", "teaching", "self-awareness", "presence", "community-of-practice"]
-related: ["the-clients-wisdom-not-the-teachers", "community-over-teacher", "become-unnecessary", "presence-over-technique-in-coaching", "coaches-foundation-self-awareness", "own-your-narcissism", "coach-as-mirror-not-customer-service", "welcome-the-dumpster-fire-in-facilitation", "coach-personality-determines-style", "coaching-as-savior-role", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "rapid-fire-coaching-impulse-check", "pucker-and-still-say-it", "spiritual-narcissism", "downward-spiral-between-teacher-and-students", "view-as-technique", "dont-evangelize-the-work", "business-as-spiritual-practice"]
-sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice"]
+related: ["the-clients-wisdom-not-the-teachers", "community-over-teacher", "become-unnecessary", "presence-over-technique-in-coaching", "coaches-foundation-self-awareness", "own-your-narcissism", "coach-as-mirror-not-customer-service", "welcome-the-dumpster-fire-in-facilitation", "coach-personality-determines-style", "coaching-as-savior-role", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "rapid-fire-coaching-impulse-check", "pucker-and-still-say-it", "spiritual-narcissism", "downward-spiral-between-teacher-and-students", "view-as-technique", "dont-evangelize-the-work", "business-as-spiritual-practice", "teach-from-pleasure-not-mission", "first-iteration-is-irreplaceable", "feeling-yourself-beats-going-to-plan"]
+sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice", "2024-02-02_A Workshop for Welcoming Fear"]
 ---
 
 # Training Coaches and Facilitators as a Domain
@@ -136,6 +136,38 @@ When someone watches rapid-fire coaching and feels "I want to be able to do that
 
 The move is not to suppress the wanting. Joe is explicit: "I'm not suggesting by any chance any way to like sublimate a want, but just like be in it for the self-awareness and be self-aware in that want." The wanting remains; the relationship to the wanting changes. See [[rapid-fire-coaching-impulse-check]] for the full version of this move.
 
+## The Honest Motive: Teach From Pleasure
+
+A specific principle that lives inside the coaches-foundation-self-awareness gate: the most honest teaching comes from a teacher whose answer to "why are you doing this?" is some version of "I love it." Not "the world needs this." Not "to save lives." The pleasure-motivated teacher is structurally cleaner than the mission-motivated teacher because the pleasure motive is not extracting anything from the students' need.
+
+Brett Kistler, having matured past his initial savior framing for his Welcoming Fear retreat, articulates the shift:
+
+"A few years ago, I would have said a lot of what I'm doing here is about saving lives. And interestingly, I feel like that's kind of fallen away. It's like, I don't believe that I -- that anyone needs me to save them. But what I do enjoy is being with people in this exploration." -- Brett Kistler, A Workshop for Welcoming Fear
+
+Joe affirms the principle:
+
+"I love the idea that you're teaching for your own pleasure. I think that's so critical. Not to be there to save the world, not to be there because the world needs you, not to be there to save a single person. It feels to me like the most honest teachings are the ones where the teacher's like, I'm here because I love it." -- Joe Hudson, A Workshop for Welcoming Fear
+
+This principle screens for one of the three dangerous motivations: the savior pattern. The trainee who has not yet metabolized the savior motivation will teach from it whether or not they want to; the metabolization is what allows pleasure to be the actual motive. See [[teach-from-pleasure-not-mission]] for the full treatment.
+
+## The First Iteration
+
+A specific principle for trainees about to run their first retreat, workshop, or course: the first iteration has a quality the later iterations cannot reproduce. In the first iteration, the teacher is wrestling with the material themselves, in real time, as they teach it. The teaching is alive in the teacher's nervous system because the teacher does not yet have the comfort of repetition.
+
+"What I've noticed is when I do a retreat for the first time, there's a way in which it's like, the people are guinea pigs and they're getting the first version of it, which is not going to be in some ways as good as the future versions of it, but in some ways it's going to be better than any version, you know, because there's something that can happen on the first one that can't happen anywhere else." -- Joe Hudson, A Workshop for Welcoming Fear
+
+This principle counters the "wait until you're ready" instinct that keeps trainees from running their first thing. The not-yet-ready activation is part of what makes the first iteration valuable. The trainee's own work-in-real-time is the transmission. Subsequent iterations smooth and refine but lose the live aliveness. See [[first-iteration-is-irreplaceable]] for the full treatment.
+
+## The Pre-Game Frame: Feeling Yourself Beats Going to Plan
+
+A specific instruction Joe gives trainees the night before they run something for the first time:
+
+"If everything goes to shit and you're feeling yourself, it's way better than if everything goes according to plan and you're not." -- Joe Hudson, A Workshop for Welcoming Fear
+
+Brett, who received this advice the night before his first retreat, named it as the single most useful thing said to him going in. The frame released the result-orientation that would have otherwise governed his attention. With the result-orientation released, his attention was free to be with what was actually happening in the room.
+
+The frame works best as a pre-game move -- said the day before, the morning of, or the moment before stepping into the difficulty. Said in this context, it releases the gripping that would have otherwise been carried into the session. See [[feeling-yourself-beats-going-to-plan]] for the full treatment and its companion relationship with [[welcome-the-dumpster-fire-in-facilitation]].
+
 ## Boundary Conditions
 
 This application is for people training in this specific lineage of coaching, which is built on the orientation of self-awareness as the foundation. Other lineages -- skill-based coaching, accountability coaching, technique-oriented coaching -- have different structures and produce different outcomes. The principles here do not claim those other lineages are wrong; they claim that this lineage is built on this foundation, and people seeking technique training should seek it elsewhere.
@@ -166,3 +198,5 @@ This application is for people training in this specific lineage of coaching, wh
 ## Sources
 
 - 2024-01-05_Coaching as a Practice
+- 2024-01-09_Coaching As A Practice
+- 2024-02-02_A Workshop for Welcoming Fear (the teach-from-pleasure-not-mission principle as Joe's response to Brett's saving-lives motivation falling away; the first-iteration-is-irreplaceable principle as Joe's reflection on what the first cohort of any retreat gets that later cohorts cannot; the feeling-yourself-beats-going-to-plan pre-game advice Joe gave Brett the night before the first Welcoming Fear retreat)

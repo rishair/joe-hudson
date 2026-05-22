@@ -4,7 +4,7 @@ id: annihilation-reveals-what-is-real
 title: "Offer Yourself Up to Annihilation"
 aliases: ["the part of you that can't be annihilated is you", "annihilation reveals the real", "fear as direct path to freedom", "what survives annihilation is you", "fear annihilates identity-extensions", "fear as the fastest path", "fear as path to authenticity", "hurt clarifies what's taking it personally", "hurt as clarifier", "let the hurt go all the way through", "hurt clarifies who you are"]
 tags: ["fear", "self", "annihilation", "freedom", "authenticity", "self-realization", "non-dual", "hurt"]
-related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity", "peace-is-what-we-resist-the-most"]
+related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity", "peace-is-what-we-resist-the-most", "every-moment-is-an-exit-point", "story-dissolution-is-progress"]
 sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Love Over Defense"]
 ---
 
@@ -119,6 +119,22 @@ The fear of this anger is sometimes what truncates the hurt. The person stops fe
 
 Joe's response makes the principle explicit. Anger after the hurt is not a problem; it is the completion of the arc. The clarity comes through the anger, not despite it. See [[anger-as-cover-for-deeper-emotion]] for the bidirectional principle that frames this.
 
+## The Exit Point in Every Moment
+
+The annihilation principle is sometimes received as a teaching for major life events: the death of a loved one, the loss of a career, the dissolution of a marriage. The deeper application is moment-by-moment. Identity is not a stable thing that occasionally faces annihilation; it is a continually-reformed process that is, in fact, dying and being reborn in every moment.
+
+Joe makes this connection explicit in response to Brett Kistler describing the literal exit point in BASE jumping (the cliff edge from which a jumper steps off):
+
+"In spiritual development, there comes a time where you realize that every moment is a death. Every moment you're like, what you were is no longer, like, there's only the you that's here right now, that there's like a death in every moment. And it's a way to describe when the identity falls apart, when the story falls apart. And it's just very interesting to me that... every one of those is an exit point." -- Joe Hudson, A Workshop for Welcoming Fear
+
+The literal cliff edge becomes a metaphor that exposes the structure operating at all times. The BASE jumper steps off into the void; the spiritual practitioner, in ordinary life, steps off the held identity into whatever is next, repeatedly, with each present moment. The same annihilation fear arises in both. The same practice -- meeting the fear, allowing the release, discovering what remains -- applies in both.
+
+The first time this happens explicitly is terrifying. The fifth time is still scary. With enough repetitions, the fear becomes a known companion rather than evidence the practice has gone wrong.
+
+"Oftentimes the first 5, 6, 7 times you hit that exit point, there's a lot of fear that arises. And what is it to enjoy your fear in those moments of going, oh, what if my whole identity is, is, is an illusion or a, or a hallucination?" -- Joe Hudson, A Workshop for Welcoming Fear
+
+See [[every-moment-is-an-exit-point]] for the full treatment of this moment-by-moment frame.
+
 ## The Path Does Not End
 
 The annihilation principle keeps producing new fears, not as failure but as success.
@@ -166,3 +182,4 @@ See [[dont-confuse-embracing-fear-with-inviting-danger]] for the full anti-patte
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2022-10-26_Love Over Defense (the Pema Chödrön framing in the context of dropping defense)
+- 2024-02-02_A Workshop for Welcoming Fear (the moment-by-moment extension of the principle: every present moment as an exit point at which an identity-extension is dying; the "first 5, 6, 7 times" observation about the fear that accompanies the recurring exit points)

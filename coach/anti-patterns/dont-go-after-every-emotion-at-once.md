@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-go-after-every-emotion-at-once
 title: "Don't Go After Every Emotion At Once (The Type A Pitfall)"
-aliases: ["don't go after every emotion at once", "the Type A emotional inquiry pitfall", "transformation too fast becomes ungroundedness", "the type A pitfall in emotional work", "embracing emotions as an in-it-to-win-it project", "the self-reliant pitfall in emotional work", "going after every emotion produces ungroundedness", "the speed pitfall of emotional inquiry", "don't push yourself to embrace faster", "pushing to get there is another form of avoidance"]
-tags: ["anti-pattern", "emotional inquiry", "Type A", "ungroundedness", "pace", "pitfall"]
-related: ["emotional-inquiry", "embrace-intensity", "trying-to-get-rid-of-the-emotion", "no-finish-line", "manufacturing-the-feeling", "embracing-vs-creating-intensity", "wonder", "gentleness-not-trying-to-be-patient"]
-sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+aliases: ["don't go after every emotion at once", "the Type A emotional inquiry pitfall", "transformation too fast becomes ungroundedness", "the type A pitfall in emotional work", "embracing emotions as an in-it-to-win-it project", "the self-reliant pitfall in emotional work", "going after every emotion produces ungroundedness", "the speed pitfall of emotional inquiry", "don't push yourself to embrace faster", "pushing to get there is another form of avoidance", "take care of your nervous system during intensive emotional work", "rest and massage and hot baths during intensive practice", "the nervous system care prerequisite", "no rush to emotional work", "your pain will still be there"]
+tags: ["anti-pattern", "emotional inquiry", "Type A", "ungroundedness", "pace", "pitfall", "nervous system", "integration"]
+related: ["emotional-inquiry", "embrace-intensity", "trying-to-get-rid-of-the-emotion", "no-finish-line", "manufacturing-the-feeling", "embracing-vs-creating-intensity", "wonder", "gentleness-not-trying-to-be-patient", "nervous-system-recovery-after-stress", "three-stages-of-emotional-inquiry-maturity", "nervous-system-support-during-intense-inquiry"]
+sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14"]
 ---
 
 # Don't Go After Every Emotion At Once (The Type A Pitfall)
@@ -39,6 +39,20 @@ The instruction is not to do less. It is to monitor the felt sense of groundedne
 The framing is permissive. Joe is not setting a maximum pace. He is naming a signal -- ungroundedness -- and letting that signal regulate the pace.
 
 The deeper instruction is to feel the fear or urgency that is driving the campaign in the first place. That feeling is itself one of the emotions to be welcomed. Welcomed, the urgency softens. The campaign becomes inquiry. The pace becomes the body's natural pace, not the achievement-driven one.
+
+## Take Care of the Nervous System as Part of the Practice
+
+Specific concrete supports that are not optional during periods of intensive emotional work: rest, grounding, massage, hot baths. These are infrastructure, not luxuries. The body is doing real work to metabolize what the practice is releasing. Without integration time, the work outpaces the body's ability to land it.
+
+"It can create a lot of transformation very quickly. So it's really important to be taking care of yourself, grounded, massage, hot baths. Make sure your nervous system is really well taken care of if you're doing this in any kind of concentrated way." -- Joe Hudson, Emotional Inquiry - AOA's Emotional Processing Tool
+
+The framing the Type A profile most needs to hear: there is no rush. The pain is patient. The work will be there tomorrow. Pushing the pace does not produce more freedom faster; it produces a wobblier integration of whatever does land.
+
+"There's not a rush to it. Your pain's still going to be there. It's always going to be there to work on." -- Joe Hudson, Emotional Inquiry - AOA's Emotional Processing Tool
+
+This counter-instruction is structurally important because the Type A profile is constitutionally allergic to "no rush." The instruction has to be delivered as practical infrastructure -- "you actually need the bath, your nervous system actually needs the rest" -- rather than as a moral counterweight to ambition. The pace is regulated by the body's metabolizing capacity, not by patience as a virtue.
+
+See [[nervous-system-recovery-after-stress]] for the broader teaching about why the body has its own recovery clock that cannot be hurried.
 
 ## What This Looks Like in Practice
 
@@ -80,3 +94,5 @@ Joe describes this pitfall with affection -- "super Type A people who are like i
 ## Sources
 
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the explicit naming of the Type A pitfall; the ungroundedness signal; the "pushing is itself avoidance" frame; the wonder-failure diagnostic)
+- 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (the explicit nervous-system care prescription -- rest, grounding, massage, hot baths -- as infrastructure for intensive practice; the "no rush, your pain will still be there" framing as counter-instruction to Type A urgency)
+- 2024-01-19_Emotional Inquiry - Emotion Series #14 (parallel transcription of the same conversation)

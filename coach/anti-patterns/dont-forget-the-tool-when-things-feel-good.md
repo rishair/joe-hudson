@@ -5,7 +5,7 @@ title: "Don't Forget Emotional Inquiry Once Things Feel Good (The Relief-Period 
 aliases: ["don't forget the tool when things feel good", "the relief period drop", "abandoning the practice after relief", "the everything-is-fine forgetting", "the practice falls out of awareness after success", "the post-relief forgetting", "the one and done assumption about emotional work", "I felt the sadness and it's done", "transformation is not one and done", "the practice needs revisiting"]
 tags: ["anti-pattern", "emotional inquiry", "relapse", "continuity", "no finish line", "pitfall"]
 related: ["emotional-inquiry", "feeling-the-unfelt-emotion", "no-finish-line", "epiphany-becomes-rut", "quit-hope-lose-cycle", "pendulation", "trying-to-get-rid-of-the-emotion"]
-sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool"]
 ---
 
 # Don't Forget Emotional Inquiry Once Things Feel Good (The Relief-Period Drop)
@@ -81,3 +81,5 @@ The reminder is best delivered without urgency or scolding. The forgetting is st
 ## Sources
 
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the relief-period-drop framing as the third pitfall of emotional inquiry; the workshop variant from Brett's framing of "continuously becoming more open" as the actual mechanism)
+- 2024-01-19_Emotional Inquiry - Emotion Series #14 (Joe's later articulation of the same teaching: course participants returning a second time not because the first round failed but because they have become different people who will meet the same teaching from a new place; the sunset framing of the mature relationship to the practice as something one keeps returning to for its own sake)
+- 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (parallel transcription of the same conversation)

@@ -2,10 +2,10 @@
 type: principle
 id: each-emotion-has-its-own-positive-flavor
 title: "Each Emotion Allowed Has Its Own Positive Flavor"
-aliases: ["each emotion's positive flavor", "sadness creates joy", "anger creates clarity", "fear creates excitement", "helplessness creates capability", "you can enjoy negative emotions", "the deep enjoyment of negative emotions", "each emotion has a benefit", "incapacity allows capability", "fear becomes excitement", "sadness becomes joyful release", "anger becomes clarity", "each emotion's gift", "the positive flavor of each emotion", "the negative emotions aren't negative", "every allowed emotion brings something"]
-tags: ["emotions", "principle", "anger", "sadness", "fear", "helplessness", "transformation"]
-related: ["emotional-fluidity", "kinked-emotions", "wisdom-of-each-emotion", "fear-vs-excitement", "joy-as-matriarch", "feeling-the-unfelt-emotion", "helplessness-is-the-gateway", "anger"]
-sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13"]
+aliases: ["each emotion's positive flavor", "sadness creates joy", "anger creates clarity", "fear creates excitement", "helplessness creates capability", "you can enjoy negative emotions", "the deep enjoyment of negative emotions", "each emotion has a benefit", "incapacity allows capability", "fear becomes excitement", "sadness becomes joyful release", "anger becomes clarity", "each emotion's gift", "the positive flavor of each emotion", "the negative emotions aren't negative", "every allowed emotion brings something", "savoring the emotion", "emotion has a level of pleasure if you savor it", "the deep tissue massage of emotion", "the savoring of difficult emotions", "every emotion has a pleasure to it", "emotions can be savored like a deep tissue massage", "the more you enjoy the less resistance"]
+tags: ["emotions", "principle", "anger", "sadness", "fear", "helplessness", "transformation", "savoring", "pleasure"]
+related: ["emotional-fluidity", "kinked-emotions", "wisdom-of-each-emotion", "fear-vs-excitement", "joy-as-matriarch", "feeling-the-unfelt-emotion", "helplessness-is-the-gateway", "anger", "emotional-inquiry", "approach-to-emotion-matters-as-much-as-emotion", "enjoyment-as-path", "apply-enjoy-to-whats-here"]
+sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14"]
 ---
 
 # Each Emotion Allowed Has Its Own Positive Flavor
@@ -67,6 +67,20 @@ Two of the flavor pairings deserve special emphasis because they violate common 
 
 Both are examples of the broader pattern: the "negative" emotion contains the "positive" outcome the person was trying to engineer by other means.
 
+## The Pleasure Is Available Through Savoring, Not Just Through Completion
+
+The flavor is not only on the far side of the emotion fully moving through. It is also available in the middle of the emotion, as a quality of the felt experience itself, accessed through savoring. Every emotion has a level of pleasure available to it if the person is willing to savor it the way one savors a flavor of food or the sensation of a deep tissue massage.
+
+"Every emotion has like a level of pleasure to it if you can really savor it. It's like a deep tissue massage. There's a way to enjoy it, and the more you enjoy it, the less resistance there is, the more enjoyable it becomes." -- Joe Hudson, Emotional Inquiry - AOA's Emotional Processing Tool
+
+The deep-tissue-massage analogy is structurally important. A deep tissue massage hurts. The pain is real. But the same physical sensation can be enjoyed -- because there is a kind of pleasure inside the discomfort that is available when the body stops fighting the pressure. The pleasure is not despite the pain; it is in a relationship to the pain that the body finds when it stops bracing.
+
+The same is true of difficult emotions. Anger has a hot rich satisfaction available inside it when the body stops bracing against the heat. Sadness has a sweet softness available inside it when the body stops fighting the wet ache. Fear has a tingling aliveness available inside it when the body stops armoring against the activation. These pleasures are accessible while the emotion is still happening, not only after it has resolved.
+
+**The savoring is a positive-feedback loop.** As the savoring increases, the resistance decreases, and as the resistance decreases, the savoring becomes easier. The loop runs in both directions: resisting an emotion increases the discomfort, which increases the resistance, which increases the discomfort. The teaching point is that the relationship is what governs the felt quality, and savoring is the relationship that flips the loop in the positive direction.
+
+**This is not visible from stage 1.** A person who has not yet had a felt experience of a welcomed emotion cannot picture what the savoring of fear or grief would even be. The instruction "savor your sadness" sounds absurd from outside the practice. It becomes operational only after the first few direct experiences of what an unkinked emotion feels like. See [[three-stages-of-emotional-inquiry-maturity]] for why this teaching lands at a specific stage of practice.
+
 ## Tone
 
 Encouraging without being saccharine. The principle is offered as something the listener will be able to verify for themselves once they have allowed a single emotion all the way through. The encouragement is that the gift is on the other side, and the gift is specific to the emotion, not a generic "everything will be fine."
@@ -90,3 +104,5 @@ Encouraging without being saccharine. The principle is offered as something the 
 ## Sources
 
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the explicit "each emotion has its own little flavor of positivity" formulation; the specific pairings of anger-clarity, sadness-joy, fear-excitement, incapacity-capability; the framing that "deep enjoyment of negative emotions" is what breaks people when first heard)
+- 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (the savoring framing: every emotion has a level of pleasure available if savored; the deep-tissue-massage analogy for how pleasure can be available inside discomfort; the positive-feedback loop between savoring and reduced resistance)
+- 2024-01-19_Emotional Inquiry - Emotion Series #14 (parallel transcription of the same conversation; Brett's "the same thing that makes me come back to a sunset" framing of the mature relationship to the practice)

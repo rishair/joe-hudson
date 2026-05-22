@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-use-breath-to-repress
 title: "Don't Use Breath to Repress the Emotion You Were About to Feel"
-aliases: ["don't use breath to repress", "breath as repression", "breath as suppression", "breath as bypass", "weaponized breath", "I'll just keep on breathing and never feel that", "the breath repression trap", "breathwork as avoidance", "calming breath as emotional shutdown"]
+aliases: ["don't use breath to repress", "breath as repression", "breath as suppression", "breath as bypass", "weaponized breath", "I'll just keep on breathing and never feel that", "the breath repression trap", "breathwork as avoidance", "calming breath as emotional shutdown", "controlling emotions with breath", "the dark rabbit hole of breath control", "I'm going to control my emotions with breath", "breath as up-and-out override", "breath as denial vehicle"]
 tags: ["breath", "anti-pattern", "overwhelm", "repression", "regulation", "bypass"]
-related: ["breath-to-exit-overwhelm", "overwhelm", "feeling-the-unfelt-emotion", "dont-name-emotion-to-avoid-feeling", "dont-step-on-the-signal", "anxiety-as-constricted-life-force"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
+related: ["breath-to-exit-overwhelm", "overwhelm", "feeling-the-unfelt-emotion", "dont-name-emotion-to-avoid-feeling", "dont-step-on-the-signal", "anxiety-as-constricted-life-force", "breath-as-fertile-soil-vs-breath-as-control", "humming-exhale-for-vagal-tone"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?", "2024-02-16_'WTF Is A Nervous System?' With Jonny Miller"]
 ---
 
 # Don't Use Breath to Repress the Emotion You Were About to Feel
@@ -43,6 +43,16 @@ A useful framing: breath is a bridge. It is not the destination. Crossing the br
 
 If you notice that your breathwork practice has become a way to never feel anything, the practice has been co-opted. The fix is not to stop breathing. The fix is to add the missing piece: let the emotion arrive after the system has regulated.
 
+## The Fertile Soil Reframe
+
+A more affirmative framing of the same distinction: breath, breathwork, yoga, and similar practices are at their best when they are creating fertile soil for healthy emotion — making the nervous system stable enough to be with whatever is alive — not when they are trying to control the emotion itself.
+
+"I think creating a fertile soil of healthy emotions is a really important thing, which is where I would put the breathwork or the yoga or like — how do you create a soil for a healthy lifestyle is a really important piece. As soon as that turns to 'I'm going to control my emotions with breath,' then it can be very destructive. Then it can be like very up and out and very like overriding and denial, a whole bunch of other stuff can happen there." -- Joe Hudson, 'WTF Is A Nervous System?' With Jonny Miller
+
+The dark rabbit hole Joe references: when the control framing takes over, the practice produces an "up and out" quality — a person who is regulated past the point of contact with their own ground. The breath has lifted them out of their experience rather than into deeper contact with it. The emotions get overridden. Denial expands. The very calm-looking practitioner is increasingly disconnected from what's actually alive in them.
+
+This is the broader distinction between [[breath-as-fertile-soil-vs-breath-as-control]]. The mechanics are the same. The intention is what determines whether the practice is supporting emotional life or foreclosing it.
+
 ## The Broader Pattern
 
 This anti-pattern is a specific case of a wider trap: any legitimate regulation tool can be turned into a way to bypass feeling. Naming the emotion can become [[dont-name-emotion-to-avoid-feeling]]. Powering through fear can become [[dont-step-on-the-signal]]. Breath becomes this. The pattern is the same: a real tool, used with the wrong intention, becomes the new form of avoidance.
@@ -62,3 +72,4 @@ The questions that help reveal which is happening:
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
+- 2024-02-16_'WTF Is A Nervous System?' With Jonny Miller

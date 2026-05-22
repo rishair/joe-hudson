@@ -4,7 +4,7 @@ id: welcome-the-dumpster-fire-in-facilitation
 title: "Welcome the Dumpster Fire (Things Going Wrong Is the Best Material)"
 aliases: ["welcome the dumpster fire", "this dumpster fire won't stoke itself", "things going wrong is the best material", "the most beautiful moments come from things going south", "facilitation goes haywire is good", "blow-ups in facilitation are gold", "the dumpster fire is the curriculum", "don't try to make it work", "let the facilitation go wrong", "the haywire moment is the teaching", "the cool thing is when shit goes wrong", "things going horribly wrong is great", "this dumpster fire is not going to stoke itself", "facilitator's stance toward chaos", "the chaos in facilitation produces the breakthrough"]
 tags: ["principle", "coaching", "facilitation", "presence", "non-attachment-to-outcome", "training", "trust-the-process"]
-related: ["process-over-result", "trust-the-awareness-dont-add-effort", "flow-vs-managing-reality", "presence-over-technique-in-coaching", "training-coaches-and-facilitators", "coach-as-mirror-not-customer-service", "letting-go-vs-doing-nothing", "see-whats-right-to-build-on-it", "stay-centered-while-holding-space", "the-clients-wisdom-not-the-teachers", "follow-the-demand", "five-principles-of-the-path"]
+related: ["process-over-result", "trust-the-awareness-dont-add-effort", "flow-vs-managing-reality", "presence-over-technique-in-coaching", "training-coaches-and-facilitators", "coach-as-mirror-not-customer-service", "letting-go-vs-doing-nothing", "see-whats-right-to-build-on-it", "stay-centered-while-holding-space", "the-clients-wisdom-not-the-teachers", "follow-the-demand", "five-principles-of-the-path", "feeling-yourself-beats-going-to-plan", "first-iteration-is-irreplaceable", "teach-from-pleasure-not-mission"]
 sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice"]
 ---
 
@@ -84,6 +84,14 @@ For a trainee facilitator, the operational principle: when your facilitation goe
 
 This connects to [[do-the-work-thats-harder-for-you]]: if your work right now is to learn to be with breakdown, then a smooth facilitation is not what you need next. A breakdown is.
 
+## The Companion Principle: Feeling Yourself Beats Going to Plan
+
+The dumpster-fire welcome rests on the facilitator's capacity to stay with themselves under the chaos. The companion principle that names this prerequisite directly: [[feeling-yourself-beats-going-to-plan]]. Joe gave this to Brett Kistler the night before Brett's first retreat: "If everything goes to shit and you're feeling yourself, it's way better than if everything goes according to plan and you're not."
+
+The pairing is structural. The dumpster fire principle says: when things go wrong, that is the material. The feeling-yourself principle says: when things go wrong, your job is to stay in contact with yourself. Together they release the facilitator from the trap of either-execute-the-plan-or-fail. There is a third grade -- did you stay with yourself? -- and that grade is reachable regardless of external chaos.
+
+A facilitator carrying both principles can enter the difficult facilitation without the gripping that would otherwise contaminate their presence. The plan is held loosely. The self is held closely. The plan can collapse and the self does not. The dumpster fire arrives and is met with the presence the principle requires.
+
 ## The Underlying Posture
 
 The deeper posture under this principle: the facilitator is not in charge of the outcome. The facilitator is in charge of being present. The presence is the offering. The outcome is what the room does with the presence. A facilitator who needs a particular outcome to feel competent has not yet released the result-orientation. A facilitator who can be present regardless of outcome has.
@@ -127,3 +135,4 @@ Plain, slightly amused. Joe describes this with light delight rather than gravit
 
 - 2024-01-05_Coaching as a Practice (the "I love it when shit goes haywire" passage; the three-groups-one-going-south example; the "most beautiful moments are when things have gone south" claim; the "this dumpster fire is not going to stoke itself" reminder; the cricket-style flow framing of letting go of result)
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation; same core material confirming the principle)
+- 2024-02-02_A Workshop for Welcoming Fear (the companion-principle pairing with [[feeling-yourself-beats-going-to-plan]] -- Joe's pre-retreat advice to Brett Kistler about staying with himself even if the plan collapsed)

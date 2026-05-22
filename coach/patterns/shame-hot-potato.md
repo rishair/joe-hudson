@@ -4,7 +4,7 @@ id: shame-hot-potato
 title: "The Shame Hot Potato"
 aliases: ["shame hot potato", "the shame hot potato", "passing shame back and forth", "shame ping-pong", "inflicting shame to avoid shame", "couples shame hot potato", "team shame hot potato", "political shame hot potato", "they should be ashamed dynamic", "the blame ping pong", "shame as the engine of the same fight"]
 tags: ["shame", "conflict", "couples", "teams", "politics", "defensiveness", "blame", "interpersonal", "stagnation", "relationships"]
-related: ["the-shame-avoidance-loop", "shame-as-disconnection", "shame-stagnates-emotion", "shame-drives-behavior", "power-dynamics-as-two-defenders", "apologies-as-power-struggle-surrogate", "triggers-reveal-your-own-beliefs", "drop-the-hot-potato", "state-no-wish-for-their-shame", "non-defense-is-the-ocean", "seeing-through-essential-wrongness", "fault-vs-responsibility", "we-have-built-up-resentment", "anger-and-politics"]
+related: ["the-shame-avoidance-loop", "shame-as-disconnection", "shame-stagnates-emotion", "shame-drives-behavior", "power-dynamics-as-two-defenders", "apologies-as-power-struggle-surrogate", "triggers-reveal-your-own-beliefs", "drop-the-hot-potato", "state-no-wish-for-their-shame", "non-defense-is-the-ocean", "seeing-through-essential-wrongness", "fault-vs-responsibility", "we-have-built-up-resentment", "anger-and-politics", "fear-hot-potato", "one-team-member-holds-the-helplessness"]
 sources: ["2023-12-22_The Shame Hot Potato"]
 ---
 
@@ -25,6 +25,10 @@ Tara coined the name. The dynamic shows up everywhere two or more people are stu
 This is the *interpersonal* form of [[the-shame-avoidance-loop]]. The avoidance loop runs inside one person: trying to avoid feeling shame produces shame from a different direction. The hot potato runs between people: each person's attempt to expel their shame onto the other gives the other shame to expel back. The two patterns are usually running simultaneously. Each person is in their internal loop, and the two loops are coupled by the throws.
 
 The shame in the avoidance loop is felt as disconnection. The shame in the hot potato is being actively passed. Both rest on the same underlying refusal to feel the shame as it is.
+
+## The Hot Potato Family of Patterns
+
+The same structural pattern shows up for any emotion the system collectively refuses to feel. [[fear-hot-potato]] runs the same dynamic for fear, with the family-anxiety-carrier role as its most common form. [[one-team-member-holds-the-helplessness]] runs it for helplessness in workplace teams. In each case, the unfelt emotion consolidates in one carrier rather than dispersing, the carrier is rejected for naming what the system refuses to acknowledge, and the carrier's removal does not solve the pattern -- a new carrier emerges from the next-lowest-threshold member. The shame version is the most extensively studied because shame is the most chronically stagnant of the throwable emotions, but the structure is generalizable.
 
 ## Indicators
 

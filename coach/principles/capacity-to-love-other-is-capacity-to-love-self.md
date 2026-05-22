@@ -5,7 +5,7 @@ title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
 aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
 related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -61,6 +61,14 @@ This principle is why Joe positions self-care as not a luxury but a precondition
 The cultural framing of self-care as "selfish" is exactly backwards in this frame. The person who does not care for themselves cannot care for others, regardless of how much they sacrifice. The person who cares for themselves becomes capable of caring for others as a natural overflow.
 
 See [[what-is-truly-compassionate]] for the developed form: what is truly compassionate for you is truly compassionate for them. There is no genuine conflict between self-love and love of other once both are understood correctly.
+
+## The Cascade From Self-Awareness
+
+The principle has an upstream piece. The self-love is not arbitrary -- it is the byproduct of [[applied-self-awareness]]. As a person comes to understand what motivates them, what they are good at, and how to change what causes them pain, the self-love expands. From there, the capacity to love others expands. From there, the world stops feeling like an opponent.
+
+"As you learn to love yourself, you love others more easily and you love the world more easily." -- Joe Hudson, Welcome To The Art Of Accomplishment
+
+The cascade is the channel's stated end result, alongside the accomplishments. It also names why coaching that works on self-awareness is not selfish or self-indulgent -- the love of self produced is what makes love of others possible. See [[am-i-being-selfish]] for the concern this often shows up as.
 
 ## Boundary Conditions
 

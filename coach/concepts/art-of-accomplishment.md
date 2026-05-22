@@ -4,8 +4,8 @@ id: art-of-accomplishment
 title: "Art of Accomplishment"
 aliases: ["accomplishment as art", "the art of accomplishment", "AoA", "artistry of accomplishment", "how not what", "art of getting things done", "everyone wants to accomplish something", "accomplishment is universal", "what makes us human"]
 tags: ["accomplishment", "art", "consciousness", "ease", "self-awareness", "foundational"]
-related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path", "connection-as-life-bottom-line", "three-effects-of-connection", "business-as-spiritual-practice"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2022-10-26_The Art of Accomplishment", "2023-06-08_The Connection Course Trailer"]
+related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path", "connection-as-life-bottom-line", "three-effects-of-connection", "business-as-spiritual-practice", "applied-self-awareness", "capacity-to-love-other-is-capacity-to-love-self"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2022-10-26_The Art of Accomplishment", "2023-06-08_The Connection Course Trailer", "2024-02-12_Welcome To The Art Of Accomplishment"]
 ---
 
 # Art of Accomplishment
@@ -61,6 +61,16 @@ Joe receives this as the same insight from a different angle. The "what we becom
 The framing matters because it inverts the question of accomplishment. The conventional question is "what did I accomplish?" -- a list of artifacts. The becoming question is "who did I become while accomplishing it?" -- a description of the consciousness that the work produced. When the becoming is taken seriously as the metric, the choices about how to accomplish become different. The Hall of Fame ring matters less than the person who earned it. See [[consciousness-is-the-product]] for the structural principle.
 
 This also illuminates the failure mode that someone like Aaron describes: the College Football Hall of Fame, Super Bowl ring, decades of TV career, no felt confidence anywhere. The accomplishments were real. The becoming that accompanied them was a person organized around approval-seeking, which is not the becoming that produces felt arrival. See [[confidence-only-where-approval-isnt-needed]] for the read this produces.
+
+## The Applied Self-Awareness Frame
+
+The Art of Accomplishment is the building-and-doing expression of [[applied-self-awareness]]. The channel's mission statement frames the entire body of work as applied self-awareness: self-awareness that lands in how you parent, how you lead, how you start a business, how you make art, how you handle procrastination and emotion. The art of accomplishment is what that orientation produces when it shows up in the domain of building.
+
+The cascade matters here. Applied self-awareness produces self-love. Self-love produces capacity to love others and the world. The accomplishments are downstream of that capacity, not separate from it. See [[capacity-to-love-other-is-capacity-to-love-self]] for the principle that bounds it.
+
+"The end result of applied self-awareness, besides accomplishing a whole bunch of great things in the world, is that you learn to love yourself more. And as you learn to love yourself, you love others more easily and you love the world more easily." -- Joe Hudson, Welcome To The Art Of Accomplishment
+
+This is why the false dichotomy between self-development and accomplishment dissolves once the applied frame is in place. The self-development is the accomplishment engine. The loving is what produces the building. The two are one move.
 
 ## How a Person Gets There
 
