@@ -172,8 +172,21 @@ Connection is not always pleasant. It is not the same as harmony, agreement, or 
 
 Connection is not merger. Two people in connection retain their separate truths, separate wants, separate experiences. The connection is between two distinct beings, not the dissolution of one into the other. Merger looks like connection until one person tries to leave. See [[caring-vs-caretaking]] and [[stay-centered-while-holding-space]].
 
+## The 10% Increment as the Sustainable Daily Dose
+
+A practical question that arises after connection has been recognized as the lever: how much of it, applied where, makes the difference?
+
+Joe's answer is unusually small: 10% more, applied across whatever is already happening. Not 100%. Not "be fully present at all times." Ten percent. Across the texture of an ordinary day, applied to every activity that was going to happen anyway.
+
+The reason this works is non-linearity. A small increase in connection produces disproportionate changes in the quality of whatever it is applied to. Ten percent more connected in a meeting changes the meeting more than ten percent. Ten percent more connected with a partner changes the dinner more than ten percent. The compounding effects are themselves what make the small increment sustainable. The person experiences the disproportionate return and is pulled to keep doing it.
+
+The full practice form, including the reminder mechanism that makes it possible to actually sustain across a day, is in [[ten-percent-more-connected-experiment]]. The closely related coaching move that applies the same principle to specific tasks is [[apply-connection-to-whatever-youre-doing]].
+
+The 10% framing also dissolves the perfectionist trap that often forms around presence work. "I am supposed to be fully present" produces shame at every moment of disconnection. "I am experimenting with 10% more connection" produces curiosity. The smaller target preserves the practice. The larger target collapses it.
+
 ## Sources
 
 - 2022-04-29_Connection: A State Beyond States
 - 2022-10-26_Connection Over Perfection (the neurochemistry of connection: oxytocin and serotonin)
 - 2022-10-26_Connection: A State Beyond States (the noticing-and-gratitude re-entry; "even the desire for connection is a form of connection"; the all-courses-point-to-connection meta-frame)
+- 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the 10% increment as the daily dose; the application of the connection lens to mundane tasks as a way to operationalize the principle in daily life)

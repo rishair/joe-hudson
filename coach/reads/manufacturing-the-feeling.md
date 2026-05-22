@@ -2,9 +2,9 @@
 type: read
 id: manufacturing-the-feeling
 title: "Manufacturing the Feeling"
-aliases: ["producing the emotion", "trying to feel it", "performing the feeling", "you started manufacturing it", "engineering the feeling", "doing the feeling at yourself"]
+aliases: ["producing the emotion", "trying to feel it", "performing the feeling", "you started manufacturing it", "engineering the feeling", "doing the feeling at yourself", "feel something goddammit feel something", "the come on imagine the feeling state", "trying to vividly imagine a feeling that isn't arriving", "the trying-to-feel sensation"]
 tags: ["emotion", "performance", "trying", "reads", "subtle"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)"]
 ---
 
 # Manufacturing the Feeling
@@ -68,6 +68,22 @@ Direct, light, sometimes funny. The naming is not a criticism. It is a redirect.
 - The actual unfelt emotion is still under another layer.
 - The mind is bargaining: "if I produce this version, can we move on?"
 
+## The Variant: Trying to Conjure a Feeling That Was Just Suggested
+
+A specific live form appears when a coach has just asked the person to feel into something the person does not have ready access to. The person tries. The trying produces a particular felt sensation: the strain of looking, the absence of what was supposed to arrive, the small irritation at not finding the thing.
+
+Ali Abdaal, asked to feel into the loss-of-money fear in his body and trace it to a childhood instance, produced the live version of this:
+
+"Yeah, I'm trying to vividly imagine the feeling of running out of money and I'm not like feeling anything. I'm just like, I feel like I'm sort of like, come on, imagine the feeling, imagine the feeling, like, feel something, goddammit, feel something. And it's like, right, okay. That's like business."
+
+Joe's redirect was immediate and useful: "Okay. So do that again. Find the sensation of you looking for a feeling and not being able to get it. Like you're doing. What is that like in your body? Not the sensation of fear, but the sensation of trying to get there and not get there."
+
+The move is to make the trying itself the feelable thing. The person who could not find the original feeling can almost always find the sensation of trying-and-not-getting-there. Ali immediately located a constriction in his belly-button area. The constriction was the first feelable thing.
+
+This works because the trying-sensation is happening right now in the body. It is not being asked to come from a memory or from the past. It is a present-tense feelable. The person who has cut off access to the deeper layer often still has access to the felt experience of the cutting-off. That experience is the doorway. See [[i-cant-feel-my-emotions]] for the concern this read serves.
+
+*(Source: Ali Abdaal coaching session)*
+
 ## The Variant: Trying to Call Up a Missed Emotion
 
 A specific variant of manufacturing appears when someone wants to re-access an emotion that arrived earlier and is now gone. The intuitive move is to try harder to feel it. The intuitive move is the trap.
@@ -85,3 +101,4 @@ The trying becomes the new resistance. The push produces the opposite of what is
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the live variant of trying-to-conjure a feeling, with Joe's redirect to make the trying itself the feelable thing)

@@ -4,8 +4,8 @@ id: love-as-deep-welcoming
 title: "Love as Deep Welcoming"
 aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？"]
 ---
 
 # Love as Deep Welcoming
@@ -116,6 +116,22 @@ When someone is fighting a part of themselves, the welcoming is the path out of 
 
 When someone is in a conflict and getting harder, welcoming the other person does not require giving up the position. The boundary stays. The closed heart opens. The fight becomes more effective, not less.
 
+## Welcoming the Opposing View (Without Becoming It)
+
+A specific live application: welcoming a worldview, opinion, or stance you actively disagree with — including in someone close to you, including in yourself.
+
+In one coaching session, a CEO is jealous of his wife's best friend because the friend holds an "anti-capitalist" worldview that the CEO experiences as a threat. Joe's instruction is to love the anti-capitalist in three places at once:
+
+"What stops you from loving the fuck out of the anti-capitalist in you, your wife, and this woman?" -- Joe Hudson, How Do I Love The "No"?
+
+The phrasing puts the welcoming everywhere — including in the client himself. Whatever stance the client is rejecting in the wife's friend is a stance that has some truth in it; welcoming it does not require abandoning capitalism. It requires letting the truth in the opposing view land.
+
+"I want you to open your heart to the idea that capitalism is not perfect the same way you open your heart to your daughter." -- Joe Hudson, How Do I Love The "No"?
+
+The somatic test confirms the welcoming: when the heart opens to the contested idea, something specific gets dissolved. In the session, what dissolved was hypervigilance — the constant defensive monitoring the client had been running. The welcoming did not make the client an anti-capitalist. It made him less defended, which made him a better CEO.
+
+This is the same move as welcoming an emotion you don't want, applied to an opinion you don't want. See [[every-no-contains-a-better-answer]] for the principle this is a case of.
+
 ## Upstream (What Leads Here)
 
 - When someone confuses love with niceness, fondness, romantic feeling, or not-having-conflict.
@@ -160,3 +176,4 @@ The implication for the AI coach: never let "love is the answer" become a genera
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_Love Over Defense (podcast version covering the same material)
 - 2023-04-28_How Love Gets Confused (love as practical action vs. love as fluffy concept; the four-part sequence of the action: find defense, feel heartbreak, expand definition, drop management; the rejection of self-brainwash as an alternative to the actual practice)
+- 2024-03-11_How Do I Love The "No"? (the "love the anti-capitalist in you, your wife, and this woman" framing as the case-application for welcoming an opposing view without abandoning your own; hypervigilance dissolving as the somatic confirmation of welcoming)

@@ -4,7 +4,7 @@ id: i-need-a-scorecard
 title: "I need a scorecard / I'm always keeping score / I'm chasing validation"
 aliases: ["I need a scorecard", "I'm always keeping score", "I keep a scoreboard in my head", "I need validation", "I'm chasing likes", "I'm chasing status", "I'm chasing money but it never feels like enough", "I went from chasing money to chasing likes", "I want notoriety", "I need points on the board", "I oscillate with the market", "my self-worth tracks the stock market", "my self-worth oscillates with external metrics", "the scorecard in my head", "I compare myself to others all the time", "I'm better because I have more X", "I'd be rudderless without the scorecard", "I'd be lost without something to measure", "I'm grasping for the next achievement", "I got to the top and there's nothing there", "the hedonic treadmill is real for me", "I just need likes attention notoriety", "I quietly traded money for likes", "the scorecards keep moving", "I went from one scorecard to another"]
 tags: ["validation", "status", "money", "achievement", "identity", "self-worth", "measurement", "external-metric", "scoreboard"]
-sources: ["2023-12-08_What's Your Scorecard? (Coaching Session)"]
+sources: ["2023-12-08_What's Your Scorecard? (Coaching Session)", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)"]
 ---
 
 # I need a scorecard / I'm always keeping score
@@ -24,6 +24,8 @@ The presenting form varies by which scorecard is currently running, but the stru
 - "I'm not sure I trust myself when there's no scorecard."
 
 A characteristic move: the person has already noticed one scorecard was empty, swapped it for another, and noticed that one is empty too. They are coming in aware the strategy isn't working but unable to imagine the absence of any scorecard.
+
+A particular variant: the person hits a major milestone and reports something like "there's always more to be done... I'd be happier if I could just chill out, but the work isn't done." When asked where the relief lives, they say some version of "to get to a place of okayness, to get to a place of safety." The structure is then named directly: "Just to be clear, you have to be not okay to get to a place of okayness." The contradiction in the structure is the scorecard. The "okayness" is always one more milestone away.
 
 ## Detection Cues
 
@@ -109,3 +111,5 @@ The scorecard concern is specifically about the felt need for a measurable exter
 
 - 2023-12-08_What's Your Scorecard? (Coaching Session)
 - 2023-12-08_What's Your Scorecard？ (Coaching Session) — alternate release of the same session including the podcast intro/outro framing
+- 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) — the "always more to be done / to get to a place of okayness" variant
+- 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)

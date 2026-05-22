@@ -4556,8 +4556,75 @@
     },
     {
       "folder": "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T14:08:34Z",
+      "articles_created": [
+        "whats-next-after-i-reached-my-big-goal",
+        "i-cant-feel-my-emotions",
+        "chin-up-as-emotion-block",
+        "intellectual-process-with-no-somatic-component",
+        "apply-connection-to-whatever-youre-doing",
+        "ten-percent-more-connected-experiment",
+        "the-first-thing-they-say-is-the-kernel",
+        "ali-abdaal-coaching-session",
+        "mark-it-and-return-later"
+      ],
+      "articles_updated": [
+        "manufacturing-the-feeling",
+        "trace-emotion-to-its-first-felt",
+        "let-your-body-remember-this-moment",
+        "connection",
+        "connection-as-life-bottom-line"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T14:24:46Z"
+    },
+    {
+      "folder": "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T14:10:15Z",
+      "articles_created": [
+        "toggle-between-opposite-emotions-then-hold-both",
+        "coach-as-follower-not-director"
+      ],
+      "articles_updated": [
+        "whats-next-after-i-reached-my-big-goal",
+        "i-cant-feel-my-emotions",
+        "chin-up-as-emotion-block",
+        "intellectual-process-with-no-somatic-component",
+        "apply-connection-to-whatever-youre-doing",
+        "ten-percent-more-connected-experiment",
+        "the-first-thing-they-say-is-the-kernel",
+        "hold-the-memory-of-when-you-felt-it-most",
+        "i-need-a-scorecard",
+        "connection-as-life-bottom-line"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T14:26:16Z"
+    },
+    {
+      "folder": "2024-03-11_How Do I Love The ＂No＂？",
+      "status": "complete",
+      "claimed_at": "2026-05-22T14:25:32Z",
+      "articles_created": [
+        "every-no-contains-a-better-answer",
+        "same-defense-shows-up-in-marriage-and-team",
+        "name-the-body-defense-in-real-time",
+        "what-are-you-trying-to-control-for",
+        "i-cant-stop-being-jealous-of-my-partners-friend"
+      ],
+      "articles_updated": [
+        "no-doctrine-leadership",
+        "defense-vs-love",
+        "love-as-deep-welcoming"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T14:34:57Z"
+    },
+    {
+      "folder": "2024-03-15_Joy",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T14:27:41Z",
       "articles_created": [],
       "articles_updated": []
     }

@@ -5,7 +5,7 @@ title: "Connection as the Bottom-Line Principle for Life"
 aliases: ["connection as bottom line", "connection as life principle", "connection connection connection", "connection as the first principle", "the connection principle", "live by connection", "connection as operating principle", "the focus that helps people accomplish", "the one thing successful people focus on", "the connection course first principle"]
 tags: ["connection", "principles", "bottom-line", "values", "operating-principle"]
 related: ["connection", "connection-as-family-metric", "connection-over-perfection", "principles-free-you", "view", "five-principles-of-the-path", "would-you-sell-your-ability-to-connect", "three-effects-of-connection", "art-of-accomplishment"]
-sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection- A State Beyond States", "2023-06-08_The Connection Course Trailer"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection- A State Beyond States", "2023-06-08_The Connection Course Trailer", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)"]
 ---
 
 # Connection as the Bottom-Line Principle for Life
@@ -76,6 +76,18 @@ The heuristic produces specific reframes:
 
 Each question dissolves the old frame and points back to the principle. The right-vs-connection frame replaces the win-vs-lose frame. The convince-vs-connect frame replaces the persuasion frame. The change-vs-connect frame replaces the self-improvement frame.
 
+## Apply the Principle to Any Activity (Including the Mundane)
+
+The heuristic operates at the level of decisions between options. The principle also operates at a finer level: applied to any single activity, including the most mundane parts of the work.
+
+The form: "How would I do this in the most connected way possible, while being connected with myself?" The question takes any task -- billing, sponsorship segments, an email reply, a recurring meeting -- and asks how it could be done more connectedly. Almost always the question produces creative options the standard frame did not.
+
+The mechanism: most operational tasks are bottlenecked by the operating frame, not by the task itself. The frame "do this efficiently" produces one set of options. The frame "do this more connectedly while staying connected to myself" produces a different set. Within seconds, multiple options usually surface.
+
+The instruction also propagates. The CEO who applies it to one task starts asking the question across the organization. The relationship with the team, the way meetings are structured, the rhythms of the work all start to be redesigned. The person who applies it to a single email starts noticing how many of their daily interactions had been running on a disconnected default.
+
+See [[apply-connection-to-whatever-youre-doing]] for the in-session coaching move and [[ten-percent-more-connected-experiment]] for the daily practice form. The practice typically uses a small auditory or visual reminder (an app, a sticker, a phone wallpaper) to interrupt the day with the question: "How do I be 10% more connected right now?" Sustained over days and weeks, the small increment produces effects out of proportion to the effort.
+
 ## The Test Joe Offers
 
 Joe is explicit that the principle should not be taken on belief. It should be tested.
@@ -145,3 +157,5 @@ This suggests the principle is not Joe's imposed value. It is the value that eme
 - 2022-04-29_Connection: A State Beyond States
 - 2022-10-26_Connection: A State Beyond States (the meta-frame that every teaching in the methodology points back to connection; the substitutes for connection as the disguised topic of most coaching)
 - 2023-06-08_The Connection Course Trailer (the cross-domain framing of connection as the lever for any form of accomplishment; the twin orientations of connection-with-self and connection-with-others; the three effects of connection treated separately in [[three-effects-of-connection]])
+- 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the live demonstration of the connection-as-bottom-line principle replacing conventional career goals; the "10% more connected" framing as practical heuristic)
+- 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)

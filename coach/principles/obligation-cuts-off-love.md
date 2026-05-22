@@ -126,6 +126,7 @@ The false binary between self-interest and other-care is one of the mental scaff
 - Toward [[dont-take-responsibility-for-anothers-happiness]]: the broader principle this is a moment-by-moment expression of
 - Toward [[i-get-to-vs-i-have-to]]: the everyday reframe
 - Toward [[love-as-deep-welcoming]]: the alternative felt state that obligation displaces
+- Toward [[potato-chipping-the-rigid-body-under-obligation]]: the somatic consequence — the body constricts to hold the cut-off and loses responsiveness
 
 ## Anti-Pattern Risk
 

@@ -2,9 +2,9 @@
 type: move
 id: let-your-body-remember-this-moment
 title: "Let Your Body Remember This Moment (Anchor the Felt Shift)"
-aliases: ["let your body remember this moment", "let your body remember", "feel your body", "just feel your body", "body anchor for the shift", "anchor the present-moment insight", "plant the felt shift in the body", "the somatic anchor move", "the post-insight body invitation", "the body-remember instruction", "let your body have this", "let your body have that", "the body memory move", "the felt-anchor move", "remember this in your body", "the body remembers move", "instruct the body to remember", "the body-anchor instruction"]
+aliases: ["let your body remember this moment", "let your body remember", "feel your body", "just feel your body", "body anchor for the shift", "anchor the present-moment insight", "plant the felt shift in the body", "the somatic anchor move", "the post-insight body invitation", "the body-remember instruction", "let your body have this", "let your body have that", "the body memory move", "the felt-anchor move", "remember this in your body", "the body remembers move", "instruct the body to remember", "the body-anchor instruction", "trust your body to catch it", "don't write it down let it integrate", "the body will catch what you don't need to write down", "the body-integration-before-list teaching", "let it integrate in the body then go write it down", "the body integrates better than the list", "trust the body to remember instead of writing it down"]
 tags: ["moves", "integration", "body", "felt-sense", "insight", "anchor", "memory"]
-sources: ["2023-12-29_Fear Of Overworking"]
+sources: ["2023-12-29_Fear Of Overworking", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)"]
 ---
 
 # Let Your Body Remember This Moment (Anchor the Felt Shift)
@@ -84,6 +84,28 @@ The tone is also not solemn. The body is doing something beautiful and the momen
 
 The wording is less important than the function: keep the person with the body experience and explicitly mark it as worth remembering.
 
+## The Body-Catches-It-Better-Than-the-List Teaching
+
+A specific extension of this move that comes up frequently when a person has just experienced a useful insight or felt shift and reaches reflexively for something to write it down with. The instruction Joe gives in that moment: do not yet. Let the body integrate first. Then write it down if you still need to.
+
+Joe's explicit form, when Ali Abdaal reached for a way to capture the connection insight he had just experienced: "It's recorded. You're fine. ... As you're starting to learn about the feeling and the somatic world, it's detracting to then immediately go and write it down if it prevents the integration of it in the body. So let it integrate in the body and then go write it down. Meaning like right now you are feeling what it is to be 10% more connected in our conversation together. Keep the attention in the body, and then you'll remember it more likely than if you write it on a list."
+
+And earlier in the same passage: "If you actually allow it to hit your body and resonate in your body, oftentimes that works better than a list because you write it on a list. But do you remember to read the list and whatever happens next?"
+
+The teaching has two parts:
+
+1. **The reach for the list is often a way to leave the body.** The insight produced a body shift. The list-impulse is the mind's move to take over. Writing it down ends the integration prematurely.
+
+2. **The body is a better memory device for somatic insight than a list is.** A list captures the words. The body captures the felt experience. The person who later reads the list often does not feel anything; the words do not bring the state back. The person who let the body remember the state can return to it directly without needing the list.
+
+This is not a prohibition on writing things down. It is a sequencing instruction. Let the integration happen in the body first. Then write it down if needed. The writing-after-the-integration is different from the writing-as-the-integration.
+
+This is also not [[manufacturing-the-feeling]]. The body has already produced the response. The instruction is to stay with the response that is actually there, not to construct one. The Body-Catches-It teaching is what makes the difference between the response completing and the response being cut short by the move to capture it.
+
+For the person who is head-dominant and has built a productivity practice around capturing things: the teaching needs to be delivered carefully. The capture habit is part of how they have organized a successful life. The teaching is not "stop capturing." It is "let the body have its turn first, then capture if you want." The order matters. The body's turn first preserves the felt experience; the capture after still works as a record.
+
+*(Source: Ali Abdaal coaching session)*
+
 ## What This Is Not
 
 - It is not a meditation instruction. The person is not being asked to observe the body neutrally. They are being asked to inhabit a specific moment.
@@ -109,3 +131,4 @@ The wording is less important than the function: keep the person with the body e
 ## Sources
 
 - 2023-12-29_Fear Of Overworking
+- 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the Body-Catches-It-Better-Than-the-List teaching, applied to a head-dominant author who reached to write down an insight in real time)

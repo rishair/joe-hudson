@@ -92,6 +92,7 @@ Light, practical. The practice is offered as one option among many for working w
 - [[manufacturing-the-feeling]]: the failure mode this practice can drift into
 - [[unwelcomed-emotions-return-until-felt]]: the principle that often makes this practice unnecessary
 - [[trace-emotion-to-its-first-felt]]: a different memory-based practice, used to locate origins rather than to access current emotional material
+- [[toggle-between-opposite-emotions-then-hold-both]]: the contrast-based extension when the person needs to map the somatic signature of an inaccessible emotion against an accessible one
 
 ## Sources
 

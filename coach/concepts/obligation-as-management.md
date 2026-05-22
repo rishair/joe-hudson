@@ -80,6 +80,10 @@ The replacement is not the opposite of management (passivity, neglect). The repl
 
 See [[wants-over-shoulds]] and [[i-get-to-vs-i-have-to]] for the replacement orientation.
 
+## The Body Pays the Tax
+
+The management does not only push the thing away. It also constricts the body that is doing the managing. The body has to hold itself rigid to maintain the management posture. Rigid bodies cannot respond to their environment well. The performance of the very thing being managed suffers because the body that is performing it has lost its responsiveness. See [[potato-chipping-the-rigid-body-under-obligation]] for the wingsuit-flying example that makes this somatically vivid.
+
 ## When Someone Experiences This
 
 - The exhausting work of managing a partner's emotional state and the sense that it never quite works
