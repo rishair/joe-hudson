@@ -1,0 +1,38 @@
+# Coach config: v1 — hand-authored system prompt, no retrieval (E-031)
+#
+# This is the baseline coach v1 produced by R-011 and shipped by E-031.
+# The system prompt is the hand-authored v1 at coach-app/prompts/v1.md
+# (~3.1K tokens, 135 lines, 7-section structure including a SAFETY FIRST
+# block specifically designed to prevent the E-024 crisis-suicidal failure).
+#
+# This config is consumable by:
+#   - bun run eval/run.ts full --coach coach-app/configs/v1-no-retrieval.yaml
+#   - bun run coach-app/run.ts repl --config coach-app/configs/v1-no-retrieval.yaml
+#
+# Schema: see coach-app/configs/SCHEMA.md.
+
+id: coach-v1-no-retrieval
+description: >
+  Coach v1: hand-authored AoA system prompt at v1.md, no retrieval. Baseline
+  for G-009 retrieval comparisons (E-031). Shipped by R-011's design study;
+  measured against E-024 AoA-named baseline by E-031.
+
+model: claude-sonnet-4-6
+temperature: 0.7
+max_tokens_per_turn: 1024
+
+# The prompt itself is the versioned file in prompts/. Coach configs reference
+# prompts by path so prompt iteration (E-035) can produce v4, v5, ... files
+# without copying their entire content into YAML. The loader resolves
+# system_prompt_path relative to the directory containing this YAML file.
+system_prompt_path: ../prompts/v1.md
+
+# Retrieval: none for v1. The retrieval block is included even when strategy
+# is "none" so the schema is consistent across E-031 / E-032 / E-033 / E-036.
+retrieval:
+  strategy: none
+  config: {}
+
+# Trigger policy: never (because retrieval.strategy = none). R-012's "every_turn
+# as default" decision applies to retrieval-equipped configs only.
+trigger_policy: never
