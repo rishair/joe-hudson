@@ -2961,8 +2961,32 @@
     },
     {
       "folder": "2022-10-26_Who Is The Voice In Your Head",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T05:29:07Z",
+      "articles_created": [
+        "tell-yourself-you-love-yourself-in-a-mirror"
+      ],
+      "articles_updated": [
+        "voice-in-the-head",
+        "voice-as-care",
+        "untruth-in-every-thought",
+        "voice-creates-what-it-fears",
+        "trying-to-be-right-is-the-voice",
+        "repetitive-vs-inspirational-voice",
+        "dont-fight-the-voice",
+        "experimenting-with-the-voice",
+        "lawyer-the-voice",
+        "apply-view-to-the-voice",
+        "my-inner-critic-wont-stop",
+        "whats-looking-out-behind-my-eyes"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T05:34:31Z"
+    },
+    {
+      "folder": "2022-10-26_Wonder",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T05:35:09Z",
       "articles_created": [],
       "articles_updated": []
     }

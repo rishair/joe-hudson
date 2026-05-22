@@ -74,3 +74,4 @@ The check: do you have an outcome you are trying to produce by VIEWing the voice
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

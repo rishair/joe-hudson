@@ -5,7 +5,7 @@ title: "Lawyer the Voice"
 aliases: ["argumentative lawyer to the voice", "lawyer the voice in head", "cross-examine the voice", "find the untruth practice", "challenging the voice", "journal the voice and lawyer it"]
 tags: ["voice in head", "practice", "journaling", "inquiry", "logic"]
 related: ["voice-in-the-head", "untruth-in-every-thought", "should-as-threat", "the-want", "wants-over-shoulds", "binary-thinking-signals-fear", "awareness-as-change-agent"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # Lawyer the Voice
@@ -88,3 +88,4 @@ This practice fits the moment when the person is ready to investigate the voice'
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

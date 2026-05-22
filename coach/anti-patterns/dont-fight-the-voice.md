@@ -5,7 +5,7 @@ title: "Don't Use the Voice to Silence the Voice"
 aliases: ["thief security guard", "thief as security", "fighting the voice", "war with the voice", "voice vs voice", "attacking the inner critic", "trying to silence the voice"]
 tags: ["voice in head", "anti-pattern", "resistance", "self-attack"]
 related: ["voice-in-the-head", "voice-as-care", "layered-resistance", "awareness-as-change-agent", "experimenting-with-the-voice", "apply-view-to-the-voice", "resistance"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # Don't Use the Voice to Silence the Voice
@@ -81,3 +81,4 @@ Also strong in high-performers and self-improvers who are used to fixing things 
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

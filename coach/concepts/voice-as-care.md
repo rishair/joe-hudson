@@ -5,7 +5,7 @@ title: "The Voice Is Love With Bad Strategies"
 aliases: ["voice as care", "voice as love", "voice in head as care", "the voice loves you", "voice's intention", "deep care behind the voice", "the voice cares", "intention behind the voice"]
 tags: ["voice in head", "reframe", "self-relationship", "compassion", "core reframe"]
 related: ["voice-in-the-head", "loving-all-parts", "love-as-deep-welcoming", "apply-view-to-the-voice", "dont-fight-the-voice", "shame-drives-behavior"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # The Voice Is Love With Bad Strategies
@@ -113,3 +113,4 @@ This reframe also fails if it is used as a way to dismiss real damage. "The voic
 - 2021-07-16_Who is the Voice in Your Head?
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

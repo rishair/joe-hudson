@@ -540,6 +540,7 @@
 - staying-in-your-body Staying in Your Body (also: body awareness in conversation, put attention in your body, grounding in the body, feel the bottom of your feet, being in your body, speak from the body, listen from the body, speak from the silence, attention in the body)
 - talk-to-your-parts-and-ask-for-trust Talk to Your Parts and Ask for Trust (also: conversations with your body, talking to your fear, ask your fear to trust you, talk to your body heart mind fear, name what you don't like and still say I love you, the trust request to a part, can you give me a chance, I'm unhappy with this and I love you, the trust negotiation with the body, conversational parts work)
 - tell-the-body-its-safe Tell the Body It's Safe Before Anger Release (also: safety message before release, verbal reassurance to the body, telling your body it's safe, I am not in danger here, no abusive brother here, speak safety to the nervous system)
+- tell-yourself-you-love-yourself-in-a-mirror Tell Yourself You Love Yourself in a Mirror (and Listen to the Response) (also: mirror love practice, love yourself in the mirror, I love you mirror practice, mirror excavation, camera self-love practice, tell yourself you love yourself, the mirror inner critic excavation, love yourself in front of camera, solo inner critic excavation, the I-love-you exercise)
 - the-change-or-no-change-visualization The Change-or-No-Change Visualization (MasterClass Fit Exercise) (also: the masterclass fit exercise, the change visualization, the never-changes visualization, the 80-year visualization, future-self comparison, the if-it-changed-if-it-didn't exercise, the four-step fit diagnostic, the want-versus-fear visualization, the masterclass diagnostic, lifetime stakes visualization)
 - three-questions-on-the-pattern Three Questions on the Pattern (Hold-Back, Avoidance, Gift) (also: the three pattern questions, Joe's three integration questions on patterns, the pattern integration questions, what pattern holds you back, how does avoidance keep it in place, what has it served, the three questions about your pattern, integration questions for family dynamics, the self-coaching pattern questions)
 - three-reflection-questions-on-anger Three Reflection Questions on Anger (also: the three anger questions, Joe's three closing questions on anger, what's necessary to express anger without hurting anyone, how can you love your anger unconditionally, what would it take to never get angry at somebody again, the closing anger questions, the three sitting questions for anger, the audience anger questions, reflection questions on anger)
@@ -652,5 +653,5 @@
 
 ---
 
-Absorb Progress: 126 / 480 transcripts
-Last absorbed: 2022-10-26_When The Story Falls Apart (2026-05-22)
+Absorb Progress: 127 / 480 transcripts
+Last absorbed: 2022-10-26_Who Is The Voice In Your Head (2026-05-22)

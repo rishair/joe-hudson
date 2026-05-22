@@ -4,8 +4,8 @@ id: voice-in-the-head
 title: "The Voice in the Head"
 aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss"]
 tags: ["voice in head", "self-talk", "inner critic", "awareness", "shame", "perfectionism", "core concept"]
-related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should"]
+related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one", "tell-yourself-you-love-yourself-in-a-mirror"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # The Voice in the Head
@@ -111,7 +111,7 @@ The recommended posture is not "kill it" but "develop a different relationship w
 - **[[apply-view-to-the-voice]].** Bring the [[view]] state of mind to the voice itself. Be vulnerable with it, impartial with it, empathetic with what it's afraid of, in wonder about what it's actually saying underneath.
 - **[[whats-looking-out-behind-my-eyes]].** Quiet the voice by shifting identity from the voice to the awareness of the voice.
 - **Excavate it on the page.** Journal what the voice says. Make it visible. See [[excavating-the-inner-critic-in-group]] for the group version.
-- **Tell yourself you love yourself in a mirror.** Listen to the voice's responses. That is excavation in concentrated form.
+- **[[tell-yourself-you-love-yourself-in-a-mirror]].** Stand at a mirror or camera and say "I love you" to yourself. The voice cannot resist responding. The responses are the material.
 
 The unifying principle: change the relationship, not the content. The voice changes through the relationship, not through being argued with item by item.
 
@@ -173,3 +173,4 @@ This concept also applies primarily to the repetitive, critical, recurring voice
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Want Over Should
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

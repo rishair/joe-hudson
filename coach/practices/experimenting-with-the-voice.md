@@ -5,7 +5,7 @@ title: "Experimenting with the Voice"
 aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice"]
 tags: ["voice in head", "practice", "experimentation", "play", "relationship"]
 related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # Experimenting with the Voice
@@ -69,3 +69,4 @@ Some experiments require persistence. The voice has been at war for decades. A o
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

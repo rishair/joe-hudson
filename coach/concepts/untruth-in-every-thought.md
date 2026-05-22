@@ -5,7 +5,7 @@ title: "The Small Untruth in Every Thought"
 aliases: ["untruth in every thought", "the lie in the thought", "false logic of the voice", "the voice contradicts itself", "find the untruth", "every voice statement has a lie", "voice's false logic"]
 tags: ["voice in head", "logic", "self-criticism", "inquiry", "investigation"]
 related: ["voice-in-the-head", "lawyer-the-voice", "shame-drives-behavior", "believing-the-convenient-lie", "binary-thinking-signals-fear"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # The Small Untruth in Every Thought
@@ -117,3 +117,4 @@ It also fails if the untruth is used to dismiss genuinely useful feedback. If th
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

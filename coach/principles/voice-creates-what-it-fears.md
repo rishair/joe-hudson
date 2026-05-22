@@ -5,7 +5,7 @@ title: "The Voice in the Head Creates the Reality It's Trying to Avoid"
 aliases: ["voice creates what it fears", "the voice produces what it warns against", "perfectionist voice prevents quality", "voice's self-defeating nature", "the voice causes the thing it's preventing"]
 tags: ["voice in head", "self-fulfilling", "perfectionism", "principle", "paradox"]
 related: ["voice-in-the-head", "perfectionism", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "rebellion-or-submission-to-should", "voice-as-care"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # The Voice in the Head Creates the Reality It's Trying to Avoid
@@ -86,3 +86,4 @@ Matter-of-fact, slightly ironic. The pattern is darkly funny once seen. Joe pres
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

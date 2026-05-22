@@ -5,7 +5,7 @@ title: "What's Looking Out Behind My Eyes?"
 aliases: ["whats looking out behind my eyes", "what is looking out", "behind the eyes inquiry", "the eyes question", "shift to awareness practice", "who is looking out"]
 tags: ["voice in head", "practice", "self-inquiry", "awareness", "self-realization"]
 related: ["voice-in-the-head", "what-am-i", "self-realization", "wonder", "awareness-as-change-agent", "projections"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # What's Looking Out Behind My Eyes?
@@ -116,3 +116,4 @@ The instruction to not answer is important. The question is the practice. Trying
 - 2021-07-30_Your World is a Projection
 - 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

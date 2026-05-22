@@ -5,7 +5,7 @@ title: "Repetitive Voice vs. Inspirational Voice"
 aliases: ["repetitive vs inspirational", "negative recurring voice vs unique thought", "two kinds of thoughts", "recurring voice vs creative voice", "the loop vs the new"]
 tags: ["voice in head", "distinction", "thought", "creativity", "rumination"]
 related: ["voice-in-the-head", "perfectionism", "should-as-threat", "wonder"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # Repetitive Voice vs. Inspirational Voice
@@ -57,3 +57,4 @@ The inspirational voice gets followed. When a novel thought arrives, the practic
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

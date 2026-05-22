@@ -4,7 +4,7 @@ id: my-inner-critic-wont-stop
 title: "My inner critic won't stop / The voice in my head is constant"
 aliases: ["voice in my head won't shut up", "constant self-criticism", "I'm always criticizing myself", "I can't quiet my mind", "my mind never stops", "the critic in my head", "constant internal chatter", "my brain never shuts up", "I'm so hard on myself", "the voice in my head", "I keep rehearsing", "rumination concern", "I can't stop the loop"]
 tags: ["voice in head", "inner critic", "self-criticism", "rumination", "concerns"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # My inner critic won't stop / The voice in my head is constant
@@ -95,3 +95,4 @@ The branching point depends on what is underneath the surface complaint.
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)

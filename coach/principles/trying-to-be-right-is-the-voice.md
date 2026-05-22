@@ -5,7 +5,7 @@ title: "Trying to Be Right Is the Voice"
 aliases: ["being right is the voice", "trying to do the right thing is the voice", "the integrity costume", "what would the right thing be is voice", "the right answer trap", "the voice in the head wants to be right", "subtle voice as integrity"]
 tags: ["voice in head", "being right", "integrity", "principle", "wants"]
 related: ["voice-in-the-head", "being-right-college-story", "the-want", "wants-over-shoulds", "vulnerability", "wants-vs-partiality"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
 ---
 
 # Trying to Be Right Is the Voice
@@ -91,3 +91,4 @@ Direct, slightly amused. Joe catches the subtle voice gently but does not let it
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
