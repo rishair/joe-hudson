@@ -5,7 +5,7 @@ title: "The 3-to-5 Rule"
 aliases: ["three to five rule", "boundary testing pattern", "upping the ante", "3 to 5 times"]
 tags: ["boundaries", "relationships", "transformation", "integration"]
 related: ["integration", "epiphany-vs-transformation", "familiar-over-safe"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2022-10-26_Integrating A Transformative Experience"]
 ---
 
 # The 3-to-5 Rule
@@ -54,3 +54,4 @@ About 70-80% of relationships survive the shift. The 20-30% who leave are not a 
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)

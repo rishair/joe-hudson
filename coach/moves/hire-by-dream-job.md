@@ -5,7 +5,7 @@ title: "Hire by Asking 'What's Your Dream Job?'"
 aliases: ["hire by dream job", "ask their dream job", "dream job hiring question", "the dream-job hiring move", "what's your dream job hiring", "fit by dream job", "the management-prevention hire", "hiring to avoid management", "ask what they want to do, not convince them"]
 tags: ["hiring", "leadership", "fit", "management", "delegation", "live move", "wants", "investing"]
 related: ["enjoy-over-manage", "follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "inherent-goodness", "give-parameters-of-winning", "the-want", "wants-over-shoulds"]
-sources: ["2022-10-26_Enjoy Over Manage"]
+sources: ["2022-10-26_Enjoy Over Manage", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Hire by Asking 'What's Your Dream Job?'
@@ -83,6 +83,18 @@ The leader's response to a poor match should be matter-of-fact. "It sounds like 
 - [[follow-the-demand]]: the customer-facing version of the same principle. Find what people are asking for and serve it rather than imposing your vision.
 - [[state-the-want-not-the-action]]: the daily delegation form once the team is composed of people who want the work.
 
+## The CEO Sibling: Empower the Hiring Manager Rather Than Veto
+
+A related move at the CEO or senior leader level: interview every candidate, but rarely veto. The senior leader's job in interviews is to offer perspective and observations to the hiring manager, not to make the call. The decision belongs to the person who will manage the new hire.
+
+"Even now we're hiring a bunch of people. We're an early-stage startup. And I interview everybody that's coming on the team. But very rarely do I veto. Like, I've done it twice in all of the people that we've interviewed, because I'm much more here to empower you as the hiring manager to make your own decisions. And I'm just going to give you perspective on here are some things I think are going to be important as they onboard. Here's some challenges you may have with them as you're managing them, whatever the kind of insights are that I see." -- Jaime Waydo, Putting My Needs First
+
+The move is initially disorienting for the hiring manager. They expect the CEO to decide. "They would look at me and they'd be like, 'well, should we hire this person or not? You interviewed them. You're the boss.' And I'm like, 'I'm not the hiring manager. I'm not deciding. Here's what I see.'"
+
+Holding that line is the move. The CEO who keeps deciding teaches the team that the CEO is the decision point. The CEO who gives observations and refuses to decide teaches the team that they are the decision point. The second team develops capacity the first team cannot.
+
+This is [[dropping-roles-makes-room]] applied to hiring authority. The CEO who occupies the hiring-veto role prevents the hiring manager from developing the muscle of making the call. The CEO who drops the role transfers the muscle.
+
 ## Upstream (What Leads Here)
 
 - A leader has been making hires that look right on paper but require constant management.
@@ -101,3 +113,4 @@ The leader's response to a poor match should be matter-of-fact. "It sounds like 
 ## Sources
 
 - 2022-10-26_Enjoy Over Manage
+- 2022-10-26_Jaime Waydo | Putting My Needs First

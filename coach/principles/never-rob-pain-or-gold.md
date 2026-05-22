@@ -5,7 +5,7 @@ title: "Never Rob a Person of Their Pain or Their Gold (Both Serve Them Equally)
 aliases: ["never rob a man of his pain", "never rob a man of his gold", "don't rob their pain", "don't rob their gold", "respect the journey", "their pain is theirs", "their gold is theirs", "the parenting principle of non-interference", "stay out of their growth path", "let them have their pain", "honor their walk"]
 tags: ["principle", "parenting", "non-interference", "respect", "developmental", "agency", "coaching"]
 related: ["caretaking-prevents-the-bottom", "honor-the-patterns-intent", "dropping-roles-makes-room", "the-work-is-yours-not-mine", "the-clients-wisdom-not-the-teachers", "dont-shame-kids-they-self-shame"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Never Rob a Person of Their Pain or Their Gold (Both Serve Them Equally)
@@ -95,6 +95,20 @@ The principle applies to leadership. A leader who has accumulated decades of ins
 
 The leader who applies this principle states their wants (see [[state-the-want-not-the-action]]), holds the structure, asks questions, and lets the employees discover what they discover. The team that develops this way is more capable than the team developed under the install-the-gold model, because the gold belongs to the people who have it.
 
+## The Specific Edge: Saving the Empowered Person Just Before Failure
+
+A subtler form of robbing the pain shows up in leaders who have already done the work of empowering their teams. The leader has stopped micromanaging. The leader is letting people own their work. Then the leader sees one of those empowered people walking toward a likely failure, and the rescue impulse fires. The leader steps back in — sends the email, takes the call, redoes the deck, intervenes. The empowerment is undone in the moment of the catch.
+
+Jaime Waydo names this as her current edge:
+
+"I can't save people. And I have this tendency to be like, 'you're empowered, you do you.' But then like when they're about to fail, I'm like, 'oh, let me help you, let me catch you.' And so now the thing I'm working on is like, no, maybe they're not gonna fail and I'm wrong. Maybe the failure is the learning that they need. Or maybe like them being weak in that role is actually what's going to strengthen the team by having the team see it and come around." -- Jaime Waydo, Putting My Needs First
+
+The recognition: the failure being prevented is sometimes the learning that was needed. The weakness being papered over is sometimes the visible weakness that lets the team self-organize around it. The rescue is robbery in both directions. It robs the person's pain (the failure that would have produced the learning). It robs the team's gold (the structural adaptation the team would have made).
+
+The work is to let the person fail when failing is the development, and to know the difference between the failure that is the development and the failure that is the structural collapse. The difference is read in real time, gets it wrong sometimes, refines with practice. See [[over-control-vs-hands-off-oscillation]] for the binary trap that lives next to this edge.
+
+"I need to really mean that and let them kind of go and forge their own path. And I think I've done it right a few times and wrong a few times lately. And when it's done right, what I see is the team is stronger." -- Jaime Waydo, Putting My Needs First
+
 ## When the Principle Is Hard
 
 The principle is hardest:
@@ -122,7 +136,9 @@ The principle does not say to never speak. It says to speak in ways that do not 
 - Toward [[the-clients-wisdom-not-the-teachers]]: the related principle about whose insight matters.
 - Toward [[dropping-roles-makes-room]]: the structural mechanism for what happens when you stop occupying the developmental space.
 - Toward [[honor-the-patterns-intent]]: respecting what a person's existing configuration was doing for them.
+- Toward [[over-control-vs-hands-off-oscillation]]: the binary trap that lives next to the leadership application of this principle.
 
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Jaime Waydo | Putting My Needs First

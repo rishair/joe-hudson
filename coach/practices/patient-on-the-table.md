@@ -5,7 +5,7 @@ title: "Patient on the Table (Depersonalize the Problem)"
 aliases: ["look at it like a patient on the table", "what are the symptoms, what's the next step", "depersonalize the problem", "no-fault problem framing", "ER doc framing", "remove the fault question", "symptom and treatment frame"]
 tags: ["shame", "blame", "fault", "problem-solving", "leadership", "teams", "practice"]
 related: ["shame-drives-behavior", "fault-vs-responsibility", "just-business-vs-impersonal", "money-is-impersonal", "decisions-are-emotional", "voice-in-the-head", "conditions-for-transformation"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Patient on the Table (Depersonalize the Problem)
@@ -88,3 +88,4 @@ Brett's reframe sharpens this: "What if it's not your fault? It's your responsib
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First (Jaime opens and closes this episode with the patient-on-the-table framing, applying it specifically as a way to keep shame from cropping up in team problem-solving)

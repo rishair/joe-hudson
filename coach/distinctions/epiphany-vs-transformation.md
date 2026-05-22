@@ -5,7 +5,7 @@ title: "Epiphany vs. Transformation"
 aliases: ["epiphany versus transformation", "insight vs change", "recognition vs shift", "aha moment vs real change"]
 tags: ["development", "integration", "transformation", "insight"]
 related: ["integration", "three-stages-of-integration", "process-over-result"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2022-10-26_Integrating A Transformative Experience"]
 ---
 
 # Epiphany vs. Transformation
@@ -46,3 +46,4 @@ Signs of transformation:
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)

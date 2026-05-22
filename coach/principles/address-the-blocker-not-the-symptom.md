@@ -5,7 +5,7 @@ title: "Address What's In the Way, Not the Surface Problem"
 aliases: ["address the blocker not the symptom", "address the obstacle not the goal", "work on what gets in the way", "the root cause approach", "don't work on the symptom", "the smoking and the starting a business have the same block", "fixing the block changes ten things", "work on the blockers"]
 tags: ["principle", "coaching-methodology", "root-cause", "transformation", "blockers", "indirect-approach"]
 related: ["wants-over-shoulds", "address-the-blocker-not-the-symptom", "shame-drives-behavior", "find-the-want-behind-the-should", "honor-the-patterns-intent", "seven-limiting-beliefs", "joes-stinky-house-experiment", "the-work-is-yours-not-mine", "exercises-need-body-voice-emotion"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # Address What's In the Way, Not the Surface Problem
@@ -89,3 +89,4 @@ This requires [[sincerity-is-the-prerequisite]]: the client has to be willing to
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

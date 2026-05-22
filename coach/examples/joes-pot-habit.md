@@ -5,7 +5,7 @@ title: "Joe's Pot Habit"
 aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties"]
 tags: ["resistance", "shame", "addiction", "personal example", "transformation"]
 related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Joe's Pot Habit
@@ -41,3 +41,4 @@ When someone is fighting a habit or pattern through willpower. When shame about 
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

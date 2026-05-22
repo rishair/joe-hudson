@@ -5,7 +5,7 @@ title: "Effective Exercises Engage Voice, Body, and Emotion Together"
 aliases: ["exercises need body voice emotion", "the three-component exercise design", "verbal physical emotional", "bypass the intellect", "exercises that work versus exercises that don't", "intellect-dominant exercises fail", "the three components of effective practice", "you can't bypass the intellect but you can't let it dominate"]
 tags: ["principle", "coaching-methodology", "exercise-design", "embodiment", "experiential-learning", "intellect"]
 related: ["should-vs-want-body-check", "feel-over-figure", "staying-in-your-body", "emotions-live-in-muscles", "logic-vs-emotional-movement", "address-the-blocker-not-the-symptom", "observe-vs-move-emotion", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # Effective Exercises Engage Voice, Body, and Emotion Together
@@ -103,3 +103,4 @@ The principle also does not say emotion has to be dramatic. The "emotional compo
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

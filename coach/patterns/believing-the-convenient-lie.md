@@ -5,7 +5,7 @@ title: "Believing the Convenient Lie"
 aliases: ["believe a lie that rhymes with truth", "self-deception", "wanting to believe", "duping ourselves"]
 tags: ["deception", "self-awareness", "sales", "media", "trauma"]
 related: ["trauma-mapping", "view", "vulnerability"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Believing the Convenient Lie
@@ -46,3 +46,4 @@ In relationships, this shows up as ignoring red flags that conflict with a desir
 ## Sources
 
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

@@ -5,7 +5,7 @@ title: "Negative Self-Reinforcement"
 aliases: ["AC current pattern", "self-punishment loop", "kicking yourself in the face", "associating the task with pain", "negative reward cycle"]
 tags: ["resistance", "procrastination", "shame", "habits", "patterns"]
 related: ["resistance", "layered-resistance", "shame-drives-behavior", "feeling-the-unfelt-emotion"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Negative Self-Reinforcement
@@ -48,3 +48,4 @@ This is not visualization as a trick. It is interrupting the automatic associati
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

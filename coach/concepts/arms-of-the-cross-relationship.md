@@ -4,7 +4,7 @@ id: arms-of-the-cross-relationship
 title: "The Arms of the Cross: Beginning, Body, End of a Relationship"
 aliases: ["arms of the cross relationship", "beginning body end of relationship", "the three parts of a relationship", "relationship arc structure", "the three phases of a relationship", "the cross metaphor for relationships", "the body of the relationship"]
 tags: ["relationships", "metaphor", "structure", "phases", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # The Arms of the Cross: Beginning, Body, End of a Relationship
@@ -75,6 +75,7 @@ It is also useful for couples who are mid-relationship and treating the loss of 
 - Toward [[mourn-the-breakup-fully]] when the question is about the end
 - Toward [[relationships-as-personal-growth-path]] as the agreement that holds across all three parts
 - Toward [[heartbreak-as-capacity-expansion]] as the renewable aliveness across the whole arc
+- Toward [[nre-returns-in-grounded-form-after-each-healing]] when the question is whether the body's aliveness can return after the beginning has chemically expired
 
 ## Tone
 
@@ -83,3 +84,4 @@ Plainly descriptive. Joe offers the metaphor in passing as a structural aid. It 
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

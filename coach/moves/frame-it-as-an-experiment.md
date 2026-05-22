@@ -4,8 +4,8 @@ id: frame-it-as-an-experiment
 title: "Frame It As an Experiment (For the Skeptic)"
 aliases: ["the experiment frame", "make it experimental", "framing as experiment", "the 3 week experiment", "let's just do the experiment", "the test it for three weeks move", "the experimental framing move", "the time-bounded experiment", "introduce it as an experiment", "if it doesn't work we'll stop", "the intellectual buy-in move", "skepticism after not before", "skepticism contaminates the experiment", "the experiment requires bracketing skepticism"]
 tags: ["move", "leadership", "introducing-practices", "skeptics", "intellectual-resistance", "buy-in", "experiment"]
-related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks", "sincerity-is-the-prerequisite", "the-clients-wisdom-not-the-teachers"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks", "sincerity-is-the-prerequisite", "the-clients-wisdom-not-the-teachers", "dont-dismiss-exercise-before-doing-it"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # Frame It As an Experiment (For the Skeptic)
@@ -128,3 +128,4 @@ Calm, intellectual, almost clinical. The move is delivered with the energy of a 
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

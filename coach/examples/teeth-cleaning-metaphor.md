@@ -5,7 +5,7 @@ title: "The Teeth Cleaning Metaphor for Transformation Work"
 aliases: ["the teeth cleaning metaphor", "transformation is like a teeth cleaning", "the dentist metaphor", "uncomfortable but clarifying", "the cleaning metaphor", "discomfort that produces clarity"]
 tags: ["examples", "metaphors", "transformation", "discomfort", "intensity", "embracing-intensity"]
 related: ["embrace-intensity", "embracing-intensity-as-leading-indicator", "approach-the-pink-elephant", "embracing-vs-creating-intensity", "embrace-vs-brace"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # The Teeth Cleaning Metaphor
@@ -51,3 +51,4 @@ The metaphor also implies finiteness. Teeth cleanings end. The clarity that foll
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

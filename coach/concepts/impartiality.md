@@ -5,7 +5,7 @@ title: "Impartiality"
 aliases: ["not having an agenda", "no agenda", "wandering", "I in VIEW", "without outcome attachment", "I trust you", "letting go of agenda"]
 tags: ["VIEW", "freedom", "business", "control", "trust", "shame", "boundaries"]
 related: ["view", "wonder", "vulnerability", "wants-vs-partiality", "shame-drives-behavior", "fixing-people", "impartial-apathy", "process-over-result", "enjoy-over-manage", "inherent-goodness"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Impartiality
@@ -51,6 +51,8 @@ Impartial hiring: rather than convincing talented people to join, state the real
 An artist struggling to sell was told to go get 50 rejections. After 10 calls, he was in 3 galleries. Dropping the partiality of trying to convince let him be himself, which is what the galleries wanted.
 
 "The best salesmen will challenge, ask difficult questions, will even look at a pipeline and try to get to a no as quickly as possible." -- Joe Hudson, Impartiality
+
+The same principle scales to whole categories. Most bad-debt collection works by intimidation: "I will intimidate you until you pay me." A company like Detli inverts this by approaching debtors as collaborators: "I want to work with you about this." Most people want their debt relieved, and the impartial approach gets a much better result. Aggressive phone-bank models can work short-term when it is a pure numbers game (100 calls to get 3 or 4), but they degrade. The aggressive culture turns the team against the leader because the team does not want to feel what they are making others feel. The person who shifts to impartiality usually leaves and finds work that is life-affirming.
 
 ### In Management
 
@@ -158,3 +160,5 @@ Short-term partiality is fear-based: I need this outcome right now. Long-term pa
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

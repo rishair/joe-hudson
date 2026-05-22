@@ -5,7 +5,7 @@ title: "The Body Lies Just as Much as the Mind"
 aliases: ["the body lies", "body lies as much as mind", "the gut can be wrong", "body wisdom isn't absolute truth", "heart wisdom isn't absolute truth", "no organ is the truth", "the photograph metaphor", "all knowing is partial", "every intelligence is partial"]
 tags: ["body", "intelligence", "humility", "ways of knowing", "limits of knowing"]
 related: ["head-heart-gut", "feel-over-figure", "decisions-are-emotional", "wonder", "judgment-vs-discernment"]
-sources: ["2022-01-07_How Your Body Speaks"]
+sources: ["2022-01-07_How Your Body Speaks", "2022-10-26_How Your Body Speaks"]
 ---
 
 # The Body Lies Just as Much as the Mind
@@ -83,3 +83,4 @@ When he first said it to Brett, Brett found it "really fascinating." The princip
 ## Sources
 
 - 2022-01-07_How Your Body Speaks
+- 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)

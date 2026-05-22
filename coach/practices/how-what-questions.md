@@ -5,7 +5,7 @@ title: "How and What Questions"
 aliases: ["open-ended questions", "how what questions", "the VIEW technique", "asking how and what"]
 tags: ["VIEW", "technique", "questions", "communication"]
 related: ["view", "wonder", "why-questions"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2022-10-26_Introduction to VIEW"]
 ---
 
 # How and What Questions
@@ -63,3 +63,4 @@ How and what questions can carry any tone. "What's making you such a dick?" from
 
 - 2020-10-26_Introduction to VIEW
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

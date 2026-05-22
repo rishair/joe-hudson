@@ -5,7 +5,7 @@ title: "Don't confuse apathy with impartiality"
 aliases: ["I don't care", "false impartiality", "apathetic impartiality", "disowning wants", "above your humanity"]
 tags: ["impartiality", "VIEW", "avoidance", "dissociation"]
 related: ["impartiality", "wants-vs-partiality", "vulnerability"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
 ---
 
 # Don't confuse apathy with impartiality
@@ -39,3 +39,4 @@ A person who is genuinely impartial about a conversation can say: "This isn't ho
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

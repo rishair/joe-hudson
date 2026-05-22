@@ -5,7 +5,7 @@ title: "Being Heard"
 aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard"]
 tags: ["connection", "communication", "resistance", "teams", "productivity"]
 related: ["view", "empathy", "how-what-questions", "impartiality"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Being Heard
@@ -57,3 +57,4 @@ The work in such cases is not to find someone who finally sees them. It is to le
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

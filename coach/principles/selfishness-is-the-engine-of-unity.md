@@ -5,7 +5,7 @@ title: "Selfishness Is the Engine of Unity"
 aliases: ["selfish gene", "undeveloped selfishness", "deep selfishness becomes compassion", "deep wants become generous", "levels of selfishness as developmental gauge", "selfishness as development marker", "I don't even believe in selfishness", "selfishness is a word adults created to control children", "selfishness is what your parents called you", "altruism is also selfish", "altruism feels good", "evolution from selfishness to altruism"]
 tags: ["selfishness", "unity", "wants", "compassion", "interdependence", "development"]
 related: ["wants-vs-partiality", "resistance", "impartiality", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "the-want", "spiritual-narcissism", "am-i-being-selfish", "need-behind-the-want", "what-is-truly-compassionate"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-15_Want over Should — Master Class Series #6", "2021-06-04_The Business Behind our Courses", "2021-11-19_What is Selfishness?"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-15_Want over Should — Master Class Series #6", "2021-06-04_The Business Behind our Courses", "2021-11-19_What is Selfishness?", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Selfishness Is the Engine of Unity
@@ -117,3 +117,4 @@ The corrective is not to suppress the surface wants. It is to actually meet them
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-06-04_The Business Behind our Courses
 - 2021-11-19_What is Selfishness?
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

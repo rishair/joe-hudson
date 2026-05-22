@@ -5,7 +5,7 @@ title: "Sincerity Is the Prerequisite for Transformation Work"
 aliases: ["sincerity is the prerequisite", "sincerity over technique", "the sincerity test", "you have to actually want it", "the three sincerity gates", "without sincerity nothing works", "the work requires sincerity", "the willingness gate"]
 tags: ["principle", "coaching-methodology", "sincerity", "buy-in", "prerequisites", "transformation"]
 related: ["the-work-is-yours-not-mine", "fixing-people", "dont-half-ass-the-experiment", "follow-the-demand", "address-the-blocker-not-the-symptom", "frame-it-as-an-experiment", "meet-resistance-with-okay", "spiritual-narcissism"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # Sincerity Is the Prerequisite for Transformation Work
@@ -90,3 +90,4 @@ Direct, non-condemning. Sincerity is not a moral category. The absence of it is 
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

@@ -4,7 +4,7 @@ id: dont-try-to-change-your-partner
 title: "Don't Try to Change Your Partner"
 aliases: ["change your partner anti-pattern", "trying to change the other person", "the change-the-partner trap", "stop trying to change them", "trying to get your partner to be different", "the partner-fixing anti-pattern", "trying to get your partner on board with your path"]
 tags: ["relationships", "anti-pattern", "fixing", "control", "growth", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Don't Try to Change Your Partner
@@ -87,6 +87,11 @@ The hiding is what makes the anti-pattern so durable. The energy of trying to ch
 
 "Trying to get each other to change in a relationship, which is just brutal." -- Joe Hudson, How Relationships Reveal Us
 
+## Related
+
+The sophisticated growth-and-development variant of this anti-pattern is [[dont-position-yourself-as-your-partners-growth-guide]]. The variant is harder to see because it is wrapped in the language of facilitation rather than fixing. The mechanism is the same.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

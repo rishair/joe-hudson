@@ -5,7 +5,7 @@ title: "Complementary Trauma Surfaces"
 aliases: ["click pattern", "trauma click", "complementary surface area of traumas", "matching traumas", "the perfect match", "couples find each other through trauma", "the trauma fit", "perfectly matched traumas", "instinctual way of finding the person who can trigger us", "the trauma-matched partner", "we are wise in our trauma selection", "two patterns interlock kind of perfectly", "things that fire together wire together", "love wired to whatever happened in childhood"]
 tags: ["relationships", "partnership", "trauma", "attraction", "blame", "marriage", "trigger"]
 related: ["trauma-mapping", "childhood-imprinting", "projections", "engineering-heartbreak-to-avoid-heartbreak", "trauma-heals-in-relationship", "feeling-the-unfelt-emotion", "subconscious-partner-selection", "relationships-as-personal-growth-path", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "trigger", "anxious-avoidant-dynamic", "walking-on-eggshells"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Complementary Trauma Surfaces
@@ -120,3 +120,4 @@ Joe is steady and almost matter-of-fact about this pattern. He does not present 
 - 2021-08-13_Seeing Through Family Dynamics
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-09-30_Triggered
+- 2022-10-26_How Relationships Reveal Us

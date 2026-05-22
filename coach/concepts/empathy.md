@@ -5,7 +5,7 @@ title: "Empathy"
 aliases: ["being with someone in their emotions", "E in VIEW", "true empathy", "felt sense of another", "being with not saving"]
 tags: ["VIEW", "emotions", "connection", "presence", "body", "mirror neurons"]
 related: ["view", "vulnerability", "wonder", "empathy-vs-sympathy", "losing-yourself-in-others", "caring-vs-caretaking", "staying-in-your-body", "is-this-mine", "decisions-are-emotional", "feeling-the-unfelt-emotion", "simplicity-on-the-other-side-of-complexity", "anger-as-cover-for-deeper-emotion"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Empathy
@@ -136,3 +136,5 @@ The combination of gentleness and curiosity is what makes the descent sustainabl
 - 2020-10-26_Introduction to VIEW
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-06_Empathy -- Connection Course Series #4
+- 2022-10-26_Empathy (rebroadcast of the 2020-11-06 episode)
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

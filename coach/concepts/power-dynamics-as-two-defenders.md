@@ -5,7 +5,7 @@ title: "Power Dynamics: Two People Who Both Think They're Defending"
 aliases: ["power dynamics as mutual defense", "both sides feel attacked", "two people defending themselves", "the mutual defense frame", "power dynamics structure", "all conflict is two scared people", "the defender-attacker mirror", "mutual defense dynamic", "both think the other is attacking", "every fight has the same structure", "all fights are about the same thing", "the structure of every relationship fight"]
 tags: ["power", "conflict", "fear", "defense", "relational", "diagnostic", "core concept", "relationships"]
 related: ["fear-triangle", "empowered-vs-power", "defense", "binary-thinking-signals-fear", "anxiety-as-constricted-life-force", "acknowledge-the-fear-by-role", "relationships-as-personal-growth-path", "dont-try-to-change-your-partner"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Power Dynamics: Two People Who Both Think They're Defending
@@ -121,6 +121,7 @@ The internal version is the same structure as the external one. See [[fear-trian
 - Toward [[acknowledge-the-fear-by-role]]: the exit move that converts defense into honesty
 - Toward [[empowered-vs-power]]: the deeper stance that ends the need to defend
 - Toward [[defense]]: the somatic and mental mechanics of what the defense actually is
+- Toward [[so-they-attacked-you-how-do-you-want-to-be]]: the blunt move when the client has been narrating the partner's attacks on a loop
 
 ## Tone
 
@@ -130,3 +131,4 @@ Plain, observational, almost biological. Joe does not deliver this as a moral te
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

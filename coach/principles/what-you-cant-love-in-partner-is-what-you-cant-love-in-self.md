@@ -4,7 +4,7 @@ id: what-you-cant-love-in-partner-is-what-you-cant-love-in-self
 title: "What You Can't Love in Your Partner Is What You Can't Love in Yourself"
 aliases: ["mirror principle in relationships", "what you can't love in them is in you", "the relationship mirror", "your partner's traits are yours", "can't change what you can't love", "love in self before love in other", "the partner as mirror"]
 tags: ["relationships", "mirror", "projection", "self-love", "judgment", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # What You Can't Love in Your Partner Is What You Can't Love in Yourself
@@ -129,3 +129,4 @@ Joe states this calmly, as a structural fact. He does not push the principle har
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

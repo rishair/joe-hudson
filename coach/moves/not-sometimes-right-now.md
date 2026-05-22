@@ -5,7 +5,7 @@ title: "Not Sometimes, Right Now"
 aliases: ["bring it into the present", "feel it now", "right now not abstract", "stop talking about it and feel it"]
 tags: ["coaching move", "presence", "embodiment", "felt sense"]
 related: ["staying-in-your-body", "feeling-the-unfelt-emotion", "resistance", "how-what-questions"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Not Sometimes, Right Now

@@ -5,7 +5,7 @@ title: "Visualizing Feared Outcomes"
 aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance"]
 tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships"]
 related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality"]
 ---
 
 # Visualizing Feared Outcomes
@@ -94,3 +94,4 @@ The leadership-specific form: at work, the worst thing that can happen is usuall
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-08-19_The Beauty of Grief -- Emotion Series #9
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

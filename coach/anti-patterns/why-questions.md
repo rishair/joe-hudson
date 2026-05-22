@@ -5,7 +5,7 @@ title: "Avoid 'why' questions"
 aliases: ["why questions carry judgment", "why as attack", "don't ask why"]
 tags: ["VIEW", "questions", "judgment", "communication"]
 related: ["how-what-questions", "view"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Avoid "why" questions
@@ -40,3 +40,4 @@ The reframing is not just cosmetic. It changes the speaker's neurology. Finding 
 
 - 2020-10-26_Introduction to VIEW
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

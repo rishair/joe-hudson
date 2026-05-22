@@ -5,7 +5,7 @@ title: "Name the Authority Figure's Fear (From Below)"
 aliases: ["I can tell you're scared", "name the boss's fear", "calling the yelling leader's fear", "naming fear up the chain", "tell the angry authority they're scared", "diagnose the leader's fear", "you're scared isn't useful", "subordinate truth-bomb"]
 tags: ["leadership", "fear", "vulnerability", "truth", "boss", "anger", "subordinate", "courage"]
 related: ["public-truth-bomb", "welcoming-fear-in-leadership", "anger-as-cover-for-deeper-emotion", "i-freeze-around-authority", "vulnerability-in-the-workplace", "vulnerability", "fear-vs-anxiety", "im-not-an-anxious-person"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Name the Authority Figure's Fear (From Below)
@@ -93,3 +93,4 @@ This is how cultures shift -- not from policy but from one person doing the thin
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First

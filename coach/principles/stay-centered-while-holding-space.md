@@ -5,7 +5,7 @@ title: "Hold Space While Staying Centered in Yourself"
 aliases: ["stay in yourself while holding space", "you can hold space and stay centered", "holding space does not mean abandoning yourself", "stay in your truth while present with theirs", "centered presence", "presence without merger", "hold space but stay in your knowing"]
 tags: ["leadership", "presence", "boundaries", "empathy", "VIEW", "centering"]
 related: ["empathy", "losing-yourself-in-others", "chameleon-leadership", "is-this-mine", "staying-in-your-body", "caring-vs-caretaking", "vulnerability"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Hold Space While Staying Centered in Yourself
@@ -88,3 +88,4 @@ The mechanics are simple, the practice is lifelong:
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First

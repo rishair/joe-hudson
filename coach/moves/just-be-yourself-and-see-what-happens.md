@@ -4,7 +4,7 @@ id: just-be-yourself-and-see-what-happens
 title: "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)"
 aliases: ["why don't you just be yourself", "be fully who you are and see what happens", "the stay-or-leave move", "be yourself in the relationship", "be yourself in the job", "since you're going to leave anyway", "the authenticity experiment for ambivalent decisions", "the just-be-you move", "if it ends it ends if it doesn't it doesn't"]
 tags: ["relationships", "authenticity", "decisions", "ambivalence", "move", "stay or leave"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Just Be Yourself and See What Happens (For Stay-or-Leave Questions)
@@ -126,6 +126,11 @@ In these cases, the work is earlier. The move presumes that the person has acces
 
 Plain, direct, slightly amused at the way the question dissolves. Joe is not gentle here. The move is delivered as the obvious thing to do, which usually surprises the person because the question had not seemed answerable. The matter-of-factness is what gives the move its power.
 
+## Related Moves
+
+- [[so-they-attacked-you-how-do-you-want-to-be]] -- the precursor move when the client is locked in the I'm-being-attacked frame. Often runs before this move.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

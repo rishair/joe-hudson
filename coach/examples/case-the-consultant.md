@@ -5,7 +5,7 @@ title: "Case the Consultant (How Joe Learned Connection Beats Seriousness)"
 aliases: ["Case story", "the Case story", "Joe's mentor Case", "Case in VC", "Case and the farming communities", "Case who laughed", "Joe and Case in venture capital", "the consultant Case"]
 tags: ["connection", "business", "venture-capital", "joe-personal-story", "view-origin"]
 related: ["connection", "connection-as-life-bottom-line", "view", "process-over-result", "case-the-vc-consultant"]
-sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Case the Consultant (How Joe Learned Connection Beats Seriousness)
@@ -59,3 +59,4 @@ The story is also worth telling because it locates the teaching in actual experi
 
 - 2022-04-29_Connection: A State Beyond States (Joe's first piece of evidence for connection as bottom line)
 - 2020-10-26_Introduction to VIEW (Case as the origin of the VIEW methodology, including the cancer/California arc)
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

@@ -5,7 +5,7 @@ title: "Owning Your Partiality"
 aliases: ["calling out your own agenda", "naming your partiality", "apologizing for fixing", "I notice I'm trying to fix you"]
 tags: ["VIEW", "impartiality", "vulnerability", "coaching move"]
 related: ["impartiality", "wants-vs-partiality", "vulnerability", "fixing-people"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
 ---
 
 # Owning Your Partiality
@@ -56,3 +56,4 @@ Gentle, matter-of-fact, slightly self-deprecating. Not performative self-critici
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

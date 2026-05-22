@@ -4,7 +4,7 @@ id: toilet-blame-story
 title: "God Damn It, She Moved the Toilet (The Wife-Blame Recognition)"
 aliases: ["god damn it she moved the toilet", "the toilet blame story", "the man who missed the toilet", "the wife moved the toilet recognition", "the blaming the wife story", "the pee in the dark story"]
 tags: ["relationships", "blame", "recognition", "self-awareness", "example", "marriage"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # God Damn It, She Moved the Toilet
@@ -52,3 +52,4 @@ The story connects to [[awareness-as-change-agent]] -- the recognition is itself
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

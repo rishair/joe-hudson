@@ -5,7 +5,7 @@ title: "Layered Resistance"
 aliases: ["meta-resistance", "resisting the resistance", "resistance in sheep's clothing", "compounding resistance", "fighting the fight", "levels of fight"]
 tags: ["resistance", "patterns", "stuck", "self-improvement"]
 related: ["resistance", "shame-drives-behavior", "negative-self-reinforcement", "undoing-not-doing", "joes-woods-fast-stopped-fighting"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_Embarking On The Journey"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Layered Resistance
@@ -65,3 +65,5 @@ The exit is not another effort move. It is dropping the category. He stopped. Se
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

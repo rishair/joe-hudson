@@ -4,7 +4,7 @@ id: subconscious-partner-selection
 title: "Subconscious Partner Selection (The First-Date Contract Negotiation)"
 aliases: ["first date contract negotiation", "subconscious partner selection", "the booth-next-door observation", "you can see the whole relationship in the first moments", "subconscious wisdom in partner selection", "the body's wisdom in choosing a partner", "instinctual partner selection", "the first date as contract negotiation"]
 tags: ["relationships", "attraction", "subconscious", "trauma", "selection", "intuition"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Subconscious Partner Selection (The First-Date Contract Negotiation)
@@ -104,3 +104,4 @@ Joe tells this with a soft amazement at the precision of the system. The booth-n
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

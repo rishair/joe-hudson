@@ -4,7 +4,7 @@ id: romantic-relationships
 title: "Romantic Relationships as a Coaching Domain"
 aliases: ["romantic relationships", "coaching about relationships", "relationship coaching", "the relationship domain", "long-term partnership work", "marriage as coaching domain", "relationships work"]
 tags: ["relationships", "partnership", "marriage", "application", "domain"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Romantic Relationships as a Coaching Domain
@@ -48,7 +48,10 @@ People rarely walk in saying "I am in a complementary trauma configuration with 
 - "I'm not happy in this relationship" -> see [[dont-take-responsibility-for-anothers-happiness]], [[relationships-as-personal-growth-path]]
 - "We keep having the same fight" -> see [[power-dynamics-as-two-defenders]], [[complementary-trauma-surfaces]]
 - "Should I stay or leave?" -> see [[just-be-yourself-and-see-what-happens]]
-- "My partner discovered this work and won't stop pushing me" -> see [[dont-evangelize-the-work]], [[dont-try-to-change-your-partner]]
+- "My partner discovered this work and won't stop pushing me" -> see [[dont-evangelize-the-work]], [[dont-try-to-change-your-partner]], [[dont-position-yourself-as-your-partners-growth-guide]]
+- "My partner attacks me all the time" -> see [[so-they-attacked-you-how-do-you-want-to-be]], [[power-dynamics-as-two-defenders]]
+- "I have to say no to something my partner wants and I don't know how" -> see [[walled-no-vs-open-hearted-limit]]
+- "The chemistry is gone, the relationship feels dead" -> see [[nre-returns-in-grounded-form-after-each-healing]], [[arms-of-the-cross-relationship]]
 - "I'm broken up and don't know what to do" -> see [[mourn-the-breakup-fully]]
 - "How do I know if we're a good match?" -> the question is malformed; see [[subconscious-partner-selection]]
 
@@ -59,6 +62,7 @@ The methodology has clear entry points for each of these presentations.
 The domain has its own characteristic anti-patterns:
 
 - [[dont-try-to-change-your-partner]] -- the most common
+- [[dont-position-yourself-as-your-partners-growth-guide]] -- the sophisticated form, in growth language
 - [[fixing-people]] applied to the spouse
 - [[losing-yourself-in-others]] -- the codependence form
 - [[loving-to-transform]] -- love as a strategy to change them
@@ -99,3 +103,4 @@ It is not relationship-specific. The methodology in this domain is the general m
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

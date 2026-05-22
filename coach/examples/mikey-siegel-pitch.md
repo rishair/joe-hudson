@@ -5,7 +5,7 @@ title: "Mikey Siegel Pitch Meeting"
 aliases: ["investor pitch story", "body tension in pitch", "naming the shift"]
 tags: ["impartiality", "vulnerability", "business", "sales", "connection"]
 related: ["impartiality", "vulnerability", "wants-vs-partiality"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
 ---
 
 # Mikey Siegel Pitch Meeting
@@ -34,3 +34,4 @@ When illustrating how vulnerability and impartiality work together in business o
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

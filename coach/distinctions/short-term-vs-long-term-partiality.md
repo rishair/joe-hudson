@@ -5,7 +5,7 @@ title: "Short-Term vs. Long-Term Partiality"
 aliases: ["fear-based partiality vs principled partiality", "reactive vs principled goals", "kitchen drawer theory"]
 tags: ["impartiality", "fear", "principles", "leadership"]
 related: ["impartiality", "fear-is-about-feeling", "process-over-result"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
 ---
 
 # Short-Term vs. Long-Term Partiality
@@ -49,3 +49,4 @@ A CEO Joe worked with called this the "kitchen drawer theory." Every home has a 
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

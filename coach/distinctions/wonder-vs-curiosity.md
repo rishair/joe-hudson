@@ -5,7 +5,7 @@ title: "Wonder vs. Curiosity"
 aliases: ["wonder not curiosity", "why wonder instead of curiosity", "open vs narrowing curiosity"]
 tags: ["VIEW", "wonder", "curiosity", "presence"]
 related: ["wonder", "view"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Wonder vs. Curiosity
@@ -37,4 +37,6 @@ Wonder also propels action differently than curiosity. Curiosity can become anal
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-04_Wonder -- Connection Course Series #2
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

@@ -5,7 +5,7 @@ title: "Body Awareness in Meetings and Work"
 aliases: ["body in meetings", "body awareness at work", "stretching in meetings", "moments of silence in meetings", "the meeting bell", "the meditation board meeting", "the programmer 45-15 rhythm", "embodiment at work", "work rhythms for body", "body in business meetings"]
 tags: ["business", "meetings", "body", "application", "leadership", "teams"]
 related: ["staying-in-your-body", "head-heart-gut", "feel-over-figure", "decisions-are-emotional", "constraints-increase-creativity", "efficiency-as-enjoyment", "sleep-deprived-soldier"]
-sources: ["2022-01-07_How Your Body Speaks"]
+sources: ["2022-01-07_How Your Body Speaks", "2022-10-26_How Your Body Speaks"]
 ---
 
 # Body Awareness in Meetings and Work
@@ -97,3 +97,4 @@ For a leader bringing this into an organization, the practice has more weight wh
 ## Sources
 
 - 2022-01-07_How Your Body Speaks
+- 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)

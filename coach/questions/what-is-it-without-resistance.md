@@ -5,7 +5,7 @@ title: "What is it without resistance in it?"
 aliases: ["feel it without resistance", "what happens without the resistance", "what does X become without resistance", "remove the resistance from the feeling"]
 tags: ["resistance", "core question", "somatic", "coaching question"]
 related: ["resistance", "feeling-the-unfelt-emotion", "not-sometimes-right-now", "staying-in-your-body"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # What is it without resistance in it?
@@ -48,3 +48,4 @@ Quiet, spacious, curious. The question is asked gently because the person needs 
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

@@ -5,7 +5,7 @@ title: "Chameleon Leadership"
 aliases: ["chameleon leader", "changing style for every employee", "different in every room", "inconsistent leadership", "meeting people where they are at your own expense", "showing up differently for every person", "managing each person to how they want to be managed", "the inconsistent leader"]
 tags: ["leadership", "caretaking", "people-pleasing", "consistency", "trust", "managing", "workplace"]
 related: ["caring-vs-caretaking", "i-caretake-people", "rehearsing-how-to-say-it", "losing-yourself-in-others", "stay-centered-while-holding-space", "vulnerability-in-the-workplace", "trust-requires-conflict"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Chameleon Leadership
@@ -87,3 +87,4 @@ The structural reframe that often unlocks the chameleon: you can hold space for 
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First

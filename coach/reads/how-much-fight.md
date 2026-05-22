@@ -5,7 +5,7 @@ title: "How Much Fight Is in a Person"
 aliases: ["fight level", "reading the fight in someone", "amount of battle", "fight in the system", "how much war"]
 tags: ["resistance", "business", "relational read", "coaching read"]
 related: ["resistance", "layered-resistance", "childhood-imprinting", "familiar-over-safe"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # How Much Fight Is in a Person

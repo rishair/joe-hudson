@@ -5,7 +5,7 @@ title: "The Change-or-No-Change Visualization (MasterClass Fit Exercise)"
 aliases: ["the masterclass fit exercise", "the change visualization", "the never-changes visualization", "the 80-year visualization", "future-self comparison", "the if-it-changed-if-it-didn't exercise", "the four-step fit diagnostic", "the want-versus-fear visualization", "the masterclass diagnostic", "lifetime stakes visualization"]
 tags: ["practice", "diagnostic", "visualization", "wants", "stakes", "transformation"]
 related: ["visualizing-feared-outcomes", "sincerity-is-the-prerequisite", "wants-over-shoulds", "address-the-blocker-not-the-symptom", "feeling-the-want-as-emotion", "the-want", "seven-limiting-beliefs", "honor-the-patterns-intent"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # The Change-or-No-Change Visualization
@@ -102,3 +102,4 @@ When delivered live (as Joe does in the episode), the tone is calm, spacious, an
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

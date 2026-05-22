@@ -5,7 +5,7 @@ title: "Zen Sickness"
 aliases: ["depersonalization as awakening", "depersonalization disorder", "resisted awakening", "identity dissolution", "70 percent of depersonalization disorder stories", "monks awakening matching depersonalization forums"]
 tags: ["transformation", "integration", "sense of self", "awakening"]
 related: ["integration", "three-stages-of-integration", "epiphany-vs-transformation", "self-realization", "projections", "emotions-as-road-signs", "expanding-sense-of-self"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Integrating A Transformative Experience"]
 ---
 
 # Zen Sickness
@@ -68,3 +68,4 @@ The work in such cases is the harder version: dig the suppressed emotions back o
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-07-30_Your World is a Projection
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)

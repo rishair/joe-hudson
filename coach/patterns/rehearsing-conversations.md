@@ -5,7 +5,7 @@ title: "Rehearsing Conversations"
 aliases: ["rehearsing the conversation", "running scenarios in your head", "pre-living the conversation", "perfecting the script", "the rehearsal pattern", "imaginary conversations", "post-hoc rehearsal", "replaying conversations"]
 tags: ["voice in head", "patterns", "anxiety", "perfectionism", "avoidance"]
 related: ["voice-in-the-head", "voice-creates-what-it-fears", "perfectionism", "engineering-heartbreak-to-avoid-heartbreak", "rehearsing-how-to-say-it", "fear-is-about-feeling", "feared-consequences-rarely-happen"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Rehearsing Conversations
@@ -120,3 +120,4 @@ See [[rehearsing-how-to-say-it]] for the live-coaching read of this pattern when
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First

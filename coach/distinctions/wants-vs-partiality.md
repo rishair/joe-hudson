@@ -5,7 +5,7 @@ title: "Wants vs. Partiality"
 aliases: ["owning wants", "wants are not partiality", "owned wants vs hidden agenda", "wanting vs pushing"]
 tags: ["VIEW", "impartiality", "vulnerability", "boundaries", "ownership"]
 related: ["impartiality", "vulnerability", "fixing-people", "shame-drives-behavior", "owning-your-partiality", "the-want", "wanting-vs-craving", "owning-the-want-dissolves-it"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Impartiality"]
 ---
 
 # Wants vs. Partiality
@@ -72,3 +72,4 @@ The connection to [[wanting-vs-craving]]: an owned want feels expansive (clean w
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

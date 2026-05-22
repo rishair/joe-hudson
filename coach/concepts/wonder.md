@@ -5,7 +5,7 @@ title: "Wonder"
 aliases: ["W in VIEW", "awe", "being in the question", "open curiosity", "follow your wonder"]
 tags: ["VIEW", "curiosity", "presence", "openness", "fear", "knowing", "learning"]
 related: ["view", "wonder-vs-curiosity", "how-what-questions", "wonder-as-strategy", "questioning-assumptions", "right-question-over-right-answer"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Wonder
@@ -117,4 +117,7 @@ If wonder is producing paralysis or avoidance, something else is happening. Genu
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-04_Wonder -- Connection Course Series #2
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

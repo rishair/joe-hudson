@@ -4,7 +4,7 @@ id: dont-compromise-find-both-needs-met
 title: "Don't Compromise -- Find a Way Both Needs Get Met"
 aliases: ["don't compromise in relationships", "no compromise principle", "find a way both needs are met", "compromise builds resentment", "compromise is neglect of self", "both needs met not compromise", "never sacrifice yourself for the relationship", "the no-compromise principle"]
 tags: ["relationships", "needs", "compromise", "resentment", "creativity", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Don't Compromise -- Find a Way Both Needs Get Met
@@ -105,6 +105,7 @@ The healthy boundary said clearly often opens the both-needs-met conversation ra
 - Toward the underlying needs: what does each person actually need underneath the stated position
 - Toward [[relationships-as-personal-growth-path]]: the larger agreement that supports the creative work
 - Toward [[boundaries]]: the difference between a boundary and a compromise
+- Toward [[walled-no-vs-open-hearted-limit]]: the live distinction when the both-needs-met solution may not exist
 - Toward [[resentment-as-unspoken-want]]: the diagnostic for unspoken compromise
 - Toward [[just-be-yourself-and-see-what-happens]]: when the compromise has been long-standing
 - Toward [[agreements-renegotiate-as-you-change]]: the larger principle that working agreements (and the workarounds they require) update over time
@@ -116,3 +117,4 @@ Direct and practical. Joe is not gentle on this one. The "highly recommend never
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

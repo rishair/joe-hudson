@@ -5,7 +5,7 @@ title: "Three Stages of Integration"
 aliases: ["stages of integration", "surprise recognition mastery", "baby hand metaphor", "primary and tertiary reaction"]
 tags: ["development", "integration", "learning", "transformation"]
 related: ["integration", "epiphany-vs-transformation", "late-stage-reversion", "process-over-result", "simplicity-on-the-other-side-of-complexity"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2022-10-26_Embarking On The Journey"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2022-10-26_Embarking On The Journey", "2022-10-26_Integrating A Transformative Experience"]
 ---
 
 # Three Stages of Integration
@@ -60,3 +60,4 @@ At Stage 3: "I don't even think about it anymore." The person may not recognize 
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)

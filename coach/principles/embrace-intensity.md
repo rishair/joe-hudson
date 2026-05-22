@@ -5,7 +5,7 @@ title: "Embrace Intensity"
 aliases: ["run toward intensity", "run into it", "intensity as path", "embrace the intensity"]
 tags: ["resistance", "transformation", "courage", "principle"]
 related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path", "embrace-vs-brace", "embracing-vs-creating-intensity", "are-you-bracing-or-embracing", "embracing-intensity-as-leading-indicator", "emotional-fluidity", "sensitivity-as-byproduct", "approach-the-pink-elephant", "electric-fence-with-dog", "decisions-are-emotional", "the-gold-lies-beyond-the-afraid"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Embrace Intensity
@@ -129,3 +129,4 @@ The second question is particularly useful because it produces direct experienti
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-01-07_How Your Body Speaks
 - 2022-10-26_Embracing Intensity (the 2022 re-recording of the same teaching with the cafe-with-daughter framing and the intensity-lives-in-feeling formulation)
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

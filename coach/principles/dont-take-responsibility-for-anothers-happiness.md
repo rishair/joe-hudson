@@ -4,7 +4,7 @@ id: dont-take-responsibility-for-anothers-happiness
 title: "Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)"
 aliases: ["nobody else is responsible for your happiness", "you can't make your partner happy", "don't take responsibility for happiness", "happiness is internal", "the responsibility-for-happiness principle", "stop trying to make them happy", "no one can make me happy", "responsibility for own happiness", "we're responsible for our own happiness"]
 tags: ["relationships", "happiness", "responsibility", "freedom", "autonomy", "boundaries", "codependence"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)
@@ -117,3 +117,4 @@ Direct, plain, sometimes with weight. Joe is not gentle about this principle whe
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us

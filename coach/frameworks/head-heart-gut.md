@@ -5,7 +5,7 @@ title: "Head, Heart, Gut"
 aliases: ["three intelligences", "head heart gut", "speaking from your head", "speaking from your heart", "speaking from your gut", "listening from head heart gut", "three ways of knowing", "the three centers", "head heart body", "speaking from different intelligences", "three pointers"]
 tags: ["body", "intelligence", "ways of knowing", "framework", "intuition"]
 related: ["staying-in-your-body", "feel-over-figure", "decisions-are-emotional", "body-lies-as-much-as-mind", "wonder", "view", "anxiety-three-definitions", "athletes-unlocking-body-intelligence-in-business"]
-sources: ["2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embarking On The Journey"]
+sources: ["2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_How Your Body Speaks"]
 ---
 
 # Head, Heart, Gut
@@ -133,3 +133,6 @@ The cultivated intelligence is the on-ramp. From there, the other intelligences 
 ## Sources
 
 - 2022-01-07_How Your Body Speaks
+- 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)

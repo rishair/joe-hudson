@@ -5,7 +5,7 @@ title: "The CIA Sabotage Manual for Dysfunctional Organizations"
 aliases: ["CIA sabotage manual", "the CIA dysfunction document", "the 1940s sabotage guide", "how to make an organization dysfunctional CIA", "OSS sabotage manual", "the CIA organization sabotage", "WWII sabotage manual"]
 tags: ["example", "teams", "organizations", "leadership", "decision-making", "committees", "dysfunction"]
 related: ["signs-of-a-dysfunctional-leader", "signs-of-a-dysfunctional-team", "dont-defer-decisions-to-large-committees", "functional-team", "expanding-sense-of-self"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # The CIA Sabotage Manual for Dysfunctional Organizations
@@ -66,3 +66,4 @@ Same principle as the committee sizing in the OSS manual. Once the number gets a
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
 - 2022-10-26_Building A Dysfunctional Team
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)

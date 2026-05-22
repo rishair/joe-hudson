@@ -5,7 +5,7 @@ title: "Fault vs. Responsibility"
 aliases: ["it's not your fault, it's your responsibility", "what if it's not your fault, it's your responsibility", "fault and responsibility are different", "self-responsibility vs imposed responsibility", "blame vs ownership", "responsibility without fault", "carrying responsibility without shame"]
 tags: ["responsibility", "fault", "blame", "shame", "ownership", "empowerment", "leadership"]
 related: ["shame-drives-behavior", "patient-on-the-table", "empowered-vs-power", "self-realization", "wins-yours-failures-ours", "voice-in-the-head", "fear-triangle"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 
 # Fault vs. Responsibility
@@ -86,3 +86,4 @@ The distinction also does not mean apologies are wrong. An apology can come from
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Jaime Waydo | Putting My Needs First

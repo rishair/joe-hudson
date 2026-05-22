@@ -5,7 +5,7 @@ title: "Process Over Result"
 aliases: ["trust the process", "faith in the process", "outcome attachment", "principled living"]
 tags: ["VIEW", "impartiality", "process", "design", "coaching", "principles"]
 related: ["view", "impartiality", "view-as-technique", "integration", "three-stages-of-integration", "enjoy-over-manage", "listening-to-impulse", "principles-free-you", "empowered-vs-power", "pow-optimist"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-03-26_Empower over Power — Master Class Series #8"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW"]
 ---
 
 # Process Over Result
@@ -80,4 +80,11 @@ The POW survivors did not predict release by a specific date. They held the visi
 ## Sources
 
 - 2020-10-26_Introduction to VIEW — Connection Course Series #1
+- 2020-11-05_Impartiality -- Connection Course Series #3
+- 2020-12-11_Integrating a Transformative Experience
+- 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast)
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)

@@ -5,7 +5,7 @@ title: "Joe's Stinky House Experiment (I'm Not Going to Do Anything I Don't Want
 aliases: ["the stinky house story", "I won't do anything I don't want to do experiment", "the trash experiment", "Joe's two-week no-should experiment", "the want to take out the trash discovery", "the how matters more than the what story"]
 tags: ["examples", "wants", "shoulds", "experiments", "personal-practice", "how-vs-what"]
 related: ["wants-over-shoulds", "how-do-you-want-to-be", "enjoy-over-manage", "find-the-want-behind-the-should", "joes-26-year-old-list", "should-vs-want-body-check", "impulse-to-should"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
 ---
 
 # Joe's Stinky House Experiment
@@ -72,3 +72,4 @@ See also [[ill-become-lazy-without-shoulds]] for the concern this story addresse
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)

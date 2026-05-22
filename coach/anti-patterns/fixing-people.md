@@ -5,7 +5,7 @@ title: "Don't try to fix people"
 aliases: ["fixing", "trying to help", "being valuable", "saving people", "advice-giving", "leading to a solution"]
 tags: ["impartiality", "VIEW", "coaching", "partiality"]
 related: ["impartiality", "wants-vs-partiality", "view"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
 ---
 
 # Don't try to fix people
@@ -49,3 +49,4 @@ Own your wants openly instead of hiding them behind help. If you notice yourself
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)

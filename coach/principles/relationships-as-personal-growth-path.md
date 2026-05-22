@@ -4,7 +4,7 @@ id: relationships-as-personal-growth-path
 title: "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom"
 aliases: ["relationships are for personal freedom", "the relationship agreement", "we're here to grow not to make each other happy", "personal freedom as relationship purpose", "the freedom agreement", "we're here for our own growth", "use the relationship for your own freedom", "the founding agreement of a healthy relationship", "the purpose of a relationship"]
 tags: ["relationships", "partnership", "marriage", "agreement", "freedom", "growth", "core principle"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom
@@ -107,6 +107,8 @@ This requires honesty about what the agreement was. If the agreement was never s
 - Toward [[dont-compromise-find-both-needs-met]]: how needs get met when both are responsible for themselves
 - Toward [[agreements-renegotiate-as-you-change]]: how this meta-agreement enables every working agreement to update over time
 - Toward [[capacity-to-love-other-is-capacity-to-love-self]]: the principle that makes self-focus the route to better partnership
+- Toward [[dont-position-yourself-as-your-partners-growth-guide]]: the sophisticated anti-pattern this principle is often distorted into
+- Toward [[nre-returns-in-grounded-form-after-each-healing]]: the felt aliveness this agreement makes available
 
 ## Tone
 
@@ -115,3 +117,5 @@ Plain, almost obvious in delivery, but with weight underneath. Joe states this t
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-09-30_Triggered! — Relationships Series #2
+- 2022-10-26_How Relationships Reveal Us

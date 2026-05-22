@@ -5,7 +5,7 @@ title: "Suffering vs. Pain"
 aliases: ["suffering is resistance to pain", "Buddhist distinction", "pain is not suffering", "resistance to pain"]
 tags: ["resistance", "emotions", "Buddhism", "suffering"]
 related: ["resistance", "feeling-the-unfelt-emotion", "layered-resistance"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
 # Suffering vs. Pain

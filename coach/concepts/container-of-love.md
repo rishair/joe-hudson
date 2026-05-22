@@ -5,7 +5,7 @@ title: "Container of Love"
 aliases: ["container", "held in love", "environment of love", "shame dissolves in a loving witness", "loved in the action you're ashamed of", "the AA principle", "12-step container", "bringing shame into the light"]
 tags: ["healing", "safety", "group work", "relationships", "spiritual", "shame"]
 related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher", "helplessness-is-the-gateway", "reclaiming-abandonment", "shame-as-disconnection", "shame-stagnates-emotion", "welcome-the-shame-without-extracting"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Integrating A Transformative Experience"]
 ---
 
 # Container of Love
@@ -86,3 +86,4 @@ Joe specifically warns against unskilled practitioners who know exercises that c
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)

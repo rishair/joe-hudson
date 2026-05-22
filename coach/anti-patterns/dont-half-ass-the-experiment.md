@@ -4,7 +4,7 @@ id: dont-half-ass-the-experiment
 title: "Don't Half-Ass the Experiment"
 aliases: ["don't half ass the experiment", "the unclean experiment problem", "performing the practice without doing it", "half-assing a practice", "the false negative trap", "going through the motions", "the lazy gratitude problem", "you can't learn from a dirty experiment", "all-in or not-in", "the half-hearted practice problem"]
 tags: ["anti-pattern", "experiment", "practice", "buy-in", "integrity", "learning"]
-related: ["frame-it-as-an-experiment", "gratitude-rounds-before-meetings", "trying-vs-doing", "team-as-scientific-method"]
+related: ["frame-it-as-an-experiment", "gratitude-rounds-before-meetings", "trying-vs-doing", "team-as-scientific-method", "dont-dismiss-exercise-before-doing-it"]
 sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
 ---
 
@@ -74,6 +74,10 @@ See [[trying-vs-doing]] for the related distinction.
 - A skeptic in a coaching session agrees to try an assignment and does it without engagement
 - A leader institutes a culture change and the team does not call out the leader's own half-assing of it
 - An individual takes on a practice and reports back that it did not work, with detail that suggests they never fully ran it
+
+## Relationship to the "Nothing Burger" Dismissal
+
+A common upstream anti-pattern is [[dont-dismiss-exercise-before-doing-it]]: the person decides the exercise will not produce anything before running it. The pre-dismissal often becomes the half-ass: having predicted the exercise was useless, the person participates without engagement, producing the absence of contact they predicted. The half-ass then "confirms" the dismissal. The two anti-patterns reinforce each other, and catching the dismissal earlier in the sequence prevents the half-ass from happening.
 
 ## The Diagnostic Question
 

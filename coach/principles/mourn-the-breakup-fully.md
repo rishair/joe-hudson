@@ -4,7 +4,7 @@ id: mourn-the-breakup-fully
 title: "Mourn the Breakup Fully (The End Is the Most Productive Time)"
 aliases: ["grieve the breakup", "mourn the relationship", "the breakup as opportunity", "mourning a relationship", "the productive end", "the end of a relationship is the most productive time", "mourn the patterns that brought you here", "grieving the relationship fully", "fully feeling the heartbreak"]
 tags: ["relationships", "breakup", "grief", "mourning", "heartbreak", "transformation", "ending"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
 ---
 
 # Mourn the Breakup Fully (The End Is the Most Productive Time)
@@ -132,3 +132,4 @@ Quiet, almost reverent. Joe slows down when he tells the friend's Arizona story.
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Relationships Reveal Us
