@@ -3,6 +3,10 @@
 meta/wiki/.locks/
 meta/wiki/.obsidian/
 .claude/scheduled_tasks.lock
+.claude/settings.local.json
+
+# Node
+node_modules/
 
 # Media/audio downloads (too large for git)
 *.mp3
