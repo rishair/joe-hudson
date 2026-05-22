@@ -67,12 +67,13 @@
     - [x] R-011 What system prompt structure makes an AoA coach behave like Joe?
     - [x] R-012 What retrieval strategies fit a deeply-linked methodology compendium like coach/?
     - [x] R-013 What tool catalog should the AI SDK coach have for compendium navigation?
+    - [ ] R-014 Audit coach/ compendium through walker behavior and eval failures
   - Experiments
     - [x] E-031 Coach v1: hand-authored system prompt only, no retrieval, evaluated against G-008
     - [-] E-032 Coach v2: tool-based compendium navigation with cheap-model router and expensive-model coach
     - [x] E-033 Coach v3: embedding-based retrieval over coach/ markdown
     - [x] E-034 Head-to-head comparison of E-031, E-032, E-033, E-036 retrieval approaches
-    - [ ] E-035 Iterate system prompt v4-v7 on winning retrieval architecture until eval bar met
+    - [~] E-035 Iterate system prompt v4-v7 on winning retrieval architecture until eval bar met
     - [x] E-036 Coach v4: graph-walk retrieval over related: links in coach/
     - [x] E-037 Coach v5a: model-guided graph navigation with Haiku walker
     - [x] E-038 Coach v5b: model-guided graph navigation with Sonnet walker
