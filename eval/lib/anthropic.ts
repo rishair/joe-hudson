@@ -132,17 +132,26 @@ export class AnthropicWrapper {
     }
 
     // Live call with retry on 429 / 5xx / 529 (overloaded).
+    // Opus 4.7 deprecated the `temperature` parameter for its reasoning-style
+    // sampling; omit it for that model family.
+    const omitTemperature = /opus-4-7/.test(args.model);
+    // 10 attempts with capped exponential backoff (1s, 2s, 4s, 8s, 16s, 32s,
+    // then 60s caps). Total worst-case wait ~5min before giving up. Opus 4.7
+    // is the newest tier and 529-overloaded errors are common at launch.
     let attempt = 0;
     let lastErr: unknown = null;
-    while (attempt < 6) {
+    while (attempt < 10) {
       try {
-        const response = await this.client.messages.create({
+        const createParams: Anthropic.Messages.MessageCreateParams = {
           model: args.model,
           system: args.system as Anthropic.Messages.MessageCreateParams["system"],
           messages: args.messages,
-          temperature: args.temperature ?? 1.0,
           max_tokens: args.max_tokens,
-        });
+        };
+        if (!omitTemperature) {
+          createParams.temperature = args.temperature ?? 1.0;
+        }
+        const response = await this.client.messages.create(createParams);
 
         const rawUsage = response.usage as unknown as Record<string, number | undefined>;
         const usage = {
@@ -173,8 +182,9 @@ export class AnthropicWrapper {
         const status = e?.status ?? e?.response?.status;
         // 429 rate-limited, 503/529 overloaded, 5xx general server.
         if (status === 429 || status === 503 || status === 529 || (status && status >= 500)) {
-          // Exponential backoff with jitter: 1s, 2s, 4s, 8s, 16s, 32s.
-          const wait = 1000 * Math.pow(2, attempt) + Math.floor(Math.random() * 500);
+          // Exponential backoff with jitter, capped at 60s.
+          const base = Math.min(60_000, 1000 * Math.pow(2, attempt));
+          const wait = base + Math.floor(Math.random() * 1500);
           await new Promise((r) => setTimeout(r, wait));
           attempt += 1;
           continue;
