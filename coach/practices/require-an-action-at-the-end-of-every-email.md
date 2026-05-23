@@ -5,7 +5,7 @@ title: "Require an Action at the End of Every Internal Message (The Mutual-Deleg
 aliases: ["assign an action to anyone in your team", "the end-of-email action rule", "mutual delegation practice", "anyone can delegate to anyone practice", "the delegation-upward practice", "junior assistants can assign the CEO", "no one is unassignable", "the action-at-the-end practice", "structural practice against authority distortion"]
 tags: ["practice", "leadership", "team", "delegation", "authority", "structure", "culture", "communication", "hierarchy", "company-design"]
 related: ["authority-issues", "the-four-authority-positions", "structure-and-empowerment", "surround-yourself-with-people-who-make-fun-of-you", "spit-at-the-top-is-a-waterfall-at-the-bottom", "leaders-wants-are-the-organizations-wants", "make-everyone-feel-seen-when-things-go-wrong"]
-sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson", "2025-01-03_The Secret to Thriving Company Culture"]
 ---
 
 # Require an Action at the End of Every Internal Message
@@ -58,6 +58,16 @@ The practice replaces all four. The form is symmetric. The asks are direct. The 
 **Not a manipulation tactic.** The practice only works when the leader is genuinely available to be assigned. A leader who installs the rule but never accepts an assignment from a subordinate is performing the practice without enacting it. The team registers the performance and the practice fails.
 
 **Not a substitute for clear roles.** The reciprocal-assignment rule presupposes that everyone knows what they are responsible for. If the roles are unclear, the practice produces chaos. The roles have to be defined first; the practice operates inside the role structure, not in place of it.
+
+## The Faffing Origin (Why Joe Designed This)
+
+The practice originated as the structural response to a specific pattern Joe noticed in his own company's internal correspondence: messages full of "we could kind of do this or this, I don't know," responded to with "oh, that's a cool idea, I guess." Joe called this pattern "faffing" -- the diffuse, non-committal communication that fills the gap between intention and action.
+
+"I was reading these emails and I noticed the following behavior, which was, we could kind of do this or this, I don't know. And somebody else going, oh, that's a cool idea, I guess. but there's also this thing and I call that faffing. I don't know if that's the appropriate -- and then, and so we just put one structural change in, which is at the end of every correspondence, you write action needed, colon, what the action is, who's supposed to do it, when they're supposed to do it by. And in doing that, all the, almost all, maybe 90% of the faffing stopped. And that was the purpose of it." -- Joe Hudson, The Secret to Thriving Company Culture
+
+The 90% number is the leverage statement. A direct intervention on each faffing instance would have addressed each instance and missed the rest. The structural change reduced the entire category by an order of magnitude with one design decision. See [[direct-intervention-vs-structural-change]] for the underlying distinction this exemplifies, and [[ask-how-do-i-change-this-so-it-never-happens-again]] for the question Joe asked that generated this design.
+
+The explicit format Joe uses: "action needed:" followed by what the action is, who is supposed to do it, when they're supposed to do it by. The action recipient can be anyone -- the part-time assistant assigning the CEO, the CEO assigning the assistant. The reciprocity (anyone can assign anyone) and the specificity (what, who, when) together produce the result.
 
 ## What This Produces
 
@@ -124,3 +134,4 @@ This is why the practice is more powerful than its mechanics suggest. It is not 
 
 - 2024-09-13_Authority Issues (the practice described directly: "at the end of every email, people have to give somebody else an action... they have to assign me, they have to delegate to me"; the three-component shape: anyone can assign, anyone can say no, anyone can negotiate)
 - 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (the same practice described in the Alexa-hosted episode)
+- 2025-01-03_The Secret to Thriving Company Culture (the faffing origin -- the specific behavior pattern Joe noticed in his own internal correspondence that the structural rule was designed to address; the 90% reduction figure; the explicit "action needed:" format with what/who/when; the practice positioned as canonical example of structural change beating direct intervention)

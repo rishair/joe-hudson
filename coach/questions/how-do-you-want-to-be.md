@@ -4,7 +4,7 @@ id: how-do-you-want-to-be
 title: "How do you want to be?"
 aliases: ["how do you want to be when you grow up", "how vs what question", "how do you want to live", "the how question", "how question instead of what", "how do you want to be right now", "the should vs want comparison question", "how do you want to be vs how should you be"]
 tags: ["wants", "being vs doing", "authenticity", "reframe", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_Want Over Should"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_Want Over Should", "2024-12-20_How To Find Your Purpose"]
 ---
 
 # How do you want to be?
@@ -90,11 +90,24 @@ The question can be deflected as fluffy if delivered to someone in a hard practi
 
 The question can also produce paralysis if the person has been trained to think in "what" terms. In that case, smaller versions of the question work: "How do you want to be in this conversation, right now?" The micro-version reveals that the answer is always already available.
 
+## The Purpose Application
+
+The how-vs-what reframe is the operational structure underneath the purpose question. When someone asks "what is my purpose?" or "what should I do with my life?", they are asking a what-question about something that lives in the how. The purpose-question is structurally a how-question wearing what-clothes.
+
+"It's really not about what you're doing. It's really about how you're doing it. It's really about, is this a little scary? Is this a little big? Does it require you to go beyond what you think is possible?" -- Joe Hudson, How To Find Your Purpose
+
+The same activity, done in two different ways, has two different relationships to purpose. The activity is not the variable. The how is. This means the purpose-question — when asked at the level of how — can be answered immediately, in the present moment, about any activity the person is currently doing. There is no need to find the right what. The how is always available.
+
+Brett's reframe operationalizes this for ongoing exploration: "How do I explore purposefully?" Each activity can be asked the question. How do I work purposefully? How do I parent purposefully? How do I cook purposefully? The how-question turns the person inward toward the quality they are bringing, which is what purpose actually responds to. See [[purpose-is-how-not-what]] and [[look-for-friction-not-the-answer]].
+
+When the question is asked in this purpose-specific way, it pairs with the more-or-less-aligned felt-sense test: "How do I want to be in this right now? Am I more aligned or less aligned with that how, right now?" The pairing produces continuous data about alignment without ever requiring the person to know what their purpose is at the level of what.
+
 ## Connected Questions
 
 - [[what-do-you-want]] (referenced; not yet an article): the foundational want question.
 - [[what-am-i]]: the deeper inquiry the "how" question opens toward.
 - [[whats-the-scary-truth]]: a related authenticity question.
+- [[look-for-friction-not-the-answer]]: the purpose-specific operationalization of the how-question.
 
 ## Sources
 

@@ -5,7 +5,7 @@ title: "Ray Dalio's Transparency Principle (Transparent Markets Are Efficient Ma
 aliases: ["Ray Dalio transparency", "the Dalio principle", "transparent markets are efficient markets", "the Bridgewater videotaping example", "Dalio's videotaped meetings", "the hedge fund transparency example", "Bridgewater transparency principle"]
 tags: ["principles", "transparency", "Ray Dalio", "Bridgewater", "markets", "example"]
 related: ["principles-free-you", "wrestle-with-your-principles", "defining-principles-well", "principle-vs-value", "vulnerability-in-the-workplace"]
-sources: ["2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
+sources: ["2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2025-01-03_The Secret to Thriving Company Culture"]
 ---
 
 # Ray Dalio's Transparency Principle
@@ -64,6 +64,18 @@ This is the test of a real principle. It survives the counterintuitive moment. E
 
 A principle that bends to the room is not a principle. It is a preference that was overruled.
 
+## The Retention Pattern Inside the Transparency Culture
+
+A second dimension of the Bridgewater example surfaces in Joe's later telling: the culture this principle produces does not work for everyone, and it is not supposed to. The retention pattern reportedly inside Bridgewater: roughly two-thirds of new hires were gone within 18 months. The third that stayed often stayed for the long term.
+
+"What I heard from some insiders was that it was like 66% of the people who got employed there were gone inside of 18 months. But the people who stayed, stayed and stayed and stayed and stayed for the company. So they had this very solid core team, but it was not a team that you would want to be in if you were not, okay, if, if you were defensive when people gave you criticism, because if you ran a meeting there and it was filmed, you'd have 3 people saying, oh, here's 3 ways you could have made — done better in that meeting. And if you want to win and you can like drop the ego, that's a culture you want to be a part of." -- Joe Hudson, The Secret to Thriving Company Culture
+
+The pattern illustrates a feature of strong-principle cultures more generally. The principle is a filter. The people who can operate inside it stay; the people who cannot, leave. The high churn at the front is not a failure of the culture; it is the culture working as a screen. The low churn at the core is the principle's compounding return: a solid team that has self-selected for the demanding mode of operation.
+
+This connects to [[functional-team]]: a functional team knows how to get rid of the wrong people quickly. The transparency principle does this automatically, by exposing the people who cannot live inside it. The team that remains is shaped by the principle's selection pressure.
+
+Joe also adds a calibration note: this specific intensity is not required for every culture. The right intensity is context-dependent. "I don't think it has to be that harsh. I think every culture needs to be a little bit different given what they're doing." An AI research culture needs different things than a culture of cleaners servicing high-rises. The structural insight (a strong principle filters for the team that can live inside it) generalizes; the specific principle (videotape everything) does not.
+
 ## Why This Example Matters
 
 Joe uses this example because Dalio is a public, well-documented case of someone operating a major business on principles. The transparency principle is one example among many in Dalio's published work, but it is the one Joe reaches for because:
@@ -99,3 +111,4 @@ A different business with different externalities might find that transparency t
 ## Sources
 
 - 2023-02-17_Wrestle With Your Principles -- Decisions Series #4
+- 2025-01-03_The Secret to Thriving Company Culture (the retention pattern inside the transparency culture: roughly 66% gone in 18 months but the third that stayed stayed; the principle as filter; the context-dependence calibration note that not every culture needs this intensity)

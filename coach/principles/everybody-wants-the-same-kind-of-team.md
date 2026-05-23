@@ -5,7 +5,7 @@ title: "Everybody Wants the Same Kind of Team (Own Your Wants Without Hesitation
 aliases: ["everybody wants the same kind of team", "everyone wants the same team", "owning your wants for the team", "the same-team-wants principle", "nobody wants a backstabbing team", "no one wants a political team", "everyone wants trust", "the universal team wants", "different actions same kind of team"]
 tags: ["wants", "teams", "leadership", "trust", "vulnerability", "politics", "ownership"]
 related: ["leaders-wants-are-the-organizations-wants", "sublimated-wants-become-politics", "state-the-want-not-the-action", "wants-vs-partiality", "trust-as-multifaceted", "functional-team", "diagnose-the-meeting-live"]
-sources: ["2022-10-26_Building A Functional Team"]
+sources: ["2022-10-26_Building A Functional Team", "2025-01-03_The Secret to Thriving Company Culture"]
 ---
 
 # Everybody Wants the Same Kind of Team (Own Your Wants Without Hesitation)
@@ -15,6 +15,14 @@ sources: ["2022-10-26_Building A Functional Team"]
 When you own and name what you want from the team, you can be assured everyone else wants the same kind of team. People may want different actions or strategies, but the underlying wants for the quality of the team itself are universal. Nobody actually wants a political team. Nobody actually wants a backstabbing team. Nobody actually wants a team where they cannot trust each other. The hesitation people feel about stating their wants comes from imagining their wants are idiosyncratic. They are not.
 
 "If you own your wants and you start creating the vision of the way that you want the team to be, whether you are the head of the team or not head of the team, it doesn't matter. Everybody wants it." -- Joe Hudson, Building A Functional Team
+
+## The Universal Want Beneath the Question
+
+The same observation applies to a related universal want. Everybody on every team wants to do great work. Nobody actively wants to do mediocre or shit work. The natural pull on a team is toward greatness; the leader's job is not to manufacture this pull, it is to avoid blocking it.
+
+"Everybody on their team wants it. So what's going on there? What's happening that makes it that people want -- that there's this natural impulse, like as natural as a kid's impulse is to walk, is a team's impulse to do great work. I know everybody in this room right now, they want to do great work. Nobody's like, you know what would be great is if like I had a life where I just did mediocre shit work. For the rest of my life. Nobody's -- nobody says it. And yet somehow all this effort in -- into management to try to get the results when the, the natural pull is there for every team." -- Joe Hudson, The Secret to Thriving Company Culture
+
+This adds depth to the principle. The leader sometimes treats management as the task of "getting people to want to perform." The principle reframes this: the wanting is already there. The actual task is removing what blocks it. The whole construction of management as motivation-machine is built on the assumption that people don't naturally want greatness from their work. The assumption is false. The work that follows from the false assumption is wasted effort and (worse) blocks the natural pull it was designed to create.
 
 ## The Empirical Test
 
@@ -127,3 +135,4 @@ Joe says this with quiet conviction. He has tested it many times and observed th
 ## Sources
 
 - 2022-10-26_Building A Functional Team
+- 2025-01-03_The Secret to Thriving Company Culture (the universal-want-to-do-great-work as a parallel observation; the empirical regularity that across dozens of companies, nobody ever says they don't want a supportive team; the reframe of management from manufacturing-the-want to removing-the-blocks; the natural-pull observation about teams' impulse to do great work being as natural as a kid's impulse to walk)

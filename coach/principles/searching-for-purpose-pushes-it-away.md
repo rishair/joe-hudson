@@ -1,10 +1,10 @@
 ---
 type: principle
 id: searching-for-purpose-pushes-it-away
-title: "Searching for Purpose Pushes It Away (Purpose Is Received, Not Found)"
-aliases: ["searching for purpose pushes it away", "looking for purpose pushes it away", "purpose is received not found", "the search for purpose is the wall", "looking for your thing is the wall", "the search-for-purpose principle", "purpose cannot be searched into", "the years of searching are the years of preventing", "the looking is the cutting off from purpose", "the trying-to-find-purpose pushes it away", "purpose arrives when you stop hunting", "purpose is in front of you", "the searching presupposes absence", "purpose responds to receiving not trying", "all that looking is a wall", "the looking is the wall that prevents it from coming in"]
-tags: ["purpose", "principle", "receiving", "searching", "trying", "calling", "core principle"]
-sources: ["2024-08-20_How Do I Find My Purpose？"]
+title: "Searching for Purpose Pushes It Away (Purpose Is Received and Acknowledged, Not Found)"
+aliases: ["searching for purpose pushes it away", "looking for purpose pushes it away", "purpose is received not found", "purpose is acknowledged not found", "purpose is acknowledgment not finding", "the search for purpose is the wall", "looking for your thing is the wall", "the search-for-purpose principle", "purpose cannot be searched into", "the years of searching are the years of preventing", "the looking is the cutting off from purpose", "the trying-to-find-purpose pushes it away", "purpose arrives when you stop hunting", "purpose is in front of you", "the searching presupposes absence", "purpose responds to receiving not trying", "all that looking is a wall", "the looking is the wall that prevents it from coming in", "you are a dog that can't bark", "we're born with this thing", "the question assumes you are a dog that can't bark", "purpose is not something to be found it's something to be acknowledged", "what if purpose isn't something that has to be found", "it's an acknowledgement", "you have to acknowledge your purpose not find it"]
+tags: ["purpose", "principle", "receiving", "searching", "trying", "calling", "core principle", "acknowledgment"]
+sources: ["2024-08-20_How Do I Find My Purpose？", "2024-12-20_The Myth Of Finding Your Purpose", "2024-12-20_How To Find Your Purpose"]
 ---
 
 # Searching for Purpose Pushes It Away
@@ -17,6 +17,12 @@ Purpose is not a hidden object to be located. It is a felt orientation that arri
 
 "All that looking that you're doing to find your thing — that is a wall that prevents it from coming in." -- Joe Hudson, How Do I Find My Purpose?
 
+A related framing Joe uses in the teaching episode: the question assumes you are a dog that doesn't know it can bark.
+
+"The question itself assumes that you are a dog that can't bark. How do I bark? It's like we're born with this thing, and the question is, are we living it in this moment?" -- Joe Hudson, The Myth Of Finding Your Purpose
+
+The dog-asking-how-to-bark analogy is the same structure as the looking-for-the-thing-that-is-already-here: the question presupposes the absence of what is actually structurally present. The presupposition is the obstruction.
+
 ## The Mechanism
 
 Searching presupposes absence. The search-state is the state of "this is not here, I have to find it." That state is the opposite of the receive-state. The receive-state is "it is here, and I am letting it in."
@@ -26,6 +32,33 @@ You cannot be in both states simultaneously. The search-state will not arrive at
 When someone has been searching for years, the structural problem compounds: the searching has become an identity, the suffering has become a story, the looking has become a fixed posture. The longer the search has run, the more invisible the searching-itself becomes as the problem. The person is no longer aware they are looking; they are aware only that they have not found.
 
 "Instead of going out and looking, see what it's like to actually just assume it's coming towards you and your job is just to receive it." -- Joe Hudson, How Do I Find My Purpose?
+
+## Received vs. Acknowledged: Two Verbs for the Same Move
+
+The opposite of "found" is sometimes "received" and sometimes "acknowledged." Both verbs point at the same anti-search move, with slightly different emphases.
+
+- **Received** emphasizes the orientation: stop reaching out, let it land. The receive-state is open, available, oriented inward.
+- **Acknowledged** emphasizes the recognition: it is already here, name what is present. The acknowledgment-state is honest, willing to see.
+
+"What if the purpose isn't something that has to be found? It's something that has to be acknowledged." -- Joe Hudson, The Myth Of Finding Your Purpose
+
+Joe describes a moment when this acknowledgment arrived for him: a stranger at a hot springs delivered an unexpected message — "we can't wait any longer; you know what you're supposed to do." The message did not introduce anything new. It demanded acknowledgment of what was already known. The acknowledgment was the work, not the discovery.
+
+"And when it hit me, I was like, 'Oh shit, she's right.' It required that prompt. There was something that I'm supposed to be sharing — me being of service and helping people see themselves more clearly is what I'm supposed to be doing." -- Joe Hudson, The Myth Of Finding Your Purpose
+
+The information was already in him. The prompt forced the acknowledgment. Before the prompt, the information was being held without being acknowledged. After the prompt, the acknowledgment was made and the action followed.
+
+This is the acknowledgment-frame: purpose is what you know but have not yet admitted you know. The search-frame imagines purpose is what you do not know. They are opposite framings. The first is workable; the second is not.
+
+## The Always-Aligned-or-Less-Aligned Frame
+
+A consequence of the receive-and-acknowledge frame: purpose is always partially present. There is no moment where the person is wholly out of their purpose; there are only degrees of alignment.
+
+"There's been no moment that I can find where I don't know if I'm more aligned or less aligned with my purpose. How I'm being, how I'm thinking, how I am with you, how I am with myself, all of that, there's a purpose in that." -- Joe Hudson, The Myth Of Finding Your Purpose
+
+This collapses the binary "I have my purpose" / "I haven't found my purpose" and replaces it with the gradient "I am more aligned right now" / "I am less aligned right now." The gradient is always readable. The reading produces immediate workable information: a small adjustment in this moment can produce more alignment.
+
+See [[what-feels-more-in-purpose-right-now]] for the question that operationalizes this gradient frame in coaching.
 
 ## The Live Test
 
@@ -140,6 +173,11 @@ When the person then asks "how do I receive?" — the question is the next wall.
 - Toward [[always-something-spectacular-happening]]: the parallel principle in the gratitude domain
 - Toward [[hands-together-exercise]]: the somatic anchor for the search/receive distinction in any domain
 - Toward [[experiential-before-intellectual]]: the pedagogical principle that explains why this teaching has to be demonstrated, not lectured
+- Toward [[purpose-is-how-not-what]]: once the search-frame collapses, the next question is whether the person is searching for the right what or asking about the how — the how-frame makes the search even more clearly the wrong move
+- Toward [[purpose-as-approval-seeking-in-disguise]]: the search-state is often the approval-state in disguise — the person is looking for an external answer because they are looking for external validation
+- Toward [[what-feels-more-in-purpose-right-now]]: the question that routes the person from search-state to acknowledgment-state in any moment
+- Toward [[choicelessness-as-purpose-marker]]: what living the acknowledged purpose feels like at depth
+- Toward [[purpose-is-an-evolution-not-a-destination]]: even after the acknowledgment, the purpose continues to evolve — there is no single permanent answer that ends the process
 
 ## Tone
 
@@ -150,3 +188,4 @@ When the grief arrives, the tone shifts to quieter, slower, more spacious. The g
 ## Sources
 
 - 2024-08-20_How Do I Find My Purpose? (the canonical statement "all that looking that you're doing to find your thing — that is a wall that prevents it from coming in"; the somatic A/B test demonstrated live; the immediate emotional response to the receive frame; the "too easy" wall and the grief at the disproportion; the how-to question caught as the next wall)
+- 2024-12-20_The Myth Of Finding Your Purpose / 2024-12-20_How To Find Your Purpose (teaching episode adding the acknowledgment-not-finding framing; the dog-can't-bark analogy; the always-aligned-or-less-aligned gradient frame; the hot springs prompt story; "what if purpose isn't something that has to be found? It's something that has to be acknowledged")

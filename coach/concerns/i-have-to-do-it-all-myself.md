@@ -4,7 +4,7 @@ id: i-have-to-do-it-all-myself
 title: "I have to do it all myself / I can't depend on others"
 aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself", "it's lonely at the top", "nobody around me really gets it", "I have to hold all of this myself", "the lonely CEO presenting"]
 tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "loneliness", "concern"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-11-10_Finding a Romantic Partner", "2024-09-13_Authority Issues"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-11-10_Finding a Romantic Partner", "2024-09-13_Authority Issues", "2025-01-03_The Secret to Thriving Company Culture"]
 ---
 
 # I have to do it all myself / I can't depend on others
@@ -121,6 +121,16 @@ The bridge has two halves. The first re-reads a parent's distance as self-relian
 
 See [[self-reliance-pushes-people-away]] for the developed concept article. This dimension is especially important when the self-reliant person is also presenting with [[i-cant-find-love]] or relationship concerns -- the self-reliance is functioning as one of the [[push-pull-dynamics-in-dating]], reaching for connection while making it impossible for connection to land.
 
+## The Bidirectional Dynamic That Sustains the Loneliness
+
+A specific structural piece that the lonely-leader pattern often misses: the loneliness is not just produced by the leader's self-reliance. It is also produced by how the team relates to the leader. The leader is the most-talked-about person in the organization. People don't ask the leader the questions they'd ask a friend. They don't show up as full humans with the leader because the leader is being treated as a category (the CEO, the boss, the authority) rather than as a person.
+
+"There's a way in which people don't treat the CEO with the kind of respect that they treat their friends. They don't ask the questions. They don't, they don't show up as human with the CEO, which amplifies this feeling of aloneness from them." -- Joe Hudson, The Secret to Thriving Company Culture
+
+The implication for the coaching path: addressing the leader's self-reliance alone is not enough. The leader's specific patterns of hiding need, projecting competence, and not asking for help train the team to treat them as the figure-of-authority they have presented. The team then reflects that treatment back, and the loneliness gets reproduced from both sides. Interrupting the pattern requires the leader to do the visible work of being human in front of the team -- not just to do internal work on self-reliance, but to demonstrate the new mode in observable behavior so the team can adjust its projection.
+
+See [[apologize-for-not-seeing-the-help]] and [[ask-for-help-with-specifics]] as the specific moves that produce the visible alternative.
+
 ## Related Concerns
 
 - [[i-have-to-sacrifice-to-succeed]]: the work-domain expression of the same self-abandonment pattern.
@@ -136,3 +146,4 @@ See [[self-reliance-pushes-people-away]] for the developed concept article. This
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2023-11-10_Finding a Romantic Partner (the daughter-father reframe; the abandonment-self-reliance duality; what self-reliance does to partners and to potential partners; self-reliance situated as one of the push-pull forms in dating)
 - 2024-09-13_Authority Issues (the lonely-leader concern situated as Position 4 of the four-authority-positions structure; the specific-ask vs vague-ask diagnostic; the bidirectional projection dynamic — the leader and the team co-producing the loneliness through mutual non-recognition; the Sarah "I love your frustration" moment as the live alternative to the position)
+- 2025-01-03_The Secret to Thriving Company Culture (the bidirectional dynamic that sustains the loneliness -- the CEO is the most-talked-about person but people don't treat them with the respect they'd give a friend; the team's projection of perfection-expectation onto leadership that the leader's self-sufficiency reinforces; the implication that addressing the leader's self-reliance requires visible behavior change so the team can adjust its projection back)

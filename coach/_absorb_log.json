@@ -6410,15 +6410,105 @@
     },
     {
       "folder": "2024-12-20_How To Find Your Purpose",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T00:07:28Z",
+      "articles_created": [
+        "purpose-is-recognized-not-found",
+        "the-hot-springs-massage-message",
+        "the-retreat-woman-no-choice",
+        "purpose-asks-you-to-be-scary-then-effortless",
+        "look-for-friction-not-the-answer",
+        "purpose-is-acknowledgement-not-approval",
+        "purpose-is-an-unfolding-not-a-destination"
+      ],
+      "articles_updated": [
+        "i-cant-find-my-purpose",
+        "searching-for-purpose-pushes-it-away",
+        "how-do-you-want-to-be",
+        "purpose-is-how-not-what"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:22:15Z"
+    },
+    {
+      "folder": "2024-12-20_The Myth Of Finding Your Purpose",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:08:17Z",
+      "articles_created": [
+        "purpose-is-how-not-what",
+        "choicelessness-as-purpose-marker",
+        "purpose-cracks-you-open",
+        "do-it-for-yourself-to-find-purpose",
+        "purpose-as-approval-seeking-in-disguise",
+        "what-feels-more-in-purpose-right-now",
+        "scary-effort-vs-grind-effort",
+        "purpose-is-an-evolution-not-a-destination"
+      ],
+      "articles_updated": [
+        "i-cant-find-my-purpose",
+        "searching-for-purpose-pushes-it-away"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:22:08Z"
+    },
+    {
+      "folder": "2024-12-24_What Do I Offer The World\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:22:41Z",
+      "articles_created": [
+        "what-makes-me-uniquely-me",
+        "go-to-your-heart-not-your-brain",
+        "contorting-into-someone-elses-framework",
+        "your-gift-is-your-nature-not-your-skill",
+        "i-help-people-die-better",
+        "how-joyful-is-that-search",
+        "apologize-for-contorting-into-frameworks",
+        "the-means-must-match-the-end",
+        "wild-goose-chase-when-the-answer-is-known",
+        "the-answer-is-already-known"
+      ],
+      "articles_updated": [
+        "i-cant-find-my-purpose",
+        "purpose-is-how-not-what",
+        "purpose-as-approval-seeking-in-disguise"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T00:37:58Z"
+    },
+    {
+      "folder": "2025-01-03_The Secret to Thriving Company Culture",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:23:33Z",
+      "articles_created": [
+        "all-disagreements-come-from-two-questions",
+        "direct-intervention-vs-structural-change",
+        "ask-how-do-i-change-this-so-it-never-happens-again",
+        "culture-outside-mirrors-culture-inside",
+        "listen-to-objections-before-deciding",
+        "dont-skip-the-consultation-because-it-evokes-emotion",
+        "write-to-your-team-like-a-marketing-email"
+      ],
+      "articles_updated": [
+        "ray-dalio-transparency",
+        "require-an-action-at-the-end-of-every-email",
+        "structure-and-empowerment",
+        "everybody-wants-the-same-kind-of-team",
+        "i-have-to-do-it-all-myself"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:36:46Z"
+    },
+    {
+      "folder": "2025-01-07_The Reason Your Relationship Is Dead",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T00:37:31Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-12-20_The Myth Of Finding Your Purpose",
+      "folder": "2025-01-10_The Real Reason You Lose Control In A Fight",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T00:08:17Z",
+      "claimed_at": "2026-05-23T00:38:33Z",
       "articles_created": [],
       "articles_updated": []
     }

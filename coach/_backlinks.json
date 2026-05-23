@@ -627,6 +627,7 @@
     "what-was-x-going-to-get-you",
     "dont-make-pleasure-a-morality",
     "joy-as-matriarch",
+    "scary-effort-vs-grind-effort",
     "chasing-pleasure-is-avoidance",
     "discipline-starts-engine-then-let-gravity",
     "enjoyment-as-path",
@@ -819,6 +820,7 @@
     "im-not-living-up-to-my-potential",
     "anxiety-when-confronting-what-you-want",
     "seeking-as-the-wall",
+    "the-answer-is-already-known",
     "the-smile-of-recognition",
     "treating-felt-state-as-factual-reality",
     "treating-it-as-a-decision-when-its-an-emotion",
@@ -1212,6 +1214,8 @@
     "love-means-signing-up-to-be-hurt",
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-cracks-you-open",
     "relationships-as-personal-growth-path",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love",
@@ -1375,6 +1379,7 @@
     "scorecard-keeping-as-identity-structure",
     "art-of-accomplishment",
     "pulling-the-brakes",
+    "purpose-is-acknowledgement-not-approval",
     "caring-what-others-think-is-the-burnout-engine",
     "seeking-approval-pushes-people-away",
     "joes-daughter-silent-retreat"
@@ -1391,14 +1396,18 @@
   ],
   "seeking-approval-pushes-people-away": [
     "how-do-i-stop-seeking-approval",
+    "look-for-friction-not-the-answer",
     "dont-call-them-a-liar-with-deflection",
     "let-it-move-through-and-clean-the-channel",
+    "purpose-is-acknowledgement-not-approval",
+    "do-it-for-yourself-to-find-purpose",
     "putting-someone-above-blocks-emotion",
     "chase-your-own-approval",
     "eating-but-not-digesting-the-food"
   ],
   "putting-someone-above-blocks-emotion": [
     "how-do-i-stop-seeking-approval",
+    "do-it-for-yourself-to-find-purpose",
     "seeking-approval-pushes-people-away",
     "chase-your-own-approval"
   ],
@@ -1450,6 +1459,8 @@
   "abandoning-self-while-speaking": [
     "how-do-i-stop-seeking-approval",
     "i-keep-feeling-misunderstood",
+    "contorting-into-someone-elses-framework",
+    "purpose-as-approval-seeking-in-disguise",
     "shame-blocks-connection-in-real-time",
     "how-do-you-abandon-yourself",
     "have-them-receive-your-listening",
@@ -1474,8 +1485,11 @@
   ],
   "chase-your-own-approval": [
     "how-do-i-stop-seeking-approval",
+    "look-for-friction-not-the-answer",
     "dont-call-them-a-liar-with-deflection",
     "let-it-move-through-and-clean-the-channel",
+    "purpose-is-acknowledgement-not-approval",
+    "do-it-for-yourself-to-find-purpose",
     "putting-someone-above-blocks-emotion",
     "seeking-approval-pushes-people-away",
     "eating-but-not-digesting-the-food"
@@ -1548,6 +1562,7 @@
     "how-do-i-stop-seeking-approval",
     "i-freeze-around-authority",
     "i-have-to-do-it-all-myself",
+    "purpose-as-approval-seeking-in-disguise",
     "authority-issues",
     "apologize-for-not-seeing-the-help",
     "ask-for-help-with-specifics",
@@ -1655,6 +1670,7 @@
     "trying-to-get-rid-of-the-emotion",
     "what-makes-you-care-about-the-outcome",
     "whats-the-need-for-the-defense",
+    "dont-skip-the-consultation-because-it-evokes-emotion",
     "dont-specialize-in-the-scariest-fear",
     "aggression-amplifies-against-conflict-avoidance",
     "blocker-emotions",
@@ -1895,6 +1911,7 @@
     "shame-as-disconnection",
     "creating-safety-suppresses-self",
     "forms-of-dysfunctional-apology",
+    "apologize-for-contorting-into-frameworks",
     "apologize-for-not-seeing-the-help",
     "apologize-for-trying-to-control",
     "apologize-to-exit-a-fight",
@@ -2012,6 +2029,7 @@
   "apologize-as-daily-practice-for-bad-habits": [
     "i-cant-apologize",
     "upright-apology",
+    "apologize-for-contorting-into-frameworks",
     "full-understanding-of-a-behavior-dissolves-it",
     "non-defense-is-the-ocean",
     "sit-with-the-aftermath"
@@ -2061,6 +2079,7 @@
     "i-cant-be-disciplined",
     "ill-become-lazy-without-shoulds",
     "negative-self-reinforcement",
+    "direct-intervention-vs-structural-change",
     "discipline-starts-engine-then-let-gravity",
     "find-a-healthy-replacement",
     "full-understanding-of-a-behavior-dissolves-it",
@@ -2311,7 +2330,8 @@
     "name-the-body-defense-in-real-time",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "talk-to-the-part-that-knows",
-    "what-we-fear-we-invite"
+    "what-we-fear-we-invite",
+    "the-retreat-woman-no-choice"
   ],
   "give-me-the-sound-of-the-emotion": [
     "i-cant-feel-my-emotions",
@@ -2403,6 +2423,7 @@
     "athletes-unlocking-body-intelligence-in-business",
     "disassociation-as-numbness-layer",
     "attention-is-feeling",
+    "go-to-your-heart-not-your-brain",
     "not-sometimes-right-now",
     "scan-body-for-what-cant-be-loved",
     "use-domain-of-mastery-as-template-for-body-intelligence",
@@ -2768,16 +2789,106 @@
     "searching-for-purpose-pushes-it-away",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
   ],
+  "purpose-is-how-not-what": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "purpose-as-approval-seeking-in-disguise",
+    "how-do-you-want-to-be",
+    "how-joyful-is-that-search",
+    "look-for-friction-not-the-answer",
+    "what-feels-more-in-purpose-right-now",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-is-acknowledgement-not-approval",
+    "scary-effort-vs-grind-effort",
+    "choicelessness-as-purpose-marker",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-cracks-you-open",
+    "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-recognized-not-found",
+    "searching-for-purpose-pushes-it-away",
+    "the-means-must-match-the-end",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better",
+    "the-hot-springs-massage-message"
+  ],
+  "purpose-as-approval-seeking-in-disguise": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "the-answer-is-already-known",
+    "what-feels-more-in-purpose-right-now",
+    "wild-goose-chase-when-the-answer-is-known",
+    "purpose-is-how-not-what",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-cracks-you-open",
+    "searching-for-purpose-pushes-it-away",
+    "your-gift-is-your-nature-not-your-skill"
+  ],
+  "what-makes-me-uniquely-me": [
+    "i-cant-find-my-purpose",
+    "contorting-into-someone-elses-framework",
+    "purpose-as-approval-seeking-in-disguise",
+    "the-answer-is-already-known",
+    "apologize-for-contorting-into-frameworks",
+    "go-to-your-heart-not-your-brain",
+    "purpose-is-how-not-what",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better"
+  ],
+  "contorting-into-someone-elses-framework": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "purpose-as-approval-seeking-in-disguise",
+    "the-answer-is-already-known",
+    "how-joyful-is-that-search",
+    "wild-goose-chase-when-the-answer-is-known",
+    "apologize-for-contorting-into-frameworks",
+    "the-means-must-match-the-end",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better"
+  ],
+  "how-joyful-is-that-search": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "the-means-must-match-the-end"
+  ],
+  "go-to-your-heart-not-your-brain": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "the-answer-is-already-known",
+    "how-joyful-is-that-search",
+    "the-means-must-match-the-end",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better"
+  ],
+  "your-gift-is-your-nature-not-your-skill": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "how-joyful-is-that-search",
+    "wild-goose-chase-when-the-answer-is-known",
+    "apologize-for-contorting-into-frameworks",
+    "go-to-your-heart-not-your-brain",
+    "purpose-is-how-not-what",
+    "i-help-people-die-better"
+  ],
   "searching-for-purpose-pushes-it-away": [
     "i-cant-find-my-purpose",
     "im-not-living-up-to-my-potential",
     "seeking-as-the-wall",
     "opposite-of-trying",
+    "purpose-is-an-unfolding-not-a-destination",
     "challenge-the-premise-in-the-framing",
     "feel-the-searching-then-feel-the-opposite",
     "how-question-as-defense-against-having",
+    "purpose-is-how-not-what",
     "always-something-spectacular-happening",
-    "searching-for-love-cuts-off-love"
+    "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-recognized-not-found",
+    "searching-for-love-cuts-off-love",
+    "the-means-must-match-the-end"
   ],
   "opposite-of-trying": [
     "i-cant-find-my-purpose",
@@ -2792,6 +2903,7 @@
     "undoing-not-doing",
     "cant-remember-what-i-said-in-flow",
     "feel-the-searching-then-feel-the-opposite",
+    "go-to-your-heart-not-your-brain",
     "how-question-as-defense-against-having",
     "speak-from-listening",
     "surrender-your-way-out-not-think-your-way-out",
@@ -2809,6 +2921,7 @@
     "peace-is-what-we-resist-the-most",
     "searching-for-purpose-pushes-it-away",
     "state-not-framework",
+    "the-means-must-match-the-end",
     "you-dont-control-love",
     "hands-together-exercise",
     "listen-as-the-wisest-person",
@@ -2819,6 +2932,7 @@
   "challenge-the-premise-in-the-framing": [
     "i-cant-find-my-purpose",
     "seeking-as-the-wall",
+    "wild-goose-chase-when-the-answer-is-known",
     "feel-the-searching-then-feel-the-opposite"
   ],
   "fighting-to-be-received": [
@@ -2842,6 +2956,47 @@
     "punishing-the-remembering",
     "searching-for-purpose-pushes-it-away"
   ],
+  "do-it-for-yourself-to-find-purpose": [
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "purpose-as-approval-seeking-in-disguise",
+    "how-joyful-is-that-search",
+    "look-for-friction-not-the-answer",
+    "apologize-for-contorting-into-frameworks",
+    "go-to-your-heart-not-your-brain",
+    "purpose-is-acknowledgement-not-approval",
+    "purpose-is-how-not-what",
+    "choicelessness-as-purpose-marker",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-cracks-you-open",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better"
+  ],
+  "purpose-is-an-evolution-not-a-destination": [
+    "i-cant-find-my-purpose",
+    "choicelessness-as-purpose-marker",
+    "searching-for-purpose-pushes-it-away"
+  ],
+  "choicelessness-as-purpose-marker": [
+    "i-cant-find-my-purpose",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-is-how-not-what",
+    "scary-effort-vs-grind-effort",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-cracks-you-open",
+    "purpose-is-an-evolution-not-a-destination",
+    "searching-for-purpose-pushes-it-away",
+    "the-retreat-woman-no-choice"
+  ],
+  "purpose-cracks-you-open": [
+    "i-cant-find-my-purpose",
+    "purpose-is-how-not-what",
+    "scary-effort-vs-grind-effort",
+    "choicelessness-as-purpose-marker",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-is-an-evolution-not-a-destination"
+  ],
   "seeking-as-the-wall": [
     "i-cant-find-my-purpose",
     "challenge-the-premise-in-the-framing",
@@ -2854,6 +3009,7 @@
     "seeking-as-the-wall",
     "opposite-of-trying",
     "challenge-the-premise-in-the-framing",
+    "go-to-your-heart-not-your-brain",
     "how-question-as-defense-against-having",
     "always-something-spectacular-happening",
     "searching-for-love-cuts-off-love",
@@ -2865,6 +3021,12 @@
     "seeking-as-the-wall",
     "opposite-of-trying",
     "feel-the-searching-then-feel-the-opposite",
+    "searching-for-purpose-pushes-it-away"
+  ],
+  "what-feels-more-in-purpose-right-now": [
+    "i-cant-find-my-purpose",
+    "purpose-as-approval-seeking-in-disguise",
+    "purpose-is-how-not-what",
     "searching-for-purpose-pushes-it-away"
   ],
   "hands-together-exercise": [
@@ -2881,11 +3043,45 @@
     "listen-as-the-wisest-person",
     "joes-woods-fast-stopped-fighting"
   ],
+  "look-for-friction-not-the-answer": [
+    "i-cant-find-my-purpose",
+    "how-do-you-want-to-be",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-is-recognized-not-found"
+  ],
+  "purpose-asks-you-to-be-scary-then-effortless": [
+    "i-cant-find-my-purpose",
+    "look-for-friction-not-the-answer",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-is-acknowledgement-not-approval",
+    "purpose-is-recognized-not-found",
+    "the-hot-springs-massage-message",
+    "the-retreat-woman-no-choice"
+  ],
+  "purpose-is-an-unfolding-not-a-destination": [
+    "i-cant-find-my-purpose",
+    "the-answer-is-already-known",
+    "purpose-is-recognized-not-found",
+    "the-hot-springs-massage-message",
+    "the-retreat-woman-no-choice"
+  ],
+  "the-hot-springs-massage-message": [
+    "i-cant-find-my-purpose",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-is-recognized-not-found",
+    "the-retreat-woman-no-choice"
+  ],
+  "the-retreat-woman-no-choice": [
+    "i-cant-find-my-purpose",
+    "the-hot-springs-massage-message"
+  ],
   "experiential-before-intellectual": [
     "i-cant-find-my-purpose",
     "integration",
     "challenge-the-premise-in-the-framing",
     "feel-the-searching-then-feel-the-opposite",
+    "go-to-your-heart-not-your-brain",
     "how-question-as-defense-against-having",
     "improvement-vs-authenticity",
     "am-i-falling-or-flying",
@@ -2895,9 +3091,13 @@
   ],
   "im-not-living-up-to-my-potential": [
     "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
     "anxiety-when-confronting-what-you-want",
+    "purpose-as-approval-seeking-in-disguise",
     "seeking-as-the-wall",
     "mental-task-inflation",
+    "purpose-is-how-not-what",
+    "purpose-is-recognized-not-found",
     "searching-for-purpose-pushes-it-away",
     "jeff-bezos-calls-his-mornings-wandering"
   ],
@@ -3886,6 +4086,7 @@
     "i-feel-stuck",
     "the-smile-of-recognition",
     "treating-felt-state-as-factual-reality",
+    "purpose-is-an-unfolding-not-a-destination",
     "the-natural-integration-arc-after-breakthrough",
     "its-a-human-thing-redirect",
     "talk-to-the-part-that-knows",
@@ -4210,6 +4411,7 @@
     "i-freeze-around-authority",
     "childhood-imprinting",
     "three-reasons-we-dont-see-limiting-beliefs",
+    "write-to-your-team-like-a-marketing-email",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "spit-at-the-top-is-a-waterfall-at-the-bottom"
   ],
@@ -4555,6 +4757,7 @@
     "public-truth-bomb",
     "connection-as-life-bottom-line",
     "consciousness-is-the-product",
+    "culture-outside-mirrors-culture-inside",
     "if-you-have-to-convince-them-they-dont-want-it",
     "leaders-wants-are-the-organizations-wants",
     "public-failure-as-leadership-modeling",
@@ -4662,6 +4865,7 @@
     "authority-issues",
     "the-four-authority-positions",
     "apologize-for-not-seeing-the-help",
+    "listen-to-objections-before-deciding",
     "visualize-the-reality-of-leadership",
     "sarah-i-love-your-frustration"
   ],
@@ -5309,6 +5513,7 @@
     "symptoms-vs-root-causes-of-depression",
     "good-and-corruption-cycle",
     "love-is-the-best-change-agent",
+    "the-means-must-match-the-end",
     "there-is-no-better-person-on-the-other-side",
     "apologize-as-daily-practice-for-bad-habits"
   ],
@@ -5410,6 +5615,7 @@
     "i-keep-feeling-misunderstood",
     "abandoning-self-while-speaking",
     "listening",
+    "go-to-your-heart-not-your-brain",
     "have-them-receive-your-listening",
     "invert-the-responsibility-for-understanding",
     "say-the-same-sentence-five-ways",
@@ -6024,6 +6230,8 @@
   ],
   "performing-growth": [
     "i-need-to-improve-myself",
+    "contorting-into-someone-elses-framework",
+    "the-answer-is-already-known",
     "treating-it-as-a-decision-when-its-an-emotion",
     "tools-to-change-not-love"
   ],
@@ -6165,6 +6373,7 @@
     "whats-next-after-i-reached-my-big-goal",
     "definition-of-asshole",
     "voice-as-care",
+    "culture-outside-mirrors-culture-inside",
     "self-aggression-permits-others-aggression",
     "self-boundary-mirrors-external-boundary",
     "list-who-you-subtly-blame",
@@ -6187,6 +6396,7 @@
     "attention-is-feeling",
     "find-whats-enjoyable-in-the-defense",
     "give-me-the-sound-of-the-emotion",
+    "go-to-your-heart-not-your-brain",
     "use-domain-of-mastery-as-template-for-body-intelligence",
     "use-the-live-group-as-love-field",
     "shame-is-anger-turned-inward",
@@ -6331,6 +6541,7 @@
   "how-do-i-create-wealth-and-financial-stability": [
     "if-i-had-more-money",
     "money-is-bad",
+    "what-makes-me-uniquely-me",
     "feel-it-as-the-sun",
     "surface-the-rejection-then-demand-its-evidence",
     "trace-emotion-to-its-first-felt"
@@ -6588,7 +6799,10 @@
     "im-fake-my-love-is-corrupt",
     "theres-a-voice-that-says-im-fake-around-everyone",
     "what-if-i-dont-want-to-be-in-view",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
     "intellectualizing-as-the-form-of-control",
+    "purpose-as-approval-seeking-in-disguise",
     "who-isnt-an-imposter",
     "expert-is-imposter-with-most-reps",
     "everyone-doing-something-real-is-an-imposter",
@@ -6731,6 +6945,7 @@
   "looking-for-whats-wrong": [
     "im-afraid-of-offending-people",
     "decision-question-covers-the-caretaking",
+    "purpose-as-approval-seeking-in-disguise",
     "seeking-as-the-wall",
     "treating-felt-state-as-factual-reality",
     "jeff-bezos-calls-his-mornings-wandering"
@@ -6748,6 +6963,7 @@
     "the-built-up-resentment-story",
     "how-else-would-you-heal-your-shame",
     "dont-make-it-your-job-to-prevent-their-triggers",
+    "dont-skip-the-consultation-because-it-evokes-emotion",
     "conflict-as-evolutionary-tension",
     "conflict-avoidance-prevents-being-loved",
     "functional-team",
@@ -7559,7 +7775,9 @@
     "everyone-is-pretending",
     "name-the-fear-loop-directly",
     "fear-vs-excitement",
+    "scary-effort-vs-grind-effort",
     "am-i-falling-or-flying",
+    "purpose-cracks-you-open",
     "the-gold-lies-beyond-the-afraid"
   ],
   "anxiety-as-unarticulated-need": [
@@ -7667,6 +7885,7 @@
   ],
   "so-what-makes-you-run-away-from-fear": [
     "im-not-living-up-to-my-potential",
+    "look-for-friction-not-the-answer",
     "name-the-fear-loop-directly",
     "clarity-comes-online-after-facing-fear"
   ],
@@ -7718,8 +7937,22 @@
   ],
   "i-cant-find-my-purpose": [
     "im-not-living-up-to-my-potential",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "purpose-as-approval-seeking-in-disguise",
     "seeking-as-the-wall",
+    "the-answer-is-already-known",
+    "what-feels-more-in-purpose-right-now",
+    "purpose-is-an-unfolding-not-a-destination",
     "feel-the-searching-then-feel-the-opposite",
+    "purpose-is-acknowledgement-not-approval",
+    "purpose-is-how-not-what",
+    "choicelessness-as-purpose-marker",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-asks-you-to-be-scary-then-effortless",
+    "purpose-cracks-you-open",
+    "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-recognized-not-found",
     "searching-for-purpose-pushes-it-away"
   ],
   "overwhelm": [
@@ -8847,6 +9080,38 @@
     "you-cant-be-seen-when-youre-not-in-yourself",
     "savannah-misunderstood-session"
   ],
+  "the-means-must-match-the-end": [
+    "what-makes-me-uniquely-me",
+    "how-joyful-is-that-search"
+  ],
+  "the-answer-is-already-known": [
+    "what-makes-me-uniquely-me",
+    "wild-goose-chase-when-the-answer-is-known",
+    "go-to-your-heart-not-your-brain",
+    "your-gift-is-your-nature-not-your-skill",
+    "i-help-people-die-better"
+  ],
+  "the-means-contradicts-the-end": [
+    "what-makes-me-uniquely-me"
+  ],
+  "wild-goose-chase-when-the-answer-is-known": [
+    "what-makes-me-uniquely-me",
+    "the-answer-is-already-known",
+    "apologize-for-contorting-into-frameworks"
+  ],
+  "i-help-people-die-better": [
+    "what-makes-me-uniquely-me",
+    "purpose-is-how-not-what",
+    "your-gift-is-your-nature-not-your-skill"
+  ],
+  "apologize-for-contorting-into-frameworks": [
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "purpose-as-approval-seeking-in-disguise",
+    "wild-goose-chase-when-the-answer-is-known",
+    "go-to-your-heart-not-your-brain",
+    "your-gift-is-your-nature-not-your-skill"
+  ],
   "joy-of-accomplishment-is-the-absence-of-wants": [
     "whats-next-after-i-reached-my-big-goal",
     "no-finish-line",
@@ -8857,6 +9122,7 @@
     "intellectualizing-as-the-form-of-control",
     "catch-i-feel-like-as-not-a-feeling",
     "feel-into-it-vs-think-about-it",
+    "go-to-your-heart-not-your-brain",
     "mark-it-and-return-later",
     "ali-abdaal-coaching-session"
   ],
@@ -9053,6 +9319,20 @@
     "caring-vs-caretaking",
     "esme-listens-at-the-door",
     "parenting-as-coaching-domain"
+  ],
+  "the-strategy-is-the-problem": [
+    "contorting-into-someone-elses-framework"
+  ],
+  "how-do-i-stop-seeking-approval": [
+    "contorting-into-someone-elses-framework",
+    "purpose-as-approval-seeking-in-disguise",
+    "dont-call-them-a-liar-with-deflection",
+    "authority-issues",
+    "the-four-authority-positions",
+    "let-it-move-through-and-clean-the-channel",
+    "purpose-is-acknowledgement-not-approval",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval"
   ],
   "shame-stagnates-emotion": [
     "criticism-posture-vs-shame-posture",
@@ -9379,7 +9659,8 @@
     "the-smile-of-recognition",
     "ask-whats-wrong-with-you-into-the-shame",
     "feel-into-it-vs-think-about-it",
-    "its-a-human-thing-redirect"
+    "its-a-human-thing-redirect",
+    "the-retreat-woman-no-choice"
   ],
   "fuck-the-right-answer": [
     "intellectualizing-as-the-form-of-control",
@@ -9484,6 +9765,7 @@
     "making-vs-allowing",
     "discipline-starts-engine-then-let-gravity",
     "gentleness-not-trying-to-be-patient",
+    "purpose-asks-you-to-be-scary-then-effortless",
     "searching-for-love-cuts-off-love",
     "the-emotional-experience-decides-the-channel",
     "trust-the-awareness-dont-add-effort",
@@ -9537,6 +9819,9 @@
     "transparent-identity-vs-rigid",
     "epiphany-becomes-rut",
     "nothing-is-wrong-with-it-its-just-painful"
+  ],
+  "approval-seeking-from-authority": [
+    "purpose-as-approval-seeking-in-disguise"
   ],
   "fear-of-joy": [
     "questioning-the-positive-state",
@@ -9643,7 +9928,8 @@
   "intellectualizing-as-the-form-of-control": [
     "seeking-as-the-wall",
     "the-question-itself-is-the-abandonment",
-    "is-it-not-feeling-or-repressing-what-arises"
+    "is-it-not-feeling-or-repressing-what-arises",
+    "go-to-your-heart-not-your-brain"
   ],
   "i-feel-lonely-i-cant-find-real-community": [
     "shame-blocks-connection-in-real-time",
@@ -9652,6 +9938,18 @@
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "use-the-live-group-as-love-field",
     "what-were-avoiding-is-usually-love"
+  ],
+  "purpose-is-recognized-not-found": [
+    "the-answer-is-already-known",
+    "look-for-friction-not-the-answer",
+    "wild-goose-chase-when-the-answer-is-known",
+    "purpose-is-an-unfolding-not-a-destination",
+    "purpose-is-acknowledgement-not-approval",
+    "the-hot-springs-massage-message",
+    "the-retreat-woman-no-choice"
+  ],
+  "i-dont-know-what-i-want": [
+    "the-answer-is-already-known"
   ],
   "joes-crying-story": [
     "the-blank-place-as-refuge",
@@ -9887,6 +10185,9 @@
     "improvement-vs-authenticity",
     "dissolution-not-behavior-control"
   ],
+  "the-universe-would-fuck-you-hard": [
+    "how-joyful-is-that-search"
+  ],
   "the-feared-stories-about-emotions-sense-something-real": [
     "how-much-of-this-is-fear-of-feeling-the-hurt-you-already-have"
   ],
@@ -9922,13 +10223,23 @@
   ],
   "how-do-you-want-to-be": [
     "if-i-were-inherently-good",
+    "look-for-friction-not-the-answer",
     "what-makes-you-care-about-the-outcome",
     "whats-the-difference-between-overcoming-and-feeling-fear",
     "find-the-want-behind-the-should",
     "reframe-from-whether-to-how",
     "only-your-own-judgment-matters",
+    "purpose-is-recognized-not-found",
     "should-vs-want-body-check",
     "joes-stinky-house-experiment"
+  ],
+  "purpose-becomes-non-personal-when-its-real": [
+    "look-for-friction-not-the-answer",
+    "purpose-is-acknowledgement-not-approval",
+    "purpose-asks-you-to-be-scary-then-effortless"
+  ],
+  "whats-the-emotion-underneath": [
+    "look-for-friction-not-the-answer"
   ],
   "false dichotomy": [
     "tell-the-unchanging-part-it-has-to-move"
@@ -10110,6 +10421,7 @@
   "everybody-wants-the-same-kind-of-team": [
     "whats-the-case-against-it",
     "functional-team",
+    "all-disagreements-come-from-two-questions",
     "leaders-wants-are-the-organizations-wants"
   ],
   "trust-as-multifaceted": [
@@ -10126,6 +10438,13 @@
     "trust-requires-conflict",
     "aristotle-project",
     "family-as-team"
+  ],
+  "grief-at-the-disproportion": [
+    "wild-goose-chase-when-the-answer-is-known",
+    "apologize-for-contorting-into-frameworks"
+  ],
+  "how-many-times-have-you-done-that": [
+    "wild-goose-chase-when-the-answer-is-known"
   ],
   "kinked-emotions": [
     "acting-out-emotions-as-fluidity",
@@ -10366,14 +10685,6 @@
   "catastrophizing-vs-visualizing": [
     "dont-block-emotion-waiting-for-reason",
     "visualizing-feared-outcomes"
-  ],
-  "how-do-i-stop-seeking-approval": [
-    "dont-call-them-a-liar-with-deflection",
-    "authority-issues",
-    "the-four-authority-positions",
-    "let-it-move-through-and-clean-the-channel",
-    "seeking-approval-pushes-people-away",
-    "chase-your-own-approval"
   ],
   "move-the-body-to-integrate-insight": [
     "dont-cement-insight-as-identity",
@@ -10742,7 +11053,8 @@
     "dont-make-pleasure-a-morality",
     "gratitude-as-a-strategy-for-an-outcome",
     "when-experiments-become-management",
-    "gratitude-self-corrects-when-felt"
+    "gratitude-self-corrects-when-felt",
+    "the-means-must-match-the-end"
   ],
   "gratitude-as-a-strategy-for-an-outcome": [
     "dont-make-pleasure-a-morality",
@@ -10956,7 +11268,9 @@
     "dont-reflect-your-patterns-as-culture",
     "connection-as-family-metric",
     "functional-team",
+    "ask-how-do-i-change-this-so-it-never-happens-again",
     "frame-it-as-an-experiment",
+    "direct-intervention-vs-structural-change",
     "performance-vs-play",
     "mit-media-lab-principle",
     "politics-from-unclear-standards",
@@ -10981,6 +11295,7 @@
     "state-the-want-not-the-action",
     "tell-them-like-an-asshole",
     "the-last-to-speak-move",
+    "all-disagreements-come-from-two-questions",
     "asking-with-shame-invites-refusal",
     "conflict-coming-to-you-means-youre-avoiding",
     "everybody-wants-the-same-kind-of-team",
@@ -10999,6 +11314,7 @@
     "trust-vs-safety",
     "conflict-coming-to-you-means-youre-avoiding",
     "connection-as-life-bottom-line",
+    "culture-outside-mirrors-culture-inside",
     "disconnection-precedes-decline",
     "everybody-wants-the-same-kind-of-team",
     "invigorated-vs-depleted-as-functionality-measure",
@@ -11009,6 +11325,7 @@
     "gratitude-rounds-before-meetings",
     "team-as-scientific-method",
     "cia-organization-sabotage-manual",
+    "ray-dalio-transparency",
     "family-as-team",
     "reducing-overwhelm-in-organizations"
   ],
@@ -11020,7 +11337,10 @@
     "chameleon-leadership",
     "everyone-is-pretending",
     "ask-for-help-with-specifics",
+    "listen-to-objections-before-deciding",
     "visualize-the-reality-of-leadership",
+    "write-to-your-team-like-a-marketing-email",
+    "all-disagreements-come-from-two-questions",
     "asking-with-shame-invites-refusal",
     "everybody-wants-the-same-kind-of-team",
     "if-you-dont-stand-into-authority-others-will-vie-for-it",
@@ -11040,12 +11360,16 @@
     "functional-team",
     "sublimated-wants-become-politics",
     "the-four-authority-positions",
+    "ask-how-do-i-change-this-so-it-never-happens-again",
     "compliment-people-to-become-the-authority",
     "give-parameters-of-winning",
+    "listen-to-objections-before-deciding",
     "make-everyone-feel-seen-when-things-go-wrong",
     "reframe-boss-as-customer",
     "state-the-want-not-the-action",
+    "direct-intervention-vs-structural-change",
     "lead-and-follow",
+    "all-disagreements-come-from-two-questions",
     "allowing-creates-resilience",
     "if-you-dont-stand-into-authority-others-will-vie-for-it",
     "leadership-emerges-from-confident-direction",
@@ -11070,6 +11394,13 @@
     "catastrophizing-vs-visualizing",
     "emotion-can-move-without-a-story",
     "three-reflection-questions-on-anger"
+  ],
+  "listen-to-objections-before-deciding": [
+    "dont-skip-the-consultation-because-it-evokes-emotion"
+  ],
+  "culture-outside-mirrors-culture-inside": [
+    "dont-skip-the-consultation-because-it-evokes-emotion",
+    "all-disagreements-come-from-two-questions"
   ],
   "dont-confuse-embracing-fear-with-inviting-danger": [
     "dont-specialize-in-the-scariest-fear",
@@ -11265,7 +11596,8 @@
   ],
   "gratitude-self-corrects-when-felt": [
     "gratitude-as-a-strategy-for-an-outcome",
-    "gratitude-as-full-body-sport"
+    "gratitude-as-full-body-sport",
+    "the-means-must-match-the-end"
   ],
   "gratitude-as-a-condition-i-can-feel-it-once-x-happens": [
     "gratitude-as-a-strategy-for-an-outcome",
@@ -11730,6 +12062,7 @@
     "wait-for-someone-else-to-say-it",
     "capacity-to-love-other-is-capacity-to-love-self",
     "conversation-as-microcosm-of-relationship",
+    "culture-outside-mirrors-culture-inside",
     "speaking-authentically"
   ],
   "intention-vs-goal": [
@@ -11795,6 +12128,10 @@
     "authority-issues",
     "compliment-people-to-become-the-authority",
     "visualize-the-reality-of-leadership",
+    "write-to-your-team-like-a-marketing-email",
+    "direct-intervention-vs-structural-change",
+    "all-disagreements-come-from-two-questions",
+    "culture-outside-mirrors-culture-inside",
     "leadership-emerges-from-confident-direction",
     "only-work-with-the-leader",
     "require-an-action-at-the-end-of-every-email",
@@ -12220,6 +12557,7 @@
     "dysfunction-as-spectrum",
     "functional-team",
     "momentum-allows-dysfunction-to-persist",
+    "all-disagreements-come-from-two-questions",
     "disconnection-precedes-decline",
     "energy-management-over-time-management",
     "self-connection-catches-meeting-friction",
@@ -12338,6 +12676,7 @@
     "avoid-the-decision-by-design",
     "enjoyment-as-path",
     "loss-of-control-and-loss-of-self-are-the-same",
+    "purpose-asks-you-to-be-scary-then-effortless",
     "actor-giving-most-convincing-performance",
     "enjoy-your-breath-for-five-minutes"
   ],
@@ -12350,6 +12689,7 @@
     "acknowledging-death-compresses-life",
     "annihilation-reveals-what-is-real",
     "defending-the-ideal-blocks-the-relating",
+    "purpose-is-an-evolution-not-a-destination",
     "say-goodbye-like-its-the-last-time",
     "joes-funeral-poem-for-kase"
   ],
@@ -12598,6 +12938,8 @@
   ],
   "dont-reflect-your-patterns-as-culture": [
     "identity",
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "culture-outside-mirrors-culture-inside",
     "identity-shapes-who-is-around-you",
     "leaders-calm-becomes-the-teams-calm",
     "unconscious-principles-run-your-life",
@@ -12735,7 +13077,8 @@
   "when-experiments-become-management": [
     "iterative-mindset",
     "wonder-vs-curiosity",
-    "stay-in-the-experiment-through-the-tension"
+    "stay-in-the-experiment-through-the-tension",
+    "the-means-must-match-the-end"
   ],
   "mit-media-lab-principle": [
     "iterative-mindset",
@@ -13373,6 +13716,7 @@
   "dont-extract-apologies": [
     "upright-apology",
     "forms-of-dysfunctional-apology",
+    "apologize-for-contorting-into-frameworks",
     "welcome-the-shame-without-extracting",
     "attempt-over-success-in-parenting",
     "dont-shame-kids-they-self-shame",
@@ -13587,6 +13931,7 @@
   "leaders-calm-becomes-the-teams-calm": [
     "one-team-member-holds-the-helplessness",
     "make-everyone-feel-seen-when-things-go-wrong",
+    "culture-outside-mirrors-culture-inside",
     "kids-respond-to-emotional-presence-not-words",
     "presence-over-technique-in-coaching",
     "speak-to-the-problem-without-solving-it",
@@ -13684,7 +14029,8 @@
   ],
   "coach-defensive-behavior-out-of-the-meeting": [
     "signs-of-a-dysfunctional-leader",
-    "name-the-body-defense-in-real-time"
+    "name-the-body-defense-in-real-time",
+    "direct-intervention-vs-structural-change"
   ],
   "lead-and-follow": [
     "signs-of-a-dysfunctional-leader",
@@ -13700,6 +14046,9 @@
     "the-four-authority-positions",
     "i-love-your-frustration",
     "leader-receives-criticism-with-curiosity",
+    "listen-to-objections-before-deciding",
+    "direct-intervention-vs-structural-change",
+    "all-disagreements-come-from-two-questions",
     "require-an-action-at-the-end-of-every-email",
     "sarah-i-love-your-frustration"
   ],
@@ -13799,6 +14148,25 @@
     "enjoyment-attracts",
     "enjoy-this-just-a-little-bit-more",
     "authenticity-in-business"
+  ],
+  "direct-intervention-vs-structural-change": [
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "require-an-action-at-the-end-of-every-email"
+  ],
+  "require-an-action-at-the-end-of-every-email": [
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "direct-intervention-vs-structural-change",
+    "all-disagreements-come-from-two-questions"
+  ],
+  "rollout-principles-in-organization": [
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "write-to-your-team-like-a-marketing-email",
+    "direct-intervention-vs-structural-change",
+    "principles-free-you",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
+    "team-as-scientific-method",
+    "structure-and-empowerment"
   ],
   "name-your-trigger-as-vulnerability": [
     "ask-open-ended-non-judgmental-questions-when-triggered",
@@ -14021,6 +14389,19 @@
   "the-opposite-of-trying": [
     "let-it-move-through-and-clean-the-channel"
   ],
+  "all-disagreements-come-from-two-questions": [
+    "listen-to-objections-before-deciding",
+    "write-to-your-team-like-a-marketing-email"
+  ],
+  "dont-skip-the-consultation-because-it-evokes-emotion": [
+    "listen-to-objections-before-deciding"
+  ],
+  "diagnose-the-meeting-live": [
+    "listen-to-objections-before-deciding",
+    "the-last-to-speak-move",
+    "everybody-wants-the-same-kind-of-team",
+    "self-connection-catches-meeting-friction"
+  ],
   "i-love-your-frustration": [
     "make-everyone-feel-seen-when-things-go-wrong",
     "sarah-i-love-your-frustration"
@@ -14126,11 +14507,6 @@
   "wheres-you-go-naming-the-retreat-from-connection": [
     "tell-it-to-god"
   ],
-  "diagnose-the-meeting-live": [
-    "the-last-to-speak-move",
-    "everybody-wants-the-same-kind-of-team",
-    "self-connection-catches-meeting-friction"
-  ],
   "give-from-an-overflow-not-from-an-empty-tank": [
     "treat-them-like-an-adult"
   ],
@@ -14173,6 +14549,10 @@
   ],
   "how-do-i-trust-myself|self-trust": [
     "compass-not-map"
+  ],
+  "ask-how-do-i-change-this-so-it-never-happens-again": [
+    "direct-intervention-vs-structural-change",
+    "require-an-action-at-the-end-of-every-email"
   ],
   "dont-use-loving-presence-as-disassociation": [
     "embodied-love-vs-vacuous-presence"
@@ -14295,6 +14675,10 @@
     "knowing-yourself-is-the-only-safety",
     "five-principles-of-the-path"
   ],
+  "am-i-falling-or-flying": [
+    "scary-effort-vs-grind-effort",
+    "purpose-cracks-you-open"
+  ],
   "dont-use-inquiry-to-win": [
     "skeptical-inquiry-vs-self-inquiry",
     "questioning-assumptions"
@@ -14409,6 +14793,10 @@
   ],
   "dont-make-pleasure-a-morality": [
     "chasing-pleasure-is-avoidance"
+  ],
+  "scary-effort-vs-grind-effort": [
+    "choicelessness-as-purpose-marker",
+    "purpose-cracks-you-open"
   ],
   "the-first-thing-the-client-says-is-the-kernel": [
     "coach-as-follower-not-director"
@@ -14729,11 +15117,14 @@
   "golden-algorithm-open-the-drawer": [
     "principles-free-you"
   ],
-  "rollout-principles-in-organization": [
-    "principles-free-you",
-    "wrestle-with-your-principles",
-    "defining-principles-well",
-    "team-as-scientific-method"
+  "fear-of-rejection-shapes-the-decision": [
+    "purpose-asks-you-to-be-scary-then-effortless"
+  ],
+  "purpose-feels-like-choicelessness": [
+    "purpose-is-recognized-not-found"
+  ],
+  "purpose-is-acknowledgement-not-approval": [
+    "purpose-is-recognized-not-found"
   ],
   "asking-dissolves-the-not-okay-to-want": [
     "resentment-as-unspoken-want",
@@ -15034,6 +15425,9 @@
   ],
   "loving-the-resistance": [
     "the-fu-joe-handle"
+  ],
+  "honor-the-clients-wisdom-not-the-teachers": [
+    "the-hot-springs-massage-message"
   ],
   "material-problems-are-emotional-problems": [
     "walmart-environmental-profitability",
