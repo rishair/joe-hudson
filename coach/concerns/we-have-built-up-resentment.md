@@ -4,7 +4,7 @@ id: we-have-built-up-resentment
 title: "We have built-up resentment / We're not entirely happy with each other anymore"
 aliases: ["we have built up resentment", "we're not entirely happy with each other", "we're walking on eggshells", "the resentment has been building", "we used to be happy and now we're not", "we got married and were happy and now there's this", "we've grown apart", "things have built up", "we're not as connected as we used to be", "our marriage has gotten heavy", "the same fight keeps coming up", "we're stuck in this dynamic", "our relationship has gotten stagnant", "low-grade resentment in a long marriage", "the slow-burn marriage", "the slow-burn business partnership", "the gradual erosion of the relationship", "we used to talk about everything", "the marriage that slowly went flat", "the company that lost its aliveness", "the founder relationship that turned competitive"]
 tags: ["relationships", "marriage", "partnership", "presenting concern", "resentment", "stagnation", "conflict avoidance"]
-sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-09-02_How To Stop Being Resentful"]
+sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-09-02_How To Stop Being Resentful", "2025-01-07_The Reason Your Relationship Is Dead", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
 ---
 
 # We have built-up resentment / We're not entirely happy with each other anymore
@@ -54,7 +54,7 @@ The same presenting story branches in several directions depending on what is ha
 
 - If [[walking-on-eggshells]]: both partners have been managing each other's triggers and have built the relationship around the management. Joe will move toward naming this and toward [[say-the-thing-youre-not-saying]] as the first practice.
 - If the person is in [[fight-or-roll-over-binary]] about the relationship: the only options on the table are to leave or to keep absorbing the dissatisfaction. Joe will surface the third option that the binary is hiding.
-- If [[you-think-they-cant-handle-it]]: the person has decided the partner is too fragile for the conversations that would matter. Joe will check whether this is real or a self-justifying story.
+- If [[you-think-they-cant-handle-it]]: the person has decided the partner is too fragile for the conversations that would matter. Joe will check whether this is real or a self-justifying story. In couples specifically, this read often comes with a symmetric counterpart on the other partner ([[the-two-symmetric-fears-of-each-spouse]]): one fears the partner's fragility, the other fears the partner's anger and consequent withdrawal of love. The mutual withholding produced by the two opposite fears is what produces the dead-marriage configuration. See [[lawyer-and-vc-dead-marriage]] for the worked example.
 - If the person is using "we have grown apart" as a fixed identity story: Joe will not buy the story. The growing-apart is what conflict avoidance produces; the people themselves did not get incompatible.
 - If [[resentment-as-caretaking-diagnostic]] is active: the resentment is the marker of caretaking that has gone on too long. Joe will move toward the caretaking work.
 - If the same fight has been repeating for years and both partners are usually focused on what the other did rather than on their own contribution: a [[shame-hot-potato]] is running. Joe will name the dynamic and move toward [[drop-the-hot-potato]] and [[state-no-wish-for-their-shame]] as the entry into the work.
@@ -98,9 +98,25 @@ When the presenting concern is "we have built-up resentment" and the listener ne
 
 The 4-keys framework is the public-teaching version. It does not replace the deeper work but provides a structured entry point when the client needs to know what to do this week rather than what to understand about the dynamic.
 
+## The Iteration Path (For Couples Ready to Run Experiments)
+
+For couples who have surfaced the belief, addressed the conflict avoidance, and are ready to act, the iteration path provides the structural protection that makes the work survivable. The path:
+
+1. **Surface and address the belief.** If either partner is holding [[belief-you-cant-have-both-a-great-career-and-a-great-marriage]] or some other form of [[belief-in-change-is-precondition]] failure, that is the first work. The work that follows will be undermined without it.
+
+2. **Confirm both want a better relationship.** See [[are-you-willing-to-do-the-work]] in its pre-marriage form: "are you both willing to work and change so the relationship gets better and better over time?" If yes from both, proceed. If yes from only one, the conversation is different -- it is about whether to stay in a configuration that cannot deepen.
+
+3. **Pre-build the list of 10 to 20 experiments together.** See [[relationship-experiments-list]]. The list converts the work from a pass-fail trial into an iteration. Each experiment is information, not verdict. The list is the structural protection against the failure-recognition mechanism that would otherwise shut down the work after the first attempt that does not produce the hoped-for change.
+
+4. **Run them one at a time. Feel what each one produces. Iterate.** The change is in the iteration, not in any single experiment. The promise is that by the time the list is done, the relationship will be in a different place even if no individual experiment was the "right" one.
+
+This is the iterative-mindset path applied to the relationship domain. It is parallel to the four-keys path but more structural -- it specifies the protocol rather than the categories of work. The two paths can be run together: use the four keys to organize what kinds of experiments to put on the list.
+
 ## Sources
 
 - 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement
 - 2023-12-22_The Shame Hot Potato (the same-fight-for-years variant where the resentment is being passed back and forth as shame between the partners)
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the compressed four-key framework as a public-teaching entry into the dynamic; the four keys offered as parallel doors into the underlying work)
 - 2024-09-02_How To Stop Being Resentful (the specific mutual-envy form of built-up marital resentment where each spouse resents what the other has; the admiration move as a clean first intervention; the marriage example of mutual resentment about career freedom vs. home time)
+- 2025-01-07_The Reason Your Relationship Is Dead (the symmetric-fears configuration as the structural reason both partners stop telling each other the truth; the dead-marriage symptoms — only logistics fights, no intimacy, no sex, no storytelling — as the visible form of mutual withholding; the 6-to-8-month recovery timeline once both partners commit to truth-telling and respectful fighting)
+- 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the iteration path as the structural alternative to the binary "try one thing and if it doesn't work it's over" frame; the 10-to-20 experiments practice as the operational form of the iterative-mindset applied to the relationship; the upfront belief-and-mutual-willingness preconditions that determine whether the iteration path can even begin; the both-partners-required condition for the practice to produce relationship-level change)

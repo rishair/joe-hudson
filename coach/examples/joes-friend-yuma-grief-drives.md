@@ -4,8 +4,8 @@ id: joes-friend-yuma-grief-drives
 title: "Joe's Friend Who Drove to Yuma to Grieve"
 aliases: ["the Yuma grief story", "the friend who drove to the desert", "the wailing in the desert", "the breakup that transformed his life", "the friend whose girlfriend broke up with him", "Joe's friend who mourned the fuck out of it", "the desert grief drives", "mourn the fuck out of it example", "the six months in Yuma", "the friend in Arizona who grieved", "expanding grief example"]
 tags: ["grief", "example", "joe-personal-story", "transformation", "breakup", "addiction", "patterns"]
-related: ["without-grief-we-recreate-the-pattern", "grief-as-identity-dismantling", "feeling-the-unfelt-emotion", "grief-is-many-emotions-not-just-sadness", "trauma-mapping", "let-your-body-shake-it-out"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
+related: ["without-grief-we-recreate-the-pattern", "grief-as-identity-dismantling", "feeling-the-unfelt-emotion", "grief-is-many-emotions-not-just-sadness", "trauma-mapping", "let-your-body-shake-it-out", "the-fight-is-asking-you-to-feel-what-you-couldnt", "trauma-heals-in-relationship"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-01-10_The Real Reason You Lose Control In A Fight"]
 ---
 
 # Joe's Friend Who Drove to Yuma to Grieve
@@ -60,6 +60,20 @@ The implication for someone in fresh grief: you do not need to know in advance w
 
 This connects to how [[feeling-the-unfelt-emotion]] works as a mechanism. The body knows the territory. The instruction is to allow rather than to navigate.
 
+## The 2025 Retelling: The Same Mechanism Outside a Relationship
+
+When Joe revisits this story in the context of teaching about losing control in fights, he uses it to make a specific point: the same mechanism that heals trauma inside a relationship can heal it outside one. The friend was not in a partnership when he did this work. He did the work alone in a desert. The mechanism still ran.
+
+"And so you can do that by breaking up, but you can also do that in the relationship. And it's really cool in a relationship because part of the trauma that we feel is that we were all alone in it. And if you can use your relationship and each one of those fights to find where your trauma is and then be supported in it so that you can actually realize, oh, I'm not alone, I'm allowed to feel this stuff. That is when relationships, like, so much transformation so quickly. So just like my friend who went from, you know, overweight, bad business, drinking too much. Like, that happens in a relationship. That's what happens in a marriage, and it's fucking amazing." -- Joe Hudson, The Real Reason You Lose Control In A Fight
+
+The framing has shifted slightly from the original 2022 telling. The 2022 version emphasized that the friend "mourned the fuck out of it" and the structural reorganization that followed. The 2025 version uses the same story as the proof-of-concept that the in-relationship version (the partner holding the partner while the trauma is felt — see [[trauma-heals-in-relationship]]) is the same mechanism with one variable changed: the loving witness is now present, which addresses the aloneness directly.
+
+The 2025 retelling also collapses a few details from the original. The geography of Yuma is not mentioned. The four-hour drive is compressed to "5 hours every week one way and 5 hours back." The river restoration project (the framing of why he had to drive that route) is named — the grief happened in the car on the way to and from work he was already committed to. The implication: he did not have to carve out a separate grief retreat. He used the time the existing structure of his life gave him.
+
+The before-and-after states are also stated more specifically in 2025: overweight, bad business, drinking too much, transformed into in-shape, business thriving, not drinking. This is the same outcome as the 2022 version, told in the language of structural reorganization.
+
+The story carries the same teaching in both versions. The 2025 version uses it to anchor the broader claim that the mechanism is general: applies to breakups, applies to fights, applies to any container where the unfelt emotion can finally be felt. See [[the-fight-is-asking-you-to-feel-what-you-couldnt]].
+
 ## Why Joe Tells This Story
 
 Joe uses this story to make several teachings concrete:
@@ -90,3 +104,4 @@ When someone doubts that grief can transform anything beyond the immediate loss.
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
+- 2025-01-10_The Real Reason You Lose Control In A Fight (the 2025 retelling that uses the story as the proof-of-concept for the same healing mechanism operating outside a relationship — establishing that in-relationship trauma healing is the same mechanism with the added variable of a loving witness present to address the aloneness; the compressed details — the river restoration drives, the 5-hour each-way commute, the in-shape/business-thriving/not-drinking outcome)

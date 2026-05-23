@@ -2,10 +2,10 @@
 type: practice
 id: say-the-thing-youre-not-saying
 title: "Say the Thing You're Not Saying"
-aliases: ["say the suppressed thing", "say what you're not saying", "the say-it practice", "one thing a day", "the trigger discovery practice", "find triggers by saying", "say it kindly but say it", "the hedging-isn't-allowed practice", "if you're not triggered try saying things", "Joe's practice for low-conflict couples", "the eggshell discovery practice"]
-tags: ["practice", "relationships", "trigger", "marriage", "communication", "vulnerability", "self-discovery"]
-related: ["trigger", "walking-on-eggshells", "we-never-fight", "you-think-they-cant-handle-it", "dont-make-it-your-job-to-prevent-their-triggers", "vulnerability", "boundaries", "state-the-want-not-the-action", "tell-them-like-an-asshole", "ask-open-ended-non-judgmental-questions-when-triggered"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+aliases: ["say the suppressed thing", "say what you're not saying", "the say-it practice", "one thing a day", "the trigger discovery practice", "find triggers by saying", "say it kindly but say it", "the hedging-isn't-allowed practice", "if you're not triggered try saying things", "Joe's practice for low-conflict couples", "the eggshell discovery practice", "it doesn't have to be urgent", "the can-wait-until-Saturday practice", "speak your truth consistently but not urgently"]
+tags: ["practice", "relationships", "trigger", "marriage", "communication", "vulnerability", "self-discovery", "timing"]
+related: ["trigger", "walking-on-eggshells", "we-never-fight", "you-think-they-cant-handle-it", "dont-make-it-your-job-to-prevent-their-triggers", "vulnerability", "boundaries", "state-the-want-not-the-action", "tell-them-like-an-asshole", "ask-open-ended-non-judgmental-questions-when-triggered", "the-two-symmetric-fears-of-each-spouse", "compassion-as-truth-from-open-heart"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-07_The Reason Your Relationship Is Dead"]
 ---
 
 # Say the Thing You're Not Saying
@@ -75,6 +75,23 @@ The practice also surfaces the underlying agreements that were never spoken. The
 - **Saving up and dumping.** Three weeks of suppressed material delivered in one session. This is not the practice. The practice is one thing a day, surfaced cleanly.
 - **Using "honesty" to attack.** "I'm just being honest" is often the discharge dressed up as the practice.
 - **Modifying the partner's expected response.** The practice does not require the partner to react well. It requires you to say the thing.
+- **Treating the saying as urgent.** The practice is consistency over time, not urgency in the moment. The "I have to say this right now" framing is itself usually a sign that the urgency is the problem.
+
+## Consistent, Not Urgent
+
+A specific operational nuance: the saying does not have to be urgent. The trick is consistency, not crisis-mode delivery.
+
+"The trick there is just to do that consistently all the time. It doesn't have to be like, 'here's my truth right now. I have to tell it.' Yeah, it can be like, oh, I can wait until, you know, they're rested. It can be a Saturday. It doesn't have to be urgent. And it doesn't have to be mean. As a matter of fact, it should always be done with an open heart." -- Joe Hudson, The Reason Your Relationship Is Dead
+
+The non-urgency is part of the kindness. The partner is more able to receive the truth when they are rested, when the household is calm, when the timing is not stolen from another commitment. The truth-teller can wait until Saturday. The truth-teller can pick the moment. What is not negotiable is the eventually-saying. What is negotiable is when.
+
+Two failure modes the non-urgency frame protects against:
+
+1. **The discharge-as-soon-as-it-arises trap.** "I have to say this NOW or I'll lose my nerve." The urgency is often the very fear that the practice is meant to dissolve. Saying it from the urgency tends to land as the urgency rather than as the content. Waiting until the urgency settles and saying it from a steadier place lands better.
+
+2. **The never-saying-it trap.** "I'll say it when the time is right" can become a permanent postponement. The non-urgency permission is paired with the consistency requirement. You can wait until Saturday. You cannot wait until next year. The eventual-saying is the test.
+
+The structural form: I will say this. I will say it well. The when of the saying is a craft question, not a crisis question.
 
 ## Boundary Conditions
 
@@ -131,3 +148,4 @@ See [[carl-rogers-three-day-listening-experiment]] for the extended teaching on 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the practice delivered as the second key in the [[4-keys-to-save-your-relationship]] framework; the two companion tools -- unconditional-acceptance listening and the boundary-for-being-heard; the "crazy trade" framing -- you can be liked for who you're not or you can be loved for who you are; the principle that being heard is itself the processing)
+- 2025-01-07_The Reason Your Relationship Is Dead -- the timing nuance: the truth-saying does not have to be urgent; it can wait until Saturday, until the partner is rested; the trick is consistency, not crisis-mode delivery; the truth must always be delivered with an open heart, never urgently and never meanly

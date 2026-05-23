@@ -5,7 +5,7 @@ title: "The Iterative Mindset (The Operational Alternative to Failure)"
 aliases: ["iterative mindset", "iteration mindset", "everything is an iteration", "iterating not failing", "the iteration frame", "fail fast", "the next attempt mindset", "iteration over outcome", "iteration over achievement", "the experiment frame as life orientation", "iteration as antidote to failure", "the learning-mindset", "iteration replaces failure", "iteration as the path", "the experimental orientation to life", "experiments as how to live", "experimentation as the natural mode", "experimentation as how humans naturally operate"]
 tags: ["iteration", "concept", "mindset", "failure", "experimentation", "process", "decisions", "leadership", "Silicon Valley"]
 related: ["failure-is-an-idea", "habenula", "write-50-experiments-before-starting", "process-over-result", "five-principles-of-the-path", "connection-over-perfection", "frame-it-as-an-experiment", "wrestle-with-your-principles", "team-as-scientific-method", "self-improvement-is-shame-inducing", "hairdresser-1000-for-50-rejections", "sam-walton-iterative", "migratory-path", "mit-media-lab-principle", "when-experiments-become-management", "everything-is-already-an-experiment", "evolution-of-the-experimenter", "one-experiment-at-a-time", "stay-in-the-experiment-through-the-tension", "first-experiments-should-contradict-assumptions", "experiments-must-stay-in-window-of-tolerance"]
-sources: ["2024-07-19_Failure", "2024-07-19_How Reframing Failure Changes Your Life", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
+sources: ["2024-07-19_Failure", "2024-07-19_How Reframing Failure Changes Your Life", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
 ---
 
 # The Iterative Mindset (The Operational Alternative to Failure)
@@ -149,6 +149,24 @@ The diagnostic: tension means stay (the experiment is touching the pattern), sho
 
 The trash-can story is the canonical example. Joe committed to not doing anything he did not want to do for a week. The trash piled up and started to smell. The tension at the trash can -- "what am I going to do?" -- was where the experiment had the most to teach. Staying with it produced the discovery that became [[wants-over-shoulds]]. See [[joes-stinky-house-experiment]].
 
+## Application to Relationships
+
+Relationships are one of the domains where the iterative mindset is most often missing and most leveraged when applied. The common framing is the opposite of iteration: "I'm going to try this and if it doesn't work, then it's over." The relationship is loaded onto a single attempt. The attempt does not produce the change the couple was hoping for. The relationship gets framed as unfixable.
+
+"Instead of having it like, I'm going to try this and if it doesn't work, then it's over. You need to think about it as like, oh, here are the 10, 20 experiments that I'm going to do working with the relationship. And it's much better if it's together, right? Like if both people are saying, hey, let's work on this relationship and that's what we want to do. Then great. Then you both have it. You both have the iterations so that you're never failing." -- Joe Hudson, The Mindset Shift That Transforms Dead Relationships
+
+The relationship-specific version of the practice is [[relationship-experiments-list]]: pre-build a list of 10 to 20 experiments together so that no single attempt carries the verdict on whether the marriage can be saved. The structural protection is the same as the original 50-experiments practice ([[write-50-experiments-before-starting]]): the list converts the relationship work from a pass-fail trial into an iteration.
+
+The promise that the iterative mindset makes in this domain is striking:
+
+"I guarantee you, by the time the list of experiments is done, you will absolutely be in a different place than when it started. They don't have to work even, but you will have learned about yourself. You will have learned about each other. You will learn things where you can create new experiments that will work." -- Joe Hudson, The Mindset Shift That Transforms Dead Relationships
+
+The guarantee does not depend on any specific experiment working. The guarantee is structural. After 10 to 20 iterations, the couple has accumulated enough information that the relationship is in a different place, regardless of whether any individual experiment was the right one. The mechanism is the same as in all other applications: iteration produces learning, learning produces change.
+
+The condition: both partners have to be running the iteration together. This is the relationship-specific version of the broader principle that the iterative mindset requires the right stance and setup. Unilateral iteration in a relationship does not produce the same result. See [[relationship-experiments-list]] for the full practice and [[are-you-willing-to-do-the-work]] for the diagnostic that determines whether the practice can apply.
+
+The anti-pattern this application replaces: [[dont-treat-relationship-as-pass-fail-attempt]]. The same anti-pattern shows up across all domains, but the relationship version is one of the most costly because relationships organize so much of the rest of a life.
+
 ## Performance and Play (The Two Arenas)
 
 A useful frame for the iterative mindset's relationship to high-stakes work: the distinction between performance and play. Performance is where you cannot afford to iterate freely — the recital, the surgery, the wingsuit jump where margins matter. Play is where iteration is the entire point — practice, experimentation, the safe space where failure is just data.
@@ -208,3 +226,4 @@ The implication: the practice of conscious experimentation is small. It is not a
 - 2024-07-19_How Reframing Failure Changes Your Life (parallel articulation of the same teaching; the performance-vs-play frame for the iteration arena vs the high-stakes arena; the explicit naming of "connection over perfection" and "wants over should" as siblings of the iterative-mindset reframe, all doing the same structural work of removing the failure category from an experience)
 - 2024-10-11_How Experiments Will Change Your Life (the operational form of the iterative mindset as experiments; the migratory path underneath the iteration; the management trap that degrades practices once they're used to manage the self; the MIT-Media-Lab framing of where to put the iteration; the principle that experimentation is the natural human mode and conscious experimentation only adds reflection)
 - 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation as 2024-10-11; same teaching content with minor stylistic differences; reinforces the same articulation of experiments as the operational form of the iterative mindset)
+- 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the explicit application of the iterative mindset to the relationship domain; the 10-to-20 relationship experiments as the structural alternative to the binary "try one thing and if it doesn't work it's over" frame; the guarantee that the iteration will produce a different relationship regardless of whether any single experiment works; the both-partners-required condition for the relationship version of the practice; the "you're never failing" framing inside the iteration; the explicit linking of the relationship application back to the diet/chocolate-cake habenula mechanism)

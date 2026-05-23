@@ -4,7 +4,7 @@ id: belief-you-cant-have-both-a-great-career-and-a-great-marriage
 title: "The Belief You Can't Have Both a Great Career and a Great Marriage (The High-Achiever Marriage Belief)"
 aliases: ["I can build a billion-dollar company but not have a great marriage", "I can be successful at work but not in marriage", "I can be free elsewhere but not in marriage", "the marriage-impossible belief", "the high-achiever marriage belief", "the impossible marriage belief", "I can be happy with someone else but not in my marriage", "I can't be free in my marriage", "I have to be somebody else to be married", "the trade-off belief about marriage", "marriage requires self-suppression belief", "the I-can-do-anything-but-marriage belief", "the silicon valley marriage belief", "I can build a company in a decade but not a marriage", "I have to be somebody else to be married", "marriage is the one place I can't win"]
 tags: ["pattern", "limiting belief", "marriage", "relationships", "high achievers", "ceo", "self-fulfilling prophecy"]
-sources: ["2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+sources: ["2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
 ---
 
 # The Belief You Can't Have Both a Great Career and a Great Marriage
@@ -65,6 +65,22 @@ Some surface forms:
 
 Underneath each of these is the unspoken predicate: "and that is just how it is, that is who I am, that is the deal."
 
+## The Worked Example: The Multi-Billion-Dollar Founder
+
+The clearest single case of this pattern is the multi-billion-dollar founder who held the belief that he could not change his marriage. The contradiction was obvious from the outside: a person who had built an $8 billion to $10 billion company in a span of years was carrying the belief that he could not move his marriage. The move that surfaced the belief was a direct question that exposed the contradiction.
+
+"So there's this guy that I was coaching. He was, you know, like an incredibly successful human being. He had built like a, like a multiple billion dollar company. And when it came to his marriage, he just didn't believe that he could, you know, change the marriage. And I said to him, like, so what is it that makes you think that you could -- like, oh, I can build a $10 billion, $8 billion company, but you can't like fix a relationship? Like, how, how does that mindset get in there. And he, I mean, clearly didn't have an answer for it, but it allowed him to see like, oh wait, this is ridiculous. The fact that I don't think that I can shift or change this relationship." -- Joe Hudson, The Mindset Shift That Transforms Dead Relationships
+
+Several things this example demonstrates that the general framing does not:
+
+**The belief was not consciously held.** The founder did not believe he had decided his marriage was unfixable. The belief was operating below conscious awareness. The question made it visible.
+
+**The contradiction has no defense.** Once the belief is named alongside the track record that disproves it, there is nothing to argue. "He, I mean, clearly didn't have an answer for it." The recognition arrives without resistance because the contradiction is too obvious to defend.
+
+**The recognition is the move.** "It allowed him to see like, oh wait, this is ridiculous." The move was not to convince him the marriage could be fixed. The move was to make the belief he was holding visible. Once visible, the belief loses its operational power. The work on the marriage can then begin.
+
+This is also why this pattern is treated as a precondition rather than as a piece of work to handle later. The founder doing relationship work while still holding the unsurfaced belief would have undermined the work without knowing he was doing it. The surfacing has to happen first.
+
 ## The Coaching Move on the Belief
 
 The move is not to argue with the belief. The move is to make it visible and then to question its grounding.
@@ -102,3 +118,4 @@ The practical work: get the client to verbalize the belief, get them to notice t
 ## Sources
 
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW!
+- 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the worked example of the multi-billion-dollar founder as the cleanest single case of the pattern; the direct-question move that exposed the contradiction by holding the company-building track record next to the marriage belief; the "he clearly didn't have an answer for it" demonstration of how the contradiction has no defense once surfaced; the recognition as the move rather than the work that follows)

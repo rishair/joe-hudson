@@ -4,8 +4,8 @@ id: name-im-in-my-trauma-as-couple-language
 title: "Name 'I'm In My Trauma Right Now' Out Loud to Your Partner (and What the Other Does With It)"
 aliases: ["name I'm in my trauma", "I'm in my trauma right now move", "I can't be trusted in this fight right now", "naming you're triggered to your partner", "the in-trauma announcement", "advanced couple language for triggering", "tell your partner you're in your trauma", "couple version of I can't trust my thoughts", "the I'm-in-my-trauma announcement", "the advanced move of self-naming in a fight", "naming the trauma firing to your partner", "the couple sentence for being triggered"]
 tags: ["move", "trigger", "trauma", "couples", "fighting", "naming", "communication", "advanced move"]
-related: ["trigger", "i-cant-trust-my-thoughts-right-now", "every-fight-can-bring-you-closer", "verbal-abuse-as-controlling-with-anger", "ask-open-ended-non-judgmental-questions-when-triggered", "reflect-back-to-make-partner-feel-heard", "name-your-trigger-as-vulnerability", "your-trauma-is-equally-matched-with-your-partner", "trauma-heals-in-relationship", "power-dynamics-as-two-defenders", "you-are-responsible-for-your-own-window-of-tolerance", "you-can-only-fix-yourself-in-a-fight"]
-sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well"]
+related: ["trigger", "i-cant-trust-my-thoughts-right-now", "every-fight-can-bring-you-closer", "verbal-abuse-as-controlling-with-anger", "ask-open-ended-non-judgmental-questions-when-triggered", "reflect-back-to-make-partner-feel-heard", "name-your-trigger-as-vulnerability", "your-trauma-is-equally-matched-with-your-partner", "trauma-heals-in-relationship", "power-dynamics-as-two-defenders", "you-are-responsible-for-your-own-window-of-tolerance", "you-can-only-fix-yourself-in-a-fight", "the-fight-is-asking-you-to-feel-what-you-couldnt", "breath-to-exit-overwhelm", "hands-on-body-to-regulate-nervous-system", "feeling-the-unfelt-emotion", "i-lose-myself-in-the-fight"]
+sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well", "2025-01-10_The Real Reason You Lose Control In A Fight"]
 ---
 
 # Name 'I'm In My Trauma Right Now' Out Loud to Your Partner
@@ -62,6 +62,31 @@ The move is not avoiding the conversation. The move is reframing what the conver
 
 If the naming consistently leads to the conversation ending and the topic not getting revisited, the move has been weaponized. If the naming leads to a different quality of contact and the topic returns when both are out of the trauma, the move is doing its work.
 
+## The Fight Ends When Both Partners Hold the Frame
+
+The cleanest outcome of this move, once both partners can hold the frame reliably, is that the fight stops needing to continue. The content of the fight loses its hold the moment both parties have shifted into the trauma-and-loving-witness configuration. The original purpose of the fight — to surface the unfelt emotion — is now being served by something other than continued conflict.
+
+"That's an amazing thing. Like, where Tara and I got to a point in our fights where it was like, oh, I recognize I'm not here right now. I'm in my trauma. I need to feel my stuff. Amazing thing happened. The fight just ended. The fight was like, oh, this is why we're having the fight. The fight is for you to heal this trauma. Great, you're in it, you see it, I'm right here for you. And she would just come to me and just be with me while I felt it. And I would just come to her and I'd just be with her while she felt it. And it was just this, every one of our fights became a way to relieve the trauma that put us in the place to have the fight for the first time." -- Joe Hudson, The Real Reason You Lose Control In A Fight
+
+The shape: naming the trauma exposes what the fight was for. Once exposed, the partner can come over, the trauma-firing partner can let themselves be held, the emotion can be felt with the loving witness present, and the loop completes. The fight does not need to be argued to a conclusion because the actual work of the fight (the emotion processing) is now in motion.
+
+This is the late-stage version of the move. It requires both partners to have internalized [[the-fight-is-asking-you-to-feel-what-you-couldnt]] not as concept but as lived experience. After it has happened a few times, the move starts to be reached for earlier, because both partners know what it produces.
+
+## The Regulation Step That Precedes Naming
+
+The naming move requires enough nervous system regulation to be able to speak. In the deepest activation, the speaking apparatus is partially offline. The move is to do the regulation work first, then name.
+
+The sequence:
+
+1. Notice the activation. The puppet feeling, the disproportionate reaction, the loss of presence.
+2. Regulate the nervous system enough to come back into yourself. Use [[breath-to-exit-overwhelm]], [[hands-on-body-to-regulate-nervous-system]], or a brief pause. The regulation does not need to fully resolve the activation — only to bring enough of yourself back online that you can speak.
+3. Name what is happening to the partner.
+4. Allow the trauma to be met with the partner's loving witness.
+
+"There's a whole bunch of very cool tricks on keeping your nervous system calm... The easiest one is, uh, just breathe. You can do box breath, you can look that up... You can put your hands on your body, feel your body, that can completely calm your nervous system. But the idea is when that's happening, that's your opportunity. The opportunity is calm your nervous system so you can be back in yourself. And then feel the thing that you didn't get to feel. And hopefully you've gone far enough with your partner where you can have that kind of agreement, like, oh, I'm in my trauma, I need to feel some shit." -- Joe Hudson, The Real Reason You Lose Control In A Fight
+
+The regulation is the on-ramp. The naming is the move. The being-felt-while-witnessed is the work. Skipping the regulation step often means the naming comes out wrong — too aggressive, too pleading, too dissociated — and the partner cannot receive it as information. The brief regulation step gives the naming a clean delivery.
+
 ## How This Becomes Available
 
 This is a late-stage move in the [[arc-of-fighting-maturation]]. It requires several prerequisites:
@@ -114,3 +139,4 @@ The receiving partner's response is warm but not saccharine. It is the warmth of
 
 - 2024-10-25_How To Fight And Win (Joe and Tara have used this dozens of times with each other; the move requires the receiving partner to convert from opposition to loving witness; the avoidance trap is named explicitly by Brett and confirmed by Joe; the move is described as advanced)
 - 2024-10-25_How To Fight Well (alternate edit of the same conversation; the additional framing that the naming is the way the partner can be loved in the trauma rather than retraumatized by the fight; the linkage to the two-marriages frame and the partner-as-projected-parent structure)
+- 2025-01-10_The Real Reason You Lose Control In A Fight (the "the fight just ended" outcome — when both partners can hold the frame, the naming converts the fight from positional combat into mutual witnessing of the trauma firing; the regulation-then-naming sequence — breath and hands-on-body as the on-ramp that makes the naming clean enough for the partner to receive)

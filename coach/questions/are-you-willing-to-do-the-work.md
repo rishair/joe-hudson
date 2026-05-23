@@ -5,7 +5,7 @@ title: "Are you both willing to do the work?"
 aliases: ["are you willing to do the work", "are you both willing to do the work", "the are-you-willing-to-do-the-work question", "the right-person redirect", "is this the right person redirect", "the criterion for partnership question", "the willingness-to-work question", "the are-you-willing question", "Joe's answer to is-this-the-right-person", "the only thing that matters in a relationship is willingness to do the work"]
 tags: ["relationships", "commitment", "work", "question", "criterion", "marriage"]
 related: ["there-is-no-the-one", "i-cant-find-love", "complementary-trauma-surfaces", "from-looking-for-love-to-being-love", "relationships-as-personal-growth-path", "agreements-renegotiate-as-you-change", "fear-of-losing-yourself-in-love"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
 ---
 
 # Are you both willing to do the work?
@@ -76,6 +76,18 @@ When asked clearly, the question often produces:
 
 **If the person cannot answer for themselves:** This is often the diagnostic that the readiness work has not yet been done. The willingness is not a momentary decision; it is the felt orientation of someone who has done enough internal work to be in a position to do the relationship-level work. If the answer to "are you willing" is unclear, the next move is usually the work on the person's own readiness. See [[fear-of-losing-yourself-in-love]].
 
+## The Pre-Marriage Version (The Iteration-Commitment Question)
+
+Joe uses an expanded form of this question specifically as the pre-marriage diagnostic. When someone asks whether they should marry a person, the question is not just "are you both willing to do the work" -- it is "are you both willing to work and change so the relationship gets better and better over time?"
+
+"When I say to people, they're like, oh, should I get married to a person? One of the things that I'll ask is like, are you both willing to work and change, you know, yourselves and the relationship so that it gets better and better and better? Because if you don't have that agreement upfront, you know, the chances of success are not great." -- Joe Hudson, The Mindset Shift That Transforms Dead Relationships
+
+The expanded version adds the iterative-mindset commitment explicitly. The willingness is not just to "do the work" once but to keep iterating: to keep changing themselves, to keep changing the relationship, to keep building on what was learned. The pre-marriage form is the same diagnostic as the in-relationship form, but with the iteration commitment in the foreground.
+
+The implication: the upfront agreement to iterate is itself the diagnostic. A couple that cannot agree before the marriage that they will both work and change is a couple that will hit the inevitable bumps without the structure that makes the bumps survivable. The relationship will probably not produce what relationships at their best produce, even if it survives in form. See [[relationship-experiments-list]] for the operational form of the iteration commitment.
+
+The contrapositive is also load-bearing: "if you don't have that agreement upfront, the chances of success are not great." Joe is not saying it is impossible. He is saying the structural protection that the agreement provides is absent. The couple is more exposed.
+
 ## Why This Question Beats the Right-Person Question
 
 The right-person question is unanswerable in a way that the willingness question is not. The right-person question requires a comparison to an alternative that does not exist (a real comparison to all the other potential partners the person did not select). The willingness question requires only an honest report of what both partners are actually committed to.
@@ -99,3 +111,4 @@ Direct. Joe uses the same answer every time. The repetition is part of the teach
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the expanded pre-marriage form of the question -- "are you both willing to work and change so the relationship gets better and better" -- as the iteration-commitment version; the "if you don't have that agreement upfront, the chances of success are not great" framing as the load-bearing contrapositive; the question as the diagnostic that determines whether the iterative-mindset relationship work can be undertaken at all)

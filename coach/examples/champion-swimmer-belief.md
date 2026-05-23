@@ -70,6 +70,16 @@ A person who has not put in the work is not a champion swimmer. The metaphor doe
 
 This matters in coaching. Joe is not arguing that a person can think their way into a great marriage. He is arguing that a person who is doing the work of a great marriage will not get one if they believe they cannot.
 
+## The Live-Sports Companion (The Volleyball Team Mindset Collapse)
+
+The champion swimmer is a thought experiment. Two equally skilled swimmers, different beliefs, who do you bet on. The thought experiment works because the listener concedes the answer before realizing they have agreed to the principle.
+
+There is a companion example that works through observation rather than thought experiment: [[volleyball-team-mindset-collapse]]. Joe watches his daughter's volleyball game. The team is ahead, then behind, and then he watches the entire team's shoulders slump at the same moment -- the visible form of the mindset turning. After the slump, the team gets worse and worse. The loss arrived in the bodies before it arrived on the scoreboard.
+
+Anyone who has watched sports has seen this moment. The listener does not have to be convinced; they have already observed the mechanism. The volleyball example does what the champion swimmer does but with one critical addition: it shows that the mindset shift also produces forgetting of the prior positive momentum. The team that was ahead does not remember they were ahead. This forgetting is one of the most important properties of the mechanism, and the volleyball example surfaces it in a way the swimmer thought experiment does not.
+
+The two examples are usually offered together depending on which one the listener responds to better. Intellectual listeners often prefer the swimmer (the clean structural argument). Listeners who respond to lived observation often prefer the volleyball (the live mechanism in operation). Both lead to the same place: the recognition that the listener has been on the side of the loss-arriving-early mindset in some part of their own life.
+
 ## Why It Pairs With Belief Work
 
 The metaphor is the entry. The work that follows is the actual dismantling of the belief. See [[inquiry-on-limiting-beliefs]], [[find-the-comparable]], and [[seven-limiting-beliefs]]. The metaphor opens the door; the inquiry work walks through it.
@@ -107,6 +117,8 @@ The metaphor is not solemn. It is almost playful. The lightness is part of why i
 - Toward [[find-the-comparable]] for the disconfirming-evidence move
 - Toward [[what-we-fear-we-invite]] for the related self-fulfilling mechanism
 - Toward [[4-keys-to-save-your-relationship]] for the framework this metaphor opens
+- Toward [[volleyball-team-mindset-collapse]] for the live-observation companion example
+- Toward [[belief-in-change-is-precondition]] for the general principle the metaphor illustrates
 
 ## Sources
 

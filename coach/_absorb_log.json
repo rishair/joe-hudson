@@ -6500,15 +6500,92 @@
     },
     {
       "folder": "2025-01-07_The Reason Your Relationship Is Dead",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T00:37:31Z",
+      "articles_created": [
+        "the-two-symmetric-fears-of-each-spouse",
+        "lawyer-and-vc-dead-marriage"
+      ],
+      "articles_updated": [
+        "you-think-they-cant-handle-it",
+        "say-the-thing-youre-not-saying",
+        "hold-back-from-relationship-is-what-needs-healing",
+        "compassion-as-truth-from-open-heart",
+        "we-have-built-up-resentment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:46:37Z"
+    },
+    {
+      "folder": "2025-01-10_The Real Reason You Lose Control In A Fight",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:38:33Z",
+      "articles_created": [
+        "i-lose-myself-in-the-fight",
+        "the-fight-is-asking-you-to-feel-what-you-couldnt",
+        "capital-t-vs-small-t-trauma",
+        "hands-on-body-to-regulate-nervous-system"
+      ],
+      "articles_updated": [
+        "joes-friend-yuma-grief-drives",
+        "trauma-heals-in-relationship",
+        "name-im-in-my-trauma-as-couple-language",
+        "trigger",
+        "trauma-mapping"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:47:14Z"
+    },
+    {
+      "folder": "2025-01-13_The Mindset Shift That Transforms Dead Relationships",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:47:25Z",
+      "articles_created": [
+        "relationship-experiments-list",
+        "belief-in-change-is-precondition",
+        "volleyball-team-mindset-collapse",
+        "dont-treat-relationship-as-pass-fail-attempt"
+      ],
+      "articles_updated": [
+        "habenula",
+        "iterative-mindset",
+        "are-you-willing-to-do-the-work",
+        "relationships-as-personal-growth-path",
+        "belief-you-cant-have-both-a-great-career-and-a-great-marriage",
+        "champion-swimmer-belief",
+        "we-have-built-up-resentment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:57:55Z"
+    },
+    {
+      "folder": "2025-01-15_The Price Of Being The Logical One In Love",
+      "status": "complete",
+      "claimed_at": "2026-05-23T00:47:46Z",
+      "articles_created": [
+        "superiority-and-shame-erode-together",
+        "what-am-i-not-feeling-right-now",
+        "control-of-the-other-makes-fights-unproductive"
+      ],
+      "articles_updated": [
+        "intellectual-emotional-polarization-in-couples",
+        "the-fight-is-asking-you-to-feel-what-you-couldnt",
+        "putting-someone-above-blocks-emotion"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T00:57:32Z"
+    },
+    {
+      "folder": "2025-01-17_Productivity Is Making You Unproductive",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T00:58:04Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-01-10_The Real Reason You Lose Control In A Fight",
+      "folder": "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T00:38:33Z",
+      "claimed_at": "2026-05-23T01:01:42Z",
       "articles_created": [],
       "articles_updated": []
     }
