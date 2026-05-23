@@ -5,7 +5,7 @@ title: "The Anxious-Avoidant Dynamic (Chasing as the Push-Away)"
 aliases: ["anxious avoidant dynamic", "the chaser and the aloof", "the pursuer and the distancer", "chasing pushes away", "neediness pushes away", "jealousy pushes away", "love equals chasing", "scared of receiving love", "the chasing configuration", "the pursuit-distance pattern", "fear of being adored", "the receiving abyss", "scared of love where I receive"]
 tags: ["relationships", "attachment", "anxious avoidant", "pursuit-distance", "trauma mapping", "chasing"]
 related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "self-reliance-pushes-people-away", "transactional-relationships-as-defense", "chaser-and-love-remover-both-experience-death", "withdrawal-with-vs-without-a-timeline"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-11-10_Finding a Romantic Partner", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
 ---
 
 # The Anxious-Avoidant Dynamic (Chasing as the Push-Away)
@@ -76,6 +76,31 @@ This article centers the chaser because that is who usually presents. The avoida
 
 When both partners are doing this work, the dynamic can transform within the relationship. When only one is, the chasing partner sometimes finds that the work itself produces enough internal change that the configuration with this partner is no longer sustainable. See [[relationships-as-personal-growth-path]].
 
+## When the Avoidant Partner Presents
+
+While the chaser is the more frequent presenter, the avoidant partner also surfaces this configuration, often via an indirect doorway. The typical presentation:
+
+- The presenting concern is compliment-deflection: "I'm bad at giving and receiving compliments"
+- The work surfaces that the partner is "the ultimate complimenter" or has been pursuing connection for years
+- The duration is named in decades ("22 years he's been chasing me")
+- The client describes themselves as having "walls up" and being unable to let the partner's love land
+- The client says "he's the only one who's truly seen me" while simultaneously deflecting everything he offers
+
+See [[i-cant-receive-compliments-or-love-from-my-spouse]] for the avoidant-side presenting concern and [[the-avoidant-partner-who-cant-receive]] for the read.
+
+The work from the avoidant side has the same structural shape as the work from the chaser side, with adjusted moves:
+
+- The chaser apologizes for the chasing-as-rejection. The avoidant apologizes for the distance-as-rejection. See [[apologize-to-partner-without-shame-for-the-distance-pattern]].
+- The chaser receives the avoided state of being-adored. The avoidant receives the duration-evidence of the partner's consistent showing-up. See [[count-the-years-of-showing-up]].
+- The chaser's avoided emotion is being-loved-without-having-to-chase. The avoidant's avoided emotion is being-loved-when-the-walls-come-down (often experienced as overwhelming expansiveness).
+
+The avoidant's configuration is usually maintained by:
+- [[two-forms-of-ego-good-and-bad|The deflated form of ego]] ("I'm bad at," "I'm not enough") which prevents the receiving
+- [[locked-down-sensitivity-is-the-gift|Locked-down constitutional sensitivity]] which the rigidity has been protecting
+- [[dont-call-them-a-liar-with-deflection|The compliment-deflection apparatus]] which keeps love at manageable scale
+
+The work from the avoidant side is usually slower-feeling because the body is opening to a state (full receiving) it has been protecting against for years. The pacing matters. The "expansive" sensation that arrives is the actual love being let in, often at a scale the body has not been sized for. The work is to keep the channel open without backing off, while pacing the inflow. See [[locked-down-sensitivity-is-the-gift]] for the pacing principle.
+
 ## The In-Relationship Form: Chaser and Love-Remover in Fights
 
 Once these two configurations end up in an established relationship, the structure shows up most acutely in fight-leaving. See [[chaser-and-love-remover-both-experience-death]] for the principle. The summary: the chaser's natural pursuit and the love-remover's natural withdrawal are exactly the moves that trigger the other's deepest trauma. Each partner's worst trauma is the other's most natural move. The work in the relationship is not to argue the other out of their stance but to build practices (especially [[withdrawal-with-vs-without-a-timeline]]) that allow both responses to coexist without producing the other's death.
@@ -133,3 +158,4 @@ Most people running this configuration run multiple forms at once. The chasing-o
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
 - 2023-11-10_Finding a Romantic Partner (situating the chasing configuration as one of many push-pull forms in dating; the multi-form reality of how the pattern shows up; the connection to fear of losing self as underlying motivator across forms)
+- 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the canonical presentation of the avoidant-side of the configuration; the indirect compliment-deflection doorway; the work proceeding through compliment-deflection, partner-apology for distance, duration-receiving, self-witnessing, and self-apology; the trifecta of deflated ego, locked-down sensitivity, and compliment-deflection running together in the avoidant)

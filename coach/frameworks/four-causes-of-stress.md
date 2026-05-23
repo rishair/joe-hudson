@@ -4,8 +4,8 @@ id: four-causes-of-stress
 title: "The Four Causes of Stress (Thought, Emotion, Nervous System, Identity)"
 aliases: ["four causes of stress", "the four core issues underneath stress", "four levels of stress", "the stress framework", "thought emotion nervous system identity", "the four-layer stress map", "the four stress causes", "the four layers under stress", "underneath stress framework", "what's actually causing your stress", "four causes thought emotion nervous system identity", "Joe's four causes of stress", "the layered causes of stress", "the four causes framework for stress"]
 tags: ["stress", "framework", "thought", "emotion", "nervous system", "identity", "underneath", "diagnostic"]
-related: ["stress-as-rejection-of-stress", "pep-talk-cant-override-the-body", "tension-and-release-cycle", "pleasure-tells-system-its-safe", "identity", "overwhelm", "emotions-live-in-muscles", "limiting-belief", "negative-self-talk-stress-source", "polyvagal-nervous-system-framing", "every-identity-has-limits"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)"]
+related: ["stress-as-rejection-of-stress", "pep-talk-cant-override-the-body", "tension-and-release-cycle", "pleasure-tells-system-its-safe", "identity", "overwhelm", "emotions-live-in-muscles", "limiting-belief", "negative-self-talk-stress-source", "polyvagal-nervous-system-framing", "every-identity-has-limits", "treating-world-as-threat-reproduces-threat", "applied-self-awareness", "war-with-yourself", "connection"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)", "2025-07-17_The Art of Accomplishment： End The War With Yourself"]
 ---
 
 # The Four Causes of Stress (Thought, Emotion, Nervous System, Identity)
@@ -153,7 +153,39 @@ The framework also gives the coach permission to not solve the stress at the sym
 
 Direct, structured, slightly amused at the standard cultural treatment of stress. The framework is teaching-flavored — Joe and his co-teacher build it together in conversation, with experiments interleaved. The tone says: stress is not a thing to manage, it is a thing with causes, and you can do something about each cause.
 
+## The Three-Cause Compression (Voice, Emotions, Connection)
+
+A condensed version of the framework that drops nervous-system and identity as separate layers and emphasizes a third layer the four-cause framework underweights: connection. This is the version Joe gives in the "End the War With Yourself" episode when articulating what AOA is for.
+
+The three causes in this version:
+
+1. **The way we talk to ourselves.** The voice in the head running constant criticism. "If you're constantly under attack, you feel stressed. If you had a boss who was sitting next to you and saying, 'You should have done that better. Why didn't you do this? You're messing up. Why haven't you gotten further along since you're 40 years old?' you'd be stressed, especially if it was talking at you 10, 20 times a minute, which is what the voice in your head is actually doing." -- Joe Hudson, End The War With Yourself
+2. **Not actually feeling our emotions.** "If you stop feeling emotions right now... you'll notice you have to constrict your muscles to do it. And that literally is what it's like to be physically under stress — to tighten your muscles." -- Joe Hudson, End The War With Yourself
+3. **Lack of connection.** "The longest study that Harvard ever did was all about how when we have a great sense of community, everything is better. We live longer, we're happier, our lives are more successful, but we don't have that sense of community anymore. We don't even have that sense of connection with ourselves." -- Joe Hudson, End The War With Yourself
+
+The three-cause compression is not a competing framework. It is the same map drawn at a different resolution. The four-cause framework treats nervous-system regulation and identity rigidity as separate causes; the three-cause compression folds nervous-system regulation into the emotional cause (the muscular constriction is the nervous-system signature of the suppressed emotion) and adds connection as a distinct cause that the four-cause framework underweights.
+
+For coaching use:
+
+- Use the **four-cause framework** when the work is to diagnose where to enter on a specific stress complaint, especially when identity rigidity or nervous-system depletion is doing more of the work than the surface presentation suggests.
+- Use the **three-cause compression** when articulating the mission frame of the work, or when the conversation is about what produces stress in general rather than the specific stress in front of you.
+
+Both versions converge on the same interventions. The voice work is the same. The emotional work is the same. The connection work (especially self-connection) is the same.
+
+See [[applied-self-awareness]] for the mission frame the three-cause compression supports, [[war-with-yourself]] for the overarching structure the three causes are the operational forms of, and [[treating-world-as-threat-reproduces-threat]] for why the chronic stress these causes produce matters at societal scale.
+
+## The "What Most People Think" Misdirection
+
+Both the four-cause and three-cause versions of the framework begin by naming a common misdirection. People believe their stress is caused by external load — too much to do, the world is too fast, the phone, the calendar, the financial pressure. These factors are real, but they amplify rather than cause the stress.
+
+"What people think is that we're stressed and we're not enjoying ourselves because we have too much to do, the world is too fast, we're overwhelmed with a to-do list or our phones, or we have to work harder to make enough money to pay off the car payment. And this is why we think that stress is happening. It's all this external stuff, but that's actually not the real reason for stress. That amplifies it, but it's not actually the real reason." -- Joe Hudson, End The War With Yourself
+
+The diagnostic implication: when someone presents with stress and attributes it to external causes, the work is not to address the external causes (though that may help). The work is to look at which of the actual causes is loaded. The external load is the amplifier; the internal cause is the source. Removing items from the calendar does not address the source. Addressing the source — even with the calendar unchanged — reduces the stress.
+
+This pairs with [[investigate-the-actual-source-of-stress]] and the [[sleep-not-the-marriage-story]] example. The named cause is usually not the actual cause. The framework gives the coach the map of where the actual cause is likely to be located.
+
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the canonical introduction of the four-cause framework as the organizing structure for understanding stress; the cascade principle that progress on one cause produces falling-into-place on the others; the four paired listener experiments; the cross-layer mechanics of how the four interact)
 - 2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained) (the cross-layer investigation move; the sleep-not-the-marriage example as a cross-layer demonstration; the emotional-release-reveals-the-real-cause example showing how the emotion layer can produce what looks like a thought-layer overload; the cultural-pressure-to-perform-stress example showing how the identity layer can produce what looks like a load-based stress)
+- 2025-07-17_The Art of Accomplishment: End The War With Yourself (the three-cause compression of the framework — voice, emotions, connection — as the version Joe gives when articulating the AOA mission; the "what most people think" misdirection about external load; the 10-20-times-a-minute voice volume statistic; the boss-next-to-you scene as the visualization of the voice's volume; the muscle-constriction demonstration as the emotional cause; the Harvard study as the connection-as-cause evidence)

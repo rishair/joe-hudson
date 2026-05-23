@@ -98,6 +98,20 @@ A specific extension of the principle that this case illuminates: many people wh
 
 The recovery principle for narcissism is therefore: grieve the relationship, grieve the imagined relationship that was hoped for, grieve the family configuration that prepared the slot. The slot dissolves. The next person cannot fit into it because it does not exist. The vigilance becomes obviously redundant. See [[how-do-i-stay-open-after-narcissistic-abuse]] for the concern this application addresses.
 
+## The Trust-After-Loss Specific Application
+
+A specific form of this principle that surfaces frequently in coaching: when someone reports being unable to trust again after a loss -- a breakup, a divorce, a bad business partnership, a friendship that failed -- the response is not to work on trust directly. The inability to trust is the diagnostic. The work is more grief.
+
+"When the grief moves all the way through, there's nothing to be scared of. So when I see people having a hard time trusting after a breakup or a marriage or bad business partnership or something like that, it typically means that they haven't grieved the whole thing." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The mechanism is the same as the recurrence pattern this principle is built on. The relationship was organized around an identity. The identity was injured by the ending. Without grief, the injury stays in place. The body's response to an unhealed injury is protection -- vigilance, scanning, inability to be open. The person reads this as "I can't trust." The body is reading it as "this identity is still injured and you are asking me to expose it again."
+
+The prescription Joe gives directly: "You need to grieve some more."
+
+The work bypasses the trust-question entirely. Trust is the symptom; grief is the work. When grief completes, trust returns by itself -- because the injured identity has been allowed to die, and the body no longer needs to protect what is no longer there. The person who emerges from full grief can spot the threats they should spot (they always could) and can be open with everyone else, without the chronic on-guard posture that confuses every possibility of contact with the threat of repeat-injury.
+
+See [[cant-rebuild-trust-without-grieving-the-loss]] for the full article on this specific application.
+
 ## When This Comes Up in Coaching
 
 - When a person notices they keep dating the same kind of person and asks why.
@@ -127,3 +141,4 @@ The recovery principle for narcissism is therefore: grieve the relationship, gri
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
 - 2024-09-17_How Do I Not Get Ruined By Narcissism? (the narcissism-recovery application of the principle: the vigilance after exiting a narcissistic relationship is structurally the same avoidance that the principle warns against in any post-loss case; the grief is what dismantles the slot the narcissist was filling; the often-extended grief that must include the original family configuration if a narcissistic parent was involved; the inverse relationship between vigilance and grief; the operational verification that the opened heart cannot be hooked by the narcissist's coy beginnings)
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (the trust-after-loss specific application of the principle: "when the grief moves all the way through, there's nothing to be scared of"; the extension to breakups, marriages, and bad business partnerships; the "you need to grieve some more" prescription for shaken trust; the inability-to-trust as diagnostic of incomplete grief rather than as the primary issue)

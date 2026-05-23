@@ -4,7 +4,7 @@ id: dont-call-them-a-liar-with-deflection
 title: "Don't Deflect Compliments (You're Calling Them a Liar)"
 aliases: ["don't call them a liar with deflection", "deflecting a compliment is calling them a liar", "you're telling them they're a liar", "the polite-thank-you-while-still-thinking-they're-a-liar", "deflecting compliments is rude", "deflecting compliments costs them", "the deflection-as-disagreement anti-pattern", "deflection contradicts the giver", "saying thank you while disbelieving is still deflection", "the polite-deflection trap", "the polite-disbelief deflection", "the I'll-be-polite-but-disbelieve move", "no I'm not the pretty one move", "the you're-the-pretty-one deflection", "deflecting hurts the giver", "the compliment-giver felt rejection", "the giver stops giving compliments after deflection", "the deflection costs the relationship", "the unreceived compliment as rejection of the giver", "saying thank you is not enough you have to receive"]
 tags: ["compliments", "anti-pattern", "approval", "humility", "deflection", "smallness", "self-deprecation"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
 ---
 
 # Don't Deflect Compliments (You're Calling Them a Liar)
@@ -61,6 +61,16 @@ The arc: noticing the calling-them-a-liar move, switching to polite-thank-you, r
 - "If you don't receive the compliment, guess what it feels like to the person giving you the compliment? It feels like shit. Why would I keep giving you compliments if you don't actually receive them, if you don't enjoy them?" -- Joe Hudson, STOP Chasing Approval
 - "When I realized that I was calling people liars, I felt like such an asshole." -- Joe Hudson, STOP Chasing Approval
 
+## The "You're Just Saying That" Form (The Deflection Used Against the Giver)
+
+A related but inverted form of the anti-pattern: when the deflector accuses the giver of not really meaning the compliment. "You're just saying that," "you're being kind," "you have to say that," "you don't actually believe it." The accusation is the same calling-them-a-liar move, just stated more directly. The deflector is asserting that the giver's compliment was performative, polite, or false.
+
+This form is useful diagnostically. The "you're just saying that" move surfaces the underlying belief that has been silently operating in every previous deflection: the deflector does not believe the giver's compliments are real. The polite "thank you" was hiding this belief. The "you're just saying that" makes it explicit.
+
+Joe uses this form deliberately in coaching to test whether the client can stay in their open heart through a deflection — see [[use-recent-deflection-to-test-receiving-live]]. When the client has just given a genuine compliment, Joe deflects with "you're just saying that," watches what the client does, and uses the staying-open as the demonstration of the receiving-stance the client is being asked to take on the other side. The move is the same anti-pattern enacted by the coach to make the dynamic visible.
+
+The corrective for the giver of compliments who is being told "you're just saying that": stay in the open heart. Re-assert the truth. Do not collapse. The deflection bouncing off the giver's openness is what eventually shifts the deflector's structural belief that compliments are not real.
+
 ## Upstream (What Leads Here)
 
 - When a client deflects a compliment in the session
@@ -81,3 +91,4 @@ The arc: noticing the calling-them-a-liar move, switching to polite-thank-you, r
 ## Sources
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "calling them a liar" framing, the polite-thank-you-while-disbelieving sequence, and the autobiographical arc from polite deflection to actual receiving)
+- 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the "you're just saying that" form as the explicit version of the calling-them-a-liar move; Joe's deliberate use of this form in coaching to test whether the client can stay open through a deflection; the move's diagnostic value in surfacing the underlying belief that compliments are not real)

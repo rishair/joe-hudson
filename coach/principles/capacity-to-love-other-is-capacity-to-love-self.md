@@ -5,7 +5,7 @@ title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
 aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love", "the reflection inside is the reflection outside", "cutting off love internally cuts off love externally", "the same move done to yourself is done to others", "the mirror move of cutting off love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
 related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love", "outer-life-mirrors-relationship-with-self", "war-with-yourself"]
-sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-17_The Cure for Self-Help Fatigue", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-17_The Cure for Self-Help Fatigue", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)", "2025-07-17_The Art of Accomplishment： End The War With Yourself"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -169,6 +169,20 @@ This is the live in-the-moment form of the capacity equation. The self-acceptanc
 
 See [[drop-the-shame-to-see-them]] for the move treated as its own coaching instrument.
 
+## The Self-Connection Extension (Honesty, Connection, Love All Mirror)
+
+A specific extension of the capacity equation: the principle does not just hold for love. It holds for honesty, for connection, and for any other relational capacity the person has. The structure is the same: the capacity in any direction equals the capacity in the inward direction.
+
+"A lot of people are like, oh, connection is about the other person, but the connection isn't about the other person, it's about yourself. My capacity to love myself is very highly correlated with my capacity to love you. My capacity to be honest with myself is very highly correlated with my capacity to be honest with you. My ability to connect with myself is very much reflected in my ability to connect with you." -- Joe Hudson, End The War With Yourself
+
+The extension matters because people often try to upgrade specific relational capacities while leaving the substrate untouched. The person who wants to be more honest with their partner tries to be more honest with their partner. The person who wants to be more connected with their kids tries to be more connected with their kids. The strategy fails because the relational capacity is bounded by the same internal capacity. Honesty with the partner is bounded by honesty with the self. Connection with the kids is bounded by connection with the self.
+
+The actual move, for any of these capacities, is the inward version. To be more honest with your partner, become more honest with yourself. To be more connected with your kids, deepen the connection with yourself. The outward capacity expands as a byproduct.
+
+This is also the structural reason why AOA frames connection-with-self as one of the three central interventions (alongside self-understanding and emotional clarity). Connection-with-others as a target is downstream of connection-with-self as a capacity. Working on the downstream side without the upstream side produces strain. See [[applied-self-awareness]] for the three-shift mission frame.
+
+The principle generalizes beyond love and honesty. Every relational capacity — the capacity to listen, to forgive, to receive, to celebrate someone else, to grieve with someone, to trust — mirrors the same capacity turned inward. The work on any of these is structurally the work on the self-relationship.
+
 ## Sources
 
 - 2022-09-30_Triggered
@@ -178,3 +192,4 @@ See [[drop-the-shame-to-see-them]] for the move treated as its own coaching inst
 - 2025-06-17_The Cure for Self-Help Fatigue (the all-domains extension of the principle — money, partner, dreams; the explicit articulation that surface problems in any domain are reflections of the self-relationship; the principle delivered as the third reason self-help videos do not work, because the videos address surface problems while leaving the substrate that produces them untouched)
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the marital form of the principle as Joe's personal report -- "the only way I could actually make our marriage work was to learn how to love myself"; the "not what I expected marriage to be" tone marker; the in-the-moment operational form -- drop the shame first, then the heart comes online, then speech from the heart becomes possible -- as the live form of the capacity equation inside a single conversation)
 - 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)
+- 2025-07-17_The Art of Accomplishment: End The War With Yourself (the self-connection extension of the capacity equation — the principle holds not just for love but for honesty, connection, and any relational capacity; the explicit triple framing "capacity to love myself is very highly correlated with my capacity to love you / capacity to be honest with myself / capacity to connect with myself"; the principle delivered as the third of three AOA shifts in the mission frame; the dissolution of "connection is about the other person" as the misframing that keeps people stuck)

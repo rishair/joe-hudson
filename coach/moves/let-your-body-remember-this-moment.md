@@ -135,6 +135,7 @@ In one session, after the body answered "movement" to the question "what is prog
 - [[wisdom-is-when-you-dont-have-to-remember]]: the principle this move serves. The body remembering is one of the ways insight becomes wisdom rather than a fact the person has to recite.
 - [[epiphany-vs-transformation]]: the difference between an insight that fades and one that integrates. The body-remembering instruction is one of the ways the move from epiphany to transformation gets made.
 - [[three-stages-of-integration]]: the framework this move fits into. The body memory is part of what allows surprise (Stage 1) to become recognition (Stage 2) and eventually mastery (Stage 3).
+- [[gratitude-as-integration-mechanism]]: the principle that names the specific emotional posture that allows the realization to settle in the body. This move is the in-session form; the gratitude-as-integration principle is the self-administered form the person can use when an epiphany arrives outside a coaching session (e.g., watching a video). Both moves prevent the same failure: the insight being grabbed by the head and converted into a to-do item rather than being received by the body.
 
 ## Sources
 

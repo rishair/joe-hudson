@@ -77,6 +77,34 @@ This practice does not just metabolize a particular grief. It trains the [[commu
 
 It also trains each person in [[caring-vs-caretaking]] at the most extreme stakes. If a person can be with a parent who has lost a child without trying to make them feel better, that capacity transfers everywhere.
 
+## Group Grief Is Better Than Solo Grief (And Works in Business Contexts Too)
+
+A general observation that frames why this practice matters at all: grieving in a group opens doors that solo grief either cannot open or takes much longer to open.
+
+"What I do notice is grieving in groups is fucking a shit ton better than grieving solo. It just opens up a door that oftentimes you can't walk through if you're, or it takes a long time to walk through if you're doing it on your own." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The mechanism: in solo grief, the person is doing the grieving and also doing the containing. The body knows it does not have the support of others; the grief therefore titrates itself down to what the lone container can hold. In group grief, the containing is shared. The body senses the support and can let more through. The depth of grief that becomes available is structurally different.
+
+This is why the community grief ceremony is so much more effective than the alone-after-the-funeral period. It is not only about ritual; it is about the body's available capacity when surrounded by others who are also there.
+
+## The Business Variant: Day of the Dead for Failed Projects
+
+The practice generalizes outside death-grief into other domains where grief is real but the standard culture does not have a container for it. Joe describes a specific business version: a team at one of the Alphabet companies (Google's parent) held a Day of the Dead ceremony for products and ideas that had died.
+
+"The coolest story I have on business around that is that a person I was working with in one of the Alphabet companies, they had a Day of the Dead celebration, and this was a place where they were innovating. So there's lots of great ideas and products that had died, like your friend, and they would have this day of mourning and they'd put an altar with all their things and they would all come in and grieve as a community. That's beautiful. It was awesome. I was, what the heck? When I found out that this woman was doing, I'm like, okay, I'll work with you, whatever you like. I want to learn what you're doing." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The structure was the same as the death-grief ceremony: a container, an altar (with the things from the products and ideas that had died), a community gathering to grieve. The form was Day of the Dead specifically because that frame already legitimizes mourning what is gone.
+
+What this opens up in a business context:
+
+- Teams that work in innovation are constantly experiencing loss -- products that did not ship, ideas that did not work, projects that got killed. These losses register as failures in the standard frame. They are also genuine losses that need to be grieved.
+- Without a container for the grief, the unfelt grief leaks. Teams get cynical. People become afraid to commit to the next attempt. The losses accumulate as a felt weight that the team cannot name.
+- A ceremony that lets the team grieve allows the team to actually finish with what is gone. The same team can then enter the next attempt freshly, because the previous attempt has been allowed to die properly.
+
+The practice is portable. Any group that has experienced sustained loss (failed projects, layoffs, departures, end of an era, completion of a long shared chapter) can adapt this structure. The pre-frame is the same: no managing each other's grief, each person feels their own version, the container is for the loss not for performing okay-ness about the loss.
+
+For organizational application of this practice in particular, see [[reducing-overwhelm-in-organizations]] for the broader context of how making space for emotional material in business actually serves the work.
+
 ## When to Use It
 
 - When someone in the community experiences a major loss (death of a child, death of a partner, death of a parent, miscarriage, sudden unexpected death).
@@ -119,3 +147,4 @@ This expresses the principle [[your-pain-when-witnessed-heals-the-whole-communit
 
 - 2023-10-04_Finding Community
 - 2023-09-29_Finding Community
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (the broader observation that group grief is structurally more effective than solo grief because the containing is shared; the Day-of-the-Dead-for-failed-products variant from one of the Alphabet companies as the business-context generalization of the practice)

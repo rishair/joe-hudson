@@ -58,6 +58,20 @@ A trainee whose primary orientation is to become a coach -- to help people, to h
 
 The three dangerous primary motivations Joe names are: wanting to save people ([[coaching-as-savior-role]]), wanting intimacy without the risk of an actual relationship ([[coaching-as-surrogate-intimacy]]), and wanting to be seen as the one who knows ([[coaching-to-be-seen-as-wise]]). Each of these can be metabolized through inner work, at which point coaching becomes a downstream expression rather than a strategy for getting the underlying need met.
 
+## The Long Apprenticeship (And the 7-Year Bar for Facilitating Week-Long Programs)
+
+A specific structural form of this principle in Joe's lineage: trainees who want to facilitate week-long programs work with the team for 7 years before being permitted to do so. The duration is not arbitrary. It is what the lineage has determined is necessary for the trainee's level of clarity, pattern integration, and capacity to hold others to be visible to the team around them.
+
+"In our organization, we've had people who've been working with us, working before they got to us, working with us for 7 years before we would let them facilitate a week-long program. To see that their level of clarity to us is like an incredibly important part of it." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+Joe's own preparation set a baseline: "It was 25 years of deep internal practice that I went through before I even began to think that I was equipped. I don't think it has to be that long."
+
+The 25 years is not the prescription. The orientation is the prescription: a sustained period of doing your own work before you take on the role of doing the work in front of others. Whether that is 5 years or 15 or 25 depends on the person, their starting point, the support around them, and the depth of their commitment.
+
+The 7-year apprenticeship in the lineage is the structural form of this principle for one specific level of facilitation. The same principle scales: the longer the container the trainee will hold, and the more vulnerable the participants will be, the longer the apprenticeship needs to be before the trainee holds it. Coaching one-on-one has a shorter apprenticeship than facilitating a 1-week residential. The 1-week residential has a shorter apprenticeship than running a multi-week intensive. The principle is constant; the duration scales with the container.
+
+This is the operational form of the gate. The orientation is checked through years of behavior. The years are not extra credit; they are the time required for what the gate is checking to actually be checkable.
+
 ## The Gate Is Checked Through Time, Not Through Statement
 
 The gate cannot be passed through declaration. A trainee who says "yes, I am here for self-awareness" but consistently shows up oriented toward becoming a coach is read through their pattern of showing up, not through their words. Joe selects coaches by knowing them, watching how they show up in the work, watching their capacity for vulnerability and intimacy, watching whether the self-discovery is sustained or whether it dropped off once the coaching prospect emerged.
@@ -127,3 +141,4 @@ Slow, direct, structural. Not moralizing. Not gatekeeping in the sense of exclus
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation, with substantively identical material confirming the principle; the "how do you get back to unconditional love" formulation as the foundation; the four-ingredient framing with self-awareness as ingredient one)
 - 2024-08-30_Loving the No (Coaching Session Breakdown) (the bidirectional framing of coaching as also a self-exploration for the coach; the "every one of these conversations is a way for you to explore yourself, it's not a one-way conversation ever" formulation that operationalizes the principle at the level of any single session; the structural reason this framing protects against the savior and wisdom-holder failure modes)
 - 2025-07-04_Doubt: The Key To Authentic Confidence (Coaching Session Breakdown) (Joe's opening instruction to viewers of the breakdown not to treat the material as how-to-coach; the five-repetition "really" emphasis on self-knowledge as the foundation; the proportion of self-discovery to skill-acquisition stated operationally for the content consumer; the explicit warning that coaches in the audience will default to technique-extraction)
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (Joe's "25 years of deep internal practice" reference point for the duration of his own preparation; the 7-year apprenticeship in the lineage before a trainee is permitted to facilitate a week-long program; the structural principle that the duration of apprenticeship scales with the container the trainee will eventually hold)

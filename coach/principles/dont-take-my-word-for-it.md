@@ -111,6 +111,26 @@ The implication for coaching: a coachee with authority issues -- and many of the
 
 See [[authority-issues]] for the broader pattern. See [[evolution-of-the-experimenter]] for the developmental arc that begins with the rebellious experiment-running and matures over decades.
 
+## The Concrete Experiment-Design Examples
+
+A specific clarifier on what "design an experiment" means in practice, given as the first of three tips for engaging with Joe's YouTube channel:
+
+"Design experiments where you can say, oh, if what they said is true, then this should work. Or let me experiment what it's like to be with generosity by being generous every day. Or what is it like to be in gratitude by experimenting with gratitude every day? So your job is to take the information that you get here and apply it to your life to see if it works for you or how it works for you." -- Joe Hudson, 3-Min Guide to Turn YouTube from Consumption to Growth
+
+The examples illustrate two ways to design an experiment from a teaching:
+
+**The if-then form.** Identify the predictive claim the teaching makes. "If what they said is true, then this should work." Run the practice that the teaching implies and watch for the predicted result. The form makes the teaching falsifiable: either the predicted result appears or it does not.
+
+**The lived-experience form.** Identify a quality the teaching points at and live in that quality for a defined period. "What is it like to be in gratitude by experimenting with gratitude every day?" The experiment is not measuring an outcome; it is producing a felt experience of the quality. The data is what the person notices in their body, in their relationships, in their mood, in their decisions.
+
+Both forms are valid. The if-then form suits intellect-oriented experimenters. The lived-experience form suits body-oriented experimenters. Many of Joe's teachings invite both — generosity, gratitude, presence, enjoyment — because the practice is the way to know the claim.
+
+The framing "your job is to make it yours" is the principle's instructional form for a consumer of media. The video is not the teaching. The teaching is what happens when the video's claim is run as an experiment in the consumer's actual life. Until that step is taken, the consumer has watched something but has not learned anything.
+
+This is also the operational answer to the "I've watched a thousand videos and nothing changes" complaint ([[i-watch-self-help-and-nothing-changes]]): the conversion of watching into experimentation is the missing step. The instruction is short enough to be operational ("design an experiment from this") and concrete enough to follow ("generosity every day for two weeks").
+
+The instruction is paired in the same teaching with [[enjoyment-as-path]] (enjoy the process of transformation or you'll stop) and [[gratitude-as-integration-mechanism]] (be grateful for epiphanies instead of trying to remember them). The three tips together form the operational stance for converting media consumption into actual change.
+
 ## What the Experimentation Was Initially Versus What It Became
 
 The early experiments were Joe's tool for not being controlled by authority. As the practice matured, the function changed. The same activity (designing and running experiments) became, over time, a way to internalize his own knowing and eventually a way to surrender into what wanted to be learned next.
@@ -158,3 +178,4 @@ The irreverence is not dismissive. It is the right level of seriousness. Serious
 - 2024-10-11_How Experiments Will Change Your Life (the origin story of Joe's experimentation practice from his authority issues; the Adyashanti-and-other-teachers permission to test rather than believe; the Papaji "trace your thought to its origin" as the first specific experiment; the framing that the intellectual debate on Twitter is what experiments are designed to replace; the embodiment-not-debate framing of why testing matters)
 - 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; same origin story and same Papaji trace-your-thought retelling)
 - 2025-06-17_The Cure for Self-Help Fatigue (the principle applied to YouTube video consumption specifically — the in-one-ear-out-the-other failure mode of un-tested teachings; the discipline-example walkthrough showing how to convert a teaching into a specific experiment; the framing that media-source does not matter, only whether the teaching is being made yours through experimentation; offered as the first reason self-help videos do not work, paired with the no-quick-fix principle and the relationship-with-self principle)
+- 2025-07-15_3-Min Guide to Turn YouTube from Consumption to Growth (the principle as the first of three tips for engaging with the YouTube channel; the explicit two-form articulation of what designing an experiment means — the if-then form ("if what they said is true, then this should work") and the lived-experience form ("experiment what it's like to be with generosity by being generous every day"); the framing "your job is to make it yours"; paired in the same teaching with [[enjoyment-as-path]] (enjoy the process or you'll stop) and [[gratitude-as-integration-mechanism]] (be grateful for the epiphany instead of writing it down))

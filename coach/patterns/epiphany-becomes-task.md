@@ -133,6 +133,7 @@ This is one reason why so many of Joe's moves end with "let your body remember t
 - Toward [[epiphany-vs-transformation]]: the recognition that gets task-converted is the recognition that produces no transformation
 - Toward [[shame-drives-behavior]] and [[i-need-to-improve-myself]] for the underlying engine that recruits every insight into the improvement project
 - Toward the body. The task lives in the head. The recognition needs to land in the body to survive. See [[let-your-body-remember-this-moment]] and [[ask-the-body-the-question]].
+- Toward [[gratitude-as-integration-mechanism]] for the self-administered positive instruction: when an epiphany arrives, the alternative to writing it on a to-do list is to be grateful for it, which opens the body to receive what the head was trying to grab.
 - Toward [[positivity-as-doubt]] when the task-conversion is showing up as cheerful self-coaching ("I can do this") that is actually undermining
 - Toward [[punishing-the-remembering]] when the person is shaming themselves for forgetting to do the task that was supposed to be the dissolution of tasks
 

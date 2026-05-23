@@ -81,6 +81,27 @@ If the savior pattern is active, the work is to:
 
 The work is not to stop wanting to help. The work is to want to help from a posture that does not require the other person to be helpless.
 
+## The "Gentle Narcissism" Frame
+
+A useful framing for the savior-coach pattern (and the related coach-as-wisdom-holder and coach-as-needed-figure patterns): Joe's daughter coined the term "gentle narcissist" for the configuration where the narcissism is real but is delivered without aggression -- the person genuinely wants to help, genuinely cares about people, and is also using the helping to be the one who knows, the one who is needed, the one who is the answer.
+
+"What I notice is that there's a lot of things in that call often. One of them is a bit of a narcissism. My daughter has a phrase, she calls people gentle narcissists. And so there's like a gentle narcissism in that call." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The gentle narcissist is harder to detect than the loud version because the affect is warm. The person seems humble. The wanting to be needed is wrapped in genuine care. The wanting to be looked at as the one who knows is wrapped in the actual desire to be helpful. From the outside this looks like service. From the inside it is service-plus-the-wanting.
+
+Joe is specific that this is not always a disqualifier. The gentle narcissism is often itself the material the coaching role is supposed to erode away. The role surfaces it, makes it visible, and gives the practitioner the conditions to integrate it.
+
+"Sometimes it's an important part of the call because it's you're doing it to have that part of you eroded away." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+But: the gentle narcissism has to be owned for the erosion to happen. The gentle narcissist who insists they are not a narcissist, who refuses to see the wanting underneath the care, is the one who gets stuck. The role then amplifies the unowned wanting rather than eroding it. See [[own-your-narcissism]] for the principle that prevents this.
+
+The two configurations Joe specifically names within the gentle-narcissism family:
+
+- **The person who needs to be the one who knows.** "It allows them to stay in this idea of the person who knows instead of the person who's ignorant, the person who's looked at for an answer, the person who's needed, the person who's still valid or validated or some version of that." This connects directly to [[coaching-to-be-seen-as-wise]].
+- **The person who needs to be the helper.** "And then the other one is the person who helps. I don't think you go through being a coach without having some of that." This is the broader category the savior pattern lives inside of.
+
+The diagnostic: notice which version of recognition feels essential to you. If being the one who knows feels essential, the knowing-wanting is operating. If being the helper feels essential, the helper-wanting is operating. If both feel essential, both are operating. The wantings are not wrong; they have to be owned.
+
 ## The Subtle Versions
 
 The obvious version: someone who explicitly identifies as a savior and frames their coaching as rescue work.
@@ -131,3 +152,4 @@ The work for the comedian-coach is structurally the same as the work for the car
 - 2024-01-05_Coaching as a Practice (the alcoholic-parent example; "a lot of folks come to coaching for that reason"; the harm-to-self and harm-to-other framing)
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation; same core material)
 - 2024-07-22_I Have To Do What Others Want (To Make Money) — the comedian-to-coach variant; "how much of the coaching is actually just you still trying to save your parents?"; the diagnostic for why the coaching is not making money; the comedy-as-connection-strategy that became the coaching-as-saving-strategy
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (the "gentle narcissism" framing for the configuration of real-care-paired-with-wanting-to-be-the-one-who-knows; the recognition that the gentle narcissism can be the material the coaching role is meant to erode if it is owned; the explicit naming of the two sub-configurations -- the person who needs to be the one who knows, and the person who needs to be the helper; the related observation that almost no one becomes a coach without some version of this configuration)

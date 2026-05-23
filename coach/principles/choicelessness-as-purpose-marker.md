@@ -38,6 +38,18 @@ The size of the opportunity does not produce more deliberation. It produces the 
 
 For a person not in their purpose, large opportunities produce maximum deliberation because every dimension of the decision is wide open. For a person in their purpose, large opportunities produce maximum clarity because most dimensions of the decision are already settled.
 
+## The $100M Test Applied Specifically to Coaching
+
+A specific high-stakes form of the million-dollar test, applied as the prerequisite for entering the coaching role: imagine someone offers you $100 million today to buy your coaching practice, with the condition that you can never coach again. What is your answer?
+
+"If somebody said, 'You know what? I'll give you $100 million right now to buy your practice, your coaching practice. The only thing is you can never coach again for the rest of your life.' No fucking chance. So unless that's true for you, no chance." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The test functions as the call-check for coaching specifically. The $100M is large enough to settle the question of whether the coaching is being done for any reason other than the call. If the answer to the offer is "let me think about it," the coaching is not yet in the choiceless category and the role is likely the wrong vocation. If the answer is instant -- "no chance" -- the call is operating at the level the role requires.
+
+Joe describes the unanimous response when he posed the test to himself, Jerry Colonna, and the host of the conversation: all three said no chance immediately, without hesitation. The unanimity is part of how the principle transmits. Anyone considering the coaching role should hear: this is what choicelessness about the role actually looks like; the absence of this is the information that the role is wrong for you.
+
+See [[dont-coach-if-you-have-a-choice]] for the full principle this test serves.
+
 ## The "Everyone Said Don't Do It" Story
 
 Joe describes a specific moment when the choicelessness overrode all external counsel:
@@ -148,3 +160,4 @@ Quiet, settled, sometimes reverent. Joe describes choicelessness in a tone that 
 ## Sources
 
 - 2024-12-20_The Myth Of Finding Your Purpose (the canonical statement on choicelessness; the million-dollar opportunity easy yes-or-no; the "everyone said don't do it and I had to do it" story; "you don't have any choice, do you?"; the non-personal quality at depth; the distinction from neurotic compulsion; the choicelessness being earned through the rodeo)
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (the $100M test applied specifically to the coaching role as the prerequisite-call-check for entering the role; the unanimous "no fucking chance" response from Joe, Jerry Colonna, and the host as the modeled answer)

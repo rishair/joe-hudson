@@ -5,7 +5,7 @@ title: "Connection"
 aliases: ["being in connection", "state of connection", "the connection state", "what connection is", "connection as a meta-state", "being in touch with what is", "felt sense of connection", "connection beyond states"]
 tags: ["connection", "presence", "view", "core-concept", "foundation"]
 related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "connection-over-perfection", "connection-as-family-metric", "container-of-love", "love-as-deep-welcoming", "four-faces-of-love", "embrace-intensity", "no-finish-line"]
-sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection Over Perfection", "2022-10-26_Connection- A State Beyond States", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2022-10-26_Connection Over Perfection", "2022-10-26_Connection- A State Beyond States", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)", "2025-07-17_The Art of Accomplishment： End The War With Yourself"]
 ---
 
 # Connection
@@ -206,3 +206,4 @@ The 10% framing also dissolves the perfectionist trap that often forms around pr
 - 2022-10-26_Connection: A State Beyond States (the noticing-and-gratitude re-entry; "even the desire for connection is a form of connection"; the all-courses-point-to-connection meta-frame)
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the 10% increment as the daily dose; the application of the connection lens to mundane tasks as a way to operationalize the principle in daily life)
 - 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — connection as the dissolution mechanism for self-consciousness; the stand-up comic discovers that connection with the coach reduces self-consciousness, then that connection with self also reduces it; Joe synthesizes both as the operating principle; even the word "connection" produces an additional shift
+- 2025-07-17_The Art of Accomplishment: End The War With Yourself (connection-with-self positioned as one of the three central interventions in the AOA mission frame; the explicit dissolution of "connection is about the other person" as the misframing; the triple equivalence that capacity to love/be honest with/connect with self mirrors capacity to love/be honest with/connect with others; the connection-with-self framing as the lever that produces external connection rather than the reverse)

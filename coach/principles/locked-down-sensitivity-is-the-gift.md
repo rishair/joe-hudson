@@ -4,7 +4,7 @@ id: locked-down-sensitivity-is-the-gift
 title: "Your Locked-Down Sensitivity Is the Gift, Not the Defect"
 aliases: ["locked-down sensitivity is the gift", "the sensitivity you locked down is your gift", "your system is incredibly sensitive", "the sensitivity you suppressed is a gift", "what got shut down is the gift", "you locked it down because it was unsafe", "the gift under the lockdown", "the lockdown was a survival adaptation to a gift", "constitutional sensitivity as gift", "you have an incredibly sensitive system", "the body awareness reframe", "the felt-too-much-so-shut-it-down reframe", "reframe the sensitivity as gift not defect", "the system is sensitive not broken", "the gift principle for highly sensitive people", "you are very aware of what's happening in your body", "the high-perception system that learned to hide", "the perceptual gift that had to be hidden"]
 tags: ["principles", "sensitivity", "gift", "reframe", "suppression", "constitution", "temperament", "survival-adaptation"]
-sources: ["2024-07-29_I'm Tired Of Taking Responsibility"]
+sources: ["2024-07-29_I'm Tired Of Taking Responsibility", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
 ---
 
 # Your Locked-Down Sensitivity Is the Gift, Not the Defect
@@ -34,6 +34,23 @@ A constitutionally sensitive system has a wider perceptual band than average —
 In an environment that cannot hold it — caregivers who tell the child to compose, to stop, to be less, to not need so much — the child has only one available option: suppress the input. The suppression is muscular, energetic, and constant. The child learns to brace against their own perception. By adulthood, the brace is the default state, the perception is below the threshold of awareness, and the person experiences themselves as numb, contained, exhausted, and unable to access what they actually feel.
 
 The braced state is what the person has been calling "myself" for years. When the brace begins to release, the original perceptual capacity returns — and the person often experiences it as overwhelming, because they have not had to metabolize that volume of input since childhood. The reframe is what gives the person a frame to receive this as good news rather than as a new problem.
+
+## The "Birthright That Was Taken From You" Framing
+
+A variant of the principle, delivered to a client who had built a rigid configuration in marriage as a wall against intimacy: the rigidity is what the parents (or whoever the early environment was) taught the child to be because the child was originally too sensitive for the environment to hold. The sensitivity was the child's birthright. The lockdown was the survival adaptation. The opening-up the client is now experiencing is the birthright returning.
+
+"That when you're — the loved ones, your mom or dad who taught you how to be this more rigid thing, you chose to do that to some degree because you were really sensitive. And when you open this up, all that sensitivity starts coming back. That's your birthright that was taken from you, and now you get it back." -- Joe Hudson, If You Can't Accept Compliments
+
+The "birthright" framing does several things:
+
+1. **Names the constitutional gift as something the person already owns.** It is not something to develop or earn. It was theirs from the start. The work is reclaiming, not acquiring.
+2. **Acknowledges that the gift was taken.** Not lost, not damaged, not absent. Taken. The taking was done by the early environment, with the child's complicity (the child "chose to do that to some degree"). The framing honors both the violation and the survival.
+3. **Names the present opening as the return.** What is happening now is not a new development. It is the original capacity coming back online.
+4. **Includes the warning about magnitude.** "All that sensitivity starts coming back" is the warning. The pacing instruction is implicit: the return is not optional once it begins, but the speed of integration matters.
+
+This variant is especially useful in marriage and long-term relationship work where the rigidity has been the configuration that allowed the relationship to function on the suppressed terms. The opening-up restructures the relationship as well as the self. The birthright framing gives the person language for what the partner is now experiencing: the original person, returning, after decades of the protective configuration.
+
+See [[i-cant-receive-compliments-or-love-from-my-spouse]] for the typical concern where this framing arrives. The avoidant partner's rigidity was protecting the original sensitivity. The receiving work is the birthright returning.
 
 ## How Joe Delivers It
 
@@ -74,3 +91,4 @@ Joe does not assign the person to work on developing the sensitivity. The work i
 ## Sources
 
 - 2024-07-29_I'm Tired Of Taking Responsibility
+- 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the "birthright that was taken from you" framing of the principle; the application to long-term marriage where the rigidity has been the configuration preventing receiving; the explicit naming that "you chose to do that to some degree because you were really sensitive"; the framing of the opening as the original capacity returning, not as a new development)

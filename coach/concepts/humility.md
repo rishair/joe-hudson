@@ -28,6 +28,8 @@ The society-level definition of "ego" is arrogance: "I'm so great, you guys suck
 
 This makes humility structurally different from modesty. Modesty often runs on the identity "I am small" or "I do not deserve to take up space" -- which is still an identity being protected. Humility has neither the puffed-up self nor the shrunken self. It has less identity.
 
+See [[two-forms-of-ego-good-and-bad]] for the operational form of this teaching specifically as it applies to compliment-receiving: the "I'm so fucking good" form and the "I'm bad at" form both block relationship and connection equally, and a received compliment dissolves either form.
+
 For the underlying mechanics of identity see [[identity]]. For the broader principle that even good identities limit see [[every-identity-has-limits]].
 
 ## Humility Produces Intimacy (and Awe)
@@ -77,6 +79,22 @@ Joe's example: a student applied for his first course. Multiple existing student
 "There's this interesting thing that happens when humility sets in: you follow the call. Even if you don't want to do it. The reason you follow it is because you realize every time I don't follow that thing, it fucking hurts. No matter what my ego wants to say about it, I'm going to do the thing that I'm called to do." -- Joe Hudson, Humility
 
 The follow-the-call move is not blind. There is also wisdom in the resistance. Self-promotion can be dangerous to the unfolding. The call gets followed *and* the discomfort gets listened to for what it is teaching about how to follow it. The humility is in both directions: following something larger than the identity, and respecting the wisdom inside the resistance.
+
+## Humility Develops in Phases (and Each Phase Eventually Becomes Its Own Rut)
+
+A specific developmental observation: humility itself unfolds over time, with each phase that gets adopted eventually revealing its own distortion. Joe describes his own arc through three phases of relating to humility -- thinking less of yourself, becoming a clean channel, taking your God-given place -- and notes that the work is not arriving at any of them but continuing to find what the current phase is becoming a rut for.
+
+The phases are layered, not sequential. Each remains operative; the next is added on top.
+
+- **Phase 1: thinking less of yourself.** The first available frame, often inherited from culture. The self is being made small as the strategy for being humble. Still about the self. The smallness is the defense.
+- **Phase 2: becoming the channel.** The recognition that phase 1 is still ego. The next move is to step out of the personal entirely -- the work moves through, the practitioner is the clean vessel, the wisdom is not theirs. The Fools Crow hollow-bone image lives here. "It's not me, it's that which moves through me." Real and necessary phase.
+- **Phase 3: taking your God-given place (the both-and).** After the channel-phase, the recognition that "it's not me at all" has become its own defense. The person has real power. Denying that power makes them more dangerous, not less, because the power then operates unowned. The both-and: it is completely personal and completely not, simultaneously.
+
+"There was a long time where I thought humility was thinking less of myself, not making myself big. And then humility turned into making space to have things move through me, like in Fools Crow. So the idea of my job is just to be a clean vessel for something greater than me to move through. And then I was reading recently, I think it's in the Jewish tradition where they talk about humility as being given, taking your God-given place in the world. That's like the translation for humility. And there's a personal thing to that. And so maybe a couple years back, it's not me, it's the teachers before me. It's not me, it's that which moves through me. There was a very non-personal form of humility. And now there's this recognition of, oh no, it's me. I've done this work and this shit wouldn't be happening without me. And really, this is not me at all. But it's holding both of those two things." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The risk of each phase: phase 1 calcifies into the small-self identity. Phase 2 lets the practitioner disclaim the impact they are actually having ("the work moves through me; if it landed badly, that wasn't me"). Phase 3 risks swinging back into self-aggrandizement if the both-and collapses into the personal pole.
+
+The continuous form of the process is what Joe calls "the hollowing out" -- the ongoing letting-go of whichever epiphany has just become its own rut. The work does not end. See [[the-hollowing-out-process]] for the full developmental concept and its application to coaches.
 
 ## Humility Is Receiving Without Deflection
 
@@ -227,3 +245,4 @@ When he describes the empowerment side of humility, his voice carries certainty.
 
 - 2023-09-15_Humility
 - 2023-10-18_Humility (the Q&A follow-up: the intimacy-plus-awe framing, the *anava* / God-given-space framing, the "I am X and I love that" test, the "nothing wrong with it -- it's just painful" guardrail, the "navigating the river not being the river" metaphor, the "through grace" tearful moment, the @fu_joe handle as humility practice, the facilitator-receives-projections teaching, the "pucker and still say it" coaching move)
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (Joe's three-phase developmental arc of his own relationship with humility -- thinking less of yourself, becoming the channel, taking your God-given place; the explicit naming of phase 2's failure mode -- "by denying that, I'm actually denying my power and I become more dangerous"; the recovery of the personal at depth -- "I do have a tremendous amount of power" alongside "this is not me at all"; the continuous form of the work as "the hollowing out process is also always going on")

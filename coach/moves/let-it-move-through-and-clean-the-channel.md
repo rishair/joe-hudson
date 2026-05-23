@@ -5,7 +5,7 @@ title: "Let It Move Through and Clean the Channel (Receive Compliments, Recognit
 aliases: ["let it move through", "let the compliment move through", "let it clean the channel", "the hollow bone move", "the Fools Crow hollow bone", "receive the compliment all the way through", "stop deflecting recognition", "let it land", "receive permeably", "compliment as ego cleaner", "the channel-cleaning move", "receiving as humility", "do not deflect the love", "let the recognition land", "the receiving move", "let it whack through you", "let the compliment whack through", "the deflection-is-the-defense move", "deflection compounds the smallness identity", "let it move through your body", "let the compliment land somatically", "receive the compliment in the body", "let the compliment tickle you", "let the compliment make you cry", "let it hit you over and over again", "the I let it in and it just hit me move", "receive until the hunger is fed", "receive until you need it less", "deflecting is calling them a liar", "the eating-without-digesting receiving move", "challenge the not-enough identity with the compliment", "let the evidence land", "the more you let it in the less you need it"]
 tags: ["move", "humility", "receiving", "compliments", "recognition", "ego", "channel", "permeability", "approval"]
 related: ["humility", "humility-vs-disempowerment", "receive-the-apology-permeably", "letting-it-in-vs-deflecting-the-welcome", "have-partner-state-the-welcome-aloud", "the-opposite-of-trying", "receive-the-projection-and-let-it-move-through", "dont-call-them-a-liar-with-deflection", "eating-but-not-digesting-the-food", "seeking-approval-pushes-people-away", "chase-your-own-approval", "how-do-i-stop-seeking-approval"]
-sources: ["2023-09-15_Humility", "2023-10-18_Humility", "2024-08-12_STOP Chasing Approval — Here's How To Get Free"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility", "2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
 ---
 
 # Let It Move Through and Clean the Channel
@@ -43,6 +43,18 @@ A compliment arrives. The body's first impulse is often to deflect: "oh no, no, 
 Instead, let the compliment land. Let it touch the part of the body where it would otherwise have been deflected. Notice what arises -- often discomfort, often the felt sense of being seen, often a small flash of the identity that wants to manage how it is being seen. Let all of that move through. Receive the compliment as fact, as something happening, as a real input to the system.
 
 The body sensation Joe describes is being touched repeatedly through the channel: "whack, whack, whack, whack." Each unblocked receiving is a touch. Each touch sands away a piece of the defending self.
+
+## The "Let It All the Way Down" Cue
+
+A specific in-session refinement: when a recognition has landed somewhere in the body but only partially, the cue is to let it land deeper. The receiving has gotten to the heart but the rest of the body is still holding the deflection. The instruction is somatic: drop the recognition into the part of the body that has been the longest holdout.
+
+"Yeah, let it all the way down. You've got it like at your heart, but like all the — let it all the way down." -- Joe Hudson, If You Can't Accept Compliments
+
+The cue is read-specific. The coach has to be tracking where the recognition has lodged. The instruction only works if there is a "down" to go to — that is, if the recognition has stalled somewhere shallow and the body has more depth available. The cue is one form of pacing the receiving: not faster, but deeper.
+
+When the recognition does land all the way down, the body often registers it as overwhelming. The overwhelming is appropriate. "It's not bad" or "that's overwhelming" is the diagnostic of the move landing — not a problem to back off from. The work is to let the channel stay open, not to back away from the inflow. The full recognition is "only like 2% of what's coming your way" — Joe's framing for the size of the love that can arrive once the channel is open. The expansiveness is the work, not the side-effect.
+
+The connection to [[count-the-years-of-showing-up]]: when the substance being received is the duration of a partner's consistent showing-up across years, the "let it all the way down" cue is especially load-bearing. The duration cannot be deflected in the usual ways, so the receiving question becomes a matter of how deep the body will let the recognition go.
 
 ## What Not to Do
 
@@ -154,3 +166,4 @@ The work is not to suppress the deflection (which would be another defense) but 
 - 2023-09-15_Humility
 - 2023-10-18_Humility (reaffirmation of the hollow-bone framing in the Q&A; the additional detail that the Grammy-acceptance deflection actively costs the people giving the recognition)
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the approval-seeking variant of the move, the eating-without-digesting metaphor for what the deflection produces, the explicit autobiographical account of receiving feeling like crying/laughing/tickling, the naming of the "I'm not enough" identity as what the compliment dissolves when received)
+- 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the "let it all the way down" cue for when the recognition has lodged in the heart and needs to settle deeper; the framing that the expansiveness arriving is "only 2% of what's coming your way" — the appropriate scale of the love that the receiving channel can open to; the live integration of the receiving move with the [[count-the-years-of-showing-up]] move where duration is the substance being received)

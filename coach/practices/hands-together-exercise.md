@@ -5,7 +5,7 @@ title: "Hands Together Exercise"
 aliases: ["hands together", "the trying vs undoing exercise", "palms together exercise", "feel the opposite of trying", "the somatic undoing", "the receiving exercise", "the allowing exercise", "feel the opposite to find the receive"]
 tags: ["practice", "somatic", "undoing", "trying", "exercise", "receiving", "allowing"]
 related: ["undoing-not-doing", "trying-vs-doing", "art-of-accomplishment", "resistance", "opposite-of-trying", "letting-go-vs-doing-nothing", "feel-the-searching-then-feel-the-opposite"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying", "2024-08-20_How Do I Find My Purpose？"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying", "2024-08-20_How Do I Find My Purpose？", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
 ---
 
 # Hands Together Exercise
@@ -58,6 +58,22 @@ The recognition is often immediate: this is what I do all day. I try without doi
 - When someone is intellectualizing the difference between trying and doing.
 - Early in a coaching conversation about effort, productivity, or transformation, to ground the concepts in the body.
 
+## The Interlace Variant (Comfortable vs. Uncomfortable — No Force Required)
+
+A different two-handed somatic A/B that targets a related distinction: interlace your fingers the way you normally do, notice the comfort. Now interlace them the opposite way (thumbs switched), notice the discomfort. Same hands, same fingers, same energy. The difference is the configuration.
+
+The use of this variant is not for the trying-vs-undoing distinction but for the force-vs-natural distinction. When the client is treating a piece of growth-work as something they have to *force* themselves to do (like making themselves receive compliments by sheer will), the variant demonstrates that the comfortable and uncomfortable forms are the same activity in different configurations. No force is required to switch — the body just goes into the other configuration. The discomfort is real, but the discomfort is not the absence of capacity. It is the felt sense of being in the new configuration.
+
+Joe's use of this in the source session, applied to receiving compliments after the client said she had been forcing herself to do uncomfortable growth work:
+
+"Put your hands together like this. And then just fold them together like that. And now do it the other way. And you notice how one is comfortable and one is uncomfortable? It's the same thing, right? No force required. It's just leaning into that feeling the same way you lean into the compliment. I just say that because the force slows down the process." -- Joe Hudson, If You Can't Accept Compliments
+
+The teaching: forcing yourself to do the growth work is not the move. Leaning into the uncomfortable configuration is the move. The interlace variant gives the body the somatic reference for what "leaning in without force" feels like.
+
+The cue "the force slows down the process" is the load-bearing piece. Many clients are using force as their primary method of doing the receiving work. The variant exposes that the force itself is slowing the work down. The receiving-stance and the deflecting-stance are like the two interlace configurations — the body can go to either, and the going-to does not require effort, just the felt willingness to be in the new shape.
+
+This is distinct from the main hands-together exercise. The main exercise targets trying-vs-undoing. The variant targets forced-doing-vs-leaning-into-discomfort. Both target the same underlying teaching ([[opposite-of-trying]]), but the variant is specifically about the configurational shift rather than the trying-vs-released distinction.
+
 ## The Same Logic Applied to Intangible Searches
 
 The hands-together exercise targets the felt distinction between trying and undoing in the body. The same somatic logic — feel the loaded state, then feel the exact opposite — applies to abstract pursuits the person has been searching for over time. Purpose, love, meaning, the right work, the right partner. See [[feel-the-searching-then-feel-the-opposite]] for the move that applies this exercise's structure to an intangible target.
@@ -86,3 +102,4 @@ For many, the immediate next question is: "Then what do I do instead?" The hones
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2023-04-14_The Opposite of Trying (Joe re-uses the exercise to introduce the receiving/allowing/listening positive frame; "you just put your two hands together... try to pull your pinkies apart... then without thinking for a moment, without using your head at all, take this feeling that you have and then feel the opposite of it")
 - 2024-08-20_How Do I Find My Purpose? (the exercise's logic applied to an abstract search target — purpose — with the same somatic A/B producing an immediate emotional response; the closing instruction "let your body just show you the exact opposite" generalizing the exercise's step 4 to any held state)
+- 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the interlace variant of the exercise; the "no force required" teaching applied to receiving compliments and other growth-work that the client has been treating as something they have to force themselves into; the principle that "the force slows down the process"; the variant's distinct target — the configurational shift between forced-doing and leaning-into-discomfort)

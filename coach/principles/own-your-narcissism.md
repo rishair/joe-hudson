@@ -58,6 +58,23 @@ This is not a one-time achievement. The pull to be special, to be the one who kn
 
 Joe's structural corrections include: having people around him who make fun of him ([[surround-yourself-with-people-who-make-fun-of-you]]); the [[the-fu-joe-handle]] practice; teenage daughters who readily call out anything; an office team that names what he is missing; long-term colleagues in the work who can say "this feels wonky." These are not separate practices from the principle -- they are the structural form of the principle in daily life.
 
+## The "Gentle Narcissist" Form (Real Care Paired With Real Wanting)
+
+A useful refinement of the principle for the helping professions specifically: the narcissism that arrives in coaches, teachers, and facilitators is often not the loud, obvious kind. It is what Joe's daughter calls "gentle narcissism" -- the configuration where the practitioner genuinely cares about the people they serve and is also using the serving to be the one who knows, to be needed, to be valid, to be looked at as the answer.
+
+"What I notice is that there's a lot of things in that call often. One of them is a bit of a narcissism. My daughter has a phrase, she calls people gentle narcissists. And so there's like a gentle narcissism in that call. Typically, and sometimes it's an important part of the call because it's, you're doing it to have that part of you eroded away." -- Joe Hudson, The Cost of Ignoring What You're Called to Do
+
+The gentle narcissist is structurally harder to detect than the loud version because the affect is warm. The wanting is wrapped in genuine care. The need to be needed is wrapped in the actual desire to help. This is exactly the configuration the principle is for: the wanting cannot be dressed up as if it were not there, even if (especially if) the helping is real.
+
+Joe specifies two sub-configurations within the gentle narcissism:
+
+- **The person who needs to be the one who knows.** "It allows them to stay in this idea of the person who knows instead of the person who's ignorant, the person who's looked at for an answer, the person who's needed, the person who's still valid or validated or some version of that." This connects to [[coaching-to-be-seen-as-wise]] as the failure mode.
+- **The person who needs to be the helper.** "I don't think you go through being a coach without having some of that." The wanting to help is so common in coaches that Joe treats it as nearly universal. The work is not to eliminate the wanting; the work is to own it. See [[coaching-as-savior-role]].
+
+The key claim: the gentle narcissism can be the curriculum if it is owned. The role amplifies it; the owning lets the amplification become integration. The unowned gentle narcissism becomes amplification without integration -- the configuration becomes more entrenched rather than eroded.
+
+The diagnostic for which version is operating: notice which form of recognition feels essential. If being looked at as the wise one feels essential, that wanting is operating. If being needed feels essential, that wanting is operating. If neither can be acknowledged without defense, the owning has not yet happened, and the unowned wanting is silently directing the work.
+
 ## The Failure Mode This Prevents
 
 The failure mode if this is unowned: the teacher slowly believes their own press. The "I am the one who knows" identity calcifies. Feedback is read through the lens of "I am the authority." Criticism is read as misunderstanding rather than as data. The teacher's own development stops because no information is allowed to reach them in the unmediated form that would update them.
@@ -100,3 +117,4 @@ Wry, plain, sometimes self-deprecating. Joe describes this with a mix of serious
 
 - 2024-01-05_Coaching as a Practice (the "two different ways to explain the same thing" passage; the "I am not special, essentially I'm not better than anybody" framing; the "I don't know why people come to me" anti-move; the framing of the wanting-to-be-special as "a natural, beautiful part of the process")
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation; same core material confirming the principle; framing within the four foundational ingredients as the fourth ingredient required for coach training)
+- 2025-07-18_The Cost of Ignoring What You're Called to Do (the "gentle narcissist" framing from Joe's daughter for the configuration of real care paired with real wanting; the two sub-configurations within the gentle narcissism -- the person who needs to be the one who knows, and the person who needs to be the helper; the recognition that the gentle narcissism can be the curriculum the role is meant to erode if it is owned, and is the trap that calcifies if it is not)
