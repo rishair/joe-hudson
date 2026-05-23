@@ -95,6 +95,7 @@ The "fuck you" hidden in the procrastination is real but secondary. Underneath t
 - [[i-make-money-only-when-i-hate-what-im-doing]] — when the procrastination is on the work the person loves, while paid work flows
 - [[i-cant-be-disciplined]] — when the person has framed the procrastination as a discipline problem rather than a felt-state problem
 - [[i-feel-stuck]] — when the chronic non-starting has become the felt identity
+- [[i-cant-enter-my-creative-work]] — the creative/artistic variant of the same mechanism; the block is at the threshold of the special-activity room, the activity has been loaded with purpose/identity/calling weight, and the procrastination is the body's correct refusal of the unsustainable load
 
 ## Sources
 

@@ -2,9 +2,9 @@
 type: read
 id: the-trying-is-the-pattern-firing-now
 title: "The Trying Is the Pattern Firing Now (When 'I'm Trying' Is the Live Demonstration)"
-aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying"]
+aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying", "trying-to-make-it-easy is the making-it-hard", "trying-to-have-fun is the not-having-fun", "the trying-to-create is the not-creating"]
 tags: ["read", "live coaching", "trying", "dissociation", "pattern recognition", "present-moment", "resistance"]
-sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)"]
+sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)"]
 ---
 
 # The Trying Is the Pattern Firing Now
@@ -101,6 +101,14 @@ From the source session:
 
 The exchange shows the trying being named and dismissed in a single beat. Once the trying-to-ask-the-right-question is surfaced, the project itself can be set down. The next move is usually [[what-makes-you-push-yourself]] — the inquiry into what drives the trying.
 
+## The Trying-to-Make-It-Easy Variant
+
+A specific form of this read that appears in creative-block work: the person says they want it to be easy and is producing hardness in the same conversation. The trying-to-make-it-easy is itself the making-it-hard. The artist in [[i-cant-enter-my-creative-work]] reports she wants creating to be "fun and happy and beautiful" and is in the middle of producing a hard, complicated coaching session. The trying-to-have-fun is the not-having-fun.
+
+In this variant, the trying often hides under softer language than "I'm trying." It may sound like "I want it to be," "I'd love for it to be," "I just want to," "I'm working on having." Each variant has the same structural shape: the verbal reach toward the easier state is the felt production of the harder state.
+
+The read pairs with [[said-want-without-felt-want]]: the said want is the trying; the felt body is producing the opposite of the said want; the gap is the diagnostic. The corrective move pairs with [[name-the-pattern-firing-now-as-the-art-being-made]] when the person has identity around the activity — "you say you want fun, but the art you're making right now is hard." The reframing of the resistance as the art being produced makes the trying visible without shame.
+
 ## Tone
 
 Direct. Slightly impatient with the descriptive frame, but warm. The "What the fuck was that?" is delivered with curiosity, not aggression — the implication is "something just happened that you didn't notice, let's both look at it." The profanity makes it casual; the question makes it serious.
@@ -134,8 +142,10 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 
 - [[i-cant-feel-my-emotions]] — the concern where this read frequently appears
 - [[how-do-i-love-myself-and-express-my-emotions]] — the variant where the person identifies the pattern and is trying to change it
+- [[i-cant-enter-my-creative-work]] — the trying-to-make-it-easy variant; the artist who says she wants fun and is making the conversation hard
 
 ## Sources
 
 - 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the canonical use of this read; the client said "I'm trying" three separate times across the session, each time pivoting into a descriptive explanation of why he was the way he was; Joe interrupted each pivot and pointed at the live event; the second instance ("try not to listen to your body right now") deployed paradoxical instruction to make the trying visible
 - 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the trying-to-ask-the-right-question variant; the client opens with a polished question ("how do I let in the fear?") that is itself the artifact of the trying; Joe names it ("there's still a trying. What's the trying?") and the client answers "trying to ask the right question"; the corrective move pairs with [[come-to-me-without-contradiction]] and [[what-makes-you-push-yourself]]; the session also demonstrates that this read frequently co-occurs with [[body-contradicts-the-words]] — the smiling face delivering the question is part of the same pattern firing
+- 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) — the trying-to-make-it-easy variant; the artist who reports she wants creating to be "fun and happy and beautiful" while producing hardness in the coaching session; the variant where the trying hides under softer language ("I want it to be") rather than the literal "I'm trying"; the pairing with [[said-want-without-felt-want]] and [[name-the-pattern-firing-now-as-the-art-being-made]] as the corrective move

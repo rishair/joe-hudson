@@ -5,7 +5,7 @@ title: "Pleasure Is What Tells the Nervous System It's Safe (And Safety Is What 
 aliases: ["pleasure tells system it's safe", "pleasure is the safety signal", "pleasure is what tells your body you're safe", "the safety-signal function of pleasure", "without pleasure no rest no resilience", "pleasure as the rest-permission signal", "no pleasure means no rest means no resilience", "the resilience chain pleasure rest resilience", "if you're constantly under attack you can't build resilience", "pleasure is what the nervous system needs", "pleasure as nervous-system nutrition", "pleasure as the I'm-safe signal", "without the safety signal the body burns out", "the chain from pleasure to rest to resilience"]
 tags: ["principle", "pleasure", "safety", "nervous system", "resilience", "rest", "stress"]
 related: ["pleasure-capacity", "four-causes-of-stress", "tension-and-release-cycle", "nervous-system-recovery-after-stress", "notice-sensations-as-pleasure-experiment", "polyvagal-nervous-system-framing", "inner-critic-prevents-rest-and-integration"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-09-16_Pleasure Is What Makes Healing Possible"]
 ---
 
 # Pleasure Is What Tells the Nervous System It's Safe (And Safety Is What Builds Resilience)

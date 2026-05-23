@@ -113,6 +113,20 @@ This is not "only do work you enjoy." It is not "if it is not fun, do not do it.
 
 This is also not "drop your standards." High standards are compatible with the enjoyment frame. The standards are not the issue. The relationship to the standards is the issue. From the right frame, the standards are judges. From the enjoy frame, the standards are part of the craft one is engaged with.
 
+## The Identity-Loaded Creative Variant: Collapse Before Redirect
+
+A specific subset of the move applies when the person has loaded the task with identity-purpose-calling weight, not just income-perfectionism weight. The artist with the 15-year creative block. The writer with the unstarted book that is "the book they were meant to write." The musician whose album is "the album that will define them." For these, the redirect to enjoyment needs to be paired with a collapse of the special-activity frame first.
+
+The reason: the importance loading is heavier when it carries identity ("I'm an artist") than when it carries income ("I need this to pay"). The redirect-to-enjoyment lands on a person whose stated work is wage labor; it can land on a person whose stated work is their purpose, but only after the purpose-loading has been dissolved. Otherwise the person hears "have fun with your sacred calling" as either nonsense or sacrilege.
+
+The sequence for the identity-loaded variant:
+
+1. **Refuse the purpose frame.** "Assume for a second you never create again. What's your purpose then?" The hypothetical collapses the loading.
+2. **Collapse the special-activity frame.** See [[collapse-the-special-activity-into-the-ordinary-moment]]. "This is art. How is anything you've ever done in your entire life not art?" The collapse dissolves the cage the person built around the activity.
+3. **Apply the redirect.** "How do you enjoy creating?" Now the redirect lands. The art is not the sacred special thing anymore; it is just something the person enjoys doing. The enjoyment frame is compatible with this.
+
+The same underlying move is being made — replace the right-question with the enjoy-question — but the prerequisite collapse is what makes the move available in the identity-loaded case. See [[i-cant-enter-my-creative-work]] for the canonical concern.
+
 ## The Organizational Counterpart
 
 The redirect described above operates at the level of an individual asking themselves the wrong question while doing a task. The organizational counterpart operates at the level of a leader asking the wrong question about the work itself. When a team is grinding through a function and the function is failing, the leader's reflex is to ask "what are we doing wrong?" or "how do we do this right?" The redirect at the organizational level is to ask "what would it take for this team to enjoy doing this?"
@@ -152,3 +166,4 @@ Direct, light, concrete. Joe delivers this as a small flip of a switch, not as a
 - 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (the employee story; the "don't ask how to do it right, ask how to enjoy it" formulation; the productivity-quadrupled result from the redirect)
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (alternate cut of the same Q&A episode covering the same employee story and redirect)
 - 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the website case; the explicit ordering of "enjoyment first, work second" in the take-home; the iteration argument that the fun-built thing gets done while the perfection-built thing never does; the application of the move to self-employment specifically, where the person's own internal pressure has become a worse boss than any external one)
+- 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) (the identity-loaded creative variant; the artist with the 15-year block where the importance carried identity-purpose-calling weight rather than income weight; the prerequisite of collapsing the special-activity frame before the redirect can land; the sequence of refuse-purpose, collapse-art-into-life, then apply-the-redirect)

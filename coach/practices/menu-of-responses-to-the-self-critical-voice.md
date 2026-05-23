@@ -5,7 +5,7 @@ title: "The Menu of Responses to the Self-Critical Voice (Ouch, I-See-You're-Sca
 aliases: ["menu of responses to the self-critical voice", "the menu for responding to the inner critic", "the many ways to react to the negative voice", "experiment play with the voice", "a thousand of them experiment with the voice", "the responses-to-self-talk menu", "the inner-critic response menu", "the four responses to the voice", "ouch I-see-you're-scared I-wonder-if-that's-true love-and-compassion", "the various responses to the voice", "how to react differently to the negative voice", "the react-differently-to-change-it menu", "if you react differently to it it changes", "the response options to the voice", "the experimentation menu for the voice", "experimentation as the relationship with the voice", "the play-and-experiment menu for the voice", "the I-see-that-you're-scared response to the voice", "the I-wonder-if-that's-true response to the voice", "the give-it-love-and-compassion response to the voice", "the four responses to the inner critic", "the experiment-with-responses menu"]
 tags: ["practice", "inner critic", "self-talk", "response", "experimentation", "compassion", "voice"]
 related: ["say-ouch-to-the-inner-critic", "experimenting-with-the-voice", "dont-fight-the-voice", "my-inner-critic-wont-stop", "voice-in-the-head", "do-self-love-before-pursuing-the-thing", "loving-all-parts"]
-sources: ["2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)"]
+sources: ["2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)", "2025-09-02_How To End 60,000 Negative Thoughts a Day"]
 ---
 
 # The Menu of Responses to the Self-Critical Voice
@@ -91,6 +91,26 @@ Each of these does different work for different people in different moments. The
 
 The experimentation posture is also the cure for the meta-version of the trap. A person who is told "you must respond to the voice this specific way" has been given a should about how to deal with shoulds. The voice will immediately produce content about how the person is failing to respond correctly. The experimentation posture refuses that loop by treating each response as a try, not as a correct answer.
 
+## The Five-Item Compressed Menu (How To End 60,000 Negative Thoughts a Day)
+
+In the teaching version of the menu — delivered after the recognition that the voice is not the person's own original voice but a borrowed installation — Joe lists five specific responses in quick succession. The compressed list is operationally useful because it shows the range across one short delivery:
+
+"Critical voice speaks, and you can say, yeah, that's true. Or you can say, hey, that's a pretty crappy way to manage me, could you try another way? Or you could say, oh, I see that you love me and that you're caring for me, but not like that. Or you could say, yeah, I see that you're really scared and I'm going to be right here with you. You can respond to the voice in the head in lots of different ways to reduce that stress." -- Joe Hudson, How To End 60,000 Negative Thoughts a Day
+
+The five anchor responses in this compression:
+
+1. **"Yeah, that's true."** The matter-of-fact agreement. Used not as capitulation but as a refusal of the charge — the voice's claim is treated as one possible accurate observation among many, registered without escalation. The voice has nowhere to go after a simple agreement. Most of its content depends on resistance to keep firing.
+
+2. **"Hey, that's a pretty crappy way to manage me, could you try another way?"** The management-feedback response. The voice is treated as a manager doing a bad job and is given direct feedback the way a person would give a manager. Same structural operation as "could you speak to me with respect" — it positions the voice as a counterparty in a real relationship rather than as an unquestioned narrator.
+
+3. **"Oh, I see that you love me and that you're caring for me, but not like that."** The care-recognition response. The voice's content is reframed as care that is being delivered through a crappy strategy. The response acknowledges the care and asks for a different form. See [[voice-as-care]] for the reframe this response operationalizes. The "but not like that" is the limit-setting clause that distinguishes this from acquiescence.
+
+4. **"Yeah, I see that you're really scared and I'm going to be right here with you."** The hold-the-frightened-part response. The same operation as Response 2 in the four-anchor section above, with the explicit "I'm going to be right here with you" extension. This phrasing carries the parental quality of meeting a frightened child — it does not argue with the fear, it does not try to fix the fear, it offers steady presence.
+
+The fifth implicit response in this teaching context is the structural one: the choice to respond at all rather than to take the voice's content as truth. Joe frames the whole menu as "you can respond to the voice in the head in lots of different ways to reduce that stress" — the framing itself names the choice that has been invisible.
+
+These five responses arrive in the teaching after the principle is named that the voice "isn't yours" — that it sounds like a parent or teacher or grandmother whose voice was installed. Once the voice is recognized as a borrowed tape, the response options become available in a way they were not when the voice was being heard as self-assessment. See [[trace-the-critical-thoughts-to-where-you-learned-them]] for the practice that produces this recognition.
+
 ## When Joe Uses This Menu
 
 - After the [[say-ouch-to-the-inner-critic]] practice has surfaced how often the voice is attacking
@@ -166,3 +186,4 @@ The introduction of each response in the menu also carries lightness. "Also good
 ## Sources
 
 - 2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson) — the canonical instance of the menu being introduced in a single session. Joe surfaces the voice with the ouch practice, then offers the additional menu items: "I see that you're scared and I'm right here with you," "I wonder if that's true. How true is that?", and "give it the love and compassion that you want." The "thousand of them" framing positions the menu as open and the relationship as experimental. The session demonstrates the menu live: the client tries the ouch in real time ("Eventually. Ouch."), then is walked through the compassion response with the eyes-closed witnessing posture, and reports the felt arrival of sympathy and presence toward the part of self that had been receiving the criticism.
+- 2025-09-02_How To End 60,000 Negative Thoughts a Day — the compressed five-item teaching delivery of the menu, given after the principle that the voice "isn't yours" has been named (the voice sounds like a parent or teacher whose voice was installed). The five responses listed in quick succession: "yeah, that's true" (the matter-of-fact agreement), "hey, that's a pretty crappy way to manage me, could you try another way?" (the management-feedback response), "oh, I see that you love me and that you're caring for me, but not like that" (the care-recognition response with the limit-setting clause), "yeah, I see that you're really scared and I'm going to be right here with you" (the hold-the-frightened-part response with the explicit steady-presence extension). The teaching frame positions the menu as the operational application of the recognition that the voice is borrowed — once the borrowing is seen, response options become available that were not available when the voice was being heard as self-assessment.

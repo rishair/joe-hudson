@@ -448,6 +448,7 @@
     "i-keep-being-resentful",
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "said-want-without-felt-want",
     "if-i-were-inherently-good",
     "whats-the-most-profound-positive-shift",
     "fear-as-signal-of-care",
@@ -465,6 +466,7 @@
     "did-you-actually-feel-the-wanting",
     "find-the-want-behind-the-should",
     "say-no-to-find-the-want",
+    "the-elevator-descent-to-source",
     "external-freedom-vs-internal-freedom",
     "i-get-to-vs-i-have-to",
     "wanting-vs-craving",
@@ -820,6 +822,8 @@
     "goals-make-me-miserable",
     "how-do-i-stop-watching-porn-and-procrastinating",
     "i-cant-be-disciplined",
+    "i-cant-enter-my-creative-work",
+    "i-cant-rest-without-feeling-guilty",
     "i-caretake-people",
     "i-dont-want-to-take-responsibility",
     "i-freeze-around-authority",
@@ -843,6 +847,7 @@
     "decision-question-covers-the-caretaking",
     "hidden-rebellion-under-the-habit",
     "insight-converted-to-task-in-real-time",
+    "said-want-without-felt-want",
     "the-blank-place-as-refuge",
     "the-question-itself-is-the-abandonment",
     "whats-the-for-part",
@@ -1086,6 +1091,7 @@
     "compass-not-map",
     "acknowledging-death-compresses-life",
     "caring-what-others-think-is-the-burnout-engine",
+    "find-your-optimal-effort-window",
     "only-your-own-judgment-matters",
     "overachieving-is-survival-mode",
     "productivity-is-the-trees-purpose-is-the-forest",
@@ -1170,6 +1176,7 @@
   ],
   "ive-lost-my-joy": [
     "how-do-i-be-happy",
+    "i-cant-enter-my-creative-work",
     "i-cant-feel-my-emotions",
     "i-keep-postponing-enjoyment",
     "im-burned-out",
@@ -1296,6 +1303,7 @@
     "chasing-pleasure-is-avoidance",
     "discipline-starts-engine-then-let-gravity",
     "enjoyment-as-path",
+    "presence-is-pleasure-not-trying",
     "enjoy-your-breath-for-five-minutes",
     "joe-thich-nhat-hanh-dishes"
   ],
@@ -1547,6 +1555,7 @@
   ],
   "i-keep-postponing-enjoyment": [
     "how-do-i-be-happy",
+    "i-cant-enter-my-creative-work",
     "i-keep-getting-stuff-done-but-nothing-changes",
     "nostalgic-claw-for-old-identity",
     "how-is-that-not-here-right-now",
@@ -1800,13 +1809,19 @@
   ],
   "menu-of-responses-to-the-self-critical-voice": [
     "how-do-i-create-wealth-and-financial-stability",
+    "i-cant-rest-without-feeling-guilty",
     "my-inner-critic-wont-stop",
     "every-question-becomes-whats-wrong-with-me",
     "money-as-surrogate",
+    "voice-in-the-head",
     "catch-the-tiny-self-doubt-inside-the-answer",
     "find-one-thing-to-confirm-about-yourself",
     "do-self-love-before-pursuing-the-thing",
-    "say-ouch-to-the-inner-critic"
+    "feel-the-part-of-you-already-at-rest",
+    "narrate-every-thought-out-loud",
+    "say-ouch-to-the-inner-critic",
+    "trace-the-critical-thoughts-to-where-you-learned-them",
+    "ceo-who-rode-horses-to-quiet-the-voice"
   ],
   "nothing-is-required-for-freedom": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -1840,6 +1855,7 @@
     "knowing-yourself-vs-domesticating-yourself",
     "wonder-vs-curiosity",
     "over-regulating-nervous-system-creates-stress",
+    "rest-that-satisfies-produces-inspiration",
     "stay-in-the-experiment-through-the-tension",
     "the-issue-isnt-the-issue-its-how-you-react",
     "the-means-must-match-the-end",
@@ -1991,6 +2007,7 @@
     "how-do-i-love-myself-and-express-my-emotions",
     "body-contradicts-the-words",
     "disassociating-in-the-coaching-room",
+    "said-want-without-felt-want",
     "what-makes-you-push-yourself",
     "doubt-driven-urgency-as-fake-confidence",
     "amplify-the-dissociation-then-opposite-with-no-effort",
@@ -1998,6 +2015,7 @@
     "feel-bad-as-the-running",
     "its-okay-to-run-no-judgment",
     "let-the-body-catch-up",
+    "name-the-pattern-firing-now-as-the-art-being-made",
     "point-out-theyre-already-doing-it",
     "tell-me-one-thing-youve-done-wrong-when-you-werent-pushing-yourself",
     "transfer-the-receiving-from-them-to-yourself",
@@ -2069,6 +2087,7 @@
     "the-trying-is-the-pattern-firing-now",
     "amplify-the-feeling-until-it-breaks-open",
     "point-out-theyre-already-doing-it",
+    "the-elevator-descent-to-source",
     "non-personal-with-body-in-vs-out"
   ],
   "the-pattern-is-not-personal": [
@@ -2420,7 +2439,9 @@
     "self-boundary-mirrors-external-boundary",
     "15-minutes-of-self-love-physical-therapy-for-the-heart",
     "apply-how-is-that-not-true-to-every-thought",
+    "narrate-every-thought-out-loud",
     "four-causes-of-stress",
+    "ceo-who-rode-horses-to-quiet-the-voice",
     "mangy-cat-eating-from-the-hand"
   ],
   "uncertainty": [
@@ -2610,6 +2631,7 @@
     "name-your-trigger-as-vulnerability",
     "push-past-the-protective-frame",
     "take-the-adventure-stance",
+    "the-elevator-descent-to-source",
     "boundary-with-vs-boundary-against",
     "inside-out-vs-top-down-observation",
     "lead-and-follow",
@@ -2653,6 +2675,7 @@
   ],
   "i-cant-find-my-purpose": [
     "how-do-i-navigate-this-uncertain-time",
+    "i-cant-enter-my-creative-work",
     "i-watch-self-help-and-nothing-changes",
     "im-not-living-up-to-my-potential",
     "what-makes-me-uniquely-me",
@@ -2695,6 +2718,7 @@
   ],
   "fear-is-about-feeling": [
     "how-do-i-stay-open-after-narcissistic-abuse",
+    "i-cant-rest-without-feeling-guilty",
     "i-dont-have-time-for-this",
     "i-feel-trapped",
     "i-keep-getting-stuff-done-but-nothing-changes",
@@ -2719,6 +2743,7 @@
     "stop-to-feel-the-anxiety-underneath-the-productivity",
     "embracing-vs-creating-intensity",
     "enjoy-over-manage",
+    "forward-fear-vs-backward-grief-of-time",
     "short-term-vs-long-term-partiality",
     "annihilation-reveals-what-is-real",
     "embrace-intensity",
@@ -3308,7 +3333,9 @@
   ],
   "im-burned-out": [
     "how-do-i-stop-seeking-approval",
+    "i-cant-rest-without-feeling-guilty",
     "i-keep-getting-stuff-done-but-nothing-changes",
+    "i-never-have-enough-time",
     "im-afraid-ill-revert-to-my-old-pattern",
     "im-so-stressed-out",
     "the-emotional-hangover-of-false-productivity",
@@ -3328,10 +3355,13 @@
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "doing-things-for-love-is-prostitution",
     "energy-management-over-time-management",
+    "find-your-optimal-effort-window",
     "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
     "reflection-is-release-resting-is-nothing",
-    "you-cannot-make-people-happy"
+    "rest-that-satisfies-produces-inspiration",
+    "you-cannot-make-people-happy",
+    "ceo-who-rode-horses-to-quiet-the-voice"
   ],
   "whats-wrong-with-the-thing-theyre-judging": [
     "how-do-i-stop-seeking-approval",
@@ -3579,6 +3609,7 @@
     "negative-self-reinforcement",
     "find-whats-enjoyable-in-the-defense",
     "performance-vs-play",
+    "approach-matters-as-much-as-hours",
     "avoid-the-decision-by-design",
     "find-a-healthy-replacement",
     "shame-drives-behavior",
@@ -3596,6 +3627,7 @@
     "name-the-avoidance-cascade-from-essence-to-addiction",
     "strip-the-story-and-re-ask-the-question",
     "quality-of-downtime-matters",
+    "rest-that-satisfies-produces-inspiration",
     "the-brain-is-the-brakes",
     "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
     "joes-doomscrolling-story"
@@ -3618,6 +3650,7 @@
     "go-to-your-heart-not-your-brain",
     "name-the-avoidance-cascade-from-essence-to-addiction",
     "strip-the-story-and-re-ask-the-question",
+    "the-elevator-descent-to-source",
     "the-head-cant-know-who-you-are",
     "transformation-is-relating-differently-not-finding-the-answer"
   ],
@@ -3641,6 +3674,7 @@
     "intellectual-question-with-emotional-body",
     "loyalty-under-low-affection",
     "questioning-the-positive-state",
+    "said-want-without-felt-want",
     "the-happiness-filter",
     "the-trying-is-the-pattern-firing-now",
     "trying-to-be-comfortable-instead-of-being-uncomfortable",
@@ -3717,6 +3751,7 @@
     "falling-in-love-with-projections",
     "intelligence-requires-self-awareness",
     "the-brain-is-the-brakes",
+    "feel-the-part-of-you-already-at-rest",
     "lawyer-the-voice",
     "questioning-assumptions",
     "whats-looking-out-behind-my-eyes",
@@ -3725,6 +3760,7 @@
   ],
   "i-procrastinate-only-on-the-thing-that-matters-most": [
     "how-do-i-stop-watching-porn-and-procrastinating",
+    "i-cant-enter-my-creative-work",
     "joy-relief-when-told-the-worst-fear",
     "the-perfectionism-that-stops-you-from-starting",
     "doubt-driven-urgency-as-fake-confidence",
@@ -4037,6 +4073,7 @@
     "self-abandonment-to-manage-the-other",
     "stay-centered-while-holding-space",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "coming-to-your-senses",
     "eye-contact-as-view-training",
     "hold-the-memory-of-when-you-felt-it-most",
     "is-this-mine",
@@ -4256,7 +4293,9 @@
     "avoid-the-decision-by-design",
     "discipline-starts-engine-then-let-gravity",
     "full-understanding-of-a-behavior-dissolves-it",
-    "sit-with-the-aftermath"
+    "rest-that-satisfies-produces-inspiration",
+    "sit-with-the-aftermath",
+    "ceo-who-rode-horses-to-quiet-the-voice"
   ],
   "negative-self-reinforcement": [
     "i-cant-be-disciplined",
@@ -4292,6 +4331,124 @@
     "what-am-i",
     "bound-the-behavior-find-where-it-doesnt-happen",
     "strip-the-story-and-re-ask-the-question"
+  ],
+  "importance-makes-the-task-un-fun": [
+    "i-cant-enter-my-creative-work",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "intrinsic-drive-to-build",
+    "perfectionism",
+    "bound-the-behavior-find-where-it-doesnt-happen",
+    "collapse-the-special-activity-into-the-ordinary-moment",
+    "prove-why-its-important",
+    "be-a-good-boss-to-yourself",
+    "enjoyment-as-path"
+  ],
+  "should-as-threat": [
+    "i-cant-enter-my-creative-work",
+    "i-should-be-doing-this",
+    "my-inner-critic-wont-stop",
+    "dont-make-listening-a-morality",
+    "dont-make-stop-judging-into-a-should",
+    "dont-should-yourself-to-welcome-anger",
+    "burnout-cycle",
+    "trigger",
+    "untruth-in-every-thought",
+    "voice-in-the-head",
+    "impulse-to-should",
+    "rebellion-or-submission-to-should",
+    "find-the-want-behind-the-should",
+    "stick-a-fucking-shit-in-front-of-the-should",
+    "gentleness-not-trying-to-be-patient",
+    "nervous-system-recovery-after-stress",
+    "obligation-cuts-off-love",
+    "shame-is-anger-turned-inward",
+    "stress-as-rejection-of-stress",
+    "wants-over-shoulds",
+    "hold-stress-tightly-vs-gently-experiment",
+    "should-vs-want-body-check",
+    "four-causes-of-stress"
+  ],
+  "collapse-the-special-activity-into-the-ordinary-moment": [
+    "i-cant-enter-my-creative-work",
+    "intrinsic-drive-to-build",
+    "name-the-pattern-firing-now-as-the-art-being-made",
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "the-elevator-descent-to-source",
+    "importance-makes-the-task-un-fun"
+  ],
+  "purpose-as-approval-seeking-in-disguise": [
+    "i-cant-enter-my-creative-work",
+    "i-cant-find-my-purpose",
+    "what-makes-me-uniquely-me",
+    "contorting-into-someone-elses-framework",
+    "said-want-without-felt-want",
+    "the-answer-is-already-known",
+    "what-feels-more-in-purpose-right-now",
+    "wild-goose-chase-when-the-answer-is-known",
+    "be-of-service-doesnt-require-the-moniker",
+    "purpose-is-how-not-what",
+    "do-it-for-yourself-to-find-purpose",
+    "purpose-cracks-you-open",
+    "searching-for-purpose-pushes-it-away",
+    "your-gift-is-your-nature-not-your-skill"
+  ],
+  "name-the-pattern-firing-now-as-the-art-being-made": [
+    "i-cant-enter-my-creative-work",
+    "said-want-without-felt-want",
+    "the-trying-is-the-pattern-firing-now",
+    "collapse-the-special-activity-into-the-ordinary-moment"
+  ],
+  "hidden-rebellion-under-the-habit": [
+    "i-cant-enter-my-creative-work",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "should-i-stop-drinking",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "heart-in-a-box-want-to-drink",
+    "rebellion-or-submission-to-should",
+    "fully-feel-the-forbidden-arousal",
+    "do-i-stop-drinking-session"
+  ],
+  "the-perfectionism-that-stops-you-from-starting": [
+    "i-cant-enter-my-creative-work",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "perfectionism",
+    "bound-the-behavior-find-where-it-doesnt-happen",
+    "prove-why-its-important",
+    "importance-makes-the-task-un-fun"
+  ],
+  "said-want-without-felt-want": [
+    "i-cant-enter-my-creative-work",
+    "the-trying-is-the-pattern-firing-now",
+    "name-the-pattern-firing-now-as-the-art-being-made"
+  ],
+  "insight-converted-to-task-in-real-time": [
+    "i-cant-enter-my-creative-work",
+    "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
+    "collapse-the-special-activity-into-the-ordinary-moment",
+    "name-the-avoidance-cascade-from-essence-to-addiction",
+    "name-the-pattern-of-converting-insight-to-task",
+    "the-elevator-descent-to-source"
+  ],
+  "the-elevator-descent-to-source": [
+    "i-cant-enter-my-creative-work",
+    "said-want-without-felt-want",
+    "collapse-the-special-activity-into-the-ordinary-moment"
+  ],
+  "im-not-living-up-to-my-potential": [
+    "i-cant-enter-my-creative-work",
+    "i-cant-find-my-purpose",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "what-makes-me-uniquely-me",
+    "anxiety-when-confronting-what-you-want",
+    "purpose-as-approval-seeking-in-disguise",
+    "seeking-as-the-wall",
+    "the-perfectionism-that-stops-you-from-starting",
+    "doubt-driven-urgency-as-fake-confidence",
+    "mental-task-inflation",
+    "purpose-is-how-not-what",
+    "purpose-is-recognized-not-found",
+    "searching-for-purpose-pushes-it-away",
+    "jeff-bezos-calls-his-mornings-wandering"
   ],
   "chin-up-as-emotion-block": [
     "i-cant-feel-my-emotions",
@@ -4335,13 +4492,15 @@
     "find-whats-enjoyable-in-the-defense",
     "give-me-the-sound-of-the-emotion",
     "punishment-when-good-stings-more",
-    "tears-dont-disturb-the-refuge"
+    "tears-dont-disturb-the-refuge",
+    "feel-the-part-of-you-already-at-rest"
   ],
   "tears-dont-disturb-the-refuge": [
     "i-cant-feel-my-emotions",
     "ive-lost-my-joy",
     "the-blank-place-as-refuge",
-    "find-whats-enjoyable-in-the-defense"
+    "find-whats-enjoyable-in-the-defense",
+    "feel-the-part-of-you-already-at-rest"
   ],
   "find-whats-enjoyable-in-the-defense": [
     "i-cant-feel-my-emotions",
@@ -4874,6 +5033,7 @@
     "what-feels-more-in-purpose-right-now",
     "purpose-is-an-unfolding-not-a-destination",
     "riding-the-roller-coaster-from-the-ground",
+    "collapse-the-special-activity-into-the-ordinary-moment",
     "purpose-is-acknowledgement-not-approval",
     "scary-effort-vs-grind-effort",
     "transformational-coaching-vs-performance-coaching",
@@ -4890,20 +5050,6 @@
     "your-gift-is-your-nature-not-your-skill",
     "i-help-people-die-better",
     "the-hot-springs-massage-message"
-  ],
-  "purpose-as-approval-seeking-in-disguise": [
-    "i-cant-find-my-purpose",
-    "what-makes-me-uniquely-me",
-    "contorting-into-someone-elses-framework",
-    "the-answer-is-already-known",
-    "what-feels-more-in-purpose-right-now",
-    "wild-goose-chase-when-the-answer-is-known",
-    "be-of-service-doesnt-require-the-moniker",
-    "purpose-is-how-not-what",
-    "do-it-for-yourself-to-find-purpose",
-    "purpose-cracks-you-open",
-    "searching-for-purpose-pushes-it-away",
-    "your-gift-is-your-nature-not-your-skill"
   ],
   "what-makes-me-uniquely-me": [
     "i-cant-find-my-purpose",
@@ -4991,6 +5137,7 @@
     "speak-from-listening",
     "surrender-your-way-out-not-think-your-way-out",
     "thank-the-voice-when-its-truth",
+    "the-elevator-descent-to-source",
     "wait-for-someone-else-to-say-it",
     "chain-vs-tree-thinking-for-content",
     "trying-vs-doing",
@@ -5003,6 +5150,7 @@
     "listening-shapes-the-reality-that-comes-back",
     "mind-deconstructs-itself",
     "peace-is-what-we-resist-the-most",
+    "presence-is-pleasure-not-trying",
     "searching-for-purpose-pushes-it-away",
     "state-not-framework",
     "the-means-must-match-the-end",
@@ -5204,21 +5352,6 @@
     "searching-for-purpose-pushes-it-away",
     "speak-from-each-of-the-three-centers"
   ],
-  "im-not-living-up-to-my-potential": [
-    "i-cant-find-my-purpose",
-    "i-procrastinate-only-on-the-thing-that-matters-most",
-    "what-makes-me-uniquely-me",
-    "anxiety-when-confronting-what-you-want",
-    "purpose-as-approval-seeking-in-disguise",
-    "seeking-as-the-wall",
-    "the-perfectionism-that-stops-you-from-starting",
-    "doubt-driven-urgency-as-fake-confidence",
-    "mental-task-inflation",
-    "purpose-is-how-not-what",
-    "purpose-is-recognized-not-found",
-    "searching-for-purpose-pushes-it-away",
-    "jeff-bezos-calls-his-mornings-wandering"
-  ],
   "i-have-to-X-to-be-free": [
     "i-cant-find-my-purpose",
     "i-feel-stuck",
@@ -5279,6 +5412,18 @@
     "from-looking-for-love-to-being-love",
     "what-was-wired-with-love-needs-untying",
     "joe-and-tara-meeting-story"
+  ],
+  "i-cant-enter-my-creative-work": [
+    "i-cant-find-my-purpose",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "said-want-without-felt-want",
+    "the-trying-is-the-pattern-firing-now",
+    "intrinsic-drive-to-build",
+    "collapse-the-special-activity-into-the-ordinary-moment",
+    "name-the-pattern-firing-now-as-the-art-being-made",
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "the-elevator-descent-to-source",
+    "importance-makes-the-task-un-fun"
   ],
   "self-blame-as-tether-to-the-lost": [
     "i-cant-forgive-myself-for-hurting-them",
@@ -5488,6 +5633,7 @@
     "strip-away-externals-thought-experiment",
     "caring-vs-caretaking",
     "catastrophizing-vs-visualizing",
+    "forward-fear-vs-backward-grief-of-time",
     "safety-that-connects-vs-disconnects-from-reality",
     "accepting-the-end-empowers-the-yes",
     "caretaking-prevents-the-bottom",
@@ -5662,6 +5808,340 @@
     "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
     "overachieving-is-survival-mode",
     "the-cake-metaphor-for-deflected-compliments"
+  ],
+  "quality-of-downtime-matters": [
+    "i-cant-rest-without-feeling-guilty",
+    "stress-burnout-depression-progression",
+    "pleasure-capacity",
+    "optimize-for-downtime-not-productivity",
+    "rest-that-satisfies-produces-inspiration",
+    "feel-the-part-of-you-already-at-rest",
+    "notice-sensations-as-pleasure-experiment",
+    "ceo-who-rode-horses-to-quiet-the-voice"
+  ],
+  "approach-matters-as-much-as-hours": [
+    "i-cant-rest-without-feeling-guilty",
+    "find-your-optimal-effort-window"
+  ],
+  "find-your-optimal-effort-window": [
+    "i-cant-rest-without-feeling-guilty",
+    "rest-is-an-accomplishment",
+    "approach-matters-as-much-as-hours",
+    "optimize-for-downtime-not-productivity",
+    "feel-the-part-of-you-already-at-rest",
+    "jeff-bezos-calls-his-mornings-wandering"
+  ],
+  "voice-in-the-head": [
+    "i-cant-rest-without-feeling-guilty",
+    "im-depressed",
+    "im-exhausted-holding-space-for-my-partner",
+    "im-judgmental-how-do-i-stop",
+    "my-inner-critic-wont-stop",
+    "criticism-posture-vs-shame-posture",
+    "letting-it-in-vs-deflecting-the-welcome",
+    "dont-fight-the-voice",
+    "dont-use-inquiry-to-win",
+    "applied-self-awareness",
+    "art-of-accomplishment",
+    "comparative-mind",
+    "cult-of-one",
+    "depression-four-levels",
+    "intelligence-amplifies-self-criticism",
+    "limiting-belief",
+    "passive-aggression-toward-self",
+    "should-as-threat",
+    "soul-dysmorphia",
+    "the-inner-board",
+    "the-work-as-three-levels-of-change",
+    "thoughts-as-management",
+    "three-layers-of-the-work",
+    "untruth-in-every-thought",
+    "voice-as-care",
+    "voice-as-guide-to-unhealed-places",
+    "war-with-yourself",
+    "needing-to-be-right-in-teams",
+    "perfectionism",
+    "rehearsing-conversations",
+    "symptoms-of-depression",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "apply-view-to-the-voice",
+    "become-the-authority-figure",
+    "extend-the-no-asshole-rule-inward",
+    "find-the-emotion-under-self-judgment",
+    "have-partner-state-the-welcome-aloud",
+    "is-the-shame-in-the-room-or-in-you",
+    "repetitive-vs-inspirational-voice",
+    "skeptical-inquiry-vs-self-inquiry",
+    "avoided-conflict-goes-internal",
+    "awareness-as-change-agent",
+    "awareness-of-pain-stops-the-behavior",
+    "inner-critic-prevents-rest-and-integration",
+    "positivity-as-doubt",
+    "see-whats-right-to-build-on-it",
+    "self-aggression-permits-others-aggression",
+    "self-boundary-mirrors-external-boundary",
+    "self-judgment-protects-from-emotion",
+    "triggers-reveal-your-own-beliefs",
+    "trying-to-be-right-is-the-voice",
+    "voice-creates-what-it-fears",
+    "you-cant-let-go-of-emotions-only-thoughts",
+    "coming-to-your-senses",
+    "experimenting-with-the-voice",
+    "inquiry-on-limiting-beliefs",
+    "lawyer-the-voice",
+    "narrate-every-thought-out-loud",
+    "questioning-assumptions",
+    "tell-yourself-you-love-yourself-in-a-mirror",
+    "trace-the-critical-thoughts-to-where-you-learned-them",
+    "whats-looking-out-behind-my-eyes",
+    "three-kinds-of-limiting-beliefs",
+    "joes-call-with-dad-about-criticism"
+  ],
+  "parent-criticism-as-self-talk": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-want-to-reconnect-with-estranged-parents-but-im-scared",
+    "guilt-as-passive-fear",
+    "coach-demonstrates-via-reversed-role-play",
+    "come-to-me-without-contradiction",
+    "welcome-the-hurt-the-way-you-wanted-as-a-kid",
+    "self-aggression-permits-others-aggression",
+    "narrate-every-thought-out-loud",
+    "say-ouch-to-the-inner-critic",
+    "trace-the-critical-thoughts-to-where-you-learned-them"
+  ],
+  "what-was-done-to-you-youre-now-doing-to-yourself": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-dont-want-to-take-responsibility",
+    "composing-in-the-session-itself",
+    "composing-yourself-as-self-suppression",
+    "voice-in-the-head",
+    "apologize-to-the-other-for-what-you-do-to-yourself",
+    "tell-me-to-compose-myself",
+    "visualize-the-kid-composing-themselves",
+    "locked-down-sensitivity-is-the-gift",
+    "narrate-every-thought-out-loud",
+    "trace-the-critical-thoughts-to-where-you-learned-them"
+  ],
+  "productivity-as-fear-based-engine": [
+    "i-cant-rest-without-feeling-guilty",
+    "ask-how-much-safety-plays-a-role",
+    "spin-vs-pedaling",
+    "stage-fright-as-fuel-cell",
+    "redundant-vs-safe",
+    "approach-matters-as-much-as-hours",
+    "design-the-interactions-and-the-productivity-takes-care-of-itself",
+    "doing-doesnt-equal-producing",
+    "find-your-optimal-effort-window",
+    "how-you-do-productivity-reveals-what-its-for",
+    "optimize-for-downtime-not-productivity",
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "reflection-is-release-resting-is-nothing",
+    "reflection-after-an-hour",
+    "100-middle-managers-redundant-vs-safe"
+  ],
+  "what-is-the-productivity-for": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-keep-getting-stuff-done-but-nothing-changes",
+    "i-never-have-enough-time",
+    "ask-how-much-safety-plays-a-role",
+    "spin-vs-pedaling",
+    "time-scarcity",
+    "productivity-as-dopamine-fix",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "pace-and-spin",
+    "how-you-do-productivity-reveals-what-its-for",
+    "make-it-redundant-not-just-done",
+    "overwhelm-reduces-productivity",
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "time-can-be-invested-not-just-spent",
+    "reflection-after-an-hour",
+    "brett-alexa-airport-pause",
+    "vp-and-the-3-day-offsite"
+  ],
+  "the-rush-signature": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-keep-getting-stuff-done-but-nothing-changes",
+    "i-keep-postponing-enjoyment",
+    "i-never-have-enough-time",
+    "im-overwhelmed",
+    "im-so-stressed-out",
+    "defensive-scanning-for-the-feared-threat",
+    "overwhelm",
+    "time-scarcity",
+    "doubt-driven-urgency-as-fake-confidence",
+    "productivity-as-fear-based-engine",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "forward-fear-vs-backward-grief-of-time",
+    "how-you-do-productivity-reveals-what-its-for",
+    "multitasking-is-head-in-two-places",
+    "presence-in-the-body-while-working",
+    "brett-alexa-airport-pause",
+    "ceo-who-rode-horses-to-quiet-the-voice",
+    "jeff-bezos-calls-his-mornings-wandering"
+  ],
+  "say-ouch-to-the-inner-critic": [
+    "i-cant-rest-without-feeling-guilty",
+    "im-so-stressed-out",
+    "my-inner-critic-wont-stop",
+    "every-question-becomes-whats-wrong-with-me",
+    "voice-in-the-head",
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "find-one-thing-to-confirm-about-yourself",
+    "investigate-the-actual-source-of-stress",
+    "approach-matters-as-much-as-hours",
+    "awareness-as-change-agent",
+    "awareness-of-pain-stops-the-behavior",
+    "do-self-love-before-pursuing-the-thing",
+    "downregulation-handles-the-symptom-not-the-source",
+    "inner-critic-prevents-rest-and-integration",
+    "pleasure-tells-system-its-safe",
+    "youll-never-get-the-confirmation-from-others",
+    "feel-the-part-of-you-already-at-rest",
+    "menu-of-responses-to-the-self-critical-voice",
+    "narrate-every-thought-out-loud",
+    "four-causes-of-stress",
+    "ceo-who-rode-horses-to-quiet-the-voice"
+  ],
+  "inner-critic-prevents-rest-and-integration": [
+    "i-cant-rest-without-feeling-guilty",
+    "activation-release-rest-cycle",
+    "burnout-cycle",
+    "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
+    "do-self-love-before-pursuing-the-thing",
+    "pleasure-tells-system-its-safe",
+    "rest-that-satisfies-produces-inspiration",
+    "say-ouch-to-the-inner-critic",
+    "four-causes-of-stress",
+    "biathlon-athlete-7-hours-tv",
+    "ceo-who-rode-horses-to-quiet-the-voice"
+  ],
+  "productivity-as-dopamine-fix": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-keep-getting-stuff-done-but-nothing-changes",
+    "the-rush-signature",
+    "what-is-the-productivity-for",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "pace-and-spin",
+    "quality-of-downtime-matters",
+    "make-it-redundant-not-just-done",
+    "optimize-for-downtime-not-productivity",
+    "overwhelm-reduces-productivity",
+    "presence-in-the-body-while-working",
+    "close-the-loop-between-work-blocks",
+    "brett-alexa-airport-pause"
+  ],
+  "i-keep-getting-stuff-done-but-nothing-changes": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-feel-misvalued-as-an-overachiever",
+    "i-never-have-enough-time",
+    "the-emotional-hangover-of-false-productivity",
+    "the-rush-signature",
+    "ask-how-much-safety-plays-a-role",
+    "what-is-the-productivity-for",
+    "spin-vs-pedaling",
+    "productivity-as-dopamine-fix",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "approach-matters-as-much-as-hours",
+    "design-the-interactions-and-the-productivity-takes-care-of-itself",
+    "doing-doesnt-equal-producing",
+    "find-your-optimal-effort-window",
+    "how-you-do-productivity-reveals-what-its-for",
+    "overwhelm-reduces-productivity",
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "reflection-after-an-hour",
+    "joes-vc-realization-one-tenth-the-work",
+    "vp-and-the-3-day-offsite"
+  ],
+  "rest-is-an-accomplishment": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-keep-getting-stuff-done-but-nothing-changes",
+    "im-burned-out",
+    "what-is-the-productivity-for",
+    "activation-release-rest-cycle",
+    "burnout-cycle",
+    "post-rest-second-wind-trap",
+    "pace-and-spin",
+    "quality-of-downtime-matters",
+    "am-i-falling-or-flying",
+    "approach-matters-as-much-as-hours",
+    "context-switching-drains-energy",
+    "energy-management-over-time-management",
+    "find-your-optimal-effort-window",
+    "inner-critic-prevents-rest-and-integration",
+    "make-it-redundant-not-just-done",
+    "nervous-system-recovery-after-stress",
+    "optimize-for-downtime-not-productivity",
+    "reflection-is-release-resting-is-nothing",
+    "rest-that-satisfies-produces-inspiration",
+    "time-can-be-invested-not-just-spent",
+    "close-the-loop-between-work-blocks",
+    "five-minutes-every-two-hours",
+    "nervous-system-prep-before-high-stakes",
+    "nervous-system-support-during-intense-inquiry",
+    "biathlon-athlete-7-hours-tv",
+    "ceo-who-rode-horses-to-quiet-the-voice",
+    "joes-meditation-retreat-becomes-the-move",
+    "sleep-not-the-marriage-story"
+  ],
+  "optimize-for-downtime-not-productivity": [
+    "i-cant-rest-without-feeling-guilty",
+    "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
+    "the-404-the-productive-unknown",
+    "quality-of-downtime-matters",
+    "find-your-optimal-effort-window",
+    "rest-that-satisfies-produces-inspiration",
+    "feel-the-part-of-you-already-at-rest",
+    "black-swan-small-collapses-prevent-big-ones",
+    "forest-fire-as-system-reset"
+  ],
+  "burnout-cycle": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-keep-getting-stuff-done-but-nothing-changes",
+    "im-burned-out",
+    "activation-release-rest-cycle",
+    "polyvagal-nervous-system-framing",
+    "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
+    "adrenaline-discharge-via-fear-activity",
+    "productivity-as-fear-based-engine",
+    "urgency-as-motivation",
+    "how-could-you-do-this-and-gain-energy",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "quality-of-downtime-matters",
+    "caring-what-others-think-is-the-burnout-engine",
+    "context-switching-drains-energy",
+    "energy-management-over-time-management",
+    "nervous-system-recovery-after-stress",
+    "optimize-for-downtime-not-productivity",
+    "close-the-loop-between-work-blocks",
+    "three-stages-of-negotiation",
+    "black-swan-small-collapses-prevent-big-ones",
+    "forest-fire-as-system-reset",
+    "joe-and-tara-weekend-reset"
+  ],
+  "ceo-who-rode-horses-to-quiet-the-voice": [
+    "i-cant-rest-without-feeling-guilty"
+  ],
+  "feel-the-part-of-you-already-at-rest": [
+    "i-cant-rest-without-feeling-guilty",
+    "say-ouch-to-the-inner-critic"
+  ],
+  "rest-that-satisfies-produces-inspiration": [
+    "i-cant-rest-without-feeling-guilty",
+    "say-ouch-to-the-inner-critic"
+  ],
+  "i-cant-stop-doomscrolling": [
+    "i-cant-rest-without-feeling-guilty",
+    "i-never-have-enough-time",
+    "dont-consume-self-help-to-avoid-yourself",
+    "bad-habits-are-the-avoidance-of-essential-self",
+    "natural-shame-vs-installed-shame",
+    "quality-of-downtime-matters",
+    "rest-that-satisfies-produces-inspiration",
+    "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
+    "joes-doomscrolling-story"
   ],
   "every-no-contains-a-better-answer": [
     "i-cant-stop-being-jealous-of-my-partners-friend",
@@ -6311,6 +6791,7 @@
     "spin-vs-pedaling",
     "give-parameters-of-winning",
     "lack-of-enjoyment-as-diagnostic",
+    "approach-matters-as-much-as-hours",
     "energy-management-over-time-management",
     "enjoyment-as-path",
     "enjoyment-as-surrender",
@@ -6337,22 +6818,13 @@
     "practice-cannot-fool-itself-in-real-conditions",
     "teach-from-pleasure-not-mission",
     "ceo-big-house-market-cap-drop",
+    "joes-meditation-retreat-becomes-the-move",
     "walmart-environmental-profitability",
     "authenticity-in-business",
     "training-coaches-and-facilitators"
   ],
   "composing-yourself-as-self-suppression|composing yourself": [
     "i-dont-want-to-take-responsibility"
-  ],
-  "what-was-done-to-you-youre-now-doing-to-yourself": [
-    "i-dont-want-to-take-responsibility",
-    "composing-in-the-session-itself",
-    "composing-yourself-as-self-suppression",
-    "voice-in-the-head",
-    "apologize-to-the-other-for-what-you-do-to-yourself",
-    "tell-me-to-compose-myself",
-    "visualize-the-kid-composing-themselves",
-    "locked-down-sensitivity-is-the-gift"
   ],
   "composing-in-the-session-itself": [
     "i-dont-want-to-take-responsibility",
@@ -6397,6 +6869,7 @@
     "chasing-pleasure-is-avoidance",
     "each-emotion-has-its-own-positive-flavor",
     "punishment-when-good-stings-more",
+    "coming-to-your-senses",
     "notice-sensations-as-pleasure-experiment",
     "joe-thich-nhat-hanh-dishes"
   ],
@@ -6871,24 +7344,6 @@
     "wants-over-shoulds",
     "seven-limiting-beliefs"
   ],
-  "i-keep-getting-stuff-done-but-nothing-changes": [
-    "i-feel-misvalued-as-an-overachiever",
-    "the-emotional-hangover-of-false-productivity",
-    "the-rush-signature",
-    "ask-how-much-safety-plays-a-role",
-    "what-is-the-productivity-for",
-    "spin-vs-pedaling",
-    "productivity-as-dopamine-fix",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "design-the-interactions-and-the-productivity-takes-care-of-itself",
-    "doing-doesnt-equal-producing",
-    "how-you-do-productivity-reveals-what-its-for",
-    "overwhelm-reduces-productivity",
-    "productivity-is-the-trees-purpose-is-the-forest",
-    "reflection-after-an-hour",
-    "joes-vc-realization-one-tenth-the-work",
-    "vp-and-the-3-day-offsite"
-  ],
   "problem-stuck-vs-trapped-stuck": [
     "i-feel-stuck",
     "are-you-stuck-or-do-you-feel-stuck",
@@ -6965,6 +7420,7 @@
     "i-feel-stuck",
     "im-fake-my-love-is-corrupt",
     "im-not-living-up-to-my-potential",
+    "said-want-without-felt-want",
     "are-you-stuck-or-do-you-feel-stuck",
     "what-do-you-lose-if-this-belief-goes-away",
     "catch-i-feel-like-as-not-a-feeling",
@@ -7187,11 +7643,14 @@
     "i-have-to-do-it-all-myself",
     "i-have-to-sacrifice-to-succeed",
     "i-make-money-only-when-i-hate-what-im-doing",
+    "i-never-have-enough-time",
     "anxiety-when-confronting-what-you-want",
     "art-of-accomplishment",
+    "time-scarcity",
     "mental-task-inflation",
     "victim-stance-invites-abuse",
     "jeff-bezos-calls-his-mornings-wandering",
+    "joes-meditation-retreat-becomes-the-move",
     "mandela-empowerment",
     "subway-kid",
     "business-as-spiritual-practice"
@@ -7495,6 +7954,7 @@
     "fall-in-love-with-the-feared-state-by-modeling-it",
     "go-nonverbal-and-let-the-nonverbal-talk",
     "name-the-avoidance-cascade-from-essence-to-addiction",
+    "the-elevator-descent-to-source",
     "the-brain-is-the-brakes"
   ],
   "is-the-shame-in-the-room-or-in-you": [
@@ -7930,6 +8390,7 @@
     "no-finish-line",
     "apply-enjoy-to-whats-here",
     "bring-the-presenting-problem-into-the-room-now",
+    "collapse-the-special-activity-into-the-ordinary-moment",
     "point-at-the-present-evidence",
     "nothing-is-required-for-freedom",
     "where-you-are-is-the-lesson"
@@ -8224,6 +8685,7 @@
     "joy-of-accomplishment-is-the-absence-of-wants",
     "the-work-as-three-levels-of-change",
     "undoing-not-doing",
+    "collapse-the-special-activity-into-the-ordinary-moment",
     "intention-vs-goal",
     "trying-vs-doing",
     "connection-as-life-bottom-line",
@@ -8593,6 +9055,7 @@
     "decisions-are-emotional",
     "do-the-work-thats-harder-for-you",
     "dont-do-emotion-at-people",
+    "downregulation-handles-the-symptom-not-the-source",
     "each-emotion-has-its-own-positive-flavor",
     "embrace-intensity",
     "embracing-changes-unconscious-decisions",
@@ -8979,20 +9442,6 @@
     "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more"
   ],
-  "productivity-as-dopamine-fix": [
-    "i-keep-getting-stuff-done-but-nothing-changes",
-    "the-rush-signature",
-    "what-is-the-productivity-for",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "pace-and-spin",
-    "quality-of-downtime-matters",
-    "make-it-redundant-not-just-done",
-    "optimize-for-downtime-not-productivity",
-    "overwhelm-reduces-productivity",
-    "presence-in-the-body-while-working",
-    "close-the-loop-between-work-blocks",
-    "brett-alexa-airport-pause"
-  ],
   "pace-and-spin": [
     "i-keep-getting-stuff-done-but-nothing-changes",
     "what-is-the-productivity-for",
@@ -9001,6 +9450,7 @@
     "productivity-as-dopamine-fix",
     "context-switching-drains-energy",
     "energy-management-over-time-management",
+    "find-your-optimal-effort-window",
     "make-it-redundant-not-just-done",
     "overwhelm-reduces-productivity",
     "presence-in-the-body-while-working",
@@ -9018,26 +9468,13 @@
     "do-the-work-thats-harder-for-you",
     "doing-doesnt-equal-producing",
     "energy-management-over-time-management",
+    "time-can-be-invested-not-just-spent",
     "reflection-after-an-hour",
     "joes-vc-realization-one-tenth-the-work"
   ],
-  "what-is-the-productivity-for": [
-    "i-keep-getting-stuff-done-but-nothing-changes",
-    "ask-how-much-safety-plays-a-role",
-    "spin-vs-pedaling",
-    "productivity-as-dopamine-fix",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "pace-and-spin",
-    "how-you-do-productivity-reveals-what-its-for",
-    "make-it-redundant-not-just-done",
-    "overwhelm-reduces-productivity",
-    "productivity-is-the-trees-purpose-is-the-forest",
-    "reflection-after-an-hour",
-    "brett-alexa-airport-pause",
-    "vp-and-the-3-day-offsite"
-  ],
   "overwhelm-reduces-productivity": [
     "i-keep-getting-stuff-done-but-nothing-changes",
+    "i-never-have-enough-time",
     "im-burned-out",
     "im-overwhelmed",
     "what-is-the-productivity-for",
@@ -9050,89 +9487,33 @@
     "efficiency-as-enjoyment",
     "leaders-calm-becomes-the-teams-calm",
     "make-it-redundant-not-just-done",
+    "multitasking-is-head-in-two-places",
     "brett-alexa-airport-pause",
     "reducing-overwhelm-in-organizations"
-  ],
-  "the-rush-signature": [
-    "i-keep-getting-stuff-done-but-nothing-changes",
-    "i-keep-postponing-enjoyment",
-    "im-overwhelmed",
-    "im-so-stressed-out",
-    "defensive-scanning-for-the-feared-threat",
-    "overwhelm",
-    "doubt-driven-urgency-as-fake-confidence",
-    "productivity-as-fear-based-engine",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "how-you-do-productivity-reveals-what-its-for",
-    "presence-in-the-body-while-working",
-    "brett-alexa-airport-pause",
-    "jeff-bezos-calls-his-mornings-wandering"
-  ],
-  "burnout-cycle": [
-    "i-keep-getting-stuff-done-but-nothing-changes",
-    "im-burned-out",
-    "activation-release-rest-cycle",
-    "polyvagal-nervous-system-framing",
-    "rest-is-an-accomplishment",
-    "stress-burnout-depression-progression",
-    "adrenaline-discharge-via-fear-activity",
-    "productivity-as-fear-based-engine",
-    "urgency-as-motivation",
-    "how-could-you-do-this-and-gain-energy",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "quality-of-downtime-matters",
-    "caring-what-others-think-is-the-burnout-engine",
-    "context-switching-drains-energy",
-    "energy-management-over-time-management",
-    "nervous-system-recovery-after-stress",
-    "optimize-for-downtime-not-productivity",
-    "close-the-loop-between-work-blocks",
-    "three-stages-of-negotiation",
-    "black-swan-small-collapses-prevent-big-ones",
-    "forest-fire-as-system-reset",
-    "joe-and-tara-weekend-reset"
-  ],
-  "rest-is-an-accomplishment": [
-    "i-keep-getting-stuff-done-but-nothing-changes",
-    "im-burned-out",
-    "what-is-the-productivity-for",
-    "activation-release-rest-cycle",
-    "burnout-cycle",
-    "post-rest-second-wind-trap",
-    "pace-and-spin",
-    "quality-of-downtime-matters",
-    "am-i-falling-or-flying",
-    "context-switching-drains-energy",
-    "energy-management-over-time-management",
-    "inner-critic-prevents-rest-and-integration",
-    "make-it-redundant-not-just-done",
-    "nervous-system-recovery-after-stress",
-    "optimize-for-downtime-not-productivity",
-    "reflection-is-release-resting-is-nothing",
-    "close-the-loop-between-work-blocks",
-    "nervous-system-prep-before-high-stakes",
-    "nervous-system-support-during-intense-inquiry",
-    "biathlon-athlete-7-hours-tv",
-    "sleep-not-the-marriage-story"
   ],
   "stop-to-feel-the-anxiety-underneath-the-productivity": [
     "i-keep-getting-stuff-done-but-nothing-changes",
     "the-rush-signature",
+    "time-scarcity",
     "productivity-as-fear-based-engine",
     "doing-doesnt-equal-producing",
     "how-you-do-productivity-reveals-what-its-for",
+    "multitasking-is-head-in-two-places",
     "overwhelm-reduces-productivity",
     "presence-in-the-body-while-working",
+    "five-minutes-every-two-hours",
     "brett-alexa-airport-pause"
   ],
   "im-overwhelmed": [
     "i-keep-getting-stuff-done-but-nothing-changes",
+    "i-never-have-enough-time",
     "im-so-stressed-out",
     "the-emotional-hangover-of-false-productivity",
     "the-rush-signature",
     "the-thing-not-being-said-as-the-fear-signal",
     "opposite-of-trying",
     "overwhelm",
+    "time-scarcity",
     "mental-task-inflation",
     "productivity-as-dopamine-fix",
     "amplify-the-feeling-until-it-breaks-open",
@@ -9522,11 +9903,14 @@
   ],
   "apply-enjoy-to-whats-here": [
     "i-keep-postponing-enjoyment",
+    "said-want-without-felt-want",
     "how-is-that-not-here-right-now",
     "how-would-you-enjoy-x",
     "every-moment-is-an-exit-point",
     "apply-connection-to-whatever-youre-doing",
+    "collapse-the-special-activity-into-the-ordinary-moment",
     "lack-of-enjoyment-as-diagnostic",
+    "name-the-pattern-firing-now-as-the-art-being-made",
     "redirect-from-doing-it-right-to-enjoying-it",
     "redirect-from-stay-or-leave-to-self-love",
     "treat-them-like-an-adult",
@@ -9847,10 +10231,14 @@
     "i-keep-running-into-the-same-wall",
     "closing-eyes-at-the-start",
     "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
+    "dont-let-downregulation-become-avoidance",
     "tools-to-change-not-love",
     "anger-as-cover-for-deeper-emotion",
     "knowing-yourself-vs-domesticating-yourself",
-    "over-regulating-nervous-system-creates-stress"
+    "downregulation-handles-the-symptom-not-the-source",
+    "over-regulating-nervous-system-creates-stress",
+    "coming-to-your-senses",
+    "three-categories-of-downregulation"
   ],
   "if-you-really-understood-it-it-wouldve-changed": [
     "i-keep-running-into-the-same-wall",
@@ -10006,12 +10394,15 @@
     "name-im-in-my-trauma-as-couple-language",
     "stop-to-feel-the-anxiety-underneath-the-productivity",
     "breath-as-fertile-soil-vs-breath-as-control",
+    "forward-fear-vs-backward-grief-of-time",
     "cant-make-agreements-during-the-fight",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
     "ask-from-slowness-not-intellect",
+    "five-minutes-every-two-hours",
     "hands-on-body-to-regulate-nervous-system",
     "humming-exhale-for-vagal-tone",
-    "four-causes-of-stress"
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
   ],
   "hands-on-body-to-regulate-nervous-system": [
     "i-lose-myself-in-the-fight",
@@ -10358,33 +10749,88 @@
   "rubbermaid-dish-solution": [
     "i-need-to-set-boundaries"
   ],
-  "importance-makes-the-task-un-fun": [
-    "i-procrastinate-only-on-the-thing-that-matters-most",
-    "perfectionism",
-    "bound-the-behavior-find-where-it-doesnt-happen",
-    "prove-why-its-important",
-    "be-a-good-boss-to-yourself",
-    "enjoyment-as-path"
+  "time-scarcity": [
+    "i-never-have-enough-time",
+    "im-overwhelmed",
+    "the-rush-signature",
+    "overwhelm",
+    "flow-vs-managing-reality",
+    "forward-fear-vs-backward-grief-of-time",
+    "energy-management-over-time-management",
+    "multitasking-is-head-in-two-places",
+    "presence-in-the-body-while-working",
+    "time-can-be-invested-not-just-spent",
+    "five-minutes-every-two-hours",
+    "bomb-shelter-less-stressed-than-email",
+    "joes-meditation-retreat-becomes-the-move",
+    "railroad-time-displaced-natural-time"
   ],
-  "the-perfectionism-that-stops-you-from-starting": [
-    "i-procrastinate-only-on-the-thing-that-matters-most",
-    "perfectionism",
-    "bound-the-behavior-find-where-it-doesnt-happen",
-    "prove-why-its-important",
-    "importance-makes-the-task-un-fun"
+  "overwhelm": [
+    "i-never-have-enough-time",
+    "im-overwhelmed",
+    "im-so-stressed-out",
+    "time-scarcity",
+    "productivity-as-fear-based-engine",
+    "investigate-the-actual-source-of-stress",
+    "flow-vs-managing-reality",
+    "forward-fear-vs-backward-grief-of-time",
+    "allowing-creates-resilience",
+    "fear-is-about-feeling",
+    "knowing-yourself-is-the-only-safety",
+    "meaning-of-overwhelm-determines-direction",
+    "overwhelm-reduces-productivity",
+    "ask-from-slowness-not-intellect",
+    "breath-to-exit-overwhelm",
+    "four-causes-of-stress",
+    "four-tactical-ways-to-feel-your-emotions",
+    "bomb-shelter-less-stressed-than-email"
   ],
-  "hidden-rebellion-under-the-habit": [
-    "i-procrastinate-only-on-the-thing-that-matters-most",
-    "should-i-stop-drinking",
-    "treating-it-as-a-decision-when-its-an-emotion",
-    "heart-in-a-box-want-to-drink",
-    "rebellion-or-submission-to-should",
-    "fully-feel-the-forbidden-arousal",
-    "do-i-stop-drinking-session"
+  "time-can-be-invested-not-just-spent": [
+    "i-never-have-enough-time",
+    "time-scarcity",
+    "forward-fear-vs-backward-grief-of-time",
+    "energy-management-over-time-management",
+    "close-the-loop-between-work-blocks",
+    "railroad-time-displaced-natural-time"
+  ],
+  "forward-fear-vs-backward-grief-of-time": [
+    "i-never-have-enough-time",
+    "im-overwhelmed",
+    "time-scarcity"
+  ],
+  "bomb-shelter-less-stressed-than-email": [
+    "i-never-have-enough-time",
+    "flow-vs-managing-reality",
+    "railroad-time-displaced-natural-time"
+  ],
+  "five-minutes-every-two-hours": [
+    "i-never-have-enough-time",
+    "time-scarcity",
+    "multitasking-is-head-in-two-places",
+    "time-can-be-invested-not-just-spent",
+    "bomb-shelter-less-stressed-than-email",
+    "joes-meditation-retreat-becomes-the-move"
+  ],
+  "multitasking-is-head-in-two-places": [
+    "i-never-have-enough-time",
+    "the-rush-signature",
+    "time-scarcity",
+    "presence-in-the-body-while-working"
+  ],
+  "productivity-is-the-trees-purpose-is-the-forest": [
+    "i-never-have-enough-time",
+    "spin-vs-pedaling",
+    "doing-doesnt-equal-producing",
+    "how-you-do-productivity-reveals-what-its-for",
+    "time-can-be-invested-not-just-spent",
+    "100-middle-managers-redundant-vs-safe",
+    "joes-vc-realization-one-tenth-the-work",
+    "vp-and-the-3-day-offsite"
   ],
   "dont-make-stop-judging-into-a-should": [
     "i-procrastinate-only-on-the-thing-that-matters-most",
     "im-judgmental-how-do-i-stop",
+    "collapse-the-special-activity-into-the-ordinary-moment",
     "fall-in-love-with-the-feared-state-by-modeling-it",
     "feel-bad-as-the-running",
     "its-okay-to-run-no-judgment",
@@ -10413,6 +10859,7 @@
     "bound-the-behavior-find-where-it-doesnt-happen",
     "lack-of-enjoyment-as-diagnostic",
     "prove-why-its-important",
+    "approach-matters-as-much-as-hours",
     "be-a-good-boss-to-yourself",
     "enjoyment-as-path",
     "enjoyment-attracts",
@@ -10467,30 +10914,6 @@
   ],
   "emotional-leak-mistaken-for-emotional-excess": [
     "i-should-be-doing-this"
-  ],
-  "should-as-threat": [
-    "i-should-be-doing-this",
-    "my-inner-critic-wont-stop",
-    "dont-make-listening-a-morality",
-    "dont-make-stop-judging-into-a-should",
-    "dont-should-yourself-to-welcome-anger",
-    "burnout-cycle",
-    "trigger",
-    "untruth-in-every-thought",
-    "voice-in-the-head",
-    "impulse-to-should",
-    "rebellion-or-submission-to-should",
-    "find-the-want-behind-the-should",
-    "stick-a-fucking-shit-in-front-of-the-should",
-    "gentleness-not-trying-to-be-patient",
-    "nervous-system-recovery-after-stress",
-    "obligation-cuts-off-love",
-    "shame-is-anger-turned-inward",
-    "stress-as-rejection-of-stress",
-    "wants-over-shoulds",
-    "hold-stress-tightly-vs-gently-experiment",
-    "should-vs-want-body-check",
-    "four-causes-of-stress"
   ],
   "find-the-want-behind-the-should": [
     "i-should-be-doing-this",
@@ -10673,15 +11096,6 @@
     "i-want-to-reconnect-with-estranged-parents-but-im-scared",
     "how-do-you-want-to-be"
   ],
-  "parent-criticism-as-self-talk": [
-    "i-want-to-reconnect-with-estranged-parents-but-im-scared",
-    "guilt-as-passive-fear",
-    "coach-demonstrates-via-reversed-role-play",
-    "come-to-me-without-contradiction",
-    "welcome-the-hurt-the-way-you-wanted-as-a-kid",
-    "self-aggression-permits-others-aggression",
-    "say-ouch-to-the-inner-critic"
-  ],
   "love-the-emotion-and-be-boundaried-with-it": [
     "i-want-to-reconnect-with-estranged-parents-but-im-scared",
     "guilt-as-passive-fear",
@@ -10787,6 +11201,7 @@
     "connection-over-perfection",
     "everything-is-already-an-experiment",
     "experiments-must-stay-in-window-of-tolerance",
+    "find-your-optimal-effort-window",
     "first-experiments-should-contradict-assumptions",
     "mistakes-on-stage-are-gifts",
     "mit-media-lab-principle",
@@ -11022,6 +11437,7 @@
     "daily-gratitude-for-your-own-transformation",
     "lawyer-the-voice",
     "menu-of-responses-to-the-self-critical-voice",
+    "narrate-every-thought-out-loud",
     "say-ouch-to-the-inner-critic",
     "tell-yourself-you-love-yourself-in-a-mirror",
     "joes-call-with-dad-about-criticism",
@@ -11436,7 +11852,9 @@
     "mental-task-inflation",
     "productivity-as-fear-based-engine",
     "how-could-you-do-this-and-gain-energy",
-    "energy-management-over-time-management"
+    "energy-management-over-time-management",
+    "overwhelm-reduces-productivity",
+    "time-can-be-invested-not-just-spent"
   ],
   "post-rest-second-wind-trap": [
     "im-burned-out",
@@ -11444,7 +11862,8 @@
     "burnout-cycle",
     "rest-is-an-accomplishment",
     "quality-of-downtime-matters",
-    "nervous-system-recovery-after-stress"
+    "nervous-system-recovery-after-stress",
+    "rest-that-satisfies-produces-inspiration"
   ],
   "adrenaline-discharge-via-fear-activity": [
     "im-burned-out",
@@ -11493,6 +11912,7 @@
     "im-burned-out",
     "burnout-cycle",
     "rest-is-an-accomplishment",
+    "time-scarcity",
     "productivity-as-dopamine-fix",
     "how-could-you-do-this-and-gain-energy",
     "pace-and-spin",
@@ -11500,9 +11920,11 @@
     "context-switching-drains-energy",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "efficiency-as-enjoyment",
+    "find-your-optimal-effort-window",
     "make-it-redundant-not-just-done",
     "optimize-for-downtime-not-productivity",
     "presence-in-the-body-while-working",
+    "time-can-be-invested-not-just-spent",
     "close-the-loop-between-work-blocks",
     "three-stages-of-negotiation"
   ],
@@ -11519,68 +11941,6 @@
     "symptoms-of-depression",
     "redirect-from-being-seen-by-them-to-seeing-yourself",
     "symptoms-vs-root-causes-of-depression"
-  ],
-  "voice-in-the-head": [
-    "im-depressed",
-    "im-exhausted-holding-space-for-my-partner",
-    "im-judgmental-how-do-i-stop",
-    "my-inner-critic-wont-stop",
-    "criticism-posture-vs-shame-posture",
-    "letting-it-in-vs-deflecting-the-welcome",
-    "dont-fight-the-voice",
-    "dont-use-inquiry-to-win",
-    "applied-self-awareness",
-    "art-of-accomplishment",
-    "comparative-mind",
-    "cult-of-one",
-    "depression-four-levels",
-    "intelligence-amplifies-self-criticism",
-    "limiting-belief",
-    "passive-aggression-toward-self",
-    "should-as-threat",
-    "soul-dysmorphia",
-    "the-inner-board",
-    "the-work-as-three-levels-of-change",
-    "thoughts-as-management",
-    "three-layers-of-the-work",
-    "untruth-in-every-thought",
-    "voice-as-care",
-    "voice-as-guide-to-unhealed-places",
-    "war-with-yourself",
-    "needing-to-be-right-in-teams",
-    "perfectionism",
-    "rehearsing-conversations",
-    "symptoms-of-depression",
-    "us-vs-them-as-universal-manipulation-pattern",
-    "apply-view-to-the-voice",
-    "become-the-authority-figure",
-    "extend-the-no-asshole-rule-inward",
-    "find-the-emotion-under-self-judgment",
-    "have-partner-state-the-welcome-aloud",
-    "is-the-shame-in-the-room-or-in-you",
-    "repetitive-vs-inspirational-voice",
-    "skeptical-inquiry-vs-self-inquiry",
-    "avoided-conflict-goes-internal",
-    "awareness-as-change-agent",
-    "awareness-of-pain-stops-the-behavior",
-    "inner-critic-prevents-rest-and-integration",
-    "positivity-as-doubt",
-    "see-whats-right-to-build-on-it",
-    "self-aggression-permits-others-aggression",
-    "self-boundary-mirrors-external-boundary",
-    "self-judgment-protects-from-emotion",
-    "triggers-reveal-your-own-beliefs",
-    "trying-to-be-right-is-the-voice",
-    "voice-creates-what-it-fears",
-    "you-cant-let-go-of-emotions-only-thoughts",
-    "experimenting-with-the-voice",
-    "inquiry-on-limiting-beliefs",
-    "lawyer-the-voice",
-    "questioning-assumptions",
-    "tell-yourself-you-love-yourself-in-a-mirror",
-    "whats-looking-out-behind-my-eyes",
-    "three-kinds-of-limiting-beliefs",
-    "joes-call-with-dad-about-criticism"
   ],
   "three-forms-of-anger-repression": [
     "im-depressed",
@@ -11638,6 +11998,7 @@
     "voice-creates-what-it-fears",
     "daily-gratitude-for-your-own-transformation",
     "experimenting-with-the-voice",
+    "menu-of-responses-to-the-self-critical-voice",
     "talk-to-your-parts-and-ask-for-trust",
     "tell-yourself-you-love-yourself-in-a-mirror",
     "the-politician-and-the-acolytes"
@@ -11777,6 +12138,7 @@
     "negative-emotions-precede-positive",
     "pleasure-is-letting-life-fully-hit-you",
     "pleasure-tells-system-its-safe",
+    "presence-is-pleasure-not-trying",
     "punishment-when-good-stings-more",
     "tension-is-part-of-pleasure",
     "there-is-no-better-person-on-the-other-side",
@@ -12265,7 +12627,8 @@
   ],
   "jeff-bezos-calls-his-mornings-wandering": [
     "im-not-living-up-to-my-potential",
-    "anxiety-when-confronting-what-you-want"
+    "anxiety-when-confronting-what-you-want",
+    "find-your-optimal-effort-window"
   ],
   "scorecard-keeping-as-identity-structure": [
     "im-not-living-up-to-my-potential",
@@ -12281,22 +12644,6 @@
     "identity-lags-behind-growth",
     "searching-for-love-cuts-off-love"
   ],
-  "overwhelm": [
-    "im-overwhelmed",
-    "im-so-stressed-out",
-    "productivity-as-fear-based-engine",
-    "investigate-the-actual-source-of-stress",
-    "flow-vs-managing-reality",
-    "allowing-creates-resilience",
-    "fear-is-about-feeling",
-    "knowing-yourself-is-the-only-safety",
-    "meaning-of-overwhelm-determines-direction",
-    "overwhelm-reduces-productivity",
-    "ask-from-slowness-not-intellect",
-    "breath-to-exit-overwhelm",
-    "four-causes-of-stress",
-    "four-tactical-ways-to-feel-your-emotions"
-  ],
   "dont-add-the-overwhelm-of-creating-the-overwhelm": [
     "im-overwhelmed",
     "overwhelm",
@@ -12306,8 +12653,21 @@
   "meaning-of-overwhelm-determines-direction": [
     "im-overwhelmed",
     "overwhelm",
+    "forward-fear-vs-backward-grief-of-time",
     "stress-as-rejection-of-stress",
     "esme-math-final"
+  ],
+  "i-never-have-enough-time": [
+    "im-overwhelmed",
+    "the-rush-signature",
+    "overwhelm",
+    "time-scarcity",
+    "forward-fear-vs-backward-grief-of-time",
+    "energy-management-over-time-management",
+    "presence-in-the-body-while-working",
+    "time-can-be-invested-not-just-spent",
+    "five-minutes-every-two-hours",
+    "railroad-time-displaced-natural-time"
   ],
   "four-causes-of-stress": [
     "im-so-stressed-out",
@@ -12319,6 +12679,7 @@
     "voice-in-the-head",
     "investigate-the-actual-source-of-stress",
     "cultural-pressure-to-perform-stress",
+    "downregulation-handles-the-symptom-not-the-source",
     "inner-critic-prevents-rest-and-integration",
     "over-regulating-nervous-system-creates-stress",
     "pep-talk-cant-override-the-body",
@@ -12330,6 +12691,7 @@
     "tension-and-release-cycle",
     "tension-is-part-of-pleasure",
     "treating-world-as-threat-reproduces-threat",
+    "coming-to-your-senses",
     "feeling-not-feeling-toggle",
     "fifteen-unknowns-then-how-what-questions",
     "growth-stress-vs-corrosive-stress-memory-experiment",
@@ -12338,6 +12700,7 @@
     "say-ouch-to-the-inner-critic",
     "try-to-feel-scared-then-stop-experiment",
     "who-am-i-right-now-experiment",
+    "three-categories-of-downregulation",
     "sleep-not-the-marriage-story"
   ],
   "stress-as-rejection-of-stress": [
@@ -12362,6 +12725,7 @@
     "inner-critic-prevents-rest-and-integration",
     "over-regulating-nervous-system-creates-stress",
     "pep-talk-cant-override-the-body",
+    "presence-is-pleasure-not-trying",
     "tension-and-release-cycle",
     "hold-stress-tightly-vs-gently-experiment",
     "notice-sensations-as-pleasure-experiment",
@@ -12404,43 +12768,58 @@
     "quality-of-downtime-matters",
     "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
+    "presence-is-pleasure-not-trying",
     "stress-tolerance-is-personal-and-built",
     "tension-is-part-of-pleasure",
+    "coming-to-your-senses",
     "four-causes-of-stress"
   ],
   "who-am-i-right-now-experiment": [
     "im-so-stressed-out",
     "identity",
-    "four-causes-of-stress"
-  ],
-  "say-ouch-to-the-inner-critic": [
-    "im-so-stressed-out",
-    "my-inner-critic-wont-stop",
-    "every-question-becomes-whats-wrong-with-me",
-    "catch-the-tiny-self-doubt-inside-the-answer",
-    "find-one-thing-to-confirm-about-yourself",
-    "investigate-the-actual-source-of-stress",
-    "awareness-as-change-agent",
-    "awareness-of-pain-stops-the-behavior",
-    "do-self-love-before-pursuing-the-thing",
-    "inner-critic-prevents-rest-and-integration",
-    "pleasure-tells-system-its-safe",
-    "youll-never-get-the-confirmation-from-others",
-    "menu-of-responses-to-the-self-critical-voice",
+    "downregulation-handles-the-symptom-not-the-source",
     "four-causes-of-stress"
   ],
   "pep-talk-cant-override-the-body": [
     "im-so-stressed-out",
+    "downregulation-handles-the-symptom-not-the-source",
     "stress-as-rejection-of-stress",
     "hold-stress-tightly-vs-gently-experiment",
     "four-causes-of-stress"
   ],
   "over-regulating-nervous-system-creates-stress": [
     "im-so-stressed-out",
+    "dont-let-downregulation-become-avoidance",
+    "downregulation-handles-the-symptom-not-the-source",
     "pleasure-tells-system-its-safe",
     "tension-and-release-cycle",
     "tension-is-part-of-pleasure",
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
+  ],
+  "dont-let-downregulation-become-avoidance": [
+    "im-so-stressed-out",
+    "downregulation-handles-the-symptom-not-the-source",
+    "coming-to-your-senses",
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
+  ],
+  "downregulation-handles-the-symptom-not-the-source": [
+    "im-so-stressed-out",
+    "coming-to-your-senses",
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
+  ],
+  "three-categories-of-downregulation": [
+    "im-so-stressed-out",
+    "downregulation-handles-the-symptom-not-the-source",
+    "coming-to-your-senses",
     "four-causes-of-stress"
+  ],
+  "coming-to-your-senses": [
+    "im-so-stressed-out",
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
   ],
   "investigate-the-actual-source-of-stress": [
     "im-so-stressed-out",
@@ -12529,6 +12908,12 @@
     "tension-and-release-cycle",
     "growth-stress-vs-corrosive-stress-memory-experiment"
   ],
+  "humming-exhale-for-vagal-tone": [
+    "im-so-stressed-out",
+    "coming-to-your-senses",
+    "four-causes-of-stress",
+    "three-categories-of-downregulation"
+  ],
   "view-around-self-as-identity-diagnostic": [
     "im-so-stressed-out",
     "defensiveness-as-identity-signal",
@@ -12557,6 +12942,21 @@
   "fifteen-fun-iterations-on-the-stuck-goal": [
     "im-so-stressed-out",
     "iterative-mindset"
+  ],
+  "narrate-every-thought-out-loud": [
+    "im-so-stressed-out",
+    "my-inner-critic-wont-stop",
+    "voice-in-the-head",
+    "trace-the-critical-thoughts-to-where-you-learned-them",
+    "four-causes-of-stress"
+  ],
+  "trace-the-critical-thoughts-to-where-you-learned-them": [
+    "im-so-stressed-out",
+    "my-inner-critic-wont-stop",
+    "voice-in-the-head",
+    "menu-of-responses-to-the-self-critical-voice",
+    "narrate-every-thought-out-loud",
+    "four-causes-of-stress"
   ],
   "stages-of-emotional-development": [
     "ive-lost-my-joy",
@@ -12792,6 +13192,7 @@
     "lawyer-the-voice",
     "talk-to-your-parts-and-ask-for-trust",
     "tell-yourself-you-love-yourself-in-a-mirror",
+    "trace-the-critical-thoughts-to-where-you-learned-them",
     "view"
   ],
   "rehearsing-conversations": [
@@ -12878,6 +13279,7 @@
     "projections",
     "voice-in-the-head",
     "knowing-yourself-is-the-only-safety",
+    "feel-the-part-of-you-already-at-rest",
     "lawyer-the-voice"
   ],
   "excavating-the-inner-critic-in-group": [
@@ -12964,6 +13366,7 @@
     "apply-enjoy-to-whats-here",
     "lack-of-enjoyment-as-diagnostic",
     "use-your-strength-on-the-real-work",
+    "approach-matters-as-much-as-hours",
     "consciousness-is-the-product",
     "endurance-blocks-transformation",
     "enjoyment-as-path",
@@ -13080,6 +13483,7 @@
     "binary-thinking-signals-fear",
     "three-signals-of-unfelt-emotion",
     "ask-the-body-the-question",
+    "the-elevator-descent-to-source",
     "treat-yourself-as-actor-of-emotion",
     "what-does-your-heart-say",
     "judgment-vs-discernment",
@@ -13729,6 +14133,7 @@
     "whats-wrong-with-this-moment",
     "fixing-people",
     "undoing-not-doing",
+    "name-the-pattern-firing-now-as-the-art-being-made",
     "fix-everything-woman-anthill-presence-session"
   ],
   "everything-i-touch-fails-drives-fixing": [
@@ -14948,11 +15353,6 @@
     "doing-doesnt-equal-producing",
     "reflection-is-release-resting-is-nothing"
   ],
-  "insight-converted-to-task-in-real-time": [
-    "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
-    "name-the-avoidance-cascade-from-essence-to-addiction",
-    "name-the-pattern-of-converting-insight-to-task"
-  ],
   "fuck-your-head-redirect-to-body": [
     "the-pattern-seer-using-pattern-knowledge-to-stay-stuck"
   ],
@@ -15130,20 +15530,6 @@
   ],
   "almost-crying-while-talking": [
     "ask-for-the-scariest-question"
-  ],
-  "productivity-as-fear-based-engine": [
-    "ask-how-much-safety-plays-a-role",
-    "spin-vs-pedaling",
-    "stage-fright-as-fuel-cell",
-    "redundant-vs-safe",
-    "design-the-interactions-and-the-productivity-takes-care-of-itself",
-    "doing-doesnt-equal-producing",
-    "how-you-do-productivity-reveals-what-its-for",
-    "optimize-for-downtime-not-productivity",
-    "productivity-is-the-trees-purpose-is-the-forest",
-    "reflection-is-release-resting-is-nothing",
-    "reflection-after-an-hour",
-    "100-middle-managers-redundant-vs-safe"
   ],
   "100-middle-managers-redundant-vs-safe": [
     "ask-how-much-safety-plays-a-role",
@@ -15959,14 +16345,6 @@
     "write-50-experiments-before-starting",
     "principles-goals-metrics"
   ],
-  "i-cant-stop-doomscrolling": [
-    "dont-consume-self-help-to-avoid-yourself",
-    "bad-habits-are-the-avoidance-of-essential-self",
-    "natural-shame-vs-installed-shame",
-    "quality-of-downtime-matters",
-    "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
-    "joes-doomscrolling-story"
-  ],
   "war-with-yourself": [
     "dont-consume-self-help-to-avoid-yourself",
     "outer-life-mirrors-relationship-with-self",
@@ -15999,6 +16377,7 @@
     "trust-the-awareness-dont-add-effort",
     "understand-yourself-like-you-understand-a-computer",
     "i-exist-affirmation-against-collapse",
+    "narrate-every-thought-out-loud",
     "joes-26-year-old-list",
     "joes-call-with-dad-about-criticism",
     "toilet-blame-story"
@@ -16229,6 +16608,18 @@
     "weekly-tension-inventory",
     "black-swan-small-collapses-prevent-big-ones"
   ],
+  "dont-use-breath-to-repress": [
+    "dont-let-downregulation-become-avoidance",
+    "dont-suppress-emotion-to-perform",
+    "dont-try-to-make-yourself-cry",
+    "breath-as-fertile-soil-vs-breath-as-control",
+    "knowing-yourself-vs-domesticating-yourself",
+    "over-regulating-nervous-system-creates-stress",
+    "breath-to-exit-overwhelm",
+    "emotional-inquiry",
+    "hands-on-body-to-regulate-nervous-system",
+    "four-tactical-ways-to-feel-your-emotions"
+  ],
   "intention-vs-goal": [
     "dont-let-goals-define-you",
     "art-of-accomplishment",
@@ -16440,6 +16831,7 @@
     "guilty-pleasure-vs-real-pleasure",
     "pleasure-amplifies-vs-detracts-from-emotion",
     "pleasure-is-letting-life-fully-hit-you",
+    "presence-is-pleasure-not-trying",
     "joe-thich-nhat-hanh-dishes"
   ],
   "embracing-intensity-as-leading-indicator": [
@@ -16858,17 +17250,6 @@
     "nothing-is-required-for-freedom",
     "emile-three-relationships-with-fear"
   ],
-  "dont-use-breath-to-repress": [
-    "dont-suppress-emotion-to-perform",
-    "dont-try-to-make-yourself-cry",
-    "breath-as-fertile-soil-vs-breath-as-control",
-    "knowing-yourself-vs-domesticating-yourself",
-    "over-regulating-nervous-system-creates-stress",
-    "breath-to-exit-overwhelm",
-    "emotional-inquiry",
-    "hands-on-body-to-regulate-nervous-system",
-    "four-tactical-ways-to-feel-your-emotions"
-  ],
   "coaches-foundation-self-awareness": [
     "dont-think-the-awakening-makes-you-equipped",
     "dont-treat-coaching-videos-as-how-to-coach",
@@ -16979,6 +17360,7 @@
     "pendulation",
     "its-a-human-thing-redirect",
     "improvement-vs-authenticity",
+    "approach-matters-as-much-as-hours",
     "awareness-of-pattern-is-halfway-through",
     "daily-gratitude-for-your-own-transformation"
   ],
@@ -17208,17 +17590,6 @@
     "carl-rogers-three-day-listening-experiment",
     "the-sensitive-businesswoman-whose-loneliness-died"
   ],
-  "inner-critic-prevents-rest-and-integration": [
-    "activation-release-rest-cycle",
-    "burnout-cycle",
-    "rest-is-an-accomplishment",
-    "stress-burnout-depression-progression",
-    "do-self-love-before-pursuing-the-thing",
-    "pleasure-tells-system-its-safe",
-    "say-ouch-to-the-inner-critic",
-    "four-causes-of-stress",
-    "biathlon-athlete-7-hours-tv"
-  ],
   "biathlon-athlete-7-hours-tv": [
     "activation-release-rest-cycle",
     "rest-is-an-accomplishment"
@@ -17234,7 +17605,8 @@
     "tension-and-release-cycle",
     "you-are-responsible-for-your-own-window-of-tolerance",
     "hands-on-body-to-regulate-nervous-system",
-    "humming-exhale-for-vagal-tone"
+    "humming-exhale-for-vagal-tone",
+    "three-categories-of-downregulation"
   ],
   "anger-as-containment-for-the-conflict-seeker": [
     "aggression-amplifies-against-conflict-avoidance",
@@ -17838,6 +18210,7 @@
   "positivity-as-doubt": [
     "confidence-is-running-from-doubt",
     "passive-aggression-toward-self",
+    "voice-in-the-head",
     "epiphany-becomes-task",
     "catch-the-tiny-self-doubt-inside-the-answer",
     "the-first-minute-tells-you-everything",
@@ -18673,10 +19046,13 @@
     "joy-as-natural-state",
     "pleasure-capacity",
     "quality-of-downtime-matters",
-    "chasing-pleasure-is-avoidance"
+    "chasing-pleasure-is-avoidance",
+    "presence-is-pleasure-not-trying"
   ],
   "intrinsic-drive-to-build": [
     "joy-of-accomplishment-is-the-absence-of-wants",
+    "collapse-the-special-activity-into-the-ordinary-moment",
+    "importance-makes-the-task-un-fun",
     "value-is-intrinsic-not-earned"
   ],
   "joes-pancake-anger-story": [
@@ -18754,6 +19130,7 @@
     "opposite-of-trying",
     "letting-go-vs-doing-nothing",
     "feeling-yourself-beats-going-to-plan",
+    "multitasking-is-head-in-two-places",
     "welcome-the-dumpster-fire-in-facilitation"
   ],
   "seeing-through-projections-expands-possibility": [
@@ -18908,6 +19285,7 @@
     "overwhelm",
     "the-butler-metaphor",
     "turn-blame-into-wants",
+    "five-minutes-every-two-hours",
     "listen-as-the-wisest-person"
   ],
   "reducing-overwhelm-in-organizations": [
@@ -19002,8 +19380,10 @@
     "breath-as-fertile-soil-vs-breath-as-control",
     "inner-critic-prevents-rest-and-integration",
     "reflection-is-release-resting-is-nothing",
+    "rest-that-satisfies-produces-inspiration",
     "humming-exhale-for-vagal-tone",
     "nervous-system-prep-before-high-stakes",
+    "three-categories-of-downregulation",
     "biathlon-athlete-7-hours-tv",
     "joe-7-years-of-reichian-breathwork"
   ],
@@ -19071,24 +19451,18 @@
     "black-swan-small-collapses-prevent-big-ones",
     "kaibab-deer-mountain-lion-balance"
   ],
-  "optimize-for-downtime-not-productivity": [
-    "rest-is-an-accomplishment",
-    "stress-burnout-depression-progression",
-    "the-404-the-productive-unknown",
-    "quality-of-downtime-matters",
-    "black-swan-small-collapses-prevent-big-ones",
-    "forest-fire-as-system-reset"
-  ],
   "close-the-loop-between-work-blocks": [
     "rest-is-an-accomplishment",
     "context-switching-drains-energy",
     "energy-management-over-time-management",
-    "reflection-is-release-resting-is-nothing"
+    "reflection-is-release-resting-is-nothing",
+    "five-minutes-every-two-hours"
   ],
   "context-switching-drains-energy": [
     "rest-is-an-accomplishment",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "energy-management-over-time-management",
+    "multitasking-is-head-in-two-places",
     "close-the-loop-between-work-blocks"
   ],
   "velcro-the-attachments-that-remain": [
@@ -19125,14 +19499,6 @@
     "shame-as-disconnection",
     "asking-with-shame-invites-refusal"
   ],
-  "productivity-is-the-trees-purpose-is-the-forest": [
-    "spin-vs-pedaling",
-    "doing-doesnt-equal-producing",
-    "how-you-do-productivity-reveals-what-its-for",
-    "100-middle-managers-redundant-vs-safe",
-    "joes-vc-realization-one-tenth-the-work",
-    "vp-and-the-3-day-offsite"
-  ],
   "chain-vs-tree-thinking-for-content": [
     "stage-fright-as-fuel-cell",
     "speak-from-listening",
@@ -19148,12 +19514,6 @@
     "meaning-change-vs-feeling-through",
     "questioning-assumptions",
     "self-forgiveness-as-spoken-move"
-  ],
-  "quality-of-downtime-matters": [
-    "stress-burnout-depression-progression",
-    "pleasure-capacity",
-    "optimize-for-downtime-not-productivity",
-    "notice-sensations-as-pleasure-experiment"
   ],
   "tell-them-like-an-asshole": [
     "sublimated-wants-become-politics",
@@ -19279,6 +19639,21 @@
   ],
   "dysregulated-vs-released-into-freedom|dysregulation": [
     "three-layers-of-the-work"
+  ],
+  "presence-in-the-body-while-working": [
+    "time-scarcity",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "energy-management-over-time-management",
+    "multitasking-is-head-in-two-places",
+    "overwhelm-reduces-productivity",
+    "presence-is-pleasure-not-trying",
+    "time-can-be-invested-not-just-spent",
+    "close-the-loop-between-work-blocks",
+    "five-minutes-every-two-hours",
+    "railroad-time-displaced-natural-time"
+  ],
+  "railroad-time-displaced-natural-time": [
+    "time-scarcity"
   ],
   "negative-bias-of-trauma-imprinting": [
     "trauma-mapping",
@@ -19891,6 +20266,7 @@
   "lack-of-enjoyment-as-diagnostic": [
     "apply-enjoy-to-whats-here",
     "redirect-from-doing-it-right-to-enjoying-it",
+    "approach-matters-as-much-as-hours",
     "enjoyment-as-path",
     "enjoyment-attracts",
     "enjoy-this-just-a-little-bit-more",
@@ -20352,6 +20728,7 @@
     "guilty-pleasure-vs-real-pleasure",
     "pleasure-amplifies-vs-detracts-from-emotion",
     "pleasure-in-the-expression-prevents-attack",
+    "presence-is-pleasure-not-trying",
     "tension-is-part-of-pleasure",
     "notice-sensations-as-pleasure-experiment",
     "tara-bacon-wrapped-dates"
@@ -20359,12 +20736,6 @@
   "athletes-unlocking-body-intelligence-in-business": [
     "skill-transfer-redirect",
     "use-domain-of-mastery-as-template-for-body-intelligence"
-  ],
-  "presence-in-the-body-while-working": [
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "energy-management-over-time-management",
-    "overwhelm-reduces-productivity",
-    "close-the-loop-between-work-blocks"
   ],
   "and-vs-but": [
     "surface-the-assumed-dichotomy"
@@ -20504,6 +20875,9 @@
     "ceo-pajama-house-study",
     "will-chesney-seal-collapse-and-return"
   ],
+  "false-end": [
+    "forward-fear-vs-backward-grief-of-time"
+  ],
   "losing-self-in-love-two-forms|Form B (self-abandonment)": [
     "functional-vs-dysfunctional-relationship-configuration"
   ],
@@ -20603,7 +20977,8 @@
     "problem-stuck-vs-trapped-stuck"
   ],
   "stress-from-not-doing-the-thing": [
-    "raw-ambition-vs-stories-on-ambition"
+    "raw-ambition-vs-stories-on-ambition",
+    "multitasking-is-head-in-two-places"
   ],
   "the-want-to-fit-in-vs-want-to-be-extraordinary": [
     "raw-ambition-vs-stories-on-ambition"
@@ -20675,6 +21050,7 @@
   "base-jumping-broken-hand-gratitude": [
     "adversity-as-for-not-against",
     "gratitude-as-healing-medicine",
+    "bomb-shelter-less-stressed-than-email",
     "lottery-winners-vs-accident-survivors"
   ],
   "gratitude-as-full-body-sport|felt gratitude": [
@@ -20700,6 +21076,12 @@
   ],
   "move-anger-without-aiming-it": [
     "anger-first-then-fear-out-of-stuck"
+  ],
+  "i-cant-rest-without-feeling-guilty": [
+    "approach-matters-as-much-as-hours",
+    "find-your-optimal-effort-window",
+    "rest-that-satisfies-produces-inspiration",
+    "ceo-who-rode-horses-to-quiet-the-voice"
   ],
   "joes-daughter-resentment-with-her-grieving-friend": [
     "asking-dissolves-the-not-okay-to-want",
@@ -20954,6 +21336,7 @@
   "pleasure-amplifies-vs-detracts-from-emotion": [
     "each-emotion-has-its-own-positive-flavor",
     "pleasure-in-the-expression-prevents-attack",
+    "presence-is-pleasure-not-trying",
     "notice-sensations-as-pleasure-experiment"
   ],
   "first-eight-years-are-for-the-will": [
@@ -21221,7 +21604,8 @@
     "parent-criticism-as-self-talk"
   ],
   "early-parenting-investment-compounds": [
-    "parenting-as-the-most-effective-change-agent"
+    "parenting-as-the-most-effective-change-agent",
+    "time-can-be-invested-not-just-spent"
   ],
   "rational-understanding-doesnt-equal-emotional-understanding": [
     "pep-talk-cant-override-the-body"
@@ -21231,10 +21615,14 @@
   ],
   "fifteen-minutes-in-the-body-between-work-blocks": [
     "presence-in-the-body-while-working",
-    "close-the-loop-between-work-blocks"
+    "close-the-loop-between-work-blocks",
+    "five-minutes-every-two-hours"
   ],
   "the-co-regulation-principle": [
     "presence-in-the-body-while-working"
+  ],
+  "trauma-is-present-experienced-as-past": [
+    "presence-is-pleasure-not-trying"
   ],
   "principled-board-decision": [
     "principles-free-you",
@@ -21381,6 +21769,9 @@
   ],
   "have-them-give-a-compliment-they-deeply-feel-then-find-the-exception": [
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment"
+  ],
+  "5-Star Meetings": [
+    "time-can-be-invested-not-just-spent"
   ],
   "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse": [
     "trauma-heals-in-relationship",

@@ -40,7 +40,21 @@ The Marines have the formulation: slow is steady, steady is fast. The rush of ov
 
 The signature of this in everyday life: you rush out of the house and have to come back twice for things you forgot. The "saved time" of rushing was negative. The unhurried departure would have left earlier without needing to return.
 
+"There's plenty of studies to show that... the brain does convince us that we're saving time when we're actually not. There's plenty of studies to show that what happens in our brain is our brain convinces us when we're in urgency that we're actually getting things done quicker when we're actually getting them done less well, and slower." -- Brett Kistler, Why You Never Have Enough Time
+
+The UK rush-hour study Brett cites: two drivers on a 60-mile commute, one breaking all the rules to rush, one following all of them. The rushing driver arrived approximately 90 seconds earlier. The price of the 90 seconds was the entire commute spent in adrenaline, cortisol, and stress activation. The math does not favor the rushing.
+
 This is the everyday version of the hungry-lion principle. The buzzing state is not faster than the relaxed state. It is slower because of the corrections it requires.
+
+## Parkinson's Law and Time Dilation
+
+A related effect on the time-fitting side: the work expands to fill the time available for its completion (Parkinson's Law). A meeting scheduled for 60 minutes will take 60 minutes; the same meeting scheduled for 45 minutes will often produce the same output in 45 minutes.
+
+"Oftentimes if you give yourself 45 minutes to do a meeting, you'll get the same thing done that you would have in an hour meeting." -- Brett Kistler, Why You Never Have Enough Time
+
+The implication for overwhelm: the felt-pressure of "this meeting has to fit in less time" sometimes produces better outcomes than the felt-relief of "this meeting has plenty of time." But the felt-pressure has to be tactical, not chronic. Tactically tightening one meeting's window is different from chronically running every meeting under threat. The first is an instance of [[urgency-as-motivation]] used well; the second is the overwhelm pattern this article describes.
+
+The deeper point is that time and output are not linearly coupled. Adding more hours to a task does not necessarily produce more output. The relationship between hours and output goes through a dose-response curve that includes diminishing returns and, past a certain point, negative returns (the hungry-lion regime). Most modern workers assume they are on the rising part of the curve. The data suggests many are past the peak, where adding hours actively reduces output.
 
 ## Implication for Leadership
 
@@ -117,3 +131,4 @@ Direct, slightly impatient with the assumption. Joe treats the belief that overw
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the anxiety-productivity coupling at the day-to-day level; "most people who are deeply interested in being productive are in a fear state often when they are doing productivity. There's a time poverty to it"; the link between fear-state productivity and degraded output; the Joe-Brett demonstration that operating from a present body state produces sustainable high output where fear-state productivity produces burnout)
+- 2025-09-12_Why You Never Have Enough Time (the UK rush-hour-commute study where the rule-breaking driver gained 90 seconds on a 60-mile commute; Parkinson's Law as the time-dilation counterpart to the urgency-degrades-output principle; the brain's specific cognitive distortion that urgency convinces us we are faster when we are slower)

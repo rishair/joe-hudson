@@ -90,9 +90,18 @@ The diagnostic value: the same rush signature appears whether the person calls i
 
 The implication for an AI coach: do not wait for someone to call themselves overwhelmed. If the rush signature is firing during a discussion of productivity, the read is the same and the intervention is the same. The label the person is using does not change what the body is doing.
 
+## The Future-Orientation Component
+
+A related component of the rush signature, often present even when the somatic markers are subtle: the person's attention is in the future, not in the room. Speech contains a high density of "I have to," "next," "after this," "I won't have time to." The body may even be relatively still, but the mind is rehearsing or worrying the next thing. This is the time-scarcity flavor of the rush signature.
+
+The diagnostic question that surfaces it: "Where is your attention right now?" Almost always, the answer is some version of the next thing. The naming of the future-orientation is itself an interruption. The person's attention briefly returns to the room. The body briefly drops.
+
+See [[time-scarcity]] and [[multitasking-is-head-in-two-places]] for the framework. The body in this state is doing one task while the head is in a different location. The split is what produces the felt rush, even when nothing external is actually rushed.
+
 ## Connected Concerns
 
 - [[im-overwhelmed]] -- the most direct concern this read pairs with
+- [[i-never-have-enough-time]] -- the time-scarcity flavor of this concern; this read is one of the surest signals
 - [[i-cant-trust-my-thoughts-right-now]] -- related read when the rush has crossed into trauma activation
 - [[my-inner-critic-wont-stop]] -- the rush can be the inner critic with the volume turned up
 - [[i-keep-getting-stuff-done-but-nothing-changes]] -- the productivity-specific concern this read often shows up underneath
@@ -103,3 +112,4 @@ The implication for an AI coach: do not wait for someone to call themselves over
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the productivity-specific form of the rush signature; "am I still breathing deeply, am I present, or am I bam, bam, bam"; the email-response context where the signature most commonly appears)
+- 2025-09-12_Why You Never Have Enough Time (the future-orientation component of the rush signature; the time-scarcity flavor where the body may be still but the mind is in the next thing; the diagnostic question "where is your attention right now")

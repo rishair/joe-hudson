@@ -117,6 +117,14 @@ This is not for everyone in every kind of work. Some work genuinely requires tem
 - They notice that the work they are most proud of happened during periods when they were also somatically alive
 - They notice that disembodied work and dopamine-driven productivity feel similar from inside
 
+## The Hidden Multitasking This Catches
+
+The principle also catches a form of multitasking that most people do not see as multitasking. The body is here doing one task. The head is in a different location -- the next meeting, the email thread from yesterday, the conversation that needs to happen tonight. The person believes they are single-tasking. They are not. They are running two simultaneous tracks, and the body has been treated as the vehicle that holds the first track in place while the second track runs in parallel.
+
+This is [[multitasking-is-head-in-two-places]] applied to the work context. The intervention is the same as the principle of this article: bring the head back to where the body is. Once the head and body are in one location, the visible task happens with the whole person on it. The invisible second track stops running. The work is faster, cleaner, less depleting.
+
+This also resolves part of why some workers report feeling time-starved even on days that are not actually full. The mind has been splitting between the visible task and the invisible track all day. The split is exhausting and produces the felt-experience of insufficient time. The visible task did not require the splitting; the splitting was added on top. Reducing the splitting reduces the time-scarcity. See [[time-scarcity]] for the framework.
+
 ## Upstream (What Leads Here)
 
 - When someone is in [[productivity-as-dopamine-fix]] and the dopamine loop is happening with the body offline
@@ -124,6 +132,8 @@ This is not for everyone in every kind of work. Some work genuinely requires tem
 - When the person is exhausted at the end of every work day in a way that suggests dysregulation
 - When [[i-cant-feel-my-emotions]] is in play and the work patterns are reinforcing the disconnection
 - When the person describes their best work as happening during somatically alive periods and they want to extend this
+- When [[i-never-have-enough-time]] or [[time-scarcity]] has been named and the in-body alternative needs to be made operational
+- When [[multitasking-is-head-in-two-places]] has been introduced and the body-present alternative needs to be specified
 
 ## Downstream (Where This Leads)
 
@@ -140,3 +150,4 @@ Operational and slightly surprising. The claim that body presence improves codin
 ## Sources
 
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the "even coding" formulation; "when I'm being my most productive, I'm in a very present state in my body"; the email-presence check; the programmer story about the 15 minutes of body presence between work blocks; Brett's coworking and body-doubling observation linking inattention to attachment and connection)
+- 2025-09-12_Why You Never Have Enough Time (the hidden multitasking that body-presence interrupts: the head in a different location than the body during ostensibly single-tasking work; the connection between head-body splitting and the felt experience of time scarcity)

@@ -86,6 +86,14 @@ The reliable approach: ask "what is the thing I do not want to have happen?" Alm
 
 The intellectual understanding comes after the emotional work, not before. Trying to figure out why you are overwhelmed before feeling the underlying emotion typically just adds another layer of overwhelm. The thing you cannot figure out becomes another item on the list.
 
+## Time Scarcity as a Surface of Overwhelm
+
+One of the most common surfaces overwhelm takes in the conscious mind: the felt experience of not having enough time. The person reports being time-starved, behind, racing, late, dropping balls. The conscious story is "there aren't enough hours." The underlying mechanism is the same as in any other overwhelm: emotions are not being processed in real time, the constriction-to-not-feel is taking effort, and the missing capacity gets explained by the conscious mind as missing minutes.
+
+This is why people who genuinely save time -- executives who eliminate 7 hours per week of meetings, wealthy people who delegate everything to assistants -- often do not feel they have more time. The hours that were freed up were not actually what was producing the feeling. The emotional debt was. Without addressing the emotional debt, no amount of time savings registers as available time.
+
+The framing matters for what to do. If overwhelm presents as time-scarcity ("I never have enough time"), the surface intervention (more time-management, better calendar, productivity tools) does not produce relief. The deeper intervention (process the emotion, return to presence) does. See [[time-scarcity]] for the full treatment of this specific surface, and [[i-never-have-enough-time]] for the concern as it presents.
+
 ## In Coaching
 
 When someone presents overwhelm, do not start with the to-do list. The to-do list is the visible surface. Start by asking what emotion is not being felt. If they cannot answer that directly, ask what they are scared will happen. The fear is more accessible than the unfelt emotion, and the unfelt emotion is sitting inside the feared outcome.
@@ -117,6 +125,7 @@ Direct, matter-of-fact, slightly amused at the cultural assumption that overwhel
 - Toward [[meaning-of-overwhelm-determines-direction]]: how the meaning made of overwhelm determines whether it builds or destroys
 - Toward [[knowing-yourself-is-the-only-safety]]: the deepest answer to the question of how to not feel overwhelmed
 - Toward [[reducing-overwhelm-in-organizations]]: the leadership application
+- Toward [[time-scarcity]] when the overwhelm is presenting as the felt-experience of insufficient time
 
 ## Sources
 
@@ -124,3 +133,4 @@ Direct, matter-of-fact, slightly amused at the cultural assumption that overwhel
 - 2022-10-27_What Can I Do About Overwhelm? (re-release with the same content)
 - 2024-06-28_4 Ways To Feel Your Emotions (the public-facing compression of the overwhelm-is-unfelt-emotion principle into a quick diagnostic; the "tightening down" framing as the experienceable evidence of the held emotion; positioning the four-way framework as the live intervention when overwhelm arises)
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the specific naming of overwhelm as the cover-form for unfelt anger or fear; the explicit teaching that "I have so much to do" is often anger-not-being-felt or fear-not-being-felt; overwhelm positioned as one symptom of the emotion-layer of the four-causes-of-stress framework)
+- 2025-09-12_Why You Never Have Enough Time (time-scarcity as one of the most common surfaces overwhelm takes; the executives-saved-7-hours-and-still-felt-busy and affluent-still-time-starved evidence that surface time-management does not address the underlying emotional debt)

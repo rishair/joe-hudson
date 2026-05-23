@@ -2,9 +2,9 @@
 type: example
 id: jeff-bezos-calls-his-mornings-wandering
 title: "Jeff Bezos Calls His Mornings Wandering (The Time-Scarcity Reframe)"
-aliases: ["Jeff Bezos calls his mornings wandering", "Bezos spends 3 hours wandering", "the Bezos wandering example", "Jeff Bezos has more time than you", "the founder of the most demanding company calls his mornings wandering", "the wandering example", "who has more time you or Jeff Bezos", "Bezos three hours of wandering", "the time scarcity reframe with Bezos", "the founder of Amazon wanders for 3 hours", "the wandering hours example"]
-tags: ["examples", "time", "scarcity", "anxiety", "wants", "Bezos"]
-sources: ["2024-04-22_How Do I Live Up To My Potential？"]
+aliases: ["Jeff Bezos calls his mornings wandering", "Bezos spends 3 hours wandering", "the Bezos wandering example", "Jeff Bezos has more time than you", "the founder of the most demanding company calls his mornings wandering", "the wandering example", "who has more time you or Jeff Bezos", "Bezos three hours of wandering", "the time scarcity reframe with Bezos", "the founder of Amazon wanders for 3 hours", "the wandering hours example", "Bezos 10am to 5pm decision window", "the Bezos decision window", "Bezos 7 hours of meetings", "Bezos optimal decision making hours", "Bezos got fatigued and made bad decisions after 5pm", "the 2 hours of wandering before decisions", "the wandering and decision-window combined", "Bezos optimal effort window example"]
+tags: ["examples", "time", "scarcity", "anxiety", "wants", "Bezos", "decision-making", "optimal-effort"]
+sources: ["2024-04-22_How Do I Live Up To My Potential？", "2025-09-09_Working Every Day Is Why You're Behind"]
 ---
 
 # Jeff Bezos Calls His Mornings Wandering
@@ -63,6 +63,21 @@ The choice of word punctures the secondary objection ("yes but Bezos's time is p
 
 The word also gestures at [[impartiality]] — Joe's "wandering" is the same orientation. No agenda, just being in what is. Bezos has named the practice without naming the philosophy. The example is a back door into the teaching.
 
+## The 10am-to-5pm Decision Window
+
+The same Bezos example arrives in a different teaching context with a complementary detail. After the two hours of wandering, Bezos's actual decision-making window starts at 10am and ends at 5pm. Seven hours. Past 5pm, he gets fatigued and his decisions get worse — not just slower, actually bad.
+
+"Jeff Bezos, starting at about 10 o'clock after 2 hours of what he called wandering and ending meeting at 5 was the optimal amount of time that he could use to make great decisions. Otherwise, he started getting fatigued and he would make really bad decisions." -- Joe Hudson, Working Every Day Is Why You're Behind
+
+Two things are happening in this framing:
+
+- **The window is shorter than most people would assume.** Seven hours of decisions, not twelve or fourteen. The person running Amazon found that his ceiling on quality decision-making was a full workday's worth — but a normal workday, not a CEO-grinding-into-the-night workday. Past the ceiling, the decisions deteriorate.
+- **The wandering and the decision window are connected.** The two hours of wandering precede the seven hours of decisions. The wandering is not a luxury; it is the input that makes the decision quality high during the window. Take away the wandering and the seven hours become worse seven hours.
+
+In this framing, the example is no longer just about time scarcity. It is about the structure of high-quality cognitive work. The principle: every person has an optimal effort window. Past it, more effort produces worse output, not just slower output. The Bezos case is a high-leverage version of this — a single bad decision at 6pm can cost years. See [[find-your-optimal-effort-window]] for the broader principle and the experimental practice that follows from this insight.
+
+The two framings of the Bezos example work together. The wandering framing is for the person who believes they have no time. The window framing is for the person who believes more hours equals more output. Both framings disconfirm the same underlying assumption: that the person who works the most produces the most. The actual data on the busiest people in the world does not support the assumption.
+
 ## Related Examples Joe Uses
 
 This example sits alongside other interruptions of the time-scarcity story:
@@ -97,3 +112,4 @@ The example is not an endorsement of Bezos or wealth. It is a data point used to
 ## Sources
 
 - 2024-04-22_How Do I Live Up To My Potential?
+- 2025-09-09_Working Every Day Is Why You're Behind (the 10am-to-5pm decision window detail: Bezos's optimal decision-making window starts after the two hours of wandering and ends at 5pm, after which he gets fatigued and makes bad decisions; the wandering and the decision window are connected — the wandering is the input that makes the decision quality high during the window; the framing positions Bezos as the canonical example for both the time-scarcity reframe AND the optimal-effort-window principle that more hours does not equal better output)

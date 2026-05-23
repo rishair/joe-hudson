@@ -76,7 +76,12 @@ The typical flow.
 5. Notice that the intellectual reason for the overwhelm becomes clear after the emotional work, not before. The reverse approach (figure out why first, then maybe feel it) tends to add weight.
 6. Return to the question of meaning. What meaning is the person making of the overwhelm? Self-blame compounds it. "This is an opportunity to learn something about myself" loosens it. See [[meaning-of-overwhelm-determines-direction]].
 
+## Related Concerns
+
+This concern often presents simultaneously with [[i-never-have-enough-time]]. The two have the same root (unfelt emotion, broken flow) but different surface vocabulary. When the surface is "I have too much to do" the work points toward overwhelm. When the surface is "there aren't enough hours" the work points toward [[time-scarcity]]. The deeper move is the same in both cases: pause, locate the unfelt emotion, allow it to move. See also [[forward-fear-vs-backward-grief-of-time]] for the time-flavored emotional split.
+
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
+- 2025-09-12_Why You Never Have Enough Time (the time-scarcity surface of this concern as a parallel front-door; the daily loop of overwhelm-driving-scrolling-driving-undersleep-driving-more-rushing)

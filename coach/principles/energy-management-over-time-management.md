@@ -90,12 +90,21 @@ The shift is from quantity (hours, tasks completed) to quality (what is the ener
 
 The action that follows from the diagnostic: for each depleting activity, find a way to do it that energizes or stop doing it. For each energizing activity, do more of it. Over a year, the cumulative effect is dramatic.
 
+## The Time-Investment Cousin
+
+There is a sibling principle that operates at the structural rather than the energetic layer: [[time-can-be-invested-not-just-spent]]. Energy management asks "what is draining and what is replenishing my capacity right now?" Time-investment asks "what can I do today that gives me time back next month or next year?"
+
+The two principles pair. A person who manages energy day-to-day but never makes time-investments will sustain longer but not gain leverage. A person who makes time-investments but does not manage energy will burn out before the investments mature. The combination is what produces sustainable high-output operating: regulated daily energy, plus structural moves that progressively eliminate the need to spend the energy.
+
+Both are alternatives to time-management-as-fitting-more-in. Time management assumes the day is a container to fill; energy management asks about the cost of the filling; time-investment asks about reshaping the container so less needs to be filled.
+
 ## Upstream (What Leads Here)
 
 - When [[im-burned-out]] is present and the person is operating from a time-management frame that is not working.
 - When someone reports they "don't have time" for rest, recovery, or relationships.
 - When the [[burnout-cycle]] is being addressed and the person needs an operational principle to replace "push harder."
 - When [[urgency-as-motivation]] has been named and the person is looking for a different organizing principle.
+- When [[i-never-have-enough-time]] or [[time-scarcity]] has been named and the person needs the operational principle paired with the structural reframe.
 
 ## Downstream (Where Joe Goes From Here)
 
@@ -118,3 +127,4 @@ Direct. Operational. This is a frame change with concrete behavioral implication
 
 - 2023-09-01_The Burnout Cycle
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the worked example of working 7:30 AM to 10:30 PM for seven days straight without burning out because "it's because I'm in my body when I'm sending the emails, it's because I've learned how to rest in between my things"; Joe's two named drains: back-to-back meetings without cycle-closing and context switching between modes; the pacing principle "if you get your pace right, there's just this constant flow of creativity")
+- 2025-09-12_Why You Never Have Enough Time (the time-investment frame as the structural cousin of the energetic frame; both are alternatives to time-management-as-fitting-more-in; the pairing principle that sustainable high-output requires both regulated daily energy and structural moves that reduce the need for it)

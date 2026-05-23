@@ -4,7 +4,7 @@ id: my-inner-critic-wont-stop
 title: "My inner critic won't stop / The voice in my head is constant"
 aliases: ["voice in my head won't shut up", "constant self-criticism", "I'm always criticizing myself", "I can't quiet my mind", "my mind never stops", "the critic in my head", "constant internal chatter", "my brain never shuts up", "I'm so hard on myself", "the voice in my head", "I keep rehearsing", "rumination concern", "I can't stop the loop"]
 tags: ["voice in head", "inner critic", "self-criticism", "rumination", "concerns"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2024-09-20_How to Break Free From Overthinking"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2024-09-20_How to Break Free From Overthinking", "2025-09-02_How To End 60,000 Negative Thoughts a Day"]
 ---
 
 # My inner critic won't stop / The voice in my head is constant
@@ -85,6 +85,8 @@ The branching point depends on what is underneath the surface complaint.
 
 4. Introduce a practice. Different practices fit different moments:
    - For someone who has not yet seen how constant the voice is: [[say-ouch-to-the-inner-critic]]. The entry-point experiment that makes the voice audible to the person.
+   - For someone who cannot describe what their inner voice actually says: [[narrate-every-thought-out-loud]]. The 5-minute practice of speaking every thought aloud in the original tone produces the audible-content the rest of the work depends on.
+   - For someone ready to do the introject-mapping work: [[trace-the-critical-thoughts-to-where-you-learned-them]]. The extension of the narration practice that locates the source of each critical thought.
    - For someone ready to play with multiple ways of meeting the voice: [[menu-of-responses-to-the-self-critical-voice]]. The four-response set — ouch, I-see-you're-scared, I-wonder-if-that's-true, love-and-compassion — each doing different work for different moments.
    - For someone who needs lightness: [[experimenting-with-the-voice]].
    - For someone who needs analytical rigor: [[lawyer-the-voice]] and [[untruth-in-every-thought]].
@@ -108,3 +110,4 @@ The branching point depends on what is underneath the surface complaint.
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
 - 2024-09-20_How to Break Free From Overthinking (additional reads: when the person is ready to use the voice as a guide rather than just soften it, and when the person is automatically agreeing with the voice's claims and needs to withdraw the acolyte's nod first)
+- 2025-09-02_How To End 60,000 Negative Thoughts a Day (the addition of two operational practices that pair as a sequence — [[narrate-every-thought-out-loud]] as the audibility-producing practice that captures the voice's actual content and tone, and [[trace-the-critical-thoughts-to-where-you-learned-them]] as the introject-mapping extension that locates the source of each critical thought; the addition of the five-item compressed menu of voice responses to [[menu-of-responses-to-the-self-critical-voice]]; the framing that the voice "isn't yours" — it sounds like a parent or teacher whose voice was installed — as the precondition that makes the response menu available)

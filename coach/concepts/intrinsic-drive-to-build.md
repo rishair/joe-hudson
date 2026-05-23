@@ -2,10 +2,10 @@
 type: concept
 id: intrinsic-drive-to-build
 title: "The Intrinsic Drive to Build (I Just Want More Legos)"
-aliases: ["intrinsic drive to build", "I just want more Legos", "the Lego metaphor for ambition", "we just like building shit", "the natural impulse to play and create", "the natural part of us that wants to play the game", "the art-for-art's-sake quality of accomplishment", "the natural drive to expand", "the creative impulse without meaning", "fuck the save-the-world story", "build for the sake of building", "play the game for the sake of playing", "the natural impulse to make things", "the urge to create as a baseline human drive", "why I do what I do answer", "the Lego Titanic guy", "the I-want-more-Legos answer", "the build-for-building-sake principle", "the wants-without-meaning concept", "the art-quality of accomplishment", "intrinsic creative drive", "the natural learning-by-building impulse", "wanting to grow into the next thing"]
+aliases: ["intrinsic drive to build", "I just want more Legos", "the Lego metaphor for ambition", "we just like building shit", "the natural impulse to play and create", "the natural part of us that wants to play the game", "the art-for-art's-sake quality of accomplishment", "the natural drive to expand", "the creative impulse without meaning", "fuck the save-the-world story", "build for the sake of building", "play the game for the sake of playing", "the natural impulse to make things", "the urge to create as a baseline human drive", "why I do what I do answer", "the Lego Titanic guy", "the I-want-more-Legos answer", "the build-for-building-sake principle", "the wants-without-meaning concept", "the art-quality of accomplishment", "intrinsic creative drive", "the natural learning-by-building impulse", "wanting to grow into the next thing", "the drive buried under purpose-loading", "the building impulse buried under shoulds", "creating-because-it's-fun vs creating-because-it's-purpose"]
 tags: ["intrinsic motivation", "play", "creation", "ambition", "drive", "meaning", "Legos", "art", "accomplishment"]
-related: ["art-of-accomplishment", "joy-of-accomplishment-is-the-absence-of-wants", "wonder", "nature-improves-itself", "wants-deepen-as-you-follow-them", "iterative-mindset", "wants-over-shoulds", "the-want"]
-sources: ["2025-05-09_Why Your Goals Are Making You Miserable"]
+related: ["art-of-accomplishment", "joy-of-accomplishment-is-the-absence-of-wants", "wonder", "nature-improves-itself", "wants-deepen-as-you-follow-them", "iterative-mindset", "wants-over-shoulds", "the-want", "i-cant-enter-my-creative-work", "importance-makes-the-task-un-fun", "collapse-the-special-activity-into-the-ordinary-moment"]
+sources: ["2025-05-09_Why Your Goals Are Making You Miserable", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)"]
 ---
 
 # The Intrinsic Drive to Build (I Just Want More Legos)
@@ -66,6 +66,16 @@ The remedy is not finding a new purpose. The remedy is listening for what the sy
 
 See [[whats-next-after-i-reached-my-big-goal]] for the related concern, especially the variant where the conventional ambition has run out and the person is looking for the next driver.
 
+## The Inverse Case: When Purpose-Loading Buries the Drive
+
+The Lego answer says the drive operates without justification. The inverse problem is what happens when someone has been justifying the drive for years — when "I should be creating because that's my purpose" has been layered on top of what was originally just a wanting-to-build. The justification kills the drive it was supposed to honor.
+
+The artist with the 15-year creative block is the canonical case. She had been an artist her whole life. She loved making things. The studio existed; the materials existed; the impulse existed. What got installed on top, over years, was the purpose-loading: "I'm an artist, I should be creating because that's my purpose in life, I'm afraid I'm going to die having missed it." The loading converted the building from something she wanted into something she should. The should was incompatible with the drive. The drive went into hiding.
+
+The Lego answer is the structural remedy. "What if you just got to build for the sake of building?" The artist's case requires the addition: "What if it doesn't have to be your purpose? What if it can just be what you enjoy doing?" See [[importance-makes-the-task-un-fun]] for the bidirectionality — the importance is the cage; unimportance is the freedom. The Lego answer is unimportance applied to ambition. The Legos do not have to be the Titanic. They do not have to save the world. They do not have to be the artist's purpose. They are just the next thing to play with.
+
+The clinical sign that this is operating: the person describes wanting to build, has the conditions for building, and reports they never build. The build-without-meaning answer is unavailable to them because they have been told (or have told themselves) that the building has to mean something. The work is not to add motivation. The work is to drop the meaning-layer that has buried the drive. See [[i-cant-enter-my-creative-work]] for the canonical concern; [[collapse-the-special-activity-into-the-ordinary-moment]] for the move that drops the cage around the activity.
+
 ## The Connection to Children at Play
 
 The clearest model for the Lego answer is a child at play. The child does not need a justification to play with Legos. The play is its own point. The child is intrinsically motivated to expand, learn, build, try, fail, try again. The drive is visible and obvious.
@@ -98,6 +108,7 @@ The diagnostic shift: ask what you would build if you didn't need a reason. If s
 - The question "why are you still doing this?" produces only strategic answers, no felt-pull answers
 - [[whats-next-after-i-reached-my-big-goal]] is the concern and the next thing needs to be discovered from the intrinsic drive rather than from the meaning-layer
 - A person is asking what they want and the only answers they generate are justifications
+- An artist or creative person is in [[i-cant-enter-my-creative-work]] — the drive is buried under purpose-loading and the work is impossible because it has been made too important to do
 
 ## Downstream (Where Joe Goes From Here)
 
@@ -116,3 +127,4 @@ Joe delivers this concept with a certain delight. The Lego answer is itself the 
 ## Sources
 
 - 2025-05-09_Why Your Goals Are Making You Miserable
+- 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) — the inverse case where purpose-loading buries the intrinsic drive; the 15-year creative block in an artist who has had the drive her whole life but cannot access it because she has loaded it with "I should be creating because that's my purpose"; the structural addition to the Lego answer for cases where the meaning-layer has been installed over the drive and needs to be dropped before the drive can operate cleanly

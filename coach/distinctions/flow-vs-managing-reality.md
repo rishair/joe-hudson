@@ -78,6 +78,18 @@ What was missing was not flow during the management. What was missing was the pr
 
 The lesson: even when management is necessary, the internal piece (the feeling) cannot be skipped. The management drains capacity. The feeling restores it. Without the feeling, the management accumulates a debt that eventually has to be paid.
 
+## Flow Can Be High-Stress (Parachute, Pickleball, Bomb Shelter)
+
+The casual picture of flow is calm, slow, gentle. The actual phenomenology of flow includes states that look stressful from outside. The pickleball player rushing to the net. The skydiver tracking 5 seconds to parachute deployment. The friend in a bomb shelter while a building down the street is destroyed (see [[bomb-shelter-less-stressed-than-email]]). These are flow. They are not managing reality. They are fully responsive to a present moment that happens to be intense.
+
+The distinction is internal, not external. The pickleball player's body is racing. So is the manager's body in back-to-back meetings. The pickleball player is in flow. The manager is in management. The difference is whether the attention is in the moment or in the next moment.
+
+A specific feature of flow under high-stakes: the body's time-tracking is precise. The skydiver knows when 5 seconds have passed, without a watch. The basketball player knows when there is half a second left on the shot clock. The body keeps time better in flow than the clock-watching mind keeps it out of flow. This is the inverse of the standard story (that you "lose track of time" in flow). Both can be true: the clock-mind loses track, and the body's other timekeeping becomes more accurate. See [[time-scarcity]] for the underlying mechanism.
+
+"You can track time better when you're not thinking about time, when you're present." -- Brett Kistler, Why You Never Have Enough Time
+
+The implication for coaching: do not equate "calm" with "flow" or "active" with "management." The diagnostic is whether the person is in the body that is here, doing what is here, or running a parallel track of tracking, planning, and worrying.
+
 ## In Coaching
 
 When someone presents [[im-overwhelmed]], the distinction can be brought in early: "Were you in flow before this started? When did the switch happen?" The question can locate the moment of shift, which is often more workable than the larger overwhelm.
@@ -92,3 +104,4 @@ Plain, almost geometric. The distinction is precise. Joe uses the river metaphor
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
+- 2025-09-12_Why You Never Have Enough Time (the high-stress-can-still-be-flow extension: pickleball, parachute deployment, bomb shelter; the body's precise time-tracking in flow as inverse of the standard "lose track of time" story; the diagnostic that the distinction is internal not external)

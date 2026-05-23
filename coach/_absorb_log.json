@@ -8332,15 +8332,126 @@
     },
     {
       "folder": "2025-09-02_How To End 60,000 Negative Thoughts a Day",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T19:57:39Z",
+      "articles_created": [
+        "coming-to-your-senses",
+        "three-categories-of-downregulation",
+        "downregulation-handles-the-symptom-not-the-source",
+        "dont-let-downregulation-become-avoidance",
+        "narrate-every-thought-out-loud",
+        "trace-the-critical-thoughts-to-where-you-learned-them"
+      ],
+      "articles_updated": [
+        "voice-in-the-head",
+        "menu-of-responses-to-the-self-critical-voice",
+        "im-so-stressed-out",
+        "my-inner-critic-wont-stop",
+        "four-causes-of-stress"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:11:30Z"
+    },
+    {
+      "folder": "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:58:04Z",
+      "articles_created": [
+        "i-cant-enter-my-creative-work",
+        "collapse-the-special-activity-into-the-ordinary-moment",
+        "name-the-pattern-firing-now-as-the-art-being-made",
+        "the-elevator-descent-to-source",
+        "said-want-without-felt-want"
+      ],
+      "articles_updated": [
+        "importance-makes-the-task-un-fun",
+        "intrinsic-drive-to-build",
+        "redirect-from-doing-it-right-to-enjoying-it",
+        "i-procrastinate-only-on-the-thing-that-matters-most",
+        "i-cant-find-my-purpose",
+        "the-trying-is-the-pattern-firing-now"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T20:15:32Z"
+    },
+    {
+      "folder": "2025-09-09_Working Every Day Is Why You're Behind",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:12:19Z",
+      "articles_created": [
+        "i-cant-rest-without-feeling-guilty",
+        "approach-matters-as-much-as-hours",
+        "find-your-optimal-effort-window",
+        "ceo-who-rode-horses-to-quiet-the-voice",
+        "rest-that-satisfies-produces-inspiration",
+        "feel-the-part-of-you-already-at-rest"
+      ],
+      "articles_updated": [
+        "rest-is-an-accomplishment",
+        "say-ouch-to-the-inner-critic",
+        "jeff-bezos-calls-his-mornings-wandering",
+        "optimize-for-downtime-not-productivity",
+        "inner-critic-prevents-rest-and-integration"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:25:46Z"
+    },
+    {
+      "folder": "2025-09-12_Why You Never Have Enough Time",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:16:23Z",
+      "articles_created": [
+        "i-never-have-enough-time",
+        "time-scarcity",
+        "forward-fear-vs-backward-grief-of-time",
+        "time-can-be-invested-not-just-spent",
+        "multitasking-is-head-in-two-places",
+        "five-minutes-every-two-hours",
+        "bomb-shelter-less-stressed-than-email",
+        "joes-meditation-retreat-becomes-the-move",
+        "railroad-time-displaced-natural-time"
+      ],
+      "articles_updated": [
+        "overwhelm",
+        "im-overwhelmed",
+        "the-rush-signature",
+        "close-the-loop-between-work-blocks",
+        "energy-management-over-time-management",
+        "presence-in-the-body-while-working",
+        "overwhelm-reduces-productivity",
+        "flow-vs-managing-reality"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:34:17Z"
+    },
+    {
+      "folder": "2025-09-12_Your Emotions Control Your Time (Why We Always Feel So Busy)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:26:57Z",
+      "articles_created": [],
+      "articles_updated": [
+        "time-scarcity",
+        "i-never-have-enough-time",
+        "five-minutes-every-two-hours",
+        "multitasking-is-head-in-two-places",
+        "time-can-be-invested-not-just-spent",
+        "bomb-shelter-less-stressed-than-email",
+        "forward-fear-vs-backward-grief-of-time"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:29:05Z"
+    },
+    {
+      "folder": "2025-09-16_Pleasure Is What Makes Healing Possible",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T20:29:38Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)",
+      "folder": "2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T19:58:04Z",
+      "claimed_at": "2026-05-23T20:35:57Z",
       "articles_created": [],
       "articles_updated": []
     }

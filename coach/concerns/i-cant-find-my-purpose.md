@@ -125,6 +125,7 @@ A typical flow when this concern surfaces.
 - [[how-do-i-be-happy]]: similar shape — happiness as something to be found by strategy when it is actually a receive.
 - [[i-cant-find-love]]: structurally parallel. The searching for love is the search-for-purpose translated to relationships.
 - [[i-feel-stuck]]: often co-presents. The stuckness can be the body's response to years of searching with no felt traction.
+- [[i-cant-enter-my-creative-work]]: the variant for people who already know what their thing is (creating) and have loaded the activity with so much purpose-weight that they can no longer do it. The search-for-purpose has been resolved into a should-be-doing-the-thing-I've-identified-as-my-purpose, which produces a different shape of stuckness — at the threshold of the work, not in the search for what the work is.
 
 ## Sources
 
