@@ -4,8 +4,8 @@ id: ask-what-is-the-procrastination-telling-you
 title: "Ask What the Procrastination Is Telling You (Wonder, Not Force)"
 aliases: ["ask what the procrastination is telling you", "ask the procrastination", "what is your procrastination telling you", "what is the not-doing about", "what does the part that won't do it know", "the curiosity move for procrastination", "investigate the procrastination", "interview the not-doing", "the wonder move for procrastination", "wonder at the procrastination", "approach procrastination with wonder", "the diagnostic question for procrastination", "the listening move for procrastination", "what is the wisdom in your not-doing", "what's the procrastination protecting", "what's the not-doing knowing", "the curiosity-not-force move", "stop bullying and start asking", "the meta-question for procrastination", "the listening-to-procrastination move", "what does your procrastination have to say"]
 tags: ["move", "procrastination", "wonder", "curiosity", "diagnostic", "self-inquiry", "listening", "wisdom"]
-related: ["procrastination-is-wisdom", "three-reasons-for-procrastination", "the-bully-passive-aggressive-loop", "three-brain-alignment-required-for-action", "wonder", "look-for-friction-not-the-answer", "what-is-this-trying-to-do-for-you", "what-would-you-have-to-feel"]
-sources: ["2025-09-23_When You Know What To Do But You Just Don't Do It"]
+related: ["procrastination-is-wisdom", "three-reasons-for-procrastination", "the-bully-passive-aggressive-loop", "three-brain-alignment-required-for-action", "wonder", "look-for-friction-not-the-answer", "what-is-this-trying-to-do-for-you", "what-would-you-have-to-feel", "procrastination-requires-self-abuse", "imagine-doing-it-without-self-abuse", "prioritization-vs-procrastination", "you-procrastinate-on-2-of-100-things"]
+sources: ["2025-09-23_When You Know What To Do But You Just Don't Do It", "2025-09-26_How to End Procrastination Now"]
 ---
 
 # Ask What the Procrastination Is Telling You

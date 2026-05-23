@@ -4,7 +4,7 @@ id: reflection-after-an-hour
 title: "Reflection After an Hour (What Did I Actually Do?)"
 aliases: ["reflection after an hour", "the hourly reflection", "the what-did-I-actually-do practice", "the post-hour check", "what did I actually move forward", "the responded-to-people-isn't-a-thing-you-do practice", "Joe's hour-check practice", "the productivity reality check", "what did I move forward in the last hour", "the spin-detection practice", "the throughput-vs-leverage check practice", "what did I really do practice", "the moment of reflection productivity practice", "the after-an-hour-what-did-I-actually-do practice"]
 tags: ["practice", "productivity", "reflection", "diagnostic", "presence"]
-related: ["spin-vs-pedaling", "i-keep-getting-stuff-done-but-nothing-changes", "doing-doesnt-equal-producing", "make-it-redundant-not-just-done", "productivity-is-the-trees-purpose-is-the-forest", "stop-to-feel-the-anxiety-underneath-the-productivity"]
+related: ["spin-vs-pedaling", "i-keep-getting-stuff-done-but-nothing-changes", "doing-doesnt-equal-producing", "make-it-redundant-not-just-done", "productivity-is-the-trees-purpose-is-the-forest", "stop-to-feel-the-anxiety-underneath-the-productivity", "thirty-thousand-foot-view-direction-check", "fourteen-day-time-experiment"]
 sources: ["2025-01-17_Productivity Is Making You Unproductive"]
 ---
 
@@ -70,6 +70,12 @@ Joe pairs the hourly reflection with a slower version:
 "There's something really sweet about retrospectively looking at how did I spend my week. Is that how I want to spend my week? That's also really useful. It's not quite in the moment, but it's, it's in the very near term." -- Joe Hudson, Productivity Is Making You Unproductive
 
 The week-level retrospective catches what the hourly reflection cannot: the structural patterns. A week of hours that each looked fine in isolation can produce a week-level retrospective that surfaces a structural problem with how the time is being spent. Running both rhythms is the practice in full.
+
+## The Macro Counterpart (30,000-Foot View)
+
+A third altitude exists above the week-level retrospective. The hourly check asks "did this hour produce something?" The weekly retrospective asks "did this week look the way I wanted?" The 30,000-foot view asks "is this getting me where I want to go at all?" See [[thirty-thousand-foot-view-direction-check]].
+
+The three altitudes catch different failure modes. The hourly reflection alone misses direction-drift. The 30,000-foot view alone misses hourly spin. A person with full coverage of all three altitudes is unlikely to spend long stretches doing work that is either non-productive at the hour level or pointed in the wrong direction at the multi-month level. Most people run zero of the three. Even one is a major upgrade. All three is structural.
 
 ## What This Practice Is Not
 

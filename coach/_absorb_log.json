@@ -8547,15 +8547,78 @@
     },
     {
       "folder": "2025-09-26_How to End Procrastination Now",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T21:05:08Z",
+      "articles_created": [
+        "procrastination-requires-self-abuse",
+        "prioritization-vs-procrastination",
+        "look-forward-to-judgment",
+        "you-procrastinate-on-2-of-100-things",
+        "imagine-doing-it-without-self-abuse",
+        "pressure-makes-you-present",
+        "do-the-known-skip-the-unknown",
+        "parole-before-vs-after-lunch",
+        "joes-customer-service-24-hour-wait-example",
+        "the-three-year-old-then-exacting-editor",
+        "dont-reward-kids-for-the-thing-you-want",
+        "teach-body-before-intellect"
+      ],
+      "articles_updated": [
+        "procrastination-is-wisdom",
+        "three-reasons-for-procrastination",
+        "the-bully-passive-aggressive-loop",
+        "iterative-mindset",
+        "importance-makes-the-task-un-fun",
+        "urgency-as-motivation",
+        "mit-media-lab-principle",
+        "ask-what-is-the-procrastination-telling-you",
+        "redirect-from-doing-it-right-to-enjoying-it"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:26:25Z"
+    },
+    {
+      "folder": "2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T21:27:22Z",
+      "articles_created": [
+        "joes-three-stage-journey-out-of-procrastination"
+      ],
+      "articles_updated": [
+        "procrastination-requires-self-abuse",
+        "prioritization-vs-procrastination",
+        "iterative-mindset",
+        "mit-media-lab-principle",
+        "the-three-year-old-then-exacting-editor",
+        "look-forward-to-judgment",
+        "joes-customer-service-24-hour-wait-example",
+        "parole-before-vs-after-lunch",
+        "teach-body-before-intellect",
+        "dont-reward-kids-for-the-thing-you-want",
+        "pressure-makes-you-present",
+        "do-the-known-skip-the-unknown"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:27:27Z"
+    },
+    {
+      "folder": "2025-09-30_Escape Time Anxiety\uff1a Your 14-Day Experiment",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T21:28:45Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)",
+      "folder": "2025-10-02_Why Can\u2019t I Get My Business Off The Ground\uff1f (Coaching With Joe Hudson)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T21:06:01Z",
+      "claimed_at": "2026-05-23T21:32:39Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2025-10-07_Ambitious But Afraid\uff1f Here's What's Happening Beneath",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T21:33:14Z",
       "articles_created": [],
       "articles_updated": []
     }

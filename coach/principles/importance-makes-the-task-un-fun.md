@@ -5,7 +5,7 @@ title: "Importance Makes the Task Un-Fun (And You Procrastinate on Things That F
 aliases: ["importance makes the task un-fun", "the only thing making it not fun is that you somehow think it's important", "importance kills fun", "importance creates the un-fun", "you procrastinate on things that feel like shit", "importance is the engine of procrastination", "loaded importance makes the work intolerable", "the importance-load principle", "the importance-loaded work cannot be enjoyed", "if it's important you'll procrastinate", "if it's fun you'll do it", "the importance-vs-fun trade", "the importance-procrastination link", "high stakes equals procrastination", "the somehow-think-it's-important problem", "thinking it's important is what makes it not fun", "unimportance is the freedom", "it isn't important that's the best thing about art", "the unimportance frees you to do it", "the freedom is in the unimportance", "if it doesn't matter you can do it", "the not-mattering as the door", "the deflation as freedom", "art-isn't-important freedom", "importance is the cage unimportance is the door", "the freedom-from-importance principle", "the it's-not-important release", "unimportance as the door", "the freedom-of-it-doesn't-matter principle", "the it-doesn't-matter-it's-just-art teaching", "the doesn't-matter-it's-just-art teaching"]
 tags: ["principle", "importance", "fun", "enjoyment", "procrastination", "perfectionism", "engagement", "stakes", "freedom", "unimportance", "art"]
 related: ["the-perfectionism-that-stops-you-from-starting", "perfectionism", "redirect-from-doing-it-right-to-enjoying-it", "enjoyment-as-path", "be-a-good-boss-to-yourself", "voice-creates-what-it-fears", "what-was-x-going-to-get-you", "i-procrastinate-only-on-the-thing-that-matters-most", "consciousness-is-the-product", "lack-of-enjoyment-as-diagnostic", "i-cant-enter-my-creative-work", "collapse-the-special-activity-into-the-ordinary-moment", "intrinsic-drive-to-build", "art-of-accomplishment", "three-reasons-for-procrastination", "procrastination-is-wisdom"]
-sources: ["2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-09-23_When You Know What To Do But You Just Don't Do It"]
+sources: ["2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-09-23_When You Know What To Do But You Just Don't Do It", "2025-09-26_How to End Procrastination Now"]
 ---
 
 # Importance Makes the Task Un-Fun
@@ -136,6 +136,14 @@ The artist's case extends the principle into identity-loaded creative and meanin
 ## Tone
 
 Direct and slightly dry. Joe delivers this principle without sentimentality. The mechanism is mechanical — importance produces dread produces procrastination — and the compression "you procrastinate on things that feel like shit" is matter-of-fact. The lightness comes from the contrast with how heavy the person had been making it. Joe makes it feel ordinary.
+
+## The Connection to the Self-Abuse Engine
+
+The principle also has a direct line to the deeper teaching that [[procrastination-requires-self-abuse]]. The importance-loading and the self-abuse engine are mutually reinforcing: importance produces dread that produces refusal, the refusal triggers self-attack ("why can't I just do this"), the self-attack adds more weight to the importance ("now I have to do this *and* prove I'm not lazy"), the cycle deepens.
+
+The corollary: dropping the importance-load is one of the operational moves that softens the self-abuse engine. Without the loaded importance, there is much less for the bully voice to attack about. The task becomes ordinary. The person becomes available to do it (or not do it, as ordinary prioritization). The two moves — drop the importance and soften the self-abuse — are siblings.
+
+See [[procrastination-requires-self-abuse]] for the upstream principle and [[imagine-doing-it-without-self-abuse]] for the related thought experiment. The skydiving case Joe uses there — never procrastinated on opening his parachute despite real life-or-death stakes — is the inverse of this principle: high stakes without self-abuse produces no procrastination, because the importance is not loaded onto the self-evaluation. The parachute pull is what it is. The website-with-loaded-importance is not because the self has been hung on the outcome.
 
 ## Sources
 

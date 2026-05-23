@@ -4,8 +4,8 @@ id: mit-media-lab-principle
 title: "Go to What You Know Least About, Do the Simplest Experiment to Learn the Most (The MIT Media Lab Principle)"
 aliases: ["MIT Media Lab principle", "go to what you know least about", "simplest experiment to learn the most", "build the unknown first", "the build-the-unknown-first principle", "do the simplest experiment to learn the most", "the MIT principle", "the highest-information experiment", "start at the place of least knowing", "the chassis principle", "build the chassis first not last", "the least-known-first principle", "the highest-leverage experiment is the unknown one", "the simplest-experiment principle", "highest-information-per-iteration"]
 tags: ["principle", "experimentation", "leverage", "efficiency", "engineering", "MIT", "innovation"]
-related: ["iterative-mindset", "write-50-experiments-before-starting", "dont-take-my-word-for-it", "frame-it-as-an-experiment", "process-over-result", "team-as-scientific-method", "embrace-intensity"]
-sources: ["2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
+related: ["iterative-mindset", "write-50-experiments-before-starting", "dont-take-my-word-for-it", "frame-it-as-an-experiment", "process-over-result", "team-as-scientific-method", "embrace-intensity", "do-the-known-skip-the-unknown", "three-reasons-for-procrastination", "first-experiments-should-contradict-assumptions"]
+sources: ["2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life", "2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)"]
 ---
 
 # Go to What You Know Least About, Do the Simplest Experiment to Learn the Most
@@ -48,6 +48,16 @@ Joe extends the principle from engineering to personal development. The same log
 
 The application: look at your life. What is the part you know the least about? What is the place where you have not yet experimented? That is where the next experiment goes. The areas you already understand can wait. The areas you do not understand will, if left alone, eventually force a reorganization of everything else.
 
+## The Procrastination Connection
+
+The MIT principle has a behavioral mirror in chronic procrastination. People who are not applying the principle are usually doing the inverse: doing everything they already know how to do, then stalling at the unknown part. See [[do-the-known-skip-the-unknown]] for the pattern at length. The tech CEO who never moves into sales is the canonical example.
+
+> "Typically what I see is a tech CEO who's really tech-oriented, never move into sales. And it can kill companies. Some companies really require that sales or marketing, and it'll kill the company because that's the thing they didn't know that they didn't feel good about, rather than doing that first, which is far more successful because then you know what the customer actually wants because you've tried to sell them it, and then you're building something that's for the customer instead of something that you thought was a good idea for the customer." -- Joe Hudson, I Don't Procrastinate Anymore
+
+The MIT principle is the structural correction to the avoidance pattern. The avoidance pattern says: do what you know first, defer the unknown indefinitely. The MIT principle says: do the unknown first, build the rest around what you learn. The two are the same structural decision made in opposite directions; the principle is the conscious version, the avoidance pattern is the unconscious version.
+
+The cost of the avoidance version: products built for imagined customers, companies that run out of money because the sales work was deferred, pitch decks that skip the slides about how the business actually works, unfinished projects with all the easy parts polished and the hard part missing. The cost is large because the unknown is where the leverage is — exactly the structural point the MIT principle makes — and avoiding the unknown means avoiding the leverage.
+
 ## The Application to High-Stakes Decisions
 
 When a decision is high-stakes and there is genuine fear of getting it wrong (a country in a war, a company facing a market threat), the principle says: do not run the experiment on the high-stakes part. Do what you know works on the high-stakes part. Run the experiments on the lower-stakes parts that you know least about, and let the learning from those experiments inform the high-stakes part.
@@ -89,3 +99,4 @@ Joe delivers this with the energy of someone who has watched it work in his own 
 
 - 2024-10-11_How Experiments Will Change Your Life (the MIT Media Lab principle named directly; the car-and-chassis worked example; the application to self-awareness; the application to high-stakes decisions like the Ukraine war example; the extension of the principle from engineering to all domains of life)
 - 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; same MIT principle articulation and car-chassis example)
+- 2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson) (the procrastination connection — the principle as the structural correction to the avoiding-the-unknown-task pattern; the tech-CEO-avoids-sales canonical case showing how avoidance of the unknown task can kill companies; the pitch-deck "gosh and voilà" version where the slide about how the business actually works is the slide that gets skipped; the broader framing that doing the part you don't understand first is structurally more productive than doing the parts you do understand first)
