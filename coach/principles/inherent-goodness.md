@@ -5,7 +5,7 @@ title: "Inherent Goodness"
 aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants", "letting go of shame reveals goodness", "shame requires the belief you are not inherently good"]
 tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
 related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want", "if-i-were-inherently-good", "shame-as-disconnection", "natural-shame-vs-installed-shame", "dont-shame-kids-they-self-shame"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Anatomy Of Shame", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Anatomy Of Shame", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should", "2022-10-28_How to See Through Limiting Beliefs", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Inherent Goodness
@@ -105,6 +105,20 @@ See [[defense-vs-love]] for the related distinction.
 Trusting your inherent goodness is what allows the flow state. Jim Carrey-level artistic risk is not confidence in self. It is confidence in something beyond self: in the goodness that is being channeled. The artist who goes all the way trusts that if they do not hold back, things will work out, because what is moving through them is fundamentally good. This is why the art of accomplishment depends on this principle. See [[art-of-accomplishment]].
 
 "It's a confidence in something that's beyond them. It's a confidence in their inherent goodness. And so when you see that in people, like we just naturally want to follow it. We just naturally want to be a part of that." -- Joe Hudson, The Art of Accomplishment
+
+## The Connection Course Origin: Goodness Falls Out of Connection
+
+A specific genesis story Joe tells: the lesson from parenting that became the seed of his coaching work. Watching his daughter through years of [[hand-in-hand-parenting]], Joe noticed a structural fact about how the system worked. When the kid felt connected, the kid's expression in the world was already good. No moral instruction was required. No correction was required. The goodness was the natural output of the connection state.
+
+"When I saw, oh, all she needs is connection, and then her expression in the world is so much goodness, I was like, oh, that's where the Connection Course came from. If people can feel connected, the goodness just happens naturally. If people feel connected with themselves, the goodness just happens naturally. And I see it all the time. And that doesn't mean nice, it means good, like compassionate. Good to themselves." -- Joe Hudson, How to Be a Parent
+
+The observation generalizes from kids to adults. Inherent goodness is not a belief one has to install. It is an empirical fact about humans that is visible when connection is present. The work is not to add goodness to a person; the work is to restore the connection — to self, to others — and let the goodness emerge as the natural expression of the connected state.
+
+This is also why the connection-focused coaching that came out of Joe's parenting practice is structurally simpler than most coaching modalities. The work is mostly to get out of the way of what is already there, by restoring the conditions in which it is available. The conditions are the connection. The output is the goodness. The teacher does not have to install the output.
+
+The distinction in the quote is also important: "good" does not mean "nice." Nice is performance. Good is the actual quality of being compassionate — to others and to oneself. A person who is in inherent goodness is not necessarily pleasant in every interaction; they are honest in every interaction, including with themselves. The honesty includes the compassion. The compassion includes the boundaries. None of it requires the management apparatus the not-inherently-good frame implies.
+
+See [[connection]] for the broader concept and [[hand-in-hand-parenting]] for the parenting practice that surfaced the observation.
 
 ## Upstream (What Leads Here)
 

@@ -132,6 +132,7 @@
     "someone-i-love-has-mental-health-issues",
     "does-saying-it-increase-your-love",
     "dont-make-it-your-job-to-prevent-their-triggers",
+    "dont-shame-kids-the-behavior-wont-change",
     "dont-use-boundaries-as-ultimatums",
     "dont-use-safety-as-control",
     "definition-of-asshole",
@@ -244,6 +245,7 @@
     "find-the-want-behind-the-should",
     "fully-feel-the-forbidden-arousal",
     "have-them-say-i-want-all-of-me-loved",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
     "mirror-to-group-then-substitute-i-for-you",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "surface-the-rejection-then-demand-its-evidence",
@@ -362,15 +364,20 @@
     "what-was-really-more-important-than-you",
     "capital-t-vs-small-t-trauma",
     "attempt-over-success-in-parenting",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "become-unnecessary",
+    "connection-is-what-young-kids-actually-need",
     "dont-shame-kids-they-self-shame",
     "experiential-before-intellectual",
     "honor-the-patterns-intent",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "inherent-goodness",
     "inner-work-as-generational-repair",
+    "kids-shouldnt-caretake-the-parent",
     "money-relationship-is-an-energetic-exchange",
+    "parenting-as-the-most-effective-change-agent",
     "punishment-when-good-stings-more",
+    "repair-is-as-important-as-getting-it-right",
     "resentment-as-unspoken-want",
     "self-abandonment-to-manage-the-other",
     "shame-dissipates-in-the-question-itself",
@@ -501,10 +508,12 @@
     "acceptance-is-not-love",
     "intra-dependent-vs-codependent",
     "asking-dissolves-the-not-okay-to-want",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "conflict-avoidance-prevents-healing",
     "dont-take-responsibility-for-anothers-happiness",
     "exhaustion-is-unexpressed-anger",
     "giving-from-desire-not-obligation",
+    "kids-shouldnt-caretake-the-parent",
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
     "obligation-cuts-off-love",
     "resentment-as-unspoken-want",
@@ -549,6 +558,7 @@
     "humility-vs-disempowerment",
     "intra-dependent-vs-codependent",
     "love-vs-nice",
+    "loving-attention-vs-consistency",
     "nice-vs-kind-from-open-heart",
     "over-control-vs-hands-off-oscillation",
     "passive-aggressive-vs-aggressive-aggressive",
@@ -559,6 +569,7 @@
     "dont-compromise-find-both-needs-met",
     "dont-take-responsibility-for-anothers-happiness",
     "dropping-roles-makes-room",
+    "kids-shouldnt-caretake-the-parent",
     "leaders-wants-are-the-organizations-wants",
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
     "money-must-flow",
@@ -1262,12 +1273,15 @@
   "every-trigger-with-your-kid-is-projection": [
     "how-do-i-deal-with-narcissistic-parent",
     "read-anger-and-help-as-fear",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
+    "connection-is-what-young-kids-actually-need",
     "contain-the-narcissist",
     "inner-work-as-generational-repair",
     "inner-work-then-they-change",
     "narcissism-as-incapacity-to-feel",
     "parenting-as-honest-mirror",
+    "repair-is-as-important-as-getting-it-right",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
     "parenting-as-coaching-domain"
   ],
@@ -1733,11 +1747,13 @@
     "look-for-friction-not-the-answer",
     "dont-call-them-a-liar-with-deflection",
     "let-it-move-through-and-clean-the-channel",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
     "purpose-is-acknowledgement-not-approval",
     "do-it-for-yourself-to-find-purpose",
     "putting-someone-above-blocks-emotion",
     "seeking-approval-pushes-people-away",
     "speaking-truth-cures-approval-seeking",
+    "the-importance-itself-is-the-selfishness",
     "you-cannot-make-people-happy",
     "speak-truth-twice-a-day",
     "eating-but-not-digesting-the-food",
@@ -1757,6 +1773,8 @@
     "pucker-and-still-say-it",
     "intuition-vs-conditioning",
     "doubt-requires-closed-heart",
+    "simultaneous-reception-is-uncontrollable",
+    "the-importance-itself-is-the-selfishness",
     "world-reorganizes-around-self-possession",
     "you-cannot-make-people-happy",
     "chase-your-own-approval",
@@ -1815,6 +1833,69 @@
     "energy-management-over-time-management",
     "reflection-is-release-resting-is-nothing",
     "you-cannot-make-people-happy"
+  ],
+  "whats-wrong-with-the-thing-theyre-judging": [
+    "how-do-i-stop-seeking-approval",
+    "i-make-money-only-when-i-hate-what-im-doing",
+    "im-fake-my-love-is-corrupt",
+    "im-judgmental-how-do-i-stop",
+    "theres-a-voice-that-says-im-fake-around-everyone",
+    "ask-whats-wrong-with-you-into-the-shame",
+    "assume-the-voice-is-right-but-not-bad",
+    "have-them-say-i-want-all-of-me-loved",
+    "is-the-shame-in-the-room-or-in-you",
+    "its-a-human-thing-redirect",
+    "skill-transfer-redirect",
+    "turn-their-coaching-back-on-them",
+    "shame-dissipates-in-the-question-itself",
+    "wanting-got-wired-to-unlovability",
+    "am-i-a-fake-coaching-session",
+    "comedian-to-coach-money-shame-session",
+    "public-speaking-coach-money-session"
+  ],
+  "keep-asking-whats-the-problem-with-that": [
+    "how-do-i-stop-seeking-approval",
+    "im-not-living-up-to-my-potential",
+    "challenge-the-premise-in-the-framing",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
+    "name-the-fear-loop-directly",
+    "the-importance-itself-is-the-selfishness"
+  ],
+  "simultaneous-reception-is-uncontrollable": [
+    "how-do-i-stop-seeking-approval",
+    "keep-asking-whats-the-problem-with-that",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
+    "acknowledging-death-compresses-life",
+    "the-importance-itself-is-the-selfishness",
+    "you-cannot-make-people-happy"
+  ],
+  "acknowledging-death-compresses-life": [
+    "how-do-i-stop-seeking-approval",
+    "i-have-a-terminal-diagnosis",
+    "someone-i-love-is-dying",
+    "every-moment-is-an-exit-point",
+    "psychedelic-of-mortality",
+    "the-abyss-is-where-you-dont-exist",
+    "functional-denial-vs-dysfunctional-denial",
+    "death-is-not-the-end-of-the-relationship",
+    "defending-the-ideal-blocks-the-relating",
+    "the-importance-itself-is-the-selfishness",
+    "say-goodbye-like-its-the-last-time",
+    "bretts-brother-scott",
+    "case-the-consultant",
+    "joes-funeral-poem-for-kase"
+  ],
+  "the-importance-itself-is-the-selfishness": [
+    "how-do-i-stop-seeking-approval",
+    "keep-asking-whats-the-problem-with-that",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
+    "acknowledging-death-compresses-life",
+    "simultaneous-reception-is-uncontrollable"
+  ],
+  "look-me-in-the-eye-and-name-the-controlling-wish": [
+    "how-do-i-stop-seeking-approval",
+    "simultaneous-reception-is-uncontrollable",
+    "the-importance-itself-is-the-selfishness"
   ],
   "authority-issues": [
     "how-do-i-stop-seeking-approval",
@@ -1928,6 +2009,7 @@
   "you-cannot-make-people-happy": [
     "how-do-i-stop-seeking-approval",
     "doubt-requires-closed-heart",
+    "simultaneous-reception-is-uncontrollable",
     "world-reorganizes-around-self-possession"
   ],
   "parts-work-made-things-worse": [
@@ -2314,6 +2396,7 @@
     "dont-use-you-in-an-apology",
     "full-understanding-of-a-behavior-dissolves-it",
     "non-defense-is-the-ocean",
+    "repair-is-as-important-as-getting-it-right",
     "seeing-through-essential-wrongness",
     "apologize-as-daily-practice-for-bad-habits",
     "five-triggers-projection-experiment",
@@ -2336,6 +2419,7 @@
     "should-i-stop-drinking",
     "who-isnt-an-imposter",
     "dont-extract-apologies",
+    "dont-shame-kids-the-behavior-wont-change",
     "blocker-emotions",
     "engineering-heartbreak-to-avoid-heartbreak",
     "fear-of-success-as-projected-failure",
@@ -2424,6 +2508,7 @@
     "full-understanding-of-a-behavior-dissolves-it",
     "immune-to-shame-through-non-defense",
     "non-defense-is-the-ocean",
+    "repair-is-as-important-as-getting-it-right",
     "sit-with-the-aftermath"
   ],
   "dont-use-you-in-an-apology": [
@@ -2768,6 +2853,7 @@
     "caring-vs-caretaking",
     "address-the-blocker-not-the-symptom",
     "adversity-as-for-not-against",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "conflict-avoidance-prevents-healing",
     "locked-down-sensitivity-is-the-gift",
     "meaning-of-overwhelm-determines-direction",
@@ -3345,6 +3431,7 @@
     "feel-the-searching-then-feel-the-opposite",
     "how-question-as-defense-against-having",
     "its-a-human-thing-redirect",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
     "talk-to-the-part-that-knows",
     "awareness-of-pattern-is-halfway-through",
     "punishing-the-remembering",
@@ -3363,6 +3450,8 @@
     "choicelessness-as-purpose-marker",
     "purpose-asks-you-to-be-scary-then-effortless",
     "purpose-cracks-you-open",
+    "simultaneous-reception-is-uncontrollable",
+    "the-importance-itself-is-the-selfishness",
     "your-gift-is-your-nature-not-your-skill",
     "i-help-people-die-better"
   ],
@@ -4199,6 +4288,7 @@
     "composing-in-the-session-itself",
     "composing-yourself-as-self-suppression",
     "apologize-to-the-other-for-what-you-do-to-yourself",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
     "visualize-the-kid-composing-themselves",
     "locked-down-sensitivity-is-the-gift",
     "what-was-done-to-you-youre-now-doing-to-yourself"
@@ -4570,7 +4660,8 @@
     "talk-to-the-part-that-knows",
     "awareness-of-pattern-is-halfway-through",
     "punishing-the-remembering",
-    "shame-dissipates-in-the-question-itself"
+    "shame-dissipates-in-the-question-itself",
+    "the-importance-itself-is-the-selfishness"
   ],
   "fear-triangle": [
     "i-feel-trapped",
@@ -5007,20 +5098,6 @@
     "three-things-to-save-a-marriage-from-disdain",
     "bretts-brother-scott"
   ],
-  "acknowledging-death-compresses-life": [
-    "i-have-a-terminal-diagnosis",
-    "someone-i-love-is-dying",
-    "every-moment-is-an-exit-point",
-    "psychedelic-of-mortality",
-    "the-abyss-is-where-you-dont-exist",
-    "functional-denial-vs-dysfunctional-denial",
-    "death-is-not-the-end-of-the-relationship",
-    "defending-the-ideal-blocks-the-relating",
-    "say-goodbye-like-its-the-last-time",
-    "bretts-brother-scott",
-    "case-the-consultant",
-    "joes-funeral-poem-for-kase"
-  ],
   "being-with-without-needing-change-as-highest-generosity": [
     "i-have-a-terminal-diagnosis",
     "someone-i-love-is-dying",
@@ -5416,6 +5493,7 @@
     "repair-phrase-as-trauma-deactivator",
     "what-was-really-more-important-than-you",
     "capital-t-vs-small-t-trauma",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "body-lies-as-much-as-mind",
     "embrace-intensity",
     "every-trigger-with-your-kid-is-projection",
@@ -5657,6 +5735,7 @@
     "walking-away-from-fight-feeling-bad",
     "if-i-were-inherently-good",
     "what-was-x-going-to-get-you",
+    "dont-shame-kids-the-behavior-wont-change",
     "art-of-accomplishment",
     "depression-four-levels",
     "emotional-fluidity",
@@ -5693,6 +5772,7 @@
     "three-month-inherent-goodness-experiment",
     "seven-limiting-beliefs",
     "team-as-scientific-method",
+    "hand-in-hand-parenting",
     "musk-deer-parable"
   ],
   "seven-limiting-beliefs": [
@@ -6365,6 +6445,7 @@
   "have-them-receive-your-listening": [
     "i-keep-feeling-misunderstood",
     "tell-it-to-god",
+    "teach-teenagers-to-be-their-own-authority",
     "you-cant-be-seen-when-youre-not-in-yourself",
     "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more"
@@ -6580,6 +6661,7 @@
     "everything-i-say-they-contradict",
     "unfelt-emotion-leaks",
     "draw-boundaries-with-kids-to-let-anger-arise",
+    "connection-is-what-young-kids-actually-need",
     "kids-respond-to-emotional-presence-not-words",
     "looking-for-a-fight-means-self-disconnection",
     "esme-just-having-my-emotions",
@@ -7319,31 +7401,15 @@
     "feel-into-it-vs-think-about-it",
     "what-was-really-more-important-than-you",
     "hold-a-perspective-without-thinking-youre-right",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
     "dont-take-responsibility-for-anothers-happiness",
     "inner-work-as-generational-repair",
+    "kids-shouldnt-caretake-the-parent",
     "obligation-cuts-off-love",
     "shame-dissipates-in-the-question-itself",
     "what-was-done-to-you-youre-now-doing-to-yourself",
     "am-i-a-fake-coaching-session",
     "comedian-to-coach-money-shame-session"
-  ],
-  "whats-wrong-with-the-thing-theyre-judging": [
-    "i-make-money-only-when-i-hate-what-im-doing",
-    "im-fake-my-love-is-corrupt",
-    "im-judgmental-how-do-i-stop",
-    "theres-a-voice-that-says-im-fake-around-everyone",
-    "ask-whats-wrong-with-you-into-the-shame",
-    "assume-the-voice-is-right-but-not-bad",
-    "have-them-say-i-want-all-of-me-loved",
-    "is-the-shame-in-the-room-or-in-you",
-    "its-a-human-thing-redirect",
-    "skill-transfer-redirect",
-    "turn-their-coaching-back-on-them",
-    "shame-dissipates-in-the-question-itself",
-    "wanting-got-wired-to-unlovability",
-    "am-i-a-fake-coaching-session",
-    "comedian-to-coach-money-shame-session",
-    "public-speaking-coach-money-session"
   ],
   "skill-transfer-redirect": [
     "i-make-money-only-when-i-hate-what-im-doing",
@@ -7392,6 +7458,8 @@
   "performing-for-love-becomes-savior-career": [
     "i-make-money-only-when-i-hate-what-im-doing",
     "coaching-as-savior-role",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
+    "kids-shouldnt-caretake-the-parent",
     "wanting-got-wired-to-unlovability",
     "comedian-to-coach-money-shame-session"
   ],
@@ -9116,11 +9184,6 @@
     "so-what-makes-you-run-away-from-fear",
     "clarity-comes-online-after-facing-fear"
   ],
-  "keep-asking-whats-the-problem-with-that": [
-    "im-not-living-up-to-my-potential",
-    "challenge-the-premise-in-the-framing",
-    "name-the-fear-loop-directly"
-  ],
   "clarity-comes-online-after-facing-fear": [
     "im-not-living-up-to-my-potential",
     "heartbreak-as-capacity-expansion",
@@ -9202,6 +9265,7 @@
     "repression-vs-management",
     "epiphany-becomes-rut",
     "feared-stories-about-emotions-sense-something-real",
+    "first-eight-years-are-for-the-will",
     "narcissism-as-incapacity-to-feel",
     "negative-emotions-precede-positive",
     "simplicity-on-the-other-side-of-complexity",
@@ -9712,6 +9776,7 @@
     "should-we-have-kids",
     "caregiving-softens-the-self",
     "parenting-as-honest-mirror",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
     "parenting-as-coaching-domain"
   ],
   "losing-yourself-in-others": [
@@ -10336,6 +10401,7 @@
     "connection-as-life-bottom-line",
     "connection-doesnt-require-the-other",
     "disconnection-precedes-decline",
+    "inherent-goodness",
     "three-effects-of-connection",
     "eye-contact-as-view-training",
     "notice-and-be-grateful-for-connection",
@@ -10345,6 +10411,7 @@
     "view",
     "ali-abdaal-coaching-session",
     "doug-hug-the-demon-financial-safety",
+    "hand-in-hand-parenting",
     "joe-and-tara-weekend-reset",
     "una-grabbing-joes-face",
     "romantic-relationships"
@@ -10502,7 +10569,9 @@
     "purpose-is-acknowledgement-not-approval",
     "doubt-requires-closed-heart",
     "seeking-approval-pushes-people-away",
+    "simultaneous-reception-is-uncontrollable",
     "speaking-truth-cures-approval-seeking",
+    "the-importance-itself-is-the-selfishness",
     "you-cannot-make-people-happy",
     "chase-your-own-approval",
     "speak-truth-twice-a-day"
@@ -10529,6 +10598,7 @@
   ],
   "dont-shame-kids-they-self-shame": [
     "criticism-posture-vs-shame-posture",
+    "dont-shame-kids-the-behavior-wont-change",
     "stay-close-and-insist",
     "welcome-the-shame-without-extracting",
     "natural-shame-vs-installed-shame",
@@ -10537,6 +10607,7 @@
     "inherent-goodness",
     "kids-release-emotions-where-they-feel-safe",
     "parenting-as-honest-mirror",
+    "parenting-as-the-most-effective-change-agent",
     "teach-teenagers-to-be-their-own-authority",
     "esme-just-having-my-emotions",
     "joes-daughter-silent-retreat",
@@ -10548,6 +10619,7 @@
     "bring-the-problem-to-your-teen",
     "draw-boundaries-with-kids-to-let-anger-arise",
     "liking-your-kid-vs-loving-your-kid",
+    "early-parenting-investment-compounds",
     "if-you-do-x-youre-telling-them-its-okay-to-do-x",
     "treat-your-kid-like-an-adult-you-respect",
     "hand-in-hand-parenting",
@@ -11475,6 +11547,7 @@
   ],
   "natural-shame-vs-installed-shame": [
     "if-i-were-inherently-good",
+    "dont-shame-kids-the-behavior-wont-change",
     "shame-as-disconnection",
     "the-elephant-in-the-room",
     "dont-shame-kids-they-self-shame",
@@ -11617,6 +11690,7 @@
   ],
   "tell-it-to-god": [
     "what-do-you-lose-if-this-belief-goes-away",
+    "look-me-in-the-eye-and-name-the-controlling-wish",
     "mirror-the-clients-own-framework-back",
     "surrender-your-way-out-not-think-your-way-out",
     "loss-of-control-and-loss-of-self-are-the-same"
@@ -12401,6 +12475,7 @@
     "listening",
     "ask-what-they-want-before-responding",
     "how-question-as-defense-against-having",
+    "loving-attention-vs-consistency",
     "searching-for-love-cuts-off-love",
     "searching-for-purpose-pushes-it-away",
     "listen-to-yourself-one-minute-a-day",
@@ -12443,12 +12518,19 @@
     "parenting-as-deep-tissue-massage",
     "do-over-after-the-anger",
     "model-emotional-movement-for-your-kids",
+    "name-when-you-cant-be-in-loving-attention",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
     "stay-close-and-insist",
     "liking-your-kid-vs-loving-your-kid",
+    "loving-attention-vs-consistency",
+    "connection-is-what-young-kids-actually-need",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "early-parenting-investment-compounds",
+    "first-eight-years-are-for-the-will",
     "if-you-do-x-youre-telling-them-its-okay-to-do-x",
     "inner-work-as-generational-repair",
     "kids-release-emotions-where-they-feel-safe",
+    "parenting-as-the-most-effective-change-agent",
     "people-want-you-in-it-with-them-not-advice",
     "presence-over-technique-in-coaching",
     "state-not-framework",
@@ -12460,14 +12542,21 @@
   ],
   "model-emotional-movement-for-your-kids": [
     "dont-manage-your-kids-into-moving-emotion",
+    "dont-shame-kids-the-behavior-wont-change",
     "do-over-after-the-anger",
     "draw-boundaries-with-kids-to-let-anger-arise",
+    "name-when-you-cant-be-in-loving-attention",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
     "emotions-are-neutral-bad-because-of-use",
-    "if-you-do-x-youre-telling-them-its-okay-to-do-x"
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "repair-is-as-important-as-getting-it-right",
+    "parenting-as-coaching-domain"
   ],
   "draw-boundaries-with-kids-to-let-anger-arise": [
     "dont-manage-your-kids-into-moving-emotion",
-    "model-emotional-movement-for-your-kids"
+    "dont-shame-kids-the-behavior-wont-change",
+    "model-emotional-movement-for-your-kids",
+    "first-eight-years-are-for-the-will"
   ],
   "teach-teenagers-to-be-their-own-authority": [
     "dont-manage-your-kids-into-moving-emotion",
@@ -12476,6 +12565,7 @@
     "stay-close-and-insist",
     "community-over-teacher",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "first-eight-years-are-for-the-will",
     "if-you-dont-stand-into-authority-others-will-vie-for-it",
     "people-want-you-in-it-with-them-not-advice",
     "treat-your-kid-like-an-adult-you-respect",
@@ -12483,6 +12573,7 @@
     "hand-in-hand-parenting",
     "joes-high-waisted-jeans-decoy",
     "joes-no-compliments-daughter",
+    "you-cant-hire-someone-to-have-your-will",
     "parenting-as-coaching-domain"
   ],
   "liking-your-kid-vs-loving-your-kid": [
@@ -12499,6 +12590,7 @@
   ],
   "if-you-do-x-youre-telling-them-its-okay-to-do-x": [
     "dont-micromanage-your-kid",
+    "dont-shame-kids-the-behavior-wont-change",
     "boundary-as-self-teaching",
     "dont-hate-your-kids-and-they-wont-hate-you",
     "kids-respond-to-emotional-presence-not-words",
@@ -12511,12 +12603,19 @@
     "bring-the-problem-to-your-teen",
     "dont-chase-your-teen-stay-available",
     "go-down-the-rabbit-hole-in-your-kids-world",
+    "name-when-you-cant-be-in-loving-attention",
     "treat-them-like-an-adult",
     "liking-your-kid-vs-loving-your-kid",
+    "connection-is-what-young-kids-actually-need",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "early-parenting-investment-compounds",
+    "first-eight-years-are-for-the-will",
     "if-you-do-x-youre-telling-them-its-okay-to-do-x",
     "meet-each-kid-where-they-are",
+    "parenting-as-the-most-effective-change-agent",
     "joe-and-lowell-tuttle",
+    "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+    "joe-cedes-house-CEO-to-tara",
     "joes-high-waisted-jeans-decoy",
     "parenting-as-coaching-domain"
   ],
@@ -12544,13 +12643,19 @@
     "go-down-the-rabbit-hole-in-your-kids-world",
     "liking-your-kid-vs-loving-your-kid",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "early-parenting-investment-compounds",
     "every-trigger-with-your-kid-is-projection",
+    "first-eight-years-are-for-the-will",
     "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "kids-shouldnt-caretake-the-parent",
     "meet-each-kid-where-they-are",
+    "parenting-as-the-most-effective-change-agent",
+    "repair-is-as-important-as-getting-it-right",
     "take-care-of-yourself-then-marriage-then-kids",
     "teach-teenagers-to-be-their-own-authority",
     "treat-your-kid-like-an-adult-you-respect",
     "connect-trip-with-your-kid",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
     "bar-couple-priority-order",
     "esme-basketball-teammate-attention-seeking",
     "esme-heartbreak-feels-good",
@@ -12561,9 +12666,11 @@
     "joe-and-lowell-tuttle",
     "joe-and-tara-weekend-reset",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+    "joe-cedes-house-CEO-to-tara",
     "joes-high-waisted-jeans-decoy",
     "joes-no-compliments-daughter",
     "una-grabbing-joes-face",
+    "you-cant-hire-someone-to-have-your-will",
     "family-as-team"
   ],
   "the-emotional-hangover-of-false-productivity": [
@@ -12754,6 +12861,32 @@
     "authenticity-in-business",
     "reducing-overwhelm-in-organizations",
     "vulnerability-in-the-workplace"
+  ],
+  "stay-close-and-insist": [
+    "dont-shame-kids-the-behavior-wont-change",
+    "bring-the-problem-to-your-teen",
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "treat-them-like-an-adult",
+    "connection-is-what-young-kids-actually-need",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "first-eight-years-are-for-the-will",
+    "kids-respond-to-emotional-presence-not-words",
+    "esme-just-having-my-emotions",
+    "parenting-as-coaching-domain"
+  ],
+  "welcome-the-shame-without-extracting": [
+    "dont-shame-kids-the-behavior-wont-change",
+    "state-no-wish-for-their-shame",
+    "dont-shame-kids-they-self-shame"
+  ],
+  "connection-is-what-young-kids-actually-need": [
+    "dont-shame-kids-the-behavior-wont-change",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
+    "early-parenting-investment-compounds",
+    "first-eight-years-are-for-the-will",
+    "parenting-as-the-most-effective-change-agent",
+    "hand-in-hand-parenting",
+    "you-cant-hire-someone-to-have-your-will"
   ],
   "dont-block-emotion-waiting-for-reason": [
     "dont-shame-your-grief-process",
@@ -13387,6 +13520,7 @@
     "model-emotional-movement-for-your-kids",
     "inner-work-as-generational-repair",
     "practice-cannot-fool-itself-in-real-conditions",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
     "hand-in-hand-parenting",
     "business-as-spiritual-practice"
   ],
@@ -13559,7 +13693,8 @@
     "fear-of-joy"
   ],
   "caring-vs-caretaking|caretaking": [
-    "boundaries"
+    "boundaries",
+    "loving-attention-vs-consistency"
   ],
   "love-vs-nice": [
     "boundaries",
@@ -13621,6 +13756,7 @@
   "im-none-of-my-own-business": [
     "channeling-quality-of-truth",
     "speak-the-elephant-from-open-heart-not-fear",
+    "the-importance-itself-is-the-selfishness",
     "friend-who-calls-you-a-dick"
   ],
   "body-lies-as-much-as-mind": [
@@ -13638,7 +13774,8 @@
   "cant-remember-what-i-said-in-flow": [
     "channeling-quality-of-truth",
     "the-butler-metaphor",
-    "speak-from-listening"
+    "speak-from-listening",
+    "simultaneous-reception-is-uncontrollable"
   ],
   "speak-from-listening": [
     "channeling-quality-of-truth",
@@ -14840,15 +14977,32 @@
     "family-as-team",
     "parenting-as-coaching-domain"
   ],
+  "make-parenting-a-shared-spiritual-practice-with-your-co-parent": [
+    "parenting-as-deep-tissue-massage",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
+    "kids-shouldnt-caretake-the-parent",
+    "hand-in-hand-parenting",
+    "joe-cedes-house-CEO-to-tara"
+  ],
   "hand-in-hand-parenting": [
     "parenting-as-deep-tissue-massage",
     "parenting-as-real-world-test-of-inner-work",
     "do-over-after-the-anger",
+    "name-when-you-cant-be-in-loving-attention",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
     "stay-close-and-insist",
+    "loving-attention-vs-consistency",
+    "connection-is-what-young-kids-actually-need",
+    "early-parenting-investment-compounds",
+    "inherent-goodness",
     "kids-release-emotions-where-they-feel-safe",
     "kids-respond-to-emotional-presence-not-words",
     "parenting-as-honest-mirror",
+    "parenting-as-the-most-effective-change-agent",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
     "esme-just-having-my-emotions",
+    "hand-in-hand-parenting",
+    "joe-cedes-house-CEO-to-tara",
     "una-grabbing-joes-face",
     "parenting-as-coaching-domain"
   ],
@@ -15500,7 +15654,12 @@
     "vietnam-malnutrition-story"
   ],
   "inner-work-as-generational-repair": [
-    "scapegoat-as-marriage-stabilizer"
+    "scapegoat-as-marriage-stabilizer",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
+    "kids-shouldnt-caretake-the-parent",
+    "parenting-as-the-most-effective-change-agent",
+    "repair-is-as-important-as-getting-it-right",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent"
   ],
   "the-elephant-in-the-room": [
     "scapegoat-as-marriage-stabilizer",
@@ -15542,6 +15701,7 @@
   ],
   "do-over-after-the-anger": [
     "stages-of-couple-anger-work-maturation",
+    "repair-is-as-important-as-getting-it-right",
     "hand-in-hand-parenting"
   ],
   "welcoming-emotions-fully": [
@@ -15577,6 +15737,7 @@
     "the-two-symmetric-fears-of-each-spouse",
     "love-vs-nice",
     "hold-back-from-relationship-is-what-needs-healing",
+    "simultaneous-reception-is-uncontrollable",
     "speaking-truth-cures-approval-seeking",
     "speak-truth-twice-a-day",
     "alex-bell-told-joe-he-lied",
@@ -15738,17 +15899,9 @@
   "inside-out-vs-top-down-observation": [
     "be-intimate-with-the-feeling"
   ],
-  "stay-close-and-insist": [
-    "bring-the-problem-to-your-teen",
-    "draw-boundaries-with-kids-to-let-anger-arise",
-    "treat-them-like-an-adult",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "kids-respond-to-emotional-presence-not-words",
-    "esme-just-having-my-emotions",
-    "parenting-as-coaching-domain"
-  ],
   "people-want-you-in-it-with-them-not-advice": [
     "bring-the-problem-to-your-teen",
+    "loving-attention-vs-consistency",
     "attempt-over-success-in-parenting",
     "being-with-without-needing-change-as-highest-generosity"
   ],
@@ -15766,8 +15919,13 @@
   ],
   "take-care-of-yourself-then-marriage-then-kids": [
     "dont-chase-your-teen-stay-available",
+    "name-when-you-cant-be-in-loving-attention",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
+    "loving-attention-vs-consistency",
     "dont-hate-your-kids-and-they-wont-hate-you",
     "kids-respond-to-emotional-presence-not-words",
+    "kids-shouldnt-caretake-the-parent",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
     "bar-couple-priority-order",
     "joe-and-tara-weekend-reset",
     "parenting-as-coaching-domain"
@@ -15850,6 +16008,7 @@
     "go-down-the-rabbit-hole-in-your-kids-world",
     "active-vs-passive-listening",
     "point-at-truth-from-where-they-stand",
+    "simultaneous-reception-is-uncontrollable",
     "the-question-asker-wins-not-the-presenter",
     "parenting-as-coaching-domain"
   ],
@@ -15966,6 +16125,36 @@
     "you-can-only-fix-yourself-in-a-fight",
     "tara-fights-that-destroyed-joes-narcissism"
   ],
+  "loving-attention-vs-consistency": [
+    "name-when-you-cant-be-in-loving-attention",
+    "pre-agree-on-the-handoff-signal-with-co-parent",
+    "attunement-strategy-becomes-the-adult-relational-pattern",
+    "connection-is-what-young-kids-actually-need",
+    "early-parenting-investment-compounds",
+    "parenting-as-the-most-effective-change-agent",
+    "repair-is-as-important-as-getting-it-right",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
+    "hand-in-hand-parenting",
+    "parenting-as-coaching-domain"
+  ],
+  "pre-agree-on-the-handoff-signal-with-co-parent": [
+    "name-when-you-cant-be-in-loving-attention",
+    "loving-attention-vs-consistency",
+    "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
+    "esme-just-having-my-emotions",
+    "hand-in-hand-parenting",
+    "joe-cedes-house-CEO-to-tara",
+    "parenting-as-coaching-domain"
+  ],
+  "kids-shouldnt-caretake-the-parent": [
+    "name-when-you-cant-be-in-loving-attention",
+    "parenting-as-coaching-domain"
+  ],
+  "name-when-you-cant-be-in-loving-attention": [
+    "pre-agree-on-the-handoff-signal-with-co-parent",
+    "loving-attention-vs-consistency",
+    "parenting-as-coaching-domain"
+  ],
   "pucker-before-truth": [
     "pucker-and-still-say-it",
     "intuition-vs-conditioning",
@@ -16028,10 +16217,6 @@
     "state-not-framework",
     "joes-extemporaneous-vc-speech",
     "speaking-authentically"
-  ],
-  "welcome-the-shame-without-extracting": [
-    "state-no-wish-for-their-shame",
-    "dont-shame-kids-they-self-shame"
   ],
   "presence-in-the-body-while-working": [
     "stop-to-feel-the-anxiety-underneath-the-productivity",
@@ -16448,6 +16633,16 @@
     "family-as-team",
     "parenting-as-coaching-domain"
   ],
+  "una-grabbing-joes-face": [
+    "connection-is-what-young-kids-actually-need",
+    "kids-respond-to-emotional-presence-not-words",
+    "parenting-as-coaching-domain"
+  ],
+  "attunement-strategy-becomes-the-adult-relational-pattern": [
+    "connection-is-what-young-kids-actually-need",
+    "parenting-as-the-most-effective-change-agent",
+    "parenting-as-coaching-domain"
+  ],
   "marketing-as-the-beginning": [
     "consciousness-is-the-product",
     "follow-the-demand"
@@ -16510,9 +16705,21 @@
     "dont-hate-your-kids-and-they-wont-hate-you",
     "parenting-as-coaching-domain"
   ],
+  "dont-shame-kids-the-behavior-wont-change": [
+    "dont-shame-kids-they-self-shame"
+  ],
   "pleasure-amplifies-vs-detracts-from-emotion": [
     "each-emotion-has-its-own-positive-flavor",
     "pleasure-in-the-expression-prevents-attack"
+  ],
+  "first-eight-years-are-for-the-will": [
+    "early-parenting-investment-compounds",
+    "parenting-as-the-most-effective-change-agent",
+    "you-cant-hire-someone-to-have-your-will",
+    "parenting-as-coaching-domain"
+  ],
+  "repair-is-as-important-as-getting-it-right": [
+    "early-parenting-investment-compounds"
   ],
   "natural dissolution of stuck patterns": [
     "embrace-intensity"
@@ -16545,6 +16752,7 @@
   "joe-apologizes-to-esme-for-the-3-year-old-imprint": [
     "every-trigger-with-your-kid-is-projection",
     "inner-work-as-generational-repair",
+    "repair-is-as-important-as-getting-it-right",
     "hand-in-hand-parenting",
     "parenting-as-coaching-domain"
   ],
@@ -16565,6 +16773,10 @@
   ],
   "the-three-stages-of-emotional-inquiry-maturity": [
     "feeling-yourself-beats-going-to-plan"
+  ],
+  "you-cant-hire-someone-to-have-your-will": [
+    "first-eight-years-are-for-the-will",
+    "parenting-as-coaching-domain"
   ],
   "teach-from-pleasure-not-mission": [
     "first-iteration-is-irreplaceable",
@@ -16626,10 +16838,6 @@
     "inner-work-as-generational-repair",
     "wanting-got-wired-to-unlovability"
   ],
-  "una-grabbing-joes-face": [
-    "kids-respond-to-emotional-presence-not-words",
-    "parenting-as-coaching-domain"
-  ],
   "criticism-posture-vs-shame-posture": [
     "kids-respond-to-emotional-presence-not-words",
     "esme-basketball-teammate-attention-seeking",
@@ -16638,6 +16846,13 @@
   ],
   "esme-basketball-teammate-attention-seeking": [
     "kids-respond-to-emotional-presence-not-words"
+  ],
+  "esme-just-need-to-be-sad": [
+    "kids-shouldnt-caretake-the-parent",
+    "esme-heartbreak-feels-good",
+    "esme-step-by-step-project",
+    "joes-daughter-resentment-with-her-grieving-friend",
+    "parenting-as-coaching-domain"
   ],
   "binary-thinking-signals-fear|binary panic": [
     "leaders-calm-becomes-the-teams-calm"
@@ -16702,6 +16917,9 @@
     "own-your-narcissism",
     "surround-yourself-with-people-who-make-fun-of-you"
   ],
+  "early-parenting-investment-compounds": [
+    "parenting-as-the-most-effective-change-agent"
+  ],
   "coach-as-follower-not-director": [
     "point-at-truth-from-where-they-stand",
     "state-not-framework",
@@ -16737,6 +16955,9 @@
   ],
   "purpose-is-acknowledgement-not-approval": [
     "purpose-is-recognized-not-found"
+  ],
+  "babysitter-apology": [
+    "repair-is-as-important-as-getting-it-right"
   ],
   "asking-dissolves-the-not-okay-to-want": [
     "resentment-as-unspoken-want",
@@ -17012,12 +17233,6 @@
   ],
   "rapid-fire-coaching-impulse-check|rapid-fire coaching": [
     "divorce-client-love-vs-obligation-demo"
-  ],
-  "esme-just-need-to-be-sad": [
-    "esme-heartbreak-feels-good",
-    "esme-step-by-step-project",
-    "joes-daughter-resentment-with-her-grieving-friend",
-    "parenting-as-coaching-domain"
   ],
   "joe-mina-china-overwhelm": [
     "esme-math-final"

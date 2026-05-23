@@ -4,7 +4,7 @@ id: keep-asking-whats-the-problem-with-that
 title: "Keep Asking 'What's the Problem With That?' (Drilling to the Core Fear)"
 aliases: ["keep asking what's the problem with that", "what's the problem with that move", "the drilling-down question", "drill to the core fear", "the recursive what's-the-problem", "what's the problem question", "drill down to the basic core", "the layered what's-the-problem", "go to the core question", "the descent question", "keep asking until you hit the bottom", "the problem-with-that descent", "the core-fear drill", "the recursive descent move", "what's the problem with not living a fuller life", "what's the problem with your talent getting wasted"]
 tags: ["questions", "moves", "fear", "felt-sense", "depth", "drilling"]
-sources: ["2024-04-22_How Do I Live Up To My Potential？"]
+sources: ["2024-04-22_How Do I Live Up To My Potential？", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)"]
 ---
 
 # Keep Asking 'What's the Problem With That?'
@@ -79,6 +79,23 @@ The naming gives the coachee permission to keep descending. Without the naming, 
 - *(Source: How Do I Live Up To My Potential?)*
 
 In this exchange, six repetitions of the question moved the person from "how do I utilize my potential" (a strategy question) to the edge of the felt fear. The next move was [[catch-i-feel-like-as-not-a-feeling]], which produced the word "fear."
+
+## The Compressed Two-Turn Form (For Approval-Seeking Variants)
+
+The drilling move also has a compressed form that runs in just two turns. It applies when the presenting concern is built around a "just" — "I'm just trying to be heard," "I just want to be liked," "I just want to belong." The "just" is doing the work of the prohibition; the drilling exposes that the underlying behavior is not actually wrong, and that the prohibition has no defensible basis.
+
+- **Guest:** "How do I stop questioning if I'm showing up just to have my voice be heard, or if I truly have the thing to say?"
+- **Joe:** "Oh, cool. What's the problem with showing up just to be heard?"
+- **Guest:** "Maybe I feel like I don't have valuable input. It's not valuable if it's just me trying to get my voice heard or to be acknowledged."
+- **Joe:** "What's wrong with just wanting to fucking be seen and being not valuable? What's the problem?"
+- **Guest:** "I don't know why I think it's a problem."
+- *(Source: How Do I Stop Caring What Others Think?)*
+
+Two iterations of the move dissolved the prohibition. The person who came in asking how to verify their worthiness exited that frame entirely — "I don't know why I think it's a problem" is the structural sign that the drilling has reached the bottom of the unexamined prohibition. From there the session moves to [[the-importance-itself-is-the-selfishness]] and [[simultaneous-reception-is-uncontrollable]] rather than continuing to drill.
+
+The compressed form works because the prohibition was thin to begin with. When the presenting concern is built around a "just" or a moralized "selfishness," the structure is already half-collapsed. The drilling only has to show that the prohibition has no defended base. Two turns are enough.
+
+The longer-form descent (six repetitions toward the felt feeling) is for narratively-defended fears where the person has built a logical structure on top of the feeling. The compressed form is for moralistically-defended wants where the person has only built a shame on top of the want. The same move, calibrated to the depth of the defense.
 
 ## Tone
 

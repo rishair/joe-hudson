@@ -5,7 +5,7 @@ title: "Parenting as a Deep Tissue Massage of Identity"
 aliases: ["parenting as deep tissue massage", "the deep tissue massage of parenting", "parenting strips identity", "the more you resist parenting the worse it gets", "parenting tears identity away", "kids tear away your identity", "kids issue a deep tissue massage", "the deep tissue massage children give you", "what kids dismantle in you", "kids strip what you think is right away", "parenting as identity dismantling", "the felt sense of parenting as deep tissue work", "if you resist parenting you're fucked"]
 tags: ["parenting", "identity", "concept", "resistance", "ego dissolution", "spiritual practice"]
 related: ["parenting-as-honest-mirror", "parenting-as-real-world-test-of-inner-work", "parenting-as-coaching-domain", "identity", "grief-as-identity-dismantling", "expanding-sense-of-self", "running-toward-yourself", "honor-the-patterns-intent", "every-identity-has-limits"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Parenting as a Deep Tissue Massage of Identity
@@ -77,6 +77,16 @@ A short list of identities that parenting tends to dissolve, regardless of how c
 - **The parent who is going to do it differently than their parents did.** Joe's read: 90% of what most people do as parents is what their parents did to them, and 10% is overcorrection from what they had a problem with. Either way, the early parenting moves are usually inherited, not chosen. The identity of "I am going to be different" does not survive contact with the conditions that produced the inheritance.
 - **The parent who is going to keep their identity unchanged.** This is the one that everyone learns about last.
 
+## The Reframe Joe Hands Pre-Parents Asking What It's Like
+
+When pre-parents or new parents ask Joe what parenting is actually like, the deep-tissue-massage metaphor is the line he reaches for. He has used it so often it has become his standard handoff. In the conversation with Nathan Baschez:
+
+"I remember people used to ask me when our kids were a little bit younger, you know, tell me about parenting. And I would say, parenting is like a deep tissue massage. If you resist it, you're fucked." -- Joe Hudson, How to Be a Parent
+
+The line works because it is compact, physical, and a little funny. The pre-parent who hears it cannot quite tell whether to laugh or brace. Both responses are useful. The laugh receives the line. The brace registers that something serious is being named. Both are part of how the metaphor lands.
+
+The line is also the operational hand-off into the work the parent is going to have to do. The deep-tissue-massage frame implies a stance: do not fight what is coming. The fighting is the source of the suffering, more than the changes themselves. The same stance is what makes [[make-parenting-a-shared-spiritual-practice-with-your-co-parent]] possible — the partner conversation about what is being changed is unbearable when both parents are fighting the change. The conversation becomes generative when they have surrendered to it.
+
 ## When This Is the Useful Frame
 
 This concept is the right one to reach for when:
@@ -127,3 +137,4 @@ Visceral. Joe says "you were just fucked" if you resist. He is not soft about th
 
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (Joe re-articulating the deep-tissue-massage frame for an interview audience with Brett and Alexa, who were sitting in the kids-or-no-kids question; the same teaching delivered to a pre-parent audience makes the dismantling visible as part of what the listener is signing up for)
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe uses the metaphor as his standard handoff to new and pre-parents asking what parenting is like; the line is compact and funny enough to land without being heavy; in context, Joe is connecting it to the broader practice of doing parenting as a self-development practice with one's spouse — see [[make-parenting-a-shared-spiritual-practice-with-your-co-parent]])

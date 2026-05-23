@@ -5,7 +5,7 @@ title: "Don't Shame Kids - They Self-Shame When They Need To"
 aliases: ["kids self-shame", "the natural moral compass in children", "no punishment no shaming", "kids will shame themselves", "natural shame in children", "they don't need imposed shame", "kids develop the compass on their own", "moral compass in kids without shaming"]
 tags: ["parenting", "shame", "inherent goodness", "natural shame", "principle", "moral compass"]
 related: ["inherent-goodness", "natural-shame-vs-installed-shame", "shame-as-disconnection", "welcome-the-shame-without-extracting", "shame-drives-behavior", "dont-extract-apologies", "wants-over-shoulds", "childhood-imprinting"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Don't Shame Kids - They Self-Shame When They Need To
@@ -59,6 +59,20 @@ A complication: kids who self-shame may do so more harshly than necessary. Impos
 
 The parent's job in those moments is the [[welcome-the-shame-without-extracting]] move: communicate that the parent does not want them to be in shame, while allowing the child to feel what they are feeling. Over time the child learns calibration.
 
+## The Empirical Test For Parents Who Defend Shaming
+
+A specific intervention for parents who continue to believe shaming produces behavioral change: do the inventory. Pick the thing the parent has been shaming the kid for. Notice whether the shaming has changed it.
+
+"Notice that everything you shame your kid for hasn't changed. It doesn't fucking change. You shame your kid for something. I guarantee they'll be 16 years old still doing it." -- Joe Hudson, How to Be a Parent
+
+The intervention bypasses argument. The parent does not have to be convinced; the parent has to look. The continued shaming is itself the evidence that the technique has not produced the result the parent thought it was producing. If shaming worked, the parent would have stopped shaming, because the behavior would have stopped. The fact that the parent is still shaming after years of the same behavior is the proof that shame is not the change-engine the parent has been treating it as.
+
+See [[dont-shame-kids-the-behavior-wont-change]] for the full treatment of this diagnostic. The intervention is useful early in coaching with a shame-defending parent because it lands at the level of evidence rather than at the level of theory.
+
+The corollary insight: "I've never met somebody who's shaming their kid and then they're like, I feel great about that. You know, like, oh my God, did you see me shame that kid? That was awesome. I'm such a good parent for shaming that kid. People feel like shit when they do that kind of thing." -- Joe Hudson, How to Be a Parent
+
+The parent's own felt response to having shamed their kid is the second piece of evidence the parent already has. Shaming feels bad to the shamer. The bad feeling is the parent's own inherent goodness registering that the move did not match who they want to be. The parent is being given two pieces of evidence — the behavior hasn't changed, and the act felt bad — and the technique still being used because the cultural template says shaming is what parenting requires. Surfacing both pieces of evidence is often enough to interrupt the template.
+
 ## The Connection to Wants and Discipline
 
 This principle is closely related to [[wants-over-shoulds]]. Both rest on [[inherent-goodness]]. Both observe that the child does not need to be controlled by external pressure; the child has internal mechanisms that, when not overridden, produce ethical behavior.
@@ -94,3 +108,4 @@ The result, in Joe's experience: children who develop a strong moral compass, wh
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe surfaces the empirical-track-record framing of the principle: notice that everything you shame your kid for hasn't changed — they'll be 16 years old still doing it. The intervention is delivered to parents who continue to believe shaming is necessary; the corollary insight is that shaming feels bad to the parent doing it, which is a second piece of evidence the parent already has)

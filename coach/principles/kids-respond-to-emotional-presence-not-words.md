@@ -5,7 +5,7 @@ title: "Kids Respond to Your Emotional Presence, Not Your Words"
 aliases: ["kids respond to emotional presence", "children respond to emotional presence not words", "kids react to your nervous system not your sentences", "talking down to a 2-year-old does not work", "you don't intellectualize with a 2-year-old", "their prefrontal isn't online", "the kid is responding to your felt state", "you get wound up they get wound up", "you calm down they calm down", "kids mimic your emotional state", "small kids are in a dream state", "kids in feeling not thought", "the child reads the field", "kids are full feeling machines", "kids respond to how you ARE not what you say", "the parent's emotional presence is the message", "the teen can tell which kids have parents who fight at home", "kids carry the home environment into school"]
 tags: ["principle", "parenting", "presence", "emotional regulation", "co-regulation", "children", "nervous system"]
 related: ["parenting-as-coaching-domain", "parenting-as-honest-mirror", "hand-in-hand-parenting", "leaders-calm-becomes-the-teams-calm", "kids-release-emotions-where-they-feel-safe", "head-heart-gut", "una-grabbing-joes-face", "stay-close-and-insist", "if-you-do-x-youre-telling-them-its-okay-to-do-x", "liking-your-kid-vs-loving-your-kid", "criticism-posture-vs-shame-posture", "esme-basketball-teammate-attention-seeking", "take-care-of-yourself-then-marriage-then-kids", "dont-hate-your-kids-and-they-wont-hate-you"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2024-06-07_Joe and Esme — The Teenage Years"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2024-06-07_Joe and Esme — The Teenage Years", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Kids Respond to Your Emotional Presence, Not Your Words
@@ -31,6 +31,20 @@ The parent is having one conversation. The child is having a different one. The 
 The corrective is not to talk less, exactly. It is to recognize that the felt state is the message and to do the work of regulating the felt state before issuing the message. A parent who is wound up cannot effectively communicate with a 2-year-old by adopting calm words. The child will read the wound-up state through the calm words. The only way to communicate calm to the child is to actually be calm.
 
 This is why [[parenting-as-honest-mirror]] is the inevitable companion principle. The parent cannot hide their nervous system from the child. The work the parent has done or has not done on themselves is what the child receives, regardless of what the parent says.
+
+## The Experimental Proof: Logic Calms The Parent, and the Calm Is What The Kid Reads
+
+A specific observation Joe made by running the experiment several times. The standard parenting scene: the kid is dysregulated, the parent shifts into logic mode — "okay, well, let me logically explain why you shouldn't cross the street" — and the kid calms down. Most parents conclude that the logic worked. The actual mechanism is different.
+
+What is happening: when the parent shifts into logic mode, the parent themselves becomes more grounded. The voice gets quieter. The pace slows. The body settles. The parent's nervous system, which had been dysregulated by the kid's dysregulation, returns to baseline. The kid is reading the parent's baseline state and calming to match.
+
+Joe tested this. He talked to his kids about the sun and the stars, or anything content-irrelevant, at the same regulation quality he would have used to deliver the logical explanation. The kid settled the same way.
+
+"I actually did that experiment a couple times. They could literally be talking about the sun and the stars, and if they hit that same quality of emotion and nervous system regulation, the kid, you'll see the kid settle as well." -- Joe Hudson, How to Be a Parent
+
+The implication is significant. The intellectual content of what the parent says when delivering logic is irrelevant. The kid is not learning anything about street-crossing from the logical explanation. The kid is learning that the parent has now become a stable nervous system to calibrate to. The lesson the parent thinks they are teaching is invisible to the kid. The lesson the kid is actually receiving is "this is what calm looks like in this room."
+
+This experiment is the cleanest proof of the principle. The parent who recognizes it has the option to skip the logic and go directly to the regulation. Talk to the kid about anything, or about nothing, while genuinely being in the regulated state. The kid will calm.
 
 ## Co-regulation Runs Both Ways
 
@@ -118,3 +132,4 @@ Direct and slightly humorous. Joe says "their brain isn't online" and "they're j
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (the same teaching with the same Una face-grabbing story, surfaced in the context of a pre-parent asking what parenting is actually like)
 - 2024-06-07_Joe and Esme — The Teenage Years (Esme's articulation of how reliably teen behavior at school reveals the home environment; extends the principle past early childhood into the teen years; surfaces that the channel does not turn off when the prefrontal comes online)
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe describes running the experiment explicitly: he talked to his kids about the sun and the stars, or anything content-irrelevant, at the same regulation quality he would have used to deliver a logical explanation; the kid settled the same way; this is the cleanest proof of the principle — the kid is reading the parent's nervous-system state, not the words; the implication is the parent can skip the logic and go directly to the regulation, talking about anything while being in the regulated state)

@@ -4,8 +4,8 @@ id: teach-teenagers-to-be-their-own-authority
 title: "Teach Teenagers to Be Their Own Authority (Don't Be Their Third)"
 aliases: ["teach teenagers their own authority", "don't be their third", "don't be the third opinion", "teach kids to listen to themselves", "withholding compliments to build self-trust", "the no-praise approach with teens", "parent as not-the-authority for older kids", "teach teens to seek good advice", "raise kids to be their own authority", "parenting older kids vs younger kids", "the authority shift in parenting", "from authority to coach with teenagers"]
 tags: ["parenting", "authority", "teenagers", "self-trust", "praise", "development"]
-related: ["parenting-as-coaching-domain", "parenting-as-real-world-test-of-inner-work", "dont-shame-kids-they-self-shame", "never-rob-pain-or-gold", "the-clients-wisdom-not-the-teachers", "wants-over-shoulds", "inherent-goodness", "esme-step-by-step-project", "joes-no-compliments-daughter", "community-over-teacher"]
-sources: ["2023-05-12_Who Owns Your Authority?", "2024-09-13_Authority Issues"]
+related: ["parenting-as-coaching-domain", "parenting-as-real-world-test-of-inner-work", "dont-shame-kids-they-self-shame", "never-rob-pain-or-gold", "the-clients-wisdom-not-the-teachers", "wants-over-shoulds", "inherent-goodness", "esme-step-by-step-project", "joes-no-compliments-daughter", "community-over-teacher", "have-them-receive-your-listening", "listening", "connection-is-what-young-kids-actually-need"]
+sources: ["2023-05-12_Who Owns Your Authority?", "2024-09-13_Authority Issues", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Teach Teenagers to Be Their Own Authority
@@ -37,6 +37,18 @@ The cost Joe also reports: at one point, one of his daughters said, "I've gotten
 "I told her how proud I was of her and how I realized the work that was put into it. But it's so important to me. So maybe I overcorrected there, but it was so important for me to have them be able to listen to themselves and not tell them what to do." -- Joe Hudson, Who Owns Your Authority?
 
 The principle is not "never affirm your child." The principle is: do not install yourself as the third party in their internal evaluation. There is room for direct acknowledgment of pride and care. The risk is in the habitual, automatic praise that subtly reorients the child's motivation away from themselves.
+
+## The Move Applies From Earliest Childhood, Not Only Teens
+
+A clarification surfaced in the Nathan Baschez interview: the reflection-instead-of-evaluation move is not reserved for teenagers. It is the family's operating practice from the kid's earliest expressive moments. Tara introduced the move when the kids were small; it became one of the structural commitments of how Joe and Tara raised the daughters across the developmental span.
+
+"And it took weird things to do. And this was Tara who first introduced the idea of — so for instance, if they do a great thing, we don't say good job. We'll say, oh, how does that feel? Oh, I see that that makes you feel great inside. That's cool. Constantly reflecting back to them their internal state so that they listen." -- Joe Hudson, How to Be a Parent
+
+The framing is precise: the move is teaching the kid to listen — to themselves. "So that they listen" is the operative phrase. The reflection-of-internal-state is the felt template the kid is being given for the developmental task of self-listening. The kid who has thousands of repetitions of "I see how excited you are" eventually has the internal apparatus to notice their own excitement without external mirroring. The adult who can do this is the adult who can self-attune; the adult who cannot is the adult who is still looking outward for the felt confirmation of what they feel.
+
+See [[have-them-receive-your-listening]] for the analogous adult coaching move that uses the same mechanism. The "how does that feel?" question is the early-childhood form of teaching self-listening; the [[have-them-receive-your-listening]] move is the adult-coaching form; both are deploying the same mechanism — using the parent or coach's reflection as the felt template for the receiver's self-attunement.
+
+The broader implication: the work of supporting another person's internal authority is the same work whether the other person is 2, 17, or 47. The reflection-instead-of-evaluation move is the operational form. The teenage-version names the developmental stakes; the early-childhood version names the foundational installation; the adult-coaching version names how to repair what was not installed. The same mechanism, deployed across the developmental arc.
 
 ## The Inverse Problem: When the Child Needs You to Tell Them What to Do
 
@@ -128,3 +140,4 @@ Joe describes this with the warmth of a parent who has experimented, made mistak
 
 - 2023-05-12_Who Owns Your Authority?
 - 2024-09-13_Authority Issues (Joe's own arc as the adult version of the cost of the imprint not being addressed in childhood; the explicit cost-benefit of his rebellion-pattern; the connection to the broader four-authority-positions framework that this parenting work is upstream of; the Adyashanti near-miss as the concrete cost example)
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe clarifies that the reflection-instead-of-evaluation move applies from earliest childhood, not only with teenagers; Tara is named as the source of the move; the operational form — "how does that feel? oh, I see that makes you feel great inside" — is framed as the practice that teaches kids to listen to themselves; the broader claim is that humans are basically good and self-listening is the route through which the inherent goodness expresses)

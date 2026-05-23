@@ -5,7 +5,7 @@ title: "Esme at Whole Foods: 'I'm Just Having My Emotions'"
 aliases: ["Esme at Whole Foods", "the Whole Foods tantrum", "I'm just having my emotions", "the 3-year-old who explained the tantrum", "the hippie lady and Esme", "Esme tantrum explanation", "Joe blocking Esme in Whole Foods", "the Whole Foods story", "the I'm just having my emotions story", "the kid who knew what she was doing in the tantrum", "Joe and 3-year-old Esme at Whole Foods", "the daughter who didn't need rescuing from the tantrum"]
 tags: ["example", "parenting", "children", "tantrum", "emotions", "presence", "stay-listening", "hand-in-hand"]
 related: ["kids-release-emotions-where-they-feel-safe", "hand-in-hand-parenting", "kids-respond-to-emotional-presence-not-words", "parenting-as-coaching-domain", "stay-close-and-insist", "dont-shame-kids-they-self-shame", "feeling-the-unfelt-emotion", "emotional-fluidity"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Esme at Whole Foods: "I'm Just Having My Emotions"
@@ -73,6 +73,18 @@ The public tantrum is also the place where you can identify, by reading the room
 
 The public tantrum is, in this frame, a slow erosion of the parent's protective layer of caring about reputation. The parent who keeps doing this stops needing the reputation. The parent who manages the child for the audience keeps the reputation and loses something else.
 
+## The Logical-Choice Frame That Made the Stance Possible
+
+The third retelling of the story (in the Nathan Baschez interview) surfaces a small detail that did not appear in earlier tellings: before this incident, Joe had made a deliberate, logical choice that his reputation was not as important as his daughter's upbringing. The pre-commitment is the upstream condition for the stance he then took in the moment.
+
+"I had made the logical choice — my reputation is not as important as my child's upbringing. So I don't, whatever, I'm gonna sit here and do this thing." -- Joe Hudson, How to Be a Parent
+
+The naming matters because most parents have not made this choice. Without the pre-commitment, the moment of public tantrum activates whatever conditioning the parent has about being seen by other adults. The parent then manages the situation for the audience, which means managing the kid out of the emotion they are having. The kid does not get to complete the emotional cycle. The kid does, however, get to learn that the parent will sell them out for social approval.
+
+The pre-commitment removes the negotiation in the moment. Joe is not deciding what to do as it happens. He has already decided. The actual decision happened earlier, in a moment of clarity, and the moment of tantrum is just executing on the prior decision. This is the same structural form as the [[pre-agree-on-the-handoff-signal-with-co-parent]] system: the difficult choice is made in advance so it does not have to be made under conditions where good choice is harder.
+
+The pre-commitment also explains why Joe could be relaxed about the hippie lady's intervention. The intervention did not threaten anything Joe was protecting, because Joe had already decided his reputation was not the thing being protected. The audience could think whatever they wanted. The kid was having her emotions. The audience-management slot had been pre-collapsed.
+
 ## Boundary Conditions
 
 The example is not a recommendation that every child should be allowed to have a 20-minute tantrum in the middle of any public space. The principle is about presence with the emotion, not about defending the child's right to tantrum without limit. Joe was physically blocking the shelves — there were boundaries. The boundaries protected the environment so the emotion could complete.
@@ -112,3 +124,4 @@ Light. The story is funny on its own. Joe tells it laughing. Hold that tone. The
 
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (Joe re-tells the story for a pre-parent audience asking how to handle tantrums in public; he uses it to illustrate that the difficulty of the public tantrum is the practice, not the failure)
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe tells the story for a third time, in response to Nathan asking how to handle the public-tantrum scenario; this telling adds the detail that Joe had made a deliberate prior logical choice — "my reputation is not as important as my child's upbringing" — which was the pre-commitment that made his stance in the moment possible; the story is here used to illustrate not just what to do in the moment but the upstream decision-architecture that enables the in-the-moment stance)

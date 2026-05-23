@@ -7080,15 +7080,77 @@
     },
     {
       "folder": "2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T03:27:00Z",
+      "articles_created": [
+        "loving-attention-vs-consistency",
+        "connection-is-what-young-kids-actually-need",
+        "repair-is-as-important-as-getting-it-right",
+        "kids-shouldnt-caretake-the-parent",
+        "first-eight-years-are-for-the-will",
+        "you-cant-hire-someone-to-have-your-will",
+        "attunement-strategy-becomes-the-adult-relational-pattern",
+        "dont-shame-kids-the-behavior-wont-change",
+        "early-parenting-investment-compounds",
+        "name-when-you-cant-be-in-loving-attention",
+        "pre-agree-on-the-handoff-signal-with-co-parent",
+        "make-parenting-a-shared-spiritual-practice-with-your-co-parent",
+        "parenting-as-the-most-effective-change-agent",
+        "joe-cedes-house-CEO-to-tara"
+      ],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:49:02Z"
+    },
+    {
+      "folder": "2025-03-28_How to Be a Parent (Without Messing Everything Up) \uff5c Guest Episode with Nathan Baschez",
+      "status": "complete",
+      "claimed_at": "2026-05-23T03:32:12Z",
+      "articles_created": [],
+      "articles_updated": [
+        "hand-in-hand-parenting",
+        "parenting-as-deep-tissue-massage",
+        "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+        "esme-just-having-my-emotions",
+        "dont-shame-kids-they-self-shame",
+        "kids-respond-to-emotional-presence-not-words",
+        "inherent-goodness",
+        "teach-teenagers-to-be-their-own-authority",
+        "parenting-as-coaching-domain"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:52:14Z",
+      "note": "This is the duplicate-folder version of the same transcript already absorbed under '2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch'. The previous absorption created 14 articles covering the same teaching. This absorption enriched 9 existing articles with material from this version of the transcript (which has slightly different transcription) and corrected wikilinks. Initially 7 duplicate articles were created and then deleted after discovering the prior absorption."
+    },
+    {
+      "folder": "2025-04-01_How Do I Stop Caring What Others Think\uff1f (Coaching Session With Master Coach)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T03:50:31Z",
+      "articles_created": [
+        "look-me-in-the-eye-and-name-the-controlling-wish",
+        "the-importance-itself-is-the-selfishness",
+        "simultaneous-reception-is-uncontrollable"
+      ],
+      "articles_updated": [
+        "how-do-i-stop-seeking-approval",
+        "keep-asking-whats-the-problem-with-that",
+        "you-cannot-make-people-happy",
+        "acknowledging-death-compresses-life"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T03:59:17Z"
+    },
+    {
+      "folder": "2025-04-04_Why Can't I Move On After My Breakup\uff1f (Coaching Session With Joe Hudson)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T03:58:08Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-03-28_How to Be a Parent (Without Messing Everything Up) \uff5c Guest Episode with Nathan Baschez",
+      "folder": "2025-04-08_How Do I Overcome Self-Consciousness\uff1f (Coaching Session With Master Coach)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T03:32:12Z",
+      "claimed_at": "2026-05-23T03:59:58Z",
       "articles_created": [],
       "articles_updated": []
     }

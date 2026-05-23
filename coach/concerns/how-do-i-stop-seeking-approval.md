@@ -4,7 +4,7 @@ id: how-do-i-stop-seeking-approval
 title: "How do I stop seeking approval / I care too much what other people think of me"
 aliases: ["how do I stop seeking approval", "how do I stop chasing approval", "I want to stop needing approval", "I care too much what people think", "I care too much what other people think", "I keep seeking approval", "I'm a chronic approval seeker", "I'm always trying to be liked", "I need them to like me", "I'm always trying to get people's approval", "I'm always trying to be the good one", "I want everybody to like me", "I want to be liked by everyone", "I keep looking for approval", "I'm a people pleaser", "I'm always seeking validation", "the approval-seeking concern", "the people-pleasing concern", "I'm always wondering what they think of me", "I'm always worried about what they think", "I can't stop monitoring how I'm landing", "I want to know they approve", "I need their approval before I can move", "I keep waiting for someone to tell me I'm okay", "I keep performing for approval"]
 tags: ["approval", "people-pleasing", "external-validation", "self-abandonment", "shame", "concern"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues", "2025-03-14_How To Stop Seeking Approval"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues", "2025-03-14_How To Stop Seeking Approval", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)"]
 ---
 
 # How do I stop seeking approval / I care too much what other people think of me
@@ -23,6 +23,9 @@ The concern usually arrives in self-aware form. The person knows they are doing 
 - "I keep looking for someone to tell me I'm okay."
 - "I keep waiting for approval before I can move."
 - "Every conversation I'm tracking how I'm landing."
+- "How do I stop questioning if I'm showing up just to be heard, or if I truly have something to say?"
+- "I don't want to speak just to be acknowledged. Do I actually have something valuable to add?"
+- "How do I know when what I have to say is worth saying?"
 
 The concern often co-occurs with a sense of exhaustion or hollowness. The approval, when received, does not satisfy. The person reports receiving compliments and immediately needing the next one. The hunger does not fill.
 
@@ -93,6 +96,32 @@ A typical flow when this concern surfaces:
 - If the concern arrives via burnout: the move is often through [[im-burned-out]] and [[caring-what-others-think-is-the-burnout-engine]].
 - If the concern arrives via scorecards: the move is often through [[i-need-a-scorecard]] — the chase for likes/status/recognition is the approval engine externalized.
 - If the concern is framed via confidence: the move is often through [[confidence-only-where-approval-isnt-needed]].
+- If the concern is framed as "do I have something valuable to say": see the do-I-have-something-valuable-to-say variant below.
+
+## The "Do I Have Something Valuable to Say" Variant
+
+A specific framing of this concern: the person is not asking whether they should stop caring; they are asking how to know whether their contribution is "valuable enough" to make. The presenting form is the question of worth, not the question of approval. But the structure is identical: the speaker has outsourced the question of whether their voice is allowed to a metric they are trying to satisfy from outside.
+
+Specific phrasings:
+- "How do I stop questioning if I'm showing up just to have my voice be heard, or if I truly have the thing to say?"
+- "Do I actually have something valuable to add, or am I just trying to be heard?"
+- "I don't want to speak just to be acknowledged."
+
+The corrective is structural: the "valuable enough" frame is unanswerable from inside. Whose input is valuable? What percentage? The person already knows the question cannot be answered ("it's perception"). The fact that they keep asking it anyway is the diagnostic — the question is functioning as a permission gate that will never open, because it is structurally incapable of opening.
+
+The session move sequence for this variant:
+
+1. **Refuse the moral collapse on "just to be heard."** "What's the problem with showing up just to be heard?" See [[whats-wrong-with-the-thing-theyre-judging]] and [[keep-asking-whats-the-problem-with-that]]. The "just" is doing the work of the prohibition. Removing the "just" exposes that wanting to be heard is not actually wrong — and that the prohibition is the unexamined material.
+
+2. **Show the unanswerability of the worth question.** "What percentage of people's input is valuable?" The person cannot answer. Joe: "Even more of a reason. How do you know? Who are you to judge if your input is valuable?" The point is not that the person is incompetent to judge. The point is that the judgment is being made on a non-existent scale. The retrospective evidence Joe uses: "I say shit off the cuff and people come to me 3 years later and they're like, oh my God, that thing you said to me. And there's other shit that I'm like, I just laid down some profound shit and it doesn't mean shit to anybody." Reception is not predictable from inside the speaker. See [[simultaneous-reception-is-uncontrollable]].
+
+3. **Use the cosmic/mortality frame to dissolve self-importance.** "We're all dust in the wind. None of us are gonna be remembered in 100 years. What makes it that you have to be so fucking important?" This is the targeted deployment of [[acknowledging-death-compresses-life]] in the approval-seeking context. The point is not nihilism. The point is the inversion: the urgency about being valuable is itself the selfishness the speaker fears. See [[the-importance-itself-is-the-selfishness]].
+
+4. **Name reception as inherently mixed and uncontrollable.** "Right now somebody on this call is having an epiphany because you and I are having this conversation. Right now two people are fucking bored. What the fuck? This is how life is." The frame: every spoken moment lands as epiphany for some and as bored-irritation for others, simultaneously. There is no version where everyone is heightened. The wish to be only-valuable is a wish for an unavailable configuration of reality. See [[simultaneous-reception-is-uncontrollable]].
+
+5. **Have the speaker name the controlling wish out loud, looking the coach in the eye.** "Look me right in the eye and say, 'I want to control what you think of me, Joe,' and see what it feels like." The move is the absurdity-audible move: the position becomes felt as absurd at the moment it is voiced to a real human face. See [[look-me-in-the-eye-and-name-the-controlling-wish]].
+
+The session typically closes laughing. The laugh is the integration — the body has registered that the position the person was holding does not survive being spoken in the room. The shift is not "I no longer care what others think." The shift is "the urgency about being valuable has been seen as an absurd configuration, and the laugh dissolves it."
 
 ## The Approval-Seeking-Toward-Authority Variant
 
@@ -132,3 +161,4 @@ A structural fact often hidden underneath the concern: the approval-seeker is tr
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source teaching with the three moves: see the push-away, let compliments all the way in, feel the emotion underneath thinking someone is better/worse than you)
 - 2024-09-13_Authority Issues (the approval-seeking-toward-authority variant: the resentment that builds when sacrificing self to authority for approval; the say-the-hard-truth move as the fastest dissolver; the structural insight about the truth-teller being the most trusted person in any C-level team; the confidence requirement for delivery)
 - 2025-03-14_How To Stop Seeking Approval (the inversion that speaking truth is the cure for approval-seeking, not the other way around; the three blocks to speaking truth as the underlying structure; the impossibility of making other people happy as the doubt-loop fuel; the speak-truth-twice-a-day operational practice; the daughter example as the canonical illustration; the somatic test for intuition vs conditioning that becomes available once the heart can stay open)
+- 2025-04-01_How Do I Stop Caring What Others Think? (Coaching Session With Master Coach) (the "do I have something valuable to say" variant; the live coaching arc that opens with refusing the moral collapse on "just to be heard," moves through the unanswerability of the worth question, deploys the cosmic/mortality frame against self-importance, names the mixed nature of reception, and closes with the look-me-in-the-eye absurdity move; the session lands in a laugh)

@@ -5,7 +5,7 @@ title: "Joe Apologizes to Teenage Esme for an Imprint From When She Was 3"
 aliases: ["Joe apologizes to Esme for the 3-year-old imprint", "the apology for the 3-year-old moment", "the I'm sorry for teaching you that story", "Joe's teenage daughter and the boy issue apology", "the apology that healed the imprint", "the I wish I had fucked up more story", "the moment Joe saw the imprint in his teenage daughter", "I see that happening now and I'm so sorry for teaching you that", "the parent-apology-as-healing example", "the moment Esme was asking for advice and Joe apologized instead", "the deep moment of connection over fucking up the kid"]
 tags: ["example", "parenting", "apology", "repair", "imprinting", "upright apology", "trauma mapping", "self-forgiveness"]
 related: ["upright-apology", "trauma-mapping", "parenting-as-coaching-domain", "parenting-as-honest-mirror", "joe-anguish-to-esme-3-year-old", "loving-all-parts", "apologize-for-trying-to-control", "dont-use-you-in-an-apology", "honor-the-patterns-intent", "every-trigger-with-your-kid-is-projection"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
 ---
 
 # Joe Apologizes to Teenage Esme for an Imprint From When She Was 3
@@ -45,6 +45,16 @@ Three or four months later, the pattern had not come back up.
 **Joe is not extracting forgiveness from Esme.** Notice what is absent. He does not ask her to forgive him. He does not ask her to say it is okay. He does not perform contrition. He sees, he names, he apologizes, and then he is quiet. She accepts the apology and the pattern dissolves. The structure of the apology is the structure of [[dont-use-you-in-an-apology]] — it is about him, not about what she should now do about it.
 
 **Imprints are specific.** Joe does not say "I'm sorry I was a bad father." He says "when you were 3 years old, I did this specific thing, and that installed this specific fear, and I see it running in this specific way right now." The specificity is what makes the apology land. A general apology would have been a performance. The specific apology was real information.
+
+## The Move That Goes With This: The Apology and the Respect For The Kid
+
+The third retelling of this story (in the Nathan Baschez interview) surfaces something that did not get fully articulated in the earlier tellings: the apology is part of a broader stance of treating the kid the way the parent would treat an adult they respect. The structural commitment is that respect is the baseline, and when the parent fails to extend it — through shaming, through emotional absence, through the small daily moves — the parent apologizes the same way they would apologize to an adult.
+
+"One of the ways that I looked at, especially the young kids, was eventually I looked at it was, am I treating them with the same respect that I'm treating an adult? Now I have to teach them, so I get that, but I can teach them in a respectful way, I can teach them in a disrespectful way. And so part of that, oh, I'm going to treat them with the respect, was that if I did something like shame them, I would apologize. I would say, oh, that's not how I want to be with you." -- Joe Hudson, How to Be a Parent
+
+This is the upstream commitment that produces the willingness to apologize when an imprint is recognized later. The apology to teenage Esme about the 3-year-old imprint is the same move applied at the larger time scale. The parent who has been apologizing in real time for years for the small failures has the somatic infrastructure to apologize for the bigger, older failures when they become visible. The parent who never apologizes for the small failures is unlikely to find the apology for the larger one available when needed.
+
+See [[treat-your-kid-like-an-adult-you-respect]] for the related stance with teenagers.
 
 ## The Bigger Insight About Mistakes
 
@@ -108,3 +118,4 @@ Soft and dry at the same time. Joe is wistful when he tells this story. He is al
 
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (Joe re-tells the same story; he adds the framing that the moment of acknowledgment healed the pattern in Esme -- "as soon as I said it and as soon as she accepted it, that pattern is healed in her")
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe tells this story for a third time, in response to Nathan asking how to handle the responsibility of being the source of another person's pattern. Joe adds the framing that the apology is part of a broader stance of treating the kid the way one would treat a respected adult — when respect fails, the parent apologizes. This is the upstream commitment that produces the willingness to apologize when an imprint is recognized later. The story is delivered with the same emotional weight as the earlier tellings: "I still get misty thinking about it." Joe also frames the larger insight as the modeling of repair: "showing them how that's done, showing them that we're all human and that we get to love our mistakes and that we get to own them, and then that lets us grow")
