@@ -2,9 +2,9 @@
 type: concern
 id: i-keep-running-into-the-same-wall
 title: "I keep running into the same wall / There's something I'm not seeing"
-aliases: ["I keep doing the same thing", "I keep hitting the same wall", "there's something I'm not seeing", "same pattern different situation", "I keep getting stuck in the same place", "I've tried everything", "I know better but I keep doing it", "I keep getting the same result", "I think I have a limiting belief", "I think I have a blind spot", "why do I keep doing this", "the same thing keeps happening", "I see the pattern but I can't break it"]
+aliases: ["I keep doing the same thing", "I keep hitting the same wall", "there's something I'm not seeing", "same pattern different situation", "I keep getting stuck in the same place", "I've tried everything", "I know better but I keep doing it", "I keep getting the same result", "I think I have a limiting belief", "I think I have a blind spot", "why do I keep doing this", "the same thing keeps happening", "I see the pattern but I can't break it", "I'm a therapist and I see my pattern but I'm still stuck", "I'm a mental health professional and I can see the patterns and they aren't helping me get out", "after X years of doing this work I still keep doing this", "I have all the tools and I'm still doing this", "I know all this and nothing changes", "I've been a coach for X years and I'm still running this pattern", "the therapist who can't get out of their own pattern", "all my tools with everything I know and I'm still doing this", "why am I stuck moving forward, why am I not moving forward feeling the confidence I want to have after X years"]
 tags: ["limiting beliefs", "stuck", "patterns", "blind spot", "concern"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)"]
 ---
 
 # I keep running into the same wall / There's something I'm not seeing
@@ -105,6 +105,20 @@ The two framings are not in tension. The limiting belief is often the cognitive 
 
 A useful diagnostic question for picking the path: "Is the pattern more about what you keep believing, or about what you keep feeling?" The person's first response usually points at the right entry door. See [[noticing-the-matrix-pattern]] for the three-step diagnostic that operates on the emotional side.
 
+## The Mental Health Professional Variant
+
+A specific shape of this concern arrives in clients who are therapists, coaches, healers, or trained mental health professionals. The presenting language is the same — I keep doing this, I see the pattern, I can't break it — but the diagnostic credential is loaded into the framing. After 25 years as a mental health professional, why can't I do this? I have all the tools and I'm still stuck.
+
+This variant is the [[the-pattern-seer-using-pattern-knowledge-to-stay-stuck]] read. The seeing has become part of the structure rather than the way out of it. The credential is part of the trap.
+
+The coaching path is the same as the general case in essentials but adds two specific moves:
+
+1. **Refuse the credential as evidence of work done.** The years of training do not exempt the body from having to feel what it has not yet felt. The training has produced the very competence the body is using to avoid the feeling.
+
+2. **Name the tools as the stuckness.** "You're actually using your tools to keep you stuck." This explicit naming makes visible what the client has been running but could not see, because what they were running was professionally validated. See [[tools-to-change-not-love]] for the underlying anti-pattern, and [[breath-to-self-regulate-instead-of-feel]] for the somatic-tool form of the read.
+
+The opening question Joe uses for this variant tends to be the entry into self-judgment underneath the credentialed stuck-report: "What's with the judgment?" The presenting "I'm stuck despite all my training" sits on top of a judgment ("I'm not as good as I thought I'd be" or "I won't be the best at this"), and the judgment sits on top of a survival belief (the credential was the safety condition; encountering a domain where the credential cannot make one the best surfaces the survival belief). The two-turn descent via [[keep-asking-whats-the-problem-with-that]] moves from presenting to judgment to survival belief, and the work then addresses the belief rather than the surface stuckness.
+
 ## Related Concerns
 
 - [[i-need-to-improve-myself]]: when the recursion is in the improvement project itself.
@@ -118,3 +132,4 @@ A useful diagnostic question for picking the path: "Is the pattern more about wh
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
 - 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the alternative entry door for the same concern -- when the recursion is relational/affective rather than cognitive, the Matrix / trauma-mapping / unfelt-emotion framing is what the coaching reaches for; the diagnostic question for picking which entry door fits the specific concern presented)
+- 2025-05-16_Why Am I Stuck In Life When I Know My Patterns? (Coaching Session With Joe Hudson) -- the mental health professional variant where 25 years of training has produced the very tools that are now keeping the pattern in place; the diagnostic credential is loaded into the presenting frame; the additional moves of refusing the credential as evidence of work done and naming the tools as the stuckness; the entry via "what's with the judgment?" that surfaces the underlying survival belief (being-the-best) as the engine of the stuckness

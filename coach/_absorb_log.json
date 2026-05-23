@@ -7453,15 +7453,83 @@
     },
     {
       "folder": "2025-05-13_What\u2019s Beneath Your Fear of Being Seen\uff1f (Coaching with Joe Hudson)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T14:50:56Z",
+      "articles_created": [
+        "im-not-comfortable-sharing-my-story",
+        "trying-to-be-comfortable-instead-of-being-uncomfortable",
+        "the-control-after-the-truth",
+        "walk-into-the-discomfort-and-speak-from-there",
+        "whats-happening-in-your-system-three-modes",
+        "name-the-shift-everyone-felt",
+        "whats-your-truth-in-this-moment",
+        "parallel-the-clients-own-survival-skill-to-the-present",
+        "holding-back-truth-is-self-harm",
+        "you-were-taught-to-be-your-own-oppressor",
+        "layers-of-unallowed-self",
+        "heat-and-sweat-as-process-marker",
+        "go-nonverbal-and-let-the-nonverbal-talk"
+      ],
+      "articles_updated": [
+        "false-front",
+        "vulnerability",
+        "anger-as-cover-for-deeper-emotion",
+        "speaking-truth-cures-approval-seeking",
+        "i-get-anxious-in-relationships"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T15:15:28Z"
+    },
+    {
+      "folder": "2025-05-16_Why Am I Stuck In Life When I Know My Patterns\uff1f (Coaching Session With Joe Hudson)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T15:07:55Z",
+      "articles_created": [
+        "breath-to-self-regulate-instead-of-feel",
+        "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
+        "make-demands-of-me-experiment",
+        "open-the-heart-to-the-doubt"
+      ],
+      "articles_updated": [
+        "keep-asking-whats-the-problem-with-that",
+        "victim-anger-vs-dominating-anger",
+        "anger-as-cover-for-deeper-emotion",
+        "tools-to-change-not-love",
+        "i-keep-running-into-the-same-wall",
+        "get-angry-in-the-car"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T15:21:50Z"
+    },
+    {
+      "folder": "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T15:16:15Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-05-16_Why Am I Stuck In Life When I Know My Patterns\uff1f (Coaching Session With Joe Hudson)",
+      "folder": "2025-05-23_What Is Attunement?",
+      "status": "complete",
+      "claimed_at": "2026-05-23T15:22:28Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T15:24:17Z"
+    },
+    {
+      "folder": "2025-05-23_Why Some People Connect Deeply and Others Don't (Coaches' Perspective)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T15:24:47Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T15:25:53Z"
+    },
+    {
+      "folder": "2025-05-27_\uff02I Should Be More Productive\uff02 Is Killing You (Coaching Session With Master Coach)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T15:07:55Z",
+      "claimed_at": "2026-05-23T15:26:31Z",
       "articles_created": [],
       "articles_updated": []
     }

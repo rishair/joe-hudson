@@ -83,6 +83,8 @@ The whole sequence can land in five minutes when the person is already on the ve
 
 - [[i-want-to-be-authentic-on-stage]] — the performance version of the same structure. A stand-up comic asking how to be authentic on stage is asking the relational-anxiety question scaled up. The mask-or-run pattern there is "perform-or-freeze." The shame layer is the same. The work is structurally identical: bring the live moment into the room, name what is being hidden (almost always emotion), restore connection. The on-stage version has more concentrated exposure and a fixed-length window; the relational version has more time and intimacy.
 
+- [[im-not-comfortable-sharing-my-story]] — the autobiographical-disclosure version of the same structure. A person who wants to share their personal story (often a recovery story, an addiction story, a survival story) but can't quite get themselves to do it comfortably. The work has the same architecture: bring the moment into the room, name what's being hidden, find that what's being hidden is emotion (often anger first, then sadness, then deeper layers). The story-sharing version often has the additional resource of a past survival skill that can be paralleled to the present work (see [[parallel-the-clients-own-survival-skill-to-the-present]]).
+
 ## Sources
 
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the man who got called on in a public Q&A, said he gets anxious in relationships, that he doesn't like being seen, that he puts on a mask or runs; the live demonstration of the pattern (being anxious about being called on while presenting the problem of being anxious); the breakthrough that what he was hiding was his emotions

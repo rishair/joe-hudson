@@ -83,6 +83,7 @@ A late-stage feature: when this practice becomes a default, speaking your truth 
 - Toward [[vulnerability]] as the V in VIEW that the practice activates
 - Toward [[say-the-thing-youre-not-saying]] as the relationship-specific version of the same practice
 - Toward [[compassion-as-truth-from-open-heart]] as the structural form of the speaking
+- Toward [[holding-back-truth-is-self-harm]] for the parallel mechanism: just as speaking truth produces self-approval, withholding truth produces self-harm; the two principles describe two faces of the same self-relating dynamic
 
 ## Tone
 

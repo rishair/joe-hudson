@@ -4,7 +4,7 @@ id: keep-asking-whats-the-problem-with-that
 title: "Keep Asking 'What's the Problem With That?' (Drilling to the Core Fear)"
 aliases: ["keep asking what's the problem with that", "what's the problem with that move", "the drilling-down question", "drill to the core fear", "the recursive what's-the-problem", "what's the problem question", "drill down to the basic core", "the layered what's-the-problem", "go to the core question", "the descent question", "keep asking until you hit the bottom", "the problem-with-that descent", "the core-fear drill", "the recursive descent move", "what's the problem with not living a fuller life", "what's the problem with your talent getting wasted"]
 tags: ["questions", "moves", "fear", "felt-sense", "depth", "drilling"]
-sources: ["2024-04-22_How Do I Live Up To My Potential？", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)"]
+sources: ["2024-04-22_How Do I Live Up To My Potential？", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Keep Asking 'What's the Problem With That?'
@@ -97,6 +97,24 @@ The compressed form works because the prohibition was thin to begin with. When t
 
 The longer-form descent (six repetitions toward the felt feeling) is for narratively-defended fears where the person has built a logical structure on top of the feeling. The compressed form is for moralistically-defended wants where the person has only built a shame on top of the want. The same move, calibrated to the depth of the defense.
 
+## The Two-Turn Form for "Why Am I Stuck" Presenting
+
+A third in-session use of the move opens a "why am I stuck" presenting concern in two turns, by drilling the surface judgment underneath the stuckness into the survival-belief that produces it.
+
+- **Client:** "Why am I stuck, um, moving forward? Why am I not moving forward feeling the confidence... after 25 years of being a mental health professional?"
+- **Joe:** "So what, what's, what's with the judgment?"
+- **Client:** "Yeah, the judgment. Um, it's not going to be as good as I think I thought it was going to be. Uh, I'm not as good as I thought I would be."
+- **Joe:** "Yeah, what's the problem with that?"
+- **Client:** "Um, I was always the good one. Uh, I always figured out how to be the top of my class."
+- **Joe:** "Cool. Okay, great. Now we know what the real issue is. You're, you're not the top of your class in this."
+- *(Source: Why Am I Stuck In Life When I Know My Patterns?)*
+
+Two turns of the move have moved the work from "I'm stuck" (presenting) to "I'm not going to be as good as I thought" (judgment) to "I was always the good one, top of the class" (survival belief). The third layer is what the work then addresses — the belief that being-the-best was the safety condition. The stuckness was the consequence of the belief encountering a domain where being-the-best is impossible.
+
+The compressed form works here because the client is articulate and the underlying belief is close to the surface. The two turns access what longer sessions would also surface; the brevity is possible when the client's stuckness is built on a recognizable survival-pattern they have not yet seen as the engine.
+
+The move also pairs with a specific opening question Joe sometimes uses before the drilling: "What's with the judgment?" (or "what's the judgment about?"). The framing question identifies that the presenting "I'm stuck" is sitting on top of a self-judgment, and the drilling then descends through the judgment. The combined sequence — name the judgment as the entry, then drill its problem — moves quickly from presenting to substrate.
+
 ## Tone
 
 Patient, level, persistent. The same question, said the same way each time, builds the drilling rhythm. The energy is "I am with you, we are going somewhere, keep going."
@@ -126,3 +144,5 @@ The recursive question forces a descent the person cannot make alone. Left to th
 ## Sources
 
 - 2024-04-22_How Do I Live Up To My Potential?
+- 2025-04-01_How Do I Stop Caring What Others Think? (Coaching Session With Master Coach) -- the compressed two-turn form applied to a "just" prohibition; the move dissolved the prohibition without descending to the felt feeling
+- 2025-05-16_Why Am I Stuck In Life When I Know My Patterns? (Coaching Session With Joe Hudson) -- the two-turn form applied to "why am I stuck" presenting; the move moved presenting -> self-judgment -> survival belief in two iterations; the pairing of the move with the opening "what's with the judgment?" framing question
