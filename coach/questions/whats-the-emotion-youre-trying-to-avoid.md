@@ -2,9 +2,9 @@
 type: question
 id: whats-the-emotion-youre-trying-to-avoid
 title: "What's the emotion you're trying to avoid?"
-aliases: ["what's the emotion you're trying to avoid", "what's the emotional reality you don't want to deal with", "what feeling are you avoiding", "what's the emotion you're avoiding in this decision", "the emotion-avoided question", "the decision-as-avoidance question", "the avoided-feeling question", "what's the emotional experience you're avoiding", "the decisions-course diagnostic question", "the both-sides emotion-avoided question", "what's the feeling on each side of this", "what are you trying to not feel", "the emotion-on-the-fork question"]
+aliases: ["what's the emotion you're trying to avoid", "what's the emotional reality you don't want to deal with", "what feeling are you avoiding", "what's the emotion you're avoiding in this decision", "the emotion-avoided question", "the decision-as-avoidance question", "the avoided-feeling question", "what's the emotional experience you're avoiding", "the decisions-course diagnostic question", "the both-sides emotion-avoided question", "what's the feeling on each side of this", "what are you trying to not feel", "the emotion-on-the-fork question", "what's the hurt you're trying to avoid", "what's the hurt you're trying to avoid if any", "the hurt-avoided variant", "what's the pain you're trying to avoid", "the relationship-specific avoided-hurt variant"]
 tags: ["decisions", "emotional avoidance", "diagnostic question", "fork", "indecision", "core question"]
-sources: ["2024-05-27_How Do I Not Burn Out Again？"]
+sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-11-19_Why He's Afraid To Commit"]
 ---
 
 # What's the emotion you're trying to avoid?
@@ -67,6 +67,18 @@ The reframe takes the person out of the fork and into the deeper question: what 
 
 If the person resists the question and tries to keep working the decision-frame, the move is gentle reassertion: "Yeah, you want to feel achievement and progress, and you don't want to feel non-progress, stuck, and burnout, right? Yeah, yeah. And, uh, what makes you think that you could either have a baby or, um, have a career and guarantee that you don't feel burnout?" The question that surfaces the impossibility of avoidance via choice. Once that lands, the decision-frame can no longer hold.
 
+## The "Hurt" Variant
+
+When the deliberation is about a relationship (entering one, staying in one, leaving one) and the avoided material is grief, loss, or pain rather than fear, shame, or guilt, Joe often substitutes "hurt" for "emotion." The variant: "What's the hurt you're trying to avoid, if any?"
+
+The substitution matters. "Emotion" is generic and can be answered with a list. "Hurt" is specific and points at the wound the avoidance is organized around. The asker who substitutes "hurt" is telegraphing that they expect the answer to be a pain — usually a pain that has already happened and is being prevented from happening again.
+
+The "if any" appended to the question matters too. It removes the assumption that there must be a hurt. The person can say no, there isn't one. Most often there is, and the "if any" gives the person space to find it without being told it's there.
+
+In the source session for this variant, Joe asked "what's the hurt you're trying to avoid, if any?" after the man had named his ambivalence about being in another relationship. The answer surfaced his marriage history — 10 years married, then divorced, then a 3-year relationship that ended, then a year single. The hurt was the recurring loss. The deliberation about a new relationship was organized around not re-encountering that hurt. See [[should-i-be-in-a-relationship-at-all]] for the concern this variant most often serves.
+
+The variant is also useful when the person is post-something (post-divorce, post-loss, post-major-life-transition) and the avoided material is anticipated grief rather than abstract fear. The hurt-language acknowledges what has happened in a way the emotion-language does not.
+
 ## What This Question Is Not
 
 This is not [[whats-the-ultimate-thing-youre-running-from]]. That question goes for the bottom — the deepest abyss the person has organized their whole life around avoiding. This question is tactical. It asks about the specific feeling being avoided in this specific decision. The deeper-abyss question is a closer in a session. This question is an opener.
@@ -92,3 +104,4 @@ The follow-up ("and on the other side?") is asked the same way. The symmetry mov
 ## Sources
 
 - 2024-05-27_How Do I Not Burn Out Again？ (the live use of the question on both sides of a career-vs-family fork; the IQ-stays-same setup; the symmetry-surfacing follow-up; the reframe from "which option?" to "how do I do anything without avoiding the feeling?")
+- 2024-11-19_Why He's Afraid To Commit (the "what's the hurt you're trying to avoid, if any?" variant in the context of post-divorce relationship deliberation; the question surfaces the marriage-and-loss history that is organizing the avoidance of a new relationship)

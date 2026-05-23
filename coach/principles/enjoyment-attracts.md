@@ -5,7 +5,7 @@ title: "Enjoyment Attracts (People Who Enjoy Their Life Do More Things They Enjo
 aliases: ["enjoyment attracts", "people who enjoy their life do more things they enjoy", "people who endure end up doing things they endure more and more", "enjoyment is an attractor", "endurance is an attractor", "the enjoyment compounds principle", "the endurance compounds principle", "you attract what you embody emotionally", "enjoyment attracts enjoyable work", "enjoyment attracts people who want enjoyment", "the enjoyment flywheel", "the endurance flywheel", "the enjoyment-or-endurance fork", "what you reinforce shapes what shows up", "the people-can-read-it principle", "people can feel it"]
 tags: ["principle", "enjoyment", "endurance", "attraction", "compounding", "work", "life trajectory"]
 related: ["enjoyment-as-path", "efficiency-as-enjoyment", "consciousness-is-the-product", "enjoy-over-manage", "authenticity-in-business", "redirect-from-doing-it-right-to-enjoying-it", "lack-of-enjoyment-as-diagnostic", "what-we-fear-we-invite", "i-make-money-only-when-i-hate-what-im-doing", "ive-lost-my-joy"]
-sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
+sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2024-11-19_Why He's Afraid To Commit"]
 ---
 
 # Enjoyment Attracts
@@ -60,6 +60,20 @@ The same logic applies to the person who endures the dating they hate to find th
 
 This is also why [[i-make-money-only-when-i-hate-what-im-doing]] is a self-perpetuating concern. The endurance is being reinforced; the enjoyment is being deferred; the wiring is being installed for the next round of the same pattern.
 
+## The Endurance Trajectory in Relationships
+
+The principle applies sharply to the relationship domain. A person who has built endurance as their primary capacity often imports it into relationships — treating partnerships as a thing to push through, manage, survive. The relationship-as-endurance frame then attracts a relationship that is, in fact, endurance. The configuration produces the partner-dynamic it predicts. See [[relationships-as-test-of-endurance]] for the read that fires when this frame is operating.
+
+The trajectory compounds across relationships. A person who endured their previous marriage (often without realizing the endurance was the operative configuration) carries the same configuration into the post-divorce question of whether to be in another relationship. They imagine the next relationship as more endurance, so they don't want it. Or they enter it grimly, and the grim entry produces the grim relationship that confirms the frame.
+
+The frame can also generate the deliberation about whether to be in a relationship at all. See [[should-i-be-in-a-relationship-at-all]]. The person is not actually deliberating about relationship as a category; they are deliberating about whether to take on another endurance project. Of course the deliberation does not converge. Both options inside the frame are bad.
+
+The redirect for this case is the same redirect as in any domain: change the configuration before changing the activity. The person does not need to find a "better" relationship; they need to drop the endurance frame they would bring to any relationship. See [[reframe-from-whether-to-how]] for the move that operationalizes the redirect.
+
+"You treat relationships like an ultramarathon and a test of endurance? Yeah, I would avoid the fuck out of that." -- Joe Hudson, Why He's Afraid To Commit
+
+The line names both the frame (endurance) and the rational response to the frame (avoidance). The endurance frame is producing the avoidance. The avoidance is not pathological; it is the appropriate response to a bad frame. The work is the frame, not the avoidance.
+
 ## When Joe Reaches for This Principle
 
 - When someone describes a long-term plan that requires enduring the present for a future payoff.
@@ -98,6 +112,7 @@ The argument is not that enjoyment is more productive in the moment (though [[ef
 - Toward [[efficiency-as-enjoyment]]: the per-action mechanism that explains why enjoyment outperforms.
 - Toward [[lack-of-enjoyment-as-diagnostic]]: the leadership application — when team members report not enjoying the work, that is the trajectory data, not a complaint to dismiss.
 - Toward [[authenticity-in-business]]: the company-scale version of the principle.
+- Toward [[endurance-blocks-transformation]]: the corollary principle for inner work — endurance, brought to a feeling that needs to be felt, locks the feeling in place; the redirection is from endurance to engagement.
 
 ## Tone
 
@@ -106,3 +121,4 @@ Direct, slightly amused, slightly serious. Joe states the principle as if it is 
 ## Sources
 
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the principle stated explicitly at the open and the close of the episode; the marketing-attraction example showing how unenjoyed marketing transmits and fails; the "everybody can read and feel that" formulation of why enjoyment is somatically detectable; the close: focus on enjoyment the way you would focus on getting the job done)
+- 2024-11-19_Why He's Afraid To Commit (the endurance trajectory in the relationship domain: the ultramarathon runner who has been enduring relationships sees the relationship category as more endurance; the deliberation about whether to be in a new relationship is generated by the frame; Joe names the frame and redirects rather than adjudicating the deliberation)

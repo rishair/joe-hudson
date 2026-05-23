@@ -2,10 +2,10 @@
 type: distinction
 id: love-vs-nice
 title: "Love vs. Nice"
-aliases: ["love is not nice", "nice is not love", "loving is not being nice", "love vs niceness", "hard truth as love"]
+aliases: ["love is not nice", "nice is not love", "loving is not being nice", "love vs niceness", "hard truth as love", "love compassion and nice are not the same", "the love-compassion-nice collapse"]
 tags: ["love", "niceness", "truth", "people-pleasing", "compassion"]
-related: ["love-as-deep-welcoming", "vulnerability", "people-pleasing", "caring-vs-caretaking", "letting-judgment-in"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
+related: ["love-as-deep-welcoming", "vulnerability", "people-pleasing", "caring-vs-caretaking", "letting-judgment-in", "compassion-as-truth-from-open-heart", "nice-vs-kind-from-open-heart"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2024-11-12_The Boy Who Taught Me Truth"]
 ---
 
 # Love vs. Nice
@@ -61,6 +61,16 @@ Nice also creates a relationship in which the other person cannot trust what is 
 
 This is why people-pleasing erodes intimacy. See [[people-pleasing]] (when this article exists). The pleasing partner protects themselves from the risk of truth, and the relationship slowly hollows.
 
+## The Same Collapse Happens to "Compassion"
+
+The same false equivalence that collapses love into niceness also collapses compassion into niceness. The three words tend to fuse: love = compassion = nice. They are not the same.
+
+"Oftentimes what we think of compassion is, like, being nice. We think of being loving as being nice." -- Joe Hudson, The Boy Who Taught Me Truth
+
+Joe specifies the contexts where he sees the collapse happen most clearly: online discourse (Twitter) and coaching environments. Both reward looking virtuous. The easiest way to look loving or compassionate without risking anything is to refuse to say anything that might upset anyone. The refusal gets praised. The actual love or compassion goes missing.
+
+The two-part definition of compassion is the same as the test for love-not-nice: open heart AND truth. See [[compassion-as-truth-from-open-heart]] for the dedicated treatment.
+
 ## What This Does Not Mean
 
 This distinction does not justify cruelty, harshness, or brutality dressed up as honesty. Many people who think they are "telling the hard truth" are actually venting or attacking.
@@ -102,8 +112,10 @@ Gandhi held boundaries. Mother Teresa held boundaries. The figures held up as ex
 - Toward [[boundary-with-vs-boundary-against]]: the related distinction about how boundaries can be loving.
 - Toward [[caring-vs-caretaking]]: niceness is often caretaking, not caring.
 - Toward [[examples/alex-bell-told-joe-he-lied]]: the canonical example.
+- Toward [[compassion-as-truth-from-open-heart]]: the parallel distinction applied to the word "compassion."
 
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)
+- 2024-11-12_The Boy Who Taught Me Truth (compact retelling that extends the love-vs-nice teaching explicitly to "compassion," names Twitter and coaching as the contexts where the collapse is most visible, and gives the positive two-part definition: open-hearted AND speaking truth)

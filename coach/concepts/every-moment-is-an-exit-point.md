@@ -2,10 +2,10 @@
 type: concept
 id: every-moment-is-an-exit-point
 title: "Every Moment Is an Exit Point (Identity Dying in Real Time)"
-aliases: ["every moment is a death", "every moment is an exit point", "moment-by-moment identity death", "the spiritual exit point", "spiritual development as continual exit point", "you are dying every moment", "the identity that was no longer is", "the story keeps falling apart", "every moment your identity dies", "exit point of identity", "the spiritual edge", "the cliff in every moment", "the death-in-every-moment teaching", "what you were is no longer", "there's only the you that's here right now", "5, 6, 7 times you hit that exit point"]
-tags: ["concept", "identity", "annihilation", "fear", "spiritual development", "present-moment", "non-dual", "self"]
-related: ["annihilation-reveals-what-is-real", "identity-extension-expands-fear", "story-dissolution-is-progress", "fear-is-about-feeling", "two-words-for-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-vs-excitement", "feeling-yourself-beats-going-to-plan", "where-you-are-is-the-lesson"]
-sources: ["2024-02-02_A Workshop for Welcoming Fear"]
+aliases: ["every moment is a death", "every moment is an exit point", "moment-by-moment identity death", "the spiritual exit point", "spiritual development as continual exit point", "you are dying every moment", "the identity that was no longer is", "the story keeps falling apart", "every moment your identity dies", "exit point of identity", "the spiritual edge", "the cliff in every moment", "the death-in-every-moment teaching", "what you were is no longer", "there's only the you that's here right now", "5, 6, 7 times you hit that exit point", "parts of me die all the time", "my identity dies on a regular basis", "every moment there's some part of me that's not gonna ever exist again", "I'm never gonna be who I was yesterday"]
+tags: ["concept", "identity", "annihilation", "fear", "spiritual development", "present-moment", "non-dual", "self", "death"]
+related: ["annihilation-reveals-what-is-real", "identity-extension-expands-fear", "story-dissolution-is-progress", "fear-is-about-feeling", "two-words-for-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-vs-excitement", "feeling-yourself-beats-going-to-plan", "where-you-are-is-the-lesson", "acknowledging-death-compresses-life", "the-abyss-is-where-you-dont-exist", "bretts-brother-scott"]
+sources: ["2024-02-02_A Workshop for Welcoming Fear", "2024-12-06_How Death Brings Life Closer"]
 ---
 
 # Every Moment Is an Exit Point (Identity Dying in Real Time)
@@ -83,6 +83,20 @@ The frame does not mean: dramatize every moment. The exit point in every moment 
 
 Conversely, the frame does not mean: every minor identity adjustment is "ego death." Inflating ordinary self-revisions into spiritual emergencies trivializes the language and confuses the practice. Some identity-extensions release gently. Some release with the full activation of annihilation fear. Both are exit points, but the felt intensity varies. The discernment of which is which is part of the practice.
 
+## The Literal-Death Convergence
+
+In a December 2024 conversation with Brett about Brett's brother dying of brain cancer, Joe extends the every-moment-exit-point teaching to the relationship between literal death and ordinary identity death. The same recognition underlies both:
+
+"There's a way in which when we acknowledge death, not just the death of my brother's gonna die, but the death of I'm never gonna be who I was yesterday. Parts of me die all the time. My identity dies on a regular basis. When we really acknowledge that everything is fleeting, and I don't mean it just intellectually, I mean like physically, viscerally acknowledge it, there's something that happens that very much compresses life." -- Joe Hudson, How Death Brings Life Closer
+
+The literal death of a loved one and the moment-to-moment death of identity are two scales of the same structure. Most people are in better contact with the literal-death version because the literal-death version is harder to look away from. The moment-to-moment version is happening continuously but is structurally easier to ignore. The work is to bring the felt-acknowledgement that arrives around literal death to the moment-to-moment version that is always available.
+
+"Every moment that we exist, there's a death. There's some part of me that's not gonna ever exist again. So even if I'm remembered, like, is it the one that is speaking now that's remembered, or is it the one from 5 years ago that was remembered? I can't even remember the one 5 years ago. That walked around as Joe Hudson." -- Joe Hudson, How Death Brings Life Closer
+
+The Joe of five years ago is gone. The Joe of five minutes ago is gone. The continuous self that connects them is a present-moment activity of self-construction. Each moment is the exit point for the moment before it.
+
+The full account of what the visceral acknowledgement does is in [[acknowledging-death-compresses-life]]. The every-moment frame is what that acknowledgement-compression looks like applied to ordinary time rather than only to the dramatic moments of literal death.
+
 ## What This Replaces
 
 The default frame of identity treats the self as continuous, persistent, and either stable or destabilized. Within this frame, the destabilization of self is a crisis to be repaired. The therapy industry, the self-help industry, and most spiritual traditions in their popular forms work to repair the destabilized self back to stability.
@@ -128,3 +142,4 @@ Joe offers this in real time, mid-conversation, as a recognition arising as he l
 ## Sources
 
 - 2024-02-02_A Workshop for Welcoming Fear (Joe's spontaneous extension of the BASE-jumping exit point to ordinary spiritual life, with the "first 5, 6, 7 times" observation and the "enjoy your fear" frame for what to do with the activation when it arrives)
+- 2024-12-06_How Death Brings Life Closer (the convergence between literal-death acknowledgement and moment-to-moment exit-point recognition; the "parts of me die all the time" and "I can't even remember the one 5 years ago" framings)

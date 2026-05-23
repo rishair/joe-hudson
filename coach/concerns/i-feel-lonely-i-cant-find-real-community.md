@@ -4,7 +4,7 @@ id: i-feel-lonely-i-cant-find-real-community
 title: "I feel lonely / I can't find real community"
 aliases: ["I'm lonely", "I feel disconnected", "I don't have community", "I can't find my people", "I have friends but I'm still lonely", "I don't feel like I belong anywhere", "I don't have anywhere I can be myself", "I have lots of friends but no one really sees me", "I feel like I'm always performing", "I don't have a tribe", "where do I find community", "how do I find people who get it", "I'm tired of surface friendships", "all my friends are surface-level", "the loneliness epidemic me too", "I have 2 or 3 friends but it's not enough", "I'm scared to look for community", "I tried community and got burned", "I don't trust groups anymore", "I left the community I had and now I'm alone", "I'm scared of community because of what I've seen", "I want depth but I don't know where to find it"]
 tags: ["loneliness", "community", "connection", "concerns", "isolation", "belonging"]
-sources: ["2023-10-04_Finding Community", "2023-09-29_Finding Community"]
+sources: ["2023-10-04_Finding Community", "2023-09-29_Finding Community", "2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122"]
 ---
 
 # I feel lonely / I can't find real community
@@ -88,7 +88,12 @@ This concern is not [[the-more-i-grow-the-more-alone-i-feel]]. That person is re
 
 This concern is also not the [[i-have-to-do-it-all-myself]] hyper-independence presenting, though they often overlap. The lonely CEO who reports having no one who gets them may need both reads — the loneliness concern and the self-reliance pattern.
 
+## When the Need Is More Specifically a Support System
+
+Some people presenting this concern do not actually need a broad [[community]] in the functional sense. They need one or more [[support-system|support systems]] organized around specific purposes (leadership, parenting, recovery, business). The diagnostic: is the person describing a general loneliness, or a specific axis of life that has no peer container? If the latter, the conversation moves into how to design or find a peer container around that purpose. See [[shared-purpose-not-shared-proximity]] for why the purpose is the first design move. See [[echo-chamber-of-the-single-support-group]] for why one such system is rarely enough.
+
 ## Sources
 
 - 2023-10-04_Finding Community
 - 2023-09-29_Finding Community
+- 2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122 (the support-system fork: when the need is one or more designed peer containers around specific purposes rather than a broad community)

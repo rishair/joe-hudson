@@ -3,9 +3,9 @@ type: principle
 id: friction-is-required-for-life
 title: "Friction Is Required for Life"
 aliases: ["life requires resistance", "resistance is necessary", "a cell needs friction", "anxiety isn't going away because life", "you can't eliminate friction", "no friction means death", "life requires friction"]
-tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance"]
-related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense"]
+tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance", "relationships"]
+related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut", "how-you-fight-not-how-often", "black-swan-small-collapses-prevent-big-ones", "every-fight-can-bring-you-closer", "conflict-as-evolutionary-tension"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense", "2024-12-17_Why Fighting Is Important"]
 ---
 
 # Friction Is Required for Life
@@ -62,6 +62,20 @@ This is the corollary that connects the anxiety-version of the principle to the 
 
 For the specific application to conflict with an open heart, see [[examples/joes-board-member]] and [[boundary-with-vs-boundary-against]].
 
+## Applied to Fighting in a Relationship
+
+The same principle applies to the friction of a fight between two people. The cell needs tension. The lung needs tension. The relationship needs tension. The aliveness of two people in contact necessarily produces some friction; if the friction is not produced, one or both people are not actually in contact.
+
+"All life requires tension. If I'm going to breathe, my lungs have to have tension. If a cell is going to exist, it has to have tension. So as we grow, as we live, as we're alive, as we change as people, there's going to be tension. And the more transformation that we have in our life, the more tension there's going to be there. And so we need to address that tension for us to be vital and alive and healthy." -- Joe Hudson, Why Fighting Is Important
+
+The amplitude of the friction tracks the rate of transformation. A relationship in which both people are growing rapidly will have more tension than a relationship in which both people are static. The tension is not a sign that growth is failing; it is a sign that growth is happening.
+
+The compounding cost of suppressing the friction is the systems-level form of the same principle. See [[black-swan-small-collapses-prevent-big-ones]] for the Taleb metaphor Joe uses to explain why suppression of small disruptions produces large disruptions, not no disruptions. The marriage that has no fights is the financial market with monetary policy preventing every small downturn. Both produce eventual large failures from the suppressed accumulation.
+
+"The avoidance of the friction is an amazingly detrimental thing to a relationship because it basically kills it. It stagnates it. And so having that friction is just critical. It's just how you have it that's important." -- Joe Hudson, Why Fighting Is Important
+
+The "how you have it" pivot is the application of the principle. Once the necessity of the friction is established, the question shifts from whether to have it to how to have it. See [[how-you-fight-not-how-often]] for the full treatment of the quality metric that replaces the count metric.
+
 ## Connection to Sun and Cell
 
 The biological framing matters. The principle is not a spiritual claim. It is a physical observation. The cell membrane requires the resistance of the environment to maintain its shape. The sun's gravitational collapse is balanced against its fusion pressure -- the friction between the two is what keeps the sun burning. Remove the friction at either end, and the sun ceases to exist.
@@ -97,9 +111,14 @@ Matter-of-fact. The principle is delivered as observation, not as comfort. It is
 - Toward [[love-the-anxiety-not-just-with-it]]: the deeper posture this enables
 - Toward [[epiphany-becomes-rut]]: the parallel principle that no state is final
 - Toward [[suffering-vs-pain]]: the related distinction between structural pain and added suffering
+- Toward [[how-you-fight-not-how-often]]: the relational corollary -- if the friction can't be eliminated, the question is the form of it, not the count
+- Toward [[black-swan-small-collapses-prevent-big-ones]]: the systems-level metaphor that explains why suppressed small frictions compound into large ones
+- Toward [[every-fight-can-bring-you-closer]]: the destination orientation that follows from accepting friction as structural
+- Toward [[conflict-as-evolutionary-tension]]: the framing of friction as where the better solution lives
 
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
 - 2022-10-26_Love Over Defense (life-is-tension and Bhagavad Gita treatment)
+- 2024-12-17_Why Fighting Is Important (the lung-and-cell version of the principle applied directly to fighting in relationships; the "more transformation means more tension" corollary; the "avoidance of friction kills the relationship" framing; the pivot from whether-to-have-it to how-to-have-it)

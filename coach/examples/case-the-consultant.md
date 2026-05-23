@@ -2,10 +2,10 @@
 type: example
 id: case-the-consultant
 title: "Case the Consultant (How Joe Learned Connection Beats Seriousness)"
-aliases: ["Case story", "the Case story", "Joe's mentor Case", "Case in VC", "Case and the farming communities", "Case who laughed", "Joe and Case in venture capital", "the consultant Case", "Case telling Joe about his awakening", "Joe recognized his own awakening through Case"]
-tags: ["connection", "business", "venture-capital", "joe-personal-story", "view-origin"]
-related: ["connection", "connection-as-life-bottom-line", "view", "process-over-result", "case-the-vc-consultant", "joes-bathroom-realization", "self-realization"]
-sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW", "2022-10-26_Introduction to VIEW", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
+aliases: ["Case story", "the Case story", "Joe's mentor Case", "Case in VC", "Case and the farming communities", "Case who laughed", "Joe and Case in venture capital", "the consultant Case", "Case telling Joe about his awakening", "Joe recognized his own awakening through Case", "Kase", "Kase the consultant", "Kase Joe's friend", "Kase's lymphatic cancer awakening", "Kase's non-Hodgkin's lymphoma awakening", "the friend who awakened through cancer", "the awakening that came with the cancer diagnosis", "Joe's friend who died of a heart attack after curing cancer twice", "Joe's friend who said it was never gone", "the it-was-never-gone report after the awakening went away", "Joe's funeral poem source"]
+tags: ["connection", "business", "venture-capital", "joe-personal-story", "view-origin", "death", "awakening", "cancer"]
+related: ["connection", "connection-as-life-bottom-line", "view", "process-over-result", "case-the-vc-consultant", "joes-bathroom-realization", "self-realization", "joes-funeral-poem-for-kase", "acknowledging-death-compresses-life", "every-moment-is-an-exit-point"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW", "2022-10-26_Introduction to VIEW", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-12-06_How Death Brings Life Closer"]
 ---
 
 # Case the Consultant (How Joe Learned Connection Beats Seriousness)
@@ -52,6 +52,30 @@ In the connection podcast, this story is the first of three pieces of evidence t
 
 The three together produced a felt certainty that connection was not a soft variable. It was the operating principle that produced the best outcomes across every domain Joe cared about.
 
+## Case's Cancer Awakening (And the Report That It Was Never Gone)
+
+Years after the venture-capital period, Case was diagnosed with cancer -- lymphatic cancer, non-Hodgkin's lymphoma. In the imminent-death period of the diagnosis, Case had what Joe describes as an awakening. He saw through his personality and the self he had taken himself to be. What he saw as himself was universal, one with everything. He was, in Joe's words, "stoked."
+
+Then the cancer cleared. He was cured. He survived the situation that had triggered the awakening, and the awakening-state itself faded.
+
+When Joe asked him later how he had come back to the awakening once the imminent-death frame was no longer there, Case gave a one-line answer that Joe still cites:
+
+"Oh, it's like when I found out, I realized it was never gone." -- Case, as quoted by Joe Hudson, How Death Brings Life Closer
+
+The teaching in the answer: the bliss-state of the awakening can come and go; the recognition does not. Once it has been seen that the personal self is a construction and that what was previously taken for "me" was always already universal, the seeing remains available, even when the felt-state of the seeing fades. The fading was the fading of a state. The recognition was the recognition of a structural fact, which does not require the state to remain true.
+
+This is the principle named separately as [[dont-conflate-the-bliss-with-the-insight]]. Case's report is one of its most condensed expressions in Joe's record.
+
+Case eventually got cancer again, was curing the second cancer, and died of a heart attack. The death was not the death he had been preparing for. The awakening, by his own report, never had to be re-found.
+
+## Joe's Funeral Poem for Case
+
+Joe wrote a poem for Case's funeral. The full text and analysis live in [[joes-funeral-poem-for-kase]]. The poem's central move is to thank the illusion of self that allowed the relationship -- not despite seeing through the illusion, but because of seeing through it.
+
+The poem is the bookend on the role Case played in Joe's life. The first role: showing Joe that connection in business was possible. The second role: showing Joe that the awakening Joe had been chasing had already arrived. The third role, posthumously: the relationship that the poem is honoring is the relationship that, by Joe's own teaching in [[death-is-not-the-end-of-the-relationship]], continues developing even now.
+
+Case is referenced in the December 2024 conversation by name -- spelled both "Kase" and "Case" in transcripts of different episodes. The same person. The cancer-awakening account and the funeral poem are part of how the larger teaching of [[acknowledging-death-compresses-life]] became viscerally available to Joe.
+
 ## What This Example Teaches
 
 The teaching is not about Case as a personality. It is about what becomes possible when one sees connection operating as the bottom line.
@@ -73,3 +97,4 @@ The story is also worth telling because it locates the teaching in actual experi
 - 2020-10-26_Introduction to VIEW (Case as the origin of the VIEW methodology, including the cancer/California arc)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (Case's second role in Joe's life: hearing Case describe his own awakening was the moment Joe recognized his own awakening had already happened months earlier)
+- 2024-12-06_How Death Brings Life Closer (the cancer-awakening account, the "it was never gone" report, the second cancer, the heart-attack death, and the existence of Joe's funeral poem)

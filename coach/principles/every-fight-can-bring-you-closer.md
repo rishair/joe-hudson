@@ -4,7 +4,7 @@ id: every-fight-can-bring-you-closer
 title: "Every Fight Can Bring You Closer (When You Know How to Fight Well)"
 aliases: ["every fight can bring you closer", "fights that heal", "fighting well", "fighting in a way that heals", "the trend line of fighting", "fights as openings", "I can't wait to have a fight", "fighting that brings personal growth", "fight as opening into more of yourself", "fights bring you closer", "fights bring growth", "what fighting well means", "fights as spiritual path", "the relationship as growth opportunity", "the fight as the way to become more yourself", "fall into non-defensiveness quickly", "the non-defensiveness move in fighting", "the practice of non-defensive recovery", "the move from no-that's-not to yeah-you're-right", "the I-see-how-that-reality-is-true-for-you move", "your reality is true for you and mine is true for me", "the rapid non-defensiveness move"]
 tags: ["principle", "relationships", "fighting", "marriage", "growth", "trauma", "closeness", "non-defensiveness"]
-related: ["power-dynamics-as-two-defenders", "trigger", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "arc-of-fighting-maturation", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "conflict-as-evolutionary-tension", "we-never-fight", "we-have-built-up-resentment", "you-can-only-fix-yourself-in-a-fight", "regression-in-the-fight-work-is-progress", "truth-is-perspective-with-context", "loving-presence-as-defense", "you-are-responsible-for-your-own-window-of-tolerance", "name-im-in-my-trauma-as-couple-language", "your-trauma-is-equally-matched-with-your-partner", "view-can-show-up-with-anger"]
+related: ["power-dynamics-as-two-defenders", "trigger", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "arc-of-fighting-maturation", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "conflict-as-evolutionary-tension", "we-never-fight", "we-have-built-up-resentment", "you-can-only-fix-yourself-in-a-fight", "regression-in-the-fight-work-is-progress", "truth-is-perspective-with-context", "loving-presence-as-defense", "you-are-responsible-for-your-own-window-of-tolerance", "name-im-in-my-trauma-as-couple-language", "your-trauma-is-equally-matched-with-your-partner", "view-can-show-up-with-anger", "how-you-fight-not-how-often", "joe-and-tara-retreat-prep-fight"]
 sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well"]
 ---
 
@@ -99,6 +99,8 @@ This is not a principle that requires never being scared during the fight. Joe d
 
 ## Downstream (Where Joe Goes From Here)
 
+- Toward [[how-you-fight-not-how-often]]: the metric reframe that operationalizes "fighting well" as a tracker
+- Toward [[joe-and-tara-retreat-prep-fight]]: the canonical illustration of a fight whose form is so matured that bystanders did not register it as a fight
 - Toward [[arc-of-fighting-maturation]]: the developmental stages couples go through to arrive at this orientation
 - Toward [[verbal-abuse-as-controlling-with-anger]]: the boundary that distinguishes fighting-that-heals from fighting-that-retraumatizes
 - Toward [[name-im-in-my-trauma-as-couple-language]]: the in-the-fight move that allows the trauma to be met with love

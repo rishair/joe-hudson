@@ -4,8 +4,8 @@ id: community
 title: "Community"
 aliases: ["functional community", "what community is", "real community", "a community that works", "deep community", "vulnerable community", "the us-ness of community", "healthy community", "community as container", "what makes a community", "the kind of community most people don't know exists"]
 tags: ["community", "connection", "container", "vulnerability", "impartiality", "witnessing"]
-related: ["connection", "container-of-love", "community-over-teacher", "vulnerability", "impartiality", "empathy", "wonder", "view", "fixing-people", "caring-vs-caretaking", "send-the-message-that-youre-whole", "without-grief-we-recreate-the-pattern", "i-feel-lonely-i-cant-find-real-community", "island-experiment", "host-a-grief-ceremony-as-community", "dont-comfort-the-mourner-from-your-own-discomfort", "the-attack-and-cling-test-of-real-community", "your-pain-when-witnessed-heals-the-whole-community"]
-sources: ["2023-09-29_Finding Community", "2023-10-04_Finding Community"]
+related: ["connection", "container-of-love", "community-over-teacher", "vulnerability", "impartiality", "empathy", "wonder", "view", "fixing-people", "caring-vs-caretaking", "send-the-message-that-youre-whole", "without-grief-we-recreate-the-pattern", "i-feel-lonely-i-cant-find-real-community", "island-experiment", "host-a-grief-ceremony-as-community", "dont-comfort-the-mourner-from-your-own-discomfort", "the-attack-and-cling-test-of-real-community", "your-pain-when-witnessed-heals-the-whole-community", "support-system", "shared-purpose-not-shared-proximity"]
+sources: ["2023-09-29_Finding Community", "2023-10-04_Finding Community", "2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122"]
 ---
 
 # Community
@@ -128,6 +128,20 @@ A community cultivated this way often does not have a designed structure. "It wa
 - Toward [[your-pain-when-witnessed-heals-the-whole-community]] when the person is hesitating to bring their grief or struggle into community because they feel like a burden
 - Toward [[island-experiment]] when the person needs to re-contact the felt sense of what they are looking for
 
+## Community vs. Support System
+
+Two adjacent constructs that get confused.
+
+A [[support-system]] is a designed peer group organized around a specific shared purpose, with explicit agreements about how members interact. A leadership cohort, a couples-and-parents quarterly group, a 15-year men's group with no-advice-unless-asked agreements — all support systems.
+
+A community in the functional sense described here is a broader container where members treat the group's health as their own. It can hold multiple support systems inside it. It can also exist where no formal support system has been designed.
+
+The two have overlapping features (vulnerability, presence, non-fixing, care for the whole) and different design constraints. A support system needs a sharp purpose to function. A community can run on a more diffuse shared orientation. A support system tends toward 8-21 members; a community can be larger or smaller.
+
+The right relationship: most people benefit from one (or several) [[support-system|support systems]] for specific purposes and ideally also from one or more communities that hold the broader weave. Pretending a support system is a full community — or pretending a community can do the focused work of a support system — produces predictable dissatisfaction.
+
+See [[shared-purpose-not-shared-proximity]] for the design principle that distinguishes the support-system construct, and [[echo-chamber-of-the-single-support-group]] for why no one support system can do all the work.
+
 ## Boundary Conditions
 
 A community of this kind cannot work when members do not take responsibility for themselves. Both halves of the paradox are required. Communities full of victims collapse into mutual rescue. Communities full of self-sufficient individuals never become communities. The structure holds when each person carries their own life and also carries the whole.
@@ -138,3 +152,4 @@ A community is also not a license to bypass the work of being an adult. The comm
 
 - 2023-09-29_Finding Community
 - 2023-10-04_Finding Community
+- 2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122 (the support-system construct as adjacent to but distinct from community; the design constraints that distinguish them)

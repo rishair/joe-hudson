@@ -2,9 +2,9 @@
 type: read
 id: treating-it-as-a-decision-when-its-an-emotion
 title: "Treating It As a Decision When It's an Avoided Emotion"
-aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling", "the binary decision about a habit as cover", "the should-I-stop-X question as cover", "the fork about a behavior is about the underlying feeling", "the relationship-decision frame as caretaking cover"]
+aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling", "the binary decision about a habit as cover", "the should-I-stop-X question as cover", "the fork about a behavior is about the underlying feeling", "the relationship-decision frame as caretaking cover", "the should-I-be-in-a-relationship-at-all binary as cover", "the existence-binary as cover for self-abandonment", "the should-I-or-shouldn't-I deliberation as the abandonment"]
 tags: ["read", "decisions", "avoidance", "intellectualization", "fork", "diagnostic", "habits"]
-sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-06-13_Do I Stop Drinking？", "2024-07-01_Should I Stay With My Ex？"]
+sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-06-13_Do I Stop Drinking？", "2024-07-01_Should I Stay With My Ex？", "2024-11-19_Why He's Afraid To Commit"]
 ---
 
 # Treating It As a Decision When It's an Avoided Emotion
@@ -101,6 +101,18 @@ What is being avoided in this variant is usually a [[blocker-emotions]] — sham
 
 See [[should-i-stop-drinking]] for the canonical concern, [[heart-in-a-box-want-to-drink]] for the specific access-mechanism the substance is often providing, and [[hidden-rebellion-under-the-habit]] for the second layer (the rebellion against the inner should that is keeping the habit alive against the conscious attempt to stop it).
 
+## The Should-I-Be-In-A-Relationship-At-All Variant
+
+A specific form of this read fires when the person is single (often post-divorce, post-breakup, post-long-period-alone) and presenting a binary about whether to be in a relationship at all. The framing: "I want to but it's too much work / I don't have time / it'll take away from the other things I want to do." Both voices have been running on each other for months or years. The deliberation has not converged.
+
+The structural signature for this variant: the person describes both an internal "for" voice and an "against" voice, but only the against voice has been fully elaborated. The for voice has been mentioned and then dismissed. The decision-frame is doing the work of letting the dismissal continue — as long as the question is being asked, the dismissive voice gets to keep dismissing.
+
+What is being avoided in this variant is usually [[self-abandonment-to-manage-the-other]] in its recursive form. The "other" being managed is the inner voice that wants the relationship. The "manager" is the voice that says it's too much work. The pattern is also often active in the present in a difficult ex relationship or co-parenting situation, which generates the endurance-frame the person is then projecting onto future relationships.
+
+The reframe move is [[reframe-from-whether-to-how]]: convert the binary about whether to be in a relationship into the configuration question about what kind of relationship would not feel like endurance. The supporting move is [[how-do-you-abandon-yourself]]: surface the active self-abandonment with both the ex and the inner voice. The recursive recognition that surfaces is [[the-question-itself-is-the-abandonment]]: the asking of the should/shouldn't question is the abandonment in real time.
+
+See [[should-i-be-in-a-relationship-at-all]] for the dedicated concern, [[relationships-as-test-of-endurance]] for the read about the endurance frame this variant almost always carries, and [[use-your-strength-on-the-real-work]] for the close that often lands the session.
+
 ## What This Read Is Not
 
 This is not the same as the person being genuinely undecided about a real choice. Real undecidedness is also a thing. The diagnostic for genuine undecidedness is that the person can usually feel the not-knowing as alive, can describe what each path would feel like in the body, and is not stuck in a loop. The person operating in the decision-as-avoidance pattern is producing the same conversation about the choice repeatedly, has done so for months or years, and the body is absent from the deliberation.
@@ -112,3 +124,4 @@ It is also not [[performing-growth]]. The decision-frame can be performed (a per
 - 2024-05-27_How Do I Not Burn Out Again？ (the live presentation of a post-burnout person framing her work as a choice between career and family, and Joe naming the decision-frame as the avoidance and going underneath it)
 - 2024-06-13_Do I Stop Drinking？ (the habit-change variant of the read: the client presents "should I stop drinking or just drink a little?" and Joe refuses the fork, locates the shame-and-guilt the drinking is managing, and reframes the question in those terms; the case demonstrates how the binary-decision frame works specifically when the decision is about a persistent habit)
 - 2024-07-01_Should I Stay With My Ex? (the relationship-decision variant: the woman presents "should I stay with my ex?" and Joe refuses the fork, surfaces the caretaking of the husband's depression and anger, lands on self-love as the work that makes the decision irrelevant)
+- 2024-11-19_Why He's Afraid To Commit (the should-I-be-in-a-relationship-at-all variant: the man, single post-divorce, presents the for-and-against deliberation about being in another relationship; Joe refuses the binary, names the endurance frame, surfaces the active caretaking with the ex AND the recursive self-abandonment in the inner deliberation, then demonstrates the spectrum of presence live; the work moves out of relationships entirely and into the self-abandonment pattern that any relationship would inherit)

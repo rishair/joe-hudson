@@ -4,7 +4,7 @@ id: conflict-as-evolutionary-tension
 title: "Conflict as the Natural Tension of Evolution"
 aliases: ["conflict is evolutionary tension", "conflict is the grist for the evolutionary mill", "leaning in speeds evolution", "tension as the room for growth", "the natural tension of evolution", "conflict creates better solutions", "the friction is the path", "noticing the tension that's there", "factory friction principle", "conflict is the exact place to lean in"]
 tags: ["conflict", "evolution", "growth", "tension", "relationships", "teams"]
-related: ["loving-conflict-vs-wanting-conflict", "conflict-avoidance-prevents-healing", "trust-requires-conflict", "friction-is-required-for-life", "tension-return-to-love-cycle", "dont-compromise-find-both-needs-met", "anger-as-containment-for-the-conflict-seeker"]
+related: ["loving-conflict-vs-wanting-conflict", "conflict-avoidance-prevents-healing", "trust-requires-conflict", "friction-is-required-for-life", "tension-return-to-love-cycle", "dont-compromise-find-both-needs-met", "anger-as-containment-for-the-conflict-seeker", "black-swan-small-collapses-prevent-big-ones", "how-you-fight-not-how-often"]
 sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
 ---
 
@@ -41,6 +41,8 @@ Tension does not stay the same size if it is not addressed. It grows. The longer
 "It'll get bigger and bigger so that when you finally lean into the conflict, it has a much higher chance of blowing shit up. Whereas if you're like right on top of it in every moment -- it doesn't need to be that diligent, but if you on a weekly basis say, okay, what's the tension here that I'm not addressing and I'm going to address it, then it's usually easier to move through most of it." -- Joe Hudson, Addressing Conflict Avoidance
 
 The weekly cadence is a heuristic, not a rule. The point is that small, frequent contact with the tension keeps the tension processable. The avoided tension compounds into the kind of conflict that ruptures the relationship.
+
+The systems-level form of this compounding logic is the [[black-swan-small-collapses-prevent-big-ones]] metaphor: financial markets where monetary policy prevents every small downturn produce eventual large collapses, not steady stability. The mechanism is the same. Suppressed small disruptions do not become no disruptions; they become future large disruptions.
 
 ## What Leaning In Looks Like
 
