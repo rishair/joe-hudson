@@ -5,7 +5,7 @@ title: "Boundaries"
 aliases: ["what a boundary is", "setting boundaries", "drawing boundaries", "boundary", "Joe's definition of boundaries", "the boundary teaching", "how Joe defines boundaries", "good boundaries", "effective boundaries", "loving boundaries"]
 tags: ["boundaries", "love", "empowerment", "vulnerability", "relationships", "fear"]
 related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner", "good-fights-require-great-boundaries", "new-boundary-always-feels-not-okay", "boundary-as-self-teaching", "defended-boundary-invites-the-fight"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries", "2025-02-10_Boundaries Aren't What You Think They Are"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries", "2025-02-10_Boundaries Aren't What You Think They Are", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Boundaries
@@ -236,3 +236,4 @@ This is why the internal work has to precede the delivery. The body state of the
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2024-08-05_How to Draw HEALTHY Boundaries
 - 2025-02-10_Boundaries Aren't What You Think They Are (boundaries are mostly for the speaker not the receiver; new boundaries always feel not-okay; the defended delivery invites the fight; productive fighting requires great boundaries; the boss-yelling diagnostic; the hands-dirty metaphor for boundary learning)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the two-rule compression of clean boundaries restated as Joe's working summary: (1) drawing the boundary should make you feel more love for the other person no matter how they respond, (2) the boundary tells them what you will do under certain circumstances, not what they have to do; the boundary-as-act-of-love framing replacing the boundary-as-intrusion-or-control inner picture; the new-boundary-discomfort principle restated — "if you have to draw a boundary as a new thing, it's automatically true that you do not feel okay drawing the boundary"; the defended-delivery-invites-the-fight observation reiterated)

@@ -5,7 +5,7 @@ title: "Mirror Back Until They Say 'Yeah, That's It' (The Fight Mirroring Practi
 aliases: ["mirror back until they confirm", "mirror until she confirms", "the fight mirroring practice", "repeat back and check", "say-what-you-heard-and-let-them-correct", "the mirroring-until-you-get-it-right practice", "the year-long mirroring practice", "every-fight-mirror practice", "mirror in 3-minute chunks", "the say-what-you-heard fight move", "the repeat-and-be-corrected practice", "the until-she-says-yeah practice", "the I-thought-I-heard-but-I-didn't practice", "the discover-the-nuances-of-disagreement practice", "the are-we-actually-disagreeing or are we misunderstanding practice", "the mirroring fight tool", "Imago-style mirroring in fights", "repeat one paragraph and check then continue"]
 tags: ["practice", "fighting", "marriage", "couples", "listening", "communication", "comprehension", "mirroring", "imago"]
 related: ["fight-agreements-made-outside-the-fight", "every-fight-can-bring-you-closer", "listening", "listen-as-the-wisest-person", "most-disagreements-are-not-understanding-not-attack", "two-levels-of-hurt-in-being-misunderstood", "chasing-understanding-as-control", "invert-the-responsibility-for-understanding", "i-keep-feeling-misunderstood", "have-them-receive-your-listening", "active-vs-passive-listening", "different-languages-of-love"]
-sources: ["2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever"]
+sources: ["2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Mirror Back Until They Say "Yeah, That's It"
@@ -146,3 +146,4 @@ Joe describes the practice with a mix of comedic shock at his own incompetence (
 ## Sources
 
 - 2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever (Joe's originating account of the year-long mirroring practice with Tara; the small-chunks-and-correction-loop mechanics; the discovery that interpretation gaps were doing most of the work in the fights; the trauma-filters-both-directions insight; the meta-realization that most disagreement was misunderstanding rather than attack)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same paragraph-by-paragraph mirroring practice retold with Tara — "I would say it and she'd be like, no no no no, I meant this" — and the same realization that "to some degree we're like fighting over semantics but it wasn't, it was a little bit more than semantics, the fact that it was her perspective, I wasn't seeing the perspective through the words"; the year-long duration restated; the patient-on-the-table reframing of the disagreement as not-personal that emerges from this practice)

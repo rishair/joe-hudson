@@ -5,7 +5,7 @@ title: "Don't Make It Your Job to Prevent Your Partner's Triggers"
 aliases: ["don't manage your partner's triggers", "preventing their triggers is not love", "it's not your job to prevent their triggers", "stop managing their emotional state", "the trigger-prevention trap", "don't take responsibility for their triggers", "you can't prevent their triggers anyway", "managing each other's triggers is the wrong work", "if I just walk carefully enough they won't get triggered"]
 tags: ["anti-pattern", "relationships", "trigger", "caretaking", "responsibility", "marriage"]
 related: ["trigger", "walking-on-eggshells", "caring-vs-caretaking", "dont-take-responsibility-for-anothers-happiness", "losing-yourself-in-others", "say-the-thing-youre-not-saying", "capacity-to-love-other-is-capacity-to-love-self", "i-caretake-people", "you-think-they-cant-handle-it", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Don't Make It Your Job to Prevent Your Partner's Triggers
@@ -86,3 +86,4 @@ See [[capacity-to-love-other-is-capacity-to-love-self]] for the underlying princ
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the relationship-toolkit-format restatement of the principle that responsibility-for-the-partner's-emotions is "the cause of so much tension in almost every relationship" Joe sees; the daughter-asking-for-emotions story as the seed of the broader teaching; the explicit cross-emotion enumeration — managing their anger produces aloneness which produces anger, managing their happiness produces dependency which produces withdrawal, managing their fear produces caretaking which produces resentment)

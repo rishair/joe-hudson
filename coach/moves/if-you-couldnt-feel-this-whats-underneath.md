@@ -2,9 +2,9 @@
 type: move
 id: if-you-couldnt-feel-this-whats-underneath
 title: "If You Couldn't Feel This, What Would Be Left to Feel?"
-aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent", "if you couldn't have that reaction what would you feel or notice", "the if-you-couldnt-feel-it question for non-blocker emotions", "the question for finding what's under a strong reaction", "if you couldn't hate it what would you feel", "the hypothetical removal of the strong reaction"]
+aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent", "if you couldn't have that reaction what would you feel or notice", "the if-you-couldnt-feel-it question for non-blocker emotions", "the question for finding what's under a strong reaction", "if you couldn't hate it what would you feel", "the hypothetical removal of the strong reaction", "if you couldn't have a should what would you have to feel", "if you couldn't feel the should what would be underneath", "the should-as-blocker variant", "if you couldn't feel the obligation what's there", "the give-me-a-specific should-variant", "what's the one specific thing you should yourself for"]
 tags: ["moves", "emotional inquiry", "blocker emotions", "feel-over-figure", "feeling sequence", "descent", "AOA", "Tara Howley"]
-sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
 ---
 
 # If You Couldn't Feel This, What Would Be Left to Feel?
@@ -74,6 +74,43 @@ Other forms that do the same work:
 
 The exact phrasing matters less than the structure: temporarily remove the top layer in the imagination, and ask the body what comes next.
 
+## Application to the Should as a Blocker (The "If You Couldn't Feel the Should" Variant)
+
+The move's structure also runs on shoulds and other obligation/pressure states that are technically not emotions but are functioning at the same blocker layer. A should is not strictly a feeling, but it is the felt-pressure overlay that prevents the feeling underneath from arriving. The hypothetical-removal of the should produces the same descent the hypothetical-removal of guilt produces.
+
+The form Joe uses: "If you couldn't have a should, what would you have to feel?" or "If you couldn't feel the should, you couldn't feel that sense of obligation and guilt, what would you have to feel?"
+
+The variant has a preliminary requirement: the should has to be made specific first. A generic "I should be better" does not produce a clean descent because the hypothetical removal is too abstract. The work is to force the should into a single concrete sentence first, then run the descent on the concrete form.
+
+The canonical sequence from the source session:
+
+- **Client:** "I get in like these loops where, uh, you know, I feel guilty for not doing something..."
+- **Joe:** "So you got a ton of shoulds. That is a lot of shoulds you got going on there. ... So if you couldn't have a should, what would you have to feel? Let's, let's pick one of the things. What's the thing that you should yourself for the most? You should what?"
+- **Client:** "It's probably all about like trying to be, uh, different in some way."
+- **Joe:** "Like, give me a specific. I want a specific. Like, what's the one specific thing that you should yourself for? Like, you should stop smoking, you should—"
+- **Client:** "oh, I should be more productive, I guess."
+- **Joe:** "Okay, cool. You should be more productive. Great. So if you couldn't feel the should, you couldn't feel that sense of obligation and guilt, what would you have to feel?"
+- **Client:** "Uh, maybe when you ask me that question initially, what springs to mind immediately was like aimlessness."
+
+The descent then continues through the same structural process. The should has been treated as a blocker exactly the way guilt or shame would be treated. The underneath layer (aimlessness) is what was being held off by the should. The work proceeds by feeling the aimlessness.
+
+The descent from the source session continued through several layers:
+
+1. **Should** ("I should be more productive") — the surface obligation.
+2. **Aimlessness** — surfaced when the should was hypothetically removed.
+3. **Panic** — surfaced when the aimlessness was hypothetically removed. ("It makes me panic a little bit.")
+4. **Existential dread** — surfaced when the panic was held with the question "what is that core panic really about?" ("It feels like there's no point to being alive at all.")
+
+At the bottom, Joe applied the [[purposelessness-is-freedom]] reframe rather than continuing the descent. The bottom was a freedom-territory that needed to be welcomed rather than descended through.
+
+The variant is documented separately because:
+
+- It requires the specificity-step that the blocker-emotion form does not (a should has to be made concrete; "guilt" is already concrete).
+- It is used on a different presenting category (the should-spiral / productivity-trap / cage-of-obligations) rather than on a guilt-or-shame presenting form.
+- The bottom of the descent often arrives at an existential-freedom territory rather than at heartbreak/love (the blocker-emotion canonical descent's bottom).
+
+See [[i-should-be-doing-this]] for the concern this variant most often serves and [[purposelessness-is-freedom]] for what the bottom of the descent often opens onto.
+
 ## Application Beyond Blocker Emotions: Strong Reactions in General
 
 The move was developed in the context of blocker emotions (guilt, shame, judgment) — the canonical case. The same structure works on any strong reaction that is functioning as a top layer, even when the reaction is not technically a blocker emotion. A strong "I hate this" or "I love this" or "fuck you" can be operating as a layer that holds something else off.
@@ -133,3 +170,4 @@ The blocker emotions are designed to keep the underneath material from surfacing
 - 2024-02-22_How Do I Love My Mom？
 - 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (Tara Howley's deployment of the move with Michael Nagel after his "I hate it" reaction to receiving care; the trust-fall image that surfaced when the hate was hypothetically removed; the demonstration that the move works on any strong reaction, not just blocker emotions like guilt or shame)
 - 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; the full exchange showing Tara honoring the hate first -- "I totally, fully, 100% get -- I hate it" -- before deploying the hypothetical-removal question; the timing of the move after the validation as part of why it lands)
+- 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the should-as-blocker variant; the explicit specificity-step ("give me a specific. I want a specific. What's the one specific thing that you should yourself for?") before running the hypothetical removal; the multi-layer descent from should ("I should be more productive") through aimlessness through panic to existential dread; the bottom of the descent landing on freedom-territory rather than on heartbreak/love

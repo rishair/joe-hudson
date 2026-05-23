@@ -5,7 +5,7 @@ title: "Defense Feels Like Attack (The Feedback Loop That Powers the Fight)"
 aliases: ["defense feels like attack", "defense reads as attack", "my defense feels like an attack to you", "the defense-attack feedback loop", "the symmetric defense pattern", "both defending both feeling attacked", "neither attacking both feeling attacked", "the micro-mechanism of the hot potato", "the each-defending-each-feels-attacked pattern", "both people defending both people feeling attacked", "the defense-as-attack pattern", "the no-intentional-attack fight", "the fight nobody started", "the unprovoked-but-recurring fight", "in trying to be seen we attack", "in attempting to defend we attack"]
 tags: ["pattern", "shame", "defense", "couples", "conflict", "feedback loop", "perception", "hot potato", "interpersonal"]
 related: ["shame-hot-potato", "drop-the-hot-potato", "non-defense-is-the-ocean", "i-dont-need-to-be-seen-right-now", "every-fight-can-bring-you-closer", "power-dynamics-as-two-defenders", "triggers-reveal-your-own-beliefs", "we-have-built-up-resentment", "the-built-up-resentment-story", "seeing-through-essential-wrongness", "immune-to-shame-through-non-defense"]
-sources: ["2025-01-24_How To Overcome Shame In Conflict"]
+sources: ["2025-01-24_How To Overcome Shame In Conflict", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Defense Feels Like Attack (The Feedback Loop That Powers the Fight)
@@ -126,3 +126,4 @@ Joe describes this with a mix of recognition and mild humor. The mechanism is so
 ## Sources
 
 - 2025-01-24_How To Overcome Shame In Conflict (the symmetric defense-as-attack feedback loop in couples; the concrete "you said I was ugly" / "you asked, so I had no choice" example showing the same utterance functioning as defense and attack simultaneously; the NATO-and-Russia scale-invariance statement; the "in their attempt to be seen, they're defending themselves" naming of the engine)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the relationship-toolkit-format restatement of the same loop with the same "I'm not wrong, like, understand me, see me" naming of the defender's experience and the same "wait, you just called me ugly again" experience on the receiving end; the same NATO-and-Russia scale-invariance comparison; the same two-exit options — drop seeing-someone-as-wrong, or drop the need to be seen right now — that this pattern article connects to)

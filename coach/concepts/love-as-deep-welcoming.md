@@ -2,10 +2,10 @@
 type: concept
 id: love-as-deep-welcoming
 title: "Love as Deep Welcoming"
-aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract"]
+aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract", "the feeling-toward-the-pet directed at yourself", "the reversal of the flow of love", "love as a direction of feeling not words", "find the feeling you have toward a dog and give it to yourself", "the somatic direction of welcoming"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer", "welcoming-is-somatic-not-verbal", "meditation-as-welcoming-not-management"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown"]
 ---
 
 # Love as Deep Welcoming
@@ -61,6 +61,20 @@ The absence (defense) is a wall, roughly from the perineum up through the top of
 The presence (welcoming) is the dropping of the wall. The first thing many people notice when they actively welcome themselves is tension releasing from the body, immediately. The body relaxes on contact with the welcoming.
 
 This is how the AI coach can check whether welcoming is actually happening: ask the person to feel for the body's response. If welcoming is happening, the body softens. If welcoming is being attempted as a concept, the body stays braced.
+
+## The Pet/Child/Crush Reference (The Felt Direction)
+
+The most operational way to access welcoming is to find the feeling you already have toward something you love, then direct that feeling at yourself. The reference points: a pet, a child, a person you have a crush on. Each has a slightly different felt quality. The common element is the warm, soft, opening direction of feeling.
+
+"There's this idea that it's some action or some words you say. It is a somatic feeling. The way that you feel when you're with a pet that you adore, or a child, or somebody you have a crush on is a little bit different, but it's very similar. There's a feeling that you have towards them. It's like, what is it like to direct that feeling towards yourself? It's a somatic experiencing." — Joe Hudson, *How Can I Feel Self-Love? Breakdown*
+
+The reversal-of-the-flow framing. The feeling-of-love most people can locate when it flows outward. Self-welcoming is the same feeling flowing inward — the same warm direction aimed at the self. The instruction is not to generate a new feeling but to redirect a feeling that is already in the body's repertoire.
+
+"How do you love yourself is paramount to the question of how do you feel. It is a sense. It's you're sensing yourself." — Joe Hudson, *How Can I Feel Self-Love? Breakdown*
+
+This is why words alone don't deliver welcoming. The verbal claim "I love myself" can be made with a tight chest and a braced body. The somatic direction can't. When the body actually does the move — the warmth, the opening, the soft direction of feeling toward yourself — the change is felt and visible.
+
+See [[welcoming-is-somatic-not-verbal]] for the full principle and its implications for practice.
 
 ## The Practice
 
@@ -177,3 +191,4 @@ The implication for the AI coach: never let "love is the answer" become a genera
 - 2022-10-26_Love Over Defense (podcast version covering the same material)
 - 2023-04-28_How Love Gets Confused (love as practical action vs. love as fluffy concept; the four-part sequence of the action: find defense, feel heartbreak, expand definition, drop management; the rejection of self-brainwash as an alternative to the actual practice)
 - 2024-03-11_How Do I Love The "No"? (the "love the anti-capitalist in you, your wife, and this woman" framing as the case-application for welcoming an opposing view without abandoning your own; hypervigilance dissolving as the somatic confirmation of welcoming)
+- 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown (the pet/child/crush reference as the operational access point for the felt direction of welcoming; the reversal-of-the-flow framing; the explicit "how do you love yourself is paramount to the question of how do you feel" articulation distinguishing the somatic mechanism from any verbal substitute)

@@ -4,7 +4,7 @@ id: how-do-i-love-myself
 title: "How do I love myself? / I dismiss my accomplishments and ignore my needs"
 aliases: ["how do I love myself", "how do I love myself more", "why do I dismiss my accomplishments", "I dismiss my accomplishments", "I ignore my needs", "I don't feel I'm right to have needs", "I feel I'm not allowed to have needs", "I have a hard time articulating my needs", "I want to be seen and recognized and welcomed", "how do I acknowledge my accomplishments", "how do I have needs", "how do I let myself have needs", "how do I stop dismissing myself", "I keep being hard on myself", "I'm too hard on myself", "I beat myself up", "I'm always self-critical", "I have a comparative mindset", "I keep comparing myself", "I tell myself I'm not allowed to have it", "I try a lot", "I'm always trying", "I do false humility in front of others", "I dismiss myself when others are watching", "the self-criticism feels like it's how I improve", "I criticize myself to drive myself", "the dismiss-accomplishments-and-needs presenting concern", "the how-do-I-love-myself presenting concern"]
 tags: ["concern", "self-love", "self-criticism", "needs", "accomplishments", "comparative-mind", "shame", "welcoming"]
-sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)"]
+sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2025-06-06_How Do I Love Myself? (Coaching Session Breakdown)"]
 ---
 
 # How do I love myself?
@@ -56,7 +56,9 @@ The operational answer is not new behaviors. It is welcoming. Welcoming whatever
 
 Two people can present this concern and Joe goes different directions based on what he reads.
 
-- If the person already knows how to welcome themselves and demonstrates it within seconds when asked: Joe acknowledges this directly ("you know this place, man, this is not your first time here") and shifts the work from teaching to noticing what pulls them out. See [[name-the-pattern-that-pulls-them-out]].
+- Within the first few exchanges, Joe reads the body cues for which layer of being-seen shame is active. See [[body-cues-of-shame-about-being-seen]]. Looking down and to the right signals the inadequacy layer; straight-down head tilt when asked about wanting signals the deeper wanting-shame layer. The cluster of hedges around the want-statement signals the wanting-shame. Joe coaches into the layer that is active. See [[two-layers-of-shame-about-being-seen]].
+
+- If the person already knows how to welcome themselves and demonstrates it within seconds when asked: Joe acknowledges this directly. See [[you-know-this-place-this-is-not-your-first-time-here]]. Then he shifts the work from teaching to noticing what pulls them out. See [[name-the-pattern-that-pulls-them-out]].
 
 - If the person welcomes themselves and then immediately stops, repeatedly: the read is that the work is about the stopping, not about the welcoming. Joe sends them back to welcoming and watches the next stop. Each stop is named. See [[welcome-yourself-in-the-conversation]].
 
@@ -134,3 +136,4 @@ The closing exchange:
 ## Sources
 
 - 2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson) — the canonical short session; client opens with "why do I dismiss my accomplishments and ignore my needs"; Joe pivots from the question to the demonstration; the work is the loop of welcoming, stopping, naming the stop, returning; the comparative-mind welcoming move ("I welcome my comparative mind, it helps me be good in work"); the shame-after-spaciousness pattern named explicitly; the closing "what would make it that you don't deserve this" landing on "nothing"
+- 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown — the meta-commentary on the same session; surfaces the early-session body-cue diagnostics Joe was reading in real time; articulates the two layers of shame about being seen (inadequacy + wanting); names the somatic substrate that makes the welcoming work; offers the developmental frame that the vacillation between welcoming and shame is the process; introduces the "play with not hedging" practice for the people-pleasing-of-the-self pattern

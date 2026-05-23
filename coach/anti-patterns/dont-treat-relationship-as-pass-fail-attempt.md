@@ -4,7 +4,7 @@ id: dont-treat-relationship-as-pass-fail-attempt
 title: "Don't Treat the Relationship as a Single Pass-Fail Attempt"
 aliases: ["don't treat relationship as pass-fail", "don't try one thing and if it doesn't work leave", "the I'll-try-this-and-if-it-doesn't-work-it's-over frame", "the binary attempt at the relationship", "the make-or-break attempt anti-pattern", "the single-shot relationship intervention", "the one-experiment-loaded-with-the-verdict anti-pattern", "don't put the relationship on one attempt", "don't try one thing as the test of whether the marriage can be saved", "the I-tried-and-it-didn't-work conclusion", "the one-and-done relationship attempt", "the all-or-nothing marriage attempt", "the binary frame on the relationship", "treating the relationship as having one chance", "the verdict-after-one-attempt anti-pattern", "loading a single intervention with the whole relationship"]
 tags: ["anti-pattern", "relationships", "marriage", "iteration", "failure", "binary frame", "habenula"]
-sources: ["2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
+sources: ["2025-01-13_The Mindset Shift That Transforms Dead Relationships", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Don't Treat the Relationship as a Single Pass-Fail Attempt
@@ -94,3 +94,4 @@ The replacement timeframe: not "did the marriage get better after the weekend?" 
 ## Sources
 
 - 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the explicit articulation of the anti-pattern as the binary "I'm going to try this and if it doesn't work, then it's over"; the recommendation of the 10-to-20 experiments alternative; the guarantee that the alternative will produce a different relationship regardless of whether any individual experiment works; the "you're never failing" framing of the iteration)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same 10-to-20 experiments alternative restated in the relationship-toolkit format; the same volleyball-team-mindset-collapse example used to demonstrate the visibility of belief shifts in real time; the explicit pairing with the both-partners-have-to-want-it requirement — if one partner doesn't want to work on the relationship, the conversation has to be had directly)

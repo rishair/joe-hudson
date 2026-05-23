@@ -5,7 +5,7 @@ title: "Get Angry in the Car (or at the Beach, or in the Woods)"
 aliases: ["anger release practice", "get angry on your commute", "yell in the car", "private anger practice", "anger discharge practice", "anger somewhere not at someone", "the commute anger practice", "yell at the ocean"]
 tags: ["practice", "anger", "emotions", "discharge", "embodiment", "release"]
 related: ["anger", "daily-emotional-yoga", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "unfelt-emotion-leaks", "joes-angry-executive-commute", "tell-the-body-its-safe", "i-exist-affirmation-against-collapse", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
 ---
 
 # Get Angry in the Car (or at the Beach, or in the Woods)
@@ -118,6 +118,29 @@ See [[dont-do-emotion-at-people]] and [[unfelt-emotion-leaks]].
 
 This is the anger-specific case of the broader [[daily-emotional-yoga]] practice. The same principle: dedicated time, body movement, private container. The car version is a low-friction entry point that uses time that is already scheduled.
 
+## The Month-Long Bet (When Prescribed With a Stake)
+
+A specific framing of the prescription that increases compliance: the coach makes a bet with the client. Daily anger for a month, with a concrete stake on the line — money back on a course, a free upgrade, something the client values. The stake matters less than the structure of stake-having; the framing is what makes the practice a commitment rather than a suggestion.
+
+The form Joe uses:
+
+"And so moving anger every day, like, I guarantee you, if you move anger every day for a month, if you— if you had— like, you did it again, right? If you did anger every day for a month, your, your entire everything would change. I'll make you a deal. I'll make you a deal. If you do anger every day for a month I will give you the Connection Course for free." -- Joe Hudson, "I Should Be More Productive" Is Killing You
+
+The structure has three components: (1) the strong-form prediction ("your entire everything would change"), (2) the time-bound specificity ("every day for a month"), and (3) the personal stake ("I'll give you the course for free"). The coach is putting something at risk to back the prediction.
+
+The prescription works because:
+
+- The strong-form prediction signals the coach is not hedging. The change is real and is expected.
+- The time-bound specificity removes the wiggle that lets daily-practice prescriptions decay into "as often as I can."
+- The personal stake transforms the practice from "the coach suggested I try this" into "the coach is on the hook for this with me." The transformation increases compliance.
+- The deal also tests the coach. If the practice does not work, the coach is exposed. The willingness to be exposed signals confidence that the practice will in fact work, which becomes part of the medicine for the client.
+
+A specific failure mode to avoid: the client immediately converts the practice into another should. The closing instruction in the source session names this:
+
+"Move anger. Pleasure. Oh, can't make it a should. Yeah." -- Joe Hudson, "I Should Be More Productive" Is Killing You
+
+The reminder is critical and should usually accompany the bet. Without it, the client takes the prescription home and applies the same should-cage to the anger practice that they apply to everything else. The practice then fails for structural reasons — the practice was supposed to be the way out of the should-cage, not another inhabitant of it. See [[dont-make-stop-judging-into-a-should]] for the broader anti-pattern this names.
+
 ## The Dominant-Form Specification (Not Victim Anger)
 
 When prescribing this practice as a session-closing assignment, specify that the anger being moved is the dominating form, not the victim form. The two forms are mapped in [[victim-anger-vs-dominating-anger]]. A client who runs the practice only in the victim form ("I'm so tired of this, I'm done with this") will recycle the grievance without ever moving into the refusal-of-the-future that the dominating form delivers. The practice produces less change than expected because half the anger is not being released.
@@ -168,3 +191,4 @@ Joe presents this almost casually. Get in your car. Yell. That is it. The tone s
 - 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording of the 2021-10-22 episode)
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)
 - 2025-05-16_Why Am I Stuck In Life When I Know My Patterns? (Coaching Session With Joe Hudson) -- the practice prescribed at session close with the specification that the form be dominating anger not victim anger; the two-job structure pairing the daily anger practice with an in-the-moment blocker practice; the constraint "not with them in the room" that allows the dominating form to use a specific person as target while preserving the no-anger-at-people line
+- 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) -- the month-long bet form of the prescription with concrete stake ("I'll make you a deal. If you do anger every day for a month I will give you the Connection Course for free"); the strong-form prediction backing the bet ("your entire everything would change"); the don't-make-it-a-should closing reminder ("Move anger. Pleasure. Oh, can't make it a should"); the practice prescribed specifically to discharge the inward-turned anger that has been showing up as the daily cage of shoulds (see [[shame-is-anger-turned-inward]] parents-rebellion-shoulds chain)

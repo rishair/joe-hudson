@@ -5,7 +5,7 @@ title: "Trauma Heals in Relationship"
 aliases: ["relational healing", "healing in relationship", "trauma created in relationship heals in relationship"]
 tags: ["trauma", "relationships", "healing", "group work"]
 related: ["container-of-love", "loving-all-parts", "every-fight-can-bring-you-closer", "name-im-in-my-trauma-as-couple-language", "trigger", "complementary-trauma-surfaces", "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse", "tara-fights-that-destroyed-joes-narcissism", "the-fight-is-asking-you-to-feel-what-you-couldnt", "joes-friend-yuma-grief-drives", "feeling-the-unfelt-emotion", "i-lose-myself-in-the-fight"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2024-10-25_How To Fight And Win", "2025-01-10_The Real Reason You Lose Control In A Fight"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2024-10-25_How To Fight And Win", "2025-01-10_The Real Reason You Lose Control In A Fight", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Trauma Heals in Relationship
@@ -79,3 +79,4 @@ Additionally, the earlier in life healing happens, the faster it occurs. Neuropl
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2024-10-25_How To Fight And Win (the explicit application to long-term partnership: the partner is the loving witness the original wound could not access; the fight that surfaces the trauma is also the fight that can heal it; the relationship as the developmental container; the hard periods as the relationship doing deeper work rather than failing)
 - 2025-01-10_The Real Reason You Lose Control In A Fight (the aloneness-as-part-of-the-wound framing — the insight that what makes the partnership a particularly powerful container is that it addresses the aloneness layer of the original wound directly, in addition to the content layer; the contrast with solo grief work as an alternative container that resolves the content but leaves the aloneness layer to be addressed separately; the "transformation so quickly" claim about the in-relationship version)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same friend-in-Yuma story restated as the proof-of-concept for in-relationship trauma healing, with the same explicit framing that "the trauma we feel is that we were all alone in it" and partnership directly addresses the aloneness; the same outcome — "every one of our fights became a way to relieve the trauma that put us in the place to have the fight for the first time" — naming the principle in its most compressed form)

@@ -2,9 +2,9 @@
 type: pattern
 id: shame-after-spaciousness
 title: "Shame After Spaciousness (You Get Big, Then You Feel Shame for Being Big)"
-aliases: ["shame after spaciousness", "shame after the spacious place", "shame after the welcoming", "shamed out of bigness", "someone was jealous of you and shamed you out of it", "the shame that pulls you out of the welcoming", "the shame that pulls you out of the spaciousness", "the spaciousness-shame pattern", "the bigness-shame pattern", "being big is shameful", "you go to the place then feel shame after", "the after-the-spaciousness shame", "the post-expansion shame", "the post-welcoming shame", "the I-shouldn't-be-this-spacious shame", "the I'm-not-allowed-to-have-it pattern", "the I'm-not-allowed-to-be-big pattern"]
+aliases: ["shame after spaciousness", "shame after the spacious place", "shame after the welcoming", "shamed out of bigness", "someone was jealous of you and shamed you out of it", "the shame that pulls you out of the welcoming", "the shame that pulls you out of the spaciousness", "the spaciousness-shame pattern", "the bigness-shame pattern", "being big is shameful", "you go to the place then feel shame after", "the after-the-spaciousness shame", "the post-expansion shame", "the post-welcoming shame", "the I-shouldn't-be-this-spacious shame", "the I'm-not-allowed-to-have-it pattern", "the I'm-not-allowed-to-be-big pattern", "the tall poppy gets cut", "tall poppy syndrome at home", "don't get a big head", "the don't-get-a-big-head wiring", "the I-don't-want-you-to-feel-good wiring", "the parent who couldn't tolerate your joy", "your joy was overwhelming to a parent's senses", "the joy-was-too-much-for-them imprint"]
 tags: ["patterns", "shame", "spaciousness", "self-love", "welcoming", "lockout", "childhood imprint", "jealousy"]
-sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)"]
+sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown"]
 ---
 
 # Shame After Spaciousness
@@ -37,6 +37,19 @@ The most common source: someone in the family of origin was threatened by the pe
 The specific origin matters less than the structure. The person learned: bigness is dangerous. The body installed: contract automatically before anyone else can punish the bigness.
 
 The shame that arises after spaciousness is the body executing the old protective instruction. It is not the person's actual ethical assessment.
+
+## The Tall-Poppy and Big-Head Wiring
+
+The cultural and family transmission of this pattern often comes through specific transmitted phrases that, repeated, install the lockout in the child without any single act of overt shaming being required. Two common forms:
+
+- **The tall-poppy cut.** The cultural pattern in which the tallest poppy gets cut. The child who stands out, shines, or shows joy gets the head trimmed by a parent's subtle attention, the sibling's withdrawal, the teacher's correction. Over time the child learns to do the trimming preemptively.
+- **"I don't want you to get a big head."** A common parental phrase. Surface meaning: don't become arrogant. Felt meaning: do not feel too good about yourself. The phrase installs the wiring that feeling good is itself the danger.
+
+"It's because there was a parent where your joy was overwhelming to their senses. So they would make sure the tall poppy was cut, so to speak. Or they would make sure that — like, you've heard this phrase, 'I don't want you to get a big head,' right? Which basically, 'I don't want you to feel good.'" — Joe Hudson, *How Can I Feel Self-Love? Breakdown*
+
+The structural translation: "I don't want you to feel good" is the actual instruction the child internalized, even though the surface phrase was about arrogance. The instruction does its work invisibly for decades after the parent who delivered it is gone or no longer relevant. The shame that arises after spaciousness is the body executing this instruction, on its old schedule, with no one currently around to enforce it.
+
+The reason this matters for the work: when the person can see the structural source of the shame ("a parent was overwhelmed by my joy, so the shame is the body executing the don't-feel-good rule"), the shame loses some of its moral charge. It stops feeling like a verdict about how the person should live and starts feeling like an outdated instruction the body is still running.
 
 ## What Joe Says About It
 
@@ -102,7 +115,9 @@ This is the same mechanism as [[unwelcomed-emotions-return-until-felt]]: the sha
 - [[late-stage-reversion]] — the related dynamic in advanced practice where the system contracts after expansion
 - [[layered-resistance]] — when the shame about the spaciousness produces shame about the shame, and so on
 - [[shame-drives-behavior]] — the general principle that shame organizes behavior, applied here to the contraction after expansion
+- [[the-vacillation-between-welcoming-and-shame-is-the-process]] — the developmental framing that the back-and-forth from welcoming to shame is the process, not a failure of the process
 
 ## Sources
 
 - 2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson) — the canonical naming of this pattern; Joe identifies it explicitly after the guest has been in the welcoming and then visibly contracted with self-judgment; the explanation includes the structural source ("someone was jealous of you and so shamed you out of it"); the instruction that follows is to welcome the shame too when it arises
+- 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown — the breakdown commentary on the same session; the tall-poppy and "I don't want you to get a big head" framing of how the wiring is culturally and parentally transmitted; the structural translation that "don't get a big head" actually means "don't feel good"; the developmental pendulation framing ("natural in and out from the welcoming to the shame") that contextualizes the pattern as part of the process rather than as failure

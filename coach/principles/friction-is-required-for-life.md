@@ -5,7 +5,7 @@ title: "Friction Is Required for Life"
 aliases: ["life requires resistance", "resistance is necessary", "a cell needs friction", "anxiety isn't going away because life", "you can't eliminate friction", "no friction means death", "life requires friction"]
 tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance", "relationships"]
 related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut", "how-you-fight-not-how-often", "black-swan-small-collapses-prevent-big-ones", "every-fight-can-bring-you-closer", "conflict-as-evolutionary-tension"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense", "2024-12-17_Why Fighting Is Important", "2025-05-09_Why Your Goals Are Making You Miserable"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense", "2024-12-17_Why Fighting Is Important", "2025-05-09_Why Your Goals Are Making You Miserable", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Friction Is Required for Life
@@ -137,3 +137,4 @@ Matter-of-fact. The principle is delivered as observation, not as comfort. It is
 - 2022-10-26_Love Over Defense (life-is-tension and Bhagavad Gita treatment)
 - 2024-12-17_Why Fighting Is Important (the lung-and-cell version of the principle applied directly to fighting in relationships; the "more transformation means more tension" corollary; the "avoidance of friction kills the relationship" framing; the pivot from whether-to-have-it to how-to-have-it)
 - 2025-05-09_Why Your Goals Are Making You Miserable (the application to goals: pursuing a real want produces friction; refusing the friction is refusing the aliveness; the discrimination between constructive friction in pursuit of a real want vs destructive friction in pursuit of an inner-board mandate)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same lung-and-cell biology framing restated in the relationship-toolkit format — "if I'm going to breathe, my lungs have to have tension; if a cell is going to exist, it has to have tension; as we grow, as we live, as we change as people, there's going to be tension; the more transformation that we have in our life, the more tension there's going to be there"; the same Black-Swan financial-markets sub-metaphor reiterated alongside)

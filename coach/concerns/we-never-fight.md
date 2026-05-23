@@ -4,7 +4,7 @@ id: we-never-fight
 title: "We never fight / Our relationship is great"
 aliases: ["we never fight", "we never get triggered", "our relationship is great", "we don't really fight", "our marriage is easy", "we're so compatible", "we don't have problems", "things are perfect", "it's been three years and we've never been triggered", "we just have a really easy relationship", "we never argue", "we don't really have conflict"]
 tags: ["relationships", "marriage", "partnership", "denial", "presenting concern", "low-conflict"]
-sources: ["2022-09-30_Triggered", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
+sources: ["2022-09-30_Triggered", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # We never fight / Our relationship is great
@@ -80,3 +80,4 @@ This same trajectory shows up in founder partnerships and in long jobs. The rela
 
 - 2022-09-30_Triggered
 - 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (Joe's earlier-marriage trajectory restated as the historical pattern this concern often masks — he and Tara tracked fewer-fights as healthier and treated zero fights as the goal, then realized "that idea is ludicrous to us, we judge it by how we fight"; the friction-is-required argument for why no-fighting often means stagnant/dead rather than healthy)

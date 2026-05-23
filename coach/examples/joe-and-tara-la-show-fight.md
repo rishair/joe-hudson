@@ -5,7 +5,7 @@ title: "Joe and Tara's 10-Minute Fight About the LA Show (The See-Me Method Orig
 aliases: ["Joe and Tara LA show fight", "the LA show fight", "the fight that used to take a day", "Joe missing Tara's show", "Tara furious about the show", "the show Joe didn't come to", "the fight that took 10 minutes instead of hours", "Tara coming home pissed about the show", "the LA acting show story", "the 4-years-in fight that changed everything", "the seeing-her-truth fight", "the open-heart-listening fight", "how Joe stopped being in the courtroom", "the fight where Joe just listened", "the fight where Joe stopped adjudicating", "Joe's example of the see-me method", "Joe's canonical fight resolution story", "the show Joe missed and the fight that ended in 10 minutes", "the story behind the see-me method"]
 tags: ["example", "fighting", "marriage", "Tara", "seeing", "listening", "couples", "non-adjudication", "open heart"]
 related: ["dont-find-the-truth-find-their-truth", "see-them-be-seen-find-alignment-instead-of-control", "truth-is-perspective-with-context", "reflect-back-to-make-partner-feel-heard", "every-fight-can-bring-you-closer", "being-heard", "the-desire-to-be-seen", "joe-and-tara-retreat-prep-fight", "tara-fights-that-destroyed-joes-narcissism", "empathy", "shame-hot-potato"]
-sources: ["2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method"]
+sources: ["2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Joe and Tara's 10-Minute Fight About the LA Show
@@ -117,3 +117,4 @@ The generalization is the "see-me method" the episode is titled after. The story
 ## Sources
 
 - 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the LA acting show story; the four-years-in timing; the day-to-ten-minutes compression; the "this is true for her, it doesn't have to be mine, it's hers" internal recognition; the open-heart listening; the apology; the courtroom phrase Joe and Tara developed; the generalization that under fights is "I want to be seen"; the as-soon-as-someone-feels-seen-they-want-to-see-the-other-person dynamic)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same LA-show story retold with the same details — Joe missing Tara's show, Tara coming home furious, Joe's internal shift from "this has to be true or not true, and if it was true then I did something wrong" to "this is what's important to her, this is the way she sees the world, that's not wrong or right, it's just that truth that's hers" — and the same all-melted-in-10-minutes outcome; the same courtroom phrase Joe and Tara developed for naming the trap)

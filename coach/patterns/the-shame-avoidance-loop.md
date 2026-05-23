@@ -2,10 +2,10 @@
 type: pattern
 id: the-shame-avoidance-loop
 title: "The Shame Avoidance Loop"
-aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox", "running away from shame creates more shame", "the addiction shame loop"]
-tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing", "addiction"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato", "should-i-stop-drinking", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato", "2024-06-13_Do I Stop Drinking？"]
+aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox", "running away from shame creates more shame", "the addiction shame loop", "the doomscrolling shame loop", "the more I scroll the more I feel bad", "scrolling produces shame produces more scrolling", "the I-scroll-because-I-don't-want-to-feel-bad cycle"]
+tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing", "addiction", "doomscrolling"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato", "should-i-stop-drinking", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session", "i-cant-stop-doomscrolling", "joes-doomscrolling-story", "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato", "2024-06-13_Do I Stop Drinking？", "2025-05-30_The Secret to Elite Doomscrolling： You Must Hate Yourself"]
 ---
 
 # The Shame Avoidance Loop
@@ -100,6 +100,22 @@ The client recognized this immediately as the dynamic he was in: "That's where I
 
 This variant is structurally the same as the social form (avoiding shame in relationship to others creates more shame). The only difference is that the substance plays the role the avoidance behavior plays in the social form. The exit is also the same: stop fighting the shame, welcome it, and the cycle loses its fuel. The substance use changes downstream of the welcoming, not through behavioral force. See [[shame-drives-behavior]] and [[joes-pot-habit]] for the mechanism, and [[do-i-stop-drinking-session]] for the compressed coaching demonstration.
 
+## The Doomscrolling Variant (And Joe's Own Personal Compression)
+
+The same loop runs with doomscrolling, often without anyone noticing because the substance is so socially normalized. Joe describes his own version of the loop in compressed form:
+
+"The whole thing of like what really drives me to doom scroll is that I don't want to feel like bad about myself. And then the more I doom scroll, the more I feel bad about myself. So the more reason I have to doom scroll so that I don't have to feel bad about myself." -- Joe Hudson, The Secret to Elite Doomscrolling
+
+The structural shape is identical to the drinking variant: the avoidance behavior produces the very shame the avoidance is organized around. Each round of scrolling installs the shame that fuels the next round. The cycle is sealed.
+
+The doomscrolling variant has two specific features that make it especially sticky compared to other substance variants:
+
+1. **No cap on the substance.** Unlike drinking, eating, or drugs, the phone does not impose a structural limit. The body can be in the avoidance all day, indefinitely. See [[bad-habits-are-the-avoidance-of-essential-self]] on the cap-less Stage-4 substance.
+
+2. **Built-in cognitive-dissonance reinforcement.** The scroller is typically alone in a room, which means they do not see the other scrollers doing exactly the same thing at the same time. The invisibility of peers reinforces the "I'm uniquely broken" belief that supplies the unique-defectiveness premise the shame is organized around. See [[the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken]] for the specific principle.
+
+The exit for the doomscrolling variant is the same as for the drinking variant: stop fighting the shame, welcome it, let the substance change downstream. The universalization-as-release form is especially relevant here — see [[its-a-human-thing-redirect]] and [[joes-doomscrolling-story]] for the personal example where the recognition that "other people are doing this too, this isn't personal to me" produced a spontaneous reduction in the behavior.
+
 ## Tone
 
 Joe explains the loop methodically, often with examples and humor. The framing is not "you are caught in a tragedy" but "you are caught in a math problem." The lightness is part of the medicine: the loop feels less heavy when it is described as a structural absurdity rather than a personal failure.
@@ -110,3 +126,4 @@ Joe explains the loop methodically, often with examples and humor. The framing i
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
 - 2023-12-22_The Shame Hot Potato (the interpersonal sibling pattern and the coupling between the avoidance loop and the hot potato)
 - 2024-06-13_Do I Stop Drinking？ (the substance-use variant of the loop: Joe names the cycle explicitly — "you've been running away from shame and guilt, and in the running away from it, creating more shame and guilt"; the client recognizes the downward spiral form of the pattern)
+- 2025-05-30_The Secret to Elite Doomscrolling: You Must Hate Yourself — the doomscrolling variant of the loop with Joe's personal compression: "the more I doom scroll, the more I feel bad about myself, so the more reason I have to doom scroll"; the two specific features that make the doomscrolling variant especially sticky (no cap on the substance, built-in cognitive-dissonance reinforcement through the invisibility of fellow scrollers)

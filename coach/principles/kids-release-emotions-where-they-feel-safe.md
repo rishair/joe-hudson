@@ -5,7 +5,7 @@ title: "Kids Release Emotions Where They Feel Safe (The 'Bad' Behavior Is Often 
 aliases: ["kids release emotions where they feel safe", "kids let it out when they feel safe", "the tantrum at home is a compliment", "kids hold it together where it's unsafe and release where it's safe", "the meltdown when you get home", "the after-school meltdown", "kids release emotions to get back to connection", "the tantrum is the recovery move", "the kid who holds it together at school then loses it at home", "the meltdown after the family event", "kids dump the emotions to repair the field", "kids regulate through release", "the bigger the tantrum the safer they feel", "kids would rather tantrum at home than anywhere else"]
 tags: ["principle", "parenting", "children", "emotional regulation", "safety", "release", "connection", "co-regulation"]
 related: ["kids-respond-to-emotional-presence-not-words", "parenting-as-coaching-domain", "hand-in-hand-parenting", "stay-close-and-insist", "feeling-the-unfelt-emotion", "emotional-fluidity", "una-grabbing-joes-face", "esme-just-having-my-emotions", "dont-shame-kids-they-self-shame"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-02-18_How to Use Relationship Fights to Heal"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-02-18_How to Use Relationship Fights to Heal", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Kids Release Emotions Where They Feel Safe (The "Bad" Behavior Is Often a Compliment)
@@ -134,3 +134,4 @@ Reassuring without being saccharine. The reframe is the work. The parent who has
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (Joe restates the principle for a pre-parent audience as part of the larger teaching that the "bad" behavior is often a request for connection rather than a control problem)
 - 2025-02-18_How to Use Relationship Fights to Heal (Joe describes recognizing the same machinery in adult partnerships -- he saw it first in his 8-year-old daughter, then in his wife Tara, then in himself. The adult version operates through subtle contradicting of whatever the partner says, but the same safe-place-discharge logic is operating. The "very unlike Tara" quality of the contradicting is the diagnostic that the discharge is displaced from somewhere else.)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same 8-year-old-daughter-ready-for-a-fight story restated with the same hug-as-control reading and the same draw-the-boundary-and-the-meltdown-then-the-real-content sequence — "what happened at school today, I got made fun of, someone called me the red-headed goose" — followed by the same recognition of the adult version in Tara and then in himself)

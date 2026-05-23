@@ -5,7 +5,7 @@ title: "Blame Is Not Real (The Cascade Disproof)"
 aliases: ["blame is not real", "blame is not true", "blame is fictional", "blame doesn't exist", "the cascade of blame", "blame the parents blame the grandparents", "blame the parents blame the grandparents blame Beyoncé", "the blame cascade", "the infinite regress of blame", "blame is like perfection it's different for everybody", "blame is elusive", "blame is like trying to figure out what's fair in a marriage", "who do I blame for this", "the cascade disproof of blame", "the question who is to blame has no answer", "blame is a frame not a fact", "the deconstruction of blame", "the regression deconstruction of blame", "blame the boss blame the blood sugar"]
 tags: ["blame", "concept", "deconstruction", "relationships", "shame", "responsibility"]
 related: ["three-stages-of-the-blame-path", "shame-hot-potato", "fault-vs-responsibility", "turn-blame-into-wants", "self-blame-abdicates-others-agency", "how-do-we-want-to-be-together", "patient-on-the-table"]
-sources: ["2025-01-22_Why Blame Is So Corrosive"]
+sources: ["2025-01-22_Why Blame Is So Corrosive", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Blame Is Not Real
@@ -123,3 +123,4 @@ The Beyoncé line, in context: "or is it Beyoncé who taught you that you needed
 ## Sources
 
 - 2025-01-22_Why Blame Is So Corrosive
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same cascade restated — "is it really her fault, or is it the parents that are at fault, or is it the grandparents, or is it society, or is it societal norms, or is it Beyoncé who taught you that you needed to have a ring on it" — with the same deconstruction logic; the same redirect from "who is to blame" to "how do we want to move forward, how do we want to be together, what's our shared vision")

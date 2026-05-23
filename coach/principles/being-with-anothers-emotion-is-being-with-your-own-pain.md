@@ -5,7 +5,7 @@ title: "Being With Another's Emotion Is Actually Being With Your Own Pain"
 aliases: ["their pain evokes your pain", "what you're being with is your own pain", "the other's emotion is the trigger for your emotion", "being with someone is being with what they evoke in you", "their pain isn't what's hard their pain evokes your pain", "the difficulty is in you not in them", "if it were easy you would be there", "the obstacle to presence is your own evoked feeling", "presence requires being with what they bring up in you", "their emotion evokes yours", "the partner's emotion as your trigger"]
 tags: ["principle", "presence", "empathy", "relationships", "emotion", "self-knowledge", "caretaking"]
 related: ["trigger", "stay-centered-while-holding-space", "empathy", "losing-yourself-in-others", "caring-vs-caretaking", "feeling-the-unfelt-emotion", "is-this-mine", "capacity-to-love-other-is-capacity-to-love-self", "do-the-work-thats-harder-for-you"]
-sources: ["2022-10-26_Triggered!", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
+sources: ["2022-10-26_Triggered!", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Being With Another's Emotion Is Actually Being With Your Own Pain
@@ -152,3 +152,4 @@ The mechanism: as long as the partner's emotion is the one being managed, the em
 
 - 2022-10-26_Triggered!
 - 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the childhood-origin diagnostic — the specific emotions you can't sit with in your partner or kids are the emotions you weren't allowed to feel as a kid; the airplane example as the public-space diagnostic for which adults had which emotions forbidden; the explicit naming of caretaking as the self-protective avoidance of the evoked feeling)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same childhood-origin diagnostic and the same airplane-crying-baby example repeated in the relationship-toolkit format; the explicit chaining of the diagnostic to the manipulation-recognition — "I am trying to make them feel a certain way so I don't have to feel a certain way")

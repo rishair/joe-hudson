@@ -5,7 +5,7 @@ title: "Nobody Wants to Have Sex With a Kid (Caretaking Kills the Sex Drive)"
 aliases: ["nobody wants to have sex with a kid", "nobody wants to fuck a kid", "you can't have sex with a child", "caretaking kills the sex drive", "managing your partner like a child kills the eros", "parent-child dynamic kills sex", "the parent-child configuration kills the sexual aliveness", "you turned your partner into a child and the sex died", "the sex went where the caretaking is", "the dead sex drive in a caretaking marriage", "caretaking turns the partner into a kid", "when you parent your partner the sex dies", "the eros-killing parent-child configuration", "managing someone's emotional state turns them into a child", "sex requires two adults not a parent and child"]
 tags: ["principle", "sex", "eros", "caretaking", "relationships", "marriage", "configuration"]
 related: ["caring-vs-caretaking", "responsibility-stops-love", "obligation-cuts-off-love", "i-caretake-people", "treat-them-like-an-adult", "the-built-up-resentment-story"]
-sources: ["2024-07-01_Should I Stay With My Ex？", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
+sources: ["2024-07-01_Should I Stay With My Ex？", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Nobody Wants to Have Sex With a Kid
@@ -128,3 +128,4 @@ The intermediate causal step in this compression is also clean: the resentment b
 
 - 2024-07-01_Should I Stay With My Ex？ (the canonical instance: Joe delivers the line during the body-shift moment of a trial-separation Q&A; the woman has just reported the joyful and silly self returning, and Joe names the sexual self as the same self)
 - 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the cleaner teaching compression: "sex requires equals, and a caretaking relationship has no equals"; the framing of the alternative as "supportive, interdependent" rather than independent; the causal sequence resentment-first-then-dead-sex as a teaching point)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same teaching compression restated — "you want to have sex with equals, you don't want to have sex with someone you're caretaking, that's not how it's meant to be between a romantic couple, it's not a caretaking relationship, it is a supportive, interdependent relationship; as soon as that happens, the sex will start to die as well"; the same resentment-precedes-dead-sex causal sequence)

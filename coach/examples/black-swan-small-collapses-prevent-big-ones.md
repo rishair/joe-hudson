@@ -5,7 +5,7 @@ title: "The Black Swan: Small Collapses Prevent Big Ones (Why Suppressed Frictio
 aliases: ["The Black Swan", "Taleb metaphor", "Nassim Taleb metaphor", "small collapses prevent big ones", "the financial markets metaphor", "monetary policy and big collapses", "the exercise and small tension metaphor", "the system requires tension metaphor", "the suppress-small-disruptions-produces-large-ones argument", "the absence of small fights produces big rupture", "Joe's Taleb metaphor", "the Black Swan reference for fighting", "the monetary policy and fight-avoidance analogue", "why systems need regular friction", "why suppression compounds", "the antifragile parallel", "the regular-stress-keeps-systems-healthy example", "the exercise-keeps-the-body-healthy parallel"]
 tags: ["example", "metaphor", "systems", "fighting", "friction", "conflict avoidance", "antifragility"]
 related: ["friction-is-required-for-life", "how-you-fight-not-how-often", "conflict-as-evolutionary-tension", "weekly-tension-inventory", "avoided-conflict-goes-internal", "conflict-avoidance-prevents-healing", "we-never-fight", "regression-in-the-fight-work-is-progress"]
-sources: ["2024-12-17_Why Fighting Is Important"]
+sources: ["2024-12-17_Why Fighting Is Important", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # The Black Swan: Small Collapses Prevent Big Ones
@@ -87,3 +87,4 @@ For a relationship, the corresponding boundary is [[verbal-abuse-as-controlling-
 ## Sources
 
 - 2024-12-17_Why Fighting Is Important (Joe's Black Swan / Taleb reference; the financial markets example; the body-through-exercise sub-metaphor; the extension to "any kind of system" including marriages and relationships; the specific framing that "big collapses happen because little collapses aren't allowed to happen")
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same Taleb/Black-Swan-author reference and the same financial-markets-need-regular-tension argument restated alongside the exercise-keeps-the-body-healthy sub-metaphor; the same extension to "any kind of system requires kind of a regular tension to stay healthy, and it's the same in a marriage or in a relationship")

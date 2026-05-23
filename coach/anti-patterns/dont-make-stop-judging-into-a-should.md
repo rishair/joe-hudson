@@ -5,7 +5,7 @@ title: "Don't Make 'Stop Judging' Into Another Should (You're Just Judging Yours
 aliases: ["don't make stop judging a should", "I shouldn't judge is another judgment", "the I-shouldn't-judge trap", "judging yourself for judging", "the meta-judgment loop", "stop judging becomes another judgment", "you can't should your way out of judgment", "should-stop-judging is itself judgment", "the moral-stop-judging trap", "the I-shouldn't-be-judgmental trap", "the new should about judgment", "telling yourself to stop judging is more judgment", "the judgment-about-judgment loop", "becoming judgmental about being judgmental", "the recursive judgment trap"]
 tags: ["anti-pattern", "judgment", "should", "self-judgment", "loops", "meta-pattern"]
 related: ["judgment-hurts-the-judger", "im-judgmental-how-do-i-stop", "should-as-threat", "stick-a-fucking-shit-in-front-of-the-should", "find-the-want-behind-the-should", "notice-what-judgment-costs-you-and-what-you-actually-want", "self-judgment-protects-from-emotion", "dont-make-listening-a-morality"]
-sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
+sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
 ---
 
 # Don't Make "Stop Judging" Into Another Should (You're Just Judging Yourself for Judging)
@@ -82,6 +82,25 @@ This is the exact same failure mode as "I shouldn't judge" — converting a felt
 
 The corrective is structural, not motivational. The person does not need to be reminded that pressure produces pressure. They need to be redirected from the should frame ("I gotta do X") to the felt frame ("X is happening, let me notice and stay with what is here"). In the website case, Joe did not say "stop pressuring yourself." He said, two breaths later: "How do you enjoy this moment 10% more?" The redirect to the felt enjoy-frame bypasses the should loop entirely. See [[enjoy-this-just-a-little-bit-more]].
 
+## The "Can't Make It a Should" Closing Beat
+
+A specific live instance of this anti-pattern surfaces as a closing beat at the end of a session where a daily emotional-discharge practice has just been prescribed. The client has been given an assignment ("move anger every day for a month"). The risk is that the assignment immediately becomes another inhabitant of the should-cage the practice was meant to free them from. Joe's closing reminder catches this in advance:
+
+"Move anger. Pleasure. Oh, can't make it a should. Yeah." -- Joe Hudson, "I Should Be More Productive" Is Killing You
+
+The structure of the closing beat:
+
+1. **Restate the assignment** ("Move anger.") — make it concrete.
+2. **Reframe the orientation** ("Pleasure.") — the practice is for pleasure, not for compliance.
+3. **Name the anti-pattern in advance** ("Oh, can't make it a should.") — surface the failure mode before it happens.
+4. **Get the client's recognition** ("Yeah.") — let the client confirm they see it.
+
+The "pleasure" reframe matters. The client cannot just be instructed "do not make this a should." That instruction is itself a should. The reframe to "pleasure" gives the client a different orientation toward the practice — the question becomes "how do I enjoy this?" rather than "did I do my anger today?" The orientation-change is what prevents the should-conversion.
+
+The closing beat is especially important when the assignment is being given to a client whose presenting concern was the should-cage itself. For these clients, every new practice immediately gets the should-form applied. The session would otherwise close having given the client one more thing to fail at. The reminder gives the client the explicit instruction to keep the practice in the wants-frame.
+
+See [[get-angry-in-the-car]] for the practice this most often closes; the month-long-bet form of that practice often pairs with the "can't make it a should" closing beat.
+
 ## A Related Anti-Pattern: Making Any Inner Work Into a Should
 
 This anti-pattern is one instance of a broader anti-pattern: making any inner work into a should. The same dynamic shows up with listening (see [[dont-make-listening-a-morality]]), with feeling emotions, with vulnerability, with VIEW. Any practice that is good for you becomes counterproductive when imposed via should.
@@ -96,3 +115,4 @@ The anti-pattern is not delivered as a scolding. The coach who catches themselve
 
 - 2024-07-15_How To Stop Being Judgmental - 3 Ways (the explicit warning that telling yourself you shouldn't judge is itself a judgment that produces another judgment of self; the alternative formulation "just notice the pain, just notice what you want, allow yourself to go in that direction"; the framing of the should-stop-judging move as another instance of the same pattern it is trying to address)
 - 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the "I gotta take the pressure off myself / that's more pressure" exchange as a structurally identical instance of the same anti-pattern outside the judgment domain; the corrective move of redirecting to the felt enjoy-frame instead of arguing with the should)
+- 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the closing-beat form of the anti-pattern catch when an emotional-discharge practice is being prescribed; the four-component structure (restate-assignment / reframe-orientation / name-anti-pattern-in-advance / get-recognition) Joe uses in the closing "Move anger. Pleasure. Oh, can't make it a should. Yeah."; the explicit pairing of the anti-pattern catch with the prescription itself so the practice does not immediately get converted into another inhabitant of the should-cage the practice was meant to release

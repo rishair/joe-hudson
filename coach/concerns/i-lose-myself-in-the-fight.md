@@ -4,7 +4,7 @@ id: i-lose-myself-in-the-fight
 title: "I lose myself in the fight / Something animates me and I become someone I don't want to be"
 aliases: ["I lose myself in the fight", "I lose control in fights", "I become someone I don't recognize when we fight", "something takes over me", "it's like someone puts their hand up me like a puppet", "the puppet feeling in a fight", "I get hijacked in fights", "I'm completely out of control in fights", "who is that person", "that's not who I am", "I don't know what I'm doing in a fight", "I'm not myself when we argue", "I lose it and become a different person", "I don't recognize myself in fights", "I act like someone I'd never act like", "I do things in fights I'd never do otherwise", "the out-of-body feeling in a fight", "I watch myself doing things in fights I don't want to do", "I'm not me when we fight", "something else takes over"]
 tags: ["concern", "fighting", "trigger", "trauma", "relationships", "control", "couples"]
-sources: ["2025-01-10_The Real Reason You Lose Control In A Fight"]
+sources: ["2025-01-10_The Real Reason You Lose Control In A Fight", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # I lose myself in the fight
@@ -73,3 +73,4 @@ The destination is not "you will stop losing it in fights." The destination is "
 ## Sources
 
 - 2025-01-10_The Real Reason You Lose Control In A Fight
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the relationship-toolkit-format restatement of the puppet-feeling — "literally feels like somebody animated us, stuck their hand up us and made us like a puppet, it wasn't who we are, it wasn't who we wanted to be"; the same trauma-as-PTSD explanation with the Fallujah-and-car-backfire analogy; the same nervous-system-regulation prerequisite — box breath, 6-6 breath, hands on body — as the on-ramp to the actual feeling work the fight is asking for)

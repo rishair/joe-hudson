@@ -5,7 +5,7 @@ title: "Sorry From Shame vs. Sorry as Solidarity"
 aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it", "I'm sorry you're having a hard day", "solidarity apology", "the not-responsible apology", "sorry as presence not responsibility"]
 tags: ["distinction", "apology", "shame", "vulnerability", "language"]
 related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves", "2025-03-17_How to Apologize in A Way That Transforms You"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves", "2025-03-17_How to Apologize in A Way That Transforms You", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Sorry From Shame vs. Sorry as Solidarity
@@ -115,3 +115,5 @@ Joe coaches this with warmth and precision. The point is not to eliminate apolog
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-06-24_The Upright Apology- Accountability Without Shame
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
+- 2025-03-17_How to Apologize in A Way That Transforms You
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the solidarity sorry described alongside the upright apology as a second clean form Joe and Tara experimented with — "hey, I'm sorry that you're feeling disconnected right now" or "I'm sorry that you've had a hard day" delivered with the explicit framing that it is not an I-am-responsible sorry but an acknowledgment that "I'm right here with you" and "I acknowledge that that's yours, it's not for me to take care of"; Joe's reflection that he and Tara use this form less now but it was very useful for a while)

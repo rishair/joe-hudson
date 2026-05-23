@@ -5,7 +5,7 @@ title: "Joe's Friend Who Drove to Yuma to Grieve"
 aliases: ["the Yuma grief story", "the friend who drove to the desert", "the wailing in the desert", "the breakup that transformed his life", "the friend whose girlfriend broke up with him", "Joe's friend who mourned the fuck out of it", "the desert grief drives", "mourn the fuck out of it example", "the six months in Yuma", "the friend in Arizona who grieved", "expanding grief example"]
 tags: ["grief", "example", "joe-personal-story", "transformation", "breakup", "addiction", "patterns"]
 related: ["without-grief-we-recreate-the-pattern", "grief-as-identity-dismantling", "feeling-the-unfelt-emotion", "grief-is-many-emotions-not-just-sadness", "trauma-mapping", "let-your-body-shake-it-out", "the-fight-is-asking-you-to-feel-what-you-couldnt", "trauma-heals-in-relationship"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-01-10_The Real Reason You Lose Control In A Fight"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-01-10_The Real Reason You Lose Control In A Fight", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Joe's Friend Who Drove to Yuma to Grieve
@@ -105,3 +105,4 @@ When someone doubts that grief can transform anything beyond the immediate loss.
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
 - 2025-01-10_The Real Reason You Lose Control In A Fight (the 2025 retelling that uses the story as the proof-of-concept for the same healing mechanism operating outside a relationship — establishing that in-relationship trauma healing is the same mechanism with the added variable of a loving witness present to address the aloneness; the compressed details — the river restoration drives, the 5-hour each-way commute, the in-shape/business-thriving/not-drinking outcome)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same compressed retelling of the river-restoration friend with the same 5-hour each-way drive and the same overweight-failing-business-drinking-too-much before-state and in-shape-business-thriving-not-drinking after-state, used again as the proof-of-concept that the trauma-healing mechanism that grief produces in a solo container is the same mechanism that fights-held-by-a-loving-partner produce inside a relationship)

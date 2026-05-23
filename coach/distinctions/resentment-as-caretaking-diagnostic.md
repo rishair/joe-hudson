@@ -5,7 +5,7 @@ title: "Resentment as Caretaking Diagnostic"
 aliases: ["resentment signals caretaking", "if you feel resentful you're caretaking", "the resentment tell", "two-way resentment in caretaking", "the way resentment typically works in couples", "one person takes care of the other in a way they didn't want", "the disempower-by-helping mechanism", "the make-me-small-by-saving-me dynamic", "don't make my decisions for me resentment", "the caretaker took care of something I wanted to decide"]
 tags: ["caretaking", "diagnostic", "resentment", "codependence", "boundaries"]
 related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle", "resentment-as-unspoken-want", "joe-and-tara-the-fridge-resentment", "move-the-anger-then-draw-the-boundary", "resentment-saturates-other-fights"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_What Is Selfishness？", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_What Is Selfishness？", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Resentment as Caretaking Diagnostic
@@ -121,3 +121,4 @@ When a person describes being resented by someone they are caring for, the quest
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
 - 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the disempower-by-helping mechanism named explicitly; the fridge story as the canonical instance of caretaking-produced resentment; the typical bind where the cared-for cannot express anger because the caretaker was "just trying to help"; the recognition that this form of resentment can persist even without overt blame between the partners)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same disempower-by-helping mechanism restated alongside the diagnostic signals — "if you notice you don't want to come home, or you're bummed about when they're coming home, then the resentment has fully gotten in the relationship"; the same resentment-saturates-other-fights observation that the resentment from the caretaking will saturate every other fight the couple has)

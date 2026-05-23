@@ -5,7 +5,7 @@ title: "Esme: 'Dad, I Just Need to Be Sad. You Don't Need to Take Care of That.'
 aliases: ["I just need to be sad", "Dad I just need to be sad", "Esme setting a boundary against caretaking", "the daughter who told Joe to stop caretaking", "Esme's clean limit", "the just need to be sad moment", "you don't need to take care of that", "the boundary against the caretaking impulse", "the 17-year-old daughter naming the caretaking", "Joe's daughter catching the caretaking move", "the kid teaches the parent to stop caretaking"]
 tags: ["example", "parenting", "caretaking", "boundaries", "children", "presence", "love-not-nice"]
 related: ["caring-vs-caretaking", "resentment-as-caretaking-diagnostic", "dont-jump-to-compassion-before-anger", "love-vs-nice", "parenting-as-honest-mirror", "parenting-as-coaching-domain", "owning-your-partiality", "dont-add-anyway-to-love"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Esme: "Dad, I Just Need to Be Sad. You Don't Need to Take Care of That."
@@ -125,3 +125,4 @@ For an AI coach: this example is not just an illustration of one parent-child bo
 
 - 2022-12-23_Joe and His Daughter Discuss Fatherhood
 - 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the same incident retold with the alternate phrasing "Dad, just let me have my emotions"; the framing of this moment as the origin of Joe's larger teaching that responsibility for others' emotions is "the cause of so much tension in almost every relationship that I see")
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same "Dad, just let me have my emotions" retelling with the same "I realized like that is the cause of so much tension in almost every relationship that I see" framing — confirming this moment as the seed of Joe's larger emotional-responsibility teaching that he generalizes across all close relationships)

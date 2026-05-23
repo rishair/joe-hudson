@@ -5,7 +5,7 @@ title: "Looking for a Fight Means You're Not Connected With Yourself (And the Fi
 aliases: ["looking for a fight means self disconnection", "looking for a fight is a disconnection signal", "starting a fight means I'm not connected with myself", "the fight isn't about your partner", "the fight is about your boss yelling at you", "the partner isn't the source of the fight", "I'm not feeling internally connected with myself and I am starting a fight to do that", "fight-seeking as disconnection signal", "the urge to fight as displacement signal", "the looking-for-a-fight signal", "the fight-as-displaced-discharge principle", "the fight is misattributed", "fight-seeking misattributes the source", "the partner is the safe place not the source", "looking for a fight to get back into connection", "the fight is for emotional release not the relationship topic", "the safe-place-discharge principle for adults", "I came home and I am contradicting everything my partner says", "the contradicting-everything pattern as displacement"]
 tags: ["principle", "fighting", "relationships", "disconnection", "emotional release", "displacement", "couples", "self-connection"]
 related: ["unfelt-emotion-leaks", "dont-do-anger-at-your-partner", "kids-release-emotions-where-they-feel-safe", "get-angry-in-the-car", "go-to-separate-rooms-and-yell", "everything-i-say-they-contradict", "i-keep-picking-fights-with-my-partner", "what-do-i-really-need-right-now", "dont-do-emotion-at-people", "anger", "connection", "feeling-the-unfelt-emotion", "every-fight-can-bring-you-closer"]
-sources: ["2025-02-18_How to Use Relationship Fights to Heal"]
+sources: ["2025-02-18_How to Use Relationship Fights to Heal", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Looking for a Fight Means You're Not Connected With Yourself (And the Fight Isn't About Your Partner)
@@ -127,3 +127,4 @@ Joe delivers this with recognition rather than judgment. He names himself in the
 ## Sources
 
 - 2025-02-18_How to Use Relationship Fights to Heal
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same daughter-coming-home-ready-for-a-fight story and the same Tara-contradicting-everything observation and the same came-home-and-noticed-I-was-doing-it self-recognition told in the relationship-toolkit format; the same go-yell-in-another-room-and-come-back move as the operational third option; the somatic-cue-to-need-question move — "this feeling, this sensation, this somatic experience that I'm having right now, that's how I feel when I'm looking for a fight; what do I really need?")

@@ -5,7 +5,7 @@ title: "Joe and Tara's Fridge (The Anatomy of Caretaking-Produced Resentment)"
 aliases: ["the fridge story", "Joe and Tara's fridge", "the loud fridge", "the silent fridge Tara wanted", "I bought the wrong fridge", "the fridge could do no right", "the fridge resentment", "the six months of fridge resentment", "the fridge as caretaking example", "the I just went out and bought the fridge story", "the canonical caretaking-produces-resentment example", "the unexpressed anger over the fridge", "the boundary Tara hadn't drawn about the fridge", "the I'm not blaming you I'm blaming me confusion", "the no Joe don't buy the goddamn fridge boundary", "the resentment over the loud refrigerator"]
 tags: ["example", "marriage", "resentment", "caretaking", "anger", "boundaries", "passive-aggression", "Joe and Tara"]
 related: ["resentment-as-caretaking-diagnostic", "resentment-as-unspoken-want", "resentment-saturates-other-fights", "move-the-anger-then-draw-the-boundary", "i-keep-being-resentful", "we-have-built-up-resentment", "boundaries", "anger", "anger-is-love", "caring-vs-caretaking", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
+sources: ["2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Joe and Tara's Fridge (The Anatomy of Caretaking-Produced Resentment)
@@ -116,3 +116,4 @@ See [[resentment-as-unspoken-want]] for the broader principle and [[resentment-s
 ## Sources
 
 - 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the full fridge story; the canonical instance of caretaking-produced resentment in marriage; the explicit naming of the three-layer structure of resentment-anger-boundary; the recognition that resentment can be self-directed in form while still being driven by unexpressed anger at the other)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same fridge story retold with the same once-a-week-for-six-months detail; the same Tara-saying-I'm-blaming-me-not-you confusion; the same recognition that the unexpressed anger pointing at an undrawn boundary — "no Joe, don't buy the goddamn fridge, I have a very specific idea of the fridge I want" — was what the resentment was carrying)

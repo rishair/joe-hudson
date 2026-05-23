@@ -4,7 +4,7 @@ id: welcome-yourself-in-the-conversation
 title: "Welcome Yourself in the Conversation (Welcome → Stop → Name the Stop → Return)"
 aliases: ["welcome yourself in the conversation", "show me what it would be like to welcome yourself", "the welcoming loop in session", "welcome and watch what stops it", "the live self-welcoming move", "have them welcome themselves in real time", "the welcoming-stop-naming-return loop", "the welcoming-loop move", "welcoming as the entire session", "the live self-welcoming probe", "welcome yourself in this whole conversation", "now you're going to welcome yourself in this whole conversation", "show me what loving yourself looks like right now"]
 tags: ["moves", "self-love", "welcoming", "live coaching", "demonstration", "body reading"]
-sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)"]
+sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2025-06-06_How Do I Love Myself? (Coaching Session Breakdown)"]
 ---
 
 # Welcome Yourself in the Conversation
@@ -47,6 +47,8 @@ The cumulative effect: the person stops trying to fix the dismissing-accomplishm
 - **If the person identifies a recurring obstacle (comparative mind, self-judgment, defensiveness):** Model the welcoming move on it specifically. "I welcome my comparative mind. It helps me be good in work. There's a brilliance in it." See [[welcome-the-pattern-by-naming-its-brilliance]].
 - **If the person can welcome alone but not in the room:** Name the false-humility-with-others pattern. Then re-prompt the welcoming with people present. See [[the-good-alone-false-humility-with-others-read]].
 - **If the person stays in the welcoming and the room softens:** Don't interrupt with the next teaching. Sit with it. Notice the redness in the face, the eyes being met by others. "Notice how much this is love, self-love. Eyes open. Look at them."
+- **If the somatic shift begins to express through gesture (opening arms, leaning back, settling into the chair):** Let it. Don't direct it. The body finding its own gesture for the welcoming is the welcoming. In the source session, "Feels like I want to open my arms" was the client's report; the opening of the arms was the welcoming taking somatic shape.
+- **If the face is reddening as the welcoming deepens:** Name it as the somatic confirmation of the work landing. "The more you welcome yourself, the redder your face is getting." The reddening is the body opening; it pairs with the experience of being seen and welcomed by others in the room. Joe uses it explicitly: "Some acknowledgment too. How much, how much is this right, that there's an acknowledgment as you welcome yourself, you're actually being seen and welcomed by all these people?"
 
 ## Dialogue Example
 
@@ -101,6 +103,20 @@ If the move becomes a discrete technique done once at the start of the session, 
 
 The other risk: trying to make the welcoming happen "correctly." Welcoming is not a posture or a state to achieve. It is whatever the body does when it lets in what is here. If the coach (or AI coach) starts evaluating whether the welcoming is "real enough" or "deep enough," the evaluation becomes the new pattern pulling the person out of the welcoming.
 
+## Why the Move Works (The Somatic Substrate)
+
+The move works because welcoming is somatic — it is a felt direction of feeling, not a verbal claim. See [[welcoming-is-somatic-not-verbal]]. When the coach says "show me what it would be like to welcome yourself," the body produces a brief somatic shift (the warmth, the opening, the soft direction of feeling toward the self) almost regardless of what the mind does. The shift is the access.
+
+From the source-session commentary on the same client:
+
+"The cool thing here is that he is somatically doing it. This session works because he is literally — I don't know if he's saying 'I welcome it' or what he's doing internally, but you can feel his body going, 'oh, this thing, I'm letting this thing step into me, or I'm stepping into this thing.' And he's just doing it one after the other. So there's this somatic — the question of welcoming or loving yourself, there's this idea that it's some action or some words you say. It is a somatic feeling." — Joe Hudson, *How Can I Feel Self-Love? Breakdown*
+
+The implication for the AI coach: when running this move, the goal is not to elicit the right words. The goal is to elicit the body shift. The coach can ask follow-ups that point at the body — "what's happening in your body right now?" "where do you feel that?" — to anchor the somatic level. The verbal layer (the person saying "I welcome the trying" or "I welcome the shame") can support the somatic move but cannot replace it.
+
+The diagnostic for whether the move is working: is the body doing something different, or is the person just narrating different thoughts? If the body has not shifted, the welcoming has not yet happened, no matter what is being said. If the body has shifted, the welcoming is happening, even if the person has said nothing.
+
 ## Sources
 
 - 2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson) — the canonical instance; the entire session is structured around this loop; the welcoming starts, stops, gets named, gets returned to, repeats through multiple iterations including the welcoming of the trying, the welcoming of shame, the welcoming of the comparative mind, the welcoming of false humility with others present
+- 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown — the meta-commentary on the same session; identifies the somatic substrate that makes the loop work ("he is literally doing it"); confirms that welcoming is a felt direction of feeling not a verbal claim; the body-shift diagnostic for whether the move is actually happening vs. being performed
+- 2025-06-06_How Do I Love Myself? (Coaching Session Breakdown) — duplicate transcription of the same breakdown episode; confirms the same observations; the gesture-emergence response detail (the client's "feels like I want to open my arms" preceding the actual opening of the arms as the welcoming finds somatic shape); the face-reddening as live somatic confirmation of the welcoming deepening when held in the presence of others

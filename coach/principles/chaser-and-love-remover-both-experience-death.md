@@ -5,7 +5,7 @@ title: "The Chaser and the Love-Remover Both Experience the Other's Move as Deat
 aliases: ["chaser and love-remover both feel death", "chaser-love-remover symmetry", "abandonment is death for the chaser, being chased is death for the love-remover", "both partners experience the other as death", "the symmetrical trauma structure in fight-leaving", "one chases love one removes love", "the chaser feels death when abandoned the love-remover feels death when chased", "the death-on-both-sides principle", "the chaser-and-the-abandoner trauma structure", "the two-stance configuration in couples around leaving", "the trauma-symmetry in fight exits", "no relief in either direction without the timeline", "give me a fucking break is the love-remover's trauma firing", "freaking the fuck out is the chaser's trauma firing", "both partners' worst trauma is being addressed by the same instrument"]
 tags: ["principle", "relationships", "couples", "trauma", "fighting", "abandonment", "anxious-avoidant", "configurations"]
 related: ["withdrawal-with-vs-without-a-timeline", "anxious-avoidant-dynamic", "complementary-trauma-surfaces", "your-trauma-is-equally-matched-with-your-partner", "name-im-in-my-trauma-as-couple-language", "every-fight-can-bring-you-closer", "trigger", "fight-agreements-made-outside-the-fight"]
-sources: ["2025-02-04_The Healthy Way To Leave A Fight"]
+sources: ["2025-02-04_The Healthy Way To Leave A Fight", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # The Chaser and the Love-Remover Both Experience the Other's Move as Death
@@ -102,3 +102,4 @@ This is not always cleanly one-or-the-other. Some couples have both partners run
 ## Sources
 
 - 2025-02-04_The Healthy Way To Leave A Fight (the principle in its clearest form; Joe naming himself as the chaser in the early relationship with Tara; the "freak the fuck out" and "totally lose myself" description of the chaser's trauma firing; the "give me a fucking break" description of the love-remover's trauma firing; the resolution via the timeline-bound leaving; the transformation of fights once both partners can hold the configuration)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same chaser-vs-love-remover configuration retold with Joe as the aggressively-angry partner and Tara as the passively-angry partner-who-leaves; the same "death" framing on both sides — "for the person who's the chaser, it is like death, internal death, to be abandoned; oftentimes the person who's the abandoner, it's like death to be chased"; the same timeline-bound-leaving resolution and the "all of a sudden these breaks became really great ways to have a fight, it wasn't a death anymore" outcome)

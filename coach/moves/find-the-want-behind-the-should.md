@@ -5,7 +5,7 @@ title: "Find the Want Behind the Should"
 aliases: ["locate the want under the should", "what do you actually want here", "translate the should", "the want behind it"]
 tags: ["moves", "shoulds", "wants", "coaching", "translation"]
 related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should", "say-the-forbidden-want-out-loud", "money-as-surrogate", "joes-stinky-house-experiment", "enjoyment-as-path"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should", "2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
 ---
 
 # Find the Want Behind the Should
@@ -63,6 +63,22 @@ The teaching: the want does not have to be impressive. It only has to be true. T
 
 See [[joes-stinky-house-experiment]] for the full story and what the experiment surfaced.
 
+## The Specificity-First Step (For Diffuse Should-Spirals)
+
+When the client presents a diffuse field of shoulds rather than a single concrete should, the move has a required preliminary step: force the diffuse field into a single concrete sentence. Without specificity, the want-locating cannot proceed because there is no specific should to work with.
+
+The form Joe uses:
+
+"Like, give me a specific. I want a specific. Like, what's the one specific thing that you should yourself for? Like, you should stop smoking, you should—" -- Joe Hudson, "I Should Be More Productive" Is Killing You
+
+The example-prompting matters. Joe offers two possible concrete forms (stop smoking, etc.) so the client knows the shape of answer being requested. The client then snaps to a concrete sentence: "I should be more productive."
+
+The specificity-step is required for clients who present in the cage-of-shoulds or loops-of-guilt form. Those clients have so many shoulds running that any individual should has been generalized into the field. The field cannot be worked with. A single should can be.
+
+The specificity-step is also useful when the client tries to answer the "what do you should yourself for?" question with abstractions ("trying to be different in some way," "being a better person"). The abstraction is part of the avoidance — staying at the abstract level prevents the should from being met concretely enough for the work. The move is to refuse the abstraction and insist on the concrete.
+
+Once the concrete should is in the room, the work can proceed in either direction: this move (locate the want behind the specific should) or [[if-you-couldnt-feel-this-whats-underneath]] (the should-as-blocker variant, used when the want under the should is itself blocked by some prior layer).
+
 ## The Body Test
 
 A clean want feels expansive. The body opens. A should feels like compression. When the translation lands correctly, the person can feel the shift somatically. If the translation does not produce expansion, it is probably the wrong want. Keep looking.
@@ -87,3 +103,4 @@ Curious, light. Not corrective. The frame is not "you're using the wrong word." 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2022-10-26_Want Over Should
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the trash-can canonical telling of the move; the explicit formulation "It's not I have to take out the trash, it's I want to take out the trash"; the teaching that mundane wants — the want for the stink to be gone — are sufficient to reorient action)
+- 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the specificity-first preliminary step for diffuse should-spirals; the example-prompting form ("you should stop smoking, you should—") that gives the client the shape of answer being requested; the demonstration that the client's first abstract answer ("trying to be different in some way") must be refused before the concrete should can surface ("I should be more productive")

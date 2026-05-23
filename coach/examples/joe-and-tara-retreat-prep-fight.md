@@ -5,7 +5,7 @@ title: "Joe and Tara's Retreat-Prep Fight (The 3-Minute Fight the Bystanders Did
 aliases: ["the retreat prep fight", "Joe and Tara's 3-minute fight", "the fight the bystanders didn't register", "the bystanders said that was a fight", "Joe and Tara fighting in front of facilitators", "the 3-4 minute fight at retreat prep", "the fight that ended with I love you", "the it's-really-hard-to-fight-with-you fight", "Joe's example of fighting well in front of others", "Joe and Tara public fight example", "the resolution-then-I-love-you fight", "the 7:30-to-10:30 retreat preparation context", "the most-frayed-time-of-year fight", "the witnesses didn't even know it was a fight"]
 tags: ["example", "fighting", "relationships", "marriage", "facilitation", "public fighting", "fight well"]
 related: ["how-you-fight-not-how-often", "every-fight-can-bring-you-closer", "joe-and-tara-weekend-reset", "tara-fights-that-destroyed-joes-narcissism", "arc-of-fighting-maturation", "apologize-to-exit-a-fight", "you-can-only-fix-yourself-in-a-fight", "name-im-in-my-trauma-as-couple-language", "feeling-yourself-beats-going-to-plan"]
-sources: ["2024-12-17_Why Fighting Is Important"]
+sources: ["2024-12-17_Why Fighting Is Important", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # Joe and Tara's Retreat-Prep Fight
@@ -94,3 +94,4 @@ The story is also not a prescription that all fights should be three to four min
 ## Sources
 
 - 2024-12-17_Why Fighting Is Important (the retreat-prep fight; the three-to-four minute duration; the "it's really hard to fight with you, I'm glad we resolved that, I love you" close; the two bystanders saying "that was a fight?"; the "we don't hide our fights" marker; the 7:30am-10:30pm seven-day retreat-prep context for why this was the conditions that would normally produce the worst form)
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same story retold in the relationship-toolkit format with the same details — the 3-or-4-minute fight, the "it's really hard to fight with you, I'm glad we resolved that, I love you" close, the two facilitators-who-didn't-even-know-it-was-a-fight, the 7:30-to-10:30 seven-day retreat context — anchoring the new metric in a concrete recent example)

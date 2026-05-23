@@ -5,7 +5,7 @@ title: "The Three Stages of the Blame Path (Blame Others, Blame Self, No Blame)"
 aliases: ["three stages of the blame path", "the stages of blame", "beginning middle and end of the path", "blame other blame self blame nobody", "at the beginning you blame somebody else", "in the middle you blame yourself", "at the end you don't blame anybody", "the blame development arc", "the developmental arc of blame", "self-blame is the middle of the path not the end", "moving from blame to self-blame is not progress", "the second stage is still blame", "self-blame is equally corrosive as other-blame", "both blames are corrosive", "self-blame as the false destination", "blame other is stage 1 blame self is stage 2 no blame is stage 3", "the path doesn't end with self-blame"]
 tags: ["blame", "self-blame", "relationships", "developmental-arc", "corrosive", "responsibility", "shame"]
 related: ["shame-drives-behavior", "shame-hot-potato", "turn-blame-into-wants", "fault-vs-responsibility", "blame-is-not-real", "self-blame-abdicates-others-agency", "non-defense-is-the-ocean", "patient-on-the-table"]
-sources: ["2025-01-22_Why Blame Is So Corrosive"]
+sources: ["2025-01-22_Why Blame Is So Corrosive", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
 # The Three Stages of the Blame Path
@@ -103,3 +103,4 @@ Joe delivers this with matter-of-fact precision. The frame is structural, not as
 ## Sources
 
 - 2025-01-22_Why Blame Is So Corrosive
+- 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same three-stage arc restated — "at the beginning of the path you blame somebody else, in the middle of the path you blame yourself, at the end of the path you don't blame anybody" — with the same explicit naming of self-blame as equally corrosive to other-blame; the same observation that the person who stops blaming the other usually starts blaming themselves as the typical mid-path failure mode)

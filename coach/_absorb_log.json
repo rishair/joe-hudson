@@ -7503,10 +7503,60 @@
     },
     {
       "folder": "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T15:16:15Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "bringing-flowers-doesnt-make-her-happy"
+      ],
+      "articles_updated": [
+        "dont-take-responsibility-for-anothers-happiness",
+        "how-you-fight-not-how-often",
+        "verbal-abuse-as-controlling-with-anger",
+        "fight-agreements-made-outside-the-fight",
+        "dont-find-the-truth-find-their-truth",
+        "being-with-anothers-emotion-is-being-with-your-own-pain",
+        "dont-treat-relationship-as-pass-fail-attempt",
+        "intellectual-emotional-polarization-in-couples",
+        "looking-for-a-fight-means-self-disconnection",
+        "boundaries",
+        "upright-apology",
+        "sorry-from-shame-vs-sorry-as-solidarity",
+        "listen-as-the-wisest-person",
+        "every-fight-can-bring-you-closer",
+        "habenula",
+        "esme-just-need-to-be-sad",
+        "joes-friend-yuma-grief-drives",
+        "dont-make-it-your-job-to-prevent-their-triggers",
+        "caring-vs-caretaking",
+        "dont-do-emotion-at-people",
+        "kids-release-emotions-where-they-feel-safe",
+        "nobody-wants-to-have-sex-with-a-kid",
+        "mirror-until-they-confirm",
+        "ask-what-they-want-before-responding",
+        "repair-phrase-as-trauma-deactivator",
+        "defense-feels-like-attack-feedback-loop",
+        "blame-is-not-real",
+        "three-stages-of-the-blame-path",
+        "black-swan-small-collapses-prevent-big-ones",
+        "friction-is-required-for-life",
+        "i-keep-being-resentful",
+        "resentment-as-caretaking-diagnostic",
+        "joe-and-tara-the-fridge-resentment",
+        "move-the-anger-then-draw-the-boundary",
+        "say-the-thing-youre-not-saying",
+        "chaser-and-love-remover-both-experience-death",
+        "withdrawal-with-vs-without-a-timeline",
+        "name-im-in-my-trauma-as-couple-language",
+        "the-fight-is-asking-you-to-feel-what-you-couldnt",
+        "trauma-heals-in-relationship",
+        "i-lose-myself-in-the-fight",
+        "we-have-built-up-resentment",
+        "we-never-fight",
+        "joe-and-tara-retreat-prep-fight",
+        "joe-and-tara-la-show-fight"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T15:46:03Z"
     },
     {
       "folder": "2025-05-23_What Is Attunement?",
@@ -7528,8 +7578,97 @@
     },
     {
       "folder": "2025-05-27_\uff02I Should Be More Productive\uff02 Is Killing You (Coaching Session With Master Coach)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T15:26:31Z",
+      "articles_created": [
+        "purposelessness-is-freedom",
+        "coming-alive-then-collapsing-back",
+        "fall-in-love-with-the-feared-state-by-modeling-it",
+        "live-group-consent-as-reality-check",
+        "emotional-leak-mistaken-for-emotional-excess"
+      ],
+      "articles_updated": [
+        "if-you-couldnt-feel-this-whats-underneath",
+        "i-should-be-doing-this",
+        "find-the-want-behind-the-should",
+        "shame-is-anger-turned-inward",
+        "rebellion-or-submission-to-should",
+        "nothing-is-required-for-freedom",
+        "get-angry-in-the-car",
+        "dont-make-stop-judging-into-a-should",
+        "ill-become-lazy-without-shoulds"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T15:46:05Z"
+    },
+    {
+      "folder": "2025-05-30_The Secret to Elite Doomscrolling\uff1a You Must Hate Yourself",
+      "status": "complete",
+      "claimed_at": "2026-05-23T15:47:06Z",
+      "articles_created": [
+        "i-cant-stop-doomscrolling",
+        "joes-doomscrolling-story",
+        "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
+        "satirical-anti-advice-as-teaching",
+        "dont-list-whats-wrong-with-you"
+      ],
+      "articles_updated": [
+        "bad-habits-are-the-avoidance-of-essential-self",
+        "the-shame-avoidance-loop",
+        "its-a-human-thing-redirect",
+        "natural-shame-vs-installed-shame"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T16:00:11Z"
+    },
+    {
+      "folder": "2025-06-06_How Can I Feel Self-Love\uff1f - Coaching Session Breakdown",
+      "status": "complete",
+      "claimed_at": "2026-05-23T15:48:20Z",
+      "articles_created": [
+        "body-cues-of-shame-about-being-seen",
+        "two-layers-of-shame-about-being-seen",
+        "welcoming-is-somatic-not-verbal",
+        "play-with-not-hedging",
+        "the-vacillation-between-welcoming-and-shame-is-the-process",
+        "meditation-as-welcoming-not-management",
+        "the-client-lays-out-the-path-themselves"
+      ],
+      "articles_updated": [
+        "shame-after-spaciousness",
+        "linguistic-caveat",
+        "love-as-deep-welcoming",
+        "welcome-yourself-in-the-conversation",
+        "how-do-i-love-myself"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T16:03:13Z"
+    },
+    {
+      "folder": "2025-06-06_How Do I Love Myself? (Coaching Session Breakdown)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T16:00:46Z",
+      "articles_created": [
+        "you-know-this-place-this-is-not-your-first-time-here"
+      ],
+      "articles_updated": [
+        "welcome-yourself-in-the-conversation",
+        "how-do-i-love-myself"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T16:07:12Z"
+    },
+    {
+      "folder": "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T16:04:22Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T16:07:50Z",
       "articles_created": [],
       "articles_updated": []
     }
