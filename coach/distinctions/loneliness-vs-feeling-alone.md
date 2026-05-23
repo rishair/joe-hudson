@@ -4,8 +4,8 @@ id: loneliness-vs-feeling-alone
 title: "Loneliness vs. Feeling Alone (The Bully CEO Doesn't Feel Lonely)"
 aliases: ["loneliness vs feeling alone", "feeling alone is not loneliness", "the bully CEO doesn't feel lonely", "the alone-in-it feeling vs loneliness", "I feel alone but not lonely (lonely CEO version)", "nobody is helping me vs I can't be seen", "the lonely-at-the-top distinction", "alone-in-it vs lonely", "leaders feel alone but rarely lonely", "the it's-all-on-me feeling is not loneliness", "alone-in-the-burden vs lonely"]
 tags: ["loneliness", "feeling-alone", "leadership", "self-reliance", "distinction", "shame"]
-related: ["loneliness-as-shame-based-disconnection", "loneliness-vs-solitude", "aloneness-vs-loneliness", "i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "lonely-people-are-sweethearts"]
-sources: ["2025-08-29_Dear Lonely Person： You're Probably A Sweetheart", "2025-08-29_How to Break Free from Loneliness"]
+related: ["loneliness-as-shame-based-disconnection", "loneliness-vs-solitude", "aloneness-vs-loneliness", "i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "lonely-people-are-sweethearts", "i-feel-alone-in-rooms-despite-success", "three-dynamics-of-feeling-alone-in-the-room"]
+sources: ["2025-08-29_Dear Lonely Person： You're Probably A Sweetheart", "2025-08-29_How to Break Free from Loneliness", "2025-10-21_Connection Is Hard Until You Face Your Aloneness"]
 ---
 
 # Loneliness vs. Feeling Alone (The Bully CEO Doesn't Feel Lonely)
@@ -89,3 +89,4 @@ Clarifying. Slightly playful when introducing the bully-CEO example because the 
 
 - 2025-08-29_Dear Lonely Person: You're Probably A Sweetheart
 - 2025-08-29_How to Break Free from Loneliness (the companion teaching with the same bully-CEO distinction; the explicit framing "feeling alone in it is shame-based but in a different way than loneliness is")
+- 2025-10-21_Connection Is Hard Until You Face Your Aloneness (the alone-in-rooms-despite-success variant that is structurally closer to feeling-alone than to loneliness — the person is sharing themselves in some form, has built a life full of people, and is reporting that the sharing isn't producing the felt meeting; the [[three-dynamics-of-feeling-alone-in-the-room]] framework as the organizing map for this variant; the cure structure — chase your own approval + recognize support that's there + face the avoided aloneness — that applies to feeling-alone but not loneliness)

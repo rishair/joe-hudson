@@ -5,7 +5,7 @@ title: "Parenting as a Deep Tissue Massage of Identity"
 aliases: ["parenting as deep tissue massage", "the deep tissue massage of parenting", "parenting strips identity", "the more you resist parenting the worse it gets", "parenting tears identity away", "kids tear away your identity", "kids issue a deep tissue massage", "the deep tissue massage children give you", "what kids dismantle in you", "kids strip what you think is right away", "parenting as identity dismantling", "the felt sense of parenting as deep tissue work", "if you resist parenting you're fucked"]
 tags: ["parenting", "identity", "concept", "resistance", "ego dissolution", "spiritual practice"]
 related: ["parenting-as-honest-mirror", "parenting-as-real-world-test-of-inner-work", "parenting-as-coaching-domain", "identity", "grief-as-identity-dismantling", "expanding-sense-of-self", "running-toward-yourself", "honor-the-patterns-intent", "every-identity-has-limits"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-28_How to Be a Parent (Without Messing Everything Up) ｜ Guest Episode with Nathan Baschez", "2025-10-16_He Discovers His Negative Emotions Aren't the Problem ｜ Coaching with Joe"]
 ---
 
 # Parenting as a Deep Tissue Massage of Identity
@@ -77,6 +77,28 @@ A short list of identities that parenting tends to dissolve, regardless of how c
 - **The parent who is going to do it differently than their parents did.** Joe's read: 90% of what most people do as parents is what their parents did to them, and 10% is overcorrection from what they had a problem with. Either way, the early parenting moves are usually inherited, not chosen. The identity of "I am going to be different" does not survive contact with the conditions that produced the inheritance.
 - **The parent who is going to keep their identity unchanged.** This is the one that everyone learns about last.
 
+## "Rip Your Ego Out of You Day After Day" (The Live-Coaching Form)
+
+The metaphor also appears in live coaching, where Joe uses it to address the parent who is in the middle of the dismantling and is treating the dismantling as a problem. The compact in-session articulation:
+
+"This is the gift of parenting. You have all the fluidity there. You just have to let it come out of your mouth instead of protecting yourself from it." -- Joe Hudson, He Discovers His Negative Emotions Aren't the Problem
+
+The fuller version, delivered to a father who had been clamping down on his anger and sadness because he believed it would harm his 2-year-old daughter and could not access his excitement about news of a second child:
+
+"Let it break your heart. You don't have to be strong around this. Who would you be if you gave up everything for me — for May? Your identity, all the space you think you need, out of a deep want to, not because you had to, but because that's just the kind of father you are. Who would you be when she's 18? This is the gift of parenting. You have all the fluidity there. You just have to let it come out of your mouth instead of protecting yourself from it." -- Joe Hudson, He Discovers His Negative Emotions Aren't the Problem
+
+The phrasing here adds three things to the conceptual definition above:
+
+- **The deep-tissue work names a specific cost: the parent's space.** "All the space you think you need" is one of the specific identity-extensions the dismantling targets. The parent who has been organizing their life around having enough space discovers, through the practice, that the space they thought they needed was the boundary of the version of themselves the practice is dismantling.
+
+- **The dismantling is framed as a deep want, not a duty.** "Out of a deep want to, not because you had to" — this is the difference between the parent who is suffering the dismantling and the parent who is choosing it. The parent who can find the want underneath the obligation moves through the practice differently than the parent who is enduring it.
+
+- **The future-tense question relocates the practice from drudgery to development.** "Who would you be when she's 18?" is the question that surfaces the developmental destination — the parent the dismantling is producing. The parent who can feel the destination, even briefly, gets a felt anchor for the practice. The session source includes the response Joe was reading for: "I almost don't know if it matters. Yeah, whatever that is. Yes, that's right." The collapse of the future-tense ("I almost don't know if it matters") is the indicator that the destination has arrived as a present-tense felt sense, not as a distant goal.
+
+The visceral phrasing — "rip your ego out of you day after day after day" — extends the deep-tissue metaphor with the parenting-specific cadence. The massage is not a one-time event. It is a daily, ongoing, repetitive removal of the parent's pre-parenting structure. The "day after day after day" cadence is the felt rhythm of the practice. Anyone who has parented a young child recognizes the cadence immediately.
+
+The live use of the metaphor also shows it operationally: not as a teaching to deliver to a parent in distress, but as a structural orientation that lets the coaching move forward. The parent who hears "rip your ego out of you" responds with "I want that" because something in them already knows the dismantling is the practice. The metaphor names what they already feel and gives it dignity.
+
 ## The Reframe Joe Hands Pre-Parents Asking What It's Like
 
 When pre-parents or new parents ask Joe what parenting is actually like, the deep-tissue-massage metaphor is the line he reaches for. He has used it so often it has become his standard handoff. In the conversation with Nathan Baschez:
@@ -138,3 +160,4 @@ Visceral. Joe says "you were just fucked" if you resist. He is not soft about th
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (Joe re-articulating the deep-tissue-massage frame for an interview audience with Brett and Alexa, who were sitting in the kids-or-no-kids question; the same teaching delivered to a pre-parent audience makes the dismantling visible as part of what the listener is signing up for)
 - 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (Joe uses the metaphor as his standard handoff to new and pre-parents asking what parenting is like; the line is compact and funny enough to land without being heavy; in context, Joe is connecting it to the broader practice of doing parenting as a self-development practice with one's spouse — see [[make-parenting-a-shared-spiritual-practice-with-your-co-parent]])
+- 2025-10-16_He Discovers His Negative Emotions Aren't the Problem | Coaching with Joe (the live-coaching form of the metaphor; the visceral "rip your ego out of you day after day after day" phrasing; the destination question "who would you be when she's 18?" that surfaces the developmental destination as a present-tense felt sense; the closing reframe "you have all the fluidity there, you just have to let it come out of your mouth instead of protecting yourself from it"; the live deployment of the metaphor as operational orientation rather than as teaching delivered to a parent in distress)

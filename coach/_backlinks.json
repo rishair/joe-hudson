@@ -255,6 +255,7 @@
     "iteratively-replace-the-word-in-the-question",
     "look-me-in-the-eye-and-name-the-controlling-wish",
     "mirror-to-group-then-substitute-i-for-you",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "surface-the-rejection-then-demand-its-evidence",
     "swap-roles-with-the-younger-self",
@@ -953,6 +954,7 @@
     "addiction-to-shame",
     "epiphany-becomes-task",
     "forms-of-dysfunctional-apology",
+    "good-jobbed-as-conditional-validation",
     "latticework-of-limiting-beliefs",
     "negative-self-reinforcement",
     "perfectionism",
@@ -1094,6 +1096,7 @@
     "how-do-i-be-happy",
     "how-do-i-stop-seeking-approval",
     "how-do-i-trust-myself",
+    "i-feel-alone-in-rooms-despite-success",
     "i-feel-misvalued-as-an-overachiever",
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
@@ -1116,7 +1119,8 @@
     "productivity-is-the-trees-purpose-is-the-forest",
     "putting-someone-above-blocks-emotion",
     "chase-your-own-approval",
-    "principles-goals-metrics"
+    "principles-goals-metrics",
+    "three-dynamics-of-feeling-alone-in-the-room"
   ],
   "ill-become-lazy-without-shoulds": [
     "goals-make-me-miserable",
@@ -1222,6 +1226,7 @@
     "i-should-be-doing-this",
     "im-clamping-down-on-my-negative-emotions",
     "ive-lost-my-joy",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "the-blank-place-as-refuge",
     "can-you-look-forward-to-feeling-it",
     "is-it-not-feeling-or-repressing-what-arises",
@@ -1239,6 +1244,7 @@
     "childhood-imprinting",
     "fear-of-joy",
     "three-signals-of-unfelt-emotion",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "embrace-vs-brace",
     "joy-vs-equanimity",
     "pleasure-amplifies-vs-detracts-from-emotion",
@@ -1398,6 +1404,7 @@
   ],
   "try-to-feel-scared-then-stop-experiment": [
     "how-do-i-be-happy",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "applied-self-awareness",
     "art-of-accomplishment",
     "emotional-fluidity",
@@ -1593,6 +1600,7 @@
     "i-cant-enter-my-creative-work",
     "i-keep-getting-stuff-done-but-nothing-changes",
     "nostalgic-claw-for-old-identity",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "how-is-that-not-here-right-now",
     "how-would-you-enjoy-x",
     "joy-as-natural-state",
@@ -2126,6 +2134,7 @@
     "mark-it-and-return-later",
     "talk-to-the-part-that-knows",
     "wheres-you-go-naming-the-retreat-from-connection",
+    "you-know-this-place-this-is-not-your-first-time-here",
     "dont-believe-the-stories-you-tell-yourself",
     "identity-lags-behind-growth",
     "do-i-stop-drinking-session"
@@ -2349,7 +2358,10 @@
   "you-know-this-place-this-is-not-your-first-time-here": [
     "how-do-i-love-myself",
     "im-clamping-down-on-my-negative-emotions",
-    "welcome-yourself-in-the-conversation"
+    "emotional-fluidity",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
+    "welcome-yourself-in-the-conversation",
+    "trying-prevents-the-feeling"
   ],
   "name-the-pattern-that-pulls-them-out": [
     "how-do-i-love-myself",
@@ -2413,6 +2425,7 @@
     "who-do-you-want-to-be-with-more",
     "dont-call-them-a-liar-with-deflection",
     "how-do-i-stop-is-the-fix-trap",
+    "you-cant-get-everyones-approval-anywhere-anytime",
     "authority-issues",
     "three-blocks-to-speaking-truth",
     "the-four-authority-positions",
@@ -2758,19 +2771,26 @@
     "seeking-as-the-wall",
     "the-answer-is-already-known",
     "what-feels-more-in-purpose-right-now",
+    "purpose-as-path-not-map",
     "purpose-is-an-unfolding-not-a-destination",
+    "running-toward-the-thing-youre-running-from",
     "feel-the-searching-then-feel-the-opposite",
     "purpose-is-acknowledgement-not-approval",
     "purpose-is-how-not-what",
     "choicelessness-as-purpose-marker",
     "do-it-for-yourself-to-find-purpose",
     "impact-and-purpose-are-universal-human-needs",
+    "mental-models-cant-tell-you-what-experience-feels-like",
     "purpose-asks-you-to-be-scary-then-effortless",
     "purpose-cracks-you-open",
     "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-in-the-present-not-the-future",
     "purpose-is-recognized-not-found",
     "purposelessness-is-freedom",
-    "searching-for-purpose-pushes-it-away"
+    "searching-for-purpose-pushes-it-away",
+    "purpose-checkin-alarm-practice",
+    "creative-career-story",
+    "five-year-old-swimmers-analogy"
   ],
   "i-have-all-my-eggs-in-one-basket": [
     "how-do-i-navigate-this-uncertain-time",
@@ -2847,6 +2867,7 @@
   "without-grief-we-recreate-the-pattern": [
     "how-do-i-stay-open-after-narcissistic-abuse",
     "i-cant-get-over-this-loss",
+    "i-feel-alone-in-rooms-despite-success",
     "i-feel-lonely-i-cant-find-real-community",
     "i-keep-chasing-emotionally-unavailable-people",
     "defensive-scanning-for-the-feared-threat",
@@ -2871,6 +2892,7 @@
     "what-was-wired-with-love-needs-untying",
     "save-your-relationship-three-moves",
     "three-things-to-save-a-marriage-from-disdain",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma",
     "joes-friend-yuma-grief-drives",
     "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
   ],
@@ -2906,6 +2928,7 @@
     "name-the-fear-loop-directly",
     "notice-what-judgment-costs-you-and-what-you-actually-want",
     "pour-the-love-at-the-threat",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "so-what-makes-you-run-away-from-fear",
     "take-contrary-action",
     "welcome-the-hurt-the-way-you-wanted-as-a-kid",
@@ -2925,11 +2948,13 @@
     "purpose-asks-you-to-be-scary-then-effortless",
     "purpose-cracks-you-open",
     "relationships-as-personal-growth-path",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love",
     "compassion-as-of-the-guts",
     "defend-vs-open-to-all-past-judgments",
     "love-yourself-the-way-you-always-wanted",
+    "spend-a-few-hours-with-the-not-enough-part",
     "two-friends-judgment-experiment",
     "visualizing-feared-outcomes",
     "esme-heartbreak-feels-good",
@@ -3045,7 +3070,8 @@
     "good-decision-is-how-you-make-it-not-the-outcome",
     "if-trust-cant-arrive-grief-isnt-complete",
     "host-a-grief-ceremony-as-community",
-    "how-to-release-anger-out-loud"
+    "how-to-release-anger-out-loud",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
   ],
   "how-do-i-trust-myself": [
     "how-do-i-stay-open-after-narcissistic-abuse",
@@ -3147,6 +3173,7 @@
     "look-for-friction-not-the-answer",
     "who-do-you-want-to-be-with-more",
     "dont-call-them-a-liar-with-deflection",
+    "you-cant-get-everyones-approval-anywhere-anytime",
     "let-it-move-through-and-clean-the-channel",
     "purpose-is-acknowledgement-not-approval",
     "do-it-for-yourself-to-find-purpose",
@@ -3157,6 +3184,7 @@
     "world-reorganizes-around-self-possession",
     "youll-never-get-the-confirmation-from-others",
     "chase-your-own-approval",
+    "three-dynamics-of-feeling-alone-in-the-room",
     "eating-but-not-digesting-the-food",
     "the-cake-metaphor-for-deflected-compliments",
     "corporate-stack-of-mutual-misreading"
@@ -3209,6 +3237,7 @@
     "generosity",
     "humility-developmental-arc",
     "humility",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
     "the-desire-to-be-seen",
     "two-forms-of-ego-good-and-bad",
     "two-levels-of-hurt-in-being-misunderstood",
@@ -3286,6 +3315,7 @@
     "go-nonverbal-and-let-the-nonverbal-talk",
     "have-them-receive-your-listening",
     "point-out-theyre-already-doing-it",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "speak-from-listening",
     "surface-the-spectrum-of-presence-in-real-time",
     "walk-into-the-discomfort-and-speak-from-there",
@@ -3325,9 +3355,11 @@
   ],
   "chase-your-own-approval": [
     "how-do-i-stop-seeking-approval",
+    "i-feel-alone-in-rooms-despite-success",
     "every-question-becomes-whats-wrong-with-me",
     "look-for-friction-not-the-answer",
     "dont-call-them-a-liar-with-deflection",
+    "you-cant-get-everyones-approval-anywhere-anytime",
     "money-as-surrogate",
     "find-one-thing-to-confirm-about-yourself",
     "iteratively-replace-the-word-in-the-question",
@@ -3345,8 +3377,11 @@
     "value-is-intrinsic-not-earned",
     "you-cannot-make-people-happy",
     "youll-never-get-the-confirmation-from-others",
+    "daily-thank-you-notes-to-3-to-5-people",
     "speak-truth-twice-a-day",
+    "spend-a-few-hours-with-the-not-enough-part",
     "turn-the-love-on-yourself-what-did-you-do",
+    "three-dynamics-of-feeling-alone-in-the-room",
     "eating-but-not-digesting-the-food",
     "joes-daughter-speaks-her-truth",
     "corporate-stack-of-mutual-misreading"
@@ -3355,6 +3390,7 @@
     "how-do-i-stop-seeking-approval",
     "gratitude-as-full-body-sport",
     "wealth-identity-shift",
+    "daily-thank-you-notes-to-3-to-5-people",
     "gratitude-rounds-before-meetings"
   ],
   "speaking-truth-cures-approval-seeking": [
@@ -3433,6 +3469,7 @@
     "im-afraid-ill-revert-to-my-old-pattern",
     "im-so-stressed-out",
     "proving-instead-of-connecting",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "the-emotional-hangover-of-false-productivity",
     "treating-it-as-a-decision-when-its-an-emotion",
     "what-is-the-productivity-for",
@@ -3614,6 +3651,8 @@
     "open-the-heart-to-the-doubt",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "intuition-vs-conditioning",
+    "doubt-is-self-focus-arrogance-is-self-focus",
+    "open-hearted-service-cures-imposter-syndrome",
     "speaking-truth-cures-approval-seeking",
     "you-cannot-know-the-answer-before-you-do-the-thing",
     "you-cannot-make-people-happy",
@@ -3813,6 +3852,7 @@
     "give-me-the-sound-of-the-emotion",
     "let-your-body-remember-this-moment",
     "name-the-avoidance-cascade-from-essence-to-addiction",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "embracing-vs-creating-intensity",
     "enjoyment-as-path",
     "every-thought-about-not-feeling-is-an-emotion-to-feel",
@@ -3832,6 +3872,7 @@
     "manufacturing-the-feeling",
     "the-trying-is-the-pattern-firing-now",
     "dont-try-to-make-yourself-cry",
+    "emotional-fluidity",
     "opposite-of-trying",
     "undoing-not-doing",
     "amplify-the-dissociation-then-opposite-with-no-effort",
@@ -3840,6 +3881,7 @@
     "feel-bad-as-the-running",
     "let-the-body-catch-up",
     "name-the-avoidance-cascade-from-essence-to-addiction",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "tell-me-one-thing-youve-done-wrong-when-you-werent-pushing-yourself",
     "use-domain-of-mastery-as-template-for-body-intelligence",
     "pushing-yourself-produces-the-doing-wrong",
@@ -3860,9 +3902,11 @@
     "how-do-you-want-to-be",
     "tell-the-unchanging-part-it-has-to-move",
     "bad-habits-are-the-avoidance-of-essential-self",
+    "confidence-is-connection-to-self-while-acting",
     "cult-of-one",
     "every-moment-is-an-exit-point",
     "identity-extension-expands-fear",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
     "projections",
     "self-realization",
     "the-abyss-is-where-you-dont-exist",
@@ -3879,6 +3923,7 @@
     "lawyer-the-voice",
     "questioning-assumptions",
     "whats-looking-out-behind-my-eyes",
+    "first-coaching-session-going-wrong-without-imposter",
     "joes-bathroom-realization",
     "musk-deer-parable"
   ],
@@ -4012,6 +4057,7 @@
     "mental-task-inflation",
     "push-pull-dynamics-in-dating",
     "rumination-creates-what-it-ruminates-about",
+    "running-toward-the-thing-youre-running-from",
     "the-shame-avoidance-loop",
     "answer-from-inside-the-feeling-not-outside-it",
     "fully-feel-the-forbidden-arousal",
@@ -4177,8 +4223,10 @@
     "craving-is-the-pushing-away",
     "everything-i-touch-fails-drives-fixing",
     "peace-precedes-joy-after-non-duality",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "what-we-fear-we-invite",
     "what-were-avoiding-is-usually-love",
+    "spend-a-few-hours-with-the-not-enough-part",
     "fix-everything-woman-anthill-presence-session"
   ],
   "staying-in-your-body": [
@@ -4677,18 +4725,21 @@
   "purpose-as-approval-seeking-in-disguise": [
     "i-cant-enter-my-creative-work",
     "i-cant-find-my-purpose",
+    "i-feel-alone-in-rooms-despite-success",
     "what-makes-me-uniquely-me",
     "contorting-into-someone-elses-framework",
     "said-want-without-felt-want",
     "the-answer-is-already-known",
     "what-feels-more-in-purpose-right-now",
     "wild-goose-chase-when-the-answer-is-known",
+    "you-cant-get-everyones-approval-anywhere-anytime",
     "be-of-service-doesnt-require-the-moniker",
     "purpose-is-how-not-what",
     "do-it-for-yourself-to-find-purpose",
     "purpose-cracks-you-open",
     "searching-for-purpose-pushes-it-away",
-    "your-gift-is-your-nature-not-your-skill"
+    "your-gift-is-your-nature-not-your-skill",
+    "three-dynamics-of-feeling-alone-in-the-room"
   ],
   "name-the-pattern-firing-now-as-the-art-being-made": [
     "i-cant-enter-my-creative-work",
@@ -4818,6 +4869,7 @@
     "interrupting-your-own-descent",
     "joy-relief-when-told-the-worst-fear",
     "name-the-body-defense-in-real-time",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "talk-to-the-part-that-knows",
     "what-we-fear-we-invite",
@@ -5137,6 +5189,7 @@
   "i-have-to-do-it-all-myself": [
     "i-cant-find-love",
     "i-dont-have-community",
+    "i-feel-alone-in-rooms-despite-success",
     "i-feel-lonely-i-cant-find-real-community",
     "i-have-a-terminal-diagnosis",
     "im-afraid-i-wont-get-anything-done",
@@ -5172,6 +5225,9 @@
     "gratitude-as-acknowledgment-of-greater-force",
     "helplessness-is-the-gateway",
     "self-reliance-is-an-illusion",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "spend-a-few-hours-with-the-not-enough-part",
+    "three-dynamics-of-feeling-alone-in-the-room",
     "alzheimer-village-fame-metaphor",
     "joes-abandonment-mapping",
     "sarah-i-love-your-frustration",
@@ -5180,6 +5236,7 @@
   ],
   "self-reliance-pushes-people-away": [
     "i-cant-find-love",
+    "i-feel-alone-in-rooms-despite-success",
     "i-have-to-do-it-all-myself",
     "dont-glorify-self-reliance",
     "anxious-avoidant-dynamic",
@@ -5192,6 +5249,7 @@
     "giving-from-desire-not-obligation",
     "self-abandonment-to-manage-the-other",
     "self-reliance-is-an-illusion",
+    "three-dynamics-of-feeling-alone-in-the-room",
     "you-make-that-impossible"
   ],
   "transactional-relationships-as-defense": [
@@ -5220,15 +5278,20 @@
     "coaching-to-be-seen-as-wise",
     "dont-let-goals-define-you",
     "anxious-avoidant-dynamic",
+    "good-jobbed-as-conditional-validation",
     "push-pull-dynamics-in-dating",
     "mirror-the-clients-own-framework-back",
     "turn-the-love-toward-the-self-conscious-part",
     "why-dont-you-just-love-yourself-as-you-are-right-now",
     "hold-a-perspective-without-thinking-youre-right",
+    "open-hearted-service-vs-codependent-service",
+    "imposter-syndrome-is-a-scent-you-can-follow-home",
+    "imposter-syndrome-only-attaches-to-performance-identities",
     "loss-of-control-and-loss-of-self-are-the-same",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "searching-for-love-cuts-off-love",
     "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
     "from-looking-for-love-to-being-love",
     "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
   ],
@@ -5353,8 +5416,10 @@
     "how-joyful-is-that-search",
     "look-for-friction-not-the-answer",
     "what-feels-more-in-purpose-right-now",
+    "purpose-as-path-not-map",
     "purpose-is-an-unfolding-not-a-destination",
     "riding-the-roller-coaster-from-the-ground",
+    "running-toward-the-thing-youre-running-from",
     "collapse-the-special-activity-into-the-ordinary-moment",
     "purpose-is-acknowledgement-not-approval",
     "scary-effort-vs-grind-effort",
@@ -5372,6 +5437,7 @@
     "the-life-that-shows-up-beats-the-goal",
     "the-means-must-match-the-end",
     "your-gift-is-your-nature-not-your-skill",
+    "creative-career-story",
     "i-help-people-die-better",
     "the-hot-springs-massage-message"
   ],
@@ -5431,6 +5497,7 @@
     "im-not-living-up-to-my-potential",
     "seeking-as-the-wall",
     "opposite-of-trying",
+    "purpose-as-path-not-map",
     "purpose-is-an-unfolding-not-a-destination",
     "challenge-the-premise-in-the-framing",
     "feel-the-searching-then-feel-the-opposite",
@@ -5438,9 +5505,11 @@
     "purpose-is-how-not-what",
     "always-something-spectacular-happening",
     "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-in-the-present-not-the-future",
     "purpose-is-recognized-not-found",
     "searching-for-love-cuts-off-love",
-    "the-means-must-match-the-end"
+    "the-means-must-match-the-end",
+    "purpose-checkin-alarm-practice"
   ],
   "opposite-of-trying": [
     "i-cant-find-my-purpose",
@@ -5543,8 +5612,11 @@
   ],
   "purpose-is-an-evolution-not-a-destination": [
     "i-cant-find-my-purpose",
+    "purpose-as-path-not-map",
     "choicelessness-as-purpose-marker",
-    "searching-for-purpose-pushes-it-away"
+    "searching-for-purpose-pushes-it-away",
+    "purpose-checkin-alarm-practice",
+    "creative-career-story"
   ],
   "choicelessness-as-purpose-marker": [
     "i-cant-find-my-purpose",
@@ -5571,6 +5643,29 @@
     "choicelessness-as-purpose-marker",
     "do-it-for-yourself-to-find-purpose",
     "purpose-is-an-evolution-not-a-destination"
+  ],
+  "mental-models-cant-tell-you-what-experience-feels-like": [
+    "i-cant-find-my-purpose",
+    "what-is-my-purpose-asking-me-to-do-right-now",
+    "purpose-as-path-not-map",
+    "running-toward-the-thing-youre-running-from",
+    "purpose-checkin-alarm-practice",
+    "creative-career-story",
+    "five-year-old-swimmers-analogy"
+  ],
+  "running-toward-the-thing-youre-running-from": [
+    "i-cant-find-my-purpose",
+    "mental-models-cant-tell-you-what-experience-feels-like",
+    "creative-career-story",
+    "five-year-old-swimmers-analogy"
+  ],
+  "purpose-is-in-the-present-not-the-future": [
+    "i-cant-find-my-purpose",
+    "purpose-as-path-not-map"
+  ],
+  "purpose-as-path-not-map": [
+    "i-cant-find-my-purpose",
+    "purpose-is-in-the-present-not-the-future"
   ],
   "seeking-as-the-wall": [
     "i-cant-find-my-purpose",
@@ -5602,8 +5697,34 @@
   "what-feels-more-in-purpose-right-now": [
     "i-cant-find-my-purpose",
     "purpose-as-approval-seeking-in-disguise",
+    "what-is-my-purpose-asking-me-to-do-right-now",
+    "running-toward-the-thing-youre-running-from",
     "purpose-is-how-not-what",
-    "searching-for-purpose-pushes-it-away"
+    "mental-models-cant-tell-you-what-experience-feels-like",
+    "purpose-is-in-the-present-not-the-future",
+    "searching-for-purpose-pushes-it-away",
+    "purpose-checkin-alarm-practice"
+  ],
+  "five-year-old-swimmers-analogy": [
+    "i-cant-find-my-purpose"
+  ],
+  "creative-career-story": [
+    "i-cant-find-my-purpose",
+    "purpose-as-path-not-map",
+    "running-toward-the-thing-youre-running-from",
+    "management-required-to-launch-predicts-management-required-forever",
+    "mental-models-cant-tell-you-what-experience-feels-like",
+    "purpose-is-an-evolution-not-a-destination",
+    "listening-to-impulse",
+    "five-year-old-swimmers-analogy"
+  ],
+  "what-is-my-purpose-asking-me-to-do-right-now": [
+    "i-cant-find-my-purpose",
+    "purpose-as-path-not-map",
+    "running-toward-the-thing-youre-running-from",
+    "mental-models-cant-tell-you-what-experience-feels-like",
+    "purpose-is-in-the-present-not-the-future",
+    "purpose-checkin-alarm-practice"
   ],
   "hands-together-exercise": [
     "i-cant-find-my-purpose",
@@ -5665,6 +5786,13 @@
     "joe-and-the-CEO-everyone-said-dont-let-in",
     "the-hot-springs-massage-message"
   ],
+  "purpose-checkin-alarm-practice": [
+    "i-cant-find-my-purpose",
+    "what-is-my-purpose-asking-me-to-do-right-now",
+    "purpose-as-path-not-map",
+    "purpose-is-in-the-present-not-the-future",
+    "five-year-old-swimmers-analogy"
+  ],
   "experiential-before-intellectual": [
     "i-cant-find-my-purpose",
     "integration",
@@ -5675,6 +5803,7 @@
     "improvement-vs-authenticity",
     "am-i-falling-or-flying",
     "describable-vs-changed",
+    "mental-models-cant-tell-you-what-experience-feels-like",
     "searching-for-purpose-pushes-it-away",
     "speak-from-each-of-the-three-centers"
   ],
@@ -5832,6 +5961,7 @@
     "feel-the-shame-then-feel-the-opposite",
     "open-the-heart-to-the-doubt",
     "management-is-for-shame-love-needs-no-management",
+    "spend-a-few-hours-with-the-not-enough-part",
     "turn-the-love-on-yourself-what-did-you-do",
     "breakup-self-blame-session"
   ],
@@ -5926,6 +6056,7 @@
     "embodied-stages-of-grief-ritual",
     "host-a-grief-ceremony-as-community",
     "esme-heartbreak-feels-good",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma",
     "truth-and-reconciliation-south-africa",
     "anger-and-politics",
     "relating-to-someone-with-mental-health-issues"
@@ -7109,6 +7240,7 @@
   ],
   "apologize-for-not-seeing-the-help": [
     "i-dont-have-community",
+    "i-feel-alone-in-rooms-despite-success",
     "i-feel-lonely-i-cant-find-real-community",
     "i-have-to-do-it-all-myself",
     "authority-issues",
@@ -7122,6 +7254,8 @@
     "make-everyone-feel-seen-when-things-go-wrong",
     "visualize-the-reality-of-leadership",
     "loneliness-vs-feeling-alone",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "three-dynamics-of-feeling-alone-in-the-room",
     "alzheimer-village-fame-metaphor",
     "sarah-i-love-your-frustration",
     "vulnerability-in-the-workplace"
@@ -7279,6 +7413,122 @@
     "embrace-vs-brace",
     "bracing-as-control-of-emotional-experience"
   ],
+  "i-feel-lonely-i-cant-find-real-community": [
+    "i-feel-alone-in-rooms-despite-success",
+    "loneliness-hidden-under-other-presentations",
+    "shame-blocks-connection-in-real-time",
+    "how-do-you-abandon-yourself",
+    "loneliness-as-shame-based-disconnection",
+    "lonely-people-are-sweethearts",
+    "the-attack-and-cling-test-of-real-community",
+    "the-want-to-fit-in-vs-want-to-be-extraordinary",
+    "two-types-of-lonely-person",
+    "use-the-live-group-as-love-field",
+    "the-aloneness-is-the-quickest-route-to-freedom",
+    "what-were-avoiding-is-usually-love",
+    "16-experiments-for-connection",
+    "spend-a-few-hours-with-the-not-enough-part"
+  ],
+  "three-dynamics-of-feeling-alone-in-the-room": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-have-to-do-it-all-myself",
+    "you-cant-get-everyones-approval-anywhere-anytime",
+    "apologize-for-not-seeing-the-help",
+    "loneliness-vs-feeling-alone",
+    "chase-your-own-approval",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "spend-a-few-hours-with-the-not-enough-part"
+  ],
+  "you-cant-win-the-see-me-wont-be-seen-game": [
+    "i-feel-alone-in-rooms-despite-success",
+    "im-burned-out",
+    "in-the-story-im-not-being-seen",
+    "whats-the-game",
+    "dont-call-them-a-liar-with-deflection",
+    "you-cant-get-everyones-approval-anywhere-anytime",
+    "give-the-thing-the-game-is-trying-to-win",
+    "prove-to-me-youre-not-enough",
+    "run-the-compliment-deconstruction-protocol",
+    "caring-what-others-think-is-the-burnout-engine",
+    "three-dynamics-of-feeling-alone-in-the-room"
+  ],
+  "what-were-avoiding-is-usually-love": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-feel-stuck",
+    "connection-surrogates-dont-cure-loneliness",
+    "heart-in-a-box-want-to-drink",
+    "the-abyss-is-where-you-dont-exist",
+    "the-natural-integration-arc-after-breakthrough",
+    "be-intimate-with-the-feeling",
+    "lets-go-there",
+    "the-aloneness-is-the-quickest-route-to-freedom",
+    "you-dont-control-love",
+    "spend-a-few-hours-with-the-not-enough-part",
+    "three-dynamics-of-feeling-alone-in-the-room",
+    "do-i-stop-drinking-session"
+  ],
+  "the-aloneness-is-the-quickest-route-to-freedom": [
+    "i-feel-alone-in-rooms-despite-success",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "what-were-avoiding-is-usually-love",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "spend-a-few-hours-with-the-not-enough-part",
+    "three-dynamics-of-feeling-alone-in-the-room",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
+  ],
+  "overachieving-is-survival-mode": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-feel-misvalued-as-an-overachiever",
+    "which-came-first",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "the-desire-to-be-seen",
+    "proving-yourself-is-agreeing-youre-not-valuable"
+  ],
+  "the-joy-of-accomplishment-is-the-absence-of-wants": [
+    "i-feel-alone-in-rooms-despite-success",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness"
+  ],
+  "look-around-the-room-can-you-see-anyone-not-here-for-you": [
+    "i-feel-alone-in-rooms-despite-success",
+    "the-avoidant-partner-who-cant-receive",
+    "count-the-years-of-showing-up",
+    "three-dynamics-of-feeling-alone-in-the-room"
+  ],
+  "dont-keep-yourself-busy-to-avoid-the-aloneness": [
+    "i-feel-alone-in-rooms-despite-success",
+    "three-dynamics-of-feeling-alone-in-the-room"
+  ],
+  "spend-a-few-hours-with-the-not-enough-part": [
+    "i-feel-alone-in-rooms-despite-success",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "the-aloneness-is-the-quickest-route-to-freedom",
+    "what-were-avoiding-is-usually-love",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "three-dynamics-of-feeling-alone-in-the-room",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
+  ],
+  "daily-thank-you-notes-to-3-to-5-people": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-have-to-do-it-all-myself",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "apologize-for-not-seeing-the-help",
+    "spend-a-few-hours-with-the-not-enough-part",
+    "three-dynamics-of-feeling-alone-in-the-room"
+  ],
+  "dont-chase-a-mate-to-escape-loneliness": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-feel-lonely-i-cant-find-real-community",
+    "loneliness-hidden-under-other-presentations",
+    "loneliness-as-shame-based-disconnection"
+  ],
+  "loneliness-vs-feeling-alone": [
+    "i-feel-alone-in-rooms-despite-success",
+    "i-feel-lonely-i-cant-find-real-community",
+    "loneliness-as-shame-based-disconnection",
+    "lonely-people-are-sweethearts",
+    "two-types-of-lonely-person",
+    "loneliness-vs-solitude"
+  ],
   "concepts/blocker-emotions": [
     "i-feel-guilty-for-cutting-off-family"
   ],
@@ -7369,6 +7619,7 @@
     "lonely-people-are-sweethearts",
     "two-types-of-lonely-person",
     "acknowledge-the-fear-by-role",
+    "ask-for-all-the-help-you-can-get",
     "just-be-yourself-and-see-what-happens",
     "lean-into-the-connection-mode-you-avoid",
     "name-the-authoritys-fear",
@@ -7426,13 +7677,6 @@
   "the-attack-and-cling-test-of-real-community": [
     "i-feel-lonely-i-cant-find-real-community",
     "community"
-  ],
-  "loneliness-vs-feeling-alone": [
-    "i-feel-lonely-i-cant-find-real-community",
-    "loneliness-as-shame-based-disconnection",
-    "lonely-people-are-sweethearts",
-    "two-types-of-lonely-person",
-    "loneliness-vs-solitude"
   ],
   "the-sensitive-businesswoman-whose-loneliness-died": [
     "i-feel-lonely-i-cant-find-real-community",
@@ -7576,11 +7820,6 @@
     "i-feel-lonely-i-cant-find-real-community",
     "loneliness-vs-solitude"
   ],
-  "dont-chase-a-mate-to-escape-loneliness": [
-    "i-feel-lonely-i-cant-find-real-community",
-    "loneliness-hidden-under-other-presentations",
-    "loneliness-as-shame-based-disconnection"
-  ],
   "connection-surrogates-dont-cure-loneliness": [
     "i-feel-lonely-i-cant-find-real-community"
   ],
@@ -7593,7 +7832,8 @@
     "loneliness-as-shame-based-disconnection",
     "two-types-of-lonely-person",
     "lean-into-the-connection-mode-you-avoid",
-    "16-experiments-for-connection"
+    "16-experiments-for-connection",
+    "spend-a-few-hours-with-the-not-enough-part"
   ],
   "chronic-isolation-builds-static": [
     "i-feel-lonely-i-cant-find-real-community",
@@ -7632,12 +7872,6 @@
   ],
   "see-me-dont-see-me push-pull|see-me / don't-see-me push-pull": [
     "i-feel-misvalued-as-an-overachiever"
-  ],
-  "overachieving-is-survival-mode": [
-    "i-feel-misvalued-as-an-overachiever",
-    "which-came-first",
-    "the-desire-to-be-seen",
-    "proving-yourself-is-agreeing-youre-not-valuable"
   ],
   "the-cake-metaphor-for-deflected-compliments": [
     "i-feel-misvalued-as-an-overachiever",
@@ -7803,6 +8037,7 @@
     "i-feel-stuck",
     "i-have-imposter-syndrome",
     "i-want-to-be-authentic-on-stage",
+    "how-do-i-do-this-with-an-open-heart",
     "who-isnt-an-imposter",
     "expert-is-imposter-with-most-reps",
     "fear-of-consequences-creates-stuck",
@@ -7846,17 +8081,6 @@
     "without-grief-we-recreate-the-pattern",
     "joes-abandonment-mapping",
     "joes-parents-stressed-at-40-percent-story"
-  ],
-  "what-were-avoiding-is-usually-love": [
-    "i-feel-stuck",
-    "connection-surrogates-dont-cure-loneliness",
-    "heart-in-a-box-want-to-drink",
-    "the-abyss-is-where-you-dont-exist",
-    "the-natural-integration-arc-after-breakthrough",
-    "be-intimate-with-the-feeling",
-    "lets-go-there",
-    "you-dont-control-love",
-    "do-i-stop-drinking-session"
   ],
   "treating-felt-state-as-factual-reality": [
     "i-feel-stuck",
@@ -7911,8 +8135,10 @@
     "intimate-with-vs-giving-in-to-feeling",
     "emotional-movement-unsticks-stuckness",
     "peace-is-what-we-resist-the-most",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love",
+    "spend-a-few-hours-with-the-not-enough-part",
     "fix-everything-woman-anthill-presence-session"
   ],
   "amplify-the-feeling-until-it-breaks-open": [
@@ -7947,9 +8173,11 @@
     "emotional-movement-unsticks-stuckness",
     "outer-life-mirrors-relationship-with-self",
     "putting-someone-above-blocks-emotion",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "transformation-is-relating-differently-not-finding-the-answer",
     "what-were-avoiding-is-usually-love",
-    "you-dont-control-love"
+    "you-dont-control-love",
+    "spend-a-few-hours-with-the-not-enough-part"
   ],
   "double-the-freeze": [
     "i-feel-stuck",
@@ -8317,10 +8545,13 @@
   "false-front": [
     "i-get-anxious-in-relationships",
     "in-the-story-im-not-being-seen",
+    "you-cant-get-everyones-approval-anywhere-anytime",
     "layers-of-unallowed-self",
     "the-desire-to-be-seen",
     "pointers-to-unseen-parts",
+    "maintaining-false-persona-costs-more-than-incompetence",
     "overachieving-is-survival-mode",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
     "see-yourself-and-acknowledge-others"
   ],
   "you-cant-be-seen-when-youre-not-in-yourself": [
@@ -8597,6 +8828,13 @@
     "what-we-fear-we-invite",
     "romantic-relationships"
   ],
+  "imposter-syndrome-only-attaches-to-performance-identities": [
+    "i-have-imposter-syndrome",
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers",
+    "good-jobbed-as-conditional-validation",
+    "everyone-doing-something-real-is-an-imposter",
+    "silver-medalist-with-imposter-syndrome"
+  ],
   "everyone-doing-something-real-is-an-imposter": [
     "i-have-imposter-syndrome",
     "joy-relief-when-told-the-worst-fear",
@@ -8604,9 +8842,11 @@
     "confidence-is-running-from-doubt",
     "expert-is-imposter-with-most-reps",
     "all-your-judgments-are-nonsense",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
     "only-your-own-judgment-matters",
     "successful-people-doubt-too",
-    "list-people-you-admire-and-their-mistakes"
+    "list-people-you-admire-and-their-mistakes",
+    "silver-medalist-with-imposter-syndrome"
   ],
   "fear-vs-excitement": [
     "i-have-imposter-syndrome",
@@ -8639,9 +8879,45 @@
     "aaron-wife-fumble-coaching",
     "joe-ferris-wheel-ride"
   ],
+  "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act": [
+    "i-have-imposter-syndrome",
+    "confidence-is-connection-to-self-while-acting",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
+    "ask-for-all-the-help-you-can-get",
+    "name-the-projection-in-imposter-syndrome",
+    "everyone-doing-something-real-is-an-imposter",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "imposter-syndrome-is-a-scent-you-can-follow-home",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
+    "maintaining-false-persona-costs-more-than-incompetence",
+    "base-jumping-commercial-as-imposter-syndrome-example"
+  ],
+  "hiding-from-experts-generates-imposter-syndrome": [
+    "i-have-imposter-syndrome",
+    "ask-for-all-the-help-you-can-get",
+    "name-the-projection-in-imposter-syndrome",
+    "everyone-doing-something-real-is-an-imposter",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
+    "maintaining-false-persona-costs-more-than-incompetence",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
+    "base-jumping-commercial-as-imposter-syndrome-example"
+  ],
+  "maintaining-false-persona-costs-more-than-incompetence": [
+    "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers",
+    "ask-for-all-the-help-you-can-get",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "open-hearted-service-cures-imposter-syndrome",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
+    "base-jumping-commercial-as-imposter-syndrome-example"
+  ],
   "who-isnt-an-imposter": [
     "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "name-the-projection-in-imposter-syndrome",
     "everyone-doing-something-real-is-an-imposter",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
     "list-people-you-admire-and-their-mistakes"
   ],
   "perceived-certainty-not-actual-certainty": [
@@ -8671,6 +8947,59 @@
     "open-your-heart-while-judging-experiment",
     "5-ways-to-stay-unhappy"
   ],
+  "ask-for-all-the-help-you-can-get": [
+    "i-have-imposter-syndrome",
+    "everyone-doing-something-real-is-an-imposter",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "maintaining-false-persona-costs-more-than-incompetence",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
+    "base-jumping-commercial-as-imposter-syndrome-example"
+  ],
+  "doubt-is-self-focus-arrogance-is-self-focus": [
+    "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "open-hearted-service-cures-imposter-syndrome"
+  ],
+  "open-hearted-service-cures-imposter-syndrome": [
+    "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "confidence-is-connection-to-self-while-acting",
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers",
+    "good-jobbed-as-conditional-validation",
+    "ask-for-all-the-help-you-can-get",
+    "open-hearted-service-vs-codependent-service",
+    "doubt-is-self-focus-arrogance-is-self-focus",
+    "everyone-doing-something-real-is-an-imposter",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "imposter-syndrome-is-a-scent-you-can-follow-home",
+    "imposter-syndrome-only-attaches-to-performance-identities",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
+    "maintaining-false-persona-costs-more-than-incompetence"
+  ],
+  "imposter-syndrome-is-a-scent-you-can-follow-home": [
+    "i-have-imposter-syndrome",
+    "everyone-doing-something-real-is-an-imposter"
+  ],
+  "confidence-is-connection-to-self-while-acting": [
+    "i-have-imposter-syndrome",
+    "open-hearted-service-cures-imposter-syndrome",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
+    "first-coaching-session-going-wrong-without-imposter",
+    "ignite-talk-pause-as-vulnerability-modeling"
+  ],
+  "confidence-is-running-from-doubt": [
+    "i-have-imposter-syndrome",
+    "confidence-is-connection-to-self-while-acting",
+    "doubt-is-protection-from-a-feeling",
+    "doubt-driven-urgency-as-fake-confidence",
+    "two-trigger-points-of-doubt",
+    "open-the-heart-to-the-doubt",
+    "disappointment-with-self-is-the-safe-bet",
+    "doubt-is-self-focus-arrogance-is-self-focus",
+    "successful-people-doubt-too",
+    "the-issue-isnt-the-issue-its-how-you-react",
+    "you-cannot-know-the-answer-before-you-do-the-thing"
+  ],
   "expert-is-imposter-with-most-reps": [
     "i-have-imposter-syndrome",
     "im-a-failure",
@@ -8679,10 +9008,43 @@
   ],
   "only-your-own-judgment-matters": [
     "i-have-imposter-syndrome",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
     "everyone-doing-something-real-is-an-imposter"
+  ],
+  "how-do-i-do-this-with-an-open-heart": [
+    "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "open-hearted-service-vs-codependent-service",
+    "doubt-is-self-focus-arrogance-is-self-focus",
+    "everyone-doing-something-real-is-an-imposter",
+    "open-hearted-service-cures-imposter-syndrome"
+  ],
+  "open-hearted-service-vs-codependent-service": [
+    "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
+    "good-jobbed-as-conditional-validation",
+    "open-hearted-service-cures-imposter-syndrome"
+  ],
+  "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you": [
+    "i-have-imposter-syndrome",
+    "name-the-projection-in-imposter-syndrome",
+    "base-jumping-commercial-as-imposter-syndrome-example"
+  ],
+  "name-the-projection-in-imposter-syndrome": [
+    "i-have-imposter-syndrome",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you"
+  ],
+  "good-jobbed-as-conditional-validation": [
+    "i-have-imposter-syndrome",
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers",
+    "replace-good-job-with-how-did-it-feel",
+    "imposter-syndrome-is-a-scent-you-can-follow-home",
+    "imposter-syndrome-only-attaches-to-performance-identities",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act"
   ],
   "list-people-you-admire-and-their-mistakes": [
     "i-have-imposter-syndrome",
+    "how-do-i-do-this-with-an-open-heart",
     "expert-is-imposter-with-most-reps"
   ],
   "external-freedom-vs-internal-freedom|external freedom": [
@@ -8839,7 +9201,8 @@
     "dont-make-listening-a-morality",
     "humility",
     "religious-identity-around-pain",
-    "binary-that-forces-the-avoidance-into-view"
+    "binary-that-forces-the-avoidance-into-view",
+    "imposter-syndrome-is-a-scent-you-can-follow-home"
   ],
   "vulnerability-in-the-workplace": [
     "i-have-to-do-it-all-myself",
@@ -9119,6 +9482,19 @@
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "daily-gratitude-for-your-own-transformation"
   ],
+  "i-feel-alone-in-rooms-despite-success": [
+    "i-have-to-do-it-all-myself",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "you-cant-get-everyones-approval-anywhere-anytime",
+    "apologize-for-not-seeing-the-help",
+    "the-aloneness-is-the-quickest-route-to-freedom",
+    "what-were-avoiding-is-usually-love",
+    "chase-your-own-approval",
+    "daily-thank-you-notes-to-3-to-5-people",
+    "spend-a-few-hours-with-the-not-enough-part",
+    "three-dynamics-of-feeling-alone-in-the-room",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
+  ],
   "i-have-no-choice": [
     "i-have-to-sacrifice-to-succeed"
   ],
@@ -9205,7 +9581,8 @@
     "resentment-as-unspoken-want",
     "thank-your-partner-for-anything-mutual-benefit",
     "joe-and-tara-conference-seen",
-    "joe-and-tara-meeting-story"
+    "joe-and-tara-meeting-story",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
   ],
   "resentment-as-unspoken-want": [
     "i-keep-being-resentful",
@@ -9633,7 +10010,8 @@
     "feel-the-love-then-feel-obligation",
     "mourn-the-breakup-fully",
     "searching-for-love-cuts-off-love",
-    "without-grief-we-recreate-the-pattern"
+    "without-grief-we-recreate-the-pattern",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
   ],
   "mourn-the-breakup-fully": [
     "i-keep-chasing-emotionally-unavailable-people",
@@ -9717,6 +10095,7 @@
     "obligation-as-management",
     "resistance",
     "pleasure-capacity",
+    "running-toward-the-thing-youre-running-from",
     "give-parameters-of-winning",
     "hire-by-dream-job",
     "flow-vs-managing-reality",
@@ -9817,6 +10196,7 @@
     "what-would-it-take-for-you-to-not-take-care-of-them",
     "have-them-receive-your-listening",
     "surface-the-spectrum-of-presence-in-real-time",
+    "open-hearted-service-vs-codependent-service",
     "dont-reward-kids-for-the-thing-you-want",
     "im-none-of-my-own-business",
     "speak-the-elephant-from-open-heart-not-fear",
@@ -10718,6 +11098,7 @@
     "i-keep-running-into-the-same-wall",
     "closing-eyes-at-the-start",
     "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
     "dont-let-downregulation-become-avoidance",
     "tools-to-change-not-love",
     "anger-as-cover-for-deeper-emotion",
@@ -10964,9 +11345,11 @@
   "performing-for-love-becomes-savior-career": [
     "i-make-money-only-when-i-hate-what-im-doing",
     "coaching-as-savior-role",
+    "good-jobbed-as-conditional-validation",
     "transformational-coaching-vs-performance-coaching",
     "attunement-strategy-becomes-the-adult-relational-pattern",
     "dont-coach-if-you-have-a-choice",
+    "imposter-syndrome-only-attaches-to-performance-identities",
     "kids-shouldnt-caretake-the-parent",
     "wanting-got-wired-to-unlovability",
     "comedian-to-coach-money-shame-session",
@@ -11505,6 +11888,7 @@
     "fall-in-love-with-the-feared-state-by-modeling-it",
     "if-you-couldnt-feel-this-whats-underneath",
     "nothing-is-required-for-freedom",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "fix-everything-woman-anthill-presence-session"
   ],
   "depression-four-levels": [
@@ -11847,6 +12231,7 @@
   ],
   "frame-it-as-an-experiment": [
     "i-watch-self-help-and-nothing-changes",
+    "what-is-my-purpose-asking-me-to-do-right-now",
     "whats-the-case-against-it",
     "dont-dismiss-exercise-before-doing-it",
     "agree-when-challenged-on-the-teaching",
@@ -11855,12 +12240,14 @@
     "connection-as-life-bottom-line",
     "dont-take-my-word-for-it",
     "experiential-before-intellectual",
+    "mental-models-cant-tell-you-what-experience-feels-like",
     "reward-failure-in-the-organization",
     "the-clients-wisdom-not-the-teachers",
     "you-dont-always-need-the-backstory",
     "16-experiments-for-connection",
     "fourteen-day-time-experiment",
-    "gratitude-rounds-before-meetings"
+    "gratitude-rounds-before-meetings",
+    "five-year-old-swimmers-analogy"
   ],
   "coach-as-mirror-not-customer-service": [
     "i-watch-self-help-and-nothing-changes",
@@ -12074,6 +12461,7 @@
   ],
   "emotional-fluidity": [
     "im-a-failure",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "acting-out-emotions-as-fluidity",
     "dont-micromanage-your-kid",
     "anger-as-cover-for-deeper-emotion",
@@ -12118,7 +12506,8 @@
     "relationship-experiments-list",
     "write-50-experiments-before-starting",
     "four-tactical-ways-to-feel-your-emotions",
-    "esme-heartbreak-feels-good"
+    "esme-heartbreak-feels-good",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
   ],
   "write-50-experiments-before-starting": [
     "im-a-failure",
@@ -12165,16 +12554,33 @@
     "intellectualizing-as-the-form-of-control",
     "joy-relief-when-told-the-worst-fear",
     "purpose-as-approval-seeking-in-disguise",
+    "how-do-i-do-this-with-an-open-heart",
     "who-isnt-an-imposter",
+    "confidence-is-connection-to-self-while-acting",
     "confidence-is-running-from-doubt",
     "doubt-is-protection-from-a-feeling",
     "expert-is-imposter-with-most-reps",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers",
+    "good-jobbed-as-conditional-validation",
+    "ask-for-all-the-help-you-can-get",
+    "name-the-projection-in-imposter-syndrome",
     "open-the-heart-to-the-doubt",
+    "open-hearted-service-vs-codependent-service",
+    "doubt-is-self-focus-arrogance-is-self-focus",
     "everyone-doing-something-real-is-an-imposter",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "imposter-syndrome-is-a-scent-you-can-follow-home",
+    "imposter-syndrome-only-attaches-to-performance-identities",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
+    "maintaining-false-persona-costs-more-than-incompetence",
     "only-your-own-judgment-matters",
+    "open-hearted-service-cures-imposter-syndrome",
     "putting-someone-above-blocks-emotion",
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act",
     "value-is-intrinsic-not-earned",
-    "turn-the-love-on-yourself-what-did-you-do"
+    "turn-the-love-on-yourself-what-did-you-do",
+    "first-coaching-session-going-wrong-without-imposter"
   ],
   "show-me-the-bracing-and-show-me-the-opposite": [
     "im-afraid-i-wont-get-anything-done",
@@ -12247,6 +12653,7 @@
     "open-the-heart-to-the-doubt",
     "pour-the-love-at-the-threat",
     "press-the-button-thought-experiment",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "love-the-anxiety-not-just-with-it",
     "disappointment-with-self-is-the-safe-bet",
     "successful-people-doubt-too",
@@ -12410,6 +12817,7 @@
     "humility-vs-disempowerment",
     "improvement-vs-authenticity",
     "love-requires-empowerment",
+    "open-hearted-service-cures-imposter-syndrome",
     "own-your-narcissism"
   ],
   "nervous-system-recovery-after-stress": [
@@ -12514,16 +12922,6 @@
     "im-burned-out",
     "you-cant-win-the-see-me-wont-be-seen-game"
   ],
-  "you-cant-win-the-see-me-wont-be-seen-game": [
-    "im-burned-out",
-    "in-the-story-im-not-being-seen",
-    "whats-the-game",
-    "dont-call-them-a-liar-with-deflection",
-    "give-the-thing-the-game-is-trying-to-win",
-    "prove-to-me-youre-not-enough",
-    "run-the-compliment-deconstruction-protocol",
-    "caring-what-others-think-is-the-burnout-engine"
-  ],
   "energy-management-over-time-management": [
     "im-burned-out",
     "burnout-cycle",
@@ -12547,7 +12945,9 @@
   "parenting-as-deep-tissue-massage": [
     "im-clamping-down-on-my-negative-emotions",
     "should-we-have-kids",
+    "selective-emotional-muting-loses-access-to-the-positive",
     "caregiving-softens-the-self",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "every-major-life-change-resets-the-marriage",
     "love-causes-annihilation",
     "parenting-as-honest-mirror",
@@ -12566,7 +12966,8 @@
     "im-clamping-down-on-my-negative-emotions"
   ],
   "selective-emotional-muting-loses-access-to-the-positive": [
-    "im-clamping-down-on-my-negative-emotions"
+    "im-clamping-down-on-my-negative-emotions",
+    "joy-as-matriarch"
   ],
   "dont-manage-your-kids-into-moving-emotion": [
     "im-clamping-down-on-my-negative-emotions",
@@ -12574,7 +12975,8 @@
     "model-emotional-movement-for-your-kids"
   ],
   "say-the-suppressed-truth-aloud-to-the-imagined-other": [
-    "im-clamping-down-on-my-negative-emotions"
+    "im-clamping-down-on-my-negative-emotions",
+    "emotional-fluidity"
   ],
   "symptoms-of-depression": [
     "im-depressed",
@@ -12662,6 +13064,7 @@
     "make-demands-of-me-experiment",
     "move-the-anger-then-draw-the-boundary",
     "paradoxical-instruction-to-resist",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "treat-yourself-as-actor-of-emotion",
     "observer-vs-immersion-by-anger-type",
     "victim-anger-vs-dominating-anger",
@@ -12843,6 +13246,7 @@
     "false-front",
     "loving-all-parts",
     "pointers-to-unseen-parts",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "scan-body-for-what-cant-be-loved",
     "speak-the-welcoming-of-the-feared-state-aloud",
     "tell-it-to-god",
@@ -12947,6 +13351,7 @@
     "soul-dysmorphia",
     "vulnerability",
     "receive-the-apology-permeably",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
     "defense-vs-love",
     "dehumanization-begins-with-right-and-wrong",
     "fear-is-about-feeling",
@@ -13263,6 +13668,7 @@
     "show-me-the-bracing-and-show-me-the-opposite",
     "so-what-makes-you-run-away-from-fear",
     "clarity-comes-online-after-facing-fear",
+    "resisted-vs-unresisted-everything-shows-up-different",
     "hold-stress-tightly-vs-gently-experiment"
   ],
   "clarity-comes-online-after-facing-fear": [
@@ -13540,7 +13946,8 @@
   ],
   "dont-skip-wonder-and-jump-to-love-when-oppressed": [
     "im-so-stressed-out",
-    "you-are-nothing-as-vast-awareness"
+    "you-are-nothing-as-vast-awareness",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other"
   ],
   "separation-wonder-reality-experiments-love": [
     "im-so-stressed-out",
@@ -15064,9 +15471,11 @@
   ],
   "breath-as-fertile-soil-vs-breath-as-control": [
     "breath-to-self-regulate-instead-of-feel",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
     "dont-use-breath-to-repress",
     "knowing-yourself-vs-domesticating-yourself",
-    "humming-exhale-for-vagal-tone"
+    "humming-exhale-for-vagal-tone",
+    "spend-a-few-hours-with-the-not-enough-part"
   ],
   "say-ouch": [
     "cant-take-the-victim-role-away",
@@ -15233,9 +15642,11 @@
     "projecting-captor-onto-the-helper",
     "go-down-one-level-to-find-projection",
     "mirror-the-judgment",
+    "name-the-projection-in-imposter-syndrome",
     "choosing-the-projection-that-serves",
     "falling-in-love-with-projections",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+    "imposter-syndrome-projects-incompetence-onto-the-people-who-hired-you",
     "seeing-others-clearly-requires-not-looking-for-yourself",
     "seeing-through-projections-expands-possibility",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
@@ -15430,6 +15841,7 @@
     "humility-in-the-system",
     "humility-developmental-arc",
     "identity",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
     "riding-the-roller-coaster-from-the-ground",
     "the-abyss-is-where-you-dont-exist",
     "the-hollowing-out-process",
@@ -15442,11 +15854,13 @@
     "receive-the-projection-and-let-it-move-through",
     "hold-a-perspective-without-thinking-youre-right",
     "humility-vs-disempowerment",
+    "open-hearted-service-vs-codependent-service",
     "the-arrogantly-humble-paradox",
     "a-support-system-creates-you",
     "acknowledging-death-compresses-life",
     "coaches-never-stop-growing-and-need-supervision",
     "dont-claim-the-wisdom-as-yours",
+    "doubt-is-self-focus-arrogance-is-self-focus",
     "enjoyment-as-surrender",
     "gratitude-as-acknowledgment-of-greater-force",
     "im-none-of-my-own-business",
@@ -15455,6 +15869,7 @@
     "next-generation-institutions-create-healing",
     "non-defense-is-the-ocean",
     "nothing-is-wrong-with-it-its-just-painful",
+    "open-hearted-service-cures-imposter-syndrome",
     "own-your-narcissism",
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment",
     "feel-love-and-empowerment-as-the-same",
@@ -15477,7 +15892,9 @@
     "shame-after-spaciousness",
     "let-it-move-through-and-clean-the-channel",
     "giving-as-respect-vs-giving-as-saving",
+    "open-hearted-service-vs-codependent-service",
     "the-arrogantly-humble-paradox",
+    "doubt-is-self-focus-arrogance-is-self-focus",
     "enjoyment-as-surrender",
     "giving-from-desire-not-obligation",
     "im-none-of-my-own-business",
@@ -15512,6 +15929,7 @@
     "if-im-not-feeling-seen-im-also-not-seeing",
     "triggers-reveal-your-own-beliefs",
     "what-you-see-in-the-other-with-love-is-in-you",
+    "daily-thank-you-notes-to-3-to-5-people",
     "thank-your-partner-for-anything-mutual-benefit",
     "joe-and-tara-conference-seen"
   ],
@@ -15651,19 +16069,6 @@
   ],
   "shame-stagnates-emotion|stagnates": [
     "loneliness-hidden-under-other-presentations"
-  ],
-  "i-feel-lonely-i-cant-find-real-community": [
-    "loneliness-hidden-under-other-presentations",
-    "shame-blocks-connection-in-real-time",
-    "how-do-you-abandon-yourself",
-    "loneliness-as-shame-based-disconnection",
-    "lonely-people-are-sweethearts",
-    "the-attack-and-cling-test-of-real-community",
-    "the-want-to-fit-in-vs-want-to-be-extraordinary",
-    "two-types-of-lonely-person",
-    "use-the-live-group-as-love-field",
-    "what-were-avoiding-is-usually-love",
-    "16-experiments-for-connection"
   ],
   "dont-try-to-change-your-partner": [
     "loyalty-under-low-affection",
@@ -15909,6 +16314,12 @@
     "eating-but-not-digesting-the-food",
     "lottery-winners-vs-accident-survivors"
   ],
+  "im-clamping-down-on-my-negative-emotions": [
+    "selective-emotional-muting-loses-access-to-the-positive",
+    "emotional-fluidity",
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
+    "trying-prevents-the-feeling"
+  ],
   "self-blame-abdicates-others-agency": [
     "self-blame-as-tether-to-the-lost",
     "how-is-it-not-your-fault-that-its-always-your-fault",
@@ -15950,10 +16361,6 @@
   ],
   "anxious-avoidant-dynamic|chaser's": [
     "the-avoidant-partner-who-cant-receive"
-  ],
-  "look-around-the-room-can-you-see-anyone-not-here-for-you": [
-    "the-avoidant-partner-who-cant-receive",
-    "count-the-years-of-showing-up"
   ],
   "love-causes-annihilation": [
     "the-avoidant-partner-who-cant-receive",
@@ -16307,6 +16714,7 @@
     "speak-the-welcoming-of-the-feared-state-aloud",
     "intimate-with-vs-giving-in-to-feeling",
     "friction-is-required-for-life",
+    "the-aloneness-is-the-quickest-route-to-freedom",
     "emotional-inquiry",
     "love-relationship-with-anxiety"
   ],
@@ -16522,6 +16930,11 @@
     "what-if-there-was-no-scorecard",
     "power-dynamics-as-two-defenders",
     "so-they-attacked-you-how-do-you-want-to-be"
+  ],
+  "everything-is-already-an-experiment": [
+    "what-is-my-purpose-asking-me-to-do-right-now",
+    "iterative-mindset",
+    "mental-models-cant-tell-you-what-experience-feels-like"
   ],
   "middle-managers-and-ai": [
     "what-is-the-productivity-for"
@@ -17276,6 +17689,7 @@
     "gratitude-as-acknowledgment-of-greater-force",
     "see-whats-right-to-build-on-it",
     "daily-gratitude-for-your-own-transformation",
+    "daily-thank-you-notes-to-3-to-5-people",
     "eye-contact-as-view-training",
     "gratitude-around-the-problem",
     "start-stay-end-in-connection",
@@ -17458,6 +17872,7 @@
     "feel-love-and-empowerment-as-the-same",
     "from-looking-for-love-to-being-love",
     "love-yourself-the-way-you-always-wanted",
+    "spend-a-few-hours-with-the-not-enough-part",
     "four-faces-of-love",
     "separation-wonder-reality-experiments-love",
     "view",
@@ -17523,7 +17938,8 @@
     "gratitude-as-a-strategy-for-an-outcome",
     "when-experiments-become-management",
     "gratitude-self-corrects-when-felt",
-    "the-means-must-match-the-end"
+    "the-means-must-match-the-end",
+    "ignite-talk-pause-as-vulnerability-modeling"
   ],
   "gratitude-as-a-strategy-for-an-outcome": [
     "dont-make-pleasure-a-morality",
@@ -18156,6 +18572,7 @@
     "hierarchy-collapses-support",
     "shared-purpose-not-shared-proximity",
     "teach-to-integrate",
+    "ignite-talk-pause-as-vulnerability-modeling",
     "island-experiment"
   ],
   "shared-purpose-not-shared-proximity|shared purpose": [
@@ -18187,6 +18604,7 @@
     "gratitude-self-corrects-when-felt",
     "unrecognized-generosity-already-received-and-given",
     "wealth-identity-shift",
+    "daily-thank-you-notes-to-3-to-5-people",
     "thank-your-partner-for-anything-mutual-benefit",
     "two-person-gratitude-practice",
     "base-jumping-broken-hand-gratitude",
@@ -18914,6 +19332,14 @@
     "love-yourself-the-way-you-always-wanted",
     "what-was-wired-with-love-needs-untying"
   ],
+  "ignite-talk-pause-as-vulnerability-modeling": [
+    "confidence-is-connection-to-self-while-acting",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
+    "first-coaching-session-going-wrong-without-imposter"
+  ],
+  "first-coaching-session-going-wrong-without-imposter": [
+    "confidence-is-connection-to-self-while-acting"
+  ],
   "positivity-as-doubt": [
     "confidence-is-running-from-doubt",
     "passive-aggression-toward-self",
@@ -19195,16 +19621,6 @@
     "two-trigger-points-of-doubt",
     "speak-the-welcoming-of-the-feared-state-aloud"
   ],
-  "confidence-is-running-from-doubt": [
-    "doubt-is-protection-from-a-feeling",
-    "doubt-driven-urgency-as-fake-confidence",
-    "two-trigger-points-of-doubt",
-    "open-the-heart-to-the-doubt",
-    "disappointment-with-self-is-the-safe-bet",
-    "successful-people-doubt-too",
-    "the-issue-isnt-the-issue-its-how-you-react",
-    "you-cannot-know-the-answer-before-you-do-the-thing"
-  ],
   "invigorated-vs-depleted-as-functionality-measure": [
     "dysfunction-as-spectrum",
     "functional-team",
@@ -19342,6 +19758,7 @@
     "annihilation-reveals-what-is-real",
     "defending-the-ideal-blocks-the-relating",
     "purpose-is-an-evolution-not-a-destination",
+    "purpose-is-in-the-present-not-the-future",
     "say-goodbye-like-its-the-last-time",
     "joes-funeral-poem-for-kase"
   ],
@@ -19493,6 +19910,7 @@
     "gratitude-as-healing-medicine",
     "punishing-the-remembering",
     "wealth-identity-shift",
+    "daily-thank-you-notes-to-3-to-5-people",
     "see-yourself-and-acknowledge-others",
     "two-person-gratitude-practice",
     "5-ways-to-stay-unhappy",
@@ -19608,6 +20026,7 @@
   ],
   "receive-the-apology-permeably": [
     "humility",
+    "imposter-syndrome-as-hungry-ghost-of-validation",
     "upright-apology",
     "apologize-to-exit-a-fight",
     "let-it-move-through-and-clean-the-channel",
@@ -19761,9 +20180,6 @@
     "reward-failure-in-the-organization",
     "teach-body-before-intellect",
     "track-process-metrics-not-outcomes"
-  ],
-  "everything-is-already-an-experiment": [
-    "iterative-mindset"
   ],
   "migratory-path": [
     "iterative-mindset",
@@ -20704,6 +21120,12 @@
     "shame-dissipates-in-the-question-itself",
     "what-was-done-to-you-youre-now-doing-to-yourself"
   ],
+  "the-council": [
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers"
+  ],
+  "midlife-crisis-as-the-conditional-worth-engine-burning-out": [
+    "detour-when-imposter-syndrome-dissolves-in-high-achievers"
+  ],
   "procrastination-is-wisdom": [
     "do-the-known-skip-the-unknown",
     "the-bully-passive-aggressive-loop",
@@ -20862,6 +21284,18 @@
     "anger-first-then-fear-out-of-stuck",
     "feeling-stuck-is-self-oppression"
   ],
+  "replace-good-job-with-how-did-it-feel": [
+    "good-jobbed-as-conditional-validation"
+  ],
+  "how-did-that-feel": [
+    "good-jobbed-as-conditional-validation"
+  ],
+  "parenting-as-the-most-effective-change-agent": [
+    "good-jobbed-as-conditional-validation",
+    "replace-good-job-with-how-did-it-feel",
+    "both-individual-and-society-reference-point",
+    "mangy-cat-eating-from-the-hand"
+  ],
   "religious-identity-around-pain": [
     "identity-reproduces-childhood-stress-levels",
     "full-understanding-of-a-behavior-dissolves-it"
@@ -20937,6 +21371,12 @@
     "shame-drives-behavior",
     "breakup-self-blame-session",
     "joes-pot-habit"
+  ],
+  "the-unfelt-produces-the-recurrence": [
+    "running-toward-the-thing-youre-running-from"
+  ],
+  "the-pattern-repeats-with-different-people": [
+    "running-toward-the-thing-youre-running-from"
   ],
   "gratitude-around-the-problem": [
     "same-scarcity-story-regardless-of-wealth",
@@ -21165,6 +21605,15 @@
     "joes-daughter-panama-vs-europe-purpose",
     "joes-friend-tiago-youtube-meetings",
     "authenticity-in-business"
+  ],
+  "leader-says-what-they-dont-know-builds-alignment": [
+    "ask-for-all-the-help-you-can-get"
+  ],
+  "base-jumping-commercial-as-imposter-syndrome-example": [
+    "ask-for-all-the-help-you-can-get",
+    "hiding-from-experts-generates-imposter-syndrome",
+    "maintaining-false-persona-costs-more-than-incompetence",
+    "first-coaching-session-going-wrong-without-imposter"
   ],
   "speak-from-each-of-the-three-centers": [
     "ask-from-each-of-the-three-centers"
@@ -21635,6 +22084,14 @@
     "joes-extemporaneous-vc-speech",
     "speaking-authentically"
   ],
+  "that-makes-sense-the-spaceless-yes-as-evidence-of-arrival": [
+    "say-the-suppressed-truth-aloud-to-the-imagined-other"
+  ],
+  "compartmentalizing-can-be-adaptive": [
+    "say-the-suppressed-truth-aloud-to-the-imagined-other",
+    "three-moves-when-frozen-by-uncertainty",
+    "bretts-brother-scott"
+  ],
   "dont-add-anyway-to-love": [
     "say-yes-to-the-clients-experiment",
     "send-the-message-that-youre-whole",
@@ -21854,6 +22311,9 @@
   "loving-presence-vs-vacuous-presence": [
     "non-personal-with-body-in-vs-out"
   ],
+  "caretaking-as-self-abandonment": [
+    "open-hearted-service-vs-codependent-service"
+  ],
   "hungry-lion-principle": [
     "pace-and-spin"
   ],
@@ -22064,10 +22524,6 @@
     "first-follower-creates-the-movement",
     "leadership-emerges-from-confident-direction",
     "responsibility-and-authority-go-together"
-  ],
-  "parenting-as-the-most-effective-change-agent": [
-    "both-individual-and-society-reference-point",
-    "mangy-cat-eating-from-the-hand"
   ],
   "shift-the-environment-not-the-actor": [
     "both-individual-and-society-reference-point",
@@ -22414,6 +22870,9 @@
     "helplessness-is-the-gateway",
     "joes-abandonment-mapping"
   ],
+  "vulnerability-as-the-actual-cure": [
+    "hiding-from-experts-generates-imposter-syndrome"
+  ],
   "brett-slackline-metaphor": [
     "identity-lags-behind-growth",
     "knowing-yourself-is-the-only-safety",
@@ -22434,6 +22893,15 @@
   ],
   "joes-daughter-panama-vs-europe-purpose": [
     "impact-and-purpose-are-universal-human-needs"
+  ],
+  "symptom-as-compass": [
+    "imposter-syndrome-is-a-scent-you-can-follow-home"
+  ],
+  "silver-medalist-with-imposter-syndrome": [
+    "imposter-syndrome-only-attaches-to-performance-identities"
+  ],
+  "detour-when-imposter-syndrome-dissolves-in-high-achievers": [
+    "imposter-syndrome-only-attaches-to-performance-identities"
   ],
   "what-was-wired-with-love-needs-untying": [
     "inner-work-as-generational-repair",
@@ -22505,10 +22973,6 @@
     "seeing-others-clearly-requires-not-looking-for-yourself",
     "the-question-asker-wins-not-the-presenter",
     "valve-handbook-desks-on-wheels"
-  ],
-  "creative-career-story": [
-    "management-required-to-launch-predicts-management-required-forever",
-    "listening-to-impulse"
   ],
   "snickers-and-mars-marriage-pattern": [
     "marriage-is-built-up-the-mountain-not-fallen-down-from-the-top"
@@ -22623,6 +23087,12 @@
   "fear-of-rejection-shapes-the-decision": [
     "purpose-asks-you-to-be-scary-then-effortless"
   ],
+  "feel-it-now-not-later": [
+    "purpose-is-in-the-present-not-the-future"
+  ],
+  "the-decision-is-already-being-made": [
+    "purpose-is-in-the-present-not-the-future"
+  ],
   "purpose-feels-like-choicelessness": [
     "purpose-is-recognized-not-found"
   ],
@@ -22634,7 +23104,8 @@
     "fix-everything-woman-anthill-presence-session"
   ],
   "the-abyss-is-where-you-dont-exist": [
-    "purposelessness-is-freedom"
+    "purposelessness-is-freedom",
+    "the-aloneness-is-the-quickest-route-to-freedom"
   ],
   "welcoming-vs-acceptance": [
     "recognition-feeling-balance-then-call-emerges"
@@ -22662,6 +23133,9 @@
   "anti-cramming": [
     "safety-is-in-evolution-not-stagnation"
   ],
+  "purpose-as-following-not-finding": [
+    "searching-for-purpose-pushes-it-away"
+  ],
   "vietnam-malnutrition-story": [
     "see-whats-right-to-build-on-it",
     "gratitude-around-the-problem"
@@ -22683,7 +23157,8 @@
   ],
   "joes-daughter-speaks-her-truth": [
     "speaking-truth-cures-approval-seeking",
-    "world-reorganizes-around-self-possession"
+    "world-reorganizes-around-self-possession",
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
   ],
   "only-work-with-the-leader": [
     "spit-at-the-top-is-a-waterfall-at-the-bottom",
@@ -22726,6 +23201,18 @@
     "tension-and-release-cycle",
     "notice-sensations-as-pleasure-experiment",
     "four-causes-of-stress"
+  ],
+  "joes-friend-mourning-the-breakup-flagstaff-to-yuma": [
+    "the-aloneness-is-the-quickest-route-to-freedom"
+  ],
+  "depression-as-the-feelings-you-arent-feeling": [
+    "the-aloneness-is-the-quickest-route-to-freedom"
+  ],
+  "shame-the-default-emotion": [
+    "the-aloneness-is-the-quickest-route-to-freedom"
+  ],
+  "i-keep-being-busy-so-i-dont-have-to-feel": [
+    "the-aloneness-is-the-quickest-route-to-freedom"
   ],
   "compendium-of-reads": [
     "the-first-minute-tells-you-everything"
@@ -22790,6 +23277,9 @@
   "dont-try-to-make-yourself-cry": [
     "trying-prevents-the-feeling"
   ],
+  "ceo-vulnerability-builds-team-alignment": [
+    "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act"
+  ],
   "truth-and-reconciliation-south-africa": [
     "unprocessed-grief-creates-conflict"
   ],
@@ -22843,8 +23333,15 @@
   "every-yes-needs-a-real-no": [
     "approach-and-say-no-with-group-honoring"
   ],
+  "you-cant-get-everyones-approval-anywhere-anytime": [
+    "chase-your-own-approval"
+  ],
   "gratitude-as-healing-medicine": [
     "daily-gratitude-for-your-own-transformation"
+  ],
+  "thank-your-partner-for-anything-mutual-benefit": [
+    "daily-thank-you-notes-to-3-to-5-people",
+    "joe-and-tara-conference-seen"
   ],
   "i-need-to-improve-myself|self-improvement project": [
     "experimenting-with-the-voice"
@@ -22915,10 +23412,6 @@
   ],
   "three-layers-of-the-work": [
     "speak-from-each-of-the-three-centers"
-  ],
-  "compartmentalizing-can-be-adaptive": [
-    "three-moves-when-frozen-by-uncertainty",
-    "bretts-brother-scott"
   ],
   "how-do-you-want-to-be-in-this-uncertainty|how-question": [
     "three-moves-when-frozen-by-uncertainty"
@@ -22993,9 +23486,6 @@
   ],
   "boundaries-with-vs-against": [
     "island-experiment"
-  ],
-  "thank-your-partner-for-anything-mutual-benefit": [
-    "joe-and-tara-conference-seen"
   ],
   "every-major-life-change-resets-the-marriage": [
     "joe-and-tara-pitchfork-fight"

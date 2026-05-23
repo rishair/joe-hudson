@@ -4,7 +4,7 @@ id: chase-your-own-approval
 title: "Chase Your Own Approval (Ask 'Do I Approve?' as the Central Question)"
 aliases: ["chase your own approval", "chasing your own approval", "approve of yourself", "self-approval as the central question", "do I approve of that", "do I approve", "does that make me feel good", "is this how I wanna be", "ask yourself if you approve", "the do-I-approve question", "the central question inversion", "from do they approve to do I approve", "asking for your own approval instead of theirs", "the self-approval inversion", "make do-I-approve the central question", "the I-approve practice", "approval inversion practice", "approve of your own life", "be your own approver", "chasing your own approval practice", "the approval inversion move", "asking yourself what you think", "self-approval over external approval", "the I-approve question", "stop asking what they think start asking what you think")]
 tags: ["approval", "practice", "self-listening", "self-trust", "freedom", "inversion"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval", "2025-10-21_Connection Is Hard Until You Face Your Aloneness"]
 ---
 
 # Chase Your Own Approval
@@ -111,6 +111,8 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 - After the move [[let-it-move-through-and-clean-the-channel]] has opened the receiving channel
 - When the concern [[how-do-i-stop-seeking-approval]] has been worked and the operational instruction is needed
 - When the concern [[i-need-a-scorecard]] has surfaced the question of what internal scorecard is available
+- When the concern [[i-feel-alone-in-rooms-despite-success]] has surfaced and dynamic 1 of the [[three-dynamics-of-feeling-alone-in-the-room]] framework needs its corrective practice
+- After the anti-pattern [[you-cant-get-everyones-approval-anywhere-anytime]] has been named and the structural impossibility of the alternative has been seen
 - When [[how-do-i-trust-myself]] has produced the need for a daily practice that builds the trust
 - When [[caring-what-others-think-is-the-burnout-engine]] has been named and the corrective practice is needed
 - After [[youll-never-get-the-confirmation-from-others]] has exposed the structural impossibility of external confirmation, the question of where the verdict can come from routes here as the practical answer
@@ -130,3 +132,4 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "do I approve" question set, the "central question" framing, and the empowered/grounded/able-to-have-the-life downstream)
 - 2025-03-14_How To Stop Seeking Approval (the speaking-truth operational form of self-approval: voicing the perception is the act of approving it; the inversion that speaking-truth is the cure for approval-seeking; the daughter's two-week report on how speaking truth stopped the approval-seeking automatically)
+- 2025-10-21_Connection Is Hard Until You Face Your Aloneness (the practice's role as the dynamic-1 corrective in the [[three-dynamics-of-feeling-alone-in-the-room]] framework; Joe's phrasing "Is this something that I approve of? Am I acting right now in a way that feels great to me?" with the inverted question of what to do if not — "what do I do to act in a way right now that feels great to me despite what the people who haven't had enough coffee or the people who've had bad upbringings or the people who are paranoid think?"; the structural argument that without this inversion, the person cannot be themselves and therefore cannot be seen — "if you want to feel seen, you have to be yourself")

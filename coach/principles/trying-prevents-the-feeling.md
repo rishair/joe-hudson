@@ -5,7 +5,7 @@ title: "Trying to Generate the Feeling Prevents the Feeling"
 aliases: ["trying prevents feeling", "trying pushes the emotion away", "the harder you try the less it comes", "effort prevents the emotion", "you can't push emotions into being", "trying is the new resistance", "the harder you try in inquiry the more it disappears", "pushing the emotion away by trying"]
 tags: ["principle", "emotions", "trying", "effort", "resistance", "inquiry"]
 related: ["unwelcomed-emotions-return-until-felt", "manufacturing-the-feeling", "trying-vs-doing", "hold-the-memory-of-when-you-felt-it-most", "emotional-inquiry", "feeling-the-unfelt-emotion", "undoing-not-doing", "dont-half-ass-the-experiment", "dont-try-to-make-yourself-cry"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-07-12_I Can't Get Over My Ex"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-07-12_I Can't Get Over My Ex", "2025-04-15_How Do I Stop Watching Porn And Procrastinating?", "2025-10-16_He Discovers His Negative Emotions Aren't the Problem ｜ Coaching with Joe"]
 ---
 
 # Trying to Generate the Feeling Prevents the Feeling
@@ -93,6 +93,20 @@ The most legible application of the principle is to crying. People often want to
 
 Joe sometimes states this version explicitly when the client has named the desire to cry but their inability to do so on cue. The statement releases the trying so the channel can open: "to try to make yourself cry is the best way to push away the tears" (I Can't Get Over My Ex). The same form applies to any specific emotion — to try to make yourself feel sad, to try to make yourself feel grateful, to try to make yourself feel anything — the trying pushes the emotion away. Tears are the most visible instance because the failure to produce them is the most visible to the person and to anyone watching.
 
+## The Symmetric Form: Trying-to-Feel and Trying-Not-to-Feel Are the Same Gear
+
+The cleanest compressed articulation of the principle, delivered to a parent who had been actively suppressing his negative emotions and was asking how to develop emotional fluidity:
+
+"Trying to feel your feelings is as much of a resistance to feeling your feelings as trying not to. Just express it. It's really easy." -- Joe Hudson, He Discovers His Negative Emotions Aren't the Problem
+
+The phrasing makes the underlying symmetry visible. Most people have intuitive access to the idea that trying-not-to-feel is a form of resistance. They have less intuitive access to the parallel idea that trying-to-feel is the same form of resistance pointing the other way. The clamping-down-on-the-emotion and the chasing-after-the-emotion are both done by the same muscular and intellectual machinery. The same gripping. The same forward-leaning attention. The same gear.
+
+The instruction that follows ("just express it, it's really easy") closes the loop. The work is neither to suppress nor to produce. The work is to let what is already happening come through. The "just express it" is the operational form of the non-trying. It is the easiest version of the move, available exactly because it requires no production.
+
+This articulation is particularly useful for clients who have walked in asking "how do I develop emotional fluidity?" or "how do I learn to feel my feelings?" The question itself contains the trying-to-feel premise. The principle in this symmetric form dissolves the question. The client does not need to develop fluidity. They need to stop both the suppression strategy AND the developmental project. What remains, when both are dropped, is the fluidity they were trying to acquire.
+
+See [[im-clamping-down-on-my-negative-emotions]] for the concern this articulation typically lands on, and [[you-know-this-place-this-is-not-your-first-time-here]] for the move that often accompanies this articulation in the same session — the principle and the move both point at the same fact, from different angles.
+
 ## Why This Is Not Permission to Slack
 
 The principle is not "don't engage with emotional work." It is "engage with the right gear." The engagement is real. The practice is real. The capacity for full feeling does develop through sustained practice. What does not work is bringing the wrong gear.
@@ -134,3 +148,4 @@ Plain. Slightly amused at the trap. The teaching is delivered with the air of "o
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching
 - 2024-07-12_I Can't Get Over My Ex (the tears-specific form of the principle, delivered to a client who had taught himself not to cry: "to try to make yourself cry is the best way to push away the tears"; the same principle applied to the coach side — "the one game that I can't play up here ever is like to try to make you cry, but that never works"; the structural form that the same gear that produces results in other domains produces the opposite of results in the emotional domain)
 - 2025-04-15_How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach) — the corollary form of the principle ("you are feeling, it's happening whether you like it or not") delivered when the client responds to "don't try" with "so just try to feel then?"; the volitional frame stripped from felt experience; the work relocated from the producer end to the receiver end
+- 2025-10-16_He Discovers His Negative Emotions Aren't the Problem | Coaching with Joe — the symmetric form of the principle ("trying to feel your feelings is as much of a resistance to feeling your feelings as trying not to"); the operational closer ("just express it, it's really easy"); the deployment in the parent-fluidity context where the question "how do I develop fluidity" itself contains the trying-to-feel premise the principle dissolves

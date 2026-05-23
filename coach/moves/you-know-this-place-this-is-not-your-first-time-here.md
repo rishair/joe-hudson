@@ -4,7 +4,7 @@ id: you-know-this-place-this-is-not-your-first-time-here
 title: "You Know This Place, This Is Not Your First Time Here (Name the Familiar State)"
 aliases: ["you know this place this is not your first time here", "you know this place", "this is not your first time here", "this is not your first rodeo", "name the familiar state", "name what they already know", "name the already-touched state", "I can see you've been here before", "you've been here before move", "the you-know-this-place move", "the not-your-first-rodeo move", "the naming-the-familiar-state move", "the recognition-of-prior-access move", "you know how to do this you've done it before", "you know the way home move", "the bird-migration-pointing move", "name that they already have the access", "tell them they already know the territory", "the I-just-saw-it move", "the intuitive-recognition move", "the inarticulable-knowing move", "I can't explain how I saw that move", "the I-saw-it-and-named-it move", "the see-and-name move for prior access"]
 tags: ["moves", "welcoming", "self-love", "naming", "recognition", "intuition", "spaciousness", "tears of recognition", "live coaching"]
-sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown"]
+sources: ["2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2025-10-16_He Discovers His Negative Emotions Aren't the Problem ｜ Coaching with Joe"]
 ---
 
 # You Know This Place, This Is Not Your First Time Here
@@ -92,6 +92,26 @@ There is no urgency to move on. The move opens space; the space is part of what 
 - It is not a guess to be verified. The certainty is the move. If the coach hedges ("you've been here before, haven't you?"), the recognition-effect dissolves. The move works because the statement is flat. Hedging invites the person to deflect or qualify.
 - It is not for cases where the person looks like they have *not* been there before. If the access is genuinely new, naming it as familiar would be inaccurate and would feel like flattery. See [[when-the-read-does-not-apply]] for the discriminator.
 
+## The Capacity-You-Just-Showed-Me Variant
+
+The same move structure applies when the client has not just touched a spacious welcoming state but has just demonstrated a capacity they walked in claiming not to have. The form changes slightly: instead of "you know this place" (the state-recognition variant), the form is "you just show me you have it" (the capacity-recognition variant).
+
+The use case: a client presents asking how to develop a capacity (emotional fluidity, the ability to feel, the ability to be present, the ability to let things go). Within the session, the capacity arrives — sometimes within minutes of the question being asked. The move is to name that the capacity has just shown up, and to disqualify the framing that it needs to be developed.
+
+The compact in-session articulation from the source session, addressed to a father who had asked how to develop emotional fluidity and had just done two rounds of full anger and full love-and-heartbreak in the room:
+
+"So you want emotional fluidity, but you just show me you have it. The anger that should be there obviously is there. Jesus fucking Christ, I don't even get my own fucking bed. I'm not sleeping. What the fuck? Jesus Christ, like, can you really say no 563 fucking times a day? Apparently May can." -- Joe Hudson, He Discovers His Negative Emotions Aren't the Problem
+
+The structure of the move in this variant has three components:
+
+- **Reflect the just-demonstrated capacity.** "You just show me you have it." The naming has to point at the evidence the client just produced, not at past evidence. The client's body has done the thing in the room.
+- **Model the next layer of the capacity if it would help.** Here, Joe models full parental rage (the "Jesus fucking Christ" speech) as a demonstration that the anger the father has been suppressing is allowed, available, and obviously appropriate to the situation. The modeling does double duty: it shows what the unsuppressed version sounds like, and it normalizes the content by having someone else say it first.
+- **Close with the instruction that follows from the recognition.** "You have all the fluidity there. You just have to let it come out of your mouth instead of protecting yourself from it." The instruction is operational and clean — the capacity is here; the work is to stop the protection.
+
+The capacity-recognition variant tends to land with parents, high-performers, and clients with strong "developmental" framings around their inner work. All three populations have a tendency to convert in-session demonstrations into "yes but I need to learn how to do that consistently" pivots. The variant blocks the pivot by being decisive about what the demonstration was: not a one-off, not a fluke, not a maybe. The capacity has been shown; the developmental framing is the trap.
+
+See [[point-at-the-present-evidence]] for the closely related move that uses present evidence to disprove a future fear. The capacity-recognition variant of "you know this place" is the same architecture pointed at the developmental framing rather than at the future-fear framing.
+
 ## The Underlying Recognition
 
 The move rests on a structural truth: most people who present "how do I love myself?" already know how, briefly. The accessing-the-state is not the problem. The being-pulled-out-of-the-state is the problem.
@@ -130,3 +150,4 @@ If these cues are absent and the spacious state has the texture of discovery, a 
 
 - 2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson) — the canonical instance; Joe names "you know this place, man" after the client has opened his arms in welcoming and settled into the state; the tears of recognition follow immediately; the follow-up question "Is this what happens when you're working?" surfaces the domain where the access lives organically
 - 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown — the meta-commentary on the same session; Joe's honest acknowledgment that he cannot fully explain how he saw the access ("I just saw that he'd been there before"); the reverent quality the recognition produced ("almost seems to have brought out a form of like reverence"); the guess about the work-as-access-domain based on the visible care in how the client set up his home
+- 2025-10-16_He Discovers His Negative Emotions Aren't the Problem | Coaching with Joe — the capacity-recognition variant of the move ("you just show me you have it"); deployed against a parent's "how do I develop emotional fluidity?" question after he had done two rounds of full anger and full love in the room; the modeling of the unsuppressed parental rage ("Jesus fucking Christ, I don't even get my own fucking bed") as part of the move; the operational closer "you have all the fluidity there, you just have to let it come out of your mouth instead of protecting yourself from it"

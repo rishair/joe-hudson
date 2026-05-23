@@ -5,7 +5,7 @@ title: "Resisted vs. Unresisted: Everything Shows Up Differently Depending on Ho
 aliases: ["resisted vs unresisted everything different", "everything shows up differently when resisted", "resisted vs not resisted shows differently", "the pitch metaphor for resisted vs unresisted", "the fundraising metaphor", "I show up differently when the person is open vs resisting", "emotions are no different from anything else", "resisted things show up worse than unresisted things", "the general principle of resisted vs unresisted"]
 tags: ["principle", "emotions", "resistance", "approach", "general truth"]
 related: ["emotional-inquiry", "resistance", "approach-to-emotion-matters-as-much-as-emotion", "view", "love-as-deep-welcoming", "fear-vs-excitement", "kinked-emotions", "embrace-vs-brace", "each-emotion-has-its-own-positive-flavor"]
-sources: ["2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
+sources: ["2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2025-10-16_He Discovers His Negative Emotions Aren't the Problem ｜ Coaching with Joe"]
 ---
 
 # Resisted vs. Unresisted: Everything Shows Up Differently Depending on How It's Met
@@ -85,6 +85,31 @@ Each subsequent layer was what the previous layer had been hiding when resisted.
 
 This is the dynamic [[amplify-the-feeling-until-it-breaks-open]] is designed to exploit. The amplification removes the resistance and lets the feeling become what it actually is, which is usually different from and deeper than what it was when resisted.
 
+## The Struggle Example: Locked-Up Chest Becomes Alive Energy in the Whole Body
+
+A live demonstration of the principle from a coaching session with a father who had been resisting "the struggle" of parenting a 2-year-old. Joe interrupted the description and gave a present-tense instruction:
+
+"So what happens to your struggle if you don't resist? Right now. Don't think about it. Actually feel the struggle and don't resist." -- Joe Hudson, He Discovers His Negative Emotions Aren't the Problem
+
+The first attempt produced a partial shift. The father responded by walking out of the back of his body — the dissociation was the resistance taking a new form. Joe named it: "Wait, you're resisting in a different way. You just walked out of the back of your body. Be fully in your body and don't resist."
+
+The second attempt produced the unresisted struggle. The father's report:
+
+"I felt the energy just kind of spread through my whole body instead of being locked up in the middle of my chest."
+
+The two states are distinct. The same content (the struggle of having too little space, of being a parent of a small child, of being maxed out) shows up in two qualitatively different ways depending on whether the body is bracing or receiving:
+
+- **Resisted struggle:** locked up in the middle of the chest. Compressed. Held in place. The body has organized itself around keeping it contained.
+- **Unresisted struggle:** energy spread through the whole body. Alive. Moving. Distributed.
+
+Joe's verbal acknowledgment captured the felt quality of the unresisted form: "It's very alive."
+
+This is the principle delivered in 90 seconds of in-the-room work. The teaching is unnecessary because the demonstration is decisive. The father has just experienced the same content as two different states. He no longer needs to be convinced that resistance changes how something shows up. His body has the evidence.
+
+The pedagogical lesson for the AI coach: when a client is reporting an experience that includes resistance, the cleanest move is not to teach the principle but to invite the unresisted version of the same content into the body, right now, and let the client compare. The comparison does the work. See [[compare-resisting-vs-not-resisting-the-feeling]] for the dedicated move.
+
+The auxiliary lesson: the resistance can re-assert in a new form (here, dissociation) when the first form of it is named and released. The coach watches for the next form and names it. The work continues until the body finds the genuinely unresisted state.
+
 ## The Test for Whether the Principle Has Landed
 
 The internal test: does the question "how am I meeting this?" become as natural as "what is this?" If yes, the principle is operating. If "what is this?" still dominates, the orientation is still on the object-side, and the lever of how-it-is-being-met is going unused.
@@ -117,3 +142,4 @@ Plain, explanatory, slightly emphatic on "everything." Joe delivers this as a pi
 - 2024-01-19_Emotional Inquiry - Emotion Series #14 (the pitch / $40 million fundraising analogy; the explicit claim that "emotions are no different"; the "signal through the noise" formulation of what becomes available without resistance)
 - 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (parallel transcription of the same conversation)
 - 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the anger example as a clean instance ("resisted anger feels very different than embraced anger"); the live-coaching example of the principle operating as escalating layers (stuck becomes helpless becomes black-hole when the resistance is amplified); the structural framing that a feeling-resisted shows up as a different feeling than the same feeling embraced
+- 2025-10-16_He Discovers His Negative Emotions Aren't the Problem | Coaching with Joe — the struggle-example live demonstration; the father reporting the same content (parenting struggle) showing up as "locked up in the middle of the chest" when resisted and as "energy spread through my whole body" when not resisted; Joe's "it's very alive" acknowledgment of the unresisted form; the auxiliary teaching that the resistance can re-assert as dissociation when the first form is released, and the coach watches for the next form ("you just walked out of the back of your body, be fully in your body and don't resist")

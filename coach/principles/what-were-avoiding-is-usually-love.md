@@ -2,9 +2,9 @@
 type: principle
 id: what-were-avoiding-is-usually-love
 title: "What We're Avoiding Is Usually Love (And the More We Avoid It, the Scarier It Gets)"
-aliases: ["what we're avoiding is usually love", "typically the thing we're avoiding is love", "the thing avoided is love", "love is what we run from", "the abyss is usually love", "the catastrophic image is usually love", "underneath the avoidance is love", "what's been kept at bay is love", "the more we avoid something the scarier it gets", "the loneliness is love", "the longing is love", "the disconnection is love", "loneliness is love avoided", "longing is love avoided", "love-as-the-avoided-thing", "love as the thing the abyss is hiding", "the love we're running from", "the avoided contact with love", "the love-shape under the abyss", "the bottom of the abyss is love", "underneath the longing is love", "the avoided love"]
+aliases: ["what we're avoiding is usually love", "typically the thing we're avoiding is love", "the thing avoided is love", "love is what we run from", "the abyss is usually love", "the catastrophic image is usually love", "underneath the avoidance is love", "what's been kept at bay is love", "the more we avoid something the scarier it gets", "the loneliness is love", "the longing is love", "the disconnection is love", "loneliness is love avoided", "longing is love avoided", "love-as-the-avoided-thing", "love as the thing the abyss is hiding", "the love we're running from", "the avoided contact with love", "the love-shape under the abyss", "the bottom of the abyss is love", "underneath the longing is love", "the avoided love", "the only thing that longs to be loved is love", "the longing to be loved is itself love", "the not-enough part is the longing to be loved", "the part that longs to be loved is love"]
 tags: ["love", "avoidance", "abyss", "longing", "loneliness", "fear", "identity", "principle"]
-sources: ["2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2025-10-21_Connection Is Hard Until You Face Your Aloneness"]
 ---
 
 # What We're Avoiding Is Usually Love
@@ -38,6 +38,22 @@ In the source transcript, the person describes the feeling as "a disconnection a
 The structure: the longing felt as a disconnection is the love trying to make contact. The disconnection is the resistance to the contact. The longing is the love itself, kept in its un-met form by the resistance. Entering the longing is contacting the love.
 
 This is also why loneliness is often described as bottomless. Love is bottomless. The longing for it inherits the property. The person who is afraid the loneliness will swallow them is correctly sensing the size of what is being avoided. The size is love's. The fear is of meeting it.
+
+## The "Only Thing That Longs to Be Loved Is Love" Formulation
+
+A particularly compact and useful formulation of the principle, deployed for the alone-in-room concern (see [[i-feel-alone-in-rooms-despite-success]]): the part of self that feels "not enough" or "not good enough" is, on direct contact, the part that has always wanted to be loved. And the only thing that wants to be loved is love itself.
+
+"What we find out is that part of ourselves that feels like they're not enough is actually our longing to be loved. And the only thing that longs to be loved is love." -- Joe Hudson, Connection Is Hard Until You Face Your Aloneness
+
+The formulation works as a meditation prompt during practices like [[spend-a-few-hours-with-the-not-enough-part]]. The practitioner who has just made direct contact with the "not enough" feeling can use the formulation to recognize what the feeling actually is. The feeling reads as deficiency. The formulation reframes it as the longing-to-be-loved, which is structurally love seeking its expression.
+
+This is the same principle in a different formulation. The avoided thing (the not-enough feeling) is the love (the longing-to-be-loved). The formulation collapses the gap between the avoidance and the discovery in a single sentence, which makes it useful for the practitioner who has been doing the contact work and needs the recognition framing.
+
+The follow-up move that the formulation supports: once the practitioner recognizes the part as love-in-its-longing-form, they can become the source of the love the part has been waiting for. The internal source of love comes online. The external chase for love can quiet.
+
+"Eventually, if you spend enough time with it, you go, oh, well then I'll give you the love. I'll show up for you. I don't have to reject this part of myself." -- Joe Hudson, Connection Is Hard Until You Face Your Aloneness
+
+See [[the-aloneness-is-the-quickest-route-to-freedom]] for the principle that makes the practice of meeting the longing actionable.
 
 ## The Avoidance-Makes-It-Scarier Mechanism
 
@@ -100,16 +116,20 @@ It is also not a romantic-love claim. The "love" in this principle is broader. I
 - [[i-feel-stuck]]: a common surface concern where the deeper avoidance is often of love
 - [[i-cant-find-love]]: a concern that is sometimes this principle in a different framing — the searching is the form the avoidance is taking
 - [[i-feel-lonely-i-cant-find-real-community]]: a related concern that may also point to this principle
+- [[i-feel-alone-in-rooms-despite-success]]: the high-achiever variant where the "not enough" feeling underneath has been being avoided through chronic busy-ness and external achievement
 - [[peace-is-what-we-resist-the-most]]: the broader principle this is a specific application of
 - [[craving-is-the-pushing-away]]: the upstream mechanism — the longing is the avoidance
 - [[what-we-fear-we-invite]]: the related principle about avoidance generating the feared outcome
 - A person describing a catastrophic-image abyss they've been avoiding for years
 - A person describing chronic disconnection or longing as the unsolvable
+- A person who has just contacted the "not enough" feeling for the first time and needs the recognition framing for what they are touching
 
 ## Downstream (Where This Leads)
 
 - Toward [[lets-go-there]]: the move that brings the person into the territory where the love can be contacted
 - Toward [[be-intimate-with-the-feeling]]: the move that establishes the kind of contact love requires
+- Toward [[spend-a-few-hours-with-the-not-enough-part]]: the self-directed practice for the alone-in-room application of this principle
+- Toward [[the-aloneness-is-the-quickest-route-to-freedom]]: the corollary principle that motivates the practice
 - Toward [[heartbreak-as-capacity-expansion]]: what becomes available once the contact begins
 - Toward [[you-dont-control-love]]: the principle that frames what the contact is and is not
 - Toward [[losing-self-in-love-two-forms]]: the distinction that addresses the fear of dissolution
@@ -126,3 +146,4 @@ When the person makes the contact and finds the love, the tone stays quiet. No c
 ## Sources
 
 - 2024-03-18_I Am Scared Of The Unknown (the canonical statement of the principle: "The more we avoid something, the scarier it gets. And typically the thing that we're avoiding is love"; the live demonstration where the person locates longing/loneliness as the avoided thing and Joe redirects with "Yeah, how is that not love?"; the subsequent work of be-intimate-with-the-longing as the contact with love that the avoidance had been keeping out of reach)
+- 2025-10-21_Connection Is Hard Until You Face Your Aloneness (the compact "only thing that longs to be loved is love" formulation used in teaching the alone-in-room concern; the application of the principle to the not-enough-part contact in [[spend-a-few-hours-with-the-not-enough-part]]; the closing move of becoming the internal source of love for the part that has been waiting for it — "well then I'll give you the love. I'll show up for you")
