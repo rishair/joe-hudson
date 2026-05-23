@@ -1,10 +1,10 @@
 ---
 type: concern
 id: i-want-to-be-authentic-on-stage
-title: "How do I be authentic on stage? / How do I stop being self-conscious when I perform?"
-aliases: ["how do I be authentic on stage", "how do I stop being self-conscious", "how do I be my authentic self on stage", "I get self-conscious on stage", "I get self-conscious when I perform", "I go into performance mode and that's not me", "stand-up comic asking how to be authentic", "the comedy authenticity concern", "I get self-conscious in front of an audience", "I get nervous performing", "I freeze on stage", "stage fright concern", "I'm scared on stage", "stage is my biggest phobia", "performing is my biggest phobia", "the on-stage self-consciousness concern", "the on-stage authenticity concern", "how can I be authentic while putting on an act", "how do I be authentic in a performance", "I get coached on what to do and lose myself", "people keep telling me what to do on stage", "I follow the advice and I'm not me", "the performer self-consciousness concern", "the performer authenticity concern", "I want to perform authentically", "I want to stop being self-conscious", "I want to be myself when I'm performing"]
-tags: ["concerns", "self-consciousness", "authenticity", "performance", "stage", "comedy", "public speaking", "being seen"]
-sources: ["2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
+title: "How do I be authentic on stage? / How do I stop being self-conscious when I perform? / I get stage fright"
+aliases: ["how do I be authentic on stage", "how do I stop being self-conscious", "how do I be my authentic self on stage", "I get self-conscious on stage", "I get self-conscious when I perform", "I go into performance mode and that's not me", "stand-up comic asking how to be authentic", "the comedy authenticity concern", "I get self-conscious in front of an audience", "I get nervous performing", "I freeze on stage", "stage fright concern", "I'm scared on stage", "stage is my biggest phobia", "performing is my biggest phobia", "the on-stage self-consciousness concern", "the on-stage authenticity concern", "how can I be authentic while putting on an act", "how do I be authentic in a performance", "I get coached on what to do and lose myself", "people keep telling me what to do on stage", "I follow the advice and I'm not me", "the performer self-consciousness concern", "the performer authenticity concern", "I want to perform authentically", "I want to stop being self-conscious", "I want to be myself when I'm performing", "I have performance anxiety", "I get performance anxiety before presentations", "I'm scared to present to the board", "I freeze on Zoom calls but not in person", "I get panic attacks before opening night", "I'm throwing up backstage", "my palms sweat on stage", "my voice gets shaky", "I forget my lines", "I go blank in front of audiences", "I'm terrified of public speaking", "public speaking is my worst fear", "I'd rather be in the casket than do the eulogy", "I can't speak in meetings", "I can't pitch to investors without freezing", "my body shuts down before I present", "stage fright is debilitating", "I have a phobia of being seen", "the nervous-system-shutdown-before-presenting concern", "the freeze-before-going-on-stage concern", "the body-floods-with-anxiety-before-public-speaking concern"]
+tags: ["concerns", "self-consciousness", "authenticity", "performance", "stage", "comedy", "public speaking", "being seen", "stage fright", "performance anxiety", "nervous system", "freeze"]
+sources: ["2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)", "2025-08-15_What To Do About Stage Fright", "2025-08-22_When Being Seen Feels Dangerous： Ending Performance Anxiety"]
 ---
 
 # How do I be authentic on stage? / How do I stop being self-conscious when I perform?
@@ -85,6 +85,34 @@ The typical sequence from this concern is fast and structurally clean:
 
 The whole arc can land in five minutes if the live pattern is available to work with.
 
+## The Body-Flood Variant
+
+This concern also arrives in a more bodily form: panic attacks before opening night, throwing up backstage, the whole nervous system shutting down, palms sweating on stage, the voice going high, the body going numb. The phrasing is often:
+
+- "I had panic attacks. I couldn't hold it in my body."
+- "It was debilitating, like complete overwhelm in my nervous system."
+- "I'd freeze. My body would just shut down."
+- "Suddenly on Zoom I couldn't present, but in a room I'm fine."
+- "My palms start to sweat. I smell my own sweat. My voice gets a little bit off."
+
+Here the presenting problem is less "I lose myself on stage" and more "my body refuses to let me on stage." The structure is the same -- self-consciousness is shame about being seen, scaled to a flood -- but the entry point is somatic. The coaching path includes everything above plus a body-level layer: prep the nervous system before, work the body in the moment, restore it after.
+
+Two operating principles for the body-flood variant:
+
+**The body is in the freeze branch and needs activation, not calming.** The instinct to "calm down" makes the freeze worse. The body needs to discharge the activation it is holding. See [[say-im-excited-ten-times]] and the broader principle in [[fear-vs-excitement]] -- the energy is the same as excitement; it has just been held without breath. Moving the body (flapping the hands, panting the breath, jumping) lets the held activation move. The person can then come back into the body rather than being behind it or above it.
+
+**The whole arc has three phases: before, during, after. All three matter.** Pre-stage prep regulates the nervous system before the activation arrives. In-the-moment moves work with whatever is here (sweaty palms, shaking voice, blank moment). Post-stage care restores the system and -- critically -- celebrates the act of having done it. The overachiever pattern collapses the arc into "push through and be glad you survived." That collapse is what makes the next performance scarier. See [[nervous-system-prep-before-high-stakes]] for the body-prep layer and [[mistakes-on-stage-are-gifts]] for the in-the-moment reframe.
+
+## The Reframe That Sits Under All the Hacks
+
+Underneath every specific technique in this concern is one reframe: the goal is not to get rid of the activation. The goal is to be in right relationship with it.
+
+The classic version of overcoming stage fright -- "make it go away, conquer the fear, beat it" -- is the same suppression structure that produced the problem. The person is trying to manage themselves out of an experience their body has decided is important. The harder they push it away, the more the body insists.
+
+The opposite move is to let the activation be there and let it work for you. The activation is energy. Stage fright is the body bringing a lot of energy to a moment that needs a lot of energy. Welcomed, the energy becomes the fuel for the performance. Suppressed, the same energy becomes the freeze. See [[stage-fright-as-fuel-cell]] for the reframe and [[fear-vs-excitement]] for the underlying mechanism.
+
+The person who has worked with their stage fright for years often arrives at a strange place: they get nervous when the stage fright does not show up, because they have learned to use it as fuel. That is the integration. The same energy that was the problem becomes the resource.
+
 ## What This Concern Is Not
 
 - This is not stage fright that needs a technique. Techniques are what produced the problem.
@@ -92,7 +120,10 @@ The whole arc can land in five minutes if the live pattern is available to work 
 - This is not [[how-do-i-stop-seeking-approval]]. The approval-seeking concern is about wanting to be liked. This concern is about being unable to be present while being seen.
 - This is not the same as [[i-get-anxious-in-relationships]] though it shares the structure. The relationship version has more time and intimacy in play; the on-stage version has more concentrated exposure with a fixed-length window and a verdict (audience response).
 - This is not solved by "just being yourself." That instruction is content-less to a person whose access to themselves is exactly what is blocked by the situation.
+- This is not solved by "calm down and breathe." The body in freeze does not respond to calming instructions. It needs the activation to be welcomed and moved through, not pressed down.
 
 ## Sources
 
 - 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — stand-up comic asks Joe how to be authentic on stage; Joe clarifies the question is about self-consciousness; uses the live Zoom session as the laboratory; scales the self-consciousness, asks for a 1% shift, asks how it happened; names the cut-off laugh; reframes the deadpan advice as a suppression instruction; reframes the phobia as desire for emotional fluidity; closes with "Fear, I love you" as the phobia cure
+- 2025-08-15_What To Do About Stage Fright — Tara teaches a multi-phase approach to stage fright (before/during/after) with Joe drawing it out and embodying the practices; the body-flood variant is named directly (panic attacks before opening night, throwing up backstage, Zoom freezes during COVID); the reframe-as-fuel principle is introduced ("now I get nervous if I don't have stage fright"); Joe shares his own history of being terrified of being seen on a podcast; the COVID executive example -- people who could present fine in a room would suddenly freeze on Zoom, addressed by 2 minutes of hand-movement and deep breathing before the call
+- 2025-08-22_When Being Seen Feels Dangerous: Ending Performance Anxiety (re-edited release of the 2025-08-15 conversation with the same teaching, examples, and dialogue; the framing "when being seen feels dangerous" is a precise restatement of the structural problem -- the shame about being seen is what produces the freeze)

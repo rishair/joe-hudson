@@ -2,10 +2,10 @@
 type: practice
 id: say-im-excited-ten-times
 title: "Say 'I'm Excited' Ten Times (The In-The-Moment Fear-to-Excitement Conversion)"
-aliases: ["say I'm excited ten times", "say I'm excited 10 times", "the I'm excited 10 times hack", "the ten-times excited practice", "I'm excited repetition practice", "the imposter syndrome excited hack", "the fear-to-excitement reframe practice", "the verbal reframe for imposter syndrome", "verbally reclassify fear as excitement", "the I'm excited practice in the moment"]
-tags: ["imposter syndrome", "fear", "excitement", "in-the-moment", "somatic", "reframe"]
+aliases: ["say I'm excited ten times", "say I'm excited 10 times", "the I'm excited 10 times hack", "the ten-times excited practice", "I'm excited repetition practice", "the imposter syndrome excited hack", "the fear-to-excitement reframe practice", "the verbal reframe for imposter syndrome", "verbally reclassify fear as excitement", "the I'm excited practice in the moment", "the shakiness discharge through I'm excited", "say I'm excited to discharge tension exiting the body", "use I'm excited ten times to ride the somatic shift", "the post-receiving I'm-excited discharge", "say I'm excited to convert tension-release shakiness into excitement"]
+tags: ["imposter syndrome", "fear", "excitement", "in-the-moment", "somatic", "reframe", "shakiness", "discharge", "post-receiving"]
 related: ["fear-vs-excitement", "i-have-imposter-syndrome", "everyone-doing-something-real-is-an-imposter"]
-sources: ["2024-04-18_Imposter Syndrome — Are You Actually An Imposter？"]
+sources: ["2024-04-18_Imposter Syndrome — Are You Actually An Imposter？", "2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session", "2025-08-15_What To Do About Stage Fright", "2025-08-22_When Being Seen Feels Dangerous： Ending Performance Anxiety"]
 ---
 
 # Say "I'm Excited" Ten Times
@@ -48,6 +48,49 @@ The distinction from purely mental reframing: this is somatic, not intellectual.
 - Saying it silently does not work as well. The breath-on-the-words is part of the mechanism.
 - The "feels absolutely crazy" objection is part of the practice. Do it anyway. The cringe is the system noticing that a habit is being interrupted.
 
+## The Stage-Fright Use (Pre-Performance Discharge)
+
+Tara teaches this practice as the first move for stage fright proper -- not just for the lighter imposter-syndrome flavor of fear-of-a-bigger-room, but for the full body-flooded version of pre-performance anxiety. The structure is the same as the imposter use; the application is broader:
+
+"It's like, I'm scared, I'm scared, I'm scared. Breathing. And then reframe it as excitement. I'm excited, I'm excited, I'm excited, I'm excited, I'm excited." -- Tara Howley, What To Do About Stage Fright
+
+She pairs the verbal repetition with body movement -- pumping the hands over the head, flapping the wrists like bird wings, panting the breath -- to amplify the discharge. The body movement is doing what the breath alone does at smaller scales: giving the held activation an outlet.
+
+The COVID-era variant: executives who had no problem presenting in a room would suddenly freeze on Zoom calls. Tara's intervention was two minutes of hand-movement and deep breathing under the table before the Zoom call started. The same mechanism. The same body-shift. The freeze did not happen.
+
+What differs from the imposter-syndrome use:
+
+- The activation is often more severe -- panic attacks, throwing up, complete body shutdown rather than just the felt edge of imposter syndrome.
+- The body component is more important. Verbal repetition alone may not move the larger activation. Add the movement.
+- The practice may need to happen for longer than ten reps -- more like two minutes of sustained repetition with movement until the body has actually discharged.
+- The setting matters. The COVID-era under-the-table version is the small-scale teaching: do this where you can, in whatever form is available, before stepping into the moment.
+
+What stays the same: the same energy that the body is reading as fear is what would be read as excitement with breath. The verbal repetition does the relabeling; the breath required for the repetition does the unkinking; the movement helps the activation move when it is too much for breath alone.
+
+## Use After a Receiving Breakthrough (The Post-Deconstruction Discharge)
+
+A second use of the practice arrives mid-session, not as preparation for an upcoming fear-flavored event but as discharge for tension that is exiting the body live.
+
+When a structural belief like "I'm not enough" has just been deconstructed (see [[prove-to-me-youre-not-enough]] and [[run-the-compliment-deconstruction-protocol]]) or a compliment has just begun to actually land, the body often produces a shakiness or trembling as the long-held tension releases. The shakiness is the body discharging the energy it has been holding to maintain the deflection. Left alone, the shakiness can be metabolized as discomfort or even as fear-of-the-shift. Routed through the I'm-excited practice, the same shakiness gets metabolized as excitement and the body completes the discharge fully.
+
+"That shakiness, just do me a favor and just say I'm excited 10 times." -- Joe Hudson, Why Your Boss Never Sees You
+
+The instruction is delivered immediately after the client reports the somatic shift. In the source session, the client said: "I can feel a lot of tension getting out of my body. Yeah, I can feel that little shakiness." Joe responded with the practice instruction before the client could try to figure out what to do with the shakiness.
+
+The mechanism is the same as the imposter-syndrome use: the verbal labeling routes activated energy through "excitement" rather than through "fear" or "anxiety" or "discomfort." The breath required to say the words ten times opens the channel for the discharge to complete. The body finishes what it started.
+
+The two uses share structure. In the imposter-syndrome use, the practice prevents activated energy from being read as fear before an event. In the post-receiving use, the practice helps activated energy that is already moving through the body get read as excitement during the release. Either way, the practice routes activation toward "I am excited" and lets the breath open the channel.
+
+## When To Use the Post-Receiving Version Specifically
+
+- Right after the body has reported tension exiting ("I can feel tension getting out of my body")
+- Right after a long-held belief has been deconstructed and the body has confirmed the deconstruction somatically
+- Right after a compliment has begun to actually land for the first time
+- When the client reports shakiness, trembling, tingling, or other discharge sensations and the next move is to ride them through rather than examine them
+- As the closing somatic move of a session that has done structural work, to let the body integrate before the cognitive register resumes
+
+The instruction in this variant is shorter and more directive than the imposter-syndrome use. The client is already in the somatic field. The instruction does not need to explain the practice; it just deploys it. "Say I'm excited 10 times" — delivered immediately, with the expectation that the client will simply do it. Explanations of why come after, if at all.
+
 ## Boundary Conditions
 
 This is the lighter-weight version of the fear-to-excitement work. The deeper version is the somatic distinction in [[fear-vs-excitement]]: feel which one is actually present and let it move through. The deeper version is more accurate; the verbal practice is faster.
@@ -57,3 +100,6 @@ Do not use this practice to suppress a fear that is carrying real information ab
 ## Sources
 
 - 2024-04-18_Imposter Syndrome -- Are You Actually An Imposter?
+- 2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session — the post-receiving discharge use of the practice; client reports "I can feel a lot of tension getting out of my body, I can feel that little shakiness" immediately after a "I'm not enough" deconstruction; Joe responds without explanation with "that shakiness, just do me a favor and just say I'm excited 10 times"; client says "I'm excited" repeatedly and the activation routes through excitement; the practice serves as discharge of the just-released tension rather than as preparation for an upcoming fear-flavored event
+- 2025-08-15_What To Do About Stage Fright — Tara teaches the verbal "I'm excited" reframe as the first move for stage fright, paired with body movement (hand-pumping, panting) so the held activation discharges and the body returns to a state where the energy can be used; Joe embodies the practice live ("I feel silly... it's nice. It breaks through the... I feel silly instead of stuck")
+- 2025-08-22_When Being Seen Feels Dangerous: Ending Performance Anxiety (re-edited release of the 2025-08-15 conversation with the same teaching, examples, and dialogue)

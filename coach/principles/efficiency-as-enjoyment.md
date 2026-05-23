@@ -5,7 +5,7 @@ title: "Efficiency Is Measured by Enjoyment"
 aliases: ["enjoyment is efficiency", "human efficiency", "efficient when enjoying", "the human fuel measure", "fastest is not most efficient"]
 tags: ["efficiency", "enjoyment", "productivity", "principle", "measurement"]
 related: ["enjoyment-as-path", "enjoy-over-manage", "art-of-accomplishment", "butchers-blade", "sleep-deprived-soldier"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-08-26_The 3-Minute Test That Proves You're Creating Your Own Stress"]
 ---
 
 # Efficiency Is Measured by Enjoyment
@@ -55,6 +55,20 @@ The same hours could be evidence of laziness in one frame and incompetence in an
 The signal of inefficiency: you got it done but you are depleted. The signal of efficiency: you got it done and you feel more alive than when you started.
 
 The signal of false efficiency: you feel busy and important. The signal of real efficiency: you feel light and capable. Often, false efficiency is loud (running around, lots of meetings) and real efficiency is quiet (one or two leveraged actions, lots of space).
+
+The end-of-day form Joe uses to describe the diagnostic: "if I walk out at the end of the day and I feel better than I walked into the day, I enjoyed it. If I walk out of a meeting and I'm invigorated, then I enjoyed it. And that means I wasn't using as much energy to get the thing done, which means I was efficient." -- Joe Hudson, The 3-Minute Test. The end-state of the worker is the readout of the efficiency. Walking out depleted is the readout of inefficiency, regardless of what got accomplished.
+
+The same diagnostic applies meeting by meeting and conversation by conversation, not just day by day. The invigorated-after-the-meeting reading is the efficiency reading. The drained-after-the-meeting reading is the inefficiency reading. Both readings are available without any other instrument because the body is the instrument.
+
+## The Application to Specific Work Activities
+
+The principle also operates inside the specific activities of a workday, not just at the day-level. The application Joe names: writing emails has an enjoyable way and a painful way; having a sales conversation has a connecting way and a controlling way; every individual work activity has a how-to-enjoy-it variant and a how-to-suffer-through-it variant.
+
+"If I'm writing emails, what's the way to do that that's enjoyable? What's the way to do that? That's painful. If I am having a conversation with a client and I'm selling something, how do I do that in a way that's connecting and enjoying and isn't making me feel like I'm trying to control somebody? Because that's not enjoyable. Everything goes through the lens of how do I enjoy this process?" -- Joe Hudson, The 3-Minute Test
+
+The structural point: the work-activity is a fixed input. The how is the variable. The enjoyment lives in the how. The same email written enjoyably costs less energy than the same email written painfully. The same sales conversation conducted as connection costs less than the same conversation conducted as control. The principle is not just a daily total; it is an activity-by-activity allocation.
+
+The "everything goes through the lens of how do I enjoy this process" formulation is the operating instruction. Each activity gets the same question before it starts: how do I do this in a way that I enjoy? Not "should I do this" — that question is separate. Given that this activity is going to happen, how do I do it so that it is enjoyable? The lens is universal; the answers are activity-specific.
 
 ## Upstream (What Leads Here)
 
@@ -125,3 +139,4 @@ Enjoyment-as-measure works because enjoyment correlates with operating at the ri
 - 2024-03-15_Joy (the Silicon Valley multitasking-meeting example; the slow-is-smooth-is-fast Navy SEAL framing; the joy-as-KPI thought experiment and the diagnostic value of teams resisting it; the structural reason joy is not measured -- because most people believe joy has to be earned)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical Silicon Valley meeting example, slow-is-smooth-is-fast framing, and joy-as-KPI thought experiment)
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the clean car-gas analogy delivered in plain form for a wide audience; the explicit naming of "energy" as the input the speed-based metric ignores; the corollary that enjoyment lets you do more with less energy while un-enjoyment is extremely inefficient because it requires tremendous energy to produce anything)
+- 2025-08-26_The 3-Minute Test That Proves You're Creating Your Own Stress (the end-of-day and end-of-meeting body-as-instrument diagnostic — walking out invigorated as the efficiency reading, walking out depleted as the inefficiency reading; the activity-by-activity application of the principle — emails have an enjoyable way and a painful way, sales conversations have a connecting way and a controlling way; the "everything goes through the lens of how do I enjoy this process" formulation as the universal operating instruction for any work activity)

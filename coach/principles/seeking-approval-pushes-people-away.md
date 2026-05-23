@@ -96,6 +96,7 @@ The follow-through is warmer. Once the mechanism is visible, the tone moves to t
 - Toward [[caring-what-others-think-is-the-burnout-engine]]: the burnout consequence of running this engine for years
 - Toward [[abandoning-self-while-speaking]]: the per-conversation version of the same dynamic
 - Toward [[confidence-only-where-approval-isnt-needed]]: the read that shows the cost of the engine
+- Toward [[youll-never-get-the-confirmation-from-others]]: the structural impossibility that explains why the pursuit is unbounded — the confirmation being sought is not available regardless of how successfully the seeking is performed
 
 ## Sources
 

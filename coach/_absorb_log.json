@@ -8146,15 +8146,158 @@
     },
     {
       "folder": "2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T18:53:24Z",
+      "articles_created": [
+        "whats-the-game",
+        "you-cant-win-the-see-me-wont-be-seen-game",
+        "run-the-compliment-deconstruction-protocol",
+        "prove-to-me-youre-not-enough",
+        "give-the-thing-the-game-is-trying-to-win",
+        "whats-the-question"
+      ],
+      "articles_updated": [
+        "mind-deconstructs-itself",
+        "say-im-excited-ten-times",
+        "dont-call-them-a-liar-with-deflection",
+        "caring-what-others-think-is-the-burnout-engine",
+        "im-burned-out",
+        "in-the-story-im-not-being-seen"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T19:10:20Z"
+    },
+    {
+      "folder": "2025-08-12_You're Not Giving People the Chance to Love You",
+      "status": "complete",
+      "claimed_at": "2026-05-23T18:55:16Z",
+      "articles_created": [
+        "value-is-intrinsic-not-earned",
+        "reputation-control-is-unwinnable",
+        "doing-things-for-love-is-prostitution",
+        "two-friends-judgment-experiment",
+        "defend-vs-open-to-all-past-judgments",
+        "turn-the-love-on-yourself-what-did-you-do",
+        "job-interview-3d-chess",
+        "corporate-stack-of-mutual-misreading"
+      ],
+      "articles_updated": [
+        "inherent-goodness",
+        "how-do-i-stop-seeking-approval",
+        "im-so-stressed-out"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:12:55Z"
+    },
+    {
+      "folder": "2025-08-15_What To Do About Stage Fright",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:11:06Z",
+      "articles_created": [
+        "mistakes-on-stage-are-gifts",
+        "stage-fright-as-fuel-cell",
+        "nervous-system-prep-before-high-stakes",
+        "put-attention-on-someone-else-on-stage"
+      ],
+      "articles_updated": [
+        "i-want-to-be-authentic-on-stage",
+        "fear-vs-excitement",
+        "say-im-excited-ten-times"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:20:26Z"
+    },
+    {
+      "folder": "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:13:35Z",
+      "articles_created": [
+        "joes-call-with-dad-about-criticism",
+        "awareness-of-pain-stops-the-behavior"
+      ],
+      "articles_updated": [
+        "joes-abandonment-mapping",
+        "awareness-as-change-agent",
+        "say-ouch-to-the-inner-critic",
+        "trauma-mapping",
+        "self-aggression-permits-others-aggression",
+        "i-keep-chasing-emotionally-unavailable-people"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:23:28Z"
+    },
+    {
+      "folder": "2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:21:29Z",
+      "articles_created": [
+        "youll-never-get-the-confirmation-from-others",
+        "iteratively-replace-the-word-in-the-question",
+        "do-self-love-before-pursuing-the-thing",
+        "every-question-becomes-whats-wrong-with-me",
+        "find-one-thing-to-confirm-about-yourself",
+        "catch-the-tiny-self-doubt-inside-the-answer",
+        "menu-of-responses-to-the-self-critical-voice"
+      ],
+      "articles_updated": [
+        "money-as-surrogate",
+        "how-do-i-create-wealth-and-financial-stability",
+        "say-ouch-to-the-inner-critic",
+        "nothing-is-required-for-freedom",
+        "seeking-approval-pushes-people-away",
+        "chase-your-own-approval",
+        "my-inner-critic-wont-stop",
+        "i-have-to-X-to-be-free"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T19:38:02Z"
+    },
+    {
+      "folder": "2025-08-22_When Being Seen Feels Dangerous\uff1a Ending Performance Anxiety",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:24:18Z",
+      "articles_created": [],
+      "articles_updated": [
+        "fear-vs-excitement",
+        "say-im-excited-ten-times",
+        "stage-fright-as-fuel-cell",
+        "nervous-system-prep-before-high-stakes",
+        "mistakes-on-stage-are-gifts",
+        "put-attention-on-someone-else-on-stage",
+        "i-want-to-be-authentic-on-stage"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:28:21Z"
+    },
+    {
+      "folder": "2025-08-26_The 3-Minute Test That Proves You're Creating Your Own Stress",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:28:55Z",
+      "articles_created": [
+        "fifteen-fun-iterations-on-the-stuck-goal",
+        "feeling-not-feeling-toggle"
+      ],
+      "articles_updated": [
+        "kinked-emotions",
+        "iterative-mindset",
+        "habenula",
+        "efficiency-as-enjoyment",
+        "im-so-stressed-out"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:37:30Z"
+    },
+    {
+      "folder": "2025-08-29_Dear Lonely Person\uff1a You're Probably A Sweetheart",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T19:38:03Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-08-12_You're Not Giving People the Chance to Love You",
+      "folder": "2025-08-29_How to Break Free from Loneliness",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T18:55:16Z",
+      "claimed_at": "2026-05-23T19:39:03Z",
       "articles_created": [],
       "articles_updated": []
     }

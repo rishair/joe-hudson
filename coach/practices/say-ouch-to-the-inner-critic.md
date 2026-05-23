@@ -4,8 +4,8 @@ id: say-ouch-to-the-inner-critic
 title: "Say 'Ouch' Out Loud to the Inner Critic (Make the Attack Audible to Yourself)"
 aliases: ["say ouch to the inner critic", "the ouch-to-the-voice practice", "say ouch out loud every time the voice attacks", "the inner-critic ouch experiment", "ouch as response to negative self-talk", "the voice-noticing ouch practice", "the critical-voice ouch", "ouch to the voice in your head", "the audible-ouch practice", "the listener experiment for the inner critic", "the negative-self-talk ouch", "the ouch experiment for self-criticism", "make the voice audible", "the constant-attack discovery experiment", "ouch when the voice says something mean", "the critical-boss voice ouch", "ouch as the inner-critic detector"]
 tags: ["practice", "inner critic", "self-talk", "listener experiment", "noticing", "voice", "stress", "thought"]
-related: ["four-causes-of-stress", "my-inner-critic-wont-stop", "inner-critic-prevents-rest-and-integration", "experimenting-with-the-voice", "say-ouch", "excavating-the-inner-critic-in-group", "pleasure-tells-system-its-safe"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+related: ["four-causes-of-stress", "my-inner-critic-wont-stop", "inner-critic-prevents-rest-and-integration", "experimenting-with-the-voice", "say-ouch", "excavating-the-inner-critic-in-group", "pleasure-tells-system-its-safe", "awareness-of-pain-stops-the-behavior", "dont-fight-the-voice", "self-aggression-permits-others-aggression", "joes-call-with-dad-about-criticism"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)", "2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)"]
 ---
 
 # Say 'Ouch' Out Loud to the Inner Critic (Make the Attack Audible to Yourself)
@@ -78,6 +78,26 @@ The experiment can be extended:
 
 The "whose voice is that" variation connects to [[parent-criticism-as-self-talk]]: the inner voice is almost always an internalized voice from a primary caregiver. Naming the voice — "that's mom's voice," "that's dad's voice," "that's my coach's voice" — is the next layer of the work after the noticing layer this experiment opens.
 
+## The Extended Phrasing: "Ouch, That Hurts. Please Don't Treat Me Like That."
+
+A variant Joe also uses, with the same logic but a second clause appended that does additional work:
+
+"Ouch, that hurts. Please don't treat me like that." -- Joe Hudson, End Toxic Relationship Patterns
+
+The form Joe prescribes around this variant: 20 minutes a day, listening to the voice, every time it says something — "ouch, that hurts. Please don't treat me like that." The instruction is matter-of-fact about how immediate the demonstration is. He notes that closing your eyes for 30 seconds and listening will produce the voice without effort, "going to say something that you would never say to another person... something that's just mean."
+
+What the extended clause adds beyond the bare "ouch":
+
+- **The "that hurts" specifies what the ouch is for.** The bare "ouch" notes the hit. The "that hurts" extends the noting to the felt cost of the hit. This activates the [[awareness-of-pain-stops-the-behavior]] mechanism: the body registers the cost, not just the event. The voice continuing to deliver attacks while the body is feeling each attack as painful is the condition under which the voice's habitual content begins to lose its automaticity.
+- **The "please don't treat me like that" addresses the voice as a counterparty.** This is the same operation as the "ask it to speak to you with respect" entry in [[experimenting-with-the-voice]]. The voice has been operating as an unquestioned narrator. The request reframes it as someone in a relationship with you who can be asked for different behavior. The reframe is what allows the relationship to be flexible.
+- **The "please" carries no fight.** The earlier version in [[dont-fight-the-voice]] warns that the voice cannot be used to silence the voice; the request form with "please" deliberately does not match the voice's energy. The body asks plainly, the way a body would ask anyone for less aggression. The asymmetry — the voice attacking, the request meeting it gently — is part of what produces the change.
+
+The extended phrasing is therefore not just longer; it is doing more work. The bare "ouch" surfaces the cost. The extended version surfaces the cost, registers the feeling, and addresses the voice. All three operations together are what make the practice fast-acting.
+
+Joe's claim about the speed: "as soon as you hear it, it's going to say something that you would never say to another person... and you're going to go, 'Ouch, that hurts. Please don't talk to me like that.' And it's as simple as that. So you do that, and immediately you'll — it'll start becoming quieter." -- Joe Hudson, End Toxic Relationship Patterns
+
+The 20-minutes-a-day frame is also the operational form Joe gives. The instruction is not "do this every time the voice fires throughout the day." That instruction would convert the practice into a constant project that would itself become a should. The instruction is to dedicate 20 minutes — a contained window — during which the practice can happen with full attention. The contained window does the work; the rest of the day will reflect the work without requiring the explicit practice everywhere.
+
 ## When Joe Uses This
 
 The experiment is used in teaching contexts to demonstrate the cost of the critical voice. It is also useful in coaching when:
@@ -86,8 +106,13 @@ The experiment is used in teaching contexts to demonstrate the cost of the criti
 - The person says "I don't know why I am so hard on myself" — the experiment makes the harshness visible
 - The person is in the early stages of inner-critic work and needs to see the pattern
 - The person has been told the voice is critical but does not yet believe it
+- The person has just been confronted with [[every-question-becomes-whats-wrong-with-me|the deficiency lens]] and needs the operational tool that interrupts each appearance of the lens
 
 For coaching, the experiment can be done in-session for a minute and then discussed. The number of "ouches" in a single minute is often enough to make the point.
+
+A common in-session use is the ouch installed mid-session as the immediate practice the person takes home. The client in the You Don't Have A Money Problem session asked "Is that helpful if I just start [saying ouch every day]?" Joe: "Yes. Yeah, really helpful." The installation moment is short — the client adopts the practice in the seconds after the lens has been named. The practice then becomes the daily continuation of the session's work between meetings.
+
+In-session, the ouch also serves as the self-catch tool when a positive reframe arrives with a hidden qualifier. The client in the same session produced a positive statement — "I am going to have the freedom that I want" — and then caught the qualifier "Eventually" themselves with "Ouch." The practice had been installed minutes earlier and was already operating as the self-noticing capacity. See [[catch-the-tiny-self-doubt-inside-the-answer]] for the move that pairs with this self-catch.
 
 ## Anti-Patterns
 
@@ -102,11 +127,12 @@ Do not skip saying "ouch" out loud. The audibility matters. Saying it silently k
 After the experiment, the natural extensions:
 
 - A broader experimental relationship with the voice (see [[experimenting-with-the-voice]])
+- The fuller menu of responses to the voice — including "I see that you're scared and I'm right here with you," "I wonder if that's true," and "give it the love and compassion you want" — each doing different work for different moments (see [[menu-of-responses-to-the-self-critical-voice]])
 - Inquiry into where the voice came from (see [[parent-criticism-as-self-talk]])
 - Practices that soften the voice over time (see [[three-month-inherent-goodness-experiment]])
 - Recognition that softening the voice is upstream of nervous-system rest (see [[inner-critic-prevents-rest-and-integration]] and [[pleasure-tells-system-its-safe]])
 
-The "ouch" experiment is the opening move. The work that follows is what changes the voice over time.
+The "ouch" experiment is the opening move — the diagnostic that makes the voice audible as a thing that is attacking, not as the way things are. Once that surfacing is done, the menu of other responses becomes available to deploy. The work that follows is what changes the voice over time.
 
 ## Tone
 
@@ -115,3 +141,5 @@ Playful, immediate, slightly humorous. The "ouch" is itself a small bit of comic
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the canonical introduction of this experiment as the thought-level intervention in the four-causes-of-stress framework; the specific instruction to say "ouch" out loud for each attack; the discovery that the voice is constant and that the constancy is itself a source of stress)
+- 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the extended phrasing "Ouch, that hurts. Please don't treat me like that" as the variant that adds the felt-cost registration and the address-the-voice-as-counterparty operations to the bare ouch; the 20-minutes-a-day operational form that contains the practice rather than dispersing it across the whole day; the claim that the voice begins becoming quieter "immediately" once met with this response; the practice positioned as the operational instrument for the broader [[awareness-of-pain-stops-the-behavior]] principle)
+- 2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson) — the in-session installation of the practice as the take-home tool immediately after the deficiency lens has been named ("Is that helpful if I just start [saying ouch every day]?" / "Yes. Yeah, really helpful."); the practice operating as the self-catch tool minutes after installation when the client produces a positive reframe with the hidden qualifier "Eventually" and catches it themselves with "Ouch"; the ouch as one entry-point in the broader [[menu-of-responses-to-the-self-critical-voice]] that Joe introduces in the same session.

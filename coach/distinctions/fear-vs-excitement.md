@@ -5,7 +5,7 @@ title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
 related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need", "two-words-for-fear", "grounded-excitement-vs-ungrounded-excitement", "safety-that-connects-vs-disconnects-from-reality"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-11-11_But... Is It Safe?", "2024-04-18_Imposter Syndrome — Are You Actually An Imposter？"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-11-11_But... Is It Safe?", "2024-04-18_Imposter Syndrome — Are You Actually An Imposter？", "2025-08-15_What To Do About Stage Fright", "2025-08-22_When Being Seen Feels Dangerous： Ending Performance Anxiety"]
 ---
 
 # Fear vs. Excitement
@@ -17,6 +17,14 @@ Fear and excitement are the same physiological energy. The difference is breath.
 "There's this great quote that says, fear is excitement without the breath." -- Joe Hudson, Connection over Perfection
 
 The distinction is not intellectual. It is felt in the body. The same situation (a cliff, a conversation, a presentation) can produce fear or excitement depending on whether the person is breathing into the sensation or constricting against it.
+
+## Lineage of the Phrasing
+
+The "fear is excitement without the breath" formulation comes from Gay and Katie Hendricks. Tara cites them directly when teaching it as the entry-point reframe for stage fright:
+
+"There's a reframe. And Gay and Katie Hendricks teach this, that you can take fear. Fear is just excitement without the breath. So you can simply start breathing into it." -- Tara Howley, What To Do About Stage Fright
+
+The attribution matters because it locates the principle in a body of somatic work and points coaches to the source. Joe uses the same phrasing across many episodes; the original is Hendricks.
 
 ## In Practice
 
@@ -52,6 +60,24 @@ When fear is overridden rather than welcomed, the cost is twofold: the action ca
 - [[embrace-intensity]]: meeting the intensity rather than constricting against it.
 - [[resistance]]: constriction against the energy is resistance. The friction of most emotional states is the resistance to them, not the states themselves.
 - [[feeling-the-unfelt-emotion]]: allowing the emotion (whether fear or excitement) to move through.
+
+## Discharge Via Movement (The Body Move That Releases the Held Energy)
+
+Beyond the verbal reframe, there is a body-only version: move the held energy out. When fear has frozen the system, the activation is sitting in the body without an outlet. Moving the body -- flapping the hands, panting the breath, jumping, shaking -- gives the activation somewhere to go. The held fear discharges and the body returns to a regulated state in which excitement can be felt.
+
+Tara teaches this as the first move for stage fright:
+
+"I'm excited, I'm excited, I'm excited. We're pumping our hands over our heads. You've intellectually reframed from fear and anxiety to excitement. And you've taken the parasympathetic system and started moving it. And all of that, like, blood leaving the head is now -- you've moved the hands, like, sent the blood back to the head so you can start thinking." -- Tara Howley, What To Do About Stage Fright
+
+The mechanism is twofold: the movement physically discharges the activation, and the breath required for the movement opens the constriction that was holding the fear shape. The body is no longer frozen with energy it cannot release.
+
+Joe describes the felt sense of this in the same conversation: "If I think of an electrical charge that wants to discharge -- it's like, oh, it wants to go somewhere." The activation is real energy. It needs an outlet. The movement provides it.
+
+The COVID-era case Tara names is the canonical small-scale example: executives who could present fine in a room would suddenly freeze on Zoom. The same person, the same content -- the Zoom format collapsed their available outlets for the activation. Her intervention: two minutes of hand-movement and deep breathing under the table before the call. The activation moved. The freeze did not happen.
+
+This is the body-level complement to the verbal practice in [[say-im-excited-ten-times]]. The verbal version labels the energy as excitement; the body version moves it. Most people benefit from both.
+
+See also [[adrenaline-discharge-via-fear-activity]] for the larger-scale version: extreme sports as a way to discharge accumulated background anxiety through controlled fear activation.
 
 ## The Mental-Model Hack
 
@@ -137,3 +163,5 @@ The fear-excitement pair is the most accessible example because the breath diffe
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2024-04-18_Imposter Syndrome -- Are You Actually An Imposter?
+- 2025-08-15_What To Do About Stage Fright -- Tara cites the Hendricks lineage of "fear is excitement without the breath"; teaches the hand-pumping body-movement discharge alongside the verbal reframe; the COVID-era under-the-table Zoom-call version is named as the canonical small-scale case
+- 2025-08-22_When Being Seen Feels Dangerous: Ending Performance Anxiety (re-edited release of the 2025-08-15 conversation with the same teaching, examples, and dialogue)

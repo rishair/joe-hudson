@@ -4,7 +4,7 @@ id: i-keep-chasing-emotionally-unavailable-people
 title: "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic"
 aliases: ["I keep chasing people", "I'm always the one chasing", "I'm in an anxious avoidant dynamic", "I'm anxious they're avoidant", "I'm always rejected", "they're emotionally unavailable", "I'm pursuing emotionally unavailable people", "anxious-avoidant", "the chasing pattern", "I always fall for unavailable people", "I'm the one always reaching", "they're aloof and distant", "I'm the pursuer", "why do I keep dating unavailable people", "I always end up abandoned", "I keep getting rejected", "I'm always fighting for their attention"]
 tags: ["relationships", "attachment", "chasing", "anxious avoidant", "rejection", "pattern"]
-sources: ["2022-09-30_Triggered", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2022-09-30_Triggered", "2023-11-10_Finding a Romantic Partner", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
 ---
 
 # I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic
@@ -75,7 +75,19 @@ The push-pull structure underneath this concern is the same as the structure und
 
 The underlying motivator across all of these forms is [[fear-of-losing-yourself-in-love]]. The chasing keeps the person from the configuration where they would be received, would have to commit, and would face the felt threat of the kind of self-loss they have been protecting against.
 
+## The Two Binary Avoidance Behaviors Inside This Pattern
+
+In the abandonment-mapping form of this concern, two specific avoidance behaviors tend to alternate or co-exist inside the same person. Both are present-time attempts to not feel the abandonment that is arriving, and both produce more abandonment as the predictable result:
+
+1. **The hardening / push-away.** "Fuck you, I don't need you anyhow." The body preemptively rejects to avoid the felt cost of being rejected. The partner reads the hardening as departure and departs.
+2. **The grasping / pull-toward.** "What can I do to help? How do I keep you here?" The body becomes useful, accommodating, anticipatory. The neediness this produces is itself unattractive; the management of the partner is itself smothering. The partner pulls away in response.
+
+The two are not different patterns. They are the same pattern wearing two different costumes. A person who has both alternates between them based on the partner or the moment. The recognition that the cold-and-independent self and the needy-and-accommodating self are doing the same work is often the breakthrough — it dissolves the inner judgment of one mode against the other and reveals both as forms of the abandonment-avoidance. See [[joes-abandonment-mapping]] for the worked-out version of these two behaviors in Joe's own history.
+
+The coaching move once these are visible: the work is not to choose between hardening and grasping. The work is to drop both — which is only possible by feeling the abandonment that both were avoiding. The corrective is the same as elsewhere in the pattern: fall in love with the abandonment itself. See [[feeling-the-unfelt-emotion]].
+
 ## Sources
 
 - 2022-09-30_Triggered
 - 2023-11-10_Finding a Romantic Partner (the chasing pattern situated as one form among many of push-pull dynamics; jealousy-neediness-independence-transactionality as same family; the broader fear-of-losing-yourself frame)
+- 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the two binary avoidance behaviors named explicitly: the "fuck you I don't need you" hardening and the "what can I do to keep you here" grasping as the two costumes the abandonment-avoidance wears inside this concern; the framing that both produce the same outcome through different mechanisms)

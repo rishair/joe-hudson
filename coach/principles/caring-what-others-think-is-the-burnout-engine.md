@@ -2,9 +2,9 @@
 type: principle
 id: caring-what-others-think-is-the-burnout-engine
 title: "Caring What Others Think Is a Primary Burnout Engine"
-aliases: ["caring what others think is the burnout engine", "people-pleasing burns you out", "managing other people's opinions is the burnout engine", "the external-validation engine of burnout", "wanting to show people you're good enough burns you out", "constant other-monitoring is high-adrenaline", "caring about others' opinions causes burnout", "the people-pleasing burnout link", "caring too much about others' opinion creates burnout", "more than half my burnout was managing others", "the engine of burnout is making sure everyone is happy", "wanting to show I'm good enough is what burned me out", "showing them I'm capable is the engine"]
-tags: ["burnout", "people-pleasing", "external validation", "obligation", "principle", "self-abandonment"]
-sources: ["2024-05-27_How Do I Not Burn Out Again？"]
+aliases: ["caring what others think is the burnout engine", "people-pleasing burns you out", "managing other people's opinions is the burnout engine", "the external-validation engine of burnout", "wanting to show people you're good enough burns you out", "constant other-monitoring is high-adrenaline", "caring about others' opinions causes burnout", "the people-pleasing burnout link", "caring too much about others' opinion creates burnout", "more than half my burnout was managing others", "the engine of burnout is making sure everyone is happy", "wanting to show I'm good enough is what burned me out", "showing them I'm capable is the engine", "proving yourself to authority figures is a burnout engine", "trying to prove yourself to the boss burns you out", "the proving-myself-to-the-boss burnout pattern", "proving-to-male-authority burnout pattern", "the AI engineer with male manager pattern", "proving-to-authority-figures as the specific burnout configuration"]
+tags: ["burnout", "people-pleasing", "external validation", "obligation", "principle", "self-abandonment", "authority-figures", "workplace"]
+sources: ["2024-05-27_How Do I Not Burn Out Again？", "2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session"]
 ---
 
 # Caring What Others Think Is a Primary Burnout Engine
@@ -74,6 +74,20 @@ In a person presenting with burnout, the signals that this engine is running:
 
 The conversation often surfaces the engine via [[whats-the-emotion-youre-trying-to-avoid]]. The avoided emotion on the surface is "I don't want to burn out again." Drilled one level deeper, it is often "I don't want to be seen as having failed" or "I don't want to be invisible." The deeper layer is the engine.
 
+## The Specific Authority-Figure Geometry
+
+A common and especially acute geometry of this principle: the person who has been burning out repeatedly through the configuration of proving themselves to authority figures, especially authority figures who match the gender of the original missing-seeing figure in their childhood.
+
+The pattern in clinical form: a person reports 3-4 burnouts over a career. Each burnout is associated with a particular manager. The manager is almost always the same gender as the parent who did not see the person clearly enough in childhood. The proving-myself activity in adult work is the present-day version of the proving-myself activity that did not earn the missing seeing in childhood. The same engine that did not produce the recognition then does not produce the recognition now. The body runs the engine anyway because the original strategy was never updated.
+
+"Whenever it is a male manager, I can see this kind of a pattern." — Client, Why Your Boss Never Sees You
+
+The client in the source session was an AI engineer who had burned out 3-4 times by mid-career. The pattern was specific to male managers. The cause was named cleanly: "I proving myself to an authority figure." The producing was downstream of the proving. The proving was downstream of the original child-to-father configuration that never produced the seeing the child needed.
+
+The diagnostic value of the gender-specificity: it reveals that the engine is not generic "caring what others think." The engine is the specific reproduction of the original unmet recognition configuration with the original missing-seeing figure. The boss is not a random other whose opinion matters too much; the boss is a structural stand-in for the parent whose recognition was the original target. The pattern reproduces because the configuration reproduces. Different bosses produce the same pattern because each is recruited into the same role.
+
+This geometry sits inside the broader principle but adds a specific configuration: it is not just "I care what they think" but "I am trying to prove myself to this specific kind of authority figure because they look like the figure who did not see me." Naming the gender-specificity often helps the client see the configuration as a pattern rather than as a series of unfortunate manager experiences. The work then becomes the underlying see-me hunger and the deflection that prevents the seeing from ever landing — see [[you-cant-win-the-see-me-wont-be-seen-game]] for the specific unwinnable-configuration this engine often runs through.
+
 ## Connected Articles
 
 - [[burnout-cycle]]: the broader frame this principle is one specific mechanism inside
@@ -84,6 +98,9 @@ The conversation often surfaces the engine via [[whats-the-emotion-youre-trying-
 - [[scorecard-keeping-as-identity-structure]]: a related read where the external-validation engine has become identity-structural
 - [[i-need-a-scorecard]]: the concern where external metrics have organized the self
 - [[confidence-only-where-approval-isnt-needed]]: the read that often reveals the cost of the engine — confidence shows up exactly where the monitor is off
+- [[you-cant-win-the-see-me-wont-be-seen-game]]: the specific unwinnable geometry this engine often runs through when caring-what-they-think is paired with refusing-the-recognition
+- [[the-desire-to-be-seen]]: the underlying biological need the engine is trying to meet through the wrong configuration
+- [[dont-call-them-a-liar-with-deflection]]: the specific anti-pattern that, in workplace form, completes the unwinnability of the engine
 
 ## Boundary Conditions
 
@@ -94,3 +111,4 @@ The principle also does not apply uniformly to all burnout. Some burnouts are pr
 ## Sources
 
 - 2024-05-27_How Do I Not Burn Out Again？ (the direct naming of the link between caring what others think and burnout; the "more than half" estimate from the person; the inverse formulation — the antidote is paying attention to one's own state rather than showing capability to others)
+- 2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session (the authority-figure geometry of this engine; the AI engineer with 3-4 career burnouts associated with male managers; the client's clear naming "majority of this burnout came because of I proving myself to an authority figure"; the gender-specificity diagnostic "whenever it is a male manager I can see this kind of a pattern"; the link from the proving-to-authority-figure engine to the see-me-won't-be-seen unwinnable game configuration)

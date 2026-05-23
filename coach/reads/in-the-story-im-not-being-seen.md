@@ -2,10 +2,10 @@
 type: read
 id: in-the-story-im-not-being-seen
 title: "In the Story 'I'm Not Being Seen'"
-aliases: ["the I'm not being seen story", "not being seen as cover", "blaming others for not seeing me", "the unseen story", "I just want to be seen", "the see-me don't-see-me push-pull", "see me see me see me but don't see me read", "the bidirectional unseen-story read", "complaint about not being seen by someone hiding"]
-tags: ["relational read", "projection", "story", "complaint", "defense", "seeing", "false-front"]
-related: ["the-desire-to-be-seen", "false-front", "see-yourself-and-acknowledge-others", "say-of-course-i-just-want-to-be-seen-here", "pointers-to-unseen-parts", "wanting-from-lack-vs-wanting-from-wholeness"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2024-08-16_The Desire To Be Seen with Tara Howley"]
+aliases: ["the I'm not being seen story", "not being seen as cover", "blaming others for not seeing me", "the unseen story", "I just want to be seen", "the see-me don't-see-me push-pull", "see me see me see me but don't see me read", "the bidirectional unseen-story read", "complaint about not being seen by someone hiding", "the boss-doesn't-see-me variant", "the workplace not-being-seen story", "the my-manager-doesn't-see-me-story", "I gave the boss chances and he didn't see them story", "the boss-is-too-busy story", "the I-gave-him-a-lot-of-chances story while not letting in his compliments"]
+tags: ["relational read", "projection", "story", "complaint", "defense", "seeing", "false-front", "workplace", "boss-relationship", "authority-figures"]
+related: ["the-desire-to-be-seen", "false-front", "see-yourself-and-acknowledge-others", "say-of-course-i-just-want-to-be-seen-here", "pointers-to-unseen-parts", "wanting-from-lack-vs-wanting-from-wholeness", "you-cant-win-the-see-me-wont-be-seen-game", "dont-call-them-a-liar-with-deflection"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2024-08-16_The Desire To Be Seen with Tara Howley", "2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session"]
 ---
 
 # In the Story "I'm Not Being Seen"
@@ -58,6 +58,21 @@ After the mirror, the question becomes: how would it be to stop right now and le
 - **Joe:** "How am I feeling about you right now in your estimation?" [Joe uses the live coaching relationship to test the story.]
 - *(Source: Father Figures and Authority)*
 
+## The Boss-Doesn't-See-Me Variant (The In-Session Live Demonstration Form)
+
+A workplace form of the read where the client describes a specific past boss who "didn't see me" and offers the story as the explanation for their burnout. The story is delivered with conviction and specific evidence. The structure underneath is the same as the parent or partner versions: the client has been demanding seeing from a figure they have not been letting see them.
+
+The diagnostic move: rather than mirroring the judgment, demonstrate the read live. Offer the seeing the client says they want and watch what they do with it. The client almost always deflects. The deflection in the room makes the read available in a way the verbal mirror does not.
+
+- **Client:** "I had given him [the last boss] a lot of chances to see me. Maybe he is too busy."
+- **Joe:** "But I just saw you. You didn't let me. Yeah, but him, you did."
+
+*(Source: Why Your Boss Never Sees You)*
+
+The exchange compresses the entire diagnosis. The client just experienced not letting the coach see them. The same not-letting-in happened with the boss. The story "I gave him chances and he didn't see them" is true on its surface (the client did present opportunities for the boss to compliment them) and also incomplete (the client deflected when the boss offered the seeing). The deflection produces the absence-of-seeing, which the client then reads as evidence the boss is too busy or oblivious.
+
+This variant sits at the intersection of this read and [[dont-call-them-a-liar-with-deflection]]. The story is the read. The deflection is the anti-pattern. Together they produce the structural impossibility named in [[you-cant-win-the-see-me-wont-be-seen-game]].
+
 ## Tone
 
 Curious, not accusatory. Joe explicitly flags when he is asking a hard question: "That's a scary question for me to ask." He does not deliver the mirror as a gotcha. He delivers it as a wondering.
@@ -82,3 +97,4 @@ When this read is active, several adjacent interventions become useful:
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the see-me / don't-see-me push-pull structure underneath the complaint; the connection to the false-front mechanism that keeps the person hidden while complaining of not being seen)
+- 2025-08-07_Why Your Boss Never Sees You (Even When They Try) - Follow-along Coaching Session (the boss-doesn't-see-me workplace variant; client says "I had given him a lot of chances to see me, maybe he is too busy"; Joe's compressed demonstration "but I just saw you, you didn't let me, yeah, but him, you did"; the link from this read to the burnout-producing unwinnable-game configuration when the deflection is structural)

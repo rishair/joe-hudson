@@ -71,6 +71,7 @@ The branching point. Two people saying "once I have X, then I'll be free" go ver
 - If the person is mid-prosperity and treating self-discovery as entertainment: the read is [[dont-make-self-discovery-entertainment]]. The luxury of removing the friction has also removed the pressure that often drives the work forward.
 - If the person treats their freedom as fragile and conditional on circumstances remaining favorable: the read is that internal freedom has not actually landed yet; what they have is conditional safety dressed as freedom. See [[knowing-yourself-is-the-only-safety]].
 - If the person is in a pruning cycle (lost the thing they thought they needed): the read is that this is one of the paths into the recognition. The move is to be present with the loss, not to skip ahead to the lesson. See [[adversity-as-for-not-against]].
+- If the X in "once I have X" is "the confirmation from others" (the audience's verdict, the customer's choice, the boss's approval): the read routes to [[youll-never-get-the-confirmation-from-others]]. The structural impossibility of the prerequisite is the diagnostic — the thing being awaited as the condition for freedom is not on the menu. The work then routes through [[do-self-love-before-pursuing-the-thing]] (the order-of-operations correction) and [[every-question-becomes-whats-wrong-with-me]] (the lens that has been producing the felt-need for the external verdict).
 
 ## Coaching Path
 

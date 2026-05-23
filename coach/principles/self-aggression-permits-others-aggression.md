@@ -4,8 +4,8 @@ id: self-aggression-permits-others-aggression
 title: "How You Are With Yourself Sets the Ceiling on How Others Get to Be With You"
 aliases: ["self-aggression permits others' aggression", "you allow what you allow yourself", "internal relationship sets external ceiling", "as you treat yourself so others treat you", "self-love sets the limit on what you accept", "you expect from others what you do to yourself", "external aggression matches internal aggression", "the bidirectional principle of self-treatment", "self-talk trains the world", "you accept from others what you do to yourself", "the inside-out and outside-in principle", "internal and external aggression mirror each other"]
 tags: ["self-love", "passive-aggression", "principle", "boundaries", "self-talk", "relationships"]
-related: ["passive-aggression-toward-self", "voice-in-the-head", "extend-the-no-asshole-rule-inward", "boundaries", "passive-aggressive-vs-aggressive-aggressive", "what-we-fear-we-invite"]
-sources: ["2024-07-05_Passive Aggression", "2025-02-10_Boundaries Aren't What You Think They Are"]
+related: ["passive-aggression-toward-self", "voice-in-the-head", "extend-the-no-asshole-rule-inward", "boundaries", "passive-aggressive-vs-aggressive-aggressive", "what-we-fear-we-invite", "joes-call-with-dad-about-criticism", "parent-criticism-as-self-talk", "experimenting-with-the-voice"]
+sources: ["2024-07-05_Passive Aggression", "2025-02-10_Boundaries Aren't What You Think They Are", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
 ---
 
 # How You Are With Yourself Sets the Ceiling on How Others Get to Be With You
@@ -65,6 +65,26 @@ A few specific instances of how the principle plays out:
 - The person who has an undermining inner voice ("this won't work") often surrounds themselves with people who quietly undermine their plans. Naming the external undermining is also naming the internal version.
 - The person who runs a cheery-coach voice ("you're fine, it's all great") often has partners who do not take their distress seriously. Asking the partner to take it seriously is also asking the internal voice to take it seriously.
 
+## The Inner Work Precedes the Outer Capacity (Joe's Father Story)
+
+Joe's autobiographical example illustrates the directional version of the principle: the inner work has to happen first because it produces the capacity to do the outer work. Joe describes reading Fritz Perls' description of the overdog-underdog dynamic in his head and starting to respond to the inner critic differently — "no thank you, you could treat me with more respect than that, please." The voice softened. About a year later, almost as a byproduct, Joe found himself doing something he had not done before:
+
+"And as it started to decrease, I noticed I started doing things like drawing boundaries. And I think it was maybe just like a year later, I called up my father and I said, hey, every time I come home, you're criticizing me, and I don't want to come home..." -- Joe Hudson, End Toxic Relationship Patterns
+
+The structural point: Joe did not set a project to draw external boundaries with his father. The boundaries arose on their own once the inner critic had been met with the same response Joe wanted from his father. The capacity to refuse external aggression had been developed by refusing internal aggression. The outer move was downstream of the inner move; the outer move was also the work that closed the loop.
+
+This is the both/and the principle prescribes, demonstrated in sequence. The inner work made the outer boundary possible. The outer boundary then closed a relational pattern that had run for decades. Without the inner work, the outer boundary would not have been drawable. Without the outer boundary, the inner work would not have completed the cycle of changing what the person actually accepts in their life.
+
+See [[joes-call-with-dad-about-criticism]] for the full story including the year-and-a-half silence, the father's eventual call back, the one slip both of them caught, and the end of the pattern.
+
+## The Internal Conversation Mirrors the Family Conversation
+
+A second teaching from the same source: the toxic relationship the person is having in their life is also the toxic relationship they are having with themselves. The two are not coincidence. They are the same conversation being held in two different places. The childhood imprint (see [[parent-criticism-as-self-talk]]) installed the inner voice; the inner voice then sets the body's recognition of what love and relationship look like; that recognition then selects external partners or maintains relationships with family members who run the same conversation.
+
+"That was the beginning of me seeing what actually needed to happen for me to stop abusive relationships, which was I had to stop having an abusive relationship with myself. That's the most critical piece. I had to see that the thing that I was creating in my life was also being created in me." -- Joe Hudson, End Toxic Relationship Patterns
+
+The framing makes the inside-and-outside structure explicit. The person is not the victim of the external pattern. The person is generating the external pattern from the internal pattern, and is also receiving the external pattern that becomes the next layer of evidence for the internal pattern. The work has to address both layers because both layers are operating, and they are reinforcing each other in real time.
+
 ## When Someone Experiences This
 
 - They keep ending up in relationships with the same kind of person despite leaving the last one
@@ -114,3 +134,4 @@ Joe delivers this principle matter-of-factly, often as the bookend or summary of
 
 - 2024-07-05_Passive Aggression
 - 2025-02-10_Boundaries Aren't What You Think They Are (the boss-yelling diagnostic; the structural account of why some people in the same environment get mistreated while others do not)
+- 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the directional account of the principle — the inner work develops the capacity for the outer work, demonstrated in Joe's own sequence: meeting the inner voice with "no thank you, you could treat me with more respect than that, please" produces, about a year later, the call to his father asking for the same; the explicit teaching that "the thing that I was creating in my life was also being created in me" — the internal conversation and the external relationship are the same conversation being held in two places; see [[joes-call-with-dad-about-criticism]] for the full worked example)

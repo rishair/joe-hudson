@@ -113,6 +113,8 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 - When the concern [[i-need-a-scorecard]] has surfaced the question of what internal scorecard is available
 - When [[how-do-i-trust-myself]] has produced the need for a daily practice that builds the trust
 - When [[caring-what-others-think-is-the-burnout-engine]] has been named and the corrective practice is needed
+- After [[youll-never-get-the-confirmation-from-others]] has exposed the structural impossibility of external confirmation, the question of where the verdict can come from routes here as the practical answer
+- After [[find-one-thing-to-confirm-about-yourself]] has demonstrated in a single-shot that the internal source exists, this practice is the long-form continuation
 
 ## Downstream (Where This Leads)
 

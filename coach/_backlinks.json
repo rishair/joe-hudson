@@ -177,6 +177,7 @@
     "say-the-thing-youre-not-saying",
     "what-was-wired-with-love-needs-untying",
     "separation-wonder-reality-experiments-love",
+    "joes-call-with-dad-about-criticism",
     "joes-daughter-resentment-with-her-grieving-friend"
   ],
   "trauma-heals-in-relationship": [
@@ -251,6 +252,7 @@
     "find-the-want-behind-the-should",
     "fully-feel-the-forbidden-arousal",
     "have-them-say-i-want-all-of-me-loved",
+    "iteratively-replace-the-word-in-the-question",
     "look-me-in-the-eye-and-name-the-controlling-wish",
     "mirror-to-group-then-substitute-i-for-you",
     "speak-the-welcoming-of-the-feared-state-aloud",
@@ -283,12 +285,14 @@
     "same-scarcity-story-regardless-of-wealth",
     "apologize-to-the-projected-object",
     "extend-the-no-asshole-rule-inward",
+    "iteratively-replace-the-word-in-the-question",
     "name-the-gap-between-felt-story-and-lived-evidence",
     "say-the-forbidden-want-out-loud",
     "surface-the-rejection-then-demand-its-evidence",
     "swap-roles-with-the-younger-self",
     "external-freedom-vs-internal-freedom",
     "resources-vs-resourcefulness",
+    "do-self-love-before-pursuing-the-thing",
     "expensive-to-be-poor",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "integrity-as-money-compass",
@@ -296,6 +300,7 @@
     "money-relationship-is-an-energetic-exchange",
     "wealth-identity-shift",
     "what-we-fear-we-invite",
+    "youll-never-get-the-confirmation-from-others",
     "doug-hug-the-demon-financial-safety",
     "joes-pleasing-dad-money-story",
     "money-domain"
@@ -404,6 +409,7 @@
     "i-exist-affirmation-against-collapse",
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
+    "turn-the-love-on-yourself-what-did-you-do",
     "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
     "ali-abdaal-coaching-session",
@@ -539,6 +545,7 @@
     "attunement-strategy-becomes-the-adult-relational-pattern",
     "cant-fix-without-being-with",
     "conflict-avoidance-prevents-healing",
+    "doing-things-for-love-is-prostitution",
     "dont-take-responsibility-for-anothers-happiness",
     "everything-i-touch-fails-drives-fixing",
     "exhaustion-is-unexpressed-anger",
@@ -552,6 +559,7 @@
     "resentment-as-unspoken-want",
     "self-abandonment-to-manage-the-other",
     "stay-centered-while-holding-space",
+    "two-friends-judgment-experiment",
     "joes-daughter-resentment-with-her-grieving-friend"
   ],
   "caring-vs-caretaking": [
@@ -746,6 +754,7 @@
     "teach-teenagers-to-be-their-own-authority",
     "the-work-is-yours-not-mine",
     "trying-to-be-right-is-the-voice",
+    "value-is-intrinsic-not-earned",
     "wanting-got-wired-to-unlovability",
     "chase-your-own-approval",
     "dont-improve-for-two-weeks",
@@ -950,6 +959,7 @@
     "wants-vs-partiality",
     "address-the-blocker-not-the-symptom",
     "avoid-the-decision-by-design",
+    "awareness-of-pain-stops-the-behavior",
     "caretaking-prevents-the-bottom",
     "dont-shame-kids-they-self-shame",
     "embracing-changes-unconscious-decisions",
@@ -1050,7 +1060,9 @@
   ],
   "celebrate-failures-publicly": [
     "goals-make-me-miserable",
-    "goals-reveal-your-relationship-to-yourself"
+    "goals-reveal-your-relationship-to-yourself",
+    "mistakes-on-stage-are-gifts",
+    "nervous-system-prep-before-high-stakes"
   ],
   "i-need-a-scorecard": [
     "goals-make-me-miserable",
@@ -1109,6 +1121,7 @@
     "obligation-cuts-off-love",
     "purposelessness-is-freedom",
     "shame-drives-behavior",
+    "value-is-intrinsic-not-earned",
     "wants-over-shoulds",
     "dont-improve-for-two-weeks",
     "joes-stinky-house-experiment"
@@ -1577,7 +1590,8 @@
   ],
   "money-as-surrogate|surrogate": [
     "how-do-i-create-wealth-and-financial-stability",
-    "i-need-a-scorecard"
+    "i-need-a-scorecard",
+    "do-self-love-before-pursuing-the-thing"
   ],
   "should-vs-want-body-check": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -1665,6 +1679,38 @@
     "am-i-a-fake-coaching-session",
     "comedian-to-coach-money-shame-session"
   ],
+  "money-as-surrogate|confirmation-from-others surrogate": [
+    "how-do-i-create-wealth-and-financial-stability"
+  ],
+  "iteratively-replace-the-word-in-the-question": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "every-question-becomes-whats-wrong-with-me",
+    "money-as-surrogate",
+    "do-self-love-before-pursuing-the-thing",
+    "youll-never-get-the-confirmation-from-others"
+  ],
+  "youll-never-get-the-confirmation-from-others": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-have-to-X-to-be-free",
+    "every-question-becomes-whats-wrong-with-me",
+    "money-as-surrogate",
+    "find-one-thing-to-confirm-about-yourself",
+    "iteratively-replace-the-word-in-the-question",
+    "do-self-love-before-pursuing-the-thing",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval"
+  ],
+  "do-self-love-before-pursuing-the-thing": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-have-to-X-to-be-free",
+    "money-as-surrogate",
+    "find-one-thing-to-confirm-about-yourself",
+    "menu-of-responses-to-the-self-critical-voice"
+  ],
+  "every-question-becomes-whats-wrong-with-me|deficiency lens": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "find-one-thing-to-confirm-about-yourself"
+  ],
   "surface-the-rejection-then-demand-its-evidence": [
     "how-do-i-create-wealth-and-financial-stability",
     "money-is-bad",
@@ -1725,6 +1771,60 @@
     "money-is-impersonal",
     "surface-the-rejection-then-demand-its-evidence",
     "trace-emotion-to-its-first-felt"
+  ],
+  "every-question-becomes-whats-wrong-with-me": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-have-to-X-to-be-free",
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "find-one-thing-to-confirm-about-yourself",
+    "menu-of-responses-to-the-self-critical-voice"
+  ],
+  "iteratively-replace-the-word-in-the-question|word-substitution chain": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "money-as-surrogate"
+  ],
+  "find-one-thing-to-confirm-about-yourself": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "every-question-becomes-whats-wrong-with-me",
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "youll-never-get-the-confirmation-from-others",
+    "chase-your-own-approval"
+  ],
+  "catch-the-tiny-self-doubt-inside-the-answer": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "every-question-becomes-whats-wrong-with-me",
+    "find-one-thing-to-confirm-about-yourself",
+    "say-ouch-to-the-inner-critic"
+  ],
+  "menu-of-responses-to-the-self-critical-voice": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "my-inner-critic-wont-stop",
+    "every-question-becomes-whats-wrong-with-me",
+    "money-as-surrogate",
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "find-one-thing-to-confirm-about-yourself",
+    "do-self-love-before-pursuing-the-thing",
+    "say-ouch-to-the-inner-critic"
+  ],
+  "nothing-is-required-for-freedom": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-have-to-X-to-be-free",
+    "if-i-had-more-money",
+    "nostalgic-claw-for-old-identity",
+    "what-do-you-think-you-need-to-be-free",
+    "joy-of-accomplishment-is-the-absence-of-wants",
+    "no-finish-line",
+    "caregiving-softens-the-self",
+    "same-scarcity-story-regardless-of-wealth",
+    "external-freedom-vs-internal-freedom",
+    "do-self-love-before-pursuing-the-thing",
+    "end-of-the-fight-is-the-freedom",
+    "freedom-is-not-absence-of-consequences",
+    "purposelessness-is-freedom",
+    "what-we-fear-we-invite",
+    "where-you-are-is-the-lesson",
+    "mandela-empowerment",
+    "mandela-prison-freedom"
   ],
   "when-experiments-become-management": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -1876,6 +1976,7 @@
     "presence-in-the-body-while-working",
     "shame-is-anger-turned-inward",
     "the-head-cant-know-who-you-are",
+    "feeling-not-feeling-toggle",
     "toggle-between-opposite-emotions-then-hold-both",
     "four-tactical-ways-to-feel-your-emotions",
     "mangy-cat-eating-from-the-hand"
@@ -1937,7 +2038,8 @@
   ],
   "ask-for-the-scariest-question": [
     "how-do-i-love-myself-and-express-my-emotions",
-    "how-is-the-answer-going-to-help-you"
+    "how-is-the-answer-going-to-help-you",
+    "whats-the-question"
   ],
   "point-at-the-present-evidence": [
     "how-do-i-love-myself-and-express-my-emotions",
@@ -2114,6 +2216,7 @@
     "non-personal-with-body-in-vs-out",
     "pushing-yourself-produces-the-doing-wrong",
     "the-head-cant-know-who-you-are",
+    "turn-the-love-on-yourself-what-did-you-do",
     "mangy-cat-eating-from-the-hand",
     "stone-face-baby-experiment"
   ],
@@ -2201,7 +2304,8 @@
   "what-would-make-it-that-you-dont-deserve-this": [
     "how-do-i-love-myself",
     "whats-the-need-that-wouldnt-get-met",
-    "welcome-yourself-in-the-conversation"
+    "welcome-yourself-in-the-conversation",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "how-do-i-stop-seeking-approval": [
     "how-do-i-love-myself",
@@ -2212,6 +2316,7 @@
     "contorting-into-someone-elses-framework",
     "cutting-off-your-own-authenticity-in-real-time",
     "deflecting-by-pivoting-to-helping-others",
+    "every-question-becomes-whats-wrong-with-me",
     "pucker-before-truth",
     "purpose-as-approval-seeking-in-disguise",
     "the-good-alone-false-humility-with-others-read",
@@ -2226,15 +2331,23 @@
     "transfer-the-receiving-from-them-to-yourself",
     "why-dont-you-just-love-yourself-as-you-are-right-now",
     "purpose-is-acknowledgement-not-approval",
+    "doing-things-for-love-is-prostitution",
     "doubt-requires-closed-heart",
     "overachieving-is-survival-mode",
+    "reputation-control-is-unwinnable",
     "seeking-approval-pushes-people-away",
     "simultaneous-reception-is-uncontrollable",
     "speaking-truth-cures-approval-seeking",
     "the-importance-itself-is-the-selfishness",
+    "value-is-intrinsic-not-earned",
     "you-cannot-make-people-happy",
+    "youll-never-get-the-confirmation-from-others",
     "chase-your-own-approval",
-    "speak-truth-twice-a-day"
+    "defend-vs-open-to-all-past-judgments",
+    "speak-truth-twice-a-day",
+    "turn-the-love-on-yourself-what-did-you-do",
+    "two-friends-judgment-experiment",
+    "job-interview-3d-chess"
   ],
   "my-inner-critic-wont-stop": [
     "how-do-i-love-myself",
@@ -2255,6 +2368,7 @@
     "acceptance-without-love",
     "chin-up-as-emotion-block",
     "composing-in-the-session-itself",
+    "every-question-becomes-whats-wrong-with-me",
     "insight-converted-to-task-in-real-time",
     "intellectual-process-with-no-somatic-component",
     "intellectual-question-with-emotional-body",
@@ -2699,7 +2813,9 @@
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love",
     "compassion-as-of-the-guts",
+    "defend-vs-open-to-all-past-judgments",
     "love-yourself-the-way-you-always-wanted",
+    "two-friends-judgment-experiment",
     "visualizing-feared-outcomes",
     "esme-heartbreak-feels-good",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
@@ -2821,6 +2937,7 @@
     "am-i-doing-it-right",
     "closing-eyes-at-the-start",
     "defensive-scanning-for-the-feared-threat",
+    "every-question-becomes-whats-wrong-with-me",
     "intellectual-question-with-emotional-body",
     "pucker-before-truth",
     "scorecard-keeping-as-identity-structure",
@@ -2897,10 +3014,12 @@
     "im-afraid-ill-revert-to-my-old-pattern",
     "im-burned-out",
     "whats-the-emotion-youre-trying-to-avoid",
+    "whats-the-game",
     "burnout-cycle",
     "overachieving-is-survival-mode",
     "putting-someone-above-blocks-emotion",
     "seeking-approval-pushes-people-away",
+    "you-cant-win-the-see-me-wont-be-seen-game",
     "chase-your-own-approval"
   ],
   "seeking-approval-pushes-people-away": [
@@ -2910,11 +3029,15 @@
     "let-it-move-through-and-clean-the-channel",
     "purpose-is-acknowledgement-not-approval",
     "do-it-for-yourself-to-find-purpose",
+    "do-self-love-before-pursuing-the-thing",
     "putting-someone-above-blocks-emotion",
+    "value-is-intrinsic-not-earned",
     "world-reorganizes-around-self-possession",
+    "youll-never-get-the-confirmation-from-others",
     "chase-your-own-approval",
     "eating-but-not-digesting-the-food",
-    "the-cake-metaphor-for-deflected-compliments"
+    "the-cake-metaphor-for-deflected-compliments",
+    "corporate-stack-of-mutual-misreading"
   ],
   "putting-someone-above-blocks-emotion": [
     "how-do-i-stop-seeking-approval",
@@ -2935,6 +3058,7 @@
     "dont-call-them-a-liar-with-deflection",
     "pointers-to-unseen-parts",
     "do-the-deflection-back-to-show-them-how-they-do-it",
+    "give-the-thing-the-game-is-trying-to-win",
     "have-them-receive-your-listening",
     "let-it-move-through-and-clean-the-channel",
     "live-naming-the-physical-constriction-of-non-reception",
@@ -2971,6 +3095,7 @@
     "apologize-to-yourself-for-holding-back-from-feeling",
     "count-the-years-of-showing-up",
     "do-the-deflection-back-to-show-them-how-they-do-it",
+    "give-the-thing-the-game-is-trying-to-win",
     "live-naming-the-physical-constriction-of-non-reception",
     "look-around-the-room-can-you-see-anyone-not-here-for-you",
     "name-the-deflection-as-its-happening",
@@ -2978,6 +3103,7 @@
     "redirect-from-being-seen-by-them-to-seeing-yourself",
     "reflect-effort-back-as-the-compliment",
     "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
+    "run-the-compliment-deconstruction-protocol",
     "transfer-the-receiving-from-them-to-yourself",
     "use-recent-deflection-to-test-receiving-live",
     "use-the-live-group-as-love-field",
@@ -3052,36 +3178,51 @@
     "how-do-i-stop-seeking-approval",
     "i-cant-receive-compliments-or-love-from-my-spouse",
     "i-feel-misvalued-as-an-overachiever",
+    "in-the-story-im-not-being-seen",
     "the-avoidant-partner-who-cant-receive",
     "two-forms-of-ego-good-and-bad",
     "do-the-deflection-back-to-show-them-how-they-do-it",
+    "give-the-thing-the-game-is-trying-to-win",
     "let-it-move-through-and-clean-the-channel",
     "name-the-deflection-as-its-happening",
+    "run-the-compliment-deconstruction-protocol",
     "use-recent-deflection-to-test-receiving-live",
+    "caring-what-others-think-is-the-burnout-engine",
     "love-causes-annihilation",
     "seeking-approval-pushes-people-away",
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment",
     "what-you-see-in-the-other-with-love-is-in-you",
+    "you-cant-win-the-see-me-wont-be-seen-game",
     "thank-your-partner-for-anything-mutual-benefit",
     "eating-but-not-digesting-the-food",
     "the-cake-metaphor-for-deflected-compliments"
   ],
   "chase-your-own-approval": [
     "how-do-i-stop-seeking-approval",
+    "every-question-becomes-whats-wrong-with-me",
     "look-for-friction-not-the-answer",
     "dont-call-them-a-liar-with-deflection",
+    "money-as-surrogate",
+    "find-one-thing-to-confirm-about-yourself",
+    "iteratively-replace-the-word-in-the-question",
     "let-it-move-through-and-clean-the-channel",
     "look-me-in-the-eye-and-name-the-controlling-wish",
     "purpose-is-acknowledgement-not-approval",
     "do-it-for-yourself-to-find-purpose",
+    "do-self-love-before-pursuing-the-thing",
     "putting-someone-above-blocks-emotion",
+    "reputation-control-is-unwinnable",
     "seeking-approval-pushes-people-away",
     "speaking-truth-cures-approval-seeking",
     "the-importance-itself-is-the-selfishness",
+    "value-is-intrinsic-not-earned",
     "you-cannot-make-people-happy",
+    "youll-never-get-the-confirmation-from-others",
     "speak-truth-twice-a-day",
+    "turn-the-love-on-yourself-what-did-you-do",
     "eating-but-not-digesting-the-food",
-    "joes-daughter-speaks-her-truth"
+    "joes-daughter-speaks-her-truth",
+    "corporate-stack-of-mutual-misreading"
   ],
   "two-person-gratitude-practice": [
     "how-do-i-stop-seeking-approval",
@@ -3098,16 +3239,22 @@
     "what-did-i-do-wrong-response-to-aggression",
     "pucker-and-still-say-it",
     "intuition-vs-conditioning",
+    "doing-things-for-love-is-prostitution",
     "doubt-requires-closed-heart",
     "holding-back-truth-is-self-harm",
+    "reputation-control-is-unwinnable",
     "simultaneous-reception-is-uncontrollable",
     "the-importance-itself-is-the-selfishness",
     "world-reorganizes-around-self-possession",
     "you-cannot-make-people-happy",
     "you-were-taught-to-be-your-own-oppressor",
+    "youll-never-get-the-confirmation-from-others",
     "chase-your-own-approval",
     "speak-truth-twice-a-day",
-    "joes-daughter-speaks-her-truth"
+    "two-friends-judgment-experiment",
+    "job-interview-3d-chess",
+    "joes-daughter-speaks-her-truth",
+    "corporate-stack-of-mutual-misreading"
   ],
   "speak-truth-twice-a-day": [
     "how-do-i-stop-seeking-approval",
@@ -3119,10 +3266,14 @@
     "three-blocks-to-speaking-truth",
     "be-yourself-despite-consequences-undoes-stuckness",
     "holding-back-truth-is-self-harm",
+    "reputation-control-is-unwinnable",
     "speaking-truth-cures-approval-seeking",
     "world-reorganizes-around-self-possession",
     "you-were-taught-to-be-your-own-oppressor",
-    "chase-your-own-approval"
+    "chase-your-own-approval",
+    "defend-vs-open-to-all-past-judgments",
+    "two-friends-judgment-experiment",
+    "corporate-stack-of-mutual-misreading"
   ],
   "im-afraid-of-offending-people": [
     "how-do-i-stop-seeking-approval",
@@ -3166,6 +3317,7 @@
     "performance-vs-play",
     "caring-what-others-think-is-the-burnout-engine",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
+    "doing-things-for-love-is-prostitution",
     "energy-management-over-time-management",
     "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
@@ -3189,6 +3341,7 @@
     "turn-their-coaching-back-on-them",
     "shame-dissipates-in-the-question-itself",
     "wanting-got-wired-to-unlovability",
+    "defend-vs-open-to-all-past-judgments",
     "am-i-a-fake-coaching-session",
     "comedian-to-coach-money-shame-session",
     "public-speaking-coach-money-session"
@@ -3209,7 +3362,8 @@
     "look-me-in-the-eye-and-name-the-controlling-wish",
     "acknowledging-death-compresses-life",
     "the-importance-itself-is-the-selfishness",
-    "you-cannot-make-people-happy"
+    "you-cannot-make-people-happy",
+    "youll-never-get-the-confirmation-from-others"
   ],
   "acknowledging-death-compresses-life": [
     "how-do-i-stop-seeking-approval",
@@ -3221,6 +3375,7 @@
     "functional-denial-vs-dysfunctional-denial",
     "death-is-not-the-end-of-the-relationship",
     "defending-the-ideal-blocks-the-relating",
+    "reputation-control-is-unwinnable",
     "the-importance-itself-is-the-selfishness",
     "say-goodbye-like-its-the-last-time",
     "bretts-brother-scott",
@@ -3260,7 +3415,8 @@
     "alzheimer-village-fame-metaphor",
     "baboon-leadership-study",
     "joe-and-adyashanti-rebellion",
-    "sarah-i-love-your-frustration"
+    "sarah-i-love-your-frustration",
+    "corporate-stack-of-mutual-misreading"
   ],
   "the-four-authority-positions": [
     "how-do-i-stop-seeking-approval",
@@ -3285,6 +3441,7 @@
     "baboon-leadership-study",
     "joe-and-adyashanti-rebellion",
     "sarah-i-love-your-frustration",
+    "corporate-stack-of-mutual-misreading",
     "structure-and-empowerment",
     "welcoming-fear-in-leadership"
   ],
@@ -3357,7 +3514,49 @@
     "dont-confuse-the-metric-with-the-goal",
     "doubt-requires-closed-heart",
     "simultaneous-reception-is-uncontrollable",
-    "world-reorganizes-around-self-possession"
+    "world-reorganizes-around-self-possession",
+    "youll-never-get-the-confirmation-from-others",
+    "job-interview-3d-chess"
+  ],
+  "value-is-intrinsic-not-earned": [
+    "how-do-i-stop-seeking-approval",
+    "im-so-stressed-out",
+    "doing-things-for-love-is-prostitution",
+    "inherent-goodness",
+    "reputation-control-is-unwinnable",
+    "defend-vs-open-to-all-past-judgments",
+    "turn-the-love-on-yourself-what-did-you-do",
+    "two-friends-judgment-experiment",
+    "job-interview-3d-chess",
+    "corporate-stack-of-mutual-misreading"
+  ],
+  "doing-things-for-love-is-prostitution": [
+    "how-do-i-stop-seeking-approval",
+    "im-so-stressed-out",
+    "inherent-goodness",
+    "reputation-control-is-unwinnable",
+    "value-is-intrinsic-not-earned",
+    "turn-the-love-on-yourself-what-did-you-do",
+    "two-friends-judgment-experiment",
+    "job-interview-3d-chess",
+    "corporate-stack-of-mutual-misreading"
+  ],
+  "turn-the-love-on-yourself-what-did-you-do": [
+    "how-do-i-stop-seeking-approval",
+    "im-so-stressed-out",
+    "doing-things-for-love-is-prostitution",
+    "inherent-goodness",
+    "value-is-intrinsic-not-earned"
+  ],
+  "reputation-control-is-unwinnable": [
+    "how-do-i-stop-seeking-approval",
+    "im-so-stressed-out",
+    "doing-things-for-love-is-prostitution",
+    "value-is-intrinsic-not-earned",
+    "defend-vs-open-to-all-past-judgments",
+    "two-friends-judgment-experiment",
+    "job-interview-3d-chess",
+    "corporate-stack-of-mutual-misreading"
   ],
   "i-cant-be-disciplined": [
     "how-do-i-stop-watching-porn-and-procrastinating",
@@ -3374,6 +3573,7 @@
     "avoid-the-decision-by-design",
     "find-a-healthy-replacement",
     "shame-drives-behavior",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "sit-with-the-aftermath",
     "write-50-experiments-before-starting"
   ],
@@ -3417,7 +3617,8 @@
     "i-want-to-be-authentic-on-stage",
     "coming-alive-then-collapsing-back",
     "dont-suppress-emotion-to-perform",
-    "bring-the-presenting-problem-into-the-room-now"
+    "bring-the-presenting-problem-into-the-room-now",
+    "put-attention-on-someone-else-on-stage"
   ],
   "manufacturing-the-feeling": [
     "how-do-i-stop-watching-porn-and-procrastinating",
@@ -3453,6 +3654,7 @@
     "unwelcomed-emotions-return-until-felt",
     "actor-giving-most-convincing-performance",
     "enjoy-this-just-a-little-bit-more",
+    "feeling-not-feeling-toggle",
     "hold-the-memory-of-when-you-felt-it-most",
     "how-to-release-anger-out-loud",
     "toggle-between-opposite-emotions-then-hold-both"
@@ -4245,6 +4447,7 @@
   "toggle-between-opposite-emotions-then-hold-both": [
     "i-cant-feel-my-emotions",
     "feel-the-shame-then-feel-the-opposite",
+    "feeling-not-feeling-toggle",
     "hold-stress-tightly-vs-gently-experiment",
     "hold-the-memory-of-when-you-felt-it-most"
   ],
@@ -4381,7 +4584,8 @@
     "there-is-no-the-one",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
     "from-looking-for-love-to-being-love",
-    "what-was-wired-with-love-needs-untying"
+    "what-was-wired-with-love-needs-untying",
+    "joes-abandonment-mapping"
   ],
   "craving-is-the-pushing-away": [
     "i-cant-find-love",
@@ -4543,7 +4747,9 @@
     "self-blame-as-tether-to-the-lost",
     "how-is-it-not-your-fault-that-its-always-your-fault",
     "what-would-be-left-to-do",
+    "whats-the-game",
     "mirror-the-clients-own-framework-back",
+    "prove-to-me-youre-not-enough",
     "surrender-your-way-out-not-think-your-way-out",
     "tell-it-to-god",
     "the-forgive-this-or-stop-blaming-everything-choice",
@@ -4572,6 +4778,7 @@
     "conditional-clauses-of-heart-closure",
     "fear-of-losing-yourself-in-love",
     "love-as-deep-welcoming",
+    "trauma-mapping",
     "complementary-trauma-surfaces",
     "push-pull-dynamics-in-dating",
     "losing-self-in-love-two-forms",
@@ -4634,6 +4841,7 @@
     "fear-of-losing-yourself-in-love",
     "functional-vs-dysfunctional-relationship-configuration",
     "cant-chase-someone-into-loving-you",
+    "doing-things-for-love-is-prostitution",
     "loss-of-control-and-loss-of-self-are-the-same",
     "searching-for-love-cuts-off-love",
     "searching-for-purpose-pushes-it-away",
@@ -5003,6 +5211,7 @@
     "im-not-living-up-to-my-potential",
     "whats-next-after-i-reached-my-big-goal",
     "any-amount-answer-as-total-installation",
+    "every-question-becomes-whats-wrong-with-me",
     "insight-converted-to-task-in-real-time",
     "scorecard-keeping-as-identity-structure",
     "what-do-you-think-you-need-to-be-free",
@@ -5134,6 +5343,7 @@
     "feel-the-shame-then-feel-the-opposite",
     "open-the-heart-to-the-doubt",
     "management-is-for-shame-love-needs-no-management",
+    "turn-the-love-on-yourself-what-did-you-do",
     "breakup-self-blame-session"
   ],
   "stronger-story-stuckier-emotion": [
@@ -5352,8 +5562,10 @@
     "shame-drives-behavior",
     "teach-teenagers-to-be-their-own-authority",
     "understand-yourself-like-you-understand-a-computer",
+    "value-is-intrinsic-not-earned",
     "wants-over-shoulds",
     "three-month-inherent-goodness-experiment",
+    "turn-the-love-on-yourself-what-did-you-do",
     "seven-limiting-beliefs",
     "team-as-scientific-method",
     "hand-in-hand-parenting",
@@ -5377,7 +5589,9 @@
     "i-cant-receive-compliments-or-love-from-my-spouse",
     "the-avoidant-partner-who-cant-receive",
     "dont-call-them-a-liar-with-deflection",
-    "do-the-deflection-back-to-show-them-how-they-do-it"
+    "do-the-deflection-back-to-show-them-how-they-do-it",
+    "give-the-thing-the-game-is-trying-to-win",
+    "run-the-compliment-deconstruction-protocol"
   ],
   "apologize-to-partner-without-shame-for-the-distance-pattern": [
     "i-cant-receive-compliments-or-love-from-my-spouse",
@@ -6082,6 +6296,7 @@
     "invigorated-vs-depleted-as-functionality-measure",
     "overwhelm-reduces-productivity",
     "enjoy-this-just-a-little-bit-more",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "three-stages-of-negotiation",
     "butchers-blade",
     "buurtzorg-nursing",
@@ -6280,6 +6495,7 @@
     "feared-consequences-rarely-happen",
     "hold-back-from-relationship-is-what-needs-healing",
     "holding-back-truth-is-self-harm",
+    "mistakes-on-stage-are-gifts",
     "public-failure-as-leadership-modeling",
     "see-them-be-seen-find-alignment-instead-of-control",
     "seeing-through-projections-expands-possibility",
@@ -6473,6 +6689,7 @@
     "live-naming-the-physical-constriction-of-non-reception",
     "look-around-the-room-can-you-see-anyone-not-here-for-you",
     "redirect-from-being-seen-by-them-to-seeing-yourself",
+    "doing-things-for-love-is-prostitution",
     "locked-down-sensitivity-is-the-gift",
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment"
   ],
@@ -6578,6 +6795,7 @@
     "pleasure-capacity",
     "name-the-gap-between-felt-story-and-lived-evidence",
     "paradoxical-instruction-to-resist",
+    "doing-things-for-love-is-prostitution",
     "identity-shapes-who-is-around-you",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
@@ -6935,11 +7153,13 @@
     "shame-blocks-connection-in-real-time",
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
+    "whats-the-game",
     "being-heard",
     "false-front",
     "the-desire-to-be-seen",
     "two-levels-of-hurt-in-being-misunderstood",
     "calibrate-the-threshold",
+    "give-the-thing-the-game-is-trying-to-win",
     "mirror-the-judgment",
     "say-of-course-i-just-want-to-be-seen-here",
     "say-the-forbidden-want-out-loud",
@@ -7019,20 +7239,24 @@
     "body-cues-of-shame-about-being-seen",
     "deflecting-by-pivoting-to-helping-others",
     "in-the-story-im-not-being-seen",
+    "whats-the-game",
     "being-heard",
     "false-front",
     "pointers-to-unseen-parts",
     "we-make-it-hard-to-be-seen-when-in-our-trauma",
+    "give-the-thing-the-game-is-trying-to-win",
     "i-dont-need-to-be-seen-right-now",
     "i-love-your-frustration",
     "make-everyone-feel-seen-when-things-go-wrong",
     "say-of-course-i-just-want-to-be-seen-here",
     "wanting-from-lack-vs-wanting-from-wholeness",
+    "caring-what-others-think-is-the-burnout-engine",
     "dont-find-the-truth-find-their-truth",
     "if-im-not-feeling-seen-im-also-not-seeing",
     "love-causes-annihilation",
     "overachieving-is-survival-mode",
     "two-layers-of-shame-about-being-seen",
+    "you-cant-win-the-see-me-wont-be-seen-game",
     "see-yourself-and-acknowledge-others"
   ],
   "false-front": [
@@ -7145,8 +7369,12 @@
     "whats-the-real-question",
     "dont-suppress-emotion-to-perform",
     "connection",
+    "stage-fright-as-fuel-cell",
     "bring-the-presenting-problem-into-the-room-now",
-    "love-the-thing-you-fear-cures-the-phobia"
+    "put-attention-on-someone-else-on-stage",
+    "love-the-thing-you-fear-cures-the-phobia",
+    "mistakes-on-stage-are-gifts",
+    "nervous-system-prep-before-high-stakes"
   ],
   "im-not-comfortable-sharing-my-story": [
     "i-get-anxious-in-relationships",
@@ -7324,6 +7552,7 @@
   ],
   "fear-vs-excitement": [
     "i-have-imposter-syndrome",
+    "i-want-to-be-authentic-on-stage",
     "whats-the-difference-between-overcoming-and-feeling-fear",
     "who-isnt-an-imposter",
     "dont-step-on-the-signal",
@@ -7332,6 +7561,7 @@
     "fear-of-success-as-projected-failure",
     "kinked-emotions",
     "resistance",
+    "stage-fright-as-fuel-cell",
     "two-words-for-fear",
     "vulnerability",
     "wisdom-of-each-emotion",
@@ -7343,6 +7573,7 @@
     "fear-is-misuse-of-imagination",
     "only-your-own-judgment-matters",
     "resisted-vs-unresisted-everything-shows-up-different",
+    "nervous-system-prep-before-high-stakes",
     "say-im-excited-ten-times",
     "visualize-the-felt-aftermath",
     "aaron-wife-fumble-coaching",
@@ -7360,11 +7591,18 @@
   ],
   "say-im-excited-ten-times": [
     "i-have-imposter-syndrome",
+    "i-want-to-be-authentic-on-stage",
     "who-isnt-an-imposter",
     "expert-is-imposter-with-most-reps",
+    "stage-fright-as-fuel-cell",
+    "put-attention-on-someone-else-on-stage",
+    "run-the-compliment-deconstruction-protocol",
     "fear-vs-excitement",
+    "mistakes-on-stage-are-gifts",
     "only-your-own-judgment-matters",
-    "list-people-you-admire-and-their-mistakes"
+    "you-cant-win-the-see-me-wont-be-seen-game",
+    "list-people-you-admire-and-their-mistakes",
+    "nervous-system-prep-before-high-stakes"
   ],
   "self-judgment-protects-from-emotion": [
     "i-have-imposter-syndrome",
@@ -7412,24 +7650,6 @@
     "caretaking-prevents-the-bottom",
     "freedom-is-not-absence-of-consequences",
     "nothing-is-required-for-freedom",
-    "mandela-prison-freedom"
-  ],
-  "nothing-is-required-for-freedom": [
-    "i-have-to-X-to-be-free",
-    "if-i-had-more-money",
-    "nostalgic-claw-for-old-identity",
-    "what-do-you-think-you-need-to-be-free",
-    "joy-of-accomplishment-is-the-absence-of-wants",
-    "no-finish-line",
-    "caregiving-softens-the-self",
-    "same-scarcity-story-regardless-of-wealth",
-    "external-freedom-vs-internal-freedom",
-    "end-of-the-fight-is-the-freedom",
-    "freedom-is-not-absence-of-consequences",
-    "purposelessness-is-freedom",
-    "what-we-fear-we-invite",
-    "where-you-are-is-the-lesson",
-    "mandela-empowerment",
     "mandela-prison-freedom"
   ],
   "improvement-vs-authenticity": [
@@ -7662,6 +7882,7 @@
   ],
   "joes-abandonment-mapping": [
     "i-have-to-do-it-all-myself",
+    "i-keep-chasing-emotionally-unavailable-people",
     "self-reliance-emotional-signature",
     "engineering-heartbreak-to-avoid-heartbreak",
     "feeling-the-unfelt-emotion",
@@ -7889,7 +8110,8 @@
     "subway-kid",
     "walmart-environmental-profitability",
     "authenticity-in-business",
-    "business-as-spiritual-practice"
+    "business-as-spiritual-practice",
+    "corporate-stack-of-mutual-misreading"
   ],
   "seven-limiting-beliefs": [
     "i-have-to-sacrifice-to-succeed",
@@ -8213,6 +8435,7 @@
     "suffering-vs-pain",
     "welcoming-vs-acceptance",
     "approach-the-pink-elephant",
+    "awareness-of-pain-stops-the-behavior",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "cant-rebuild-trust-without-grieving-the-loss",
     "choosing-the-projection-that-serves",
@@ -8278,6 +8501,7 @@
     "enjoy-your-breath-for-five-minutes",
     "fake-the-anger-to-let-it-move",
     "feel-the-pain-of-not-being-loved",
+    "feeling-not-feeling-toggle",
     "feeling-the-want-as-emotion",
     "find-the-comparable",
     "four-hour-emotional-repression-experiment",
@@ -8737,6 +8961,7 @@
     "optimize-for-downtime-not-productivity",
     "reflection-is-release-resting-is-nothing",
     "close-the-loop-between-work-blocks",
+    "nervous-system-prep-before-high-stakes",
     "nervous-system-support-during-intense-inquiry",
     "biathlon-athlete-7-hours-tv",
     "sleep-not-the-marriage-story"
@@ -9246,6 +9471,7 @@
     "teach-from-pleasure-not-mission",
     "wants-over-shoulds",
     "enjoy-this-just-a-little-bit-more",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "five-principles-of-the-path",
     "four-faces-of-love",
     "joes-rental-house-anger",
@@ -9258,7 +9484,8 @@
     "pulling-the-brakes",
     "apply-enjoy-to-whats-here",
     "redirect-from-doing-it-right-to-enjoying-it",
-    "enjoyment-as-path"
+    "enjoyment-as-path",
+    "fifteen-fun-iterations-on-the-stuck-goal"
   ],
   "whats-stopping-you-from-enjoying-x": [
     "i-keep-postponing-enjoyment",
@@ -9486,6 +9713,7 @@
   "why-questions": [
     "i-keep-running-into-the-same-wall",
     "closing-eyes-at-the-start",
+    "whats-the-question",
     "the-first-minute-tells-you-everything",
     "how-what-questions",
     "view"
@@ -9558,6 +9786,7 @@
     "abandoning-self-while-speaking",
     "cutting-off-your-own-authenticity-in-real-time",
     "what-were-your-parents-scared-of",
+    "whats-the-question",
     "listening",
     "venting-friend-pattern"
   ],
@@ -9645,6 +9874,7 @@
     "money-as-paint",
     "say-no-to-find-the-want",
     "i-get-to-vs-i-have-to",
+    "doing-things-for-love-is-prostitution",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "management-is-for-shame-love-needs-no-management",
     "obligation-cuts-off-love",
@@ -9797,6 +10027,7 @@
     "treating-it-as-a-decision-when-its-an-emotion",
     "whats-the-scorecard-that-cant-be-taken-away",
     "challenge-the-premise-in-the-framing",
+    "iteratively-replace-the-word-in-the-question",
     "reframe-from-whether-to-how",
     "reframe-the-question-to-the-blocker-emotion"
   ],
@@ -10145,6 +10376,7 @@
     "wants-over-shoulds",
     "chase-your-own-approval",
     "enjoy-this-just-a-little-bit-more",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "need-behind-the-want",
     "rapid-fire-coaching-impulse-check",
     "should-vs-want-body-check",
@@ -10217,6 +10449,7 @@
     "emotional-fluidity",
     "fear-in-body-vs-fear-in-head",
     "identity-extension-expands-fear",
+    "stage-fright-as-fuel-cell",
     "two-words-for-fear",
     "welcoming-fear-as-group-stabilizer",
     "wisdom-of-each-emotion",
@@ -10247,7 +10480,9 @@
     "i-want-to-be-authentic-on-stage",
     "cutting-off-your-own-authenticity-in-real-time",
     "emotional-leak-mistaken-for-emotional-excess",
-    "live-group-consent-as-reality-check"
+    "live-group-consent-as-reality-check",
+    "put-attention-on-someone-else-on-stage",
+    "mistakes-on-stage-are-gifts"
   ],
   "scale-the-feeling-1-to-100-with-anchors": [
     "i-want-to-be-authentic-on-stage",
@@ -10266,6 +10501,23 @@
     "fall-in-love-with-the-feared-state-by-modeling-it",
     "talk-to-your-parts-and-ask-for-trust"
   ],
+  "nervous-system-prep-before-high-stakes": [
+    "i-want-to-be-authentic-on-stage",
+    "stage-fright-as-fuel-cell",
+    "put-attention-on-someone-else-on-stage",
+    "mistakes-on-stage-are-gifts"
+  ],
+  "mistakes-on-stage-are-gifts": [
+    "i-want-to-be-authentic-on-stage",
+    "stage-fright-as-fuel-cell",
+    "put-attention-on-someone-else-on-stage",
+    "nervous-system-prep-before-high-stakes"
+  ],
+  "stage-fright-as-fuel-cell": [
+    "i-want-to-be-authentic-on-stage",
+    "mistakes-on-stage-are-gifts",
+    "nervous-system-prep-before-high-stakes"
+  ],
   "how-do-you-want-to-be-with-them": [
     "i-want-to-reconnect-with-estranged-parents-but-im-scared",
     "how-do-you-want-to-be"
@@ -10276,6 +10528,7 @@
     "coach-demonstrates-via-reversed-role-play",
     "come-to-me-without-contradiction",
     "welcome-the-hurt-the-way-you-wanted-as-a-kid",
+    "self-aggression-permits-others-aggression",
     "say-ouch-to-the-inner-critic"
   ],
   "love-the-emotion-and-be-boundaried-with-it": [
@@ -10384,11 +10637,13 @@
     "everything-is-already-an-experiment",
     "experiments-must-stay-in-window-of-tolerance",
     "first-experiments-should-contradict-assumptions",
+    "mistakes-on-stage-are-gifts",
     "mit-media-lab-principle",
     "one-experiment-at-a-time",
     "track-process-metrics-not-outcomes",
     "transformation-is-relating-differently-not-finding-the-answer",
     "celebrate-failures-publicly",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "relationship-experiments-list",
     "write-50-experiments-before-starting",
     "five-principles-of-the-path",
@@ -10492,6 +10747,7 @@
     "if-i-had-more-money",
     "money-is-bad",
     "what-makes-me-uniquely-me",
+    "every-question-becomes-whats-wrong-with-me",
     "feel-it-as-the-sun",
     "name-the-gap-between-felt-story-and-lived-evidence",
     "surface-the-rejection-then-demand-its-evidence",
@@ -10534,6 +10790,7 @@
     "failure-is-an-idea",
     "iterative-mindset",
     "performance-vs-play",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "relationship-experiments-list",
     "write-50-experiments-before-starting",
     "five-principles-of-the-path",
@@ -10559,6 +10816,7 @@
     "pollyanna-vs-reframing-failure",
     "attempt-over-success-in-parenting",
     "connection-over-perfection",
+    "mistakes-on-stage-are-gifts",
     "reward-failure-in-the-organization",
     "track-process-metrics-not-outcomes",
     "celebrate-failures-publicly",
@@ -10607,8 +10865,10 @@
     "voice-creates-what-it-fears",
     "daily-gratitude-for-your-own-transformation",
     "lawyer-the-voice",
+    "menu-of-responses-to-the-self-critical-voice",
     "say-ouch-to-the-inner-critic",
     "tell-yourself-you-love-yourself-in-a-mirror",
+    "joes-call-with-dad-about-criticism",
     "the-politician-and-the-acolytes"
   ],
   "agree-with-the-depression-dont-talk-them-out": [
@@ -10685,6 +10945,7 @@
     "you-dont-control-emotions-they-dont-control-you",
     "embodied-stages-of-grief-ritual",
     "emotional-inquiry",
+    "feeling-not-feeling-toggle",
     "inquiry-on-limiting-beliefs",
     "relationship-experiments-list",
     "write-50-experiments-before-starting",
@@ -10694,12 +10955,14 @@
   "write-50-experiments-before-starting": [
     "im-a-failure",
     "failure-is-an-idea",
+    "habenula",
     "iterative-mindset",
     "performance-vs-play",
     "belief-in-change-is-precondition",
     "mit-media-lab-principle",
     "one-experiment-at-a-time",
     "track-process-metrics-not-outcomes",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "relationship-experiments-list",
     "fred-relapse-recovery-as-failure",
     "hairdresser-1000-for-50-rejections",
@@ -10739,7 +11002,9 @@
     "open-the-heart-to-the-doubt",
     "everyone-doing-something-real-is-an-imposter",
     "only-your-own-judgment-matters",
-    "putting-someone-above-blocks-emotion"
+    "putting-someone-above-blocks-emotion",
+    "value-is-intrinsic-not-earned",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "show-me-the-bracing-and-show-me-the-opposite": [
     "im-afraid-i-wont-get-anything-done",
@@ -10776,7 +11041,9 @@
     "keep-asking-whats-the-problem-with-that",
     "notice-what-judgment-costs-you-and-what-you-actually-want",
     "the-arrogantly-humble-paradox",
-    "self-judgment-protects-from-emotion"
+    "self-judgment-protects-from-emotion",
+    "defend-vs-open-to-all-past-judgments",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "whats-the-emotion-youre-trying-to-avoid": [
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -10786,6 +11053,7 @@
     "what-am-i-not-feeling-right-now",
     "what-would-it-take-for-you-to-not-take-care-of-them",
     "whats-the-for-part",
+    "whats-the-game",
     "ask-the-body-the-question",
     "reframe-from-whether-to-how",
     "reframe-the-question-to-the-blocker-emotion",
@@ -10932,6 +11200,7 @@
     "caring-vs-caretaking",
     "humility-vs-disempowerment",
     "conflict-avoidance-prevents-healing",
+    "doing-things-for-love-is-prostitution",
     "hold-back-from-relationship-is-what-needs-healing",
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
     "say-it-twice-then-relationship-moves-or-ends",
@@ -11023,8 +11292,10 @@
   "adrenaline-discharge-via-fear-activity": [
     "im-burned-out",
     "burnout-cycle",
+    "stage-fright-as-fuel-cell",
     "stress-burnout-depression-progression",
     "use-your-strength-on-the-real-work",
+    "fear-vs-excitement",
     "potato-chipping-the-rigid-body-under-obligation"
   ],
   "treating-it-as-a-decision-when-its-an-emotion": [
@@ -11040,6 +11311,26 @@
     "reframe-the-question-to-the-blocker-emotion",
     "decisions-are-emotional",
     "do-i-stop-drinking-session"
+  ],
+  "whats-the-game": [
+    "im-burned-out",
+    "whats-the-question",
+    "give-the-thing-the-game-is-trying-to-win",
+    "you-cant-win-the-see-me-wont-be-seen-game"
+  ],
+  "give-the-thing-the-game-is-trying-to-win": [
+    "im-burned-out",
+    "you-cant-win-the-see-me-wont-be-seen-game"
+  ],
+  "you-cant-win-the-see-me-wont-be-seen-game": [
+    "im-burned-out",
+    "in-the-story-im-not-being-seen",
+    "whats-the-game",
+    "dont-call-them-a-liar-with-deflection",
+    "give-the-thing-the-game-is-trying-to-win",
+    "prove-to-me-youre-not-enough",
+    "run-the-compliment-deconstruction-protocol",
+    "caring-what-others-think-is-the-burnout-engine"
   ],
   "energy-management-over-time-management": [
     "im-burned-out",
@@ -11114,6 +11405,7 @@
     "skeptical-inquiry-vs-self-inquiry",
     "avoided-conflict-goes-internal",
     "awareness-as-change-agent",
+    "awareness-of-pain-stops-the-behavior",
     "inner-critic-prevents-rest-and-integration",
     "positivity-as-doubt",
     "see-whats-right-to-build-on-it",
@@ -11130,7 +11422,8 @@
     "questioning-assumptions",
     "tell-yourself-you-love-yourself-in-a-mirror",
     "whats-looking-out-behind-my-eyes",
-    "three-kinds-of-limiting-beliefs"
+    "three-kinds-of-limiting-beliefs",
+    "joes-call-with-dad-about-criticism"
   ],
   "three-forms-of-anger-repression": [
     "im-depressed",
@@ -11295,6 +11588,7 @@
     "five-triggers-projection-experiment",
     "love-the-aspect-through-someone-else",
     "love-yourself-the-way-you-always-wanted",
+    "menu-of-responses-to-the-self-critical-voice",
     "self-forgiveness-as-spoken-move",
     "talk-to-your-parts-and-ask-for-trust",
     "three-reflection-questions-on-anger",
@@ -11485,8 +11779,11 @@
     "defense-vs-love",
     "dehumanization-begins-with-right-and-wrong",
     "fear-is-about-feeling",
+    "reputation-control-is-unwinnable",
     "triggers-reveal-your-own-beliefs",
+    "defend-vs-open-to-all-past-judgments",
     "open-your-heart-while-judging-experiment",
+    "two-friends-judgment-experiment",
     "whats-the-scary-truth",
     "alex-bell-told-joe-he-lied",
     "joes-weeping-at-superficial-conversations"
@@ -11860,6 +12157,7 @@
     "my-inner-critic-wont-stop",
     "art-of-accomplishment",
     "identity",
+    "kinked-emotions",
     "stress-burnout-depression-progression",
     "voice-in-the-head",
     "investigate-the-actual-source-of-stress",
@@ -11875,6 +12173,7 @@
     "tension-and-release-cycle",
     "tension-is-part-of-pleasure",
     "treating-world-as-threat-reproduces-threat",
+    "feeling-not-feeling-toggle",
     "fifteen-unknowns-then-how-what-questions",
     "growth-stress-vs-corrosive-stress-memory-experiment",
     "hold-stress-tightly-vs-gently-experiment",
@@ -11935,6 +12234,7 @@
     "epiphany-becomes-rut",
     "nothing-is-wrong-with-it-its-just-painful",
     "over-regulating-nervous-system-creates-stress",
+    "reputation-control-is-unwinnable",
     "tension-and-release-cycle",
     "hold-stress-tightly-vs-gently-experiment",
     "who-am-i-right-now-experiment",
@@ -11959,9 +12259,17 @@
   "say-ouch-to-the-inner-critic": [
     "im-so-stressed-out",
     "my-inner-critic-wont-stop",
+    "every-question-becomes-whats-wrong-with-me",
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "find-one-thing-to-confirm-about-yourself",
     "investigate-the-actual-source-of-stress",
+    "awareness-as-change-agent",
+    "awareness-of-pain-stops-the-behavior",
+    "do-self-love-before-pursuing-the-thing",
     "inner-critic-prevents-rest-and-integration",
     "pleasure-tells-system-its-safe",
+    "youll-never-get-the-confirmation-from-others",
+    "menu-of-responses-to-the-self-critical-voice",
     "four-causes-of-stress"
   ],
   "pep-talk-cant-override-the-body": [
@@ -12053,6 +12361,10 @@
     "hold-stress-tightly-vs-gently-experiment",
     "four-causes-of-stress"
   ],
+  "feeling-not-feeling-toggle": [
+    "im-so-stressed-out",
+    "kinked-emotions"
+  ],
   "hold-stress-tightly-vs-gently-experiment": [
     "im-so-stressed-out",
     "shame-as-the-stress-quality-diagnostic",
@@ -12084,6 +12396,10 @@
     "tension-is-part-of-pleasure",
     "hold-stress-tightly-vs-gently-experiment",
     "four-causes-of-stress"
+  ],
+  "fifteen-fun-iterations-on-the-stuck-goal": [
+    "im-so-stressed-out",
+    "iterative-mindset"
   ],
   "stages-of-emotional-development": [
     "ive-lost-my-joy",
@@ -12282,11 +12598,14 @@
     "chase-it-around-the-room",
     "convert-thought-to-time-bounded-listening",
     "awareness-as-change-agent",
+    "awareness-of-pain-stops-the-behavior",
     "inner-critic-prevents-rest-and-integration",
     "positivity-as-doubt",
     "experimenting-with-the-voice",
     "i-exist-affirmation-against-collapse",
-    "lawyer-the-voice"
+    "lawyer-the-voice",
+    "menu-of-responses-to-the-self-critical-voice",
+    "say-ouch-to-the-inner-critic"
   ],
   "apply-view-to-the-voice": [
     "my-inner-critic-wont-stop",
@@ -12383,6 +12702,7 @@
     "voice-in-the-head",
     "symptoms-of-depression",
     "assume-the-voice-is-right-but-not-bad",
+    "prove-to-me-youre-not-enough",
     "mind-deconstructs-itself",
     "mind-unsees-first-body-last",
     "seeing-through-projections-expands-possibility",
@@ -12416,11 +12736,15 @@
     "wonder",
     "investigate-the-actual-source-of-stress",
     "cultural-pressure-to-perform-stress",
+    "reputation-control-is-unwinnable",
     "shame-as-the-stress-quality-diagnostic",
     "stress-is-essential-for-life",
+    "defend-vs-open-to-all-past-judgments",
+    "feeling-not-feeling-toggle",
     "fifteen-unknowns-then-how-what-questions",
     "growth-stress-vs-corrosive-stress-memory-experiment",
     "hold-stress-tightly-vs-gently-experiment",
+    "job-interview-3d-chess",
     "sleep-not-the-marriage-story"
   ],
   "stories-are-developmental-scaffolding": [
@@ -12555,6 +12879,7 @@
     "should-i-stop-drinking",
     "treating-it-as-a-decision-when-its-an-emotion",
     "challenge-the-premise-in-the-framing",
+    "iteratively-replace-the-word-in-the-question",
     "reframe-from-whether-to-how",
     "endurance-blocks-transformation",
     "shame-drives-behavior",
@@ -13311,8 +13636,10 @@
     "mind-deconstructs-itself",
     "nature-improves-itself",
     "pushing-yourself-produces-the-doing-wrong",
+    "reputation-control-is-unwinnable",
     "trust-the-awareness-dont-add-effort",
     "trying-prevents-the-feeling",
+    "value-is-intrinsic-not-earned",
     "apply-how-is-that-not-true-to-every-thought",
     "emotional-inquiry",
     "hands-together-exercise",
@@ -13354,13 +13681,18 @@
   "mind-deconstructs-itself": [
     "why-am-i-always-trying-to-fix",
     "how-do-i-stop-is-the-fix-trap",
+    "prove-to-me-youre-not-enough",
+    "run-the-compliment-deconstruction-protocol",
     "cant-fix-without-being-with",
     "everything-i-touch-fails-drives-fixing",
+    "you-cant-win-the-see-me-wont-be-seen-game",
     "apply-how-is-that-not-true-to-every-thought",
     "fix-everything-woman-anthill-presence-session"
   ],
   "apply-how-is-that-not-true-to-every-thought": [
     "why-am-i-always-trying-to-fix",
+    "prove-to-me-youre-not-enough",
+    "run-the-compliment-deconstruction-protocol",
     "mind-deconstructs-itself",
     "fix-everything-woman-anthill-presence-session"
   ],
@@ -13999,6 +14331,7 @@
     "give-me-a-good-attempt",
     "go-nonverbal-and-let-the-nonverbal-talk",
     "let-your-body-remember-this-moment",
+    "prove-to-me-youre-not-enough",
     "surrender-your-way-out-not-think-your-way-out",
     "putting-someone-above-blocks-emotion"
   ],
@@ -14369,7 +14702,8 @@
   ],
   "love-causes-annihilation": [
     "the-avoidant-partner-who-cant-receive",
-    "annihilation-reveals-what-is-real"
+    "annihilation-reveals-what-is-real",
+    "doing-things-for-love-is-prostitution"
   ],
   "capacity-to-love-other-is-capacity-to-love-self": [
     "the-avoidant-partner-who-cant-receive",
@@ -14392,6 +14726,7 @@
     "liking-your-kid-vs-loving-your-kid",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "conversation-as-microcosm-of-relationship",
+    "do-self-love-before-pursuing-the-thing",
     "dont-hate-your-kids-and-they-wont-hate-you",
     "goals-reveal-your-relationship-to-yourself",
     "heart-opening-needs-boundaries",
@@ -14591,8 +14926,11 @@
     "cant-argue-with-your-want",
     "im-none-of-my-own-business",
     "immune-to-shame-through-non-defense",
+    "reputation-control-is-unwinnable",
     "seeing-through-essential-wrongness",
-    "speak-the-elephant-from-open-heart-not-fear"
+    "speak-the-elephant-from-open-heart-not-fear",
+    "defend-vs-open-to-all-past-judgments",
+    "two-friends-judgment-experiment"
   ],
   "i-cant-stop-fighting-with-my-partner": [
     "walking-away-from-fight-feeling-bad"
@@ -14633,6 +14971,7 @@
   "productivity-as-fear-based-engine": [
     "ask-how-much-safety-plays-a-role",
     "spin-vs-pedaling",
+    "stage-fright-as-fuel-cell",
     "redundant-vs-safe",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "doing-doesnt-equal-producing",
@@ -14769,6 +15108,7 @@
   ],
   "how-what-questions": [
     "how-would-you-enjoy-x",
+    "whats-the-question",
     "dont-evangelize-the-work",
     "being-heard",
     "wonder",
@@ -15011,6 +15351,12 @@
     "all-disagreements-come-from-two-questions",
     "leaders-wants-are-the-organizations-wants"
   ],
+  "whats-the-scariest-question-to-ask": [
+    "whats-the-question"
+  ],
+  "self-narration-as-avoidance": [
+    "whats-the-question"
+  ],
   "trust-as-multifaceted": [
     "whats-the-scorecard-that-cant-be-taken-away",
     "dont-use-safety-as-control",
@@ -15057,6 +15403,7 @@
     "joy-as-matriarch",
     "resistance",
     "shame-stagnates-emotion",
+    "stage-fright-as-fuel-cell",
     "unfelt-emotion-leaks",
     "upright-apology",
     "wisdom-of-each-emotion",
@@ -15081,6 +15428,7 @@
     "stronger-story-stuckier-emotion",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
+    "feeling-not-feeling-toggle",
     "free-write-the-anger",
     "three-reflection-questions-on-anger",
     "try-to-feel-scared-then-stop-experiment",
@@ -15477,6 +15825,7 @@
     "three-things-that-go-wrong-when-releasing-anger",
     "paradoxical-instruction-to-resist",
     "repetitive-vs-inspirational-voice",
+    "awareness-of-pain-stops-the-behavior",
     "clarity-comes-online-after-facing-fear",
     "full-understanding-of-a-behavior-dissolves-it",
     "if-you-really-understood-it-it-wouldve-changed",
@@ -15488,6 +15837,7 @@
     "understand-yourself-like-you-understand-a-computer",
     "i-exist-affirmation-against-collapse",
     "joes-26-year-old-list",
+    "joes-call-with-dad-about-criticism",
     "toilet-blame-story"
   ],
   "cia-organization-sabotage-manual": [
@@ -15765,6 +16115,7 @@
     "stick-a-fucking-shit-in-front-of-the-should",
     "love-the-anxiety-not-just-with-it",
     "connection-doesnt-require-the-other",
+    "do-self-love-before-pursuing-the-thing",
     "emotion-at-someone-means-self-manipulation",
     "good-and-corruption-cycle",
     "inner-work-then-they-change",
@@ -16696,6 +17047,7 @@
     "burnout-cycle",
     "rest-is-an-accomplishment",
     "stress-burnout-depression-progression",
+    "do-self-love-before-pursuing-the-thing",
     "pleasure-tells-system-its-safe",
     "say-ouch-to-the-inner-critic",
     "four-causes-of-stress",
@@ -17321,7 +17673,9 @@
     "confidence-is-running-from-doubt",
     "passive-aggression-toward-self",
     "epiphany-becomes-task",
-    "the-first-minute-tells-you-everything"
+    "catch-the-tiny-self-doubt-inside-the-answer",
+    "the-first-minute-tells-you-everything",
+    "menu-of-responses-to-the-self-critical-voice"
   ],
   "doubt-driven-urgency-as-fake-confidence": [
     "confidence-is-running-from-doubt"
@@ -17629,6 +17983,7 @@
   ],
   "im-a-failure": [
     "failure-is-an-idea",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "write-50-experiments-before-starting"
   ],
   "reward-failure-in-the-organization": [
@@ -17867,7 +18222,8 @@
   "compassion-as-of-the-guts": [
     "heartbreak-is-the-love-underneath-the-blockers",
     "if-you-couldnt-feel-this-whats-underneath",
-    "welcome-the-hurt-the-way-you-wanted-as-a-kid"
+    "welcome-the-hurt-the-way-you-wanted-as-a-kid",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "concerns/i-feel-guilty-for-cutting-off-family": [
     "heartbreak-is-the-love-underneath-the-blockers",
@@ -18154,7 +18510,8 @@
     "chasing-pleasure-is-avoidance"
   ],
   "intrinsic-drive-to-build": [
-    "joy-of-accomplishment-is-the-absence-of-wants"
+    "joy-of-accomplishment-is-the-absence-of-wants",
+    "value-is-intrinsic-not-earned"
   ],
   "joes-pancake-anger-story": [
     "kinked-emotions",
@@ -18460,16 +18817,21 @@
     "war-with-yourself",
     "withdrawal-of-love-as-passive-aggression",
     "passive-aggressive-vs-aggressive-aggressive",
-    "boundary-as-self-teaching"
+    "awareness-of-pain-stops-the-behavior",
+    "boundary-as-self-teaching",
+    "joes-abandonment-mapping",
+    "joes-call-with-dad-about-criticism"
   ],
   "activation-release-rest-cycle": [
     "polyvagal-nervous-system-framing",
     "rest-is-an-accomplishment",
+    "stage-fright-as-fuel-cell",
     "the-work-as-three-levels-of-change",
     "breath-as-fertile-soil-vs-breath-as-control",
     "inner-critic-prevents-rest-and-integration",
     "reflection-is-release-resting-is-nothing",
     "humming-exhale-for-vagal-tone",
+    "nervous-system-prep-before-high-stakes",
     "biathlon-athlete-7-hours-tv",
     "joe-7-years-of-reichian-breathwork"
   ],
@@ -18583,7 +18945,8 @@
     "inherent-goodness",
     "seeing-through-essential-wrongness",
     "list-the-shames-you-avoided",
-    "three-month-inherent-goodness-experiment"
+    "three-month-inherent-goodness-experiment",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "run-toward-yourself": [
     "shame-as-disconnection",
@@ -18596,6 +18959,15 @@
     "100-middle-managers-redundant-vs-safe",
     "joes-vc-realization-one-tenth-the-work",
     "vp-and-the-3-day-offsite"
+  ],
+  "chain-vs-tree-thinking-for-content": [
+    "stage-fright-as-fuel-cell",
+    "speak-from-listening",
+    "mistakes-on-stage-are-gifts",
+    "state-not-framework",
+    "nervous-system-prep-before-high-stakes",
+    "joes-extemporaneous-vc-speech",
+    "speaking-authentically"
   ],
   "dont-use-story-frame-to-bypass": [
     "story",
@@ -18843,10 +19215,12 @@
   "passive-aggression-toward-self": [
     "voice-in-the-head",
     "three-forms-of-anger-repression",
+    "catch-the-tiny-self-doubt-inside-the-answer",
     "passive-aggressive-vs-aggressive-aggressive",
     "positivity-as-doubt",
     "self-aggression-permits-others-aggression",
-    "list-who-you-subtly-blame"
+    "list-who-you-subtly-blame",
+    "menu-of-responses-to-the-self-critical-voice"
   ],
   "vulnerability-is-personal": [
     "vulnerability",
@@ -19267,6 +19641,7 @@
   ],
   "guilt-cuts-off-natural-compassion": [
     "three-signals-of-unfelt-emotion",
+    "doing-things-for-love-is-prostitution",
     "guilt-is-aggression-not-poor-me"
   ],
   "observer-vs-immersion-by-anger-type": [
@@ -19342,6 +19717,7 @@
     "enjoyment-as-path",
     "enjoyment-attracts",
     "enjoy-this-just-a-little-bit-more",
+    "fifteen-fun-iterations-on-the-stuck-goal",
     "authenticity-in-business"
   ],
   "speak-from-each-of-the-three-centers": [
@@ -19404,6 +19780,9 @@
     "attempt-over-success-in-parenting",
     "being-with-without-needing-change-as-highest-generosity"
   ],
+  "menu-of-responses-to-the-self-critical-voice|responses to the lens": [
+    "catch-the-tiny-self-doubt-inside-the-answer"
+  ],
   "what-is-it-without-resistance": [
     "compare-resisting-vs-not-resisting-the-feeling",
     "three-kinds-of-limiting-beliefs",
@@ -19463,7 +19842,8 @@
     "i-dont-need-to-be-seen-right-now",
     "see-yourself-when-they-cant-see-you",
     "inherent-goodness",
-    "non-defense-is-the-ocean"
+    "non-defense-is-the-ocean",
+    "defend-vs-open-to-all-past-judgments"
   ],
   "if-im-not-feeling-seen-im-also-not-seeing": [
     "drop-the-shame-to-see-them",
@@ -19496,6 +19876,12 @@
   "fully-feel-the-forbidden-arousal": [
     "fall-in-love-with-the-feared-state-by-modeling-it"
   ],
+  "every-question-becomes-whats-wrong-with-me|not-good-enough lens": [
+    "find-one-thing-to-confirm-about-yourself"
+  ],
+  "how-do-i-stop-seeking-approval|approval-seeking concern": [
+    "find-one-thing-to-confirm-about-yourself"
+  ],
   "sincerity-is-the-prerequisite": [
     "frame-it-as-an-experiment",
     "address-the-blocker-not-the-symptom",
@@ -19526,6 +19912,13 @@
     "give-parameters-of-winning",
     "enjoy-over-manage",
     "allowing-creates-resilience"
+  ],
+  "run-the-compliment-deconstruction-protocol": [
+    "give-the-thing-the-game-is-trying-to-win",
+    "prove-to-me-youre-not-enough",
+    "mind-deconstructs-itself",
+    "you-cant-win-the-see-me-wont-be-seen-game",
+    "say-im-excited-ten-times"
   ],
   "no-attachment-to-the-outcome": [
     "go-down-the-rabbit-hole-in-your-kids-world",
@@ -19734,6 +20127,9 @@
   "we-make-it-hard-to-be-seen-when-in-our-trauma": [
     "repair-phrase-as-trauma-deactivator"
   ],
+  "announce-the-steps-then-run-them": [
+    "run-the-compliment-deconstruction-protocol"
+  ],
   "dont-list-whats-wrong-with-you": [
     "satirical-anti-advice-as-teaching",
     "joes-doomscrolling-story"
@@ -19786,12 +20182,6 @@
   "athletes-unlocking-body-intelligence-in-business": [
     "skill-transfer-redirect",
     "use-domain-of-mastery-as-template-for-body-intelligence"
-  ],
-  "chain-vs-tree-thinking-for-content": [
-    "speak-from-listening",
-    "state-not-framework",
-    "joes-extemporaneous-vc-speech",
-    "speaking-authentically"
   ],
   "presence-in-the-body-while-working": [
     "stop-to-feel-the-anxiety-underneath-the-productivity",
@@ -20141,6 +20531,10 @@
   "joes-laughing-meditation-retreat": [
     "authenticity-reduces-shame"
   ],
+  "awareness-of-pain-stops-the-behavior": [
+    "awareness-as-change-agent",
+    "say-ouch-to-the-inner-critic"
+  ],
   "self-attack-after-seeing-the-pattern": [
     "awareness-of-pattern-is-halfway-through"
   ],
@@ -20324,6 +20718,9 @@
     "love-requires-empowerment",
     "you-are-responsible-for-your-own-window-of-tolerance",
     "three-things-to-save-a-marriage-from-disdain"
+  ],
+  "money-as-surrogate|the surrogate of love": [
+    "do-self-love-before-pursuing-the-thing"
   ],
   "the-questioning-stance": [
     "dont-believe-the-stories-you-tell-yourself"
@@ -20568,7 +20965,8 @@
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
     "compassion-as-of-the-guts",
-    "from-looking-for-love-to-being-love"
+    "from-looking-for-love-to-being-love",
+    "turn-the-love-on-yourself-what-did-you-do"
   ],
   "hire-by-dream-job": [
     "management-required-to-launch-predicts-management-required-forever",
@@ -20586,6 +20984,10 @@
   "joe-and-tara-meeting-story": [
     "marriage-is-built-up-the-mountain-not-fallen-down-from-the-top",
     "joe-and-tara-pitchfork-fight"
+  ],
+  "prove-to-me-youre-not-enough": [
+    "mind-deconstructs-itself",
+    "say-im-excited-ten-times"
   ],
   "Impartiality": [
     "mind-wide-as-sky-action-fine-as-barley"
@@ -20612,6 +21014,12 @@
   "mandela-prison-freedom": [
     "nothing-is-required-for-freedom",
     "hitchhiking-freedom"
+  ],
+  "do-self-love-before-pursuing-the-thing|order-of-operations correction": [
+    "nothing-is-required-for-freedom"
+  ],
+  "do-self-love-before-pursuing-the-thing|order of operations": [
+    "nothing-is-required-for-freedom"
   ],
   "shoulds-create-resistance": [
     "nothing-is-wrong-with-it-its-just-painful"
@@ -20688,6 +21096,14 @@
   "babysitter-apology": [
     "repair-is-as-important-as-getting-it-right"
   ],
+  "two-friends-judgment-experiment": [
+    "reputation-control-is-unwinnable",
+    "defend-vs-open-to-all-past-judgments"
+  ],
+  "defend-vs-open-to-all-past-judgments": [
+    "reputation-control-is-unwinnable",
+    "two-friends-judgment-experiment"
+  ],
   "50k-mistake-no-backlash": [
     "reward-failure-in-the-organization"
   ],
@@ -20700,6 +21116,9 @@
   "vietnam-malnutrition-story": [
     "see-whats-right-to-build-on-it",
     "gratitude-around-the-problem"
+  ],
+  "joes-call-with-dad-about-criticism": [
+    "self-aggression-permits-others-aggression"
   ],
   "caretaking": [
     "self-blame-abdicates-others-agency"
@@ -20856,6 +21275,9 @@
   "epiphany-becomes-task|task-conversion": [
     "experimenting-with-the-voice"
   ],
+  "if-you-can-amplify-it-you-can-release-it": [
+    "feeling-not-feeling-toggle"
+  ],
   "dont-fight-about-breaking-the-fight-agreement": [
     "fight-agreements-made-outside-the-fight"
   ],
@@ -20905,6 +21327,9 @@
   "i-keep-trying-to-fix-the-relationship-but-they-wont": [
     "relationship-experiments-list"
   ],
+  "every-question-becomes-whats-wrong-with-me|the deficiency lens": [
+    "say-ouch-to-the-inner-critic"
+  ],
   "renegotiate-commitments-as-you-change": [
     "say-the-thing-youre-not-saying"
   ],
@@ -20920,6 +21345,9 @@
   ],
   "how-do-you-want-to-be-in-this-uncertainty|how-question": [
     "three-moves-when-frozen-by-uncertainty"
+  ],
+  "two-people-defending": [
+    "two-friends-judgment-experiment"
   ],
   "gratitude-as-full-body-sport|felt state": [
     "two-person-gratitude-practice"
@@ -21010,6 +21438,9 @@
   "esme-math-final": [
     "joe-mina-china-overwhelm"
   ],
+  "self-abandonment": [
+    "joes-abandonment-mapping"
+  ],
   "boundaries-expand-as-capacity-grows|boundaries refine as capacity grows": [
     "joes-dad-drinking-boundary"
   ],
@@ -21068,6 +21499,15 @@
   ],
   "ceo-big-house-market-cap-drop": [
     "business-as-spiritual-practice"
+  ],
+  "job-interview-3d-chess": [
+    "corporate-stack-of-mutual-misreading"
+  ],
+  "fix-the-team-by-fixing-the-leader": [
+    "corporate-stack-of-mutual-misreading"
+  ],
+  "approval-seeking-toward-authority": [
+    "corporate-stack-of-mutual-misreading"
   ],
   "functional-team|functional teams": [
     "family-as-team"

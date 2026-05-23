@@ -5,7 +5,7 @@ title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma", "generational trauma pattern", "trauma transmits across generations"]
 tags: ["trauma", "attachment", "patterns", "repetition", "generations"]
 related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation", "trigger", "anxious-avoidant-dynamic", "capital-t-vs-small-t-trauma", "the-fight-is-asking-you-to-feel-what-you-couldnt"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
 ---
 
 # Trauma Mapping
@@ -48,6 +48,34 @@ In partnership, trauma mapping shows up as the precision-matched complementary t
 The most visible everyday instance: the friend who keeps dating the same person in different bodies. Seven different partners, all of whom cheated. Six different relationships, all with the same dynamic. The conscious mind cannot understand how this kept happening. The body knows exactly what it is doing: generating opportunities to feel the unfelt emotion.
 
 Joe's own example is emotional abandonment. He recreated emotionally abandoning people over and over until he fell in love with abandonment, after which the system found homeostasis and stopped recreating it. See [[joes-abandonment-mapping]].
+
+## The Drummer with the Dart (How Specific the Targeting Is)
+
+A specific, vivid example Joe uses to convey how precisely targeted the body's selection mechanism is. From his time in a rock and roll band in his twenties, the drummer's account:
+
+"I can walk into any room, I can close my eyes, throw a dart behind my back, and I will hit the woman with daddy issues. And that's the person I'm gonna be attracted to." -- the drummer Joe knew, recounted in End Toxic Relationship Patterns
+
+The phenomenon was funny enough to remember decades later. The drummer was naming, in compressed form, what trauma mapping looks like at the level of mate selection. He was not selecting badly by accident. The body was selecting precisely, instantly, across a crowded room, from a population the conscious mind had not even surveyed. The dart did not need eyes to find its target. The target was being read by a deeper instrument.
+
+The story makes the mechanism visible in a way the abstract framing does not. The selection is not random. It is not "any partner who happens to be available." It is the partner whose specific shape matches the specific imprint the body is looking to complete. The match is so precise that the conscious mind, which is not aware of the criteria, experiences the outcome as bewildering or as evidence of bad luck.
+
+The same accuracy operates in the inverse direction: the same body that finds the woman with daddy issues with a dart will not find the available, present, secure partner across the same room. The dart never lands there. The criteria are doing the work, and the criteria are set by the unfinished emotional business, not by what the conscious mind would say it wants.
+
+The drummer's anecdote is also a useful intervention against the "I just have bad luck in dating" frame. The pattern is not bad luck. The pattern is precision targeting. The work is not to find better luck; the work is to change what the dart is selecting for.
+
+## The Wired-with-Love Selection
+
+A specific application of the general principle, focused on what the body learned love was. The body is attracted to whatever was wired with love during the childhood imprinting window. Whatever role-modeled love performed becomes the body's definition of love; the adult then finds love that matches the definition.
+
+"Typically what you're going to see is that you're going to be attracted to the thing that you learned as a kid was love. So if you learned criticism was love as a kid, that love came with criticism, then you're going to be attracted to somebody who criticizes you. Or if you as a kid were abused, then what's going to happen is you're going to have that love and abuse wired together through a parent, and then you're going to be attracted to people who abuse you." -- Joe Hudson, End Toxic Relationship Patterns
+
+This is the trauma-mapping mechanism specifically applied to romantic partner selection. The childhood-wired definition of love is what produces the dart-precision selection of partners who match the imprint. See [[love-misconceptions-inherited-from-childhood]] for the broader treatment of how the childhood definition of love operates, and how the same imprint shapes attraction, what the person tolerates inside relationships, and when the heart closes.
+
+The strength of the wiring varies with the strength of the original imprint. Joe notes that the data on the most extreme version is stark:
+
+"If somebody was sexually assaulted as a kid, the chances of them being sexually assaulted as an adult go way through the roof. So this is, this is like, that's a very pronounced level of it, but we're all doing that on some level." -- Joe Hudson, End Toxic Relationship Patterns
+
+The pronounced cases make the mechanism legible. The subtler everyday cases — the woman whose father guilt-tripped her ending up with a guilt-tripping partner, the man whose mother criticized him ending up with a critical partner — are running on the same mechanism, just less visibly. The mechanism is universal; the intensity varies.
 
 ## The Proving Variant
 
@@ -125,3 +153,4 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
+- 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the drummer-with-the-dart anecdote as the compressed vivid example of how precisely targeted the body's partner selection mechanism is; the wired-with-love framing applied directly to partner selection — "you're going to be attracted to the thing that you learned as a kid was love"; the pronounced-cases-make-mechanism-visible point with the childhood-sexual-assault recurrence data; the universal-but-variable-intensity framing — "we're all doing that on some level")

@@ -92,6 +92,16 @@ The clearest demonstration of the principle. When is an oak tree good enough? Wh
 
 The baby version of the same point: a baby does not think they are bad because they crawl rather than walk. Crawling is just a phase. The baby will walk. There is no failure in being where you are in development.
 
+## The Companion Principle: Intrinsic Value
+
+A specific application of the same recognition: just as you do not have to be managed into goodness, you do not have to be performed into value. This is the principle [[value-is-intrinsic-not-earned]] — the companion teaching that addresses the parallel installation about lovability and worth.
+
+Inherent goodness addresses the question "am I trustable without external control?" Intrinsic value addresses the question "am I lovable without doing things for love?" The two installations are different and often need to be touched separately, because the body holds them as separate questions. A person can come to believe in their inherent goodness while still believing their value is earned. A person can come to believe in their intrinsic value while still believing they need to be managed for goodness. The full undoing requires both.
+
+The baby test for intrinsic value: "What does a baby have to do to be valuable? What does a 3-year-old have to do to be valuable?" The answer is the same as the oak tree question: nothing. The value, like the goodness, is already there. The doing-to-be-valuable equation is the same kind of installed lie as the doing-to-be-good equation. Both rest on the foundational disbelief that the natural state is already what is wanted.
+
+See [[value-is-intrinsic-not-earned]] for the full principle, [[doing-things-for-love-is-prostitution]] for the structural account of why the value-by-performance equation cannot produce love, and [[turn-the-love-on-yourself-what-did-you-do]] for the experiment that lands the recognition in the body.
+
 ## The Defense Test
 
 A diagnostic for whether a person is operating from the belief that they are not inherently good: do they defend? If someone said the sky is purple at noon, you would not feel the need to defend the fact that it is blue. You defend only what you secretly half-believe might be true.
@@ -140,6 +150,9 @@ See [[connection]] for the broader concept and [[hand-in-hand-parenting]] for th
 - Toward [[three-keepers-of-stuck-beliefs]]: the broader structure in which I'm-bad operates as one of three keepers preventing limiting-belief work from landing
 - Toward [[immune-to-shame-through-non-defense]]: the operational result of holding inherent goodness — shame attempts stop landing
 - Toward [[see-yourself-when-they-cant-see-you]]: the in-conflict application of inherent goodness as the internal seeing path to peace
+- Toward [[value-is-intrinsic-not-earned]]: the companion principle that addresses the parallel installation about lovability and worth, with the 3-year-old test as the baby-equivalent of the oak tree test for goodness
+- Toward [[doing-things-for-love-is-prostitution]]: the structural account of why doing-to-be-loved cannot produce love
+- Toward [[turn-the-love-on-yourself-what-did-you-do]]: the in-body experiment that pairs with the companion intrinsic-value principle
 
 ## Sources
 
@@ -152,3 +165,5 @@ See [[connection]] for the broader concept and [[hand-in-hand-parenting]] for th
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
 - 2022-10-28_How to See Through Limiting Beliefs
+- 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Guest Episode with Nathan Baschez (the Connection Course origin story: noticing in his daughter that when she felt connected the goodness was the natural output of the connection state; the generalization from kids to adults; the structural simplicity of connection-focused coaching as restoring conditions for already-present goodness rather than installing it; the distinction between "good" and "nice")
+- 2025-08-12_You're Not Giving People the Chance to Love You (the connection to the companion principle of intrinsic value; the baby/3-year-old test as the lovability-version of the oak tree test for goodness; the recognition that the two installations often need to be undone separately)

@@ -5,7 +5,7 @@ title: "Joe's Abandonment Mapping"
 aliases: ["Joe's emotional abandonment", "falling in love with abandonment", "Joe attracted abandonment", "Joe's trauma mapping example", "love was emotional abandonment", "I had to do it all myself", "Joe's self-reliance imprint"]
 tags: ["personal example", "trauma mapping", "abandonment", "transformation", "feeling", "self-reliance"]
 related: ["trauma-mapping", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "familiar-over-safe", "childhood-imprinting", "i-have-to-do-it-all-myself", "anger-as-cover-for-deeper-emotion"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I)", "2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I)", "2025-01-31_Self-Reliance Is A Trap"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I)", "2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I)", "2025-01-31_Self-Reliance Is A Trap", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
 ---
 
 # Joe's Abandonment Mapping
@@ -45,6 +45,24 @@ Joe later named the specific behavior that did the recreating. The anger was the
 "I used to, when I was recreating the pattern of emotional abandonment, I would get angry whenever I saw that I was starting to get abandoned as a way to avoid feeling that feeling. Obviously the anger made more people abandon me, 'cause who wants to be around someone who's yelling at them? And therefore I'd invite it in." -- Joe Hudson, Embracing Intensity (2022)
 
 This is the same general structure that operates in any [[engineering-heartbreak-to-avoid-heartbreak]] pattern. The behavior that is meant to prevent the feared outcome produces the feared outcome. The avoidance is the mechanism of recreation. Naming the specific behavior matters because it makes the pattern visible: a person can usually identify what they do when they sense the feared thing approaching. That behavior is almost always doing the engineering.
+
+## The Two Binary Avoidance Behaviors
+
+In a later teaching, Joe named the avoidance more granularly. There were two specific behaviors he would deploy when faced with the possibility of feeling the abandonment, and they are typical for anyone working an abandonment-mapping. Both produce more abandonment.
+
+"Every time I was in a relationship and I was faced with the potential of abandonment, like, oh, maybe I'm gonna have to feel it, I did one of two things. The first thing that I did was go fuck you, I don't need you anyhow, which of course makes a person abandon you. So then I'm in abandonment. Or I was like, oh, what can I do to help? Like, how do I keep you here? Which of course makes me needy. Nobody wants that, and more likelihood of abandonment." -- Joe Hudson, End Toxic Relationship Patterns
+
+The two avoidance behaviors are symmetric and both serve the same function — keep the body from having to feel the abandonment that is arriving:
+
+1. **The hardening / push-away.** "Fuck you, I don't need you anyhow." The body preemptively rejects to avoid being rejected. The cost of feeling the abandonment is paid by abandoning first. The behavior produces the partner's actual departure, which becomes the abandonment that the behavior was avoiding.
+
+2. **The grasping / pull-toward.** "What can I do to help? How do I keep you here?" The body becomes useful, accommodating, anticipatory to prevent the abandonment. The neediness this produces is itself unattractive; the management of the partner is itself smothering. The behavior produces the conditions that make the partner more likely to leave.
+
+The two are not different patterns. They are the same pattern — the avoidance of the feeling — wearing two different costumes. A person who has both will alternate between them, or run one in some relationships and the other in others. The system has redundancy. If the hardening does not produce the abandonment fast enough, the grasping will.
+
+The structural point: each binary avoidance behavior is also the engine of a [[self-abandonment]] form. The hardening cuts off the part of the self that has the need. The grasping cuts off the part of the self that has its own ground. Both abandon the self, then produce the external abandonment that mirrors the internal one. The connection between [[self-aggression-permits-others-aggression]] and the abandonment-mapping shows up cleanly here: the body is being trained to recognize abandonment as familiar through both its inner experience of being abandoned by the self and its outer experience of being abandoned by partners. Each reinforces the other.
+
+The recognition that there are two costumes for the same avoidance matters for the work. People who recognize one of the two often think the other is healthier. The independent person looks down on the needy one. The accommodating person looks down on the cold one. Both miss that they are working the same imprint, just at different rotations of the same wheel. See [[push-pull-dynamics-in-dating]] for the broader family of forms this pair belongs to.
 
 ## The Turn
 
@@ -125,3 +143,4 @@ Matter-of-fact, instructive. Joe uses this as a teaching example. He is not dwel
 - 2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I) (the original installation in the first 7 years: rigid schedule, made fun of for crying, mother overwhelmed; the "love was emotional abandonment" equation; the self-reliance branch as the other face of the same imprint)
 - 2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I) (republished version of the same conversation; same content with minor transcription variations)
 - 2025-01-31_Self-Reliance Is A Trap (the friend's sentence "yeah, you make that impossible" as the pattern interrupt that opened the work; the years of integration that followed — feeling the compartmentalized emotions, welcoming abandonment, testing vulnerability in low-stakes situations; the Rumi nursing-mother teaching that captured the testable theory; the double-checking-help mechanism that revealed the self-reliance as active sabotage of help that did arrive; the short-film fundraising story showing where help actually came from — other self-reliant givers, not the people Joe had been generous to)
+- 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the two binary avoidance behaviors named explicitly — the "fuck you I don't need you anyhow" hardening and the "what can I do to keep you here" grasping — as the two costumes the same abandonment-avoidance wore in Joe's relationships, with each binary producing the abandonment by a different mechanism; both as forms of self-abandonment that mirror the external abandonment; the reframe that what's underneath both is "the only way I'm going to get out of this trap is if I lean into the feeling of abandonment")
