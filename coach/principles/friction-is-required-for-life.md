@@ -5,7 +5,7 @@ title: "Friction Is Required for Life"
 aliases: ["life requires resistance", "resistance is necessary", "a cell needs friction", "anxiety isn't going away because life", "you can't eliminate friction", "no friction means death", "life requires friction"]
 tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance", "relationships"]
 related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut", "how-you-fight-not-how-often", "black-swan-small-collapses-prevent-big-ones", "every-fight-can-bring-you-closer", "conflict-as-evolutionary-tension"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense", "2024-12-17_Why Fighting Is Important"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense", "2024-12-17_Why Fighting Is Important", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Friction Is Required for Life
@@ -76,6 +76,20 @@ The compounding cost of suppressing the friction is the systems-level form of th
 
 The "how you have it" pivot is the application of the principle. Once the necessity of the friction is established, the question shifts from whether to have it to how to have it. See [[how-you-fight-not-how-often]] for the full treatment of the quality metric that replaces the count metric.
 
+## Applied to Goals
+
+The same principle extends to goals. Pursuing a real goal -- something the system actually wants and is reaching toward -- necessarily produces friction. The next level of the video game, the next level of the marriage, the next level of the company. None of these arrive without resistance.
+
+The implication: someone who refuses friction in their goals is refusing the goals. Someone who refuses the goals is refusing the aliveness that the goals were meant to express.
+
+"There's always some friction, and there should be some friction in goals because there's friction in getting to the next level of the video game. There's friction in taking your marriage to the next level. Anything that we're taking to the next level, there's going to be some friction in. There is a place where when people don't want friction, they start turning away from their goals. They're also turning away from aliveness in that." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The friction-free goal is a sign that either the goal is not real (no want underneath, no engagement, nothing to push against) or the engagement is being suppressed (the friction is there but the person is not feeling it). Either way, the absence of friction is the diagnostic of absence-of-aliveness.
+
+The discrimination needed: not "is there friction?" but "is this friction in pursuit of something the system actually wants, or is this friction in pursuit of something the inner board is mandating?" The first is the friction of being alive. The second is self-abuse.
+
+The diagnostic question Joe offers: "Do you actually want it?" If the answer is felt-yes, the friction is constructive and is part of the pursuit. If the answer is unfelt or no, the friction is destructive and the goal is the problem. See [[did-you-actually-feel-the-wanting]] and [[goals-must-come-from-actual-want]].
+
 ## Connection to Sun and Cell
 
 The biological framing matters. The principle is not a spiritual claim. It is a physical observation. The cell membrane requires the resistance of the environment to maintain its shape. The sun's gravitational collapse is balanced against its fusion pressure -- the friction between the two is what keeps the sun burning. Remove the friction at either end, and the sun ceases to exist.
@@ -122,3 +136,4 @@ Matter-of-fact. The principle is delivered as observation, not as comfort. It is
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
 - 2022-10-26_Love Over Defense (life-is-tension and Bhagavad Gita treatment)
 - 2024-12-17_Why Fighting Is Important (the lung-and-cell version of the principle applied directly to fighting in relationships; the "more transformation means more tension" corollary; the "avoidance of friction kills the relationship" framing; the pivot from whether-to-have-it to how-to-have-it)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the application to goals: pursuing a real want produces friction; refusing the friction is refusing the aliveness; the discrimination between constructive friction in pursuit of a real want vs destructive friction in pursuit of an inner-board mandate)

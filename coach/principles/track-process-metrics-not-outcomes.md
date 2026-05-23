@@ -5,7 +5,7 @@ title: "Track Process Metrics, Not Outcome Metrics (Measure What People Can Cont
 aliases: ["track process metrics", "track process not outcomes", "process metrics over outcome metrics", "track pipeline moves not revenue", "track phone calls not deals closed", "measure what they can do not what happens", "the process-metrics principle", "track inputs not outputs", "track activities not results", "the controllable-metric principle", "track iteration count", "process metrics for iteration", "you eventually have to track revenue but track activity first"]
 tags: ["principle", "metrics", "leadership", "iteration", "failure", "sales", "control"]
 related: ["iterative-mindset", "reward-failure-in-the-organization", "failure-is-an-idea", "frame-it-as-an-experiment", "team-as-scientific-method", "good-decision-is-how-you-make-it-not-the-outcome"]
-sources: ["2024-07-19_Failure"]
+sources: ["2024-07-19_Failure", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Track Process Metrics, Not Outcome Metrics (Measure What People Can Control)
@@ -70,6 +70,14 @@ This is structurally connected to [[reward-failure-in-the-organization]]. The re
 
 **Decision making.** Did the outcome of the decision turn out well is an outcome metric and partly random. Did you make the decision well at the time you made it is a process metric. See [[good-decision-is-how-you-make-it-not-the-outcome]] for the broader treatment.
 
+## The Related Anti-Pattern: Metric-as-Goal
+
+The principle here is about which metric to track. There is a parallel anti-pattern about what happens when any metric (process or outcome) is mistaken for the goal it was supposed to serve. The Instagram-followers-as-love-metric example, the wife's-current-mood-as-marriage-metric example, the $12M-as-goal example. In each case the metric was a proxy for an actual goal, the proxy got confused for the goal, the proxy got optimized, and the actual goal stayed flat or moved away.
+
+"Oftentimes people confuse the metrics with the goals. ... For instance, people think the goal is I want to be loved. The metric is how many people are my friends on Instagram. And the metric becomes a goal, and then you're not loved." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The two principles work together. Choose process metrics rather than outcome metrics for the day-to-day tracking (this principle). And do not let any metric -- process or outcome -- become the goal it was supposed to serve (the related principle). See [[dont-confuse-the-metric-with-the-goal]] for the full anti-pattern, and [[principles-goals-metrics]] for the framework that keeps the metric in the dashboard role and the goal in the destination role.
+
 ## What This Principle Is Not
 
 The principle is not "outcomes do not matter." Outcomes are how the world measures whether the activity was worth doing. The principle is about which metric drives the daily behavior. Outcomes still matter at the strategic review level.
@@ -101,3 +109,4 @@ Joe delivers this principle with the cadence of practical advice. The voice is c
 ## Sources
 
 - 2024-07-19_Failure (Joe's direct articulation: track phone calls and pipeline moves rather than revenue brought in; "creating failure, you're creating success in something that they can actually do"; the eventual acknowledgment that outcomes have to be tracked too, but later)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the related anti-pattern of metric-as-goal collapse; the Instagram-followers-as-love and wife's-mood-as-marriage examples; the metric belongs on the dashboard not the steering wheel framing; cross-link to [[dont-confuse-the-metric-with-the-goal]] and [[principles-goals-metrics]])

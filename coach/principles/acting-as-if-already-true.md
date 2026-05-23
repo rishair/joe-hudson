@@ -5,7 +5,7 @@ title: "Acting As If Your Vision Is Already True"
 aliases: ["live the vision now", "be the change already", "visionary action", "as if reality", "the world bends toward your truth"]
 tags: ["empowerment", "vision", "leadership", "truth", "principles"]
 related: ["empowered-vs-power", "principles-free-you", "vulnerability", "process-over-result", "feared-consequences-rarely-happen"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Acting As If Your Vision Is Already True
@@ -44,6 +44,20 @@ Consciousness organizes itself into echo chambers. Whatever you act as if is tru
 
 This is why over time, the consequences feared from empowered action stop arriving. Not because reality bends instantly, but because the people and systems that cannot tolerate the truth fall away and the ones that can move closer. The bubble that forms around sustained truth-living is the long-term consequence of empowered action.
 
+## The Basketball-Player Frame
+
+A second illustration, this one from sports. The team that is playing as if it is going to win plays differently from the team that is playing as if it is going to lose. The internal stance shows up in every shot, every defensive read, every choice about whether to go for the open lane or pass.
+
+"If I'm playing basketball and I'm playing as if I'm winning, as if I'm going to win, as compared to, oh, shit, we're 10 points behind, I think I'm going to lose, right? Oh, I'm not playing as if I'm achieving my goal. And so I'm not playing like a person who's going to win. I'm playing like a person who is losing." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The stance is upstream of the behavior. The behavior is upstream of the outcome. Acting as if you are winning produces the actions of a person who will win. Acting as if you are losing produces the actions of a person who will lose. The score may be ten points behind in both cases; the action that emerges from the as-if-winning stance is what closes the gap.
+
+This applies in business as well. Joe's company example: a new product they had created, where they noticed they were "chasing" -- pursuing customers, optimizing for attention -- in a way that did not match the as-if-already-successful stance they normally operated from.
+
+"In that way, we weren't living to our goals because to live to the goals, to live in the goal, it's, oh, of course we have something valuable. Of course we will be successful. Living as if the goal has already succeeded is part of how the goals help you get to the place." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The diagnostic: are you chasing, or are you operating as the company you already are? The chasing is the as-if-losing stance. The operating is the as-if-winning stance. The work is to notice the chasing and shift the stance, not just to chase harder.
+
 ## The Difference From [[Wants-Over-Shoulds]]
 
 [[Wants-over-shoulds]] addresses the internal source of motion: follow what you want, not what you should do. Acting-as-if addresses the external stance: be the person already living the truth, do not wait for permission. They reinforce each other. Wanting from the empowered stance is different from wanting from the disempowered stance.
@@ -73,3 +87,4 @@ Most disempowerment is over-compliance with imagined constraints. The job will n
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2025-05-09_Why Your Goals Are Making You Miserable (the basketball-as-if-winning illustration; the chasing-vs-operating diagnostic from Joe's company example; the explicit framing that "living as if the goal has already succeeded is part of how the goals help you get to the place"; the connection between intention-holding and present-tense embodiment)

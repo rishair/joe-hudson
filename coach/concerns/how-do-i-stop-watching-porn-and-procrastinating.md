@@ -86,10 +86,21 @@ The deeper hearing: the question is asked as "how do I stop the behavior?" The r
 ## Related Concerns
 
 - [[i-cant-be-disciplined]] — the broader umbrella concern this often sits inside; the discipline framing is the surface, the cascade is what is operating underneath
+- [[i-procrastinate-only-on-the-thing-that-matters-most]] — the perfectionism-and-importance variant of procrastination, where the work the person cares about most is the only work they cannot do; a different coaching path centered on enjoyment-as-redirect rather than essential-self contact
 - [[i-should-be-doing-this]] — the should/obligation form of the same problem when the behavior is the un-done thing rather than the unwanted thing
 - [[my-inner-critic-wont-stop]] — when the shame-thinking layer of the cascade is the loudest part of the presentation
 - [[i-feel-stuck]] — when the cascade has produced enough recursion that the person reports being unable to move at all
 - [[i-cant-feel-my-emotions]] — when the second-stage thinking has been so successful that the person no longer notices the felt sense the thinking is defending against
+
+## Two Distinct Coaching Paths for Procrastination
+
+The presentation "I keep procrastinating and I want to stop" can carry two structurally different mechanisms, and the coaching paths diverge sharply based on which is operating:
+
+- **Essential-self avoidance cascade** (this article): the person procrastinates broadly across many domains, the shame story is the loudest layer, the behavior has run for years, and the person has been working on it as a global character pattern. The coaching path goes through stripping the story, naming the cascade, and contacting essential self.
+
+- **Importance-loaded perfectionism** (see [[i-procrastinate-only-on-the-thing-that-matters-most]]): the person procrastinates only on a specific category — usually the high-stakes work they care about most — and functions normally everywhere else. The shame is present but not the headline. The coaching path goes through bounding the behavior, surfacing the loaded importance, and redirecting from doing-it-right to enjoying-it.
+
+The diagnostic question to distinguish the two: **where does the person not procrastinate?** If the person procrastinates everywhere (the global pattern with the self-shame story), the path in this article applies. If the person procrastinates only on specific high-stakes work and is functional everywhere else, see the other article. See [[bound-the-behavior-find-where-it-doesnt-happen]] for the opening move that surfaces which pattern is operating.
 
 ## Sources
 

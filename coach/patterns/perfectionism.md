@@ -2,10 +2,10 @@
 type: pattern
 id: perfectionism
 title: "Perfectionism"
-aliases: ["being a perfectionist", "critical parent's voice", "trying to be perfect", "perfection seeking", "rigidity from perfectionism", "measuring up"]
+aliases: ["being a perfectionist", "critical parent's voice", "trying to be perfect", "perfection seeking", "rigidity from perfectionism", "measuring up", "the perfectionism that stops you from starting", "starting-perfectionism", "the kind of perfectionism that stops me from starting", "perfectionism that blocks engagement", "the perfectionism that prevents the first step"]
 tags: ["patterns", "shame", "productivity", "childhood", "rigidity", "voice in head"]
 related: ["connection-over-perfection", "shame-drives-behavior", "childhood-imprinting", "negative-self-reinforcement", "layered-resistance", "resistance", "impulse-to-should", "voice-in-the-head", "voice-creates-what-it-fears", "rehearsing-conversations"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-07-16_Who is the Voice in Your Head?", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
 ---
 
 # Perfectionism
@@ -25,6 +25,18 @@ Observable signals: rigidity in the musculature, excessive precision, second-gue
 Part of being perfect is not being a perfectionist. Naming someone as a perfectionist triggers them because it exposes the contradiction. The standard demands its own invisibility.
 
 The deepest depression correlates with the loudest perfectionist voice. People who feel most stagnant have a brain telling them they are not perfect and need to be, all the time.
+
+## The Kind That Stops You From Starting
+
+A specific variant worth distinguishing from the more familiar "redoing it over and over" form. The starting-perfectionism is the kind that prevents the first step. The person never gets to the iteration loop because they cannot begin.
+
+A man in a coaching session named this himself: "It's the kind that stops me from starting. It's that kind of perfectionism." The recognition matters because the two variants point in different directions. The redoing-it-over-and-over variant produces visible work that gets rejected and redone. The stops-you-from-starting variant produces no work at all. The first looks like overwork; the second looks like procrastination.
+
+The mechanism is the same — both are the perfectionist voice demanding a standard the work cannot meet — but the moment of failure is different. The redoing variant fails after engagement begins. The starting variant fails before engagement can begin. The body knows, before the work is done, that the work cannot meet the standard, and the body refuses to start.
+
+This is the form perfectionism takes in chronic procrastination on things that matter most. The person can engage with low-stakes work freely. The high-stakes work — the side project, the dream business, the writing, the art — sits untouched. The high stakes loaded the work with importance; the importance produced the perfectionism standard; the standard produced the cannot-start state. See [[importance-makes-the-task-un-fun]] for the upstream principle and [[the-perfectionism-that-stops-you-from-starting]] for the read.
+
+The intervention that lands for this variant is the same as for the redoing variant: [[redirect-from-doing-it-right-to-enjoying-it]]. But the diagnostic moment is different. With the starting variant, the work has not yet failed visibly. The person has not seen the perfectionism rejecting their output. They have only experienced the procrastination, which they often misread as a discipline problem or a motivation problem. Naming that the procrastination is perfectionism-driven (not discipline-driven) is itself the first move.
 
 ## The Mechanism
 
@@ -78,3 +90,4 @@ When stuck in a loop of planning but not executing. When the inner voice says "n
 
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
 - 2021-07-16_Who is the Voice in Your Head?
+- 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the distinction between "the kind of perfection where I'm not doing everything, redoing it and redoing it" and "the kind that stops me from starting"; perfectionism as the engine of side-project procrastination specifically; the relationship between importance-loading and the cannot-start state)

@@ -5,7 +5,7 @@ title: "Intention vs. Goal"
 aliases: ["intention not goal", "implementation agnostic intention", "intention vs mandate", "holding the intention", "the map intention", "attitude toward the goal", "the way you hold the goal", "attachment vs intention"]
 tags: ["intention", "goal", "direction", "process", "distinction"]
 related: ["pow-optimist", "process-over-result", "art-of-accomplishment", "acting-as-if-already-true", "five-principles-of-the-path", "wanting-vs-craving", "wants-over-shoulds", "enjoyment-as-path"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Intention vs. Goal
@@ -73,6 +73,24 @@ The mechanism: if you are attached to succeeding itself, the attachment grips th
 
 This is also why intention-based goals are more pivot-friendly. The intention "reduce carbon" survives the failure of any specific company. The goal "build this exact carbon product" does not.
 
+## The Mario Brothers Test
+
+The video-game example illustrates the same distinction from the play angle. The same goal -- "get to the next level of Mario Brothers" -- can be held two ways. As intention: "let's see if we can do that." As mandate-to-prove-self: "I'm not a good kid if I don't make this level." The first is playable. The second collapses the play.
+
+"Imagine you're playing Mario Brothers and all of a sudden you have to, do it, or your self-worth is dependent on -- you're not a good kid if you don't make Mario Brothers. All of a sudden, that level of force makes you resist the goal." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The distinction is the same as goal-vs-intention: the goal-held-as-intention produces engagement; the goal-held-as-identity-mandate produces force, which produces resistance, which crushes the play. See [[dont-let-goals-define-you]] for the anti-pattern this produces.
+
+## Acting as if the Intention Is Already Real
+
+A specific dimension of intention-holding: living as if the intention has already been achieved. The intention is not just held lightly as direction; it is enacted today as the operating mode.
+
+"Living as if the goal is there, is already made. ... To live in the goal, it's, oh, of course we have something valuable. Of course we will be successful. Living as if the goal has already succeeded is part of how the goals help you get to the place." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The basketball illustration: a team playing as if they are going to win plays differently from a team playing as if they are losing. The internal stance shows up in the moment-to-moment behavior. The intention held as a present-tense fact reorganizes the action. See [[acting-as-if-already-true]] for the full treatment.
+
+This is what distinguishes the intention from the mandate operationally. The mandate "I will reach $X" lives in the future as something not yet achieved. The intention "we are a company that does this" lives in the present as something already operating. The future-tense mandate produces chasing. The present-tense intention produces being-the-thing-already.
+
 ## The Connection to Process
 
 Intention pairs naturally with [[process-over-result]]. You hold the intention as orientation. You commit to the process of moving in that direction. You release attachment to any specific outcome arriving by any specific time. The form is allowed to change.
@@ -105,3 +123,4 @@ When you notice yourself bracing for a deadline that you set yourself, that is a
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the Mario Brothers test for goal-as-intention vs goal-as-self-worth-mandate; the basketball-acting-as-winning illustration of present-tense intention; set-and-forget Thanksgiving goals as the personal practice of intention-not-mandate; the "held so gently" quality as the diagnostic for intention vs goal)

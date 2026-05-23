@@ -2,10 +2,10 @@
 type: practice
 id: enjoy-this-just-a-little-bit-more
 title: "Enjoy This Just a Little Bit More (The Micro-Shift Practice)"
-aliases: ["enjoy this a little bit more", "the just-a-little-bit-more practice", "enjoy the moment a little bit more", "the micro-enjoyment shift", "the inward-shift practice", "the small enjoyment turn", "stop and enjoy this a little more", "the tiny enjoyment increment", "the nothing-has-to-change practice", "the small inward shift", "the take-a-breath-pay-attention enjoyment move", "the micro-practice for enjoyment"]
+aliases: ["enjoy this a little bit more", "the just-a-little-bit-more practice", "enjoy the moment a little bit more", "the micro-enjoyment shift", "the inward-shift practice", "the small enjoyment turn", "stop and enjoy this a little more", "the tiny enjoyment increment", "the nothing-has-to-change practice", "the small inward shift", "the take-a-breath-pay-attention enjoyment move", "the micro-practice for enjoyment", "enjoy this moment 10 percent more", "how do you enjoy this moment 10 percent more", "the 10 percent more variant", "the percentage version of the practice"]
 tags: ["practice", "enjoyment", "presence", "micro-shift", "body", "now"]
 related: ["enjoyment-as-path", "apply-enjoy-to-whats-here", "enjoy-your-breath-for-five-minutes", "how-would-you-enjoy-x", "how-is-that-not-here-right-now", "i-keep-postponing-enjoyment", "efficiency-as-enjoyment"]
-sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
+sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
 ---
 
 # Enjoy This Just a Little Bit More
@@ -38,6 +38,32 @@ Joe names several common forms the inward shift takes:
 "Maybe you took a breath, maybe you slowed down, maybe you paid attention to your body. There's lots of little things we can do that help us enjoy just a little bit more. If you're doing emails and you're rushing, it might not be as enjoyable as doing it a little more slowly. Or doing a little more slowly might not be as enjoyable as just feeling like you're pounding them out." -- Joe Hudson, How To Enjoy Your Work
 
 The shift is idiosyncratic. The same task could be enjoyed faster, slower, with music, in silence, with a sip of coffee, with a stretch. The practice is to notice what would make this particular moment a little more enjoyable, and do that.
+
+## The Percentage Variant ("Enjoy This Moment 10% More")
+
+A close variant Joe uses in live coaching: instead of "a little bit more," ask for a specific small percentage. "How do you enjoy this moment 10% more?" The percentage form does the same work as the verbal "a little bit more" but is even more operationally precise — it gives the body a small, defined target instead of an open invitation.
+
+In a coaching session with a man who had been procrastinating chronically on his side hustle, Joe used the percentage version as an in-session redirect after the man had been intellectualizing his procrastination:
+
+> "How do you enjoy this moment 10% more?"
+>
+> "This moment right now?"
+>
+> "This moment right now. Yeah, that looks like you did it."
+>
+> "Mm, I just appreciate that I'm here."
+>
+> "Yeah."
+>
+> "On a call with you and all these these people."
+>
+> "Yeah, that's how you enjoy your work more too."
+
+Two things happened in this brief exchange. First, the question pulled the man out of analyzing his procrastination and into a felt experience of the present. Second, his answer — appreciating being on the call — was the demonstration. Joe noted "that looks like you did it" as soon as the man's body settled into the question. The smile and the small softening were the evidence the move had landed.
+
+Then Joe made the move transferable: "that's how you enjoy your work more too." The same micro-practice that just shifted the man's state in the coaching room is the practice he was being asked to take to his desk. The percentage form is portable. The man can ask himself the same question while building his website.
+
+The "10%" choice of number matters. 50% would invite the trying mechanism. 1% would feel trivial. 10% is small enough to be reachable, large enough to be detectable. Calibrate to the person; sometimes 5% or 20% fits better. The principle is the same: a small specific increment, not a transformation.
 
 ## When to Use It
 
@@ -103,3 +129,4 @@ Light, almost casual. The practice loses its character when delivered with weigh
 ## Sources
 
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the three ways to enjoy your work more; the just-a-little-bit-more instruction; the nothing-has-to-change-outwardly framing; examples of inward shifts: breath, slowing, body attention, alternative rhythms; the email-pounding vs. email-slowing example showing the shift is idiosyncratic)
+- 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the "10% more" percentage variant of the practice; in-session use as a state-shifter while the person is mid-intellectualization; the explicit transfer move "that's how you enjoy your work more too" linking the in-session demonstration to the take-home practice)

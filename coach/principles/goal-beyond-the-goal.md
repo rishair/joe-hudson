@@ -5,7 +5,7 @@ title: "Focus Through the Goal"
 aliases: ["goal beyond the goal", "focus through the goal", "aim past the target", "tennis quarter principle", "having a bigger why"]
 tags: ["goals", "focus", "accomplishment", "principle"]
 related: ["tennis-quarter", "art-of-accomplishment", "intention-vs-goal", "consciousness-is-the-product"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Focus Through the Goal
@@ -29,6 +29,32 @@ The same dynamic operates in business and life. Focusing only on the goal of ear
 "Whether it be being the best company in the world, or whether it means beating the competition, or whether it means trying to change the world for the better through environmental solutions, or whether it means great customer service, whatever it is, having a goal that's beyond the goal that you have makes the goal more likely to be gotten." -- Joe Hudson, The Art of Accomplishment
 
 The mechanism: the larger goal organizes attention, choices, and effort around something that is not just hitting a number. The work becomes oriented to a bigger reason. The number gets hit because everything else got coherent.
+
+## The $12M Revenue Example
+
+A direct illustration: a CEO who has a goal of $12 million in revenue. If the goal stops at $12M, it is mercenary and brittle. If the goal is something the $12M serves, the work organizes differently and the $12M becomes a byproduct.
+
+"Oh, the need behind getting $12 million in revenue. Oh, that's the want to be secure. What's the need behind feeling secure? Oh, I want to feel like I can actually make a difference in the world. Okay. Now we're like, security and making a difference in the world is actually what we're after. The $12 million is just our strategy to get there. And if you see the thing as a strategy instead of the actual want, And you see, oh, then making that $12 million isn't about making $12 million. It is, oh, there's this way that I'm going to be able to have impact on the world." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The reframe: the dollar amount is the *strategy*. The thing the dollar amount is for -- the security, the impact, the consciousness it enables -- is the actual goal. Once seen this way, the work that produces the dollar amount becomes work that produces something the person actually wants. The energy available for it increases. The dollar amount arrives more easily as a byproduct.
+
+This is the same dynamic Joe observes in the CEOs he has worked with:
+
+"You see that with CEOs interpersonally all the time. ... The great CEOs that I know, their goal isn't to make money. Money is a necessity to get to the goal." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The mercenary CEO who makes money the goal hits a ceiling. The CEO whose goal is to make the best company, to dominate the category, to change the consumer experience, to reduce carbon -- and treats money as the necessary instrument for that goal -- consistently outperforms. The bigger goal makes the smaller goal more reachable.
+
+See [[need-behind-the-want]] for the practice of walking down through the strategy to the actual want.
+
+## Joe's Personal Application
+
+Joe applies this principle to his own self-awareness practice:
+
+"My goal isn't to become like self-aware guru, but my self-awareness is really important to get to be a great husband, to be a great dad, to be the leader that I want to be. So the self-awareness, which I do all the time, I'm constantly practicing and running experiments, is there to serve something that's greater than itself." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The self-awareness is the strategy. The husband, father, leader -- and ultimately the kinds of relationships those roles produce -- is the actual goal. The self-awareness work renews itself because it is in service of something larger; if the self-awareness were the goal, it would have stalled long ago.
+
+This is the same operating principle: aim past the immediate target. The aiming-past is what keeps the immediate practice from becoming stale or self-serving.
 
 ## The Connection to Consciousness
 
@@ -64,3 +90,4 @@ Practical, almost coaching-tip-like. Joe presents this as a concrete operating p
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the $12M revenue example walked down to security and then to making a difference; the explicit framing of the dollar amount as strategy rather than goal; Joe's self-awareness application showing the goal-beyond-the-goal in his own work; the CEOs-don't-make-money-the-goal observation as the pattern across great executives)

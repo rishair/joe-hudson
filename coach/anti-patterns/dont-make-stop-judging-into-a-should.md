@@ -5,7 +5,7 @@ title: "Don't Make 'Stop Judging' Into Another Should (You're Just Judging Yours
 aliases: ["don't make stop judging a should", "I shouldn't judge is another judgment", "the I-shouldn't-judge trap", "judging yourself for judging", "the meta-judgment loop", "stop judging becomes another judgment", "you can't should your way out of judgment", "should-stop-judging is itself judgment", "the moral-stop-judging trap", "the I-shouldn't-be-judgmental trap", "the new should about judgment", "telling yourself to stop judging is more judgment", "the judgment-about-judgment loop", "becoming judgmental about being judgmental", "the recursive judgment trap"]
 tags: ["anti-pattern", "judgment", "should", "self-judgment", "loops", "meta-pattern"]
 related: ["judgment-hurts-the-judger", "im-judgmental-how-do-i-stop", "should-as-threat", "stick-a-fucking-shit-in-front-of-the-should", "find-the-want-behind-the-should", "notice-what-judgment-costs-you-and-what-you-actually-want", "self-judgment-protects-from-emotion", "dont-make-listening-a-morality"]
-sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways"]
+sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
 ---
 
 # Don't Make "Stop Judging" Into Another Should (You're Just Judging Yourself for Judging)
@@ -62,6 +62,26 @@ The corrective move is to gently decline the meta-frame: "Forget should for a se
 
 The same anti-pattern shows up in self-coaching when the person reads about judgment, decides to stop, and constructs a new program of judgment-suppression. The program will fail in the same way and for the same reasons. The alternative is to notice the pattern when it happens, feel the cost, locate the underneath-emotion, and let the system update without an enforcement campaign.
 
+## The "I've Gotta Take the Pressure Off Myself" Instance
+
+A clean live example of this anti-pattern from a procrastination coaching session. The man had just recognized that his side-project perfectionism was making the work impossible. He moved to:
+
+> "Yeah, I got to take the pressure off myself."
+
+Joe stopped him immediately:
+
+> "That, that is a way to put pressure on yourself. 'I've got to take the pressure off myself.'"
+>
+> "Yeah, yeah, that's pressure, isn't it?"
+>
+> "That's more pressure."
+
+The recursion is the same as the judgment loop. The insight was real — he had been putting pressure on himself, and the pressure was producing the procrastination. But the conversion of the insight into "I gotta take the pressure off" added a new pressure (the pressure to take pressure off) on top of the original. The system now has two pressures where it had one.
+
+This is the exact same failure mode as "I shouldn't judge" — converting a felt recognition into a self-imposed program. The recognition wants to be lived from; the program wants to enforce. The enforcement is the pattern firing again in disguise.
+
+The corrective is structural, not motivational. The person does not need to be reminded that pressure produces pressure. They need to be redirected from the should frame ("I gotta do X") to the felt frame ("X is happening, let me notice and stay with what is here"). In the website case, Joe did not say "stop pressuring yourself." He said, two breaths later: "How do you enjoy this moment 10% more?" The redirect to the felt enjoy-frame bypasses the should loop entirely. See [[enjoy-this-just-a-little-bit-more]].
+
 ## A Related Anti-Pattern: Making Any Inner Work Into a Should
 
 This anti-pattern is one instance of a broader anti-pattern: making any inner work into a should. The same dynamic shows up with listening (see [[dont-make-listening-a-morality]]), with feeling emotions, with vulnerability, with VIEW. Any practice that is good for you becomes counterproductive when imposed via should.
@@ -75,3 +95,4 @@ The anti-pattern is not delivered as a scolding. The coach who catches themselve
 ## Sources
 
 - 2024-07-15_How To Stop Being Judgmental - 3 Ways (the explicit warning that telling yourself you shouldn't judge is itself a judgment that produces another judgment of self; the alternative formulation "just notice the pain, just notice what you want, allow yourself to go in that direction"; the framing of the should-stop-judging move as another instance of the same pattern it is trying to address)
+- 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the "I gotta take the pressure off myself / that's more pressure" exchange as a structurally identical instance of the same anti-pattern outside the judgment domain; the corrective move of redirecting to the felt enjoy-frame instead of arguing with the should)

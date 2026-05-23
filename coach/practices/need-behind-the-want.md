@@ -5,7 +5,7 @@ title: "Need Behind the Want"
 aliases: ["what's the need behind that want", "need behind want practice", "the want excavation", "drilling down on the want", "the want guilt practice", "writing down the guilty want", "tracing the want to the need", "the want-to-need question"]
 tags: ["wants", "practice", "shame", "guilt", "self-inquiry", "writing"]
 related: ["the-want", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "am-i-being-selfish", "feeling-the-want-as-emotion"]
-sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Need Behind the Want
@@ -69,6 +69,30 @@ This is why the practice is the inner version of the coaching move for [[am-i-be
 
 The four are complementary. The order is often: notice the should, locate the want underneath, sit with it as a feeling, then trace it to its need if the shame is still present.
 
+## The "What Does Your Heart Want?" Variant
+
+The same practice can be opened with a heart-anchored question rather than a guilt-anchored question. In Joe's company offsite, the goal-setting was conducted by asking:
+
+"What does your heart want for yourself in this business? What does your heart want for the business? What does your heart want for the community we serve?" -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The questions are themselves the first cascade step. They surface what the heart wants, which is upstream of what the head would normally name as the goal. The heart's answer is closer to a need-already than what would emerge from "what's our revenue target?"
+
+The variant is useful for two situations:
+
+1. **Group goal-setting.** The guilt-anchored opening ("what want do you feel most ashamed of?") is too vulnerable for a team context. The heart-anchored opening produces similar depth without requiring the same exposure.
+
+2. **People who do not feel safe naming their guilty wants.** Some clients cannot land in the guilt frame because the shame is too active. The heart frame bypasses the shame block and gets to the underlying need by a different path.
+
+The endpoint is the same: a clearer view of what the system actually wants underneath whatever surface goal was being set. The path to the endpoint can be guilt-down or heart-up depending on what works.
+
+## The Goal-as-Strategy Application
+
+A specific use of the cascade for goal-setting in business or personal life. Take the surface goal ($12M revenue, lose 20 pounds, build the perfect product), then ask the need-behind cascade. The cascade typically reveals that the surface goal is a *strategy* for what is actually wanted (security, vitality, impact). Once seen this way, the strategy is recognized as one of several possible strategies, the actual want is named, and the goal-relationship transforms.
+
+"Oh, the need behind getting $12 million in revenue. Oh, that's the want to be secure. What's the need behind feeling secure? Oh, I want to feel like I can actually make a difference in the world. ... If you see the thing as a strategy instead of the actual want ... then making that $12 million isn't about making $12 million. It is, oh, there's this way that I'm going to be able to have impact on the world." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+The reframe -- "the goal is the strategy, not the want" -- is what the cascade produces when applied to a goal rather than to a guilty want. See [[goal-beyond-the-goal]] for the related principle this surfaces in.
+
 ## When to Use This Practice
 
 - When [[am-i-being-selfish]] is the presenting concern
@@ -93,3 +117,4 @@ But Joe is clear that the original want should not be skipped just because a dee
 
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the "what does your heart want?" variant for group goal-setting; the goal-as-strategy application that uses the cascade to reveal the surface goal is the strategy and the deeper layer is the actual want; the $12M revenue example walked all the way to "make a difference in the world")

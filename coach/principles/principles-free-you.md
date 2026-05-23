@@ -5,7 +5,7 @@ title: "Living By Principles Frees You"
 aliases: ["principles create freedom", "principled living", "principles as empowerment", "elegant structure of principles", "personal constitution", "I don't work with assholes principle", "I put connection first principle", "principles handle the deciding in advance", "principled decisions evaporate the decision-feel", "principled decision-making", "decisions evaporate when principled", "live by principles to dissolve decisions", "the asshole principle", "connection-first principle"]
 tags: ["principles", "freedom", "empowerment", "structure", "values", "decisions"]
 related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment", "good-decision-is-how-you-make-it-not-the-outcome", "decisions-as-portfolio", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "surrender-the-outcome-of-a-decision", "principled-board-decision", "wrestle-with-your-principles", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "rollout-principles-in-organization", "ray-dalio-transparency"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # Living By Principles Frees You
@@ -154,6 +154,18 @@ This explains why the leaders Joe knows who run principled businesses are the ha
 
 The coaching implication: when working with someone who has good principles but no joy, the work is on the joy side. The principles are intact. The emotional fluidity that produces joy has not been developed alongside them. When working with someone who has joy but is being asked about principles, the work is gentle: their joy has likely already organized their life around what amounts to principles even if they would not call them that.
 
+## Principles Sit Underneath Goals and Metrics
+
+The principles layer also has a structural relationship to the goals layer and the metrics layer that sit on top of it. The principles set the parameters within which any specific goal is pursued. The goals are the north stars derived from the principles in any given domain. The metrics are the dashboards that report on whether the work is moving toward the goals.
+
+"The principle is how do you wanna drive. The goal is the north star, the metrics of the dashboard. It lets you know how you're doing, if you're getting there, what you need to do." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+This is the stack: principles -> goals -> metrics. The principles ensure alignment in the goals across an organization or across the domains of a single life. The goals provide direction within the principles. The metrics provide feedback. Each layer does a job the others cannot do.
+
+The most common dysfunction is collapsing the layers -- treating metrics as goals, treating goals as principles, or having goals that are not actually constrained by principles. See [[principles-goals-metrics]] for the full framework treatment and [[dont-confuse-the-metric-with-the-goal]] for the specific anti-pattern.
+
+The reverse also holds: principles are what make goals legible to a board, a team, or a future-self. A principle like "I put connection first" allows any goal in any domain to be evaluated against it. Without the principle, the goal has to be re-justified in every situation. With the principle, the goal inherits the justification structurally.
+
 ## In Organizations
 
 The same principles operate at organizational scale. A company runs on principles whether they are articulated or not. When they are not articulated, the principles are typically the CEO's unconscious patterns ("the company is run by trying to make the CEO happy"). When they are articulated and rolled out well, they become the operating system for distributed decision-making.
@@ -184,3 +196,4 @@ For an extended example of principles in operation at a major firm, see [[ray-da
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
 - 2024-03-15_Joy (the asymmetry between principles and joy: principles can get you closer to joy but cannot ensure it, while joy ensures principles; the mechanism by which most principles include a lean-in commitment that structurally produces the conditions for joy; the leaders-who-run-principled-businesses-are-happier-leaders observation)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical principles-vs-joy asymmetry teaching and lean-in-principle mechanism)
+- 2025-05-09_Why Your Goals Are Making You Miserable (the principles-goals-metrics stack with principles as the "how do you wanna drive" layer underneath goals and metrics; principles as what ensures alignment in goals across an organization; the structural relationship to [[principles-goals-metrics]] framework)

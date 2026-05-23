@@ -266,6 +266,7 @@
     "scorecard-keeping-as-identity-structure",
     "what-are-you-trying-to-control-for",
     "coaching-as-surrogate-intimacy",
+    "dont-confuse-the-metric-with-the-goal",
     "money-as-paint",
     "money-as-surrogate",
     "money-is-impersonal",
@@ -403,6 +404,7 @@
   ],
   "wants-deepen-as-you-follow-them": [
     "am-i-being-selfish",
+    "intrinsic-drive-to-build",
     "the-want",
     "find-the-want-behind-the-should",
     "turn-blame-into-wants",
@@ -412,6 +414,7 @@
     "boundaries-expand-as-capacity-grows",
     "cant-argue-with-your-want",
     "enjoyment-as-surrender",
+    "goals-must-come-from-actual-want",
     "owning-the-want-dissolves-it",
     "selfishness-is-the-engine-of-unity",
     "there-is-no-better-person-on-the-other-side",
@@ -429,6 +432,7 @@
     "if-i-were-inherently-good",
     "whats-the-most-profound-positive-shift",
     "fear-as-signal-of-care",
+    "intrinsic-drive-to-build",
     "joy-of-accomplishment-is-the-absence-of-wants",
     "money-as-surrogate",
     "poverty-mentality",
@@ -439,11 +443,13 @@
     "rehearsing-conversations",
     "admire-what-you-crave",
     "be-intimate-with-the-feeling",
+    "did-you-actually-feel-the-wanting",
     "find-the-want-behind-the-should",
     "say-no-to-find-the-want",
     "external-freedom-vs-internal-freedom",
     "i-get-to-vs-i-have-to",
     "wanting-vs-craving",
+    "wanting-vs-wanting-to-want",
     "asking-dissolves-the-not-okay-to-want",
     "cant-argue-with-your-want",
     "craving-is-the-pushing-away",
@@ -632,6 +638,7 @@
     "say-the-forbidden-want-out-loud",
     "speak-your-own-elephant-to-surface-theirs",
     "wanting-vs-craving",
+    "wanting-vs-wanting-to-want",
     "wants-vs-partiality",
     "asking-dissolves-the-not-okay-to-want",
     "cant-argue-with-your-want",
@@ -648,11 +655,18 @@
   ],
   "need-behind-the-want": [
     "am-i-being-selfish",
+    "goals-make-me-miserable",
     "if-i-were-inherently-good",
+    "the-inner-board",
     "the-want",
+    "did-you-actually-feel-the-wanting",
+    "goal-beyond-the-goal",
+    "goals-must-come-from-actual-want",
+    "goals-reveal-your-relationship-to-yourself",
     "selfishness-is-the-engine-of-unity",
     "wants-deepen-as-you-follow-them",
-    "rapid-fire-coaching-impulse-check"
+    "rapid-fire-coaching-impulse-check",
+    "principles-goals-metrics"
   ],
   "wants-over-shoulds": [
     "am-i-being-selfish",
@@ -668,10 +682,12 @@
     "limiting-belief-meta-trap",
     "burnout-cycle",
     "depression-four-levels",
+    "intrinsic-drive-to-build",
     "iterative-mindset",
     "money-as-paint",
     "obligation-as-management",
     "should-as-threat",
+    "the-inner-board",
     "the-want",
     "untruth-in-every-thought",
     "voice-in-the-head",
@@ -679,6 +695,7 @@
     "quit-hope-lose-cycle",
     "rebellion-or-submission-to-should",
     "the-four-authority-positions",
+    "did-you-actually-feel-the-wanting",
     "how-could-you-do-this-and-gain-energy",
     "meet-resistance-with-okay",
     "say-no-to-find-the-want",
@@ -686,6 +703,7 @@
     "i-get-to-vs-i-have-to",
     "improvement-vs-authenticity",
     "raw-ambition-vs-stories-on-ambition",
+    "wanting-vs-wanting-to-want",
     "caring-what-others-think-is-the-burnout-engine",
     "dont-shame-kids-they-self-shame",
     "enjoyment-as-path",
@@ -693,6 +711,8 @@
     "expensive-to-be-poor",
     "gentleness-not-trying-to-be-patient",
     "giving-from-desire-not-obligation",
+    "goals-must-come-from-actual-want",
+    "goals-reveal-your-relationship-to-yourself",
     "nature-improves-itself",
     "nervous-system-recovery-after-stress",
     "nothing-is-wrong-with-it-its-just-painful",
@@ -761,6 +781,316 @@
     "anger-is-love",
     "connection-doesnt-require-the-other",
     "esme-just-need-to-be-sad"
+  ],
+  "i-should-be-doing-this": [
+    "goals-make-me-miserable",
+    "how-do-i-stop-watching-porn-and-procrastinating",
+    "i-cant-be-disciplined",
+    "i-caretake-people",
+    "i-dont-want-to-take-responsibility",
+    "i-freeze-around-authority",
+    "i-keep-crashing-and-burning",
+    "i-keep-running-into-the-same-wall",
+    "i-need-a-scorecard",
+    "i-need-to-improve-myself",
+    "im-a-failure",
+    "im-afraid-of-offending-people",
+    "im-burned-out",
+    "im-exhausted-holding-space-for-my-partner",
+    "im-not-living-up-to-my-potential",
+    "my-inner-critic-wont-stop",
+    "should-i-be-in-a-relationship-at-all",
+    "should-i-stay-with-my-ex",
+    "should-i-stop-drinking",
+    "acceptance-without-love",
+    "composing-in-the-session-itself",
+    "decision-question-covers-the-caretaking",
+    "hidden-rebellion-under-the-habit",
+    "insight-converted-to-task-in-real-time",
+    "the-blank-place-as-refuge",
+    "the-question-itself-is-the-abandonment",
+    "whats-the-for-part",
+    "anger",
+    "money-as-surrogate",
+    "trigger",
+    "voice-in-the-head",
+    "epiphany-becomes-task",
+    "mental-task-inflation",
+    "feel-the-love-then-feel-obligation",
+    "nervous-system-recovery-after-stress",
+    "obligation-cuts-off-love",
+    "wants-over-shoulds",
+    "should-vs-want-body-check"
+  ],
+  "the-inner-board": [
+    "goals-make-me-miserable",
+    "board-prep-as-misalignment-signal",
+    "goals-give-you-the-questions",
+    "did-you-actually-feel-the-wanting",
+    "bottom-up-vs-top-down-goals",
+    "wanting-vs-wanting-to-want",
+    "goals-must-come-from-actual-want",
+    "goals-reveal-your-relationship-to-yourself",
+    "set-and-forget-goals",
+    "principles-goals-metrics"
+  ],
+  "goals-must-come-from-actual-want": [
+    "goals-make-me-miserable",
+    "board-prep-as-misalignment-signal",
+    "goals-give-you-the-questions",
+    "the-inner-board",
+    "bottom-up-vs-top-down-goals",
+    "friction-is-required-for-life",
+    "celebrate-failures-publicly",
+    "set-and-forget-goals"
+  ],
+  "goals-reveal-your-relationship-to-yourself": [
+    "goals-make-me-miserable"
+  ],
+  "did-you-actually-feel-the-wanting": [
+    "goals-make-me-miserable",
+    "the-inner-board",
+    "bottom-up-vs-top-down-goals",
+    "wanting-vs-wanting-to-want",
+    "friction-is-required-for-life",
+    "goals-must-come-from-actual-want",
+    "principles-goals-metrics"
+  ],
+  "shame-drives-behavior": [
+    "goals-make-me-miserable",
+    "i-cant-apologize",
+    "i-cant-be-disciplined",
+    "i-have-imposter-syndrome",
+    "i-keep-crashing-and-burning",
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
+    "should-i-stop-drinking",
+    "insight-converted-to-task-in-real-time",
+    "self-blame-as-tether-to-the-lost",
+    "how-is-it-not-your-fault-that-its-always-your-fault",
+    "who-isnt-an-imposter",
+    "dont-extract-apologies",
+    "dont-shame-kids-the-behavior-wont-change",
+    "blocker-emotions",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "fear-of-success-as-projected-failure",
+    "impartiality",
+    "resistance",
+    "shame-as-disconnection",
+    "shame-stagnates-emotion",
+    "should-as-threat",
+    "three-keepers-of-stuck-beliefs",
+    "upright-apology",
+    "voice-in-the-head",
+    "addiction-to-shame",
+    "epiphany-becomes-task",
+    "forms-of-dysfunctional-apology",
+    "latticework-of-limiting-beliefs",
+    "negative-self-reinforcement",
+    "perfectionism",
+    "rebellion-or-submission-to-should",
+    "religious-identity-around-pain",
+    "rumination-creates-what-it-ruminates-about",
+    "shame-after-spaciousness",
+    "shame-hot-potato",
+    "the-shame-avoidance-loop",
+    "acknowledge-the-fear-by-role",
+    "feel-the-shame-then-feel-the-opposite",
+    "name-the-pattern-of-converting-insight-to-task",
+    "reframe-the-question-to-the-blocker-emotion",
+    "state-no-wish-for-their-shame",
+    "the-forgive-this-or-stop-blaming-everything-choice",
+    "turn-blame-into-wants",
+    "welcome-the-shame-without-extracting",
+    "criticism-vs-critique",
+    "defense-vs-love",
+    "empowered-vs-power",
+    "fault-vs-responsibility",
+    "improvement-vs-authenticity",
+    "past-shame-vs-current-shame",
+    "wants-vs-partiality",
+    "address-the-blocker-not-the-symptom",
+    "avoid-the-decision-by-design",
+    "caretaking-prevents-the-bottom",
+    "dont-shame-kids-they-self-shame",
+    "embracing-changes-unconscious-decisions",
+    "endurance-blocks-transformation",
+    "full-understanding-of-a-behavior-dissolves-it",
+    "gentleness-not-trying-to-be-patient",
+    "giving-from-desire-not-obligation",
+    "helplessness-is-the-gateway",
+    "honor-the-patterns-intent",
+    "inherent-goodness",
+    "management-is-for-shame-love-needs-no-management",
+    "nervous-system-recovery-after-stress",
+    "refuse-to-be-defined-by-the-worst-act",
+    "seeing-through-essential-wrongness",
+    "self-blame-abdicates-others-agency",
+    "self-improvement-is-shame-inducing",
+    "shame-is-anger-turned-inward",
+    "three-stages-of-the-blame-path",
+    "unconscious-principles-run-your-life",
+    "voice-creates-what-it-fears",
+    "wants-over-shoulds",
+    "what-was-done-to-you-youre-now-doing-to-yourself",
+    "what-we-fear-we-invite",
+    "apologize-as-daily-practice-for-bad-habits",
+    "patient-on-the-table",
+    "self-forgiveness-as-spoken-move",
+    "sit-with-the-aftermath",
+    "three-month-inherent-goodness-experiment",
+    "4-keys-to-save-your-relationship",
+    "fear-triangle",
+    "seven-limiting-beliefs",
+    "breakup-self-blame-session",
+    "do-i-stop-drinking-session",
+    "joes-26-year-old-list",
+    "joes-pot-habit",
+    "the-fired-product-head-now-150k-a-week"
+  ],
+  "dont-confuse-the-metric-with-the-goal": [
+    "goals-make-me-miserable",
+    "principles-free-you",
+    "track-process-metrics-not-outcomes",
+    "principles-goals-metrics"
+  ],
+  "principles-goals-metrics": [
+    "goals-make-me-miserable",
+    "dont-confuse-the-metric-with-the-goal",
+    "board-prep-as-misalignment-signal",
+    "goals-give-you-the-questions",
+    "the-inner-board",
+    "bottom-up-vs-top-down-goals",
+    "goals-must-come-from-actual-want",
+    "principles-free-you",
+    "track-process-metrics-not-outcomes",
+    "set-and-forget-goals"
+  ],
+  "friction-is-required-for-life": [
+    "goals-make-me-miserable",
+    "connection",
+    "bottom-up-vs-top-down-goals",
+    "how-you-fight-not-how-often",
+    "politics-from-unclear-standards",
+    "three-effects-of-connection",
+    "black-swan-small-collapses-prevent-big-ones"
+  ],
+  "goals-give-you-the-questions": [
+    "goals-make-me-miserable",
+    "dont-let-goals-define-you",
+    "set-and-forget-goals",
+    "principles-goals-metrics"
+  ],
+  "acting-as-if-already-true": [
+    "goals-make-me-miserable",
+    "goals-give-you-the-questions",
+    "empowered-vs-power",
+    "intention-vs-goal",
+    "annihilation-reveals-what-is-real",
+    "feared-consequences-rarely-happen",
+    "principles-free-you",
+    "world-reorganizes-around-self-possession",
+    "set-and-forget-goals",
+    "principles-goals-metrics",
+    "pow-optimist"
+  ],
+  "dont-let-goals-define-you": [
+    "goals-make-me-miserable",
+    "goals-give-you-the-questions",
+    "intention-vs-goal",
+    "goals-reveal-your-relationship-to-yourself",
+    "celebrate-failures-publicly",
+    "set-and-forget-goals"
+  ],
+  "set-and-forget-goals": [
+    "goals-make-me-miserable"
+  ],
+  "celebrate-failures-publicly": [
+    "goals-make-me-miserable",
+    "goals-reveal-your-relationship-to-yourself"
+  ],
+  "i-need-a-scorecard": [
+    "goals-make-me-miserable",
+    "how-do-i-be-happy",
+    "how-do-i-stop-seeking-approval",
+    "how-do-i-trust-myself",
+    "whats-next-after-i-reached-my-big-goal",
+    "scorecard-keeping-as-identity-structure",
+    "the-emotional-hangover-of-false-productivity",
+    "tell-the-unchanging-part-it-has-to-move",
+    "what-if-there-was-no-scorecard",
+    "what-was-x-going-to-get-you",
+    "whats-the-scorecard-that-cant-be-taken-away",
+    "dont-confuse-the-metric-with-the-goal",
+    "dont-let-goals-define-you",
+    "dont-use-measurement-to-beat-yourself-up",
+    "gratitude-as-a-strategy-for-an-outcome",
+    "surface-the-assumed-dichotomy",
+    "compass-not-map",
+    "acknowledging-death-compresses-life",
+    "caring-what-others-think-is-the-burnout-engine",
+    "only-your-own-judgment-matters",
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "putting-someone-above-blocks-emotion",
+    "chase-your-own-approval",
+    "principles-goals-metrics"
+  ],
+  "ill-become-lazy-without-shoulds": [
+    "goals-make-me-miserable",
+    "i-cant-be-disciplined",
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "if-i-had-more-money",
+    "im-afraid-i-wont-get-anything-done",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-afraid-of-stagnating",
+    "im-burned-out",
+    "my-inner-critic-wont-stop",
+    "any-amount-answer-as-total-installation",
+    "looking-for-whats-wrong",
+    "joy-of-accomplishment-is-the-absence-of-wants",
+    "voice-in-the-head",
+    "urgency-as-motivation",
+    "lack-of-enjoyment-as-diagnostic",
+    "say-no-to-find-the-want",
+    "surface-the-assumed-dichotomy",
+    "bracing-as-control-of-emotional-experience",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "inherent-goodness",
+    "nature-improves-itself",
+    "obligation-cuts-off-love",
+    "shame-drives-behavior",
+    "wants-over-shoulds",
+    "dont-improve-for-two-weeks",
+    "joes-stinky-house-experiment"
+  ],
+  "whats-next-after-i-reached-my-big-goal": [
+    "goals-make-me-miserable",
+    "i-cant-feel-my-emotions",
+    "im-not-living-up-to-my-potential",
+    "chin-up-as-emotion-block",
+    "intellectual-process-with-no-somatic-component",
+    "self-blame-as-tether-to-the-lost",
+    "what-is-the-productivity-for",
+    "what-was-x-going-to-get-you",
+    "intrinsic-drive-to-build",
+    "swap-roles-with-the-younger-self",
+    "the-head-cant-know-who-you-are",
+    "ten-percent-more-connected-experiment",
+    "toggle-between-opposite-emotions-then-hold-both",
+    "doug-hug-the-demon-financial-safety"
+  ],
+  "im-judgmental-how-do-i-stop": [
+    "goals-make-me-miserable",
+    "letting-judgment-in",
+    "pointers-to-unseen-parts",
+    "notice-what-judgment-costs-you-and-what-you-actually-want",
+    "judgment-hurts-the-judger",
+    "superiority-and-shame-erode-together"
   ],
   "5-ways-to-stay-unhappy": [
     "how-do-i-be-happy",
@@ -1041,7 +1371,8 @@
   ],
   "what-was-x-going-to-get-you": [
     "how-do-i-be-happy",
-    "what-is-the-productivity-for"
+    "what-is-the-productivity-for",
+    "prove-why-its-important"
   ],
   "self-improvement-is-shame-inducing": [
     "how-do-i-be-happy",
@@ -1066,6 +1397,7 @@
     "scorecard-keeping-as-identity-structure",
     "tell-the-unchanging-part-it-has-to-move",
     "burnout-cycle",
+    "intrinsic-drive-to-build",
     "surface-the-assumed-dichotomy",
     "compass-not-map",
     "improvement-vs-authenticity",
@@ -1090,6 +1422,7 @@
     "how-do-i-navigate-this-uncertain-time",
     "how-do-i-stop-watching-porn-and-procrastinating",
     "i-cant-find-my-purpose",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
     "im-not-living-up-to-my-potential",
     "anxiety-when-confronting-what-you-want",
     "seeking-as-the-wall",
@@ -1125,28 +1458,6 @@
     "apply-enjoy-to-whats-here",
     "enjoyment-attracts",
     "enjoy-this-just-a-little-bit-more"
-  ],
-  "i-need-a-scorecard": [
-    "how-do-i-be-happy",
-    "how-do-i-stop-seeking-approval",
-    "how-do-i-trust-myself",
-    "whats-next-after-i-reached-my-big-goal",
-    "scorecard-keeping-as-identity-structure",
-    "the-emotional-hangover-of-false-productivity",
-    "tell-the-unchanging-part-it-has-to-move",
-    "what-if-there-was-no-scorecard",
-    "what-was-x-going-to-get-you",
-    "whats-the-scorecard-that-cant-be-taken-away",
-    "dont-use-measurement-to-beat-yourself-up",
-    "gratitude-as-a-strategy-for-an-outcome",
-    "surface-the-assumed-dichotomy",
-    "compass-not-map",
-    "acknowledging-death-compresses-life",
-    "caring-what-others-think-is-the-burnout-engine",
-    "only-your-own-judgment-matters",
-    "productivity-is-the-trees-purpose-is-the-forest",
-    "putting-someone-above-blocks-emotion",
-    "chase-your-own-approval"
   ],
   "money-is-bad": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -1208,8 +1519,14 @@
   ],
   "answer-from-inside-the-feeling-not-outside-it": [
     "how-do-i-create-wealth-and-financial-stability",
+    "im-not-comfortable-sharing-my-story",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
+    "whats-your-truth-in-this-moment",
     "unsafety-as-aliveness-vehicle",
-    "name-the-gap-between-felt-story-and-lived-evidence"
+    "name-the-gap-between-felt-story-and-lived-evidence",
+    "name-the-shift-everyone-felt",
+    "walk-into-the-discomfort-and-speak-from-there",
+    "whats-happening-in-your-system-three-modes"
   ],
   "money-is-impersonal": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -1440,6 +1757,7 @@
     "the-blank-place-as-refuge",
     "the-smile-of-recognition",
     "the-trying-is-the-pattern-firing-now",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "is-it-not-feeling-or-repressing-what-arises",
     "what-were-your-parents-scared-of",
     "amplify-the-dissociation-then-opposite-with-no-effort",
@@ -1555,7 +1873,8 @@
     "how-do-i-love-myself-and-express-my-emotions",
     "theres-a-voice-that-says-im-fake-around-everyone",
     "disassociating-in-the-coaching-room",
-    "name-the-appreciation-arriving-in-the-moment"
+    "name-the-appreciation-arriving-in-the-moment",
+    "parallel-the-clients-own-survival-skill-to-the-present"
   ],
   "how-do-i-love-myself": [
     "how-do-i-love-myself-and-express-my-emotions",
@@ -1572,8 +1891,11 @@
   "i-get-anxious-in-relationships": [
     "how-do-i-love-myself-and-express-my-emotions",
     "i-want-to-be-authentic-on-stage",
+    "im-not-comfortable-sharing-my-story",
     "cutting-off-your-own-authenticity-in-real-time",
     "interrupting-your-own-descent",
+    "the-control-after-the-truth",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "dont-suppress-emotion-to-perform",
     "false-front",
     "ask-whats-wrong-with-you-into-the-shame",
@@ -1592,6 +1914,7 @@
   "how-do-i-love-myself-and-express-my-emotions": [
     "how-do-i-love-myself",
     "i-cant-feel-my-emotions",
+    "im-not-comfortable-sharing-my-story",
     "disassociating-in-the-coaching-room",
     "the-trying-is-the-pattern-firing-now",
     "ask-for-the-scariest-question",
@@ -1710,6 +2033,7 @@
     "anger",
     "depression-four-levels",
     "failure-is-an-idea",
+    "the-inner-board",
     "rumination-creates-what-it-ruminates-about",
     "shame-after-spaciousness",
     "three-forms-of-anger-repression",
@@ -1725,6 +2049,7 @@
     "attempt-over-success-in-parenting",
     "awareness-of-pattern-is-halfway-through",
     "dont-believe-the-stories-you-tell-yourself",
+    "goals-reveal-your-relationship-to-yourself",
     "management-is-for-shame-love-needs-no-management",
     "peace-is-what-we-resist-the-most",
     "punishing-the-remembering",
@@ -1860,6 +2185,8 @@
     "view-as-technique",
     "why-questions",
     "empathy",
+    "goals-give-you-the-questions",
+    "intrinsic-drive-to-build",
     "iterative-mindset",
     "limiting-belief",
     "listening",
@@ -2255,6 +2582,7 @@
     "scorecard-keeping-as-identity-structure",
     "art-of-accomplishment",
     "pulling-the-brakes",
+    "bound-the-behavior-find-where-it-doesnt-happen",
     "purpose-is-acknowledgement-not-approval",
     "caring-what-others-think-is-the-burnout-engine",
     "seeking-approval-pushes-people-away",
@@ -2354,12 +2682,15 @@
     "interrupting-your-own-descent",
     "purpose-as-approval-seeking-in-disguise",
     "shame-blocks-connection-in-real-time",
+    "the-control-after-the-truth",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "how-do-you-abandon-yourself",
     "compassion-as-truth-from-open-heart",
     "have-them-receive-your-listening",
     "point-out-theyre-already-doing-it",
     "speak-from-listening",
     "surface-the-spectrum-of-presence-in-real-time",
+    "walk-into-the-discomfort-and-speak-from-there",
     "embodied-love-vs-vacuous-presence",
     "caring-what-others-think-is-the-burnout-engine",
     "seeking-approval-pushes-people-away",
@@ -2403,6 +2734,7 @@
   "speaking-truth-cures-approval-seeking": [
     "how-do-i-stop-seeking-approval",
     "pucker-before-truth",
+    "the-control-after-the-truth",
     "channeling-quality-of-truth",
     "three-blocks-to-speaking-truth",
     "what-did-i-do-wrong-response-to-aggression",
@@ -2421,6 +2753,8 @@
     "how-do-i-stop-seeking-approval",
     "how-do-i-trust-myself",
     "pucker-before-truth",
+    "the-control-after-the-truth",
+    "whats-your-truth-in-this-moment",
     "channeling-quality-of-truth",
     "three-blocks-to-speaking-truth",
     "speaking-truth-cures-approval-seeking",
@@ -2647,12 +2981,14 @@
   ],
   "you-cannot-make-people-happy": [
     "how-do-i-stop-seeking-approval",
+    "dont-confuse-the-metric-with-the-goal",
     "doubt-requires-closed-heart",
     "simultaneous-reception-is-uncontrollable",
     "world-reorganizes-around-self-possession"
   ],
   "i-cant-be-disciplined": [
     "how-do-i-stop-watching-porn-and-procrastinating",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
     "ill-become-lazy-without-shoulds",
     "im-a-failure",
     "should-i-stop-drinking",
@@ -2671,6 +3007,7 @@
     "how-do-i-stop-watching-porn-and-procrastinating",
     "i-cant-be-disciplined",
     "what-am-i",
+    "bound-the-behavior-find-where-it-doesnt-happen",
     "name-the-avoidance-cascade-from-essence-to-addiction",
     "strip-the-story-and-re-ask-the-question",
     "the-brain-is-the-brakes"
@@ -2710,6 +3047,7 @@
     "questioning-the-positive-state",
     "the-happiness-filter",
     "the-trying-is-the-pattern-firing-now",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "trying-to-get-rid-of-the-emotion",
     "is-it-not-feeling-or-repressing-what-arises",
     "dont-go-after-every-emotion-at-once",
@@ -2783,44 +3121,17 @@
     "joes-bathroom-realization",
     "musk-deer-parable"
   ],
-  "i-should-be-doing-this": [
+  "i-procrastinate-only-on-the-thing-that-matters-most": [
     "how-do-i-stop-watching-porn-and-procrastinating",
-    "i-cant-be-disciplined",
-    "i-caretake-people",
-    "i-dont-want-to-take-responsibility",
-    "i-freeze-around-authority",
-    "i-keep-crashing-and-burning",
-    "i-keep-running-into-the-same-wall",
-    "i-need-a-scorecard",
-    "i-need-to-improve-myself",
-    "im-a-failure",
-    "im-afraid-of-offending-people",
-    "im-burned-out",
-    "im-exhausted-holding-space-for-my-partner",
-    "im-not-living-up-to-my-potential",
-    "my-inner-critic-wont-stop",
-    "should-i-be-in-a-relationship-at-all",
-    "should-i-stay-with-my-ex",
-    "should-i-stop-drinking",
-    "acceptance-without-love",
-    "composing-in-the-session-itself",
-    "decision-question-covers-the-caretaking",
-    "hidden-rebellion-under-the-habit",
-    "insight-converted-to-task-in-real-time",
-    "the-blank-place-as-refuge",
-    "the-question-itself-is-the-abandonment",
-    "whats-the-for-part",
-    "anger",
-    "money-as-surrogate",
-    "trigger",
-    "voice-in-the-head",
-    "epiphany-becomes-task",
-    "mental-task-inflation",
-    "feel-the-love-then-feel-obligation",
-    "nervous-system-recovery-after-stress",
-    "obligation-cuts-off-love",
-    "wants-over-shoulds",
-    "should-vs-want-body-check"
+    "the-perfectionism-that-stops-you-from-starting",
+    "be-a-good-boss-to-yourself",
+    "importance-makes-the-task-un-fun"
+  ],
+  "bound-the-behavior-find-where-it-doesnt-happen": [
+    "how-do-i-stop-watching-porn-and-procrastinating",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "the-perfectionism-that-stops-you-from-starting",
+    "prove-why-its-important"
   ],
   "parts-work-made-things-worse": [
     "how-do-i-trust-myself",
@@ -3226,101 +3537,6 @@
     "breakup-self-blame-session",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint"
   ],
-  "shame-drives-behavior": [
-    "i-cant-apologize",
-    "i-cant-be-disciplined",
-    "i-have-imposter-syndrome",
-    "i-keep-crashing-and-burning",
-    "i-need-to-improve-myself",
-    "i-should-be-doing-this",
-    "ill-become-lazy-without-shoulds",
-    "im-afraid-ill-revert-to-my-old-pattern",
-    "im-afraid-of-stagnating",
-    "my-inner-critic-wont-stop",
-    "should-i-stop-drinking",
-    "insight-converted-to-task-in-real-time",
-    "self-blame-as-tether-to-the-lost",
-    "how-is-it-not-your-fault-that-its-always-your-fault",
-    "who-isnt-an-imposter",
-    "dont-extract-apologies",
-    "dont-shame-kids-the-behavior-wont-change",
-    "blocker-emotions",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "fear-of-success-as-projected-failure",
-    "impartiality",
-    "resistance",
-    "shame-as-disconnection",
-    "shame-stagnates-emotion",
-    "should-as-threat",
-    "three-keepers-of-stuck-beliefs",
-    "upright-apology",
-    "voice-in-the-head",
-    "addiction-to-shame",
-    "epiphany-becomes-task",
-    "forms-of-dysfunctional-apology",
-    "latticework-of-limiting-beliefs",
-    "negative-self-reinforcement",
-    "perfectionism",
-    "rebellion-or-submission-to-should",
-    "religious-identity-around-pain",
-    "rumination-creates-what-it-ruminates-about",
-    "shame-after-spaciousness",
-    "shame-hot-potato",
-    "the-shame-avoidance-loop",
-    "acknowledge-the-fear-by-role",
-    "feel-the-shame-then-feel-the-opposite",
-    "name-the-pattern-of-converting-insight-to-task",
-    "reframe-the-question-to-the-blocker-emotion",
-    "state-no-wish-for-their-shame",
-    "the-forgive-this-or-stop-blaming-everything-choice",
-    "turn-blame-into-wants",
-    "welcome-the-shame-without-extracting",
-    "criticism-vs-critique",
-    "defense-vs-love",
-    "empowered-vs-power",
-    "fault-vs-responsibility",
-    "improvement-vs-authenticity",
-    "past-shame-vs-current-shame",
-    "wants-vs-partiality",
-    "address-the-blocker-not-the-symptom",
-    "avoid-the-decision-by-design",
-    "caretaking-prevents-the-bottom",
-    "dont-shame-kids-they-self-shame",
-    "embracing-changes-unconscious-decisions",
-    "endurance-blocks-transformation",
-    "full-understanding-of-a-behavior-dissolves-it",
-    "gentleness-not-trying-to-be-patient",
-    "giving-from-desire-not-obligation",
-    "helplessness-is-the-gateway",
-    "honor-the-patterns-intent",
-    "inherent-goodness",
-    "management-is-for-shame-love-needs-no-management",
-    "nervous-system-recovery-after-stress",
-    "refuse-to-be-defined-by-the-worst-act",
-    "seeing-through-essential-wrongness",
-    "self-blame-abdicates-others-agency",
-    "self-improvement-is-shame-inducing",
-    "shame-is-anger-turned-inward",
-    "three-stages-of-the-blame-path",
-    "unconscious-principles-run-your-life",
-    "voice-creates-what-it-fears",
-    "wants-over-shoulds",
-    "what-was-done-to-you-youre-now-doing-to-yourself",
-    "what-we-fear-we-invite",
-    "apologize-as-daily-practice-for-bad-habits",
-    "patient-on-the-table",
-    "self-forgiveness-as-spoken-move",
-    "sit-with-the-aftermath",
-    "three-month-inherent-goodness-experiment",
-    "4-keys-to-save-your-relationship",
-    "fear-triangle",
-    "seven-limiting-beliefs",
-    "breakup-self-blame-session",
-    "do-i-stop-drinking-session",
-    "joes-26-year-old-list",
-    "joes-pot-habit",
-    "the-fired-product-head-now-150k-a-week"
-  ],
   "apologize-to-exit-a-fight": [
     "i-cant-apologize",
     "apologies-as-power-struggle-surrogate",
@@ -3427,34 +3643,6 @@
     "avoid-the-decision-by-design",
     "full-understanding-of-a-behavior-dissolves-it"
   ],
-  "ill-become-lazy-without-shoulds": [
-    "i-cant-be-disciplined",
-    "i-need-to-improve-myself",
-    "i-should-be-doing-this",
-    "if-i-had-more-money",
-    "im-afraid-i-wont-get-anything-done",
-    "im-afraid-ill-revert-to-my-old-pattern",
-    "im-afraid-of-stagnating",
-    "im-burned-out",
-    "my-inner-critic-wont-stop",
-    "any-amount-answer-as-total-installation",
-    "looking-for-whats-wrong",
-    "joy-of-accomplishment-is-the-absence-of-wants",
-    "voice-in-the-head",
-    "urgency-as-motivation",
-    "lack-of-enjoyment-as-diagnostic",
-    "say-no-to-find-the-want",
-    "surface-the-assumed-dichotomy",
-    "bracing-as-control-of-emotional-experience",
-    "if-you-think-youre-deciding-youre-in-fear",
-    "inherent-goodness",
-    "nature-improves-itself",
-    "obligation-cuts-off-love",
-    "shame-drives-behavior",
-    "wants-over-shoulds",
-    "dont-improve-for-two-weeks",
-    "joes-stinky-house-experiment"
-  ],
   "should-i-stop-drinking": [
     "i-cant-be-disciplined",
     "should-i-stay-with-my-ex",
@@ -3465,7 +3653,10 @@
   ],
   "how-do-i-stop-watching-porn-and-procrastinating": [
     "i-cant-be-disciplined",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "the-perfectionism-that-stops-you-from-starting",
     "what-am-i",
+    "bound-the-behavior-find-where-it-doesnt-happen",
     "strip-the-story-and-re-ask-the-question"
   ],
   "chin-up-as-emotion-block": [
@@ -3700,20 +3891,6 @@
     "love-the-thing-you-fear-cures-the-phobia",
     "welcoming-fear-in-leadership"
   ],
-  "whats-next-after-i-reached-my-big-goal": [
-    "i-cant-feel-my-emotions",
-    "im-not-living-up-to-my-potential",
-    "chin-up-as-emotion-block",
-    "intellectual-process-with-no-somatic-component",
-    "self-blame-as-tether-to-the-lost",
-    "what-is-the-productivity-for",
-    "what-was-x-going-to-get-you",
-    "swap-roles-with-the-younger-self",
-    "the-head-cant-know-who-you-are",
-    "ten-percent-more-connected-experiment",
-    "toggle-between-opposite-emotions-then-hold-both",
-    "doug-hug-the-demon-financial-safety"
-  ],
   "i-keep-chasing-emotionally-unavailable-people": [
     "i-cant-find-love",
     "i-keep-running-into-the-same-wall",
@@ -3888,6 +4065,7 @@
     "intellectualizing-as-the-form-of-control",
     "what-do-you-lose-if-this-belief-goes-away",
     "coaching-to-be-seen-as-wise",
+    "dont-let-goals-define-you",
     "anxious-avoidant-dynamic",
     "push-pull-dynamics-in-dating",
     "mirror-the-clients-own-framework-back",
@@ -4145,9 +4323,12 @@
   ],
   "challenge-the-premise-in-the-framing": [
     "i-cant-find-my-purpose",
+    "im-not-comfortable-sharing-my-story",
     "seeking-as-the-wall",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "wild-goose-chase-when-the-answer-is-known",
-    "feel-the-searching-then-feel-the-opposite"
+    "feel-the-searching-then-feel-the-opposite",
+    "walk-into-the-discomfort-and-speak-from-there"
   ],
   "fighting-to-be-received": [
     "i-cant-find-my-purpose"
@@ -4313,10 +4494,12 @@
   ],
   "im-not-living-up-to-my-potential": [
     "i-cant-find-my-purpose",
+    "i-procrastinate-only-on-the-thing-that-matters-most",
     "what-makes-me-uniquely-me",
     "anxiety-when-confronting-what-you-want",
     "purpose-as-approval-seeking-in-disguise",
     "seeking-as-the-wall",
+    "the-perfectionism-that-stops-you-from-starting",
     "mental-task-inflation",
     "purpose-is-how-not-what",
     "purpose-is-recognized-not-found",
@@ -4528,6 +4711,7 @@
   ],
   "i-cant-forgive-myself-for-hurting-them": [
     "i-cant-get-over-this-loss",
+    "im-not-comfortable-sharing-my-story",
     "self-blame-as-tether-to-the-lost",
     "how-is-it-not-your-fault-that-its-always-your-fault",
     "rumination-creates-what-it-ruminates-about",
@@ -4585,7 +4769,8 @@
     "body-awareness-in-meetings"
   ],
   "apply-the-clients-stuck-place-to-understand-the-other": [
-    "i-cant-get-over-this-loss"
+    "i-cant-get-over-this-loss",
+    "parallel-the-clients-own-survival-skill-to-the-present"
   ],
   "every-no-contains-a-better-answer": [
     "i-cant-stop-being-jealous-of-my-partners-friend",
@@ -5199,6 +5384,7 @@
     "im-not-an-anxious-person",
     "you-think-they-cant-handle-it",
     "what-are-you-defending",
+    "whats-your-truth-in-this-moment",
     "coaching-as-surrogate-intimacy",
     "dont-lean-into-conflict-from-defendedness",
     "dont-position-yourself-as-your-partners-growth-guide",
@@ -5228,6 +5414,7 @@
     "acknowledge-the-fear-by-role",
     "just-be-yourself-and-see-what-happens",
     "name-the-authoritys-fear",
+    "name-the-shift-everyone-felt",
     "name-your-trigger-as-vulnerability",
     "owning-your-partiality",
     "say-yes-to-the-clients-experiment",
@@ -5264,6 +5451,7 @@
     "vulnerability-protects",
     "your-issue-is-the-communitys-issue",
     "anxiety-as-unarticulated-need",
+    "celebrate-failures-publicly",
     "emotional-inquiry",
     "speak-truth-twice-a-day",
     "whats-the-scary-truth",
@@ -5463,6 +5651,7 @@
     "find-whats-enjoyable-in-the-defense",
     "give-me-the-sound-of-the-emotion",
     "lets-go-there",
+    "walk-into-the-discomfort-and-speak-from-there",
     "emotional-movement-unsticks-stuckness",
     "resisted-vs-unresisted-everything-shows-up-different"
   ],
@@ -5813,6 +6002,7 @@
     "have-them-receive-your-listening",
     "invert-the-responsibility-for-understanding",
     "say-the-same-sentence-five-ways",
+    "walk-into-the-discomfort-and-speak-from-there",
     "dont-take-responsibility-for-anothers-happiness",
     "listening-shapes-the-reality-that-comes-back",
     "self-abandonment-to-manage-the-other",
@@ -5839,6 +6029,7 @@
   "bring-the-presenting-problem-into-the-room-now": [
     "i-get-anxious-in-relationships",
     "i-want-to-be-authentic-on-stage",
+    "im-not-comfortable-sharing-my-story",
     "cutting-off-your-own-authenticity-in-real-time",
     "ask-one-percent-less-then-how-did-you-do-that",
     "ask-whats-wrong-with-you-into-the-shame",
@@ -5859,6 +6050,7 @@
   "interrupting-your-own-descent": [
     "i-get-anxious-in-relationships",
     "cutting-off-your-own-authenticity-in-real-time",
+    "the-control-after-the-truth",
     "ask-whats-wrong-with-you-into-the-shame",
     "bring-the-presenting-problem-into-the-room-now",
     "name-the-avoidance-cascade-from-essence-to-addiction",
@@ -5872,12 +6064,14 @@
     "ask-whats-wrong-with-you-into-the-shame",
     "binary-that-forces-the-avoidance-into-view",
     "bring-the-presenting-problem-into-the-room-now",
+    "name-the-shift-everyone-felt",
     "skill-transfer-redirect",
     "use-the-live-group-as-love-field",
     "public-speaking-coach-money-session"
   ],
   "i-want-to-be-authentic-on-stage": [
     "i-get-anxious-in-relationships",
+    "im-not-comfortable-sharing-my-story",
     "cutting-off-your-own-authenticity-in-real-time",
     "whats-the-real-question",
     "dont-suppress-emotion-to-perform",
@@ -5927,7 +6121,8 @@
     "functional-denial-vs-dysfunctional-denial"
   ],
   "say-yes-to-the-experience-youre-already-having": [
-    "i-have-a-terminal-diagnosis"
+    "i-have-a-terminal-diagnosis",
+    "walk-into-the-discomfort-and-speak-from-there"
   ],
   "grieve-the-marriage-to-save-it": [
     "i-have-a-terminal-diagnosis",
@@ -6533,6 +6728,7 @@
   "art-of-accomplishment": [
     "i-have-to-sacrifice-to-succeed",
     "applied-self-awareness",
+    "intrinsic-drive-to-build",
     "joy-of-accomplishment-is-the-absence-of-wants",
     "the-work-as-three-levels-of-change",
     "undoing-not-doing",
@@ -6582,6 +6778,7 @@
     "walking-away-from-fight-feeling-bad",
     "if-i-were-inherently-good",
     "what-was-x-going-to-get-you",
+    "dont-let-goals-define-you",
     "dont-shame-kids-the-behavior-wont-change",
     "art-of-accomplishment",
     "depression-four-levels",
@@ -7147,6 +7344,7 @@
     "letting-go-vs-doing-nothing",
     "trying-vs-doing",
     "acceptance-as-change-strategy",
+    "be-a-good-boss-to-yourself",
     "consciousness-is-the-product",
     "efficiency-as-enjoyment",
     "enjoyment-as-path",
@@ -7264,6 +7462,7 @@
     "invert-the-responsibility-for-understanding",
     "say-the-same-sentence-five-ways",
     "speak-from-listening",
+    "whats-happening-in-your-system-three-modes",
     "being-with-vs-being-in",
     "listening-shapes-the-reality-that-comes-back",
     "self-abandonment-to-manage-the-other",
@@ -7287,6 +7486,7 @@
     "invert-the-responsibility-for-understanding",
     "say-the-same-sentence-five-ways",
     "speak-from-listening",
+    "whats-happening-in-your-system-three-modes",
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
@@ -7895,6 +8095,7 @@
     "enjoyment-as-surrender",
     "enjoyment-attracts",
     "find-a-healthy-replacement",
+    "importance-makes-the-task-un-fun",
     "nature-improves-itself",
     "nervous-system-recovery-after-stress",
     "overwhelm-reduces-productivity",
@@ -8278,6 +8479,7 @@
     "binary-that-forces-the-avoidance-into-view",
     "feel-into-it-vs-think-about-it",
     "is-the-shame-in-the-room-or-in-you",
+    "parallel-the-clients-own-survival-skill-to-the-present",
     "skill-transfer-redirect",
     "what-was-really-more-important-than-you",
     "whats-wrong-with-the-thing-theyre-judging",
@@ -8430,8 +8632,10 @@
     "improvement-vs-authenticity",
     "intention-vs-goal",
     "trying-vs-doing",
+    "be-a-good-boss-to-yourself",
     "connection-over-perfection",
     "efficiency-as-enjoyment",
+    "importance-makes-the-task-un-fun",
     "self-judgment-protects-from-emotion",
     "trying-to-be-right-is-the-voice",
     "voice-creates-what-it-fears",
@@ -8496,6 +8700,7 @@
   ],
   "dont-use-measurement-to-beat-yourself-up": [
     "i-need-to-improve-myself",
+    "dont-confuse-the-metric-with-the-goal",
     "measuring-transformation-across-three-brains",
     "there-is-no-better-person-on-the-other-side",
     "15-minutes-of-self-love-physical-therapy-for-the-heart"
@@ -8543,6 +8748,7 @@
     "boundaries",
     "extend-the-no-asshole-rule-inward",
     "boundary-as-self-teaching",
+    "goals-reveal-your-relationship-to-yourself",
     "self-aggression-permits-others-aggression"
   ],
   "extend-the-no-asshole-rule-inward": [
@@ -8582,6 +8788,81 @@
   "rubbermaid-dish-solution": [
     "i-need-to-set-boundaries"
   ],
+  "importance-makes-the-task-un-fun": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "perfectionism",
+    "bound-the-behavior-find-where-it-doesnt-happen",
+    "prove-why-its-important",
+    "be-a-good-boss-to-yourself",
+    "enjoyment-as-path"
+  ],
+  "the-perfectionism-that-stops-you-from-starting": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "perfectionism",
+    "bound-the-behavior-find-where-it-doesnt-happen",
+    "prove-why-its-important",
+    "importance-makes-the-task-un-fun"
+  ],
+  "hidden-rebellion-under-the-habit": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "should-i-stop-drinking",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "heart-in-a-box-want-to-drink",
+    "rebellion-or-submission-to-should",
+    "fully-feel-the-forbidden-arousal",
+    "do-i-stop-drinking-session"
+  ],
+  "dont-make-stop-judging-into-a-should": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "im-judgmental-how-do-i-stop",
+    "notice-what-judgment-costs-you-and-what-you-actually-want",
+    "prove-why-its-important",
+    "be-a-good-boss-to-yourself",
+    "judgment-hurts-the-judger"
+  ],
+  "prove-why-its-important": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "the-perfectionism-that-stops-you-from-starting",
+    "importance-makes-the-task-un-fun"
+  ],
+  "be-a-good-boss-to-yourself": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "prove-why-its-important",
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "importance-makes-the-task-un-fun"
+  ],
+  "redirect-from-doing-it-right-to-enjoying-it": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "the-perfectionism-that-stops-you-from-starting",
+    "how-would-you-enjoy-x",
+    "perfectionism",
+    "bound-the-behavior-find-where-it-doesnt-happen",
+    "lack-of-enjoyment-as-diagnostic",
+    "prove-why-its-important",
+    "be-a-good-boss-to-yourself",
+    "enjoyment-as-path",
+    "enjoyment-attracts",
+    "importance-makes-the-task-un-fun"
+  ],
+  "enjoy-this-just-a-little-bit-more": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "dont-make-stop-judging-into-a-should",
+    "apply-enjoy-to-whats-here",
+    "ask-one-percent-less-then-how-did-you-do-that",
+    "enjoyment-as-path"
+  ],
+  "i-make-money-only-when-i-hate-what-im-doing": [
+    "i-procrastinate-only-on-the-thing-that-matters-most",
+    "the-perfectionism-that-stops-you-from-starting",
+    "money-as-paint",
+    "performing-for-love-becomes-savior-career",
+    "lack-of-enjoyment-as-diagnostic",
+    "enjoyment-attracts",
+    "positivity-as-doubt",
+    "wanting-got-wired-to-unlovability",
+    "comedian-to-coach-money-shame-session",
+    "public-speaking-coach-money-session"
+  ],
   "should-as-threat": [
     "i-should-be-doing-this",
     "my-inner-critic-wont-stop",
@@ -8615,6 +8896,7 @@
     "apologize-to-the-projected-object",
     "apply-the-childhood-pattern-to-the-present-problem",
     "binary-that-forces-the-avoidance-into-view",
+    "did-you-actually-feel-the-wanting",
     "i-dont-buy-your-story",
     "is-the-shame-in-the-room-or-in-you",
     "lack-of-enjoyment-as-diagnostic",
@@ -8626,10 +8908,13 @@
     "stick-a-fucking-shit-in-front-of-the-should",
     "swap-roles-with-the-younger-self",
     "turn-blame-into-wants",
+    "wanting-vs-wanting-to-want",
     "address-the-blocker-not-the-symptom",
+    "be-a-good-boss-to-yourself",
     "caring-what-others-think-is-the-burnout-engine",
     "enjoyment-as-path",
     "giving-from-desire-not-obligation",
+    "goals-must-come-from-actual-want",
     "wants-over-shoulds",
     "chase-your-own-approval",
     "enjoy-this-just-a-little-bit-more",
@@ -8812,6 +9097,7 @@
   "same-scarcity-story-regardless-of-wealth": [
     "if-i-had-more-money",
     "whats-next-after-i-reached-my-big-goal",
+    "dont-confuse-the-metric-with-the-goal",
     "joy-of-accomplishment-is-the-absence-of-wants",
     "poverty-mentality",
     "mental-task-inflation",
@@ -8895,6 +9181,7 @@
     "failure-is-an-idea",
     "fear-of-success-as-projected-failure",
     "habenula",
+    "intrinsic-drive-to-build",
     "migratory-path",
     "evolution-of-the-experimenter",
     "performance-vs-play",
@@ -8908,6 +9195,7 @@
     "mit-media-lab-principle",
     "one-experiment-at-a-time",
     "track-process-metrics-not-outcomes",
+    "celebrate-failures-publicly",
     "relationship-experiments-list",
     "write-50-experiments-before-starting",
     "five-principles-of-the-path",
@@ -8926,6 +9214,7 @@
     "connection-over-perfection",
     "reward-failure-in-the-organization",
     "track-process-metrics-not-outcomes",
+    "celebrate-failures-publicly",
     "write-50-experiments-before-starting",
     "five-principles-of-the-path",
     "50k-mistake-no-backlash",
@@ -9132,8 +9421,10 @@
     "rehearsing-conversations",
     "the-shame-avoidance-loop",
     "point-at-the-present-evidence",
+    "prove-why-its-important",
     "symptoms-vs-root-causes-of-depression",
-    "fear-is-misuse-of-imagination"
+    "fear-is-misuse-of-imagination",
+    "importance-makes-the-task-un-fun"
   ],
   "find-the-emotion-under-self-judgment": [
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -9185,6 +9476,7 @@
     "imagine-you-are-not-responsible-thought-experiment",
     "let-the-body-catch-up",
     "mark-it-and-return-later",
+    "name-the-shift-everyone-felt",
     "point-at-the-present-evidence",
     "pour-the-love-at-the-threat",
     "redirect-from-stay-or-leave-to-self-love",
@@ -9480,6 +9772,7 @@
     "passive-aggression-toward-self",
     "should-as-threat",
     "soul-dysmorphia",
+    "the-inner-board",
     "the-work-as-three-levels-of-change",
     "thoughts-as-management",
     "three-layers-of-the-work",
@@ -9566,6 +9859,7 @@
     "thank-the-voice-when-its-truth",
     "criticism-vs-critique",
     "symptoms-vs-root-causes-of-depression",
+    "be-a-good-boss-to-yourself",
     "honor-the-patterns-intent",
     "inner-critic-prevents-rest-and-integration",
     "punishing-the-remembering",
@@ -9829,11 +10123,6 @@
     "open-your-heart-while-judging-experiment",
     "joes-weeping-at-superficial-conversations"
   ],
-  "dont-make-stop-judging-into-a-should": [
-    "im-judgmental-how-do-i-stop",
-    "notice-what-judgment-costs-you-and-what-you-actually-want",
-    "judgment-hurts-the-judger"
-  ],
   "notice-what-judgment-costs-you-and-what-you-actually-want": [
     "im-judgmental-how-do-i-stop",
     "how-do-you-want-to-be-with-them",
@@ -10006,10 +10295,76 @@
     "whats-the-difference-between-overcoming-and-feeling-fear",
     "whats-the-for-part",
     "whats-the-ultimate-thing-youre-running-from",
+    "whats-your-truth-in-this-moment",
     "vulnerability",
     "vulnerability-is-personal",
     "anxiety-as-unarticulated-need",
     "whats-the-scary-thing-youre-not-saying"
+  ],
+  "layers-of-unallowed-self": [
+    "im-not-comfortable-sharing-my-story",
+    "name-the-shift-everyone-felt",
+    "parallel-the-clients-own-survival-skill-to-the-present",
+    "walk-into-the-discomfort-and-speak-from-there"
+  ],
+  "parallel-the-clients-own-survival-skill-to-the-present": [
+    "im-not-comfortable-sharing-my-story",
+    "name-the-shift-everyone-felt"
+  ],
+  "holding-back-truth-is-self-harm": [
+    "im-not-comfortable-sharing-my-story",
+    "whats-your-truth-in-this-moment",
+    "parallel-the-clients-own-survival-skill-to-the-present",
+    "walk-into-the-discomfort-and-speak-from-there"
+  ],
+  "trying-to-be-comfortable-instead-of-being-uncomfortable": [
+    "im-not-comfortable-sharing-my-story",
+    "walk-into-the-discomfort-and-speak-from-there",
+    "whats-happening-in-your-system-three-modes"
+  ],
+  "whats-happening-in-your-system-three-modes": [
+    "im-not-comfortable-sharing-my-story",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
+    "walk-into-the-discomfort-and-speak-from-there"
+  ],
+  "the-control-after-the-truth": [
+    "im-not-comfortable-sharing-my-story",
+    "whats-your-truth-in-this-moment",
+    "name-the-shift-everyone-felt",
+    "walk-into-the-discomfort-and-speak-from-there"
+  ],
+  "name-the-shift-everyone-felt": [
+    "im-not-comfortable-sharing-my-story",
+    "the-control-after-the-truth",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
+    "whats-your-truth-in-this-moment",
+    "walk-into-the-discomfort-and-speak-from-there",
+    "whats-happening-in-your-system-three-modes"
+  ],
+  "walk-into-the-discomfort-and-speak-from-there": [
+    "im-not-comfortable-sharing-my-story",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable",
+    "whats-your-truth-in-this-moment",
+    "name-the-shift-everyone-felt",
+    "parallel-the-clients-own-survival-skill-to-the-present",
+    "whats-happening-in-your-system-three-modes"
+  ],
+  "you-were-taught-to-be-your-own-oppressor": [
+    "im-not-comfortable-sharing-my-story",
+    "parallel-the-clients-own-survival-skill-to-the-present"
+  ],
+  "whats-your-truth-in-this-moment": [
+    "im-not-comfortable-sharing-my-story",
+    "the-control-after-the-truth",
+    "name-the-shift-everyone-felt",
+    "walk-into-the-discomfort-and-speak-from-there",
+    "whats-happening-in-your-system-three-modes"
+  ],
+  "go-nonverbal-and-let-the-nonverbal-talk": [
+    "im-not-comfortable-sharing-my-story",
+    "the-control-after-the-truth",
+    "whats-your-truth-in-this-moment",
+    "walk-into-the-discomfort-and-speak-from-there"
   ],
   "anxiety-when-confronting-what-you-want": [
     "im-not-living-up-to-my-potential",
@@ -10076,6 +10431,8 @@
     "tell-the-unchanging-part-it-has-to-move",
     "what-if-there-was-no-scorecard",
     "whats-the-scorecard-that-cant-be-taken-away",
+    "dont-confuse-the-metric-with-the-goal",
+    "dont-let-goals-define-you",
     "money-as-surrogate",
     "trust-as-multifaceted",
     "compass-not-map",
@@ -10310,6 +10667,7 @@
     "depression-four-levels",
     "passive-aggression-toward-self",
     "tension-return-to-love-cycle",
+    "the-inner-board",
     "three-layers-of-the-work",
     "voice-as-care",
     "voice-as-guide-to-unhealed-places",
@@ -10320,6 +10678,7 @@
     "extend-the-no-asshole-rule-inward",
     "is-the-shame-in-the-room-or-in-you",
     "thank-the-voice-when-its-truth",
+    "goals-reveal-your-relationship-to-yourself",
     "love-the-emotion-and-be-boundaried-with-it",
     "parent-criticism-as-self-talk",
     "self-boundary-mirrors-external-boundary",
@@ -10510,6 +10869,7 @@
     "ask-one-percent-less-then-how-did-you-do-that",
     "bring-the-presenting-problem-into-the-room-now",
     "name-the-appreciation-arriving-in-the-moment",
+    "name-the-shift-everyone-felt",
     "scale-the-feeling-1-to-100-with-anchors",
     "use-your-strength-on-the-real-work"
   ],
@@ -10553,14 +10913,6 @@
     "reframe-from-whether-to-how",
     "endurance-blocks-transformation",
     "shame-drives-behavior",
-    "do-i-stop-drinking-session"
-  ],
-  "hidden-rebellion-under-the-habit": [
-    "should-i-stop-drinking",
-    "treating-it-as-a-decision-when-its-an-emotion",
-    "heart-in-a-box-want-to-drink",
-    "rebellion-or-submission-to-should",
-    "fully-feel-the-forbidden-arousal",
     "do-i-stop-drinking-session"
   ],
   "joes-pot-habit": [
@@ -10766,6 +11118,7 @@
   "transparent-identity-vs-rigid": [
     "the-more-i-grow-the-more-alone-i-feel",
     "dont-fight-identity",
+    "dont-let-goals-define-you",
     "belief-integration-not-elimination",
     "expanding-sense-of-self",
     "fully-feeling-restructures-the-self",
@@ -11116,6 +11469,7 @@
     "chasing-understanding-as-control",
     "ego-protection-as-need-to-be-understood",
     "in-the-story-im-not-being-seen",
+    "the-control-after-the-truth",
     "the-pulled-back-from-part-is-the-unloveable-part",
     "being-heard",
     "listening",
@@ -11164,7 +11518,10 @@
   ],
   "joy-of-accomplishment-is-the-absence-of-wants": [
     "whats-next-after-i-reached-my-big-goal",
+    "dont-let-goals-define-you",
+    "intrinsic-drive-to-build",
     "no-finish-line",
+    "the-inner-board",
     "efficiency-as-enjoyment",
     "productivity-is-the-trees-purpose-is-the-forest"
   ],
@@ -11274,6 +11631,8 @@
     "whats-the-difference-between-overcoming-and-feeling-fear",
     "public-truth-bomb",
     "show-me-the-bracing-and-show-me-the-opposite",
+    "walk-into-the-discomfort-and-speak-from-there",
+    "whats-happening-in-your-system-three-modes",
     "embrace-vs-brace",
     "bracing-as-control-of-emotional-experience",
     "embrace-intensity",
@@ -12067,6 +12426,10 @@
     "fake-the-anger-to-let-it-move",
     "four-tactical-ways-to-feel-your-emotions"
   ],
+  "im-not-comfortable-sharing-my-story": [
+    "the-control-after-the-truth",
+    "trying-to-be-comfortable-instead-of-being-uncomfortable"
+  ],
   "doing-doesnt-equal-producing": [
     "the-emotional-hangover-of-false-productivity",
     "spin-vs-pedaling",
@@ -12404,12 +12767,6 @@
   "the-feared-stories-about-emotions-sense-something-real": [
     "how-much-of-this-is-fear-of-feeling-the-hurt-you-already-have"
   ],
-  "redirect-from-doing-it-right-to-enjoying-it": [
-    "how-would-you-enjoy-x",
-    "lack-of-enjoyment-as-diagnostic",
-    "enjoyment-as-path",
-    "enjoyment-attracts"
-  ],
   "how-what-questions": [
     "how-would-you-enjoy-x",
     "dont-evangelize-the-work",
@@ -12689,6 +13046,9 @@
     "trust-requires-conflict",
     "aristotle-project",
     "family-as-team"
+  ],
+  "heat-and-sweat-as-process-marker": [
+    "whats-your-truth-in-this-moment"
   ],
   "grief-at-the-disproportion": [
     "wild-goose-chase-when-the-answer-is-known",
@@ -13039,6 +13399,16 @@
     "honor-the-patterns-intent",
     "talk-to-your-parts-and-ask-for-trust"
   ],
+  "track-process-metrics-not-outcomes": [
+    "dont-confuse-the-metric-with-the-goal",
+    "board-prep-as-misalignment-signal",
+    "iterative-mindset",
+    "three-blocks-to-speaking-truth",
+    "reward-failure-in-the-organization",
+    "relationship-experiments-list",
+    "write-50-experiments-before-starting",
+    "principles-goals-metrics"
+  ],
   "cia-organization-sabotage-manual": [
     "dont-defer-decisions-to-large-committees"
   ],
@@ -13280,6 +13650,30 @@
     "weekly-tension-inventory",
     "black-swan-small-collapses-prevent-big-ones"
   ],
+  "intention-vs-goal": [
+    "dont-let-goals-define-you",
+    "art-of-accomplishment",
+    "goals-give-you-the-questions",
+    "compass-not-map",
+    "wanting-vs-craving",
+    "enjoyment-as-surrender",
+    "goal-beyond-the-goal",
+    "set-and-forget-goals",
+    "principles-goals-metrics",
+    "pow-optimist",
+    "tennis-quarter"
+  ],
+  "goals-make-me-miserable": [
+    "dont-let-goals-define-you",
+    "goals-give-you-the-questions",
+    "the-inner-board",
+    "did-you-actually-feel-the-wanting",
+    "bottom-up-vs-top-down-goals",
+    "goals-must-come-from-actual-want",
+    "goals-reveal-your-relationship-to-yourself",
+    "set-and-forget-goals",
+    "principles-goals-metrics"
+  ],
   "three-questions-on-the-pattern": [
     "dont-make-family-dynamics-the-story",
     "childhood-imprinting",
@@ -13302,6 +13696,7 @@
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "conversation-as-microcosm-of-relationship",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "goals-reveal-your-relationship-to-yourself",
     "heart-opening-needs-boundaries",
     "inner-work-then-they-change",
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
@@ -14454,15 +14849,6 @@
     "culture-outside-mirrors-culture-inside",
     "speaking-authentically"
   ],
-  "intention-vs-goal": [
-    "art-of-accomplishment",
-    "compass-not-map",
-    "wanting-vs-craving",
-    "enjoyment-as-surrender",
-    "goal-beyond-the-goal",
-    "pow-optimist",
-    "tennis-quarter"
-  ],
   "pow-optimist": [
     "art-of-accomplishment",
     "quit-hope-lose-cycle",
@@ -14515,6 +14901,7 @@
   ],
   "spit-at-the-top-is-a-waterfall-at-the-bottom": [
     "authority-issues",
+    "board-prep-as-misalignment-signal",
     "compliment-people-to-become-the-authority",
     "visualize-the-reality-of-leadership",
     "write-to-your-team-like-a-marketing-email",
@@ -14577,6 +14964,18 @@
   "cafe-emotional-stigma": [
     "blocker-emotions",
     "fear-of-joy"
+  ],
+  "rollout-principles-in-organization": [
+    "board-prep-as-misalignment-signal",
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "write-to-your-team-like-a-marketing-email",
+    "bottom-up-vs-top-down-goals",
+    "direct-intervention-vs-structural-change",
+    "principles-free-you",
+    "wrestle-with-your-principles",
+    "defining-principles-well",
+    "team-as-scientific-method",
+    "structure-and-empowerment"
   ],
   "caring-vs-caretaking|caretaking": [
     "boundaries",
@@ -14860,13 +15259,6 @@
     "nre-returns-in-grounded-form-after-each-healing",
     "three-effects-of-connection"
   ],
-  "friction-is-required-for-life": [
-    "connection",
-    "how-you-fight-not-how-often",
-    "politics-from-unclear-standards",
-    "three-effects-of-connection",
-    "black-swan-small-collapses-prevent-big-ones"
-  ],
   "notice-and-be-grateful-for-connection": [
     "connection",
     "depression-four-levels",
@@ -14919,6 +15311,7 @@
     "defining-principles-well",
     "do-the-next-most-obvious-thing",
     "rollout-principles-in-organization",
+    "principles-goals-metrics",
     "team-as-scientific-method",
     "joes-hr-call-firing",
     "principled-board-decision",
@@ -15097,6 +15490,7 @@
     "performance-vs-play",
     "attempt-over-success-in-parenting",
     "track-process-metrics-not-outcomes",
+    "celebrate-failures-publicly",
     "write-50-experiments-before-starting",
     "50k-mistake-no-backlash",
     "nike-fail-bigger-board"
@@ -15290,6 +15684,13 @@
   "giving-from-desire-not-obligation": [
     "generosity",
     "giving-as-respect-vs-giving-as-saving"
+  ],
+  "goal-beyond-the-goal": [
+    "goals-give-you-the-questions",
+    "need-behind-the-want",
+    "visualize-the-felt-aftermath",
+    "principles-goals-metrics",
+    "tennis-quarter"
   ],
   "daily-gratitude-for-your-own-transformation": [
     "gratitude-as-full-body-sport",
@@ -15515,13 +15916,6 @@
     "reward-failure-in-the-organization",
     "track-process-metrics-not-outcomes"
   ],
-  "track-process-metrics-not-outcomes": [
-    "iterative-mindset",
-    "three-blocks-to-speaking-truth",
-    "reward-failure-in-the-organization",
-    "relationship-experiments-list",
-    "write-50-experiments-before-starting"
-  ],
   "everything-is-already-an-experiment": [
     "iterative-mindset"
   ],
@@ -15548,6 +15942,7 @@
   ],
   "experiments-must-stay-in-window-of-tolerance": [
     "iterative-mindset",
+    "walk-into-the-discomfort-and-speak-from-there",
     "mit-media-lab-principle"
   ],
   "one-experiment-at-a-time": [
@@ -15592,6 +15987,9 @@
     "pleasure-capacity",
     "chasing-pleasure-is-avoidance"
   ],
+  "intrinsic-drive-to-build": [
+    "joy-of-accomplishment-is-the-absence-of-wants"
+  ],
   "joes-pancake-anger-story": [
     "kinked-emotions",
     "logic-vs-emotional-movement",
@@ -15603,13 +16001,6 @@
   "meaning-change-vs-feeling-through": [
     "kinked-emotions",
     "pollyanna-vs-reframing-failure"
-  ],
-  "im-judgmental-how-do-i-stop": [
-    "letting-judgment-in",
-    "pointers-to-unseen-parts",
-    "notice-what-judgment-costs-you-and-what-you-actually-want",
-    "judgment-hurts-the-judger",
-    "superiority-and-shame-erode-together"
   ],
   "aware-belief-vs-unseen-belief": [
     "limiting-belief",
@@ -15750,16 +16141,6 @@
     "money-relationship-is-an-energetic-exchange",
     "wealth-identity-shift",
     "money-domain"
-  ],
-  "i-make-money-only-when-i-hate-what-im-doing": [
-    "money-as-paint",
-    "performing-for-love-becomes-savior-career",
-    "lack-of-enjoyment-as-diagnostic",
-    "enjoyment-attracts",
-    "positivity-as-doubt",
-    "wanting-got-wired-to-unlovability",
-    "comedian-to-coach-money-shame-session",
-    "public-speaking-coach-money-session"
   ],
   "poverty-mentality": [
     "money-as-surrogate",
@@ -16131,8 +16512,16 @@
     "boeing-ford-bad-news",
     "no-doctrine-leadership"
   ],
+  "shoulds-as-self-abuse": [
+    "the-inner-board"
+  ],
+  "bottom-up-vs-top-down-goals": [
+    "the-inner-board",
+    "goals-must-come-from-actual-want"
+  ],
   "feeling-the-want-as-emotion": [
     "the-want",
+    "did-you-actually-feel-the-wanting",
     "wanting-from-lack-vs-wanting-from-wholeness",
     "wanting-vs-craving",
     "owning-the-want-dissolves-it",
@@ -16420,6 +16809,7 @@
     "defining-principles-well",
     "rollout-principles-in-organization",
     "five-principles-of-the-path",
+    "principles-goals-metrics",
     "team-as-scientific-method",
     "ray-dalio-transparency"
   ],
@@ -16691,6 +17081,7 @@
     "ask-from-each-of-the-three-centers",
     "ask-whats-wrong-with-you-into-the-shame",
     "feel-the-searching-then-feel-the-opposite",
+    "whats-happening-in-your-system-three-modes",
     "embodied-love-vs-vacuous-presence",
     "intuition-vs-conditioning",
     "shame-dissipates-in-the-question-itself",
@@ -16723,11 +17114,6 @@
     "embrace-intensity",
     "friction-is-required-for-life"
   ],
-  "enjoy-this-just-a-little-bit-more": [
-    "apply-enjoy-to-whats-here",
-    "ask-one-percent-less-then-how-did-you-do-that",
-    "enjoyment-as-path"
-  ],
   "lack-of-enjoyment-as-diagnostic": [
     "apply-enjoy-to-whats-here",
     "redirect-from-doing-it-right-to-enjoying-it",
@@ -16751,16 +17137,6 @@
     "ask-how-do-i-change-this-so-it-never-happens-again",
     "direct-intervention-vs-structural-change",
     "all-disagreements-come-from-two-questions"
-  ],
-  "rollout-principles-in-organization": [
-    "ask-how-do-i-change-this-so-it-never-happens-again",
-    "write-to-your-team-like-a-marketing-email",
-    "direct-intervention-vs-structural-change",
-    "principles-free-you",
-    "wrestle-with-your-principles",
-    "defining-principles-well",
-    "team-as-scientific-method",
-    "structure-and-empowerment"
   ],
   "name-your-trigger-as-vulnerability": [
     "ask-open-ended-non-judgmental-questions-when-triggered",
@@ -16811,6 +17187,14 @@
   ],
   "letting-it-it-in-vs-deflecting-the-welcome": [
     "compliment-people-to-become-the-authority"
+  ],
+  "wanting-vs-wanting-to-want": [
+    "did-you-actually-feel-the-wanting",
+    "goals-must-come-from-actual-want",
+    "set-and-forget-goals"
+  ],
+  "stay-with-the-not-knowing": [
+    "did-you-actually-feel-the-wanting"
   ],
   "emotions-are-neutral-bad-because-of-use": [
     "do-over-after-the-anger",
@@ -17068,6 +17452,9 @@
     "name-when-you-cant-be-in-loving-attention",
     "parenting-as-coaching-domain"
   ],
+  "the-fear-is-the-same-as-the-old-fear": [
+    "parallel-the-clients-own-survival-skill-to-the-present"
+  ],
   "name-when-you-cant-be-in-loving-attention": [
     "pre-agree-on-the-handoff-signal-with-co-parent",
     "loving-attention-vs-consistency",
@@ -17236,15 +17623,6 @@
     "empowered-vs-power",
     "only-work-with-the-leader"
   ],
-  "acting-as-if-already-true": [
-    "empowered-vs-power",
-    "intention-vs-goal",
-    "annihilation-reveals-what-is-real",
-    "feared-consequences-rarely-happen",
-    "principles-free-you",
-    "world-reorganizes-around-self-possession",
-    "pow-optimist"
-  ],
   "whats-the-case-against-it": [
     "enjoy-over-manage",
     "no-doctrine-leadership"
@@ -17350,7 +17728,8 @@
     "principle-vs-value",
     "principles-free-you",
     "wrestle-with-your-principles",
-    "five-principles-of-the-path"
+    "five-principles-of-the-path",
+    "principles-goals-metrics"
   ],
   "stress-from-not-doing-the-thing": [
     "raw-ambition-vs-stories-on-ambition"
@@ -18117,13 +18496,12 @@
   "gratitude-as-full-body-sport|felt state": [
     "two-person-gratitude-practice"
   ],
-  "goal-beyond-the-goal": [
-    "visualize-the-felt-aftermath",
-    "tennis-quarter"
-  ],
   "brett-wingsuit-girlfriend-thought": [
     "visualizing-feared-outcomes",
     "potato-chipping-the-rigid-body-under-obligation"
+  ],
+  "board-prep-as-misalignment-signal": [
+    "principles-goals-metrics"
   ],
   "cant-chose-someone-into-loving-you": [
     "save-your-relationship-three-moves"

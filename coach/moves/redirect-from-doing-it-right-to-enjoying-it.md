@@ -5,7 +5,7 @@ title: "Redirect From 'How Do I Do This Right' to 'How Do I Enjoy Doing This'"
 aliases: ["redirect from doing it right to enjoying it", "how do I enjoy this task", "stop asking how to do it right ask how to enjoy it", "the right-vs-enjoy flip", "the work productivity flip", "stop trying to do it right", "the enjoy-instead-of-right move", "from perfection to enjoyment", "the right-question redirect", "the doing-it-right anti-pattern", "the perfectionism-to-enjoyment redirect", "the right-into-enjoy redirect for work tasks", "the productivity-through-enjoyment flip", "she became productive when she stopped asking how to do it right", "Joe's employee story"]
 tags: ["move", "enjoyment", "productivity", "perfectionism", "work", "tasks", "doing it right", "right-vs-enjoy", "redirect"]
 related: ["how-would-you-enjoy-x", "apply-enjoy-to-whats-here", "enjoyment-as-path", "perfectionism", "am-i-doing-it-right", "find-the-want-behind-the-should", "impulse-to-should", "raw-ambition-vs-stories-on-ambition", "lack-of-enjoyment-as-diagnostic", "authenticity-in-business", "consciousness-is-the-product"]
-sources: ["2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
+sources: ["2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
 ---
 
 # Redirect From "How Do I Do This Right" to "How Do I Enjoy Doing This"
@@ -29,6 +29,30 @@ Joe's worked example: a recent hire was not happy and not doing the work that ne
 "For whatever reason, it clicked, and boom — like, 2 days later, everything that I would want to work with was there, just because of that flip of the switch. The ambition was wanting to be a part of the team and contribute and live this purpose that she gets to live by working with us. But the thing that was getting in the way was the trying to get something perfect. And as soon as it went to like, 'oh, how do I enjoy this?' it was like the productivity quadrupled." -- Joe Hudson, Q&A #3
 
 The shift was not in skills, support, or workload. It was in the question she was asking herself about the work. The new question produced a different relationship to the work. The different relationship produced different output.
+
+## The Website Case (Procrastination Dissolves In One Move)
+
+A second worked example, from a live coaching session with a man who could not get his side hustle off the ground. He had a niche website he had been trying to build for years. He procrastinated chronically — but only on this. He did not procrastinate at work for clients. He did not procrastinate putting his shirt on or caring for his children.
+
+The move arrived after Joe surfaced the structure: the man had loaded the website with importance. It was supposed to define him, make his money, provide for his kids, prove he could work for himself. Every time he sat down to build it, the pressure produced friction so severe he could not begin.
+
+Joe's redirect:
+
+> "Let's just say for a second you were like, hey, I'm gonna have fun building a website for myself. The only requirement, it doesn't matter how fucking good it is. The only requirement is that I have fun."
+
+The man's response was immediate: "There's a lot more energy in that. There's way less friction." When Joe asked what the quality difference would be between a website built for perfection versus one built for fun, the man predicted the fun version would be of higher quality. Joe pressed even harder: "let's assume that it isn't. Let's assume that it's shitty quality compared to the perfect one. And then you're like, 'you know what, I'm gonna have fun redoing my website, improving my website.' Then eventually you'll, you'll get the website."
+
+The compression that landed: "It'll get done." Followed by: "I'll go a lot further when it's fun."
+
+The take-home Joe gave him: "For the next week, I want you to sit down in front of your computer with the intention to work and enjoy yourself. And the most important thing is to enjoy yourself. The second most important thing is to work. So it's just, oh, if I'm not enjoying myself, stop what I'm doing, figure out a way to do it in a way that I enjoy it."
+
+Two structural pieces this case adds to the employee story:
+
+1. **The order matters.** Joe explicitly ranked enjoyment first and work second. The instruction is not "enjoy yourself while you work." It is "if you are not enjoying yourself, stop and find a way to do it that you enjoy." Enjoyment is the gating criterion. The work follows it, does not precede it.
+
+2. **The iteration frame.** When the person is afraid the fun version will produce lower-quality output, the answer is not to defend the quality of the fun version. It is to point out that the fun version will be done, will be iterated, will get improved — and the perfect version will not be done at all. A shitty website that exists beats a perfect website that doesn't.
+
+The case also shows the move applied to self-employment specifically, where there is no external boss to enforce the work. The man's own pressure had become a worse boss than any external one. See [[be-a-good-boss-to-yourself]].
 
 ## Why "Right" Is the Wrong Question
 
@@ -127,3 +151,4 @@ Direct, light, concrete. Joe delivers this as a small flip of a switch, not as a
 
 - 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (the employee story; the "don't ask how to do it right, ask how to enjoy it" formulation; the productivity-quadrupled result from the redirect)
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (alternate cut of the same Q&A episode covering the same employee story and redirect)
+- 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the website case; the explicit ordering of "enjoyment first, work second" in the take-home; the iteration argument that the fun-built thing gets done while the perfection-built thing never does; the application of the move to self-employment specifically, where the person's own internal pressure has become a worse boss than any external one)

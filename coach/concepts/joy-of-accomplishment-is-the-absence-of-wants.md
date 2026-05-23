@@ -5,7 +5,7 @@ title: "The Joy of Accomplishment Is the Brief Absence of the Next Want"
 aliases: ["joy of accomplishment is the absence of wants", "the post-accomplishment moment", "the brief revel after achievement", "the gap before the next want spins up", "achievement joy is the gap", "the joy isn't the achievement", "the joy is the temporary no-want state", "the moment you can just revel in being alive", "the achieving misreads the source of its own joy", "the joy is in the absence of the next chase", "what the achievement actually delivered", "what success actually feels like", "the few days of relief after a goal lands", "the post-goal peace"]
 tags: ["accomplishment", "achievement", "wanting", "joy", "concept", "freedom", "desire"]
 related: ["the-want", "wanting-itself-not-what-you-want", "wants-deepen-as-you-follow-them", "no-finish-line", "nothing-is-required-for-freedom", "art-of-accomplishment", "same-scarcity-story-regardless-of-wealth", "owning-the-want-dissolves-it"]
-sources: ["2023-12-07_What We're Afraid to Lose"]
+sources: ["2023-12-07_What We're Afraid to Lose", "2025-05-09_Why Your Goals Are Making You Miserable"]
 ---
 
 # The Joy of Accomplishment Is the Brief Absence of the Next Want
@@ -70,6 +70,18 @@ Once this is named, the next question is whether the chase is the most efficient
 
 The redirect is to the inner work that addresses the want directly. Not "stop chasing the accomplishment." More: "while chasing the accomplishment, also do the work that addresses the want behind it." The accomplishment may still come, may still be enjoyable on its own terms. But the freedom is not in it.
 
+## The Other Source: The Intrinsic Drive to Build
+
+The concept does not claim that accomplishment-joy is the only joy available. There is a different kind of pleasure that comes from the building itself, separate from the post-achievement gap. This is the joy of play, the joy of making the next Lego thing, the joy of learning the ollie on the skateboard. The pleasure is in the doing rather than in the arriving.
+
+"There is just this natural part of us that wants to play the game, that wants to learn how to do the ollie on the skateboard, that wants to learn about ourselves through the expansion of doing stuff that we don't know how to do, growing into stuff like that. That's, that's, that's our nature." -- Joe Hudson, Why Your Goals Are Making You Miserable
+
+This building-joy is structurally different from achievement-joy. Achievement-joy is the gap after the chase. Building-joy is the engagement during the activity. The building-joy does not require the chase to end; it is renewed in each moment of the doing.
+
+A person who runs on achievement-joy alone is on the chase-treadmill described above. A person who runs on building-joy is in continuous engagement; the achievements arrive as byproducts and do not need to deliver the joy because the joy was already operating.
+
+See [[intrinsic-drive-to-build]] for the full treatment. The relationship between the two joys: the absence-of-want joy is rare and brief; the building-joy is available continuously. The recommendation is to cultivate access to the building-joy as the primary engine and to receive the achievement-joy as the occasional bonus.
+
 ## Anti-Pattern
 
 The concept can be used to dismiss legitimate ambition. "You're just chasing the gap" can be used as a way to shame someone who wants to accomplish something. This is not the move. People can want to accomplish things and the things can be worth accomplishing on their own terms. The concept is about what the joy is made of, not about whether the accomplishment is worth pursuing.
@@ -101,3 +113,4 @@ Observational, slightly amused. The concept is delivered as a noticing, not as a
 ## Sources
 
 - 2023-12-07_What We're Afraid to Lose
+- 2025-05-09_Why Your Goals Are Making You Miserable (the building-joy as the structurally different alternative to achievement-joy; the natural-impulse-to-play frame; the Lego answer as the demonstration of a drive that produces continuous engagement rather than chase-and-gap intermittence; cross-link to [[intrinsic-drive-to-build]])
