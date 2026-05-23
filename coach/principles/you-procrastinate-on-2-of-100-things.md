@@ -2,10 +2,10 @@
 type: principle
 id: you-procrastinate-on-2-of-100-things
 title: "You Procrastinate on 2 of 100 Things (The Identity Doesn't Match the Behavior)"
-aliases: ["you procrastinate on 2 of 100 things", "you do 100 things a day without procrastinating", "most procrastinators do 100 things a day", "the procrastinator identity doesn't match the behavior", "you only procrastinate on a couple of things", "you are not a procrastinator", "I've never met somebody who is actually a procrastinator", "nobody actually procrastinates on most of who they are", "the deflationary observation about procrastinators", "the identity that doesn't match the data", "the procrastinator label is misplaced", "you procrastinate on 2 or 3 things and define yourself by it", "the misplaced identity of the procrastinator", "the 100 vs 2 framing", "the bounded-behavior observation", "you procrastinate only on specific things not on everything", "the procrastinator who isn't really a procrastinator", "the over-identification with the procrastinator label"]
+aliases: ["you procrastinate on 2 of 100 things", "you do 100 things a day without procrastinating", "most procrastinators do 100 things a day", "the procrastinator identity doesn't match the behavior", "you only procrastinate on a couple of things", "you are not a procrastinator", "I've never met somebody who is actually a procrastinator", "nobody actually procrastinates on most of who they are", "the deflationary observation about procrastinators", "the identity that doesn't match the data", "the procrastinator label is misplaced", "you procrastinate on 2 or 3 things and define yourself by it", "the misplaced identity of the procrastinator", "the 100 vs 2 framing", "the bounded-behavior observation", "you procrastinate only on specific things not on everything", "the procrastinator who isn't really a procrastinator", "the over-identification with the procrastinator label", "always nevering", "the always-nevering pattern", "generalization removes diagnostic surface area", "the mountain out of a molehill mechanism", "98% of life is not procrastinating", "the procrastinator-over-one-thing observation", "the misplaced-identity-from-bounded-behavior observation"]
 tags: ["principle", "procrastination", "identity", "deflation", "bounded behavior", "self-image", "diagnostic"]
 related: ["procrastination-requires-self-abuse", "prioritization-vs-procrastination", "bound-the-behavior-find-where-it-doesnt-happen", "i-procrastinate-only-on-the-thing-that-matters-most", "identity-lags-behind-growth", "three-reasons-for-procrastination", "importance-makes-the-task-un-fun"]
-sources: ["2025-09-26_How to End Procrastination Now"]
+sources: ["2025-09-26_How to End Procrastination Now", "2025-11-21_Overcoming Procrastination (Coaching Session Breakdown)", "2025-11-21_Why You Procrastinate on Your Own Goals (But Not Your Job)"]
 ---
 
 # You Procrastinate on 2 of 100 Things
@@ -19,6 +19,20 @@ The "procrastinator" identity does not match the actual data of the person's lif
 The misidentification is not a small error. It is the wrong frame for the entire problem. If you are a procrastinator, the work is to fix a global character defect. If you procrastinate on two specific things, the work is to investigate what is specific about those two things.
 
 The first framing produces shame, identity work, and global productivity systems that mostly don't help. The second framing produces a targeted investigation that usually surfaces an addressable structural issue (timing, method, or avoided emotion — see [[three-reasons-for-procrastination]]).
+
+## The Always-Nevering Variant (Generalization Removes Diagnostic Surface Area)
+
+The principle also describes what Brett, in the breakdown commentary, calls "always nevering" — the cognitive move of taking a bounded behavior and generalizing it across one's entire life. The generalization closes off the very diagnostic surface area that would allow the behavior to be investigated and changed.
+
+> "The more that you generalize something to your entire life, like always nevering. I am always this. I never do this. Then you don't really have the surface area for really fine-tuned insight. You don't get that fine-grained noticing where exactly is this happening in my life. So I can investigate that." -- Brett Kistler, Overcoming Procrastination (Coaching Session Breakdown)
+
+The mechanism: once a behavior has been generalized into an identity ("I'm a procrastinator," "I'm always anxious," "I never finish anything"), the data the diagnostic would need has been pre-collapsed. There is nowhere to look. The behavior is everywhere, by stipulation, so there is no contrast available. No contrast, no signal. No signal, no diagnostic. No diagnostic, no path forward.
+
+The reverse move is also why "what do you not procrastinate on?" is such a productive opening question (see [[bound-the-behavior-find-where-it-doesnt-happen]]). The question forces the generalization to unmix. Once unmixed, the specific zone where the behavior actually occurs becomes visible, and the diagnostic can begin. The generalization had been preventing the diagnostic by hiding the data inside the identity.
+
+This is one of the larger structural reasons the procrastinator identity is so durable. The identity itself is the mechanism that prevents the investigation that would dissolve the identity. As long as the person is operating from "I'm a procrastinator," they cannot see the 100 things they did today without procrastinating. The 100 things are inside the field of view but invisible because the field of view has been pre-organized to ignore them.
+
+Joe's amplification in the breakdown applies the principle to anyone listening: "Take a moment to see, is this who you are or is this just one actually kind of small percentage of your life? The more of a mountain you make out of a molehill, oftentimes the more stuck you feel and the more stuck it seems." The stuckness is partly produced by the mountain-making itself. The deflation to "actually small percentage" is part of the unsticking.
 
 ## The Diagnostic Use
 
@@ -91,3 +105,5 @@ Matter-of-fact, slightly disarming. Joe delivers this observation as a small pie
 ## Sources
 
 - 2025-09-26_How to End Procrastination Now — the canonical observation that most procrastinators do 100 things a day without procrastinating and procrastinate on only 2 or 3 things; the framing that this gap is itself diagnostic and points at what is specific about the procrastinated tasks; Joe's "I have never met somebody who's actually a procrastinator for the majority of who they are" framing that surfaces the misidentification at the level of identity
+- 2025-11-21_Overcoming Procrastination (Coaching Session Breakdown) — Joe opens the breakdown with this principle as the first move he describes ("he's not procrastinating over 98% of his life, he's procrastinating over one thing that he thinks is important"); the connection to the more-of-a-mountain-out-of-a-molehill mechanism ("the more of a mountain you make out of a molehill, oftentimes the more stuck you feel and the more stuck it seems"); Brett's amplification on the "always-nevering" language pattern as the surface form of the same identity over-generalization ("when you generalize something to your entire life, you don't really have the surface area for really fine-tuned insight"); the use of the principle as the first deconstructive move when working with a self-diagnosed procrastinator
+- 2025-11-21_Why You Procrastinate on Your Own Goals (But Not Your Job) — the same coaching breakdown released under a second title; the teaching content is identical and the principle is delivered in the same form

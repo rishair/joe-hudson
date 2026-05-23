@@ -8951,10 +8951,26 @@
     },
     {
       "folder": "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T22:59:45Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "i-have-deep-rage-i-cant-access",
+        "caretaking-the-coach-during-intensity",
+        "perpetrator-projection-onto-the-coach",
+        "fuck-you-im-not-X-against-the-introjected-belief",
+        "you-are-going-to-get-annihilated-as-affirmation",
+        "i-love-the-rejected-part-of-me-let-them-love-it-in-the-coach-first",
+        "rage-and-love-are-the-same-pulsing-aliveness",
+        "of-course-you-had-to-be-numb"
+      ],
+      "articles_updated": [
+        "victim-anger-vs-dominating-anger",
+        "anger-is-love",
+        "fake-the-anger-to-let-it-move",
+        "annihilation-reveals-what-is-real"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T23:15:45Z"
     },
     {
       "folder": "2025-11-07_A Company Culture That Moves At The Pace of AI",
@@ -8988,15 +9004,135 @@
     },
     {
       "folder": "2025-11-18_You're Pushing Away What You Most Want",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T23:05:21Z",
+      "articles_created": [
+        "compliments-dont-build-self-esteem-competence-does",
+        "the-compliment-threatens-the-identity-expansion-required"
+      ],
+      "articles_updated": [
+        "identity",
+        "let-it-move-through-and-clean-the-channel",
+        "dont-call-them-a-liar-with-deflection",
+        "chase-your-own-approval",
+        "how-do-i-stop-seeking-approval"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T23:16:23Z"
+    },
+    {
+      "folder": "2025-11-21_Overcoming Procrastination (Coaching Session Breakdown)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T23:05:56Z",
+      "articles_created": [
+        "dont-let-the-story-stand",
+        "own-the-importance-before-seeing-through-it",
+        "follow-where-the-client-points",
+        "the-hedge-as-internal-dichotomy-tell",
+        "procrastinators-often-had-critical-parents",
+        "see-the-person-as-beautiful-while-they-see-themselves-as-broken",
+        "brain-creates-a-false-end-of-the-fear",
+        "brain-manufactures-next-problem-to-stay-on-map"
+      ],
+      "articles_updated": [
+        "dont-treat-coaching-videos-as-how-to-coach",
+        "epiphany-becomes-rut",
+        "war-with-yourself",
+        "the-404-the-productive-unknown",
+        "prove-why-its-important",
+        "i-procrastinate-only-on-the-thing-that-matters-most",
+        "importance-makes-the-task-un-fun",
+        "embrace-vs-brace",
+        "you-procrastinate-on-2-of-100-things"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-23T23:25:35Z"
+    },
+    {
+      "folder": "2025-11-21_Why You Procrastinate on Your Own Goals (But Not Your Job)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T23:16:45Z",
+      "articles_created": [
+        "brain-manufactures-next-problem-to-stay-on-map",
+        "recognition-with-open-heart-moves-pattern-recognition-with-shame-entrenches-it"
+      ],
+      "articles_updated": [
+        "you-procrastinate-on-2-of-100-things",
+        "dont-let-the-story-stand",
+        "the-hedge-as-internal-dichotomy-tell",
+        "own-the-importance-before-seeing-through-it",
+        "follow-where-the-client-points",
+        "brain-creates-a-false-end-of-the-fear",
+        "procrastinators-often-had-critical-parents",
+        "see-the-person-as-beautiful-while-they-see-themselves-as-broken",
+        "the-404-the-productive-unknown",
+        "war-with-yourself",
+        "embrace-vs-brace",
+        "prove-why-its-important",
+        "dont-treat-coaching-videos-as-how-to-coach",
+        "epiphany-becomes-rut",
+        "importance-makes-the-task-un-fun",
+        "i-procrastinate-only-on-the-thing-that-matters-most",
+        "procrastination-requires-self-abuse"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-23T23:30:08Z"
+    },
+    {
+      "folder": "2025-11-25_Why You Can't Change",
+      "status": "complete",
+      "claimed_at": "2026-05-23T23:17:11Z",
+      "articles_created": [
+        "ive-been-trying-to-change-this-for-years",
+        "list-things-trying-to-change-for-4-years",
+        "notice-where-you-shame-yourself-be-gentle",
+        "walking-around-thinking-im-no-good-is-the-stress"
+      ],
+      "articles_updated": [
+        "shame-drives-behavior",
+        "should-as-threat",
+        "joes-26-year-old-list",
+        "dont-shame-kids-the-behavior-wont-change",
+        "shame-stagnates-emotion"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T23:28:28Z"
+    },
+    {
+      "folder": "2025-11-27_\uff02I'm Not Responsible For How You Feel\uff02 (Coaching with Joe)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T23:28:03Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-11-21_Overcoming Procrastination (Coaching Session Breakdown)",
+      "folder": "2025-12-03_Every decision you struggle with has one thing in common",
+      "status": "complete",
+      "claimed_at": "2026-05-23T23:29:17Z",
+      "articles_created": [
+        "change-behavior-to-change-consciousness"
+      ],
+      "articles_updated": [
+        "decisions-are-emotional",
+        "if-you-think-youre-deciding-youre-in-fear",
+        "principles-free-you",
+        "unconscious-principles-run-your-life",
+        "embracing-changes-unconscious-decisions"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T23:37:17Z"
+    },
+    {
+      "folder": "2025-12-05_Charisma isn't learned (Dr. K, Charisma on Command & Joe)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T23:05:56Z",
+      "claimed_at": "2026-05-23T23:31:03Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2025-12-05_Slimy vs. Authentic Charisma \u2014 Joe and Dr. K on Charisma on Command",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T23:37:46Z",
       "articles_created": [],
       "articles_updated": []
     }

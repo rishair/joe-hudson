@@ -5,7 +5,7 @@ title: "Embracing Emotions Changes the Unconscious Decisions That Run the Day"
 aliases: ["embracing changes unconscious decisions", "the small daily choices change automatically", "automatic decisions shift through embracing", "habits change without willpower when emotions are felt", "choices vs decisions and the small daily ones", "the unconscious decisions are even more emotional", "embracing changes the choices you don't know you're making", "the hundred decisions a minute shift", "the small choices change when the underlying emotion is felt", "you cannot willpower the small decisions but they change anyway"]
 tags: ["decisions", "habits", "automaticity", "emotions", "behavior change", "transformation", "principle"]
 related: ["decisions-are-emotional", "if-you-think-youre-deciding-youre-in-fear", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "joes-pot-habit", "what-we-fear-we-invite", "shame-drives-behavior", "awareness-as-change-agent", "principles-free-you"]
-sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2025-12-03_Every decision you struggle with has one thing in common"]
 ---
 
 # Embracing Emotions Changes the Unconscious Decisions That Run the Day
@@ -70,6 +70,16 @@ This is the same structure as [[shame-drives-behavior]] applied to behavior in g
 
 A person who reports "I keep deciding to X and then not doing it" or "I have a hundred different things I'm trying to change about my routine" is usually working at the level of conscious decisions while the underlying automatic decisions remain on emotional autopilot. The number of decisions being attempted is itself the diagnostic. The fix is not to be more disciplined about the decisions. The fix is to find what emotion is generating the autopilot and feel it. The conscious decisions then become much smaller in number and easier to execute, because the autopilot has begun to align with what is wanted rather than against it.
 
+## The Doom-Scroll Is a Decision (At the Automatic Scale)
+
+A specific way to see that the principle scales down to the smallest behaviors. The choice to doom-scroll is structurally a decision in the same sense as a major life choice: it is the attempt to avoid (or produce) a specific feeling. The reason the doom-scroll does not feel like deliberation is that the avoidance has been routinized to the point of automaticity. The feeling-avoidance is still doing the deciding; it just no longer requires a conscious deliberation step.
+
+"It's the same thing even in like a drug addiction or a choice to doom scroll. What you're doing is you're saying, I don't want to feel a certain way, or I do want to feel a certain way. And so I'm going to avoid that emotional experience that I don't want by doom scrolling." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The structural identity matters because it removes the "small habits are different from big decisions" exception that lets people work on big decisions while leaving the small ones running. The doom-scroll, the late-night snack, the obsessive email check are using the exact same mechanism as the career-vs-family fork: avoid the feeling that does not want to be felt. The mechanism does not become a different mechanism just because the avoidance has automated.
+
+The practical implication for the unconscious-decisions principle: when working with someone who reports automatic behaviors they want to change, the work is the same as it would be for a major decision. Ask what the avoided emotion is. Feel it. The automatic behavior will reorganize on its own. The doom-scroll choice was as much a fear-loaded decision as the job choice; the system was just doing it faster.
+
 ## Why This Is Better Framed as a Byproduct Than as a Goal
 
 The principle has a paradoxical edge. If a person tries to feel their emotions in order to change their habits, they are back in the management trap (see [[trying-to-get-rid-of-the-emotion]]). The motivation taints the practice. The emotions do not move because the system reads the strategy.
@@ -98,3 +108,4 @@ Joe presents this as a delighted side effect of the main work, not as a sales pi
 ## Sources
 
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the full articulation of the principle; the willpower-vs-habit framing; the X-Y-Z vs A-B-C decision distinction; Brett's "refactor" framing of decision fatigue)
+- 2025-12-03_Every decision you struggle with has one thing in common (the doom-scroll and drug-addiction examples that scale the choice/decision distinction down to the smallest automatic behaviors; the structural identity between a major life decision and an automatic doom-scroll choice — both are avoidance-of-feeling decisions, just at different speeds of automation)

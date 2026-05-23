@@ -4,7 +4,7 @@ id: anger-is-love
 title: "Anger Is Love (We Don't Get Angry at What We Don't Care About)"
 aliases: ["anger is love", "anger as love", "anger equals love", "we don't get angry at what we don't care about", "anger comes from caring", "anger as the visible form of love", "anger is the proof of love", "where there's anger there's love", "anger is what care looks like when threatened", "the compressed anger-is-love teaching", "anger as the marker of love", "what you're angry about is what you love", "if you weren't angry you didn't care", "the surface anger vs the real anger", "the coffee machine is not what you're angry about", "the surface target isn't the real target"]
 tags: ["principle", "anger", "love", "care", "emotions", "reframe", "wisdom of anger"]
-sources: ["2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-07-12_I Can't Get Over My Ex"]
+sources: ["2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-07-12_I Can't Get Over My Ex", "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)"]
 ---
 
 # Anger Is Love
@@ -115,6 +115,27 @@ Stephanie describes her own journey of accessing anger through movement first:
 
 Joe affirms the body-first approach: "The most profound way when you can get to it is physical punching, beating, something like that with words. That's the process at the quickest." See [[get-angry-in-the-car]] for the related practice. The "anger is love" frame makes the movement work feel different — the body is releasing a held form of care, not exorcising a defect.
 
+## The Live-Session Demonstration of the Energetic Equivalence
+
+The principle "anger is love" can be received conceptually as a reframe (anger reveals what is cared about). It can also be discovered in the body as the energetic substrate of both being the same. The session-level move that produces this discovery: have the client feel rage and love within the same session, then ask the body to notice that they are the same energy.
+
+In the source session, after the client had moved through dominating-form rage at her trauma and then through love-work using Joe as the proxy host for the rejected victim-part, Joe asked:
+
+"Now this is going to be weird, but that rage that you had at that moment and this love that you have, do you feel how they're the same thing?" -- Joe Hudson, 50 Years of Numbness Dissolved in 15Mins of Rage
+
+The client immediately recognized the pattern: "Yes, it's like fear and excitement and joy. I've been playing with that one." A minute later she articulated the body-level recognition: "it's all the, the opposite side of the coin of numbness that I've felt. For so long. It's this pulsing aliveness that makes me shake."
+
+The principle "anger is love" identifies anger as a form of love (love mobilized in response to threat). The live-session demonstration extends this: the body that has just felt both rage and love in sequence discovers that the energy itself is the same. The directional difference (rage moves against, love moves toward) is the variation; the pulsing aliveness underneath is the constant.
+
+This extension is treated as its own principle in [[rage-and-love-are-the-same-pulsing-aliveness]]. The relationship between the two principles:
+
+- "Anger is love" is the diagnostic principle: anger arises where love is, because anger is the form of caring being threatened.
+- "Rage and love are the same pulsing aliveness" is the somatic principle: the energy is one, taking different forms.
+
+They are not in tension. They are different levels of the same insight. The diagnostic principle answers "where does anger come from?" — from love. The somatic principle answers "what is anger made of?" — the same aliveness love is made of.
+
+The in-session move that surfaces this is also the integration move: pair rage-work with love-work in the same session, then ask the body to notice the sameness. The body's recognition is what makes the principle portable beyond the session.
+
 ## Tone
 
 Joe delivers this teaching with affection in his voice. The phrase "anger itself as love" carries the warmth of the recognition it names. The tone is not provocative or contrarian; it is delivered as a simple observation about what is actually true. The casualness of the delivery is part of what allows the reframe to land. A heavily emphasized "anger IS love!" would invite skepticism. The understated "I see anger itself as love" lets the listener arrive at the recognition on their own.
@@ -149,3 +170,4 @@ The principle is one of the rare teachings where Joe delivers the most compresse
 - 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (Joe delivering the compressed teaching "I see anger itself as love. We don't get angry at anything that we don't have a deep care for"; the coffee machine corollary that the surface target is not the real source of the anger; Stephanie's immediate recognition that the reframe "would have been really freeing for me at the time"; Stephanie's caregiver story showing the perfect-caregiver identity preventing the anger from being recognized as the form the care was taking; the body-first movement-based access to anger via punching pillows and high-intensity workouts; Joe's affirmation that "the most profound way when you can get to it is physical punching, beating, something like that with words")
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (alternate version of the same conversation; same compressed teaching; same Stephanie response; same caregiver story)
 - 2024-07-12_I Can't Get Over My Ex (the love-and-anger-together pair surfaced when a client extended his love practice to his divorced ex-wife — "I know there's love, but there's a lot of anger"; Joe's affirmation "Yeah, there fucking is"; the group-consent framing for the anger release that named the anger as "really just like a love that's moving the pipes out"; the demonstration that the love-in-anger form of the principle is what is operating when a relationship has been severed without permitting the anger's expression)
+- 2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson) — the live-session demonstration of the principle's somatic extension; after rage-work and love-work both moved within the same session, Joe asked "do you feel how they're the same thing?"; client immediately recognized "it's like fear and excitement and joy"; the body's articulation of the underlying substrate as "pulsing aliveness that makes me shake"; the foundation for the somatic-principle extension treated separately at [[rage-and-love-are-the-same-pulsing-aliveness]]

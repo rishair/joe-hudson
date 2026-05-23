@@ -5,7 +5,7 @@ title: "Living By Principles Frees You"
 aliases: ["principles create freedom", "principled living", "principles as empowerment", "elegant structure of principles", "personal constitution", "I don't work with assholes principle", "I put connection first principle", "principles handle the deciding in advance", "principled decisions evaporate the decision-feel", "principled decision-making", "decisions evaporate when principled", "live by principles to dissolve decisions", "the asshole principle", "connection-first principle"]
 tags: ["principles", "freedom", "empowerment", "structure", "values", "decisions"]
 related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment", "good-decision-is-how-you-make-it-not-the-outcome", "decisions-as-portfolio", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "surrender-the-outcome-of-a-decision", "principled-board-decision", "wrestle-with-your-principles", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "rollout-principles-in-organization", "ray-dalio-transparency"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2025-05-09_Why Your Goals Are Making You Miserable"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2025-05-09_Why Your Goals Are Making You Miserable", "2025-12-03_Every decision you struggle with has one thing in common"]
 ---
 
 # Living By Principles Frees You
@@ -154,6 +154,42 @@ This explains why the leaders Joe knows who run principled businesses are the ha
 
 The coaching implication: when working with someone who has good principles but no joy, the work is on the joy side. The principles are intact. The emotional fluidity that produces joy has not been developed alongside them. When working with someone who has joy but is being asked about principles, the work is gentle: their joy has likely already organized their life around what amounts to principles even if they would not call them that.
 
+## The Embrace-Intensity Principle as a Worked Example of Decision Automation
+
+Joe's own embrace-intensity principle is the clearest worked example of how a principle automates a class of decisions. The principle states that any uncomfortable feeling that presents itself gets felt into. Once internalized, the "decision" of whether to lean into or avoid an uncomfortable feeling is no longer being made on each occasion. The principle has already answered the question.
+
+"One of my principles is embrace intensity. What that means is that I don't create intensity, but I embrace it, meaning I will feel into anything that I find to be uncomfortable if it's presenting itself. Why do I have that as a principle? It's because when I do that, I make clear decisions because I'm not avoiding anything. It's a simple principle that I live by. I'll do it every single time." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The decision-making clarity comes from a structural feature, not from improved deliberation: a person who has committed to feeling whatever shows up is no longer making decisions to avoid feeling. The avoidance dimension drops out. What remains is the actual decision criteria, which were always there but were being drowned by the avoidance.
+
+The pattern generalizes: any well-built principle removes a class of avoidance-driven decisions from the daily decision-making load. "I don't work with assholes" removes the avoidance-of-conflict-with-the-asshole class of decisions. "I put connection first" removes the avoidance-of-the-difficult-conversation class. The principle does the avoidance-handling in advance so the present moment is freed for choice rather than fear.
+
+## The Joy Surprise: A Principle Unfolds Beyond Its Stated Domain
+
+A specific feature of well-built principles that does not appear when first installing them: the principle, lived over time, opens domains the original framing did not include. Embrace intensity was initially about feeling difficult emotions — fear, anger, failure. Over time, the same principle revealed an unexpected territory: positive intensities also need embracing, and they are often more intense than the negative ones.
+
+"And oddly, over time, it was -- I was embracing the intensity of fear or anger or failure. But then I was like, oh, I'm embracing the intensity of excitement, of joy, of pleasure, which, by the way, far more intense. And as I lived my principle, it unfolded in such a way that it taught me how to allow for so much more joy and so much more pleasure in my life." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The structural lesson: a principle is not a description of the work it covers when first written. It is a commitment that, once held seriously, teaches the person about the territory it covers. The territory turns out to be larger than the original framing. The embrace-intensity principle was nominally about discomfort. Lived over years, it became about every felt experience including the wanted ones. The principle delivered something beyond what it was asked to deliver.
+
+This is also part of why the wrestling matters (see [[wrestle-with-your-principles]]). The principle has to remain alive enough to be wrestled with so it can keep revealing its actual scope. A principle that has hardened into a slogan stops unfolding. The wrestling keeps the principle teachable.
+
+The coaching implication: when someone is selecting a principle, do not over-define it at the front. Pick the right principle for what is currently live, hold it as a commitment, and let it teach you what it actually covers. The territory is discovered through the living, not through the writing.
+
+## Discipline Becomes Effortless (The Disappearance of the Discipline-Cost)
+
+A specific feature of principle-based action that is missed when principles are framed as "rules you have to obey." A well-installed principle requires discipline only at the front end. Once the person has seen, repeatedly, that the principle works (and that violating the principle does not work), the discipline cost disappears. The principle becomes the obvious thing to do rather than the disciplined thing to do.
+
+"It's a very disciplined approach, but it's only disciplined for a short period of time. At first you're like, I oh, I don't want to do that. But after a while, you start feeling like, oh, if I don't do the thing that my principles say, it doesn't work out. So it doesn't take any discipline. It's like every time you do something, it works, and every time you don't do it, it doesn't work. It becomes very easy to do." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The mechanism is straightforward: the body learns. After enough iterations of (principle followed → things work, principle violated → things don't), the body stops requiring the conscious override. The principle is now load-bearing in the same way habits are. The conscious effort that was needed to install it is no longer needed to operate it.
+
+"All of a sudden, your decision-making just becomes choices. And it requires no discipline." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The end-state worth naming: the same selection that started as a discipline (an effortful overriding of the previous pattern) becomes a choice (a costless selection that happens without felt deliberation). This is structurally identical to the dissolution of the decision-feel into the choice-feel described in [[if-you-think-youre-deciding-youre-in-fear]]. The principle is the mechanism by which the dissolution happens at scale across a domain of decisions, rather than one decision at a time.
+
+This is also why the "principles feel restrictive" framing misreads the territory. The restriction is only visible during the front-end installation period. The lived principle is freedom, not constraint, because it has removed the cost of deciding from the domain it covers. See [[80-percent-of-decisions-are-automatic-via-principles]] for the same observation in the operational-principles framing.
+
 ## Principles Sit Underneath Goals and Metrics
 
 The principles layer also has a structural relationship to the goals layer and the metrics layer that sit on top of it. The principles set the parameters within which any specific goal is pursued. The goals are the north stars derived from the principles in any given domain. The metrics are the dashboards that report on whether the work is moving toward the goals.
@@ -199,6 +235,7 @@ See [[80-percent-of-decisions-are-automatic-via-principles]] for the full treatm
 - Toward [[acting-as-if-already-true]]: the principles are the stance from which acting-as-if becomes natural
 - Toward [[five-principles-of-the-path]]: Joe's own teaching framework is itself a set of principles
 - Toward [[structure-and-empowerment]]: organizations need the same structure for empowerment at scale
+- Toward [[change-behavior-to-change-consciousness]]: the operational lever for installing a new principle is to do the new behavior 10 times and let the consciousness update around the new evidence
 
 ## Sources
 
@@ -210,3 +247,4 @@ See [[80-percent-of-decisions-are-automatic-via-principles]] for the full treatm
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical principles-vs-joy asymmetry teaching and lean-in-principle mechanism)
 - 2025-05-09_Why Your Goals Are Making You Miserable (the principles-goals-metrics stack with principles as the "how do you wanna drive" layer underneath goals and metrics; principles as what ensures alignment in goals across an organization; the structural relationship to [[principles-goals-metrics]] framework)
 - 2025-11-07_6 Operating Principles That Make 80% of Decisions Automatic (the 80% claim that well-built operating principles automate 80% of the leader's decisions and make them well; the Johannes Langgraf example of a company that navigated multiple massive transitions without CEO-bottlenecking because the principles were doing the deciding; the training-the-dog metaphor for the upfront-cost-then-back-end-savings ROI of principles; the observation that the decisions get made not by the CEO but by the operating principles themselves)
+- 2025-12-03_Every decision you struggle with has one thing in common (the embrace-intensity principle as the worked example of how a principle automates a class of decisions by removing the avoidance dimension; the joy-surprise where the principle, lived over time, opened into territory the original framing did not include — embracing positive intensities of excitement, joy, and pleasure that turned out to be more intense than the negative ones; the discipline-becomes-effortless mechanism where the body learns through repeated iterations that the principle works and the violation doesn't, until the conscious override is no longer needed and the decision becomes a costless choice)

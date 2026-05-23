@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-shame-kids-the-behavior-wont-change
 title: "Don't Shame Kids to Change Behavior (It Won't Change, and at 16 They'll Still Be Doing It)"
-aliases: ["don't shame kids to change behavior", "shaming doesn't change behavior", "the shame-doesn't-work anti-pattern", "shame fails to change behavior", "everything you shame your kid for hasn't changed", "shame as the behavior-locking mechanism", "shaming installs the behavior it tries to prevent", "shame is a parenting tool that doesn't work", "the shame-and-the-16-year-old test", "the shame doesn't work guarantee"]
+aliases: ["don't shame kids to change behavior", "shaming doesn't change behavior", "the shame-doesn't-work anti-pattern", "shame fails to change behavior", "everything you shame your kid for hasn't changed", "shame as the behavior-locking mechanism", "shaming installs the behavior it tries to prevent", "shame is a parenting tool that doesn't work", "the shame-and-the-16-year-old test", "the shame doesn't work guarantee", "if you look at kids and you're naughty they're going to grow up naughty", "shame your kid and they keep doing the behavior"]
 tags: ["anti-pattern", "parenting", "shame", "behavior change", "discipline", "children", "shame drives behavior"]
 related: ["dont-shame-kids-they-self-shame", "shame-drives-behavior", "inherent-goodness", "natural-shame-vs-installed-shame", "childhood-imprinting", "parenting-as-coaching-domain", "if-you-do-x-youre-telling-them-its-okay-to-do-x", "connection-is-what-young-kids-actually-need"]
-sources: ["2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch"]
+sources: ["2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch", "2025-11-25_Why You Can't Change"]
 ---
 
 # Don't Shame Kids to Change Behavior
@@ -78,6 +78,8 @@ These tools work. The shame tool does not. The empirical case is the parent's ow
 
 "I've never met somebody who's shaming their kid and then they're like, I feel great about that. People feel like shit when they do that kind of thing." -- Joe Hudson, How to Be a Parent
 
+"If you look at kids and you're naughty, that's — they're going to grow up naughty. You shame somebody, it's the best way to make sure that they're going to continue that behavior." -- Joe Hudson, Why You Can't Change
+
 ## Upstream (What Leads Here)
 
 - A parent who has been shaming their child for the same behavior for years without it changing
@@ -103,3 +105,4 @@ Direct, slightly confrontational, with the empirical claim doing most of the wor
 ## Sources
 
 - 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch (Joe makes the direct empirical claim that everything a parent has shamed their kid for has not changed; offers the "still be 16 years old doing it" test; names that parents feel like shit when they shame, which is their inherent goodness registering that the move doesn't work)
+- 2025-11-25_Why You Can't Change — the principle stated in its general form ("if you look at kids and you're naughty, that's — they're going to grow up naughty"); the compression "you shame somebody, it's the best way to make sure that they're going to continue that behavior" used as an empirical illustration in a non-parenting teaching context, reinforcing that the anti-pattern is not parent-specific but a general mechanism of shame

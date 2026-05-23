@@ -4,7 +4,7 @@ id: if-you-think-youre-deciding-youre-in-fear
 title: "If You Think You're Making a Decision, You're in Fear"
 aliases: ["if you think you're deciding you're in fear", "decisions are fear", "the decision-as-fear principle", "feeling like a decision means fear", "the felt decision is fear", "what feels like a decision is fear", "decisions feel like decisions only when scared", "feeling decisions vs not feeling them", "non-decisions are most decisions", "decisions you didn't notice", "you make a hundred decisions a minute and don't feel them", "if a choice has become a decision you're in fear", "choices become decisions when fear enters", "the distinction between choice and decision", "choices vs decisions", "when a choice becomes a decision"]
 tags: ["fear", "decisions", "intuition", "trust", "flow", "freedom"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-10-18_Parenthood"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-10-18_Parenthood", "2025-12-03_Every decision you struggle with has one thing in common"]
 ---
 
 # If You Think You're Making a Decision, You're in Fear
@@ -32,6 +32,12 @@ Joe formalizes the principle with a specific semantic distinction. A choice is a
 "I have made 500 choices today. I am unaware of those choices. They just happened, right? So I, I'm choosing to talk to you right now. I'm choosing to have my phone in or my computer in this configuration. I'm choosing where to look. I'm choosing what I'm drinking. I'm choosing what words to say. And they're all choice. So for semantics, I'm going to call those choices. Decisions is where you go, okay, I have a decision to make. And now I'm sitting here thinking about, do I go left or do I go right? Do I take the job? Do I not take the job?... So if you're in a thing where a decision, where a choice has become a decision, where all of a sudden there's a lot of thought put into it and you're really putting some energy into that in itself is, is fear. So already you're in some fear, operating in some fear." -- Joe Hudson, How Can I Make Better Decisions?
 
 The choice-to-decision transition is itself the diagnostic. The same selection that would have happened without thought (which restaurant to go to, what to order, whether to text someone back) becomes a "decision" specifically when fear enters the system. Watching for the moment a choice becomes a decision is watching for the moment fear arrived.
+
+The same distinction stated as the live test: every second of life, choices are being made — to keep watching the video, to shut it off, to say this word rather than that one, to look here rather than there. None of these feel like decisions because no fear is loaded into them. A "decision" only arrives when a choice has acquired the felt weight of "if this goes wrong, something I don't want will happen."
+
+"Choice is something that happens all the time. Every second you're choosing to watch this, you're choosing to shut this off. I'm choosing to say this word. I'm choosing to say that word. But there's not a decision being made. And then there's decision-making, which is, oh, I'm sitting down and I'm thinking about what I'm gonna do. So in decision-making, if you're there, if you're already deciding, the first thing that's happening is you're in fear." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The structural form of the test: every-second choices that do not feel like decisions are running fine. The moment one of them becomes a felt decision, fear has loaded into the system. The "first thing that's happening" — before any deliberation, before any weighing of options — is the fear. The deliberation is the fear's costume.
 
 ## Why This Is True
 
@@ -164,3 +170,4 @@ Direct, slightly provocative. Joe states this as fact, not opinion. The principl
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the choice-vs-decision distinction explicitly framed; the "I have 500 choices today" example)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
 - 2023-10-18_Parenthood (Joe's call to have his first two children as a life-direction-scale example of the principle; the contrast between his years of clear no and Tara's years of clear yes versus the felt arrival of the call when it came; the third-kid asymmetry showing the call is not guaranteed to arrive for both partners)
+- 2025-12-03_Every decision you struggle with has one thing in common (the "every second you're choosing" framing of the choice-decision distinction; the structural claim that the very first thing happening when you're in decision-mode is fear, before any deliberation — the deliberation is the fear's costume; the live test that any choice not loaded with fear is running fine without ever being noticed as a choice)

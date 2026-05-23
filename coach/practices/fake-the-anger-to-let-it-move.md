@@ -5,7 +5,7 @@ title: "Fake the Anger to Let It Move"
 aliases: ["fake it to make it for anger", "perform the anger before you feel it", "acting your way into anger", "the body needs the shape first", "rehearse the angry motion", "perform anger as practice", "play the angry five year old"]
 tags: ["practice", "anger", "fake it", "release", "embodiment", "performance"]
 related: ["anger", "joes-crying-story", "daily-emotional-yoga", "treat-yourself-as-actor-of-emotion", "three-childhood-origins-of-anger-repression", "observer-vs-immersion-by-anger-type", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)"]
 ---
 
 # Fake the Anger to Let It Move
@@ -111,6 +111,30 @@ In a sense both involve performance. The difference is the direction of the work
 
 Both prevent the same trap: the over-tight identification with whether the emotion is "really" the person or "really" being faked. The performance frame loosens that grip in both directions.
 
+## The Coach-Modeled Version: Demonstrating the Dominating Shape
+
+A specific subcase: the client knows they should be doing dominating-form anger ([[victim-anger-vs-dominating-anger]]) but their body produces only the convincing-form or the victim-form. The body has no template for dominating because the body has practiced submitting. The fake-it move in this case is performed by the coach first: the coach demonstrates the dominating-form at full volume so the client's body has a template to match.
+
+The protocol:
+
+1. The client attempts the dominating-form move. The attempt is small, pleading, or victim-flavored.
+2. The coach names the shortfall: "still not dominating," "there's a little victim in it."
+3. The coach performs the dominating-form themselves, at full size, using either the client's sentence or a representative version.
+4. The client tries again, now with the somatic reference of having just heard what the dominating form sounds like.
+5. The coach pushes until the client's body finds the shape.
+
+The coach's performance is not theatrical. It is a working demonstration. The body needs to know what the motion is. Description does not deliver this; modeling does.
+
+In the source session, the coach modeled the dominating-form when the client's "fuck you, I'm not a train wreck" kept arriving as convincing:
+
+"Fuck you, fuck you, I'm not a train wreck. It's just you're dominating that thing that says you're a train wreck, that person." -- Joe Hudson, 50 Years of Numbness Dissolved in 15Mins of Rage
+
+The coach's voice carries the actual energy of the dominating-form. Not a calmer or softer demonstration — the actual shape, so the body has accurate reference.
+
+This is the same mechanism as the fake-it practice run by the client on themselves, but with the additional benefit of the coach's body delivering a real-time felt-template the client can match. The two versions stack: the coach models, the client mirrors, the body locates the motion, and from there the client can continue to operate the motion themselves.
+
+The coach has to be willing and able to make the motion at full size. A coach who is themselves uncomfortable with the dominating-form cannot deliver a credible model, and the client's body will read the discomfort and decline to match. This is one reason coaches working with anger need to have done their own anger-work first.
+
 ## In Coaching
 
 When a person reports they cannot access anger:
@@ -152,3 +176,4 @@ Light. The practice is permissioned playfulness. The instruction "just fake it" 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
 - 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (Brett's articulation of the sincerity distinction — that faking-with-sincerity creates an invitation the body can follow, while faking-as-a-trick-on-yourself produces resistance and nowhere-ness; Joe's confirmation of the distinction and the bridge from this practice to the "most convincing performance" framing of the actor stance)
+- 2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson) — the coach-modeled-version subcase; when client's "fuck you, I'm not a train wreck" repeatedly arrived as convincing rather than dominating, Joe performed the dominating-form himself ("Fuck you, fuck you, I'm not a train wreck") at the actual energy-level the motion required, giving the client's body the felt-template to match; the modeling pre-condition that the coach has to be able to make the motion at full size for the client's body to read the model as credible

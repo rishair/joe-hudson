@@ -2,10 +2,10 @@
 type: concept
 id: should-as-threat
 title: "Should as Threat"
-aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management", "shoulding yourself is also trigger", "self-shoulding as trigger"]
+aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management", "shoulding yourself is also trigger", "self-shoulding as trigger", "feel the contraction of the should in your body", "the body-contraction signature of the self-should", "you can feel the should in your body"]
 tags: ["shoulds", "shame", "control", "threat", "nervous system", "voice in head", "trigger"]
-related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice", "trigger"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Triggered!", "2022-10-26_Want Over Should"]
+related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice", "trigger", "walking-around-thinking-im-no-good-is-the-stress", "list-things-trying-to-change-for-4-years", "notice-where-you-shame-yourself-be-gentle", "ive-been-trying-to-change-this-for-years"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Triggered!", "2022-10-26_Want Over Should", "2025-11-25_Why You Can't Change"]
 ---
 
 # Should as Threat
@@ -33,6 +33,32 @@ The internal should -- the voice in the head saying "you should call your mother
 The implication: people are running a four-layer threat protocol on themselves all day long. The body responds the way it would to any sustained threat: tension, depression, avoidance, eventual collapse.
 
 "If that should voice in your head is really strong and really loud, there is a strong case that you're miserable whether you see it or not." -- Joe Hudson, Want over Should
+
+## The Body-Contraction Test
+
+The should is testable in the body in real time. Anyone can run the test.
+
+"Telling yourself that, you can just feel your whole body contract when you're saying it to yourself. You can feel the stress of it." -- Joe Hudson, Why You Can't Change
+
+Say a should aloud to yourself with attention to the body — "I should be exercising more," "I should call my mother," "I shouldn't be eating this." Notice what happens. The body contracts. Breath shortens. Shoulders tighten. A small wave of constriction moves through the system.
+
+The test demonstrates the threat protocol experientially. The person is not being told that the should is a threat; the body is producing the threat-response and the person is feeling it directly. This is a one-second diagnostic that converts the concept from abstract to embodied.
+
+The body-contraction signature is also useful as a real-time monitor. When the body is contracting and the person cannot name why, scanning for an internal should is often productive. The should may have been delivered subliminally, without language, but the body responded as if it had been spoken. The contraction is the receipt.
+
+This is the body-cost layer of the four-register threat. Energetically, intellectually, emotionally, neurologically — all four register the threat, and the body produces an integrated response that is felt as contraction. The contraction is what makes the should a chronic stress source rather than just a thought, and it is what compounds across the day when many shoulds are running. See [[walking-around-thinking-im-no-good-is-the-stress]] for the accumulated form of this stress, and [[notice-where-you-shame-yourself-be-gentle]] for the in-the-moment intervention that uses the contraction as the cue to soften.
+
+## The Loop Form: Try, Fail, Beat Yourself Up, Try Again
+
+The should does not run as a single event. It runs as a loop with a specific repeating shape that compounds the stress over time.
+
+"You're sitting there telling yourself you should do something, then you don't do it, then you beat yourself up for not doing it, then you tell yourself you should do it again, and then you don't do it, and then you beat yourself up. And that's an incredibly stressful situation." -- Joe Hudson, Why You Can't Change
+
+The loop has four moves: should → didn't → self-beating → should again. Each round increases the stress without producing the change. After enough rounds, the person is in a chronic stress state organized around an item they have not changed in years.
+
+The diagnostic for the loop is the years-long time-scale signature described in [[ive-been-trying-to-change-this-for-years]] and the writing exercise in [[list-things-trying-to-change-for-4-years]]. The loop is what makes the should-as-threat compound across time rather than dissipating after the immediate moment of delivery.
+
+The exit from the loop is not "do the thing the should is demanding." The exit is to stop running the loop. Each iteration of the should is what is locking the behavior in place. See [[shame-drives-behavior]] for the principle and [[notice-where-you-shame-yourself-be-gentle]] for the in-the-moment practice that interrupts the loop.
 
 ## The Energetic Should Is Often Non-Verbal
 
@@ -94,3 +120,4 @@ The corollary also points back to what the should is hiding. Shoulds usually ari
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Triggered!
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2025-11-25_Why You Can't Change — the body-contraction test ("you can just feel your whole body contract when you're saying it to yourself") as the in-real-time embodied diagnostic of the threat; the loop-form structure (should → didn't → self-beating → should again) as the compounding mechanism that turns the single threat-event into a chronic stress condition; the framing that the loop is itself stressful in addition to each individual should being stressful

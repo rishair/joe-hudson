@@ -4,7 +4,7 @@ id: chase-your-own-approval
 title: "Chase Your Own Approval (Ask 'Do I Approve?' as the Central Question)"
 aliases: ["chase your own approval", "chasing your own approval", "approve of yourself", "self-approval as the central question", "do I approve of that", "do I approve", "does that make me feel good", "is this how I wanna be", "ask yourself if you approve", "the do-I-approve question", "the central question inversion", "from do they approve to do I approve", "asking for your own approval instead of theirs", "the self-approval inversion", "make do-I-approve the central question", "the I-approve practice", "approval inversion practice", "approve of your own life", "be your own approver", "chasing your own approval practice", "the approval inversion move", "asking yourself what you think", "self-approval over external approval", "the I-approve question", "stop asking what they think start asking what you think")]
 tags: ["approval", "practice", "self-listening", "self-trust", "freedom", "inversion"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval", "2025-10-21_Connection Is Hard Until You Face Your Aloneness"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval", "2025-10-21_Connection Is Hard Until You Face Your Aloneness", "2025-11-18_You're Pushing Away What You Most Want"]
 ---
 
 # Chase Your Own Approval
@@ -82,6 +82,22 @@ When a compliment arrives, receive it (see [[let-it-move-through-and-clean-the-c
 
 The practice compounds. Each successful flip makes the next one easier. Eventually the do-I-approve question runs as the default and the do-they-approve question becomes the noticeable exception rather than the operating system.
 
+## The Thousand-People-Beautiful Test (Why External Approval Cannot Substitute)
+
+A crisp formulation of why the practice is structurally necessary, not just preferable: external approval cannot do the job that self-approval does, because the same identity that rejects internal self-approval will reject external approval through the same filter.
+
+"A thousand people can call you beautiful, but if you think you're ugly, you're gonna call them all a liar and you're never gonna let it in. You're never gonna get to actually see your own beauty." -- Joe Hudson, You're Pushing Away What You Most Want
+
+The principle is structural: the substrate that determines whether approval lands is the self-approval, not the supply of external approval. Quantity does not solve a digestion problem. If the internal verdict is "I'm ugly," every external "you're beautiful" gets filtered through that verdict and reclassified as a lie (see [[dont-call-them-a-liar-with-deflection]]). The deflection mechanism is the same whether the approval comes from one person or a thousand.
+
+This is the reason the practice is the operational form of self-approval, not a supplementary one. The person hoping to gather enough external approval to finally believe they are okay is running a strategy that cannot succeed because the gathering itself is structurally limited by the very deficit it is trying to fix. The internal "I approve" is the only verdict that can actually land — and it can land only because the same identity that filters external evidence does not filter the verdict that comes from inside.
+
+The deeper layer: "Underneath all of this deep wanting for appreciation is this deep wanting for your own appreciation, for seeing yourself as you truly are, to see what is beautiful about you, what is intelligent about you. That's the deep want." -- Joe Hudson, You're Pushing Away What You Most Want
+
+The wanting that the external chase has been pointing at has been the internal want all along. The chase is the misdirection. The relocation of the wanting to its actual target — your own approval of yourself — is what makes the want finally fulfillable. The fulfillment was structurally unavailable through the external route because the want was for a verdict only the self can issue.
+
+For the structural reason why other-given recognition cannot increase self-esteem the way demonstrated competence can, see [[compliments-dont-build-self-esteem-competence-does]].
+
 ## Connection to Speaking Your Truth
 
 The do-I-approve question can be asked silently as a check at the threshold of any decision. But it has a more potent operational form: speaking your truth out loud. See [[speaking-truth-cures-approval-seeking]] and [[speak-truth-twice-a-day]].
@@ -133,3 +149,4 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "do I approve" question set, the "central question" framing, and the empowered/grounded/able-to-have-the-life downstream)
 - 2025-03-14_How To Stop Seeking Approval (the speaking-truth operational form of self-approval: voicing the perception is the act of approving it; the inversion that speaking-truth is the cure for approval-seeking; the daughter's two-week report on how speaking truth stopped the approval-seeking automatically)
 - 2025-10-21_Connection Is Hard Until You Face Your Aloneness (the practice's role as the dynamic-1 corrective in the [[three-dynamics-of-feeling-alone-in-the-room]] framework; Joe's phrasing "Is this something that I approve of? Am I acting right now in a way that feels great to me?" with the inverted question of what to do if not — "what do I do to act in a way right now that feels great to me despite what the people who haven't had enough coffee or the people who've had bad upbringings or the people who are paranoid think?"; the structural argument that without this inversion, the person cannot be themselves and therefore cannot be seen — "if you want to feel seen, you have to be yourself")
+- 2025-11-18_You're Pushing Away What You Most Want (the thousand-people-beautiful test as the crispest formulation of why external approval cannot substitute for self-approval — the filter that rejects internal self-approval rejects external approval through the same mechanism; the explicit naming that "underneath all of this deep wanting for appreciation is this deep wanting for your own appreciation" — the misdirection of the chase clarified as the want for self-seeing that was always available only from the inside)

@@ -5,7 +5,7 @@ title: "Victim Anger vs. Dominating Anger (Both Required for Clarity)"
 aliases: ["victim anger and dominating anger", "two forms of anger expression", "you've done this to me anger vs you won't take this from me anger", "the two angers needed for clarity", "victim and dominant anger", "the two halves of anger release", "you can't own me anger", "fuck you for taking this anger", "the dominating release", "the victim release"]
 tags: ["anger", "release", "clarity", "distinctions", "anger release"]
 related: ["anger", "visceral-clarity-from-anger", "get-angry-in-the-car", "three-things-that-go-wrong-when-releasing-anger", "i-exist-affirmation-against-collapse", "kinked-emotions", "trappedness-feeling"]
-sources: ["2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)"]
+sources: ["2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-05-16_Why Am I Stuck In Life When I Know My Patterns？ (Coaching Session With Joe Hudson)", "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)"]
 ---
 
 # Victim Anger vs. Dominating Anger (Both Required for Clarity)
@@ -132,6 +132,26 @@ Once the need-suppression layer is named, the work can address it directly. The 
 
 This variant adds a third element to the distinction: in addition to the two anger forms, there is a structural pre-condition (the demand-channel) that determines whether the dominating form can land on a human target. For self-reliant types and compliance-trained types, the work on the dominating form often has to include rebuilding the demand-channel as part of the practice.
 
+## When the Dominating Form Gets Aimed at the Internalized Identity Itself (The Train-Wreck Case)
+
+A different application of the distinction: the target of the dominating form is not a circumstance or an illness but the internalized belief about who the person IS. The brokenness-identity. The "I'm a train wreck" or "I'm broken" or "I'm a mess" that the client opens the session by stating as if it were factual diagnosis.
+
+The setup is the same as the abstract-target case (the dominating form has a structural target other than a present person), but the target is internal — specifically, the introjected sentence that someone, somewhere, once said about the client and that the client has been repeating since.
+
+The move is [[fuck-you-im-not-X-against-the-introjected-belief]]: "Fuck you, I'm not a train wreck." The dominating-form is aimed at whoever installed the belief — parent, society, abuser, "I don't care," in Joe's phrasing — never at the self.
+
+The failure modes are the same as in the abstract case but show up earlier:
+
+- The client tries to convince rather than dominate. "I feel like now I'm trying to convince you." Joe's response: "That's right. You're trying to convince yourself and me and the world. That's not what I'm asking you to do."
+- The client does the move with a victim-quality. "No, don't tell me I'm a train wreck." Joe: "So there's like a little victim in it, right? There's a little like, no, don't— you're not going to tell me I'm a train wreck. No, this is dominate."
+- The client drops volume, makes the move silently or in their head. "I want to just do it in my head silently."
+
+The move requires the same modeling and the same pushing into the dominating-form. The eye contact instruction ("Look at me in the eyes and say it to me") and the explicit confidence in the client's capacity ("I am pushing you right now. What makes that the case? Because I fucking know. I know you're capable") are the tools for getting the body past the convincing-form and into the dominating-form.
+
+When the dominating form lands on the internalized identity, the body shakes. The held charge of decades of agreeing with the introject discharges. The client may then spontaneously add content: "I never gave permission. I never said okay." The dominating energy, having moved, becomes available for ongoing claim of agency.
+
+The integration that follows often pairs with [[you-are-going-to-get-annihilated-as-affirmation]]: the identity that was being dominated is, in fact, getting annihilated. The fear that arrives as the move lands is accurate. The witness affirms the annihilation rather than soothing the fear, and the work continues.
+
 ## Upstream (What Leads Here)
 
 - When a person has been releasing anger and clarity has not arrived
@@ -152,3 +172,4 @@ This variant adds a third element to the distinction: in addition to the two ang
 
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session)
 - 2025-05-16_Why Am I Stuck In Life When I Know My Patterns? (Coaching Session With Joe Hudson) -- the variant where the dominating form collapses on contact with a person, surfacing the need-suppression substrate; the in-session "make 5 demands of me" experiment that diagnoses the demand-channel block; the structural addition that the dominating form requires both the energetic refusal and the permission to direct it at a real other
+- 2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson) -- the variant where the dominating form is aimed at the internalized identity (the brokenness-identity, "I'm a train wreck") rather than at a circumstance; the failure-mode pattern of trying-to-convince showing up explicitly ("I feel like now I'm trying to convince you"); the victim-quality slipping into the dominate attempts ("there's a little victim in it"); Joe's modeling of the full dominating form when client's attempts remained convincing; the eye contact instruction "look at me in the eyes and say it to me"; the confidence-as-push framing "I am pushing you right now. What makes that the case? Because I fucking know. I know you're capable"; the body's discharge into shaking when the dominating form lands

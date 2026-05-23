@@ -2,10 +2,10 @@
 type: example
 id: joes-26-year-old-list
 title: "Joe's 26-Year-Old Brutal Honesty List"
-aliases: ["the brutal honesty list", "the awareness experiment", "Joe's list of things he didn't want to admit", "the should diagnostic list", "the awareness changes things story"]
+aliases: ["the brutal honesty list", "the awareness experiment", "Joe's list of things he didn't want to admit", "the should diagnostic list", "the awareness changes things story", "Joe's 28-year-old list", "Joe's list at 26 or 28", "the folded-paper experiment", "the paper-in-the-drawer experiment", "the brutal-truth list folded up and put away", "the six-month-later check on the list", "the check-off-what-changed list", "Joe wrote down everything he didn't want to admit"]
 tags: ["examples", "awareness", "shoulds", "shame", "self-honesty"]
-related: ["wants-over-shoulds", "awareness-as-change-agent", "shame-drives-behavior", "joes-pleasing-dad-money-story", "should-as-threat", "joes-stinky-house-experiment", "find-the-want-behind-the-should"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should"]
+related: ["wants-over-shoulds", "awareness-as-change-agent", "shame-drives-behavior", "joes-pleasing-dad-money-story", "should-as-threat", "joes-stinky-house-experiment", "find-the-want-behind-the-should", "list-things-trying-to-change-for-4-years", "ive-been-trying-to-change-this-for-years"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should", "2025-11-25_Why You Can't Change"]
 ---
 
 # Joe's 26-Year-Old Brutal Honesty List
@@ -46,7 +46,24 @@ The diagnostic flips conventional self-improvement on its head. People assume th
 
 The story embeds an exercise that can be assigned: write down everything you do not want to admit about yourself. Wait. See what changes. Then look at what did not change and ask what should is sitting on top of it.
 
+The story is now also paired with an assignable form: [[list-things-trying-to-change-for-4-years]]. The list-and-check practice is the direct operational form of Joe's experiment. Where this story is the origin demonstration, the practice is what the client does on their own paper to produce the same realization Joe had.
+
+## A Second Telling: The 28-Year-Old Version
+
+In the short-form Why You Can't Change teaching, Joe tells the same story at age 28 rather than 26, with slightly different language. The structural shape is identical: write down the honest truth about yourself, fold it, put it away, come back months later, check what changed.
+
+"I remember when I discovered this, I was like 28 years old and I had this moment where I was like, I'm going to write down the honest truth about myself, whether I want to look at it or not. And so I wrote down all these things about my behavior that were hard to admit. And then I just folded it up and put it away somewhere. And six months later, eight months later, I found it. And when I unfolded that piece of paper, I went through it and said, how many of these have changed? And I checked off all the ones that had changed. And the ones that I hadn't changed, they were all things that I was telling myself that I should do." -- Joe Hudson, Why You Can't Change
+
+The variation in the age (26 vs. 28) is not material — Joe's exact age at the time floats slightly across tellings. What is consistent across tellings is the structure of the experiment, the time-delay between writing and checking, and the empirical finding: the items that did not change were the items with a should attached.
+
+The 28-year-old telling adds two details that the 26-year-old telling does not emphasize:
+
+- **The brutal-truth framing.** The act of writing was specifically "the honest truth about myself, whether I want to look at it or not." The honesty itself was the act of awareness; the folding and storing was a way to defer the looking and prevent active management of the items.
+
+- **The folding mechanism.** The list was folded and put away. This matters operationally — the items were not being actively worked on between the writing and the check. The change that happened in the items that did change happened without effort. The awareness alone was sufficient. This is the cleanest test of [[awareness-as-change-agent]] because the active-work confound is removed.
+
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2025-11-25_Why You Can't Change — the 28-year-old retelling with the brutal-truth framing and the folded-paper-put-away mechanism that explicitly removes the active-work confound from the experiment, making this the cleanest test of [[awareness-as-change-agent]]; the canonical assignable form of the experiment as the operational practice [[list-things-trying-to-change-for-4-years]]

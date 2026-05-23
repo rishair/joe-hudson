@@ -4,7 +4,7 @@ id: dont-treat-coaching-videos-as-how-to-coach
 title: "Don't Treat Coaching Videos as How-To-Coach Material (Watch Them as How-To-Know-Yourself Material)"
 aliases: ["don't treat coaching videos as how-to-coach", "coaching video as how-to-coach trap", "the coaching video misuse anti-pattern", "watching coaching as technique-acquisition", "treating session videos as coaching how-to", "the watch-and-imitate trap", "the coaching tool-extraction trap", "extracting tools from coaching videos", "the don't-take-this-as-how-to-coach warning", "Joe's opening warning to coaches watching", "the breakdown-as-self-discovery framing", "watch coaching videos for self-insight not technique", "the wrong-watching-mode anti-pattern", "the technique-mining anti-pattern", "the I'll-use-this-tool trap with coaching videos", "the don't-extract-tools-from-coaching warning", "watching coaching to copy moves anti-pattern"]
 tags: ["anti-pattern", "coaching", "training", "tools-as-defense", "self-discovery", "technique-vs-state", "media consumption"]
-sources: ["2025-07-04_Doubt- The Key To Authentic Confidence (Coaching Session Breakdown)"]
+sources: ["2025-07-04_Doubt- The Key To Authentic Confidence (Coaching Session Breakdown)", "2025-11-21_Overcoming Procrastination (Coaching Session Breakdown)", "2025-11-21_Why You Procrastinate on Your Own Goals (But Not Your Job)"]
 ---
 
 # Don't Treat Coaching Videos as How-To-Coach Material
@@ -18,6 +18,12 @@ This is the wrong way to watch. The coaching that appears in the video is downst
 The coaching looks tactical because it is visible. The underlying state is not visible, so it does not get extracted. The viewer ends up with the visible layer (the questions, the moves) and not the invisible one (the state from which they were spoken). What they take away is the wrong half of the data.
 
 "For anybody who's watching this, please don't take this as a how to coach video. How to coach is really, really, really, really, really get to know yourself and learn a couple skills and then keep on getting to know yourself and really spend all your time in self-discovery or as much of your time as possible in self-discovery. And then translate that into a couple of tools that you have. But don't take this, especially because we have a lot of coaches who watch as mechanism of, oh, this is how to coach, or here's a tool to use. Please take this far more as, oh, what can I learn about myself in this process? What is it that I can see in myself? What is it that I can see about humanity? That's what we do this for. It's not to teach people how to coach." -- Joe Hudson, Doubt: The Key To Authentic Confidence
+
+The warning is repeated almost verbatim in a later coaching breakdown, with even more explicit framing of why the technique-extraction mode produces bad coaches:
+
+"It is not meant to be a way to teach people how to coach. The reason that that's the case and why I'm not going to go into a lot of the details of how I coach is because coaching is best done from self-awareness, from self-realization, from understanding yourself. It's not best done through technique. And so the best way to become a great coach that actually allows you to be fulfilled and not hurt other people is to just deeply understand yourself. And so even when we are teaching coaches, we're mostly just teaching people how to understand themselves, to be with themselves. So please don't take this as some sort of guide on how to coach. It's just not a great way to go." -- Joe Hudson, Overcoming Procrastination (Coaching Session Breakdown)
+
+The new addition: "to not hurt other people." The technique-extraction mode is not only ineffective for the coach; it produces actual harm to the clients of the resulting coach. Coaches operating from technique rather than from self-awareness do damage that coaches operating from self-awareness do not. The warning is therefore not advisory but protective — of the eventual clients of the watching coach, not only of the watching coach themselves.
 
 ## Why It Fails
 
@@ -110,3 +116,4 @@ Direct and slightly pleading. The "please" in "please don't take this as a how t
 ## Sources
 
 - 2025-07-04_Doubt: The Key To Authentic Confidence (Coaching Session Breakdown) -- Joe opens the episode with the explicit instruction that the breakdown should not be watched as how-to-coach material; names the prevalence of the pattern among coaches in the audience; reframes the right mode of watching as self-discovery; states the five-repetition "really" emphasis on self-knowledge as the foundation of any coaching that follows
+- 2025-11-21_Overcoming Procrastination (Coaching Session Breakdown) -- Joe repeats the warning at the opening of this later breakdown with the added explicit framing of the harm side ("the best way to become a great coach that actually allows you to be fulfilled and not hurt other people"); the warning is positioned not as advisory but as protective of the eventual clients of the watching coach; the repetition across multiple breakdowns confirms this is a standing teaching, not an opening note for one episode

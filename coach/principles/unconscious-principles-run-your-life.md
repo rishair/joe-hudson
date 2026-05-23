@@ -5,7 +5,7 @@ title: "You Are Already Living By Principles -- The Question Is Whether They Are
 aliases: ["unconscious principles run your life", "you already live by principles", "everyone has principles even without knowing", "the principles you don't know you have", "making unconscious principles conscious", "default principles", "the work is consciousness not creation", "principles you didn't choose", "principles operate whether you see them or not"]
 tags: ["principles", "unconscious", "patterns", "self-awareness", "decisions"]
 related: ["wrestle-with-your-principles", "principles-free-you", "principle-vs-value", "shame-drives-behavior", "if-you-think-youre-deciding-youre-in-fear", "dont-reflect-your-patterns-as-culture"]
-sources: ["2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
+sources: ["2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2025-12-03_Every decision you struggle with has one thing in common"]
 ---
 
 # You Are Already Living By Principles -- The Question Is Whether They Are Conscious
@@ -67,6 +67,36 @@ The exercise has three movements:
 
 The wrestling is not just refinement of stated principles. It is also continuous excavation of the principles that are still operating below awareness.
 
+## The Common Default Principles (What Most People Are Actually Running)
+
+A specific catalogue of the unconscious principles Joe encounters most often when people first do the excavation work. These are the "default principles" — the ones installed by the culture, the family, the developmental environment, that operate without ever being articulated:
+
+- Stay out of trouble.
+- Make sure everybody's happy.
+- Please people.
+- Be codependent.
+- Get angry when you don't get what you want.
+
+"We are actually already living by a set of principles. Unfortunately, a lot of those principles aren't great principles. They're like, stay out of trouble, make sure everybody's happy, please people, be codependent, get angry when you don't get what you want. Like, those are the principles that you might be living by." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The list is useful as a diagnostic for an AI coach. When a client is reporting decisions that don't make sense to them, asking which of these principles is doing the deciding often produces immediate recognition. "Stay out of trouble" is doing the deciding when someone keeps not raising the issue. "Make everybody happy" is doing the deciding when someone keeps over-committing. "Be codependent" is doing the deciding when someone keeps making their partner's emotions their problem. "Get angry when you don't get what you want" is doing the deciding when someone keeps escalating after a no.
+
+None of these would be chosen consciously. All of them are operating. The recognition that "yes, that is in fact what is deciding my actions" is itself the first move of the work. See [[shame-drives-behavior]] for the related mechanism of how some of these default principles get installed and held in place.
+
+The list also matters because it makes the unconscious-principles point experientially available rather than abstract. A person who is told "you have unconscious principles" may not be able to locate them. A person who is asked "is 'make sure everybody's happy' something that decides your actions?" can usually answer immediately. The named-from-the-outside principle gets recognized faster than the unnamed one gets excavated from the inside.
+
+## The Awareness Itself Begins the Change
+
+A specific feature of the consciousness move that matters operationally: just bringing the unconscious principle into awareness starts to change it. The articulation is itself the intervention. The person does not have to add a behavior-change project on top of the recognition. The recognition is doing work on its own.
+
+"It's such a profound experience to just bring into light what you're actually already doing. Just that awareness in itself starts to change things." -- Joe Hudson, Every Decision You Struggle With Has One Thing in Common
+
+The mechanism: an unconscious principle can only continue operating unconsciously. The moment it has been named, it is no longer unconscious. The next time it tries to operate, the person sees it operating. The seeing is what introduces choice into a process that had been automatic. The choice does not have to be exercised perfectly to begin to shift the principle. Just the seeing — without judgment, without management — begins the change.
+
+This is consistent with [[awareness-as-change-agent]] generally. The awareness is not a precondition for change; the awareness is itself the change. Adding effort on top of the awareness usually re-installs the same unconscious principle in a new costume (now it is "I should be aware of my unconscious principles" as the new should that does the same work the old one did).
+
+The coaching implication: when someone names an unconscious principle for the first time, do not immediately propose a remediation plan. Let the naming do its work. Often the next session reveals that something has already shifted just from the naming, with no further intervention. See [[awareness-of-pattern-is-halfway-through]] for the related principle about pattern-recognition being half the work.
+
 ## Joe's Example: The Transition
 
 Joe's transition from unconscious to conscious principles started with one principle becoming conscious: embrace intensity. He did not invent it. He noticed he was already doing it in his marriage with Tara, and that it worked. The act of noticing made it a principle he could then deliberately apply elsewhere.
@@ -110,7 +140,9 @@ The same diagnostic applies: what are the consistent patterns of choice in this 
 - Toward [[shame-drives-behavior]]: many unconscious principles are shame-driven and operate through that mechanism
 - Toward [[if-you-think-youre-deciding-youre-in-fear]]: when fear becomes the principle, decisions become heavy
 - Toward [[dont-reflect-your-patterns-as-culture]]: the organizational version of the same trap
+- Toward [[change-behavior-to-change-consciousness]]: once an unconscious principle is named, the 10-times experiment is the operational lever for installing a different principle in its place
 
 ## Sources
 
 - 2023-02-17_Wrestle With Your Principles -- Decisions Series #4
+- 2025-12-03_Every decision you struggle with has one thing in common (the catalogue of common default principles — stay out of trouble, make sure everybody's happy, please people, be codependent, get angry when you don't get what you want — as a diagnostic list for what people are actually running before the consciousness work; the principle that the awareness itself begins the change, with the naming as the intervention rather than a precondition for some further intervention)
