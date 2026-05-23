@@ -2,9 +2,9 @@
 type: question
 id: what-am-i
 title: "What am I?"
-aliases: ["what am I question", "the what am I inquiry", "what are you", "self-inquiry question", "non-dual question"]
-tags: ["self-realization", "non-dual", "inquiry", "wonder", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
+aliases: ["what am I question", "the what am I inquiry", "what are you", "self-inquiry question", "non-dual question", "what are you essentially", "what are you essentially that has never changed", "what are you essentially that has never been hurt", "what is that part of you that has never changed", "what's the part of you that's never been touched by all these stories", "the what-has-never-changed variant", "the what-has-never-been-hurt variant", "the essential-self question for addiction", "the what-am-I variant for compulsive behavior"]
+tags: ["self-realization", "non-dual", "inquiry", "wonder", "question", "addiction", "essential self"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2025-04-15_How Do I Stop Watching Porn And Procrastinating？ (Coaching Session With Master Coach)"]
 ---
 
 # What am I?
@@ -82,6 +82,28 @@ If pressed in a particular moment to put words to it: "I am infinitely you. I am
 
 The words are useful as direction, not as content. They point at recognition rather than encoding it.
 
+## The "What Has Never Changed" Variant (Deployed for Addiction, Not for Self-Realization)
+
+A specific variant of the question fires when the question is being deployed not in self-realization territory but as the coaching instrument for a compulsive-behavior concern. The variant adds qualifiers that point the inquiry at what is constant underneath the changing surface:
+
+"What are you, essentially? What are you that has never changed and never, never been hurt, never been guilted, never been touched by all these stories? What is that part of you?"
+
+The qualifiers do specific work. "Never changed" routes around the person's history of skills, achievements, roles — anything that came and went. "Never been hurt" routes around the trauma narrative, the wound stories, the I'm-broken-because-of-what-happened framing. "Never been touched by all these stories" routes around the self-shame story that often wraps a compulsive-behavior presentation.
+
+The variant is most useful when:
+
+- The presenting concern is a compulsive behavior wrapped in a self-shame story (see [[how-do-i-stop-watching-porn-and-procrastinating]])
+- The person has been describing themselves through skills, accomplishments, or relational qualities, and Joe wants to point past all of them
+- The person's pattern is to immediately produce a list of attributes ("I'm a lot, I can give a lot, I can do a lot") in response to the basic "what are you?" form
+
+The variant changes the deployment context but not the underlying question. The question is still "what am I?" The added qualifiers are scaffolding to keep the answers from being attributes or histories. They function as a fence around the inquiry, keeping the person from wandering into content that has nothing to do with the recognition the question is pointing at.
+
+In the source session, the question landed on "love" — the person eventually named what he essentially is as love. The naming was not the work. The naming was a label the person grabbed at the edge of contact with what he had been keeping at a distance. The real work was the contact itself, which Joe then asked him to stay in: "I don't want you to answer, I want you to feel."
+
+The variant also makes the connection to childhood visible. When the person says "could it be love?" Joe immediately asks: "Let's find out. Yeah, so that, that's — so when you were a kid, tell me how your love was dismissed." The "never been hurt" qualifier in the question opens the door to the question of how the actual love that was present in childhood got dismissed. The two questions are the same investigation from different angles. What you essentially are is what you were before the dismissal. The dismissal is what produced the cascade that is now firing.
+
+See [[bad-habits-are-the-avoidance-of-essential-self]] for the cascade this variant of the question is used to interrupt, and [[name-the-avoidance-cascade-from-essence-to-addiction]] for the move that often accompanies the variant in the same session.
+
 ## Tone
 
 Joe asks this question with quiet weight. It is not a quick question. It is a question that wants to be held. He often will not say much after asking it. The silence after is part of the instrument.
@@ -102,3 +124,4 @@ The question is the depth instrument. Most coaching does not need it. When it is
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2022-10-26_Authenticity Over Improvement
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (Joe's practice of the question many times a day for 5-7 years; the parallel nervous-system settling work; the eventual landing in the bathroom)
+- 2025-04-15_How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach) (the "what has never changed and never been hurt" variant deployed not in self-realization territory but as the coaching instrument for a compulsive-behavior concern; the variant's qualifiers as scaffolding that route around skills, trauma narratives, and self-shame stories; the connection back to the childhood dismissal of essential love)

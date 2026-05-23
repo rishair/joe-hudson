@@ -202,6 +202,7 @@ Additional working entry points:
 - Toward [[vulnerability]] as a practice: each act of vulnerability is one of the 2-3 times needed
 - Toward recognizing that the rejected emotion is not wrong, only unfamiliar to the nervous system
 - Toward [[trace-emotion-to-its-first-felt]]: locate where the pattern was installed
+- Toward [[what-were-your-parents-scared-of]]: the specific question that depersonalizes the parents' role in the installation by surfacing what fear was running them
 - Toward [[honor-the-patterns-intent]]: meet the pattern with respect rather than warfare
 - Toward [[i-cant-trust-my-thoughts-right-now]]: recognize the felt sense of the pattern firing
 - Toward [[complementary-trauma-surfaces]]: how the pattern selects its partners

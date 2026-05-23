@@ -4,7 +4,7 @@ id: disassociating-in-the-coaching-room
 title: "Disassociating in the Coaching Room"
 aliases: ["disassociating live", "the look away", "losing connection mid-session", "mild dissociation", "stopping looking at me", "leaving the room", "intellectualizing as dissociation", "going into the head as dissociation", "the head-trip dissociation", "leaving the body mid-session"]
 tags: ["relational read", "live coaching", "dissociation", "body", "presence", "intellectualizing"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe"]
 ---
 
 # Disassociating in the Coaching Room
@@ -75,10 +75,22 @@ See also [[intellectual-question-with-emotional-body]] for the version of this r
 
 Quiet, observational, slow. Joe does not match the dissociation with intensity. He matches it with steady presence. The pacing widens to allow the person to come back at their own rate.
 
+## The Live-Pattern Variant: "You're Doing It Right Now"
+
+A specific deployment of this read when the person has explicitly named the dissociation pattern as something they do generally and is doing it in the room. The standard signals are present (eye-drop, posture softening, etc.) but the person is also reporting the pattern verbally as historical or general ("I live a lot of my life in my head," "I've been isolated"). The descriptive frame is itself maintaining the distance from the live event.
+
+Joe's compressed move for this variant: "You're isolated right now, bro. You're isolating the sadness that's happening right now, like in this moment."
+
+The naming is short. It refuses the descriptive frame and points at the present-tense fact. The person cannot keep the pattern at a historical distance when it is happening in their body as they describe it. See [[point-out-theyre-already-doing-it]] for the inverse-variant of the move that runs on this read, and [[the-trying-is-the-pattern-firing-now]] for the related read where the person's "I'm trying" is itself the dissociation in real time.
+
+The follow-up is usually [[amplify-the-dissociation-then-opposite-with-no-effort]] — the move that takes the live dissociation and runs the three-step amplification-release-effortless-opposite sequence on it.
+
 ## Connected Concerns
 
 - [[i-freeze-around-authority]]: the freeze and the dissociation are different points on the same continuum
 - [[i-feel-trapped]]: dissociation is one of the body's ways of producing the felt trap
+- [[i-cant-feel-my-emotions]]: when the chronic dissociation is what has produced the felt-sense gap
+- [[how-do-i-love-myself-and-express-my-emotions]]: when the dissociation is the masking pattern being repaired
 
 ## Sources
 
@@ -86,3 +98,4 @@ Quiet, observational, slow. Joe does not match the dissociation with intensity. 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the live-pattern variant where the person verbally narrates the dissociation as a historical or general feature ("I live a lot of my life in my head, I'm a very introverted person, I've been isolated"); Joe interrupts the descriptive frame with "you're isolated right now, bro" and points at the live event; the read sets up the amplify-the-dissociation-then-opposite-with-no-effort move

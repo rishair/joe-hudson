@@ -4,7 +4,7 @@ id: i-get-to-vs-i-have-to
 title: "'I Get To' vs. 'I Have To' (The Lens That Reveals Whether You Love It)"
 aliases: ["I get to vs I have to", "get to vs have to", "I want to vs I have to", "the get-to-have-to frame", "do I want this or do I not want it", "the I-get-to lens", "I get to do this", "I have to do this distinction", "the get-to vs have-to test", "I want to I get to vs I have to", "the choice frame for obligation", "do I want this question", "put it through the frame of do I want this"]
 tags: ["obligation", "choice", "wants", "freedom", "empowerment", "distinction"]
-sources: ["2024-03-01_Love and Obligation"]
+sources: ["2024-03-01_Love and Obligation", "2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe"]
 ---
 
 # "I Get To" vs. "I Have To" (The Lens That Reveals Whether You Love It)
@@ -56,6 +56,20 @@ The no is what makes the yes real. Without a credible no, every yes is suspect �
 
 This is also why the no often produces empowerment beyond the specific situation it addresses. Saying no breaks the implicit story that you have no choice, which is the story obligation runs on. See [[say-no-to-find-the-want]].
 
+## The Inner-Part Application: You Get To Be With the Wounded Part
+
+A specific application of the distinction that operationalizes the relationship with a wounded internal part. The person asks how to do the work of being with their inner child, their masked self, their dissociated part. The framing carries obligation — "I need to sit with these emotions," "I have to learn to feel them."
+
+Joe's compressed deployment of the distinction in this domain:
+
+"You don't need to. You get to. My daughter, she had this cat..." (continues into the [[mangy-cat-eating-from-the-hand]] example).
+
+The reframe is structurally identical to the job/marriage/art version of the distinction. The same activity (being with the wounded part) can be lived as obligation or as opportunity. The obligation frame produces the same suppression energy that originally created the wound — the wounded part recognizes the demand and retreats. The opportunity frame removes the demand. The wounded part can approach at its own pace.
+
+The application matters because the standard self-help framing of inner-child work is obligatory ("you need to sit with your feelings," "you must love your inner child"). The obligation frame fails for the same structural reason it fails in any domain — it produces the energy that the part is trying to recover from. The get-to frame is what allows the work to happen.
+
+This is the same distinction operating at a different layer than the job/marriage/art version. There it operates between the person and their external commitments. Here it operates between the present-day self and the wounded internal part. In both cases, the obligation frame depletes; the get-to frame fuels.
+
 ## The Brett Application: Choice and Agreement
 
 Brett applied the lens to a stay-or-go decision in air sports: he could have continued in the sport professionally without falling into obligation by treating each opportunity as a choice and treating his agreements as agreements (which can be honored from want) rather than as obligations (which cannot).
@@ -104,3 +118,4 @@ Practical and direct. The frame is presented as a tool, not a philosophy. The ho
 ## Sources
 
 - 2024-03-01_Love and Obligation (the central framing; the artists with record deals example; the pairing with the power of no; the agreements-vs-obligations refinement from Brett)
+- 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the inner-part application of the distinction: when the client asked how to do the ongoing inner-child work in obligation language ("I need to sit with all those emotions"), Joe replaced the "need to" with "get to" via the [[mangy-cat-eating-from-the-hand]] example; the application operationalizes the distinction at the layer between the present-day self and the wounded internal part

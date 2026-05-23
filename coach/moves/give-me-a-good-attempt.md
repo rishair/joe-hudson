@@ -2,9 +2,9 @@
 type: move
 id: give-me-a-good-attempt
 title: "Give Me a Good Attempt (Refuse 'I Don't Know' as the Stopping Point)"
-aliases: ["give me a good attempt", "just take a shot at the goal", "just take a shot even if it's fucked up", "nah that's not an attempt that's talking", "thats not an attempt thats talking", "refuse I don't know", "just show me", "the don't-let-them-stop-at-I-don't-know move", "the take-a-shot move", "give me a try", "show me even if it's fucked up", "try it badly first", "imperfect attempt move", "the attempt-anyway move", "the I-don't-know is not allowed move", "the make-an-attempt-anyway instruction", "push past I don't know"]
-tags: ["move", "resistance", "pushing through", "self-love", "embodiment", "I don't know"]
-sources: ["2024-07-01_Should I Stay With My Ex？"]
+aliases: ["give me a good attempt", "just take a shot at the goal", "just take a shot even if it's fucked up", "nah that's not an attempt that's talking", "thats not an attempt thats talking", "refuse I don't know", "just show me", "the don't-let-them-stop-at-I-don't-know move", "the take-a-shot move", "give me a try", "show me even if it's fucked up", "try it badly first", "imperfect attempt move", "the attempt-anyway move", "the I-don't-know is not allowed move", "the make-an-attempt-anyway instruction", "push past I don't know", "if you had to guess", "if you had to guess move", "the guess variant", "the guess prompt", "the cognitive-register variant of the attempt move", "the guess-anyway instruction", "okay if you had to guess what would it be", "guess what's underneath", "ask them to guess when they say I don't know"]
+tags: ["move", "resistance", "pushing through", "self-love", "embodiment", "I don't know", "guess"]
+sources: ["2024-07-01_Should I Stay With My Ex？", "2025-04-22_Why Am I Money Blocked？ (Coaching Session With Master Coach)"]
 ---
 
 # Give Me a Good Attempt
@@ -110,6 +110,31 @@ The dialogue shows the move working in four beats:
 
 The total exchange is six lines. The held-back self is now in the room.
 
+## The Cognitive-Register Variant: "If You Had to Guess?"
+
+When the question being asked is cognitive rather than body-level (what scares you, what do you think is underneath, what's the surface explanation), the bodily-attempt instruction is the wrong instrument. The variant for the cognitive case: "if you had to guess?"
+
+The move has the same structural shape — refuse "I don't know" as a stopping point — but the alternative is a guess rather than a felt-attempt. The guess removes the requirement that the answer be certain. The person is no longer being asked to know; they are being asked to speculate. Speculation has lower stakes than knowing, and the speculation almost always produces the answer the person already had but had not let themselves say.
+
+The Why-Am-I-Money-Blocked session opens with this variant:
+
+- **Joe:** "What scares you about money?"
+- **Person:** "Um, I — so, the surface level, I don't know."
+- **Joe:** "Um, if you had to guess?"
+- **Person:** "Why, if I had to guess, uh, I would guess that I don't feel like I deserve it."
+- *(Source: Why Am I Money Blocked?)*
+
+The exchange is three lines. The "I don't know" was the predictable evasion. The "if you had to guess?" removed the certainty requirement. The guess that arrived ("I don't feel like I deserve it") was the actual surface answer — the thing the person knew but had been treating as too uncertain to say.
+
+The variant works for the same reason the body-attempt version works: the move removes the standard. "Even if it's fucked up" removes the standard for the bodily attempt; "if you had to guess" removes the standard for the cognitive attempt. In both cases the person can fail at the move and still satisfy the instruction. The lowered stakes are what unblock the production of an answer.
+
+When to use which variant:
+- **Use "give me a good attempt":** when the instruction was body-level (love yourself, feel the emotion, put your hand on your heart).
+- **Use "if you had to guess?":** when the instruction was cognitive (what scares you, what do you think, what's underneath).
+- **Use both in sequence:** when the cognitive guess opens the door and the body-attempt is the next step. The Why-Am-I-Money-Blocked session does this — the guess surfaces the deserving claim, and then the body work begins on the safety underneath.
+
+The shared underlying instruction is the same: do not stop at "I don't know." Find the variant that fits the register of the question being asked.
+
 ## Connected Moves and Concepts
 
 - [[fuck-the-right-answer]] — sibling move that refuses the performed answer rather than the no-answer
@@ -136,3 +161,4 @@ The total exchange is six lines. The held-back self is now in the room.
 ## Sources
 
 - 2024-07-01_Should I Stay With My Ex？ (the canonical instance: Joe uses the move when the woman says she doesn't know how to love herself; the resulting attempt surfaces the held-back silly self in two exchanges)
+- 2025-04-22_Why Am I Money Blocked? (Coaching Session With Master Coach) — the cognitive-register variant ("if you had to guess?"). The session opens with Joe asking "what scares you about money?", the person responds "I don't know," and Joe immediately moves to the guess prompt. The guess that arrives ("I would guess that I don't feel like I deserve it") becomes the surface form Joe then works with to surface the under-layer (safety). The variant demonstrates that the same move-shape works in both cognitive and body-level registers; the specific alternative to "I don't know" changes with the register, but the structural refusal of the stopping point stays the same.

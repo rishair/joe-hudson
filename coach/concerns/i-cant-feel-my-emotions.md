@@ -201,6 +201,7 @@ The mechanism: the body's signature for each emotion becomes detectable only whe
 - [[my-inner-critic-wont-stop]]: the head runs louder when the body is offline because there is nothing else for attention to organize around.
 - [[whats-next-after-i-reached-my-big-goal]]: the post-achievement window often surfaces this concern because the achievement was running on intellect and the body's wants are now finally available to attend to.
 - [[ive-lost-my-joy]]: a deeper variant where even the previously accessible emotions have receded.
+- [[how-do-i-love-myself-and-express-my-emotions]]: the variant for the person whose emotions are present and being actively suppressed (the masking pattern) rather than absent or disconnected — same concern with a different mechanism, requiring different moves; the work is releasing suppression, not building emotional access from scratch.
 
 ## Sources
 

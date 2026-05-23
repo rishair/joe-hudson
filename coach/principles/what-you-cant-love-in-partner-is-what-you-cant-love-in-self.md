@@ -15,7 +15,7 @@ Anything you cannot love about your partner -- anything you want to change about
 
 "Anything that you can't love about your partner, anything that you want to change about your partner, the most useful thing to know about that stuff is that's something you can't love about yourself. It's something that you have no flexibility in yourself. It's something that you judge yourself for or would judge yourself for." -- Joe Hudson, How Relationships Reveal Us
 
-This is the relationship-specific application of the [[projections]] machinery and a close relative of [[mirror-the-judgment]] applied to long-term partnership.
+This is the relationship-specific application of the [[projections]] machinery and a close relative of [[mirror-the-judgment]] applied to long-term partnership. The positive-form counterpart is [[what-you-see-in-the-other-with-love-is-in-you]] — what you see and love in another is the love that is in you.
 
 ## The Tara Example
 

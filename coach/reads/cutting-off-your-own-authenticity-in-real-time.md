@@ -95,6 +95,23 @@ Joe also tends to mark the spontaneous expression as good before naming the supp
 
 The "Did you see it? Did you feel it?" question is delivered without urgency. Joe is not testing the person. He is inviting them to look. If they cannot see it, that is also fine; the next iteration will happen soon and can be caught then.
 
+## The Self-Inquiry Variant (Cut-Off From Contact With Essence)
+
+The read also fires in self-inquiry contexts where the cut-off is not on a laugh or a tear but on the felt contact with essential self. The structure is identical: the person briefly has the experience, registers having it, and shuts it down within a second or two.
+
+In a coaching session about porn and procrastination, the man being coached momentarily settled into more whole-body presence when asked what he essentially is. The presence arrived for a moment. Then it was gone.
+
+- **Joe:** "Yeah, I have had So we're going to go even deeper. We're going to even let go of that story for a minute. Oh, you did it, but then you stopped doing it."
+- **Person:** "How do you see that?"
+
+*(Source: How Do I Stop Watching Porn And Procrastinating?)*
+
+The read is the same: the person had access and then closed it. The naming is compressed — "Oh, you did it, but then you stopped doing it" — because the felt contact in self-inquiry doesn't have the same observable signature as a suppressed laugh. Joe's reading is more interior. He saw the body settle, then saw it leave again.
+
+The "how do you see that?" question that often follows the naming is itself diagnostic. The person who can't see what just happened is in the middle of the same cut-off mechanism that produced the original suppression. They are now suppressing the awareness of having suppressed. Naming the second-order suppression often opens the doorway to seeing the first.
+
+The variant is closely related to [[interrupting-your-own-descent]]. Both catch a person who started going somewhere felt and then surfaced. The descent read catches the surfacing-with-an-answer; this variant catches the surfacing-without-an-answer (just closing off the contact silently). Either way, the structure is contact-then-retreat, and the move is to name the retreat with enough specificity that the person can see what just happened.
+
 ## What This Read Is Not
 
 - This is not catching the person being inauthentic in a global sense. The person was being authentic; the read is on the suppression of that authenticity, not on the absence of authenticity in general.
@@ -119,3 +136,4 @@ The "Did you see it? Did you feel it?" question is delivered without urgency. Jo
 ## Sources
 
 - 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — the stand-up comic laughs spontaneously and immediately cuts the laugh off; Joe names the sequence with specificity ("you laughed, which was your authenticity, and that made you self-conscious, and so you stopped the laugh"); then catches a second iteration when she beats herself up after the naming and tries to suppress that too
+- 2025-04-15_How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach) — the self-inquiry variant; the man being coached briefly settled into more whole-body presence when asked what he essentially is and then immediately closed the contact; Joe's compressed naming ("Oh, you did it, but then you stopped doing it"); the second-order suppression diagnostic ("how do you see that?")

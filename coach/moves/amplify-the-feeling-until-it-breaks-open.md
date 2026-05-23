@@ -4,7 +4,7 @@ id: amplify-the-feeling-until-it-breaks-open
 title: "Amplify the Feeling Until It Breaks Open (Go More Stuck, Go So Stuck You Can't Talk)"
 aliases: ["amplify the feeling until it breaks open", "increase the feeling", "go more stuck", "feel it more", "increase the feeling of X", "the amplification move", "I want you to feel more stuck", "go so stuck you can't talk", "go even more stuck", "amplify the felt sense", "deliberately intensify the feeling", "go further into the feeling", "feel it bigger", "let the feeling get bigger", "the more-of-it move", "the amplification instruction", "the deliberate intensification move", "go all the way in to find the exit", "the going-deeper-into-the-feeling move", "the maximizing move", "feel it to its full intensity", "the do-it-more move for feelings", "go more blank", "go super blank", "go even more blank", "go blank all the way", "amplify the blank", "amplify the freeze", "go all the way into the blank", "you're really good at that go more"]
 tags: ["live coaching", "amplification", "paradoxical", "feeling", "stuckness", "embodied", "intensification"]
-sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)", "2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe"]
 ---
 
 # Amplify the Feeling Until It Breaks Open
@@ -137,6 +137,12 @@ If the person resists or pivots back to story, Joe is firm but warm. "No." Singl
 
 The tone shifts when the catastrophic image arrives. The voice drops. "Go in, go into the hole." Slower, lower, less playful. The shift signals that the work has moved from on-ramp to entry. The companionability is now somatic rather than verbal.
 
+## The Variant: Amplifying Dissociation Specifically
+
+A specific deployment for chronic dissociation, distinct from the stuckness and blank variants above. When the person is dissociating in real time, the move runs the same three-part structure but with an additional step: amplify the dissociation, deliberately release the tension holding it, then go to the exact opposite end of the spectrum with zero effort. The "with zero effort" instruction is what prevents the system from substituting trying-to-be-embodied for trying-to-dissociate — both would be effort, and effort is what holds the dissociation in place.
+
+See [[amplify-the-dissociation-then-opposite-with-no-effort]] for the full move. The structural relationship: this variant adds the effortless-opposite step on top of the amplification because dissociation is a positional state on a spectrum (embodied <-> disembodied), not a feeling to be felt through. The third step demonstrates to the body that the opposite end is reachable without effort.
+
 ## Connected Methodology
 
 - [[lets-go-there]]: the partner move that picks up once the catastrophic image has been named
@@ -145,6 +151,7 @@ The tone shifts when the catastrophic image arrives. The voice drops. "Go in, go
 - [[full-understanding-of-a-behavior-dissolves-it]]: the structural principle this move applies to felt-states
 - [[running-toward-yourself]]: the broader orientation the move enacts
 - [[chase-it-around-the-room]]: a related "loving the avoided feeling" move with a different shape
+- [[amplify-the-dissociation-then-opposite-with-no-effort]]: the dissociation-specific variant with the added effortless-opposite step
 
 ## Connected Concerns
 
@@ -157,3 +164,4 @@ The tone shifts when the catastrophic image arrives. The voice drops. "Go in, go
 - 2024-03-18_I Am Scared Of The Unknown (the canonical use of the move; the full arc from the initial amplification instruction through the body's resistance to the deeper feelings to the catastrophic image to the entry move; the structural naming afterward of "the avoidance of the hole is the stuckness")
 - 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — Joe's reflective commentary on the same arc, including the structural frame that each layer is the previous layer's actual form once resistance drops ("a feeling resisted shows up as a different feeling"); the "no bottom exactly, but the next level down" frame for how to think about the layered surfacing; Brett's observation about the grammar shift from "feels like I'm going to" (prediction) to "it feels like" (present-tense felt-state) as the diagnostic that a layer has dropped
 - 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the amplify-the-blank variant: "I want you to become even more blank. I want you to go blank, super blank... Even more, just like all the way. Oh wow, you're really good at that." The amplification of the blank surfaces the positive quality of the refuge (quiet, almost holy) rather than a catastrophic image; the next move after the amplification is [[find-whats-enjoyable-in-the-defense]] which names what is good about what has just been surfaced
+- 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the amplify-the-dissociation variant: "I want you to really, really, really like do your best disconnection, and I want you to 10x that"; the variant adds the deliberate release of tension and the effortless-opposite step on top of the standard amplification; see [[amplify-the-dissociation-then-opposite-with-no-effort]] for the full move

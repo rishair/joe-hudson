@@ -4,7 +4,7 @@ id: i-cant-be-disciplined
 title: "I can't be disciplined / How do I become disciplined?"
 aliases: ["I struggle with discipline", "I lack discipline", "I'm not disciplined", "how do I be more disciplined", "I can't stop my bad habit", "I keep failing at the thing I want to do", "I can't make myself work out", "I can't stop playing video games", "I can't stop overeating", "I know what to do but I can't make myself do it", "I have no willpower", "I lack willpower", "the discipline I never had", "how do I find discipline", "I've tried to be disciplined and I can't", "I'm not the kind of person who's disciplined", "I'm not a disciplined person", "people who run are different from me", "disciplined people are different from me", "I beat myself up for not being disciplined", "I keep telling myself I should be disciplined", "discipline is the missing thing", "if I just had more discipline", "the discipline concern", "the willpower concern", "how do I have discipline"]
 tags: ["discipline", "willpower", "habits", "concerns", "shame", "self-management"]
-sources: ["2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)"]
+sources: ["2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)", "2025-04-15_How Do I Stop Watching Porn And Procrastinating？ (Coaching Session With Master Coach)"]
 ---
 
 # I can't be disciplined / How do I become disciplined?
@@ -74,7 +74,9 @@ The deeper hearing: the request is for discipline, but the answer is to stop try
 - [[i-should-be-doing-this]] — the closely related concern in different words. "I should be working out" vs "I can't make myself work out."
 - [[my-inner-critic-wont-stop]] — when the self-criticism around the discipline failure is the louder concern.
 - [[should-i-stop-drinking]] — the substance-specific variant where the binary "stop or moderate" frames the broader discipline concern in alcohol terms.
+- [[how-do-i-stop-watching-porn-and-procrastinating]] — the specific addiction-form variant of this concern, where the cascade described in [[bad-habits-are-the-avoidance-of-essential-self]] is the operating dynamic. The discipline framing is the surface; the cascade is what is happening underneath.
 
 ## Sources
 
 - 2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)
+- 2025-04-15_How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach) (the addiction-form variant of this concern, where the cascade in [[bad-habits-are-the-avoidance-of-essential-self]] is operating; the discipline framing on the surface, the avoidance of essential self underneath)

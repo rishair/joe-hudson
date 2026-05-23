@@ -70,6 +70,23 @@ The correct move is to either:
 
 Both moves replace trying with receiving. Both work better than trying.
 
+## The Corollary: You Are Already Feeling
+
+A close variant of the principle, used when the client responds to the "don't try" instruction with the question "so just try to feel then?" The corollary states the underlying fact that makes trying unnecessary: the feeling is already happening. The body is in continuous felt-experience whether the person is attending to it or not. Trying to feel implies that the feeling is not yet present and has to be produced. The corollary corrects the premise: the feeling is present; the question is whether the person is in contact with it.
+
+Joe's compressed version:
+
+- **Person:** "So just try to feel then?"
+- **Joe:** "Yeah, don't try to feel. You are feeling. It's happening whether you like it or not."
+
+*(Source: How Do I Stop Watching Porn And Procrastinating?)*
+
+The "whether you like it or not" is doing real work. It strips the volitional frame from the felt experience. The person had been treating their access to feeling as something they had to decide to do. The corollary says the feeling is already happening at a level that does not require their permission or effort. The work is to notice what is already there, not to make something new happen.
+
+This corollary is particularly useful for clients who have been told (by themselves or by previous teachers) that feeling is a skill they need to develop. The skill frame implies a producer-end of effort: get better at feeling by trying harder. The corollary unsettles the frame: the feeling is not on the producer end. It is already arriving. The work is on the receiving end — letting in what is already coming through.
+
+The relationship to the broader principle: trying-prevents-the-feeling describes the failure mode at the producer end. You-are-already-feeling describes the actual situation at the receiver end. Together they form the full picture: stop trying to make the feeling happen because the feeling is already happening — your trying is preventing you from noticing the feeling that is here.
+
 ## The Tears-Specific Form
 
 The most legible application of the principle is to crying. People often want to cry — they have unprocessed grief they intellectually know about, they wish they could let it out, they wonder why their tears do not come on cue. The trying is the move that keeps the tears from arriving. See the dedicated anti-pattern [[dont-try-to-make-yourself-cry]] for the specific form, including the in-coaching version where the coach falls into the same trap by trying to produce tears in the client. The structural form is identical to the broader principle: the gripping that constitutes trying is the opposite somatic posture from the openness that allows tears.
@@ -116,3 +133,4 @@ Plain. Slightly amused at the trap. The teaching is delivered with the air of "o
 
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching
 - 2024-07-12_I Can't Get Over My Ex (the tears-specific form of the principle, delivered to a client who had taught himself not to cry: "to try to make yourself cry is the best way to push away the tears"; the same principle applied to the coach side — "the one game that I can't play up here ever is like to try to make you cry, but that never works"; the structural form that the same gear that produces results in other domains produces the opposite of results in the emotional domain)
+- 2025-04-15_How Do I Stop Watching Porn And Procrastinating? (Coaching Session With Master Coach) — the corollary form of the principle ("you are feeling, it's happening whether you like it or not") delivered when the client responds to "don't try" with "so just try to feel then?"; the volitional frame stripped from felt experience; the work relocated from the producer end to the receiver end

@@ -71,6 +71,26 @@ The follow-up question is curious, not challenging. "How is it happening now?" i
 - **Following up the move with a teaching about why solitude is unnecessary.** The move's power is in the present-moment evidence. Adding a teaching dilutes it.
 - **Repeating the move when the person insists they need to leave.** If the person continues to need to leave after the move has been offered once, accept that. The move offers a noticing; it does not impose a requirement.
 
+## The Inverse Variant: Point Out They're Doing the Pattern Right Now
+
+The move's structure also runs in the other direction. The person reports a pattern they have ("I dissociate," "I isolate myself," "I mask my emotions") and the pattern is happening live in the room. The move is structurally identical to the original — point at the live evidence — but the content is opposite. Instead of "you're already doing the good thing you fear you can't do," it is "you're already doing the bad thing you think is in the past."
+
+Joe's compressed form: "You're isolated right now, bro. You're isolating the sadness that's happening right now, like in this moment."
+
+The inverse variant applies when:
+
+- The person describes a pattern in the past tense or as a historical feature of themselves ("I'm an isolated person," "I've been disassociating my whole life")
+- The pattern is visibly happening in the room as they describe it
+- The descriptive frame is preventing the person from working with the pattern as a live event
+- The session is in danger of becoming an analysis of the pattern rather than an engagement with it
+
+The mechanism is the same as the original. The standing-back from the pattern is dissolved by pointing at the in-the-room evidence. The person cannot keep the pattern at a descriptive distance when it is operating in their body as they describe it.
+
+The follow-up after the inverse variant is different than after the original. The original opens to the question "how is it happening now?" — the person discovers the mechanism by which they are already doing the capacity. The inverse variant opens to "what just happened?" — the person attends to the felt moment of the pattern firing. From there the work usually moves to [[amplify-the-dissociation-then-opposite-with-no-effort]] or to a deeper inquiry into what the pattern is protecting.
+
+See [[the-trying-is-the-pattern-firing-now]] for the specific read that triggers the inverse variant. The read identifies that the person's "I'm trying" or descriptive pivot is itself the pattern. The move names what the read identified.
+
 ## Sources
 
 - 2024-10-29_Am I Being Authentic Or Fake?
+- 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the inverse variant of the move; the client described himself as introverted and isolated; Joe interrupted with "you're isolated right now, bro"; the live evidence of the pattern firing in the room dissolved the descriptive distance and opened the work to the live event; the move was paired with [[the-trying-is-the-pattern-firing-now]] read and led into the [[amplify-the-dissociation-then-opposite-with-no-effort]] move
