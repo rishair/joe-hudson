@@ -114,6 +114,12 @@ The work is reorientation: from trying to eliminate doubt to learning to welcome
 - [[the-issue-isnt-the-issue-its-how-you-react]] — the broader principle this concept is one application of
 - [[each-emotion-has-its-own-positive-flavor]] — the principle that allowed doubt produces something useful (often discernment, often appropriate caution)
 - [[doubt-driven-urgency-as-fake-confidence]] — the specific pattern of the body manufacturing urgency as a counterfeit of confidence when doubt is being fled from
+- [[doubt-is-protection-from-a-feeling]] — the concept that names what specifically the doubt-fleeing is protecting against (the unfelt feeling underneath the doubt)
+- [[you-cannot-know-the-answer-before-you-do-the-thing]] — the principle that demolishes the cognitive defense the confidence-pursuit hides behind
+- [[successful-people-doubt-too]] — the principle that normalizes the universality of doubt; clears the "I shouldn't be doubting in the first place" defense the confidence-pursuit relies on
+- [[two-trigger-points-of-doubt]] — the pattern of where doubt fires in an ambition arc; useful for locating where the doubt-fleeing is operating
+- [[disappointment-with-self-is-the-safe-bet]] — the principle that names the cost the doubt-fleeing strategy imposes over time
+- [[speak-the-welcoming-of-the-feared-state-aloud]] — the move that addresses the underlying feeling directly
 
 ## Tone
 

@@ -5,7 +5,7 @@ title: "Athletes Unlocking Body Intelligence in Business (the Click)"
 aliases: ["athletes unlocking body intelligence", "athletes accessing body intelligence in business", "the click moment for athlete CEOs", "former-athlete CEO pattern", "the athlete coaching pattern", "body intelligence transfer from sport to business", "the on-the-field to in-the-boardroom click", "athletic body intelligence at work", "the superpower unlock for athletes in business", "former athletes coaching pattern"]
 tags: ["pattern", "coaching", "athletes", "body-intelligence", "business", "leadership", "embodiment", "head-heart-gut"]
 related: ["head-heart-gut", "staying-in-your-body", "fear-vs-excitement", "embracing-vs-creating-intensity", "feel-over-figure", "body-awareness-in-meetings", "aaron-wife-fumble-coaching", "visualize-the-felt-aftermath", "decisions-are-emotional"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2024-09-06_How Do I Feel My Body?"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2024-09-06_How Do I Feel My Body?", "2025-10-02_Why Can't I Get My Business Off The Ground"]
 ---
 
 # Athletes Unlocking Body Intelligence in Business (the Click)
@@ -108,8 +108,22 @@ The pattern applies to any developed body-intelligence practice, and the coachin
 - **Former NFL player turned broadcaster:** body intelligence on the field as the template for connection during the broadcast (Aaron Taylor's coaching with Joe).
 - **CEO who was an athlete:** body metaphors in coaching because the somatic vocabulary already exists.
 - **Musician, dancer, surgeon, craftsperson:** the felt sense that runs the performance, the dance, the operation, the craft is the same felt sense the person can use anywhere else.
+- **Fitness coach who can't build clientele:** the trainer's expertise in keeping students out of their head on the field is the template for keeping themselves out of their head in client outreach (Why Can't I Get My Business Off The Ground). The variant is structurally interesting because the trainer's domain expertise is *itself* about body intelligence — the failure mode he coaches against is the failure mode he is in. The recognition has unusual leverage because the principle and the field are already in alignment.
 
 The structural move in each case: name the in-flow state in the domain, name that the in-flow state IS body intelligence, ask the person to do that internal move in the current context. The domain shifts; the structural move does not.
+
+## The Trainer-in-Business Variant
+
+A specific extension of the pattern: a fitness trainer, martial arts instructor, or other body-coach who has attempted to build their own business and struggles. The person knows what they are teaching at the athletic level. They are in their head at the business level. The same head-vs-body split they coach against in their athletes is operating in themselves.
+
+Joe's approach in this variant uses both directions of the domain-of-mastery move:
+
+- **Failure mode as diagnostic:** "What happens when somebody is training and they get in their head? They get hurt. How is that any different than what just happened to you?" See [[use-the-clients-own-domain-to-name-the-pattern]].
+- **Flow state as template:** "Where do you go when you're training that doesn't keep you hurt? In your body. And when you're just being you, connecting to yourself, where are you?" See [[use-domain-of-mastery-as-template-for-body-intelligence]].
+
+The variant produces a particularly clean recognition because the trainer cannot dispute the principle — they teach it. The principle is their professional knowledge. The only operation left is to apply it to themselves. The application is the work.
+
+The variant typically pairs with [[proving-instead-of-connecting]] as the read on the trainer's client work: the trainer who is in their head with prospects is doing the proving instead of connecting. The fitness expertise is the door; the proving-engine is the obstacle; the bridge from the domain to the business is what closes the work.
 
 ## Upstream (What Leads Here)
 
@@ -139,3 +153,4 @@ The tone matters because the pattern can land as condescension if delivered as "
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
 - 2022-10-26_Aaron Taylor's Journey To Emotional Freedom
 - 2024-09-06_How Do I Feel My Body? — the pattern extended from athlete-in-business to athlete-in-felt-sense; the tennis coach whose sport mastery was used as the template for body intelligence in life; the sequence that paired [[attention-is-feeling]] (rebuild the operational definition) with [[use-domain-of-mastery-as-template-for-body-intelligence]] (transfer the felt-sense from the field into the conversation); the closing "playing tennis in life" image as the compressed form of the pattern
+- 2025-10-02_Why Can't I Get My Business Off The Ground — the trainer-in-business variant; the fitness coach with 9-10 failed business attempts whose professional expertise was about exactly the head-vs-body split he was failing at in his own business; the dual deployment of failure-mode and flow-state templates from the trainer's own coaching practice; the recognition that the proving-engine [[proving-instead-of-connecting]] was the form the head-state took in the client-facing context

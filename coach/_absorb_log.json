@@ -8603,22 +8603,161 @@
     },
     {
       "folder": "2025-09-30_Escape Time Anxiety\uff1a Your 14-Day Experiment",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T21:28:45Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "thirty-thousand-foot-view-direction-check",
+        "fourteen-day-time-experiment",
+        "time-as-arbitrary-illusion",
+        "youtube-ads-as-leverage-example"
+      ],
+      "articles_updated": [
+        "time-can-be-invested-not-just-spent",
+        "make-it-redundant-not-just-done",
+        "i-never-have-enough-time",
+        "reflection-after-an-hour",
+        "dont-mistake-the-dopamine-of-completion-for-production"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:39:40Z"
     },
     {
       "folder": "2025-10-02_Why Can\u2019t I Get My Business Off The Ground\uff1f (Coaching With Joe Hudson)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T21:32:39Z",
+      "articles_created": [
+        "i-cant-get-my-business-off-the-ground",
+        "proving-instead-of-connecting",
+        "use-the-clients-own-domain-to-name-the-pattern",
+        "who-do-you-want-to-be-with-more",
+        "be-my-potential-client-show-me",
+        "proving-yourself-is-agreeing-youre-not-valuable",
+        "reframe-the-parents-life-with-the-corrective"
+      ],
+      "articles_updated": [
+        "the-trying-is-the-pattern-firing-now",
+        "use-domain-of-mastery-as-template-for-body-intelligence",
+        "athletes-unlocking-body-intelligence-in-business",
+        "if-you-have-to-convince-them-they-dont-want-it"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T21:48:53Z"
+    },
+    {
+      "folder": "2025-10-07_Ambitious But Afraid\uff1f Here's What's Happening Beneath",
+      "status": "complete",
+      "claimed_at": "2026-05-23T21:33:14Z",
+      "articles_created": [
+        "doubt-is-protection-from-a-feeling",
+        "you-cannot-know-the-answer-before-you-do-the-thing",
+        "two-trigger-points-of-doubt",
+        "disappointment-with-self-is-the-safe-bet",
+        "successful-people-doubt-too"
+      ],
+      "articles_updated": [
+        "doubt-requires-closed-heart",
+        "open-the-heart-to-the-doubt",
+        "speak-the-welcoming-of-the-feared-state-aloud",
+        "confidence-is-running-from-doubt"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:45:22Z"
+    },
+    {
+      "folder": "2025-10-10_Are You Avoiding Your Own Power\uff1f Leadership Is For Everyone",
+      "status": "complete",
+      "claimed_at": "2026-05-23T21:40:26Z",
+      "articles_created": [
+        "leadership-is-for-everyone",
+        "leadership-is-following-your-conviction",
+        "conviction-vs-hardheadedness",
+        "avoiding-leadership-still-leaves-you-as-the-leader",
+        "blame-is-the-abandonment-of-leadership",
+        "we-follow-leadership-not-blame",
+        "responsibility-and-authority-go-together",
+        "first-follower-creates-the-movement",
+        "negative-self-talk-as-authority-without-leadership",
+        "leadership-requires-closed-heart-inheritance",
+        "i-am-not-a-leader",
+        "framing-leadership-as-closed-hearted-role"
+      ],
+      "articles_updated": [
+        "lead-and-follow",
+        "three-stages-of-the-blame-path",
+        "leadership-emerges-from-confident-direction"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:58:09Z"
+    },
+    {
+      "folder": "2025-10-10_Leadership Is For Everyone",
+      "status": "complete",
+      "claimed_at": "2026-05-23T21:46:04Z",
+      "articles_created": [
+        "save-leadership-framework",
+        "leadership-is-fragile",
+        "feeling-responsible-for-them-disempowers-them",
+        "leadership-is-what-you-tolerate",
+        "led-by-the-slower-pace-backpacking"
+      ],
+      "articles_updated": [
+        "leadership-is-for-everyone",
+        "leadership-is-following-your-conviction",
+        "lead-and-follow",
+        "conviction-vs-hardheadedness",
+        "responsibility-stops-love",
+        "i-am-not-a-leader",
+        "framing-leadership-as-closed-hearted-role",
+        "avoiding-leadership-still-leaves-you-as-the-leader",
+        "three-stages-of-the-blame-path",
+        "responsibility-and-authority-go-together",
+        "we-follow-leadership-not-blame",
+        "blame-is-the-abandonment-of-leadership",
+        "first-follower-creates-the-movement",
+        "leadership-requires-closed-heart-inheritance",
+        "negative-self-talk-as-authority-without-leadership"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T22:06:22Z"
+    },
+    {
+      "folder": "2025-10-14_How To Break Free From Beliefs That Keep You Small",
+      "status": "complete",
+      "claimed_at": "2026-05-23T21:49:38Z",
+      "articles_created": [
+        "holding-contrary-beliefs-as-development",
+        "pep-talk-encodes-the-deficit",
+        "despondency-as-first-reaction-to-no-self-definition"
+      ],
+      "articles_updated": [
+        "limiting-belief",
+        "identity",
+        "every-identity-has-limits",
+        "transparent-identity-vs-rigid",
+        "binary-thinking-signals-fear",
+        "disorienting-middle-of-self-inquiry"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T22:02:19Z"
+    },
+    {
+      "folder": "2025-10-16_He Discovers His Negative Emotions Aren't the Problem \uff5c Coaching with Joe",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T21:58:57Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-10-07_Ambitious But Afraid\uff1f Here's What's Happening Beneath",
+      "folder": "2025-10-21_Connection Is Hard Until You Face Your Aloneness",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T21:33:14Z",
+      "claimed_at": "2026-05-23T22:03:01Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2025-10-24_The Counterintuitive Cure for Imposter Syndrome",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T22:07:45Z",
       "articles_created": [],
       "articles_updated": []
     }

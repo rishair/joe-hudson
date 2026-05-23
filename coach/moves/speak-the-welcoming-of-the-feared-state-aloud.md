@@ -2,9 +2,9 @@
 type: move
 id: speak-the-welcoming-of-the-feared-state-aloud
 title: "Speak the Welcoming of the Feared State Aloud (Try It -- 'I Can't Wait to Be Depressed Again')"
-aliases: ["say it out loud", "try it move", "speak the welcoming aloud", "have them say I can't wait to feel it again", "have them speak the welcoming", "speak the welcoming of the feared emotion", "say the I-can't-wait sentence", "speak the welcoming of what you fear", "the I-can't-wait-to-be-X-again move", "try it experiment", "let's do the experiment say it", "speak the welcoming sentence", "have them speak the love of the feared state", "say it and see what your body does", "speak the affirmation of the feared emotion"]
-tags: ["live coaching", "welcoming", "feared emotions", "speech as probe", "body reading", "love-the-anxiety", "experiment"]
-sources: ["2024-08-09_I'm Afraid I'll Get Depressed Again"]
+aliases: ["say it out loud", "try it move", "speak the welcoming aloud", "have them say I can't wait to feel it again", "have them speak the welcoming", "speak the welcoming of the feared emotion", "say the I-can't-wait sentence", "speak the welcoming of what you fear", "the I-can't-wait-to-be-X-again move", "try it experiment", "let's do the experiment say it", "speak the welcoming sentence", "have them speak the love of the feared state", "say it and see what your body does", "speak the affirmation of the feared emotion", "I can't wait to be criticized", "I can't wait to feel like a failure", "I can't wait to feel that massive success", "the doubt-dissolving welcoming test", "the welcoming-test for doubt", "speak the welcoming as the diagnostic for doubt", "if you can welcome it the doubt goes away", "use the I-can't-wait sentence to diagnose doubt's source", "the welcoming sentence as the doubt-source diagnostic"]
+tags: ["live coaching", "welcoming", "feared emotions", "speech as probe", "body reading", "love-the-anxiety", "experiment", "doubt", "diagnostic"]
+sources: ["2024-08-09_I'm Afraid I'll Get Depressed Again", "2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath"]
 ---
 
 # Speak the Welcoming of the Feared State Aloud
@@ -83,8 +83,27 @@ The sentence form is constant; the object changes.
 - For helplessness: "I can't wait to feel helpless again." See [[helplessness-is-the-gateway]].
 - For sadness, anger, fear, heartbreak: "I can't wait to feel sad / angry / scared / heartbroken again."
 - For specific feared events: "I can't wait to be rejected again." "I can't wait to be left." "I can't wait to be misunderstood." This extends the move beyond emotional states to the events the person is afraid of.
+- For the criticism-feeling underneath doubt: "I can't wait for somebody to criticize me." The form Joe uses when the doubt is rooted in the childhood criticism-sensitivity ([[doubt-requires-closed-heart]]).
+- For the failure-feeling underneath doubt: "I can't wait to feel like a failure." The form Joe uses when the doubt is rooted in the projected fear of the failure-feeling.
+- For the success-feeling underneath doubt: "I can't wait to feel that massive success." The form Joe uses when the doubt is rooted in the projected fear of the expansive feeling of winning (see [[fear-of-success-as-projected-failure]]).
 
 The precision matters. The exact word the person has been bracing against goes into the sentence. A generic "I welcome difficult feelings" does not work; the body does not register the specific object. The specific word, in the specific sentence, in the person's mouth, is the move.
+
+## Using the Sentence as the Diagnostic for Doubt's Source
+
+The move has a specific application as the diagnostic for [[doubt-is-protection-from-a-feeling]]. When a person presents with chronic doubt about an ambition, the source of the doubt is one of several possible feelings the body is protecting against. The welcoming sentence, tried in several forms, locates which one.
+
+"If you can say, oh, I can't wait for somebody to criticize me, the doubt goes away. If you say, I can't wait to feel like a failure, the doubt goes away. If you say, I can't wait to feel that massive success, the doubt goes away." -- Joe Hudson, Ambitious But Afraid
+
+The diagnostic procedure: try the sentences with the most likely candidate underlying feelings. Watch which one drops the doubt. The one that drops it is the source.
+
+- If "I can't wait to be criticized" drops the doubt → the source is the criticism-sensitivity, often rooted in childhood
+- If "I can't wait to feel like a failure" drops the doubt → the source is the projected failure-feeling
+- If "I can't wait to feel that massive success" drops the doubt → the source is the projected expansive feeling of winning
+
+Often more than one sentence drops some of the doubt. The doubt was being held in place by multiple protections. The full release comes from welcoming all of them.
+
+This diagnostic application makes the move usable earlier in a session than the depression-form version. In the depression-form, the move is a closing operationalization after substantial prior work. In the doubt-diagnostic form, the move is an early-session probe to locate the source of an undiagnosed protective doubt. The depth of prior work required differs because the goal differs: in the depression-form the goal is a felt-experience shift in the room; in the doubt-diagnostic form the goal is locating the source so subsequent work can be targeted.
 
 ## What This Move Is Not
 
@@ -115,3 +134,4 @@ The closing "what a pleasure" is delivered with the warmth of a small celebratio
 ## Sources
 
 - 2024-08-09_I'm Afraid I'll Get Depressed Again (the move applied to depression: after the press-the-button move revealed the guest would not trade her past depression, and after Joe named that the more she did not want it the more likely it was to recur, Joe had her speak "I can't wait to be depressed again" aloud, meeting the sentence with "what a pleasure"; the session ends on the spoken sentence; the move is the closer)
+- 2025-10-07_Ambitious But Afraid? Here's What's Happening Beneath (the move applied as the diagnostic for doubt's underlying feeling: three variations — "I can't wait for somebody to criticize me," "I can't wait to feel like a failure," "I can't wait to feel that massive success" — used to locate which feeling the doubt is protecting against; the doubt drops in response to whichever sentence addresses the actual source. Places the move as the operational form of the welcoming-test that demonstrates doubt is emotional rather than cognitive in origin. The teaching-form delivery makes the diagnostic usable by listeners on their own, not just in coached sessions)

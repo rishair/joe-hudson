@@ -4,7 +4,7 @@ id: responsibility-stops-love
 title: "Taking Responsibility for Someone Stops the Love You Feel for Them"
 aliases: ["responsibility stops love", "taking responsibility kills love", "obligation stops love", "every time you took responsibility it stopped the love", "responsibility cuts off love", "obligation cuts off love", "you stopped loving her to take responsibility for her", "the responsibility-love trade-off", "responsibility and love don't coexist", "obligation and love don't coexist", "you cut off love to take responsibility", "the love-or-responsibility incompatibility", "obligation is the love killer", "the felt-mechanism of love loss in obligation", "managing him into happiness kills the love", "trying to save them stops the love", "you traded love for management"]
 tags: ["love", "responsibility", "obligation", "relationships", "self-love", "shoulds", "principle"]
-related: ["dont-take-responsibility-for-anothers-happiness", "capacity-to-love-other-is-capacity-to-love-self", "should-as-threat", "love-as-deep-welcoming", "walking-on-eggshells", "wants-over-shoulds", "creating-safety-suppresses-self", "self-love-makes-the-decision", "nobody-wants-to-have-sex-with-a-kid", "treat-them-like-an-adult"]
+related: ["dont-take-responsibility-for-anothers-happiness", "capacity-to-love-other-is-capacity-to-love-self", "should-as-threat", "love-as-deep-welcoming", "walking-on-eggshells", "wants-over-shoulds", "creating-safety-suppresses-self", "self-love-makes-the-decision", "nobody-wants-to-have-sex-with-a-kid", "treat-them-like-an-adult", "feeling-responsible-for-them-disempowers-them"]
 sources: ["2024-03-01_What Blocks Your Love？", "2024-07-01_Should I Stay With My Ex？"]
 ---
 

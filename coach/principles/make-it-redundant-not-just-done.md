@@ -2,10 +2,10 @@
 type: principle
 id: make-it-redundant-not-just-done
 title: "Make Things Redundant, Not Done (The Highest-Leverage Productivity Question)"
-aliases: ["make it redundant not just done", "my job is to not do things and get them done", "make the work irrelevant", "what are the three things on my list that would make everything else easier or redundant", "the three-things question for your to-do list", "the redundancy move", "stop asking how to get this done ask how to make this not need doing", "the leverage question for productivity", "making things irrelevant beats making them done", "the great-ideas-over-hard-work principle", "your job isn't to work hard your job is to have great ideas", "the local tire shop and Google worked the same hours", "the VC's lesson to CEOs", "one great idea saves three years", "removing tasks beats doing tasks", "the three things that make everything else easier or irrelevant", "the famous executive who shifted to three things", "the 60-70 hour executive case"]
-tags: ["principle", "productivity", "leverage", "to-do list", "leadership", "redundancy", "efficiency", "great ideas"]
-related: ["pace-and-spin", "energy-management-over-time-management", "productivity-as-dopamine-fix", "what-is-the-productivity-for", "do-the-work-thats-harder-for-you", "overwhelm-reduces-productivity", "do-the-uncomfortable-task-first", "rest-is-an-accomplishment", "to-do-list-as-inner-critic-on-paper", "plan-how-not-just-what", "joes-executive-three-things-shift", "impact-and-purpose-are-universal-human-needs"]
-sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity", "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper"]
+aliases: ["make it redundant not just done", "my job is to not do things and get them done", "make the work irrelevant", "what are the three things on my list that would make everything else easier or redundant", "the three-things question for your to-do list", "the redundancy move", "stop asking how to get this done ask how to make this not need doing", "the leverage question for productivity", "making things irrelevant beats making them done", "the great-ideas-over-hard-work principle", "your job isn't to work hard your job is to have great ideas", "the local tire shop and Google worked the same hours", "the VC's lesson to CEOs", "one great idea saves three years", "removing tasks beats doing tasks", "the three things that make everything else easier or irrelevant", "the famous executive who shifted to three things", "the 60-70 hour executive case", "the one-thing-that-makes-everything-else-easier-or-irrelevant question", "the one-or-two-or-three-things question", "the second time technique", "the second of three time-anxiety techniques", "the YouTube-Premium leverage move", "leverage at small scale", "leverage moves can be tiny", "the one purchase that eliminates recurring waste", "operational leverage at the everyday level"]
+tags: ["principle", "productivity", "leverage", "to-do list", "leadership", "redundancy", "efficiency", "great ideas", "time anxiety"]
+related: ["pace-and-spin", "energy-management-over-time-management", "productivity-as-dopamine-fix", "what-is-the-productivity-for", "do-the-work-thats-harder-for-you", "overwhelm-reduces-productivity", "do-the-uncomfortable-task-first", "rest-is-an-accomplishment", "to-do-list-as-inner-critic-on-paper", "plan-how-not-just-what", "joes-executive-three-things-shift", "impact-and-purpose-are-universal-human-needs", "youtube-ads-as-leverage-example", "fourteen-day-time-experiment", "thirty-thousand-foot-view-direction-check", "time-can-be-invested-not-just-spent"]
+sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity", "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper", "2025-09-30_Escape Time Anxiety： Your 14-Day Experiment"]
 ---
 
 # Make Things Redundant, Not Done
@@ -59,6 +59,22 @@ A specific observation worth naming on its own. The default to-do list produces 
 This fulfillment-difference is also why the principle is sustainable in a way that the grinding-through-the-list mode is not. Sustained grinding produces depletion because the felt-payoff is small relative to the energy spent. Sustained leverage-work produces energy because the felt-payoff is large relative to the energy spent. The math of human effort favors the second mode. See [[efficiency-as-enjoyment]] for the structural argument.
 
 The principle also touches the structural human need for impact. See [[impact-and-purpose-are-universal-human-needs]]. Doing three high-leverage things meets the impact-need; doing twenty medium-leverage things does not, even if both produce the same business result. The difference shows up in how the person ends the day -- depleted or energized.
+
+## The Principle at the Smallest Scale: The YouTube-Premium Example
+
+The principle is usually introduced at the executive level. It also operates at the smallest possible scale -- and the small-scale version is often the easiest to land first. A worked case:
+
+> "Today, we're shooting this video and my producer is watching YouTube videos to do some research. And I listen and I hear, oh wait, I hear an ad. What are you doing? Like, what makes you listen to an ad? If you're researching 20 videos, you're going to be listening to 20 ads. Those 20 ads are going to be a minute apiece. That's 20 minutes that you're wasting just on this video session. What's the one thing you can do to make everything easier? Well, the one thing to do is to pay to not take ads on your videos. And then how much does that cost? Well, that costs a lot less than your hourly, you know, for a month. So let's do that." -- Joe Hudson, Escape Time Anxiety
+
+The structure of the example is the structure of the principle in miniature:
+- The recurring waste: 20 minutes of ads per research session, forever, until someone notices.
+- The leverage move: one purchase (YouTube Premium).
+- The math: monthly subscription cost is much less than the hourly rate of the producer's time, even at a small number of sessions per month.
+- The result: the recurring waste disappears permanently for every future session.
+
+The example matters because it demonstrates that leverage thinking is not "for CEOs." It is for anyone who has noticed (or could notice) a recurring drain in their own workflow. See [[youtube-ads-as-leverage-example]] for the full example article.
+
+The downward scaling of the principle is also the easiest entry point. Strategic-level applications require strategic-level perception. Tiny-scale applications require only the willingness to notice when something is recurring and ask whether a small one-time decision could eliminate it.
 
 ## What This Looks Like at the Personal Level
 
@@ -157,3 +173,4 @@ Direct, slightly entrepreneurial. Joe delivers this with the energy of someone w
 
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the to-do list shift from "how do I get this done" to "what three things would make everything else redundant"; "my job wasn't to get things done, my job was to not do things and get them done"; the VC lesson to CEOs that "your job isn't to work hard, your job is to have great ideas"; the local tire shop and Google comparison; the most-uncomfortable-task corollary; "the thing I was most likely not going to do was the thing I didn't know how to do, and it was usually the most important thing to do if I was creating a business")
 - 2025-09-24_Your To-Do List is Just Your Inner Critic on Paper (the famous-executive worked example with the specific details: 60-70 hours per week, 10-12% company growth, the shift to "three things that make everything else easier or irrelevant," the double result of accelerated company growth and improved day-to-day felt experience; the explicit fulfillment-difference between the dopamine-hit of checking off many items and the felt-sense of doing something that will make a substantial difference)
+- 2025-09-30_Escape Time Anxiety： Your 14-Day Experiment (the principle positioned as the second of three time-anxiety techniques; the explicit one-or-two-or-three-things framing: "what is the 1, 2, or 3 things that I can do that will make everything else on this list easier or irrelevant, completely irrelevant"; the YouTube-Premium-as-leverage-move worked example showing that the principle scales down to the smallest operational decisions; the explicit framing that the move applies to a daily to-do list, weekly list, or monthly list)

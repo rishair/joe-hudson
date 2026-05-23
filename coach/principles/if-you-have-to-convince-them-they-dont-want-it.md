@@ -5,7 +5,7 @@ title: "If You Have to Convince People to Buy, You Have Something They Don't Wan
 aliases: ["if you have to convince people to buy", "convincing means they don't want it", "sales as listening not convincing", "you don't have to convince anybody of anything", "sales is finding a problem you can solve", "the no-convincing principle in sales", "the convincing test for product-market fit", "if convincing is required the product is wrong", "sales without convincing", "great businesses don't require convincing", "the convincing diagnostic", "if it requires convincing it isn't for them", "selling is connecting and serving not convincing", "sales is helping people solve problems", "the convincing-is-the-signal principle", "no great business comes from what people don't want"]
 tags: ["sales", "business", "product-market-fit", "connection", "service", "principle"]
 related: ["follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "vulnerability-in-the-workplace", "connection-as-life-bottom-line", "us-vs-them-as-universal-manipulation-pattern", "authenticity-in-business", "consciousness-is-the-product", "serial-ceo-builds-products-through-customer-connection"]
-sources: ["2024-10-22_How Connection Helps You Succeed In Business"]
+sources: ["2024-10-22_How Connection Helps You Succeed In Business", "2025-10-02_Why Can't I Get My Business Off The Ground"]
 ---
 
 # If You Have to Convince People to Buy, You Have Something They Don't Want
@@ -107,6 +107,17 @@ This also does not mean salespeople should never share what they have to offer. 
 - Toward [[serial-ceo-builds-products-through-customer-connection]] for the example showing the principle at the product-build stage.
 - Toward [[us-vs-them-as-universal-manipulation-pattern]] when the person is using manipulation as a substitute for fit.
 - Toward [[consciousness-is-the-product]] when the question is why the customer can feel the difference between a fit-based and a convincing-based offering.
+- Toward [[proving-yourself-is-agreeing-youre-not-valuable]] when the convincing is a form of proving and the deeper structural inversion (the convincing transmits the doubt it tries to resolve) is what's blocking the sale.
+
+## The Salesperson-Proving-Themselves Variant
+
+A common variant: the convincing operation is not just about the product but about the salesperson. The pitch is also a proving — that the salesperson is competent, knowledgeable, worth working with. The proving and the convincing are operating simultaneously, and the buyer is receiving both.
+
+This is captured operationally in the [[proving-instead-of-connecting]] read and structurally in [[proving-yourself-is-agreeing-youre-not-valuable]]. The salesperson's proving installs the doubt about the salesperson's value, while the convincing installs the doubt about the product. The buyer leaves with two doubts they did not arrive with.
+
+The fitness coach in the 2025-10-02 session had been running this dual engine: hundreds of outreaches per day, the leads came in, the leads left. The leads were not leaving because of the fitness training. They were leaving because the salesperson-proving-engine and the product-convincing-engine were transmitting two layers of doubt that the prospect's body responded to before the prospect could analyze the offer.
+
+The diagnostic for the variant: when the principle "if you have to convince, they don't want it" is presented to the salesperson, watch for whether the salesperson hears it as a comment on their product or as a comment on themselves. If they hear it about the product, the convincing-engine is the main issue. If they hear it about themselves (often subtly defensive: "but I have to show value"), the proving-engine is also operating and needs to be addressed alongside.
 
 ## Tone
 
@@ -115,3 +126,4 @@ Matter-of-fact and structural. Joe is not moralizing about pushy salespeople. Th
 ## Sources
 
 - 2024-10-22_How Connection Helps You Succeed In Business
+- 2025-10-02_Why Can't I Get My Business Off The Ground — the dual-engine variant (salesperson-proving + product-convincing) deployed by a fitness coach with 9-10 failed business attempts; the principle was extended to cover the case where the convincing is also a proving of the salesperson and the buyer is receiving both layers of doubt; the session is the source for the cross-link to [[proving-yourself-is-agreeing-youre-not-valuable]] as the deeper structural principle when the salesperson-proving is the dominant engine

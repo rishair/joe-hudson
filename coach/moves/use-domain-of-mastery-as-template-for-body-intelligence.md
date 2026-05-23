@@ -4,7 +4,7 @@ id: use-domain-of-mastery-as-template-for-body-intelligence
 title: "Use the Client's Domain of Mastery As the Template for Body Intelligence in Life"
 aliases: ["use domain of mastery as template for body intelligence", "use their sport as the template", "use the tennis as the body-intelligence template", "you already do this in tennis", "play tennis in life", "the play-your-sport-in-life move", "transfer the felt-sense from the field to the room", "use their mastered domain as the proof they can feel", "if you can play tennis you can feel your body", "use the activity they do in flow as proof of body access", "transfer flow state from the activity to life", "the activity-as-template-for-felt-sense move", "the do-what-you-already-do-but-in-life move", "you do this in your art you can do it here", "the same intelligence, different context move", "bring your sport intelligence into the conversation"]
 tags: ["moves", "body", "flow", "mastery", "transfer", "athletes", "musicians", "artists", "coaching", "embodiment"]
-sources: ["2024-09-06_How Do I Feel My Body?"]
+sources: ["2024-09-06_How Do I Feel My Body?", "2025-10-02_Why Can't I Get My Business Off The Ground"]
 ---
 
 # Use the Client's Domain of Mastery As the Template for Body Intelligence in Life
@@ -104,8 +104,19 @@ The "fantastic" when the brief flow state happens is warm but light. Not "you di
 - **For a programmer who experiences flow:** "When the code is coming and you're not pushing — what is the felt quality of that? That's body intelligence operating through code rather than through movement."
 - **For an actor:** "When the scene is working and you're not managing it from outside, what is your attention doing? Do that with your life."
 - **For a dancer:** "Your training is exactly the training we're talking about. The work is to do what you do on the floor while not on the floor."
+- **For a fitness coach or trainer:** "Where do you go when you're training that doesn't keep you hurt?" — the trainer answers "in your body." Then: "When you're just being you, connecting to yourself, where are you?" The trainer's expertise in body-vs-head for their athletes is the template for body-vs-head in their own life. See [[use-the-clients-own-domain-to-name-the-pattern]] for the sibling move that uses the same domain expertise to surface the failure mode.
 
 The structural move is the same. The domain-specific framing is different. The move requires Joe to know enough about the domain to name the somatic signature credibly. A vague gesture at "your art" will not land; a specific reference to what the person actually experiences during their practice will.
+
+## The Sibling Move (Failure Mode as Diagnostic)
+
+This move uses the flow state as the template — "do this thing you do when it works." A sibling move, [[use-the-clients-own-domain-to-name-the-pattern]], uses the failure mode in the same domain as the diagnostic for the current failure: "what happens to your students when they get in their head? That's what's happening to you now."
+
+The two moves often work together. A fitness-coach client in [[i-cant-get-my-business-off-the-ground]] received both within minutes of each other:
+- Failure-mode template: "What happens when somebody is training and they get in their head? They probably get hurt. How is that any different than what just happened to you?"
+- Flow-state template: "Where do you go when you're training that doesn't keep you hurt? In your body. And when you're just being you, connecting to yourself, where are you? In my body."
+
+The combination produces a complete recognition: the client sees both what the failure mode is (head-only, hurt) and what the success mode is (in-body, connected), in their own vocabulary, applied to their own current situation. The transfer becomes operationally simple because both endpoints have been named in language the client already owns.
 
 ## Upstream (What Leads Here)
 
@@ -133,3 +144,4 @@ The structural move is the same. The domain-specific framing is different. The m
 ## Sources
 
 - 2024-09-06_How Do I Feel My Body? — the full deployment of the move with a tennis coach; the establishment of the flow-state-in-sport as the template; the transfer instruction "play tennis in life"; the questioning-in-tennis follow-up that gave the client his own recovery protocol; the closing "you're playing tennis in life" as the compressed form of the move
+- 2025-10-02_Why Can't I Get My Business Off The Ground — the deployment with a fitness coach in a business/sales context; Joe used both the flow-state template ("where do you go when you're training that doesn't keep you hurt? In your body") and the failure-mode template ("what happens when someone is training and they get in their head? They get hurt") within the same exchange; the dual deployment produced a complete recognition with both endpoints named in the client's own vocabulary; this is also the source for the sibling move [[use-the-clients-own-domain-to-name-the-pattern]]

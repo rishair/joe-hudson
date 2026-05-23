@@ -2,10 +2,10 @@
 type: principle
 id: three-stages-of-the-blame-path
 title: "The Three Stages of the Blame Path (Blame Others, Blame Self, No Blame)"
-aliases: ["three stages of the blame path", "the stages of blame", "beginning middle and end of the path", "blame other blame self blame nobody", "at the beginning you blame somebody else", "in the middle you blame yourself", "at the end you don't blame anybody", "the blame development arc", "the developmental arc of blame", "self-blame is the middle of the path not the end", "moving from blame to self-blame is not progress", "the second stage is still blame", "self-blame is equally corrosive as other-blame", "both blames are corrosive", "self-blame as the false destination", "blame other is stage 1 blame self is stage 2 no blame is stage 3", "the path doesn't end with self-blame"]
-tags: ["blame", "self-blame", "relationships", "developmental-arc", "corrosive", "responsibility", "shame"]
-related: ["shame-drives-behavior", "shame-hot-potato", "turn-blame-into-wants", "fault-vs-responsibility", "blame-is-not-real", "self-blame-abdicates-others-agency", "non-defense-is-the-ocean", "patient-on-the-table"]
-sources: ["2025-01-22_Why Blame Is So Corrosive", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
+aliases: ["three stages of the blame path", "the stages of blame", "beginning middle and end of the path", "blame other blame self blame nobody", "at the beginning you blame somebody else", "in the middle you blame yourself", "at the end you don't blame anybody", "the blame development arc", "the developmental arc of blame", "self-blame is the middle of the path not the end", "moving from blame to self-blame is not progress", "the second stage is still blame", "self-blame is equally corrosive as other-blame", "both blames are corrosive", "self-blame as the false destination", "blame other is stage 1 blame self is stage 2 no blame is stage 3", "the path doesn't end with self-blame", "at the beginning of the journey you blame others", "at the end there is no blame", "the more you move toward no-blame the better your leadership becomes"]
+tags: ["blame", "self-blame", "relationships", "developmental-arc", "corrosive", "responsibility", "shame", "leadership"]
+related: ["shame-drives-behavior", "shame-hot-potato", "turn-blame-into-wants", "fault-vs-responsibility", "blame-is-not-real", "self-blame-abdicates-others-agency", "non-defense-is-the-ocean", "patient-on-the-table", "blame-is-the-abandonment-of-leadership", "leadership-is-for-everyone"]
+sources: ["2025-01-22_Why Blame Is So Corrosive", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone", "2025-10-10_Leadership Is For Everyone"]
 ---
 
 # The Three Stages of the Blame Path
@@ -96,6 +96,14 @@ The self-blame stage produces the same anti-healing effect as the other-blame st
 - Toward [[how-do-we-want-to-be-together]] for the forward question that opens at the third stage
 - Toward [[feeling-the-unfelt-emotion]] applied to whatever is underneath the blame
 
+## The Arc and the Development of Leadership
+
+The same three-stage arc maps onto the development of leadership capacity. The person at stage one is handing their leadership to whoever they are blaming (see [[blame-is-the-abandonment-of-leadership]]). The person at stage two is handing their leadership to a punitive internal voice that does the blame thing in the guise of authority (see [[negative-self-talk-as-authority-without-leadership]]). The person at stage three has the leadership available to use, because they are no longer transferring it through the blame frame.
+
+"At the beginning of the journey, you blame others. In the middle of the journey, you blame yourself. At the end, there is no blame. And definitely the more you move in that direction, the better your leadership becomes." -- Joe Hudson, Are You Avoiding Your Own Power?
+
+The connection is structural: leadership requires the agency that blame keeps externalizing. The leadership-development arc and the blame-path arc are the same arc viewed from two angles. Moving from stage one to stage three is the same motion as moving from disowned leadership to owned leadership. See [[leadership-is-for-everyone]] for the broader frame in which this development takes place.
+
 ## Tone
 
 Joe delivers this with matter-of-fact precision. The frame is structural, not aspirational. The third stage is not described as enlightened; it is described as the place where the work becomes possible. The middle stage is not condemned; it is just located accurately so it is not mistaken for the end.
@@ -104,3 +112,5 @@ Joe delivers this with matter-of-fact precision. The frame is structural, not as
 
 - 2025-01-22_Why Blame Is So Corrosive
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same three-stage arc restated — "at the beginning of the path you blame somebody else, in the middle of the path you blame yourself, at the end of the path you don't blame anybody" — with the same explicit naming of self-blame as equally corrosive to other-blame; the same observation that the person who stops blaming the other usually starts blaming themselves as the typical mid-path failure mode)
+- 2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone (the same three-stage arc restated in the leadership context: "at the beginning of the journey, you blame others. In the middle of the journey, you blame yourself. At the end, there is no blame"; the explicit framing of the arc as connected to the development of leadership capacity — the more the person moves toward no-blame, the better their leadership becomes; the linkage between the blame-path and the [[blame-is-the-abandonment-of-leadership]] principle)
+- 2025-10-10_Leadership Is For Everyone (duplicate-folder version of the same episode under the shorter title; same content as the longer-titled folder)

@@ -2,10 +2,10 @@
 type: distinction
 id: lead-and-follow
 title: "Lead AND Follow (Not One or the Other)"
-aliases: ["leading and following", "leaders who don't lead or follow", "lead and follow distinction", "follow as listening to wisdom", "leading from vulnerability", "lead first follow first", "the buck stops here and I follow your wisdom", "two halves of leadership"]
-tags: ["leadership", "teams", "vulnerability", "wonder", "distinction", "authority"]
-related: ["signs-of-a-dysfunctional-leader", "functional-team", "vulnerability", "wonder", "structure-and-empowerment", "public-failure-as-leadership-modeling"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
+aliases: ["leading and following", "leaders who don't lead or follow", "lead and follow distinction", "follow as listening to wisdom", "leading from vulnerability", "lead first follow first", "the buck stops here and I follow your wisdom", "two halves of leadership", "great leaders follow", "leadership begins with following yourself", "follow your conviction", "the boatman on the river", "manipulate the boat to follow the river", "leadership is following", "you cannot really separate leading and following", "even leaders who try to make everyone happy are following something", "leaders without conviction don't get followed", "I followed Mun into the live podcast"]
+tags: ["leadership", "teams", "vulnerability", "wonder", "distinction", "authority", "conviction", "following"]
+related: ["signs-of-a-dysfunctional-leader", "functional-team", "vulnerability", "wonder", "structure-and-empowerment", "public-failure-as-leadership-modeling", "conviction-vs-hardheadedness", "leadership-is-for-everyone", "leadership-is-following-your-conviction", "save-leadership-framework", "first-follower-creates-the-movement"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team", "2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone", "2025-10-10_Leadership Is For Everyone"]
 ---
 
 # Lead AND Follow (Not One or the Other)
@@ -52,6 +52,30 @@ Joe notes that the not-leading failure is the rarer of the two. Most dysfunction
 
 To do both, the leader has to know in any given moment which they are doing. The leader who thinks they are following but is actually waiting for permission has not followed; they have abdicated. The leader who thinks they are leading but is actually performing authority has not led; they have postured. The distinction is fine-grained and lives in the body more than in the calendar.
 
+## Leading Begins With Following Yourself
+
+There is a layer underneath leading-others-and-following-others: the leader has to be following themselves first. Leadership begins by listening to your own conviction and following it. Without that internal following, the leading-others move has no source.
+
+"Leadership begins by listening to that in yourself and following that. Being able to listen to the thing that you think that you have conviction over, listen to the calling and follow it." -- Joe Hudson, Are You Avoiding Your Own Power?
+
+This is why leading and following cannot really be separated. The leader is following something the whole time — even when leading. The leader who appears to be unilaterally leading is, underneath, following their conviction. The leader who is "just trying to make everybody happy" is also following something (the conviction to please) — and that following will draw followers too, because what people will not follow is someone with no conviction at all.
+
+"There is no leader that everybody's like, yeah, I love your leadership because you never follow what you think is right. Even if what you think is right is to try to make everybody happy and you're following that, even if that's the case, people will follow that. But what they will not follow is somebody who's actually not — doesn't have some level of conviction over what they're doing." -- Joe Hudson, Are You Avoiding Your Own Power?
+
+The implication for the leader: the question is not "should I lead or follow." The question is "what am I following, and is the following clean?" The external lead-and-follow oscillation is downstream of the internal following. See [[leadership-is-following-your-conviction]].
+
+## The Boatman on the River
+
+The most precise image Joe uses for the lead-and-follow oscillation: the boatman on a river. Part of the boatman's job is to manipulate the boat. Part is to follow the river. Refusing to do either gets you killed.
+
+"It's like being on a river and you're a boatman. And part of your job is to manipulate the river in the boat. And part of your job is to follow the river. If you are not listening to and following the river, you are screwed. And at the same time, occasionally your job is to manipulate the boat a little bit so that you can follow the river better." -- Joe Hudson, Are You Avoiding Your Own Power?
+
+The boatman image clarifies what the "manipulate" side of leadership is for: not to override the river, but to follow it more skillfully. The leader who refuses to manipulate the boat is not following — they are drifting. The leader who manipulates the boat against the river is not leading — they are fighting. The functional move is using the manipulation in service of the following.
+
+The application Joe gives: in the company, somebody else (Mun) had conviction about doing live podcasts. Joe did not want to do it. He followed her conviction anyway — that was leadership, both his (for showing the company that conviction gets followed) and hers (for having the conviction). The boatman applied: Mun was the river in that moment; Joe manipulated his own resistance to follow her.
+
+"I don't want to fucking do that. There's nothing in me that wants to do that. And I didn't want to do it, but what I did want to do is I wanted to follow Mun. I saw her conviction. It was really important for me to show everybody in the company my leadership in that moment was to show everybody in the company that we're going to follow your conviction as long as it doesn't go against our principles." -- Joe Hudson, Are You Avoiding Your Own Power?
+
 ## Upstream (What Leads Here)
 
 - A leader presents a stagnant team and is doing one of the two well but not the other
@@ -75,3 +99,5 @@ Joe identifies this as the more subtle of the linchpin signs. The treatment is p
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
 - 2022-10-26_Building A Dysfunctional Team
+- 2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone (the boatman-on-the-river image; the leadership-begins-by-following-yourself layer; the lead-and-follow-cannot-really-be-separated framing; the no-conviction-no-followers principle; the Mun-live-podcast example as a concrete instance of the leader following the team's conviction)
+- 2025-10-10_Leadership Is For Everyone (duplicate-folder version of the same episode under the shorter title; same content as the longer-titled folder)

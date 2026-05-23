@@ -2,10 +2,10 @@
 type: principle
 id: leadership-emerges-from-confident-direction
 title: "Leadership Emerges From Confident Direction at a Reasonable Clip (The Baboon Observation)"
-aliases: ["leadership emerges from anyone", "the baboon leadership observation", "the troop follows the confident direction", "anyone can lead", "leadership is not the alpha", "directness at a reasonable clip is leadership", "the wisdom is in the group", "leadership is emergent", "the baboon decision-making study", "leadership doesn't come from position", "the alpha isn't always the leader"]
-tags: ["leadership", "authority", "groups", "emergent", "principle", "biology", "wisdom of the group"]
-related: ["authority-issues", "the-four-authority-positions", "lead-and-follow", "structure-and-empowerment", "if-you-dont-stand-into-authority-others-will-vie-for-it", "compliment-people-to-become-the-authority", "leaders-wants-are-the-organizations-wants", "spit-at-the-top-is-a-waterfall-at-the-bottom", "baboon-leadership-study", "leader-receives-criticism-with-curiosity"]
-sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
+aliases: ["leadership emerges from anyone", "the baboon leadership observation", "the troop follows the confident direction", "anyone can lead", "leadership is not the alpha", "directness at a reasonable clip is leadership", "the wisdom is in the group", "leadership is emergent", "the baboon decision-making study", "leadership doesn't come from position", "the alpha isn't always the leader", "decentralized leadership outperforms centralized", "Malcolm Gladwell war-game observation", "the ragtag team beats the centralized force", "the better predictor of organizational success is the number of people taking leadership", "leadership distributed throughout the organization", "research on distributed leadership outcomes"]
+tags: ["leadership", "authority", "groups", "emergent", "principle", "biology", "wisdom of the group", "decentralization", "organizational-design"]
+related: ["authority-issues", "the-four-authority-positions", "lead-and-follow", "structure-and-empowerment", "if-you-dont-stand-into-authority-others-will-vie-for-it", "compliment-people-to-become-the-authority", "leaders-wants-are-the-organizations-wants", "spit-at-the-top-is-a-waterfall-at-the-bottom", "baboon-leadership-study", "leader-receives-criticism-with-curiosity", "leadership-is-for-everyone", "we-follow-leadership-not-blame", "responsibility-and-authority-go-together", "first-follower-creates-the-movement"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson", "2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone"]
 ---
 
 # Leadership Emerges From Confident Direction at a Reasonable Clip
@@ -44,6 +44,19 @@ The deeper observation underneath the baboon study: the group itself contains wi
 "That alpha male baboon is still the alpha male baboon, but the leadership came as much from him as anybody else in the group. And you see that happen all the time. A CEO wants something to be this way, but it's not that way. And they're like, why isn't it that way? Because the culture is doing something different. And to recognize that is really — it's quite lovely when you really see, like, oh, if you harness that instead of fight it as a leader, it's a really amazing — it's magical. There's a wisdom greater than any one person's in a group." -- Joe Hudson, Authority Issues
 
 The mistake the over-asserting leader makes is to fight this wisdom — to insist the group go where the leader wants regardless of where the group's read is pointing. The mistake the under-asserting leader makes is to mistake the existence of distributed wisdom for the absence of any need to provide structural leadership. Neither is the move. The move is to provide the structural container (see [[if-you-dont-stand-into-authority-others-will-vie-for-it]]) while also recognizing that the moment-to-moment leadership of direction belongs to whoever has the clearest read.
+
+## The Research That Backs The Observation
+
+The baboon observation has parallels in human organizational research that converge on the same conclusion. Decentralized leadership outperforms centralized leadership across multiple domains. Two specific findings Joe references:
+
+- **The number of people taking leadership predicts organizational success more than the quality of top leadership.** "It's actually the number of people who are taking leadership in their role in an organization that is a better predictor of the organization's success than the quality of the top leadership." -- summarized in Are You Avoiding Your Own Power?
+- **The Malcolm Gladwell war-game observation.** A ragtag group of self-organized fighters could win a war game against the US Armed Forces because the leadership structure was distributed — decisions happened where the information was, not at the top.
+
+"In the form of a war game, that some ragtag group of people that without any — a lot of arms could win a significant war against the US Armed Forces in this war game. Because that would be just because of the leadership structure, the structure of where the decisions were made and having that sense of ownership." -- Joe Hudson, Are You Avoiding Your Own Power?
+
+The cultural mythos — the story of the small self-organized group outperforming the centralized rigid hierarchy — is a story humans tell repeatedly because it tracks something real about how groups produce outcomes. The Star Wars rebellion against the Empire is a story; the war-game result is data; the baboon study is observation. All three converge on the same principle.
+
+The implication for organizational design: the structural choices that distribute leadership (see [[responsibility-and-authority-go-together]] and [[we-follow-leadership-not-blame]]) are not soft cultural niceties. They are the structural choices that produce better outcomes. The centralized form is sometimes faster on individual decisions but slower on aggregate organizational adaptation.
 
 ## What This Looks Like Operationally
 
@@ -110,3 +123,4 @@ Joe delivers this principle with the affection of someone who finds the natural 
 
 - 2024-09-13_Authority Issues (the baboon-troop study described in detail: the tracking collars, the morning departure, the directness-clip-confidence criteria, the alpha-baboon-is-still-the-alpha-baboon framing, the wisdom-greater-than-any-one-person's-in-a-group conclusion)
 - 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (the same teaching delivered in the Alexa-hosted episode)
+- 2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone (the parallel research observation that distributed leadership predicts organizational outcomes better than top-leadership quality; the Malcolm Gladwell war-game illustration; the Star Wars cultural-mythos framing as another instance of the same principle; the operational example of leadership rotating across team members in Joe's own company)

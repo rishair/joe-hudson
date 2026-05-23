@@ -2,9 +2,9 @@
 type: read
 id: the-trying-is-the-pattern-firing-now
 title: "The Trying Is the Pattern Firing Now (When 'I'm Trying' Is the Live Demonstration)"
-aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying", "trying-to-make-it-easy is the making-it-hard", "trying-to-have-fun is the not-having-fun", "the trying-to-create is the not-creating"]
+aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying", "trying-to-make-it-easy is the making-it-hard", "trying-to-have-fun is the not-having-fun", "the trying-to-create is the not-creating", "pushing-yourself-to-an-answer-in-session", "the push-to-the-answer in-session pattern", "the pushing-into-not-pushing recursion", "trying-to-stop-trying is the same as trying", "you can't push yourself into not pushing yourself"]
 tags: ["read", "live coaching", "trying", "dissociation", "pattern recognition", "present-moment", "resistance"]
-sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)"]
+sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-10-02_Why Can't I Get My Business Off The Ground"]
 ---
 
 # The Trying Is the Pattern Firing Now
@@ -101,6 +101,31 @@ From the source session:
 
 The exchange shows the trying being named and dismissed in a single beat. Once the trying-to-ask-the-right-question is surfaced, the project itself can be set down. The next move is usually [[what-makes-you-push-yourself]] — the inquiry into what drives the trying.
 
+## The Pushing-Into-Not-Pushing Recursion Variant
+
+A common variant: the client recognizes the trying and tries to stop trying. The trying-to-stop is the same gear as the trying-to-do. The recursion can run indefinitely if not interrupted.
+
+Signals:
+- The client recognizes the pattern they're in ("I'm pushing")
+- The client immediately tries to push themselves out of pushing
+- The body shows the same tension during the trying-to-stop as during the trying-to-do
+- The client says "I know" and then immediately demonstrates that knowing has not changed the behavior
+
+The corrective is to name the recursion explicitly: "You can't push yourself into not pushing yourself. That's not how it works." The naming makes the recursion visible. The client can no longer claim ignorance of the loop they are in.
+
+Joe sometimes follows the naming with [[who-do-you-want-to-be-with-more]] — a binary-choice question that surfaces the client's preference for the non-pushing mode without recruiting the pushing engine to produce it. The preference itself is the leverage; the pushing-engine cannot produce the preference, so the asking of the preference question routes around the engine entirely.
+
+From a coaching session with a fitness coach trying to push himself toward an answer about how to connect with himself:
+
+- **Client:** "I know it's like, if I just— I— what's—"
+- **Joe:** "Still doing it, still doing it. You can't push yourself into not pushing yourself. That's not how it works."
+- **Client:** "No, no, exactly. But that's That's what I've done and tried. I know it hasn't worked because I tried doing it right now. Yeah, I don't—"
+- **Joe:** "Just right now, let's not do it. There you go. Who do you want to be with more? This or the person who's pushing?"
+- **Client:** "Oh, this."
+- *(Source: 2025-10-02_Why Can't I Get My Business Off The Ground)*
+
+The exchange shows the read deployed for the recursion variant. The naming ("you can't push yourself into not pushing yourself") interrupts the loop. The directive ("just right now, let's not do it") provides the brief non-pushing window. The binary choice question lets the client locate their preference for the new mode. The pushing-engine is bypassed by the entire sequence.
+
 ## The Trying-to-Make-It-Easy Variant
 
 A specific form of this read that appears in creative-block work: the person says they want it to be easy and is producing hardness in the same conversation. The trying-to-make-it-easy is itself the making-it-hard. The artist in [[i-cant-enter-my-creative-work]] reports she wants creating to be "fun and happy and beautiful" and is in the middle of producing a hard, complicated coaching session. The trying-to-have-fun is the not-having-fun.
@@ -143,9 +168,11 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 - [[i-cant-feel-my-emotions]] — the concern where this read frequently appears
 - [[how-do-i-love-myself-and-express-my-emotions]] — the variant where the person identifies the pattern and is trying to change it
 - [[i-cant-enter-my-creative-work]] — the trying-to-make-it-easy variant; the artist who says she wants fun and is making the conversation hard
+- [[i-cant-get-my-business-off-the-ground]] — the pushing-into-not-pushing variant; the entrepreneur trying to push himself toward an answer about how to stop pushing his clients away
 
 ## Sources
 
 - 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the canonical use of this read; the client said "I'm trying" three separate times across the session, each time pivoting into a descriptive explanation of why he was the way he was; Joe interrupted each pivot and pointed at the live event; the second instance ("try not to listen to your body right now") deployed paradoxical instruction to make the trying visible
 - 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the trying-to-ask-the-right-question variant; the client opens with a polished question ("how do I let in the fear?") that is itself the artifact of the trying; Joe names it ("there's still a trying. What's the trying?") and the client answers "trying to ask the right question"; the corrective move pairs with [[come-to-me-without-contradiction]] and [[what-makes-you-push-yourself]]; the session also demonstrates that this read frequently co-occurs with [[body-contradicts-the-words]] — the smiling face delivering the question is part of the same pattern firing
 - 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) — the trying-to-make-it-easy variant; the artist who reports she wants creating to be "fun and happy and beautiful" while producing hardness in the coaching session; the variant where the trying hides under softer language ("I want it to be") rather than the literal "I'm trying"; the pairing with [[said-want-without-felt-want]] and [[name-the-pattern-firing-now-as-the-art-being-made]] as the corrective move
+- 2025-10-02_Why Can't I Get My Business Off The Ground — the pushing-into-not-pushing recursion variant; the fitness-coach entrepreneur recognized he was pushing himself in the session and immediately tried to push himself out of pushing; Joe named the recursion explicitly ("you can't push yourself into not pushing yourself, that's not how it works") and bypassed the engine with the binary-choice question [[who-do-you-want-to-be-with-more]]; this is also the source for the parallel between in-session pushing and client-facing pushing, captured in [[proving-instead-of-connecting]]
