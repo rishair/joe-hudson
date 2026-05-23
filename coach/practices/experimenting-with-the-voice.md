@@ -2,10 +2,10 @@
 type: practice
 id: experimenting-with-the-voice
 title: "Experimenting with the Voice"
-aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention", "Fritz Perls overdog underdog", "overdog underdog voice", "change the response to the voice", "respond differently to the voice", "the underdog response", "who is talking to who voice"]
+aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention", "Fritz Perls overdog underdog", "overdog underdog voice", "change the response to the voice", "respond differently to the voice", "the underdog response", "who is talking to who voice", "write down 20 responses to the voice", "the 20-responses practice", "pick one response every 2 to 3 days", "the rotating-responses practice", "the experiment-don't-improve frame", "the no-getting-anywhere frame for the practice", "you're not trying to get anywhere with this practice"]
 tags: ["voice in head", "practice", "experimentation", "play", "relationship", "depression"]
-related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels", "im-depressed", "rebellion-or-submission-to-should"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-09-20_How to Break Free From Overthinking"]
+related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels", "im-depressed", "rebellion-or-submission-to-should", "the-politician-and-the-acolytes", "epiphany-becomes-task", "dont-half-ass-the-experiment"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-09-20_How to Break Free From Overthinking", "2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode)"]
 ---
 
 # Experimenting with the Voice
@@ -117,6 +117,44 @@ There is no fixed duration. A single conversation with the voice using one appro
 
 Some experiments require persistence. The voice has been at war for decades. A one-day attempt at love may not register. A month of repeatedly meeting the voice with care may.
 
+## The Canonical Form: Write Down 20, Run One Every 2-3 Days
+
+In live coaching, Joe has prescribed a specific operational form of this practice that turns the broad invitation into something a coachee can actually start tomorrow.
+
+The form:
+
+1. **Write down 20 possible responses to the voice.** Use the examples in this article as seed; add the coachee's own. Twenty is large enough that the list cannot be all the obvious responses; it forces the coachee to invent some.
+2. **Pick one of the 20 and run it for a day, or two days, or three days.** Long enough for the body to encounter the new pattern enough times to register the new pattern.
+3. **Then pick another. Run it for the next period.** Then another.
+4. **The job is not to find the best one. The job is to experiment.** No response is the right response. No response has to be kept.
+
+"So your job isn't to do any of them. Your job is to experiment. So write down 20 of them. And every day, or every 2 days, or every 3 days, pick one of them. And then do it for that day or 2 days or 3 days. So your job is to basically just experiment. You're not trying to get anywhere. You're just experimenting with, oh, what is it like to treat the voice in my head this way? What is it like to treat the negative voice in my head that way?" -- Joe Hudson, Money Worries, Identity, and the Trap of Being 'Good'
+
+Why this form works where vaguer versions don't:
+
+- **The 20 makes the list real.** A vague invitation to "experiment with the voice" leaves no concrete object. Writing 20 down produces something the coachee will return to. The list also generates new responses through the act of writing — by item 12, the coachee is inventing.
+- **The 2-3 day window prevents premature evaluation.** A one-conversation try doesn't give the body time to register the new pattern. A multi-day window holds the response long enough for the body to notice what the response is doing.
+- **The "you're not trying to get anywhere" instruction is the most important.** The coachee whose system runs the [[epiphany-becomes-task]] pattern will convert this practice into "the practice that will fix my voice." The conversion ruins the practice. The instruction "not trying to get anywhere" pre-empts the conversion by removing the destination.
+
+The four sample responses Joe offered in the Bobby session, as starters for the 20:
+
+- "Hey, you know, that's pretty bad management style."
+- "I see how scared you are."
+- "Fuck you, shut the fuck up."
+- "Yes, sir, I'll get right on that."
+
+These are intentionally varied — peer-feedback, compassionate, refusing, mock-compliant — so the coachee sees the range. See [[the-politician-and-the-acolytes]] for the conceptual frame these responses are the application of.
+
+## The Practice Stops Working When Made a Tool to Get Better
+
+A specific failure mode worth naming separately: the practice stops producing results the moment it becomes a tool for self-improvement. The coachee starts using "experimenting with the voice" to "fix" the voice, or to make themselves a better person, or to demonstrate growth.
+
+"As soon as you do them to get better, they will have no effect that you want in your life. And you'll notice this in your tools that you use, like you collect— you have collected all these tools in your life for self-development. They work for a while and then they stop working. And you'll notice that they work until you use them to improve yourself, which means you've taken the love out. They become a form of criticism. And so the tool stops working." -- Joe Hudson, Money Worries, Identity, and the Trap of Being 'Good'
+
+The diagnostic: if the coachee reports the practice "isn't working anymore," ask what they were using it for. If the answer is "to get better" or "to fix the voice" or "to make progress," the practice has been recruited into the [[i-need-to-improve-myself|self-improvement project]] and lost its leverage. The fix is not a new practice; it is to restore the experimental frame. Drop the practice for a week. Return to it without the improvement goal. The leverage returns.
+
+This is also why [[dont-half-ass-the-experiment]] applies here: the practice has to be done as an actual experiment, with the experimenter not pre-knowing what the result will be. Going through the motions to get a predicted outcome is not an experiment; it is recitation. The voice cannot be experimented with via recitation.
+
 ## When to Use This Practice
 
 - When the person has named the [[voice-in-the-head]] and is asking what to do about it.
@@ -142,3 +180,4 @@ This is not about pretending the voice is funny. It is about refusing to treat i
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (compressed catalog of "thousands of responses" delivered as a tight teaching: agree, ask the voice to manage better, love it and acknowledge its fear; the practical observation that shifting the response is often easier than shifting the content because the content is automatic; paired with Stephanie's affirming reframe — "instead of the default response of cowering or shaming yourself, you can change it; you're empowered to shift your response in that way")
 - 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same catalog of voice-in-head responses)
 - 2024-09-20_How to Break Free From Overthinking (additional response variants: the dog-wanting-to-be-pet analogy where love coexists with limit; "how about you speak to me with a little more respect" as a request that reframes the voice as counterparty; "I see that you're really scared and I don't want to react to your fear" as the name-the-fear-not-the-content response)
+- 2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode) — the canonical operational form of the practice as Joe prescribes it live: write down 20 possible responses, pick one and run it for a day or two or three, then pick another; the four sample responses ("that's pretty bad management style" / "I see how scared you are" / "fuck you shut the fuck up" / "yes sir I'll get right on that"); the "you're not trying to get anywhere" instruction as the pre-emption of the [[epiphany-becomes-task|task-conversion]] that ruins the practice; the explicit teaching that all the tools collected for self-development stop working when used to improve oneself, because the improvement frame removes the love from the tool and turns it into criticism

@@ -79,6 +79,10 @@ The typical sequence from this concern is short and structurally clean:
 
 The whole sequence can land in five minutes when the person is already on the verge of the descent.
 
+## Related Concerns
+
+- [[i-want-to-be-authentic-on-stage]] — the performance version of the same structure. A stand-up comic asking how to be authentic on stage is asking the relational-anxiety question scaled up. The mask-or-run pattern there is "perform-or-freeze." The shame layer is the same. The work is structurally identical: bring the live moment into the room, name what is being hidden (almost always emotion), restore connection. The on-stage version has more concentrated exposure and a fixed-length window; the relational version has more time and intimacy.
+
 ## Sources
 
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the man who got called on in a public Q&A, said he gets anxious in relationships, that he doesn't like being seen, that he puts on a mask or runs; the live demonstration of the pattern (being anxious about being called on while presenting the problem of being anxious); the breakthrough that what he was hiding was his emotions

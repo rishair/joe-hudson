@@ -2,9 +2,9 @@
 type: question
 id: what-do-you-lose-if-this-belief-goes-away
 title: "What do you lose if this idea that you're not enough goes away?"
-aliases: ["what do you lose if this belief goes away", "what do you lose if this idea goes away", "what would you lose if X went away", "the payoff question", "the protection-of-the-belief question", "what does this belief protect you from", "what does this idea protect", "what does the belief give you", "what's the trade you're making with this belief", "what would change if you stopped believing this", "the I'm not enough payoff question", "what do you lose if you're enough", "surface the payoff of the limiting belief question", "what's the structural job of this belief", "the structural-payoff question for limiting beliefs", "what protects you about not being enough", "the inversion question for limiting beliefs", "the give-up question for a stuck belief"]
-tags: ["limiting beliefs", "control", "identity", "payoff", "self-rejection", "enoughness", "question"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
+aliases: ["what do you lose if this belief goes away", "what do you lose if this idea goes away", "what would you lose if X went away", "the payoff question", "the protection-of-the-belief question", "what does this belief protect you from", "what does this idea protect", "what does the belief give you", "what's the trade you're making with this belief", "what would change if you stopped believing this", "the I'm not enough payoff question", "what do you lose if you're enough", "surface the payoff of the limiting belief question", "what's the structural job of this belief", "the structural-payoff question for limiting beliefs", "what protects you about not being enough", "the inversion question for limiting beliefs", "the give-up question for a stuck belief", "what do you get from blaming yourself", "what do you get from continuing to do this", "what makes it important to you to keep doing this", "what makes it important to keep blaming yourself", "what do you get from keeping the self-blame alive", "the payoff question for self-blame", "the what-do-you-get-from-it payoff question"]
+tags: ["limiting beliefs", "control", "identity", "payoff", "self-rejection", "enoughness", "question", "self-blame", "tether"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)", "2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson)"]
 ---
 
 # What do you lose if this idea that you're not enough goes away?
@@ -120,7 +120,26 @@ It is not a way to talk the person out of the belief. The question is not the st
 - Toward [[grief-as-identity-dismantling]] when releasing the belief is felt as a small death
 - Toward [[whatever-you-think-you-need-to-be-lovable-is-self-rejection]] when the specific form of the belief is "I'm not enough to be loved"
 
+## The Payoff-of-Self-Blame Variant
+
+When the persistent thing is not a belief about not-being-enough but a chronic self-blame, the question takes a slightly different form: "What do you get from continuing to blame yourself?" The structure is the same — what is the body holding the blame for? — but the answer often surfaces a relational tether rather than a control mechanism.
+
+In the breakup session, the form Joe uses:
+
+"What makes it important to you to make sure that you keep blaming yourself for shit?" -- Joe Hudson, Why Can't I Move On After My Breakup?
+
+Followed up when the first answer is surface ("because I'm mad at myself for my actions"):
+
+"What do you get from that?" -- Joe Hudson, Why Can't I Move On After My Breakup?
+
+The second push lands the actual payoff: "I guess I can keep that alive a little bit, because if I let that go, then I kind of let go the relationship."
+
+The structural payoff in this variant is the tether. The self-blame keeps the lost relationship alive. Releasing the blame would mean accepting the loss as final. See [[self-blame-as-tether-to-the-lost]] for the read this surfaces. The same structural-payoff question opens different territory depending on what the belief or behavior is doing.
+
+The instruction for the coach is the same in both variants: ask, wait, let the second push descend past the surface answer to the structural one, name what arrives. Do not argue with the response. The payoff is real and the work moves from there.
+
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
 - 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title
+- 2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson) — the self-blame-payoff variant: "what makes it important to you to make sure that you keep blaming yourself for shit?"; the two-step descent past the surface answer to the structural one; the payoff that surfaces is the tether to the lost relationship rather than control; demonstrates that the same structural question opens different territory depending on what the belief or behavior is holding

@@ -2,9 +2,9 @@
 type: move
 id: use-the-live-group-as-love-field
 title: "Use the Live Group as the Love Field (Look at Faces, Find One Loving You, Receive)"
-aliases: ["use the live group as love field", "the group as love field", "use the group to practice love", "the look-at-faces move", "find someone loving you in the room", "the savor-one-face move", "practice love with strangers on the call", "the group as the field for love work", "the Q&A as love practice", "the use-the-room-for-love-work move", "love practice with the live group", "the loving the room move", "the receive-from-the-room move", "the look at people loving you move", "find one face love them back move", "the in-the-room love demonstration", "use the people on the call to feel love", "the group as the available field for love"]
-tags: ["move", "love", "group", "live coaching", "Q&A", "connection", "real time", "receiving", "shame", "isolation"]
-sources: ["2024-07-12_I Can't Get Over My Ex"]
+aliases: ["use the live group as love field", "the group as love field", "use the group to practice love", "the look-at-faces move", "find someone loving you in the room", "the savor-one-face move", "practice love with strangers on the call", "the group as the field for love work", "the Q&A as love practice", "the use-the-room-for-love-work move", "love practice with the live group", "the loving the room move", "the receive-from-the-room move", "the look at people loving you move", "find one face love them back move", "the in-the-room love demonstration", "use the people on the call to feel love", "the group as the available field for love", "look at me and love me", "see the other faces loving you right now", "the antidote-to-shame group move", "the look-at-everybody-and-love-me move"]
+tags: ["move", "love", "group", "live coaching", "Q&A", "connection", "real time", "receiving", "shame", "isolation", "self-blame", "breakup"]
+sources: ["2024-07-12_I Can't Get Over My Ex", "2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Use the Live Group as the Love Field
@@ -130,7 +130,21 @@ There is also a casualness to the language about the group ("all these folks," "
 - [[i-cant-feel-my-emotions]] — when the inability to feel includes the inability to feel connection
 - [[i-cant-get-over-this-loss]] — when the loss has cut the client off from feeling loving anything; the move re-establishes the capacity
 - [[i-dont-have-community]] — when the client believes community is unavailable; the move demonstrates that the available room can be a community
+- [[i-cant-forgive-myself-for-hurting-them]] — when chronic self-blame is the structural lock; the compressed variant of the move is the antidote to the shame the self-blame is producing
+
+## The Compressed Variant (Anti-Shame in a Self-Blame Session)
+
+In the breakup-self-blame session, Joe uses a faster, more directive version of the move when the client is composing himself against tears. The full sequence (anchor → look → savor → thank → recalibrate → another → spread out → breathe) is compressed into a single push:
+
+"Fuck that. Look at everybody. Look at me and, and love me. Love yourself. This is the antidote to your shame addiction. Yeah, see that I'm loving you. Look at the other faces, see that they're loving you right now, or in awe of you, or check them out. The shame is like, fucking, it's your matrix. It's not even true. Like, there's like — nobody has — nobody thinks you have anything to be ashamed of." -- Joe Hudson, Why Can't I Move On After My Breakup?
+
+The compressed variant is used when the client has already started producing the somatic opposite of shame ([[feel-the-shame-then-feel-the-opposite]] has been run, the chest has raised, the love has started arriving) and the work is to extend and protect the production against the shame about to reassert. The directness ("fuck that," "look at everybody") cuts through the composing in real time.
+
+The compressed variant has a specific addition that the longer form does not always include: the explicit naming of the shame as a matrix. The matrix-naming is the cognitive shorthand that the body needs to dismiss the shame's claim. The shame says "you should be ashamed in front of all these people." Joe's matrix-naming says "the shame is making the rules; the people in the room are not actually thinking what the shame is telling you they're thinking." The reality-check is what allows the body to keep producing the love-state instead of returning to the composing-state.
+
+The trade-off: the compressed variant is more directive and depends on Joe's authority being already established. The longer form is more spacious and self-discovered. The compressed form is for acute moments in active sessions; the longer form is for opening the field at the start.
 
 ## Sources
 
 - 2024-07-12_I Can't Get Over My Ex — Joe runs the full sequence with a client who reported isolation and inability to feel difficult emotions; the client moves from intellectualized trust ("I've been listening to your podcast") to felt connection with specific faces; the "I love you is the only thing that really comes up" moment surfaces the suppressed loving language; Joe extends the practice to the ex-wife after the room work establishes the felt anchor, which then surfaces the anger underneath the love.
+- 2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson) — the compressed variant used to protect the somatic-opposite production against shame about to reassert; "Look at me and love me. Love yourself. This is the antidote to your shame addiction"; the matrix-naming addition that the longer form does not always include; the directness used when the client is composing against tears.

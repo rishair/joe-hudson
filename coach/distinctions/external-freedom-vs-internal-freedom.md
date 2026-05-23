@@ -2,10 +2,10 @@
 type: distinction
 id: external-freedom-vs-internal-freedom
 title: "External Freedom vs. Internal Freedom"
-aliases: ["two kinds of freedom", "resource freedom vs being freedom", "freedom-to-do vs freedom-to-be", "the two ideas of freedom", "freedom of resources vs freedom of nature", "external freedom vs internal freedom", "the conflation of the two freedoms", "circumstantial freedom vs unconditional freedom", "doing-freedom vs being-freedom"]
-tags: ["freedom", "distinction", "self-realization", "resources", "wants"]
-related: ["nothing-is-required-for-freedom", "knowing-yourself-is-the-only-safety", "feel-your-way-to-freedom", "self-realization", "money-as-surrogate", "same-scarcity-story-regardless-of-wealth", "if-i-had-more-money"]
-sources: ["2023-11-24_What We're Afraid to Lose"]
+aliases: ["two kinds of freedom", "resource freedom vs being freedom", "freedom-to-do vs freedom-to-be", "the two ideas of freedom", "freedom of resources vs freedom of nature", "external freedom vs internal freedom", "the conflation of the two freedoms", "circumstantial freedom vs unconditional freedom", "doing-freedom vs being-freedom", "the canvas-is-mine version of freedom", "the I'm-choosing-this version of freedom", "the freedom-as-choice version", "ownership-of-choice as the internal-freedom marker", "operational freedom vs felt freedom"]
+tags: ["freedom", "distinction", "self-realization", "resources", "wants", "choice"]
+related: ["nothing-is-required-for-freedom", "knowing-yourself-is-the-only-safety", "feel-your-way-to-freedom", "self-realization", "money-as-surrogate", "same-scarcity-story-regardless-of-wealth", "if-i-had-more-money", "freedom-is-not-absence-of-consequences", "i-have-to-X-to-be-free"]
+sources: ["2023-11-24_What We're Afraid to Lose", "2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode)"]
 ---
 
 # External Freedom vs. Internal Freedom

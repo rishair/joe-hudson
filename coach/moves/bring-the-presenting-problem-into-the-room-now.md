@@ -4,7 +4,7 @@ id: bring-the-presenting-problem-into-the-room-now
 title: "Bring the Presenting Problem Into the Room Now (The Anxiety You're Describing Is Happening Right Here)"
 aliases: ["bring the presenting problem into the room now", "let's just talk about how it happened right now", "the in-the-room demonstration of the presenting problem", "the present-tense version of the pattern", "how is that happening right now", "use the live moment as the example", "the anxiety is happening right now use it", "the social anxiety is in the room right now use it", "the pattern is firing in this conversation use it", "stop describing the problem look at the version of it happening now", "the live-instance redirect", "redirect from the abstract pattern to the live instance", "the in-session demonstration redirect", "the right-now version of the relational pattern", "use the coaching room as the laboratory", "the coaching session as the example of the problem", "let's use this moment as the example", "the pattern is firing here", "the right-now is the example", "the in-the-moment-instance move", "use the present-tense instance not the past-tense story", "the now-version-of-the-relational-pattern move", "the now-not-then move", "the don't-tell-me-just-look-at-now move", "the right-now-instance move"]
 tags: ["moves", "live coaching", "present moment", "social anxiety", "in-the-room", "demonstration", "concrete", "anti-abstraction"]
-sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
+sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
 ---
 
 # Bring the Presenting Problem Into the Room Now
@@ -24,6 +24,7 @@ The structural form: when a person describes a relational pattern AND that patte
 - When the person describes a pattern of freezing in front of authority and they have just frozen because Joe addressed them.
 - When the person describes themselves as someone who can't speak up, and they are struggling to speak up right now.
 - When the person says "I have a lot of questions but they're all the same question" — the multiplying-and-not-committing is itself the pattern.
+- When a performer asks how to stop being self-conscious on stage and they are self-conscious right now in the coaching call. The on-stage version is being demonstrated live.
 
 The qualifying condition: the pattern has to actually be firing in the room. If the person is describing social anxiety but is currently relaxed, this move does not apply. The move is only available when the live instance is empirically present.
 
@@ -71,6 +72,16 @@ The downstream moves are usually some combination of:
 
 The dialogue shows the move's full arc in four turns. Joe makes the pivot ("just like right now"). The man partially accepts ("in a way"). Joe holds the frame ("let's just talk about how it happened right now") and asks the in-the-room version of the question ("how is that working for you?"). The man, now answering about the live moment, gives the actual answer — he doesn't like being seen, he hides himself, he wears a mask or runs. The answer is more useful than any narrative about past relationships could have been because it is about what is actively happening.
 
+A second example, from a stand-up comic asking how to be authentic on stage. After Joe has clarified the real question (see [[whats-the-real-question]]) is about self-consciousness, the move is the immediate pivot:
+
+- **Guest:** "Yeah, I think it would be how to not be self-conscious, because what I've gotten feedback from a lot of coaches are—"
+- **Joe:** "Is, um, like, I don't, I don't want to hear that. Okay, I don't care. Is it so right now you're self-conscious? Yeah."
+- **Guest:** "Yeah."
+
+*(Source: How Do I Overcome Self-Consciousness?)*
+
+Note the structural difference from the first example. Here, Joe first refuses the abstract content (the feedback the person was about to recount) and then makes the live pivot. The refusal is part of the move — the abstract content is exactly what would prevent the live work from happening. With the abstract content cleared, the question "right now you're self-conscious?" is the entry to the work. The on-stage self-consciousness the person is asking about is the same self-consciousness operating in the Zoom call. The Zoom call becomes the laboratory for the on-stage work. From there, the session moved to scaling the self-consciousness (see [[scale-the-feeling-1-to-100-with-anchors]]) and asking for a one-percent shift (see [[ask-one-percent-less-then-how-did-you-do-that]]).
+
 ## Why It Works
 
 The move works because the pattern is harder to hide from when it is firing live. A description of a pattern is an artifact the person can edit. The pattern itself, happening in the moment, cannot be edited at the source. The body is doing what it does. The defense is operating. The avoidance is in motion. The coach can see all of it. The person cannot pretend it isn't happening because the coach is naming what they see.
@@ -107,11 +118,16 @@ There is also a quality of welcoming. The coach is making the live anxiety a wel
 - [[surface-the-spectrum-of-presence-in-real-time]]: the sibling move for naming a live shift in presence
 - [[name-the-body-defense-in-real-time]]: the body-level version of this move for catching defenses as they happen
 - [[whats-the-real-question]]: the related move that converts the abstract presenting question into the live question
+- [[scale-the-feeling-1-to-100-with-anchors]]: a common follow-up once the live feeling is in the room; the scale converts the feeling into a workable number
+- [[ask-one-percent-less-then-how-did-you-do-that]]: the increment move that often follows the scale
+- [[cutting-off-your-own-authenticity-in-real-time]]: a sibling read that the live instance often makes visible
 - [[not-sometimes-right-now]]: the broader family of present-tense moves
 - [[how-is-that-not-here-right-now]]: the inversion question that brings the desired state into the present
 - [[i-get-anxious-in-relationships]]: the concern this move is most often applied to
+- [[i-want-to-be-authentic-on-stage]]: the concern this move is applied to in the on-stage variant
 - [[you-cant-be-seen-when-youre-not-in-yourself]]: the principle the move serves
 
 ## Sources
 
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the man who said he gets anxious in relationships; Joe's immediate pivot ("yeah, just like right now") and the redirect ("so let's just talk about how it happened right now"); the use of the live moment ("what's happening right now is you're being seen, how is that working for you?") as the entry into the actual work
+- 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — the stand-up comic asking about authenticity on stage; Joe clarifies the question is about self-consciousness; refuses to engage with the abstract advice the person was about to share ("I don't want to hear that. Okay, I don't care."); makes the live pivot ("is it so right now you're self-conscious?"); the Zoom session becomes the laboratory for the on-stage work

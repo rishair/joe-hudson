@@ -4,7 +4,7 @@ id: whats-the-real-question
 title: "What's the real question?"
 aliases: ["what's the real question", "the real question", "what's the actual question", "the real-question redirect", "the underneath-the-question question", "asking for the real question", "the question behind the framing", "what are you actually asking", "what's underneath the question you came in with", "what's the question you're actually here for", "Joe's real-question move", "the meta-question move", "asking the question underneath the question"]
 tags: ["question", "live coaching", "framing", "scoping", "intake", "presenting concern"]
-sources: ["2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
+sources: ["2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
 ---
 
 # What's the real question?
@@ -21,6 +21,12 @@ The phrasing variants Joe uses:
 - "What's the real question?"
 - "What are you actually asking?"
 - "What do you really want to work on?"
+
+A specific variant, used when Joe can hear two possible questions inside the opening framing:
+
+"Is the question how do you be authentic, or is the question how do I not be self-conscious? What's the question? Just to be clear." -- Joe Hudson, How Do I Overcome Self-Consciousness?
+
+The binary-clarification form has the same purpose as the open form, but is reached for when Joe can already hear two distinct questions hiding in a single phrasing. The person is asked to choose between two specific options rather than to produce a question from scratch. The choosing makes the actual concern visible and reduces the risk that the person will continue working on a question that is structurally different from the one they came in with.
 
 ## When Joe Uses It
 
@@ -65,6 +71,24 @@ Asking for the real question shifts the person from third-person mode (describin
 
 The word "real" is doing work too. It implies that the person's opening framing was not the real question — without judging it. The "real" acknowledges that there is more underneath, and invites the person to bring that more forward. It is gentler than "what's the actual question," which can read as a correction.
 
+## The Binary-Clarification Variant
+
+When Joe can already hear two distinct questions inside the opening framing, the question gets deployed as a binary rather than as an open ask. The person is given two options and asked to choose. This is faster than the open form when the options are already audible.
+
+The form: "Is the question X, or is the question Y? What's the question? Just to be clear."
+
+When this variant is used:
+
+- The opening contains a complex framing that smuggles two questions together (often a how-to question and a feeling question).
+- The two questions would produce two structurally different sessions, and the difference matters for what move comes next.
+- The person is articulate and likely to keep producing more framing if not given a specific binary to land on.
+
+The binary works because it removes the labor of formulating the real question and reduces it to a choice. The choice exposes the actual concern. In the source session, the person opened with "how do I be my authentic self, especially on stage?" Joe heard two questions inside that — an authenticity question and a self-consciousness question. He named both and asked the person to choose. The person chose self-consciousness. That choice became the contract for the session.
+
+The variant has the same risk as the open form: if the person chooses the option that is not actually their real question, the work goes in the wrong direction. The mitigation is that the binary form makes any miscategorization more visible — the person knows they had to choose, so the chosen frame is more available for revision later if it stops fitting.
+
+The "just to be clear" closing matters. It signals that the question is administrative (getting the contract right) rather than therapeutic (probing for hidden meaning). The administrative framing keeps the person from feeling that they got the opening wrong.
+
 ## Dialogue Example
 
 The full opening sequence from the source session, showing the question's function as the conversation-starter:
@@ -78,6 +102,20 @@ The full opening sequence from the source session, showing the question's functi
 *(Source: I Can't Feel Anything (Coaching Session With Master Coach))*
 
 Note what Joe did not do. He did not respond to the mother's death. He did not respond to the inability to label emotions. He did not respond to the pressure in the chest. He bypassed every potential entry point in the opening and asked for the question. The opening was given respectfully — the question was asked respectfully — and the person provided a different concern as the real one: the loss of want, the everything-from-obligation. That concern is what the session worked on.
+
+A second example, showing the binary-clarification variant in use:
+
+- **Guest:** "My question is, um, how do I be my authentic self, especially on stage? Because I've gotten a lot of feedback from people, like, what's your—"
+- **Joe:** "What's, what's your— what, what, uh, stage doing what?"
+- **Guest:** "Like stand-up comedy."
+- **Joe:** "Oh, it's an interesting question, right? There's like, with comedy in particular, you're, you're putting on an act and yet you still want to be authentic, right? It's like there's both things happening, right?"
+- **Guest:** "Right."
+- **Joe:** "Um, is the question how do you be authentic, or is the question how do I not be self-conscious? What's the question? Just to be clear."
+- **Guest:** "Yeah, I think it would be how to not be self-conscious..."
+
+*(Source: How Do I Overcome Self-Consciousness?)*
+
+Joe heard two questions inside one framing — an authenticity question and a self-consciousness question — and asked the person to choose. The choice was decisive. The whole rest of the session worked on the self-consciousness question, not the authenticity question. The binary form took less time than the open form would have because Joe had already located the candidate questions; the work for the person was just choosing.
 
 ## What This Question Is Not
 
@@ -99,7 +137,9 @@ The warmth is in the tone of voice, not in extra words. The implicit message: "I
 - [[intellectual-question-with-emotional-body]]: the related read where the opening question is articulate but the body is showing something different — the real question may be located by following the body rather than by asking
 - [[decision-question-covers-the-caretaking]]: a specific case where this question often surfaces the caretaking pattern underneath a stay-or-leave deliberation
 - [[whats-the-most-profound-positive-shift]]: a related opening question Joe uses when the person hasn't named a topic at all; "what's the real question" is for when they have named one but it's not quite the right one
+- [[i-want-to-be-authentic-on-stage]]: a concern where the binary-clarification variant is reliably useful — the "how do I be authentic?" framing almost always contains a self-consciousness question that is the actual work
 
 ## Sources
 
 - 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the canonical use of the question as the conversation-starter; Joe deploys it immediately after the person's extended opening contextual report; the question surfaces the person's actual concern (loss of pleasure and want, everything from obligation) which is structurally different from what the opening was describing (the inability to feel emotions in general)
+- 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — the binary-clarification variant; the stand-up comic's opening contains two questions (authenticity and self-consciousness); Joe names both options and asks her to choose ("is the question how do you be authentic, or is the question how do I not be self-conscious? What's the question? Just to be clear."); she chooses self-consciousness; that choice becomes the contract for the session

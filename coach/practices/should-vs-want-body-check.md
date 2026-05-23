@@ -2,10 +2,10 @@
 type: practice
 id: should-vs-want-body-check
 title: "Should vs. Want Body Check"
-aliases: ["the should vs want body check", "how do you want to be vs how should you be", "feeling shoulds in the body", "feeling wants in the body", "the body diagnostic for should", "the body-felt should-want comparison", "should-want body experiment", "feel the difference in your body"]
+aliases: ["the should vs want body check", "how do you want to be vs how should you be", "feeling shoulds in the body", "feeling wants in the body", "the body diagnostic for should", "the body-felt should-want comparison", "should-want body experiment", "feel the difference in your body", "the clean-want vs constricted-want check", "the I-want-my-partner-to-be-happy vs I-want-$250000-a-year check", "the want-permission body diagnostic", "the speeded-up speech as want-constriction tell", "the body-test for which wants are permitted", "the categorize-what's-okay-to-want check", "the constricted-want tell"]
 tags: ["practice", "should", "wants", "body", "diagnostic", "somatic", "embodiment"]
 related: ["should-as-threat", "wants-over-shoulds", "how-do-you-want-to-be", "rebellion-or-submission-to-should", "find-the-want-behind-the-should", "impulse-to-should", "feel-over-figure", "staying-in-your-body", "exercises-need-body-voice-emotion"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2025-04-11_Why you keep sabotaging your own success (Coaching with Joe)"]
 ---
 
 # Should vs. Want Body Check
@@ -61,6 +61,27 @@ In each case, the body's response is the data. The content of the answer is seco
 
 The "how do you want to be" version is the most general and often the most useful, because it is about the quality of being rather than the specific action. It connects directly to [[how-do-you-want-to-be]].
 
+## The Clean-Want vs. Constricted-Want Variant
+
+A second version of the body check operates within the want frame itself. Two wants are compared, both stated as wants, but they produce different body responses. The clean want opens the body; the constricted want produces tension, speed, and tightness. The contrast reveals which wants the person has been freely wanting and which wants the system has prohibitions on.
+
+The move: name a want the person can speak cleanly ("I want my partner to be happy"). Then name a want the person finds harder to speak ("I want $250,000 a year"). Have the person say both out loud. Watch the body each time.
+
+> Joe: "If you say, I want my fiancée to be happy, let's hear you say that and see what happens."
+> Client: "I want my fiancée to feel happy."
+> Joe: "Yeah. Okay. Now I want $250,000 a year. What's that one?"
+> Client: "I want $250,000 a year."
+> Joe: "Okay. How is it — how are those two things different?"
+> *(Source: Why You Keep Sabotaging Your Own Success)*
+
+The client's body did the reporting. The first statement was loving and soft. The second statement required tightening and acceleration. The client noticed the difference in real time: "even me saying it the second time, I'm catching myself trying to be more gentle and calming and loving."
+
+The diagnostic feature: when the want is constricted, the person speeds up, tightens, and drops the love from the system. The acceleration is the body's report that it does not feel safe saying this thing. The clean-want speed and posture is the baseline; deviation from that baseline is the data.
+
+Joe then asks the broader categorization question: "What is it okay for you to want and what is it not okay for you to want?" The categorization surfaces the unspoken rules the system has been running about which wants are permissible. The rules are usually structural ("it's okay for me to want good things for others / not okay for me to want good things for myself") and predate the specific topic at hand.
+
+This variant works at the level of want-permission rather than at the want-vs-should level. Both variants are body checks; one tests the want-vs-should distinction, the other tests the permitted-want-vs-prohibited-want distinction. The same instrument; different applications.
+
 ## Why This Is a Body Practice, Not a Thinking Practice
 
 If the practice is done as an intellectual reflection ("hmm, what should I do, what do I want to do, interesting"), it produces nothing. The exercise requires the body's participation. The body has to actually register the should and the want as different states.
@@ -108,3 +129,4 @@ The practice can also produce discomfort when the want answers conflict with the
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2025-04-11_Why you keep sabotaging your own success (Coaching with Joe) — the clean-want-vs-constricted-want variant of the body check; the live A/B between "I want my fiancée to be happy" (clean, loving, soft) and "I want $250,000 a year" (tightened, sped up, no love in the system); the broader categorization question "what is it okay for you to want and what is it not okay for you to want?" that surfaces the unspoken want-permission rules the system runs; the structural pattern of "okay to want good things for others / not okay to want good things for self" that the categorization typically surfaces

@@ -5,7 +5,7 @@ title: "Talk to Your Parts and Ask for Trust"
 aliases: ["conversations with your body", "talking to your fear", "ask your fear to trust you", "talk to your body heart mind fear", "name what you don't like and still say I love you", "the trust request to a part", "can you give me a chance", "I'm unhappy with this and I love you", "the trust negotiation with the body", "conversational parts work"]
 tags: ["practice", "parts", "self-love", "trust", "body", "fear", "voice as care", "internal dialogue"]
 related: ["loving-all-parts", "honor-the-patterns-intent", "voice-as-care", "apply-view-to-fear", "apply-view-to-the-voice", "experimenting-with-the-voice", "fear-as-signal-of-care", "emile-three-relationships-with-fear"]
-sources: ["2022-10-26_Emile DeWeaver"]
+sources: ["2022-10-26_Emile DeWeaver", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
 ---
 
 # Talk to Your Parts and Ask for Trust
@@ -68,6 +68,24 @@ Because fear is one of Émile's named parts, the practice includes a fear-specif
 "Oh, I feel nervous about that. Okay, what's going on with that? What's beneath that? What's happening for you? What is it that's crying out to be healed in this moment? What is it that's crying out to be taken care of in this moment?" -- Émile DeWeaver, Life After Murder
 
 The questions are part of the conversation. The fear is asked what it is doing and what it needs. The asking presumes the fear has answers, which it usually does. See [[fear-as-signal-of-care]] for the related concept.
+
+## The Compressed Form: "Fear, I Love You"
+
+When the full three-move structure is reduced to its essential operation, only the love step remains. The address is direct: "Fear, I love you." The acknowledgment of what is happening and the ask for trust become implicit in the love.
+
+In the source session where Joe coaches a stand-up comic, the practice arrives in this compressed form at the end of an arc on her stage phobia:
+
+- **Joe:** "Connect with the fear. Okay, like right now, connect to the fear like you just connected with yourself, or you like connected with me. That's how you do it. You just did it."
+- **Guest:** "I literally just said, 'Fear, I love you.' Yeah, yeah, that's it."
+- **Joe:** "Yeah, yeah, yeah. That's how you cure a phobia. That's how you cure a phobia."
+
+*(Source: How Do I Overcome Self-Consciousness?)*
+
+The compressed form is the same practice. The fear is addressed as a "you." The address is from love. The relationship to the fear changes in the moment of the address. The phobia, which depended on the avoidance relationship, has nothing to feed on once the relationship has shifted.
+
+When to use the compressed form: at the end of an arc, when the longer conversation with the fear has already happened or when the immediate situation calls for a single compressed move. The full Émile form is more reliable for working through a chronic part-relationship over time. The compressed form is more useful for the in-the-moment cure of an acute fear that has been treated as an enemy.
+
+See [[love-the-thing-you-fear-cures-the-phobia]] for the dedicated principle treatment of the compressed form and why it works as a phobia cure.
 
 ## What People Think Is Crazy About It
 
@@ -132,3 +150,4 @@ Sincere and conversational. The practice cannot be done as an exercise. It has t
 ## Sources
 
 - 2022-10-26_Emile DeWeaver (Life After Murder; rebroadcast of the 2022-06-10 conversation)
+- 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — the compressed form of the practice as the cure for a phobia; Joe instructs the stand-up comic to "connect with the fear like you just connected with yourself, or you connected with me"; she says out loud "Fear, I love you"; Joe affirms "That's how you cure a phobia. That's how you cure a phobia"

@@ -2,9 +2,9 @@
 type: concern
 id: money-is-bad
 title: "Money is bad / I don't want to play that game"
-aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game", "anyone with money is a prick", "the guy in the Porsche is a douchebag", "money makes people assholes", "really rich people are bad", "money took my parent's love away", "money is what took them away from me", "I have a restriction around money", "I keep having restriction around money", "I'm constricted around money", "things are happening and I'm still restricted around money", "the body restriction around money", "I want it but I push it away", "I want abundance but I keep blocking it", "money is dirty", "money is contaminating", "rich people are dirty", "having money makes you dirty", "money passes through dirty hands", "I don't deserve to have money", "having money is undeserved", "guilty to have money", "I feel guilty for having money", "the dirty-money presentation", "the contamination presentation"]
-tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion", "constriction", "body", "contamination", "dirty"]
-sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe", "2024-06-24_How Do I Create Financial Stability？"]
+aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game", "anyone with money is a prick", "the guy in the Porsche is a douchebag", "money makes people assholes", "really rich people are bad", "money took my parent's love away", "money is what took them away from me", "I have a restriction around money", "I keep having restriction around money", "I'm constricted around money", "things are happening and I'm still restricted around money", "the body restriction around money", "I want it but I push it away", "I want abundance but I keep blocking it", "money is dirty", "money is contaminating", "rich people are dirty", "having money makes you dirty", "money passes through dirty hands", "I don't deserve to have money", "having money is undeserved", "guilty to have money", "I feel guilty for having money", "the dirty-money presentation", "the contamination presentation", "if you have money you've done bad things", "you're almighty and powerful if you have money", "the blue-collar attribution about money", "I grew up blue-collar so money is bad", "I haven't worked hard enough for money", "I don't have the skill sets for money", "the value I bring doesn't equal what I should be paid", "I haven't earned the money", "the I-haven't-earned-it variant", "I'm a bad person if I want a shit ton of money"]
+tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion", "constriction", "body", "contamination", "dirty", "earning", "deserving", "class"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe", "2024-06-24_How Do I Create Financial Stability？", "2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode)"]
 ---
 
 # Money is bad / I don't want to play that game
@@ -120,6 +120,50 @@ Joe will not push the person toward wanting money. The fix is not "you should wa
 
 Joe will not let "it's just business" pass unexamined. That phrase signals the maximum personal charge, defended. See [[just-business-vs-impersonal]].
 
+## The Blue-Collar Attribution Variant
+
+A specific environmental form this concern takes: the coachee grew up in a blue-collar household where money was implicitly framed as either evidence of immoral acquisition ("you've done bad things to make that money") or as evidence of inappropriate power ("you're almighty and powerful"). The two framings often coexist in the same household. Money is bad-coded twice: once as morally suspect (acquired through harm), and once as power-coded (the wealthy hold force the household doesn't have).
+
+The coachee enters adulthood with both attributions installed. Wanting money requires becoming someone whose acquisition is suspect or whose power-position is illegitimate. The wanting itself is structurally barred by the class-coded moral architecture the body grew up inside.
+
+"I grew up in a very blue-collar household where I just made the association that if you have a lot of money, you've done bad things to make that money, or you're almighty and powerful." -- Coachee, Money Worries, Identity, and the Trap of Being 'Good'
+
+The class-attribution version is often less openly moralized than the political-stance version. The coachee doesn't argue that rich people are bad; they just feel that becoming someone with money would make them bad, or would betray the family of origin, or would mark them as belonging to a class they were taught to be wary of. The work here is at the same level as the moral version — locate the surrogate, feel the original imprint — but with attention to the class-coded inheritance that the moralized version often misses.
+
+The class-coded variant often pairs with the [[wealth-identity-shift|self-definition-as-having]] obstacle: the coachee cannot define themselves as someone-with-money because the someone-with-money in the original household was defined as bad or as other. The self-definition shift requires not just personal work but also a re-relationship with the class identity of the original household.
+
+## The "I Haven't Earned It" Variant
+
+A specific cognitive form of the concern that arrives without the moral attack on the wealthy: the coachee believes they don't deserve money because they haven't worked hard enough, don't have the skill set, or aren't providing value equal to the income they would need. The rejection is dressed in the language of meritocratic deserving rather than in the language of moral opposition.
+
+"I haven't worked hard enough. I don't have the skill sets for it. The value I bring doesn't equal to the amount of money that I know I should be paid for." -- Coachee, Money Worries, Identity, and the Trap of Being 'Good'
+
+The framing sounds reasonable. Effort should be rewarded; skill should produce income; value should produce compensation. The trouble with the framing is that it does not match how income actually works in the world. Joe's counter-move is to make this visible by example: "Elon Musk really probably didn't work much harder than the guy who owns my local tire shop. Can you point to any place in the world where somebody's financial gain is deserved by how much effort they put in?"
+
+The coachee, asked to defend the meritocratic frame, cannot. The frame collapses on inspection. The interesting question is then: what is the frame doing? Why has the coachee installed an income-deservedness criterion that does not match observable reality?
+
+The answer is usually the surrogate function. The coachee has imported the deservedness criterion from somewhere else (love, attention, parental approval) and applied it to money. The body uses the same template across domains. If love had to be earned through value-provision, money has to be earned through value-provision. The criterion has nothing to do with money; it has to do with the original conditional-love wiring. See [[wanting-got-wired-to-unlovability]] for the developmental mechanism.
+
+The coaching move when this variant surfaces:
+
+- Surface the deservedness framing.
+- Test it against the world ("can you point to any place where wealth is deserved by effort?"). The coachee will see the frame doesn't match reality.
+- Apply the same frame to love directly: "Joe, you need to add value if you want my love." Have the coachee say it out loud. The body will reject the statement as obviously false in the love domain.
+- Name the import: the same criterion the coachee will reject for love is the one they are applying to money. The money domain has inherited the deservedness wiring from somewhere it doesn't actually apply.
+- Move toward [[wealth-identity-shift]] and the felt gratitude practice that begins to install "I have plenty" as the operative self-definition rather than "I haven't earned enough."
+
+## The "I'm a Bad Person if I Want a Shit Ton of Money" Variant
+
+A specific gateway form of the concern that surfaces when the coachee uses softened language ("abundance," "financial consistency," "stability") instead of the direct want ("I want a shit ton of money"). The softening is the symptom; underneath is the belief that wanting the direct version would mark the coachee as a bad person.
+
+"I have a friend of mine called me out on this. He's like, I think it's me being scared to say that out loud, that I'm a bad person if I want to acquire a shit ton of money." -- Coachee, Money Worries, Identity, and the Trap of Being 'Good'
+
+The diagnostic move when this presents: have the coachee say the direct form out loud. "Say, 'I want a shit ton of money.'" Notice the body. The constriction at the chest, the speed-up in the voice, the absence of the love that was present in non-money wants — all are visible. The diagnostic doesn't have to argue. The body shows the structure that the softened language was hiding.
+
+The softening (abundance, consistency, stability) is doing the same work the moralized stance does in the loud version of this concern: it defends the coachee from being marked as the bad person who wanted what is forbidden. The work is the same: locate the wanting, feel the body's response, surface the prohibition, trace it back, depersonalize the money.
+
+See [[say-the-forbidden-want-out-loud]] for the move that turns the softened want into the direct want and lets the body show what was being managed.
+
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
@@ -128,3 +172,4 @@ Joe will not let "it's just business" pass unexamined. That phrase signals the m
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
 - 2024-01-05_What's Bad About Money? Coaching with Joe — the body-restriction presentation (constriction without moralizing) and the "any amount makes me selfish" diagnostic answer; the live use of the substitution-dialogue move; the apology to money for the projection; the deeper-than-money fear (being seen) that surfaces once the surrogate is addressed
 - 2024-06-24_How Do I Create Financial Stability? — the dirty/contamination variant where the rejection takes the shape of "money is dirty, passes through dirty hands, makes me dirty"; the asking-while-rejecting presentation where the contradiction is invited and surfaced via "tell me all the bad things about money"; the demand for evidence move; the embodied closing through the money-as-the-sun reframe
+- 2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode) — the blue-collar attribution variant (money is either acquired through bad acts or signifies illegitimate power, both framings inherited from the household of origin); the "I haven't earned it" variant where the rejection is dressed in meritocratic-deservedness language that doesn't match observable reality; the "I'm a bad person if I want a shit ton of money" gateway form where soft language (abundance, consistency, stability) hides the direct want; the body-tell when the direct want is said out loud as the diagnostic that surfaces the prohibition the softened language was managing

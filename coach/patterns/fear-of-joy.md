@@ -5,7 +5,7 @@ title: "Fear of Joy"
 aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
 tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
 related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-05-10_Gratitude", "2024-09-27_Pleasure", "2024-10-16_Pleasure"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-05-10_Gratitude", "2024-09-27_Pleasure", "2024-10-16_Pleasure", "2025-04-11_Why you keep sabotaging your own success (Coaching with Joe)"]
 ---
 
 # Fear of Joy
@@ -214,6 +214,27 @@ The principle Joe states in response: "The question, is it okay? Well, it's happ
 
 The reframe shifts the apparatus from "is this state acceptable?" to "this state is here; the work is to be in it." The same reframe applies whether the clamp is showing up as somatic contraction or as cognitive interrogation. The mechanism is the same; the form differs.
 
+## Impermanence Is What Makes the Thing Sweet
+
+A specific reframe Joe uses when the fear-of-joy is anchored in "I will lose this." The fear assumes that the losing is what ruins the having. The reframe inverts: the losing is what makes the having sweet in the first place.
+
+The food example Joe uses in the live session: "I mean, you're going to finish eating an ice cream cone, but you're not scared of ice cream. You have an idea about it being taken away that makes the taking away not sweet." The eating ends every time. The ending does not stop the eating from being enjoyable. The idea that the ending should not happen is what makes the ending bitter.
+
+The extension Joe makes immediately: "A really great meal would not be so great if you ate it 24 hours a day. Even if you ate it every day at lunch, it would not be great soon." The impermanence is structural to the goodness, not a flaw the goodness has to overcome. The good meal is good because it ends. The good feeling is good because it is finite. The losing is the price of the having.
+
+The coachee's response when this lands: "Yeah, it would go from this fantastic meal to just yeah, the new standard." The impermanence-as-the-condition-of-sweetness is felt rather than argued.
+
+> Joe: "So what makes it not sweet that these things pass?"
+> Client: "Me."
+> Joe: "My — of course, if we're gonna blame somebody, it's gonna be you. ... What makes it that losing the thing that makes you feel good doesn't make the thing that makes you feel good sweeter?"
+> *(Source: Why You Keep Sabotaging Your Own Success)*
+
+The question — "what makes the losing not sweeten the having?" — surfaces the relationship the person has constructed with the losing. The relationship is what ruins the sweetness, not the losing itself. Different relationship, different sweetness.
+
+This reframe is distinct from the "joy is impermanent so welcome it anyway" framing in [[gratitude-as-full-body-sport]]. The impermanence-makes-it-sweet framing goes further: the impermanence is not a fact to be tolerated; it is the active ingredient. The thing is good *because* it ends. The thing would not be good if it did not end.
+
+This reframe works on the version of fear-of-joy where the person tracks "what will I do when this ends?" as their primary relationship to good states. The reframe moves the relationship from "this will end and that will be bad" to "this will end and that is what makes it good now." The shift is in the temporal stance, not in the prediction.
+
 ## The Asymmetry: We Track Bad-Following-Good But Not Good-Following-Bad
 
 A neurological pattern Joe identifies that underpins the fear of joy:
@@ -268,3 +289,4 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - 2024-05-10_Gratitude (the "kinky to feel good in public" social-discomfort framing; the Tara-eating-purple-potatoes example of someone who has not adopted the social containment; the extension of the clamp into sexuality and masturbation as transactional; the framing of fear-of-joy as one specific reason people resist gratitude practice -- they're scared the gratitude will release a level of pleasure they're not comfortable having visible)
 - 2024-09-27_Pleasure (the pleasure-is-more-intense-than-rage framing: the intensity of pleasure and peace exceeds the intensity of rage, which is why the clamp on positive emotion is often stronger than the clamp on negative emotion; the orgasm parallel: the difficulty some have with sexual orgasm is the same somatic clamp operating in a familiar domain, and life itself becomes the orgasm when the clamp is generalized; the developmental origin of the fear in punishment-while-feeling-good [[punishment-when-good-stings-more]]; the Tara-bacon-wrapped-dates example as another instance of the cultural cap on visible pleasure [[tara-bacon-wrapped-dates]])
 - 2024-10-16_Pleasure (re-edited version of the same conversation; the fear-of-joy and intensity-of-pleasure-exceeds-rage framing is recounted identically)
+- 2025-04-11_Why you keep sabotaging your own success (Coaching with Joe) — the live in-session use of the fear-of-joy diagnostic with a coach who creates a hurdle every time the good feeling arrives ("you have it and then you immediately create something to stop that"); the impermanence-makes-the-thing-sweet reframe with the ice-cream-cone and the great-meal-eaten-24-hours-a-day examples; the somatic verification ("yeah, it would go from this fantastic meal to just the new standard")

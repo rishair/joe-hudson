@@ -2,10 +2,10 @@
 type: example
 id: the-politician-and-the-acolytes
 title: "The Politician and the Acolytes (How the Voice Retains Its Authority)"
-aliases: ["the politician you hate and the acolytes", "voice as politician with acolytes", "acolyte response to the voice", "the politician metaphor for the voice", "watching a politician you don't like with crowd of believers", "voice in head as politician you wouldn't trust", "stop being an acolyte of the voice", "you're an acolyte to the voice", "the voice keeps its power because you nod along"]
-tags: ["voice in head", "example", "metaphor", "authority", "untruth"]
-related: ["voice-in-the-head", "untruth-in-every-thought", "lawyer-the-voice", "experimenting-with-the-voice", "voice-as-care", "dont-fight-the-voice"]
-sources: ["2024-09-20_How to Break Free From Overthinking"]
+aliases: ["the politician you hate and the acolytes", "voice as politician with acolytes", "acolyte response to the voice", "the politician metaphor for the voice", "watching a politician you don't like with crowd of believers", "voice in head as politician you wouldn't trust", "stop being an acolyte of the voice", "you're an acolyte to the voice", "the voice keeps its power because you nod along", "the okay-yes-sir-whatever-you-say response to the voice", "the bad-management-style response", "the I-see-how-scared-you-are response", "the fuck-you-shut-the-fuck-up response", "the yes-sir-I'll-get-right-on-that response", "four sample responses to the voice", "the bad-politician-and-their-acolytes example for the voice"]
+tags: ["voice in head", "example", "metaphor", "authority", "untruth", "responding-to-voice"]
+related: ["voice-in-the-head", "untruth-in-every-thought", "lawyer-the-voice", "experimenting-with-the-voice", "voice-as-care", "dont-fight-the-voice", "my-inner-critic-wont-stop"]
+sources: ["2024-09-20_How to Break Free From Overthinking", "2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode)"]
 ---
 
 # The Politician and the Acolytes
@@ -46,11 +46,36 @@ Withdrawing the acolyte response is what opens the space for the lawyer to do it
 - When the person treats the voice as a source of information rather than a process to investigate.
 - When the person needs a fresh frame for why the voice retains its power despite years of awareness.
 - When teaching the basic move of withdrawing automatic agreement.
+- When the person has an active inner critic and Joe wants to introduce the [[experimenting-with-the-voice|experiment-with-responses]] practice — the metaphor is the conceptual frame; the practice is the application.
+
+## The Live Sample-Responses Version (Bobby Session)
+
+In the Bobby session, Joe extended the politician metaphor into a live demonstration of the range of possible responses. After establishing that the inner critic was running ("you should be doing more, why didn't you spend more time, why did you only do 4 things, you could have done 6") and that the coachee was responding as an acolyte ("yeah, okay, whatever you say"), Joe offered a menu:
+
+"You could say, hey, you know, that's pretty bad management style. Or you could say, I see how scared you are. Or you could say, fuck you, shut the fuck up. Or you could say, yes, sir, I'll get right on that. Right? You have all sorts of options that you can respond to the way that that voice speaks." -- Joe Hudson, Money Worries, Identity, and the Trap of Being 'Good'
+
+The four sample responses illustrate the range:
+
+- **"That's pretty bad management style."** Names the voice's failure as a manager. Treats the voice as a peer who is doing a poor job of motivating, not as an authority whose verdicts are correct.
+- **"I see how scared you are."** Names the fear underneath the critical content. Treats the voice as care with bad strategies. See [[voice-as-care]].
+- **"Fuck you, shut the fuck up."** Direct refusal of the authority. Not a sophisticated response, but functional in the moment of a high-pressure critical voice.
+- **"Yes, sir, I'll get right on that."** Mock-compliance that exposes the absurdity of the demand by accepting it theatrically.
+
+The four are not ranked. They are options. Joe's instruction was to write down 20 of them and experiment with one every day or every two or three days. The point is not to find the right response; the point is to experience the relationship as flexible. See [[experimenting-with-the-voice]] for the full practice the metaphor sets up.
+
+## The Acolyte Bridge to the Practice
+
+The acolyte metaphor explains why the [[experimenting-with-the-voice]] practice works: each new response is a refusal of the acolyte's nod. The voice's authority depends on automatic agreement; any non-default response withdraws the agreement and the voice loses operational leverage. The metaphor and the practice are paired moves: the metaphor names what is happening; the practice intervenes in what is happening.
+
+This pairing also makes the practice less arbitrary. Without the metaphor, "experiment with different responses" can sound like a random self-help suggestion. With the metaphor in place, the practice is structurally motivated: of course you would refuse the acolyte response — you would refuse it for a politician you don't trust; the only oddity is that you have been performing it for the voice in your head.
 
 ## Tone
 
 Slightly mischievous. The politician choice is deliberate — Joe picks the figure the listener will most cleanly reject. The energy of the metaphor is "you already know how to do this, you just have not been applying it inward."
 
+In the Bobby session, the menu of responses was delivered with the same energy: not as prescriptions, but as a tasting flight. The lightness of the menu lets the coachee try one without committing to it as their new should — which would itself just be the acolyte's response to a different politician.
+
 ## Sources
 
-- 2024-09-20_How to Break Free From Overthinking
+- 2024-09-20_How to Break Free From Overthinking — the original politician-and-acolyte metaphor; the connection to withdrawing automatic agreement as the prerequisite for any other inner-critic work
+- 2025-04-11_Money Worries, Identity, and the Trap of Being 'Good' (Coaching Episode) — the live sample-responses version: the four illustrative responses (bad management style / I see how scared you are / fuck you shut the fuck up / yes sir I'll get right on that); the explicit pairing with the experiment-with-20-responses practice prescription; the framing that the coachee's job is to experiment rather than to find the right response

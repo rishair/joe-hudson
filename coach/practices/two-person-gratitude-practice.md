@@ -2,10 +2,10 @@
 type: practice
 id: two-person-gratitude-practice
 title: "The Two-Person Gratitude Practice (Savor, Short, Felt)"
-aliases: ["two-person gratitude practice", "the two-person gratitude practice", "back-and-forth gratitude practice", "partner gratitude practice", "the 7-10 minute gratitude practice", "the sitting-across-from-someone gratitude practice", "the savoring gratitude practice", "less than a sentence gratitude", "feel before you say gratitude practice", "the gratitude-with-a-partner practice", "couples gratitude practice", "the basic gratitude practice"]
-tags: ["practice", "gratitude", "partnership", "couples", "savoring", "felt-sense", "daily-practice"]
-related: ["gratitude-as-full-body-sport", "gratitude-rounds-before-meetings", "daily-gratitude-for-your-own-transformation", "gratitude-around-the-problem", "always-something-spectacular-happening", "gratitude-as-acknowledgment-of-greater-force"]
-sources: ["2024-05-10_Gratitude"]
+aliases: ["two-person gratitude practice", "the two-person gratitude practice", "back-and-forth gratitude practice", "partner gratitude practice", "the 7-10 minute gratitude practice", "the 10-minute gratitude practice", "the sitting-across-from-someone gratitude practice", "the savoring gratitude practice", "less than a sentence gratitude", "feel before you say gratitude practice", "the gratitude-with-a-partner practice", "couples gratitude practice", "the basic gratitude practice", "gratitude practice for material things", "10 minutes a day 3 months gratitude with partner", "the gratitude-for-material-stuff practice", "the gratitude practice as wealth-identity shift", "the savor-it-like-a-good-meal gratitude practice", "the assigned-coaching-homework gratitude practice", "the partner gratitude as financial-identity work"]
+tags: ["practice", "gratitude", "partnership", "couples", "savoring", "felt-sense", "daily-practice", "wealth", "self-definition", "money"]
+related: ["gratitude-as-full-body-sport", "gratitude-rounds-before-meetings", "daily-gratitude-for-your-own-transformation", "gratitude-around-the-problem", "always-something-spectacular-happening", "gratitude-as-acknowledgment-of-greater-force", "wealth-identity-shift", "same-scarcity-story-regardless-of-wealth", "when-experiments-become-management"]
+sources: ["2024-05-10_Gratitude", "2025-04-11_Why you keep sabotaging your own success (Coaching with Joe)"]
 ---
 
 # The Two-Person Gratitude Practice (Savor, Short, Felt)
@@ -141,6 +141,43 @@ The brevity of the introduction matters. Long explanations make the practice sou
 - After a big event (a death, a birth, a breakup, a celebration) when both people want to mark the moment
 - When a couple is in conflict and needs a shared practice that does not require resolving the conflict first
 - As a team practice between two members of a team, especially if they are co-founders or close collaborators
+- As assigned homework when the coachee's presenting concern is financial scarcity or chronic not-enoughness; see the Material-Stuff Application below
+
+## The Material-Stuff Application (Wealth-Identity Shift)
+
+A specific assigned variation Joe gives when the coachee's presenting concern is financial — chronic cash flow distress, the feeling of not-enough, the felt restriction around money. The practice runs the same way (sitting across from a partner, savoring, less than a sentence) but with one specific aim: gratitude oriented at the material stuff that is already present in the person's life.
+
+The instructions:
+
+- 10 minutes a day
+- With the partner (or fiancée, spouse, close friend)
+- For 3 months
+- Out loud
+- Focused specifically on material things: the food on the table, the roof, the laptop, the phone, the ability to pay the bill, the work that exists, the means that are present
+
+"I'm so grateful that I have the ability to do podcasts. I'm so grateful that the podcast that I did created this amazing coaching session for free. I'm so grateful that we have food on the table. I'm so grateful that I can go get a job." -- Joe Hudson, Why You Keep Sabotaging Your Own Success
+
+Why material stuff specifically: the coachee with the scarcity self-definition is constantly defining themselves as "the person who doesn't have enough" of material things. Gratitude oriented at the abstract (gratitude for personal growth, gratitude for connection) does not move the material self-definition. Gratitude oriented at the material — specifically at the material things that are already present — directly contradicts the self-definition the system has been running.
+
+The mechanism: each instance of felt gratitude for a material thing that is present is a moment in which the body operates as "someone who has." Repeated 10 minutes a day for 3 months, the body's default self-definition begins to shift from "someone who doesn't have" to "someone who has plenty." See [[wealth-identity-shift]] for the full principle this practice operationalizes.
+
+The "savor like a good meal" instruction: the gratitude is treated with the slowness of a meal one is enjoying, not the speed of a list one is completing. The partner says the gratitude; both savor it; the next partner says theirs; both savor. The savoring is what does the work; the listing is the structure that holds the savoring.
+
+## The Anti-Pattern Warning for This Variation
+
+The wealth-identity application is unusually vulnerable to becoming an instrument used to manage the self into prosperity. The person hears the instructions and reaches for the practice as the next thing they have to do correctly to fix the money problem. This is precisely the configuration that destroys the practice.
+
+Joe is explicit when assigning the practice with the material-stuff aim:
+
+"You're not doing these to get better. You're doing these as experiments. As soon as you do — as soon as you do them to get better, they will have no effect that you want in your life." -- Joe Hudson, Why You Keep Sabotaging Your Own Success
+
+The instruction is structural. The practice is offered as an experiment, not as a fix. The moment the practice becomes "the thing I am doing so that I will have more money," the practice has been converted into [[when-experiments-become-management]] and will no longer move the self-definition it was designed to move.
+
+The corrective is in the framing at the start: "This is an experiment. We don't know what will happen. Let's run it for 3 months and see." The experimental frame protects the practice from the instrumentalization that would undo it.
+
+This warning applies more strongly to the wealth-identity application than to the basic two-person practice, because the wealth-identity application is being given to someone who already has the instrumentalization wiring active in the very domain the practice is meant to address. The same person who has been doing money strategy from the doing-to-earn position will reach for the gratitude practice from the same position. The reaching is the obstruction.
+
+See also [[dont-half-ass-the-experiment]] for the related warning: the practice can also be undone by being performed without actually being done. The two failure modes (instrumentalize and half-ass) are the two ways the practice fails. Both have to be guarded against simultaneously.
 
 ## Upstream (What Leads Here)
 
@@ -166,3 +203,4 @@ The instruction is delivered as simple and direct. The practice is not exotic. I
 ## Sources
 
 - 2024-05-10_Gratitude (the canonical instruction for the two-person practice; the specific 7-10 minute duration; the "savor that" rhythm; the "less than a sentence" rule with the hedging-and-head-residence reasons; the "feel it before you say it" sequence with the internal-rehearsal-permitted clarification; the "nice and sunk in" preparation required before extending to gratitude-inside-difficulty)
+- 2025-04-11_Why you keep sabotaging your own success (Coaching with Joe) — the live assignment of the practice to a coach in financial scarcity; the explicit material-stuff aim ("all the material stuff you have in your life"); the 10-minutes-a-day-for-3-months prescription with the partner; the "savor it like a good meal" rhythm; the self-definition mechanism ("this actually changes your self-definition to somebody who has enough"); the explicit experiment-not-fix framing ("you're not doing these to get better, you're doing these as experiments"); the warning that the practice loses its effect the moment it becomes a tool to manage the self into prosperity

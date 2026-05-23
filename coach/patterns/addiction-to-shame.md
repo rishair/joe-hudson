@@ -2,10 +2,10 @@
 type: pattern
 id: addiction-to-shame
 title: "Addiction to Shame (The Shame Adds to the Thrill)"
-aliases: ["addicted to shame", "shame as the thrill", "shame is the addiction", "wiring fires together", "the dog running through the fence", "running through the fence pattern", "shame as part of the appetite", "I want it and I'll take the shock", "shame-wired pleasure", "the shameful behavior is wired to need the shame"]
-tags: ["shame", "addiction", "compulsion", "habits", "wiring", "pattern"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "shame-stagnates-emotion", "the-shame-avoidance-loop", "electric-fence-with-dog", "kinked-emotions", "negative-self-reinforcement", "familiar-over-safe", "heart-in-a-box-want-to-drink", "should-i-stop-drinking", "do-i-stop-drinking-session"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2024-06-13_Do I Stop Drinking？"]
+aliases: ["addicted to shame", "shame as the thrill", "shame is the addiction", "wiring fires together", "the dog running through the fence", "running through the fence pattern", "shame as part of the appetite", "I want it and I'll take the shock", "shame-wired pleasure", "the shameful behavior is wired to need the shame", "addicted to self-blame", "the self-blame addiction variant", "addicted to ruminating self-blame", "you're addicted to the shame more than anything else", "shame addiction in the self-blame form", "shame as the recurring activity in itself", "the self-flagellation addiction", "shame as the thing you keep returning to", "I'm a shame addict"]
+tags: ["shame", "addiction", "compulsion", "habits", "wiring", "pattern", "self-blame", "rumination"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "shame-stagnates-emotion", "the-shame-avoidance-loop", "electric-fence-with-dog", "kinked-emotions", "negative-self-reinforcement", "familiar-over-safe", "heart-in-a-box-want-to-drink", "should-i-stop-drinking", "do-i-stop-drinking-session", "i-cant-forgive-myself-for-hurting-them", "rumination-creates-what-it-ruminates-about", "self-blame-as-tether-to-the-lost", "15-minutes-of-self-love-physical-therapy-for-the-heart", "feel-the-shame-then-feel-the-opposite"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2024-06-13_Do I Stop Drinking？", "2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Addiction to Shame (The Shame Adds to the Thrill)
@@ -70,6 +70,24 @@ It also explains why [[negative-self-reinforcement]] cycles persist: the self-cr
 
 This pattern is distinct from but adjacent to [[heart-in-a-box-want-to-drink]]. The addiction-to-shame pattern names the case where shame has wired into the appetite as part of its appeal (the dog running through the fence). The heart-in-a-box pattern names the case where the substance is providing positive access to a boxed-off quality (warmth, expression, connection) that is otherwise unavailable. Both can be operating at once on the same substance. The drinking can be both a relief from shame and a workaround for the boxed heart. The work addresses both: name the shame loop, name the boxed quality, demonstrate the access without the substance.
 
+## The Self-Blame Variant (No Substance Required)
+
+The pattern does not require a substance or an external behavior to run. It can run entirely as self-blame and rumination. The "activity" is the self-flagellation itself; the appetite is the self-criticism; the shame is the same shame that has been wired in since childhood.
+
+In this variant, the person reaches for the self-blame the way another person reaches for a drink. The reaching feels compulsive even when they are not aware of it as such. The post-event rumination ("I keep going over what I said"), the persistent self-criticism after every interaction, the cycling on "I'm not enough" — these are all the activity. The shame is wired into the act of doing the activity.
+
+The diagnostic is the same. The person has tried to stop the self-criticism. The stopping does not stick. The self-criticism returns, often more compulsively than before. Each round produces shame, which fuels the next round. The cycle persists for years.
+
+In the canonical breakup session, Joe names this directly:
+
+"Yeah, like, yep, you're addicted to the shame more than anything else, I think, sir." -- Joe Hudson, Why Can't I Move On After My Breakup?
+
+The client recognizes it instantly: "Yeah, yeah, that, that, that feels right."
+
+The recognition is the diagnostic. People in this variant of the pattern almost always know it once it is named. The naming releases the disguise — the self-criticism stops looking like virtue ("I'm a responsible person who takes accountability") and starts looking like what it is (a compulsive behavior held in place by the shame it produces).
+
+The exit is the same as for substance-wired shame. Find the actual want underneath — not the rumination-wired version of being a good person, but the clean want for connection, love, peace. Address the shame directly with love. The compulsive self-blame loses its function the way the compulsive activity does. See [[15-minutes-of-self-love-physical-therapy-for-the-heart]] for the practice that addresses this variant specifically, and [[rumination-creates-what-it-ruminates-about]] for the precise mechanism of how the self-blame produces more material to self-blame about.
+
 ## Upstream (What Leads Here)
 
 - A natural appetite (sex, eating, spending, attention, substances) that the person was taught early to feel bad about
@@ -95,3 +113,4 @@ Curious, not pathologizing. The pattern is framed as fascinating wiring rather t
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2024-06-13_Do I Stop Drinking？ (a live coaching session where the shame-and-drinking wiring is operating alongside the boxed-heart access mechanism; demonstrates how the two patterns can interlock in a single substance use, and how the work addresses both)
+- 2025-04-04_Why Can't I Move On After My Breakup？ (Coaching Session With Joe Hudson) — the canonical demonstration of the self-blame variant: no substance involved, the activity is the rumination/self-flagellation itself, the appetite is the self-criticism, the shame is wired into the act of doing the activity; Joe names it directly — "you're addicted to the shame more than anything else"; client recognizes it instantly; the exit is the same — find the actual want underneath, address the shame with love, the compulsive self-blame loses its function over time
