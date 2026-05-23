@@ -5,7 +5,7 @@ title: "Comparative Mind"
 aliases: ["comparison mind", "comparing yourself", "the Tibetan teaching on comparison", "better than worse than equal to", "comparative mind is misery", "the comparative mind", "comparison without emotional friction", "comparison becomes data collection", "the disarmed comparative mind"]
 tags: ["comparison", "Tibetan Buddhism", "judgment", "suffering", "concept"]
 related: ["limiting-belief", "judgment-vs-discernment", "using-limiting-belief-frame-to-judge-others", "shame-as-disconnection", "untruth-in-every-thought", "voice-in-the-head", "emotional-fluidity"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2023-10-27_Emotional Fluidity - Emotion Series #13"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2023-10-27_Emotional Fluidity - Emotion Series #13", "2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Comparative Mind
@@ -74,12 +74,25 @@ When someone is judging another person and presenting the judgment as insight. W
 
 The Tibetan framing is short and memorable, which is part of why Joe uses it. It blocks all three escape routes at once. The person cannot retreat to "I'm just being humble" or "I'm just being honest" because both "worse than" and "equal to" are also called out as misery.
 
+## Welcoming the Comparative Mind (As Opposed to Removing It)
+
+A specific live coaching move for the comparative mind: don't help the person get rid of it. Welcome it specifically, with the brilliance of its function named.
+
+When the person identifies the comparative mind as their problem ("I'm always in a comparative mindset and I know it's bad"), the instinctive move is to help them stop comparing. The better move is to welcome the comparative mind as a part of them that is doing real work. In one live session, Joe modeled the welcome aloud:
+
+"I welcome my comparative mind. It helps me be good in work. There's a brilliance in it." -- Joe Hudson, How Do I Love Myself? (Coaching Session)
+
+The function is real. The comparative mind, in many people, does help them be good in work. It is the engine of noticing what better looks like, of orienting toward improvement, of refining the standard. The misery comes from the emotional friction that accompanies the comparison, not from the comparing capacity itself. Welcoming the capacity dissolves the friction without dissolving the capacity. This is the same mechanism as "comparison without emotional friction becomes data collection" — but operationalized as a coaching move rather than waiting for emotional fluidity to mature.
+
+See [[welcome-the-pattern-by-naming-its-brilliance]] for the general move this is a case of.
+
 ## Upstream (What Leads Here)
 
 - When a person is judging another person and treating the judgment as truth.
 - When a self-development framework has become a superiority position.
 - When [[voice-in-the-head]] is producing comparative content.
 - When someone is feeling shame and the shame is structured as a comparison.
+- When a person identifies their own comparative mind as the obstacle to self-love.
 
 ## Downstream (Where This Leads)
 
@@ -87,9 +100,11 @@ The Tibetan framing is short and memorable, which is part of why Joe uses it. It
 - Toward [[shame-as-disconnection]] when the comparison is producing shame.
 - Toward [[using-limiting-belief-frame-to-judge-others]] when the framework itself is being weaponized.
 - Toward [[awareness-as-change-agent]]: noticing the comparison shifts it.
+- Toward [[welcome-the-pattern-by-naming-its-brilliance]] when the comparative mind is the named obstacle in a self-love session.
 
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
 - 2022-10-26_Limiting Beliefs
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the "comparison without emotional friction becomes data collection" framing; the observation that emotional fluidity disarms comparative mind without requiring the cessation of comparison itself)
+- 2025-05-02_How Do I Love Myself？ (Coaching Session With Joe Hudson) (the live welcoming move applied to the comparative mind specifically: "I welcome my comparative mind. It helps me be good in work. There's a brilliance in it." — modeled aloud as the coaching response when the guest identified the comparative mind as the obstacle to self-love)

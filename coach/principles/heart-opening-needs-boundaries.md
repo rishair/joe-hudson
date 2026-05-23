@@ -96,6 +96,7 @@ Same structural shape. A valuable inner-work insight (projection, heart-opening,
 - Toward [[triggers-reduce-when-you-know-you-can-leave]]: the structural mechanism that makes open-hearted boundaries protective.
 - Toward [[capacity-to-love-other-is-capacity-to-love-self]]: the principle that ties self-inclusion to capacity for love of others.
 - Toward [[dont-evangelize-the-work]] and [[spiritual-narcissism]]: the related failure modes when inner work becomes self-abandonment in disguise.
+- Toward [[love-the-emotion-and-be-boundaried-with-it]]: the internal application of the same principle. The both-stances move applied to a difficult feeling (guilt, fear, shame) rather than to a difficult person. Loving the emotion without boundaries means following its directive (self-erasure); refusing the emotion without love means fighting it (internal war). Both stances run at once.
 
 ## Tone
 

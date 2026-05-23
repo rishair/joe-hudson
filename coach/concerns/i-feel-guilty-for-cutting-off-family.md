@@ -111,6 +111,7 @@ The typical flow from this concern. Not a script. A map of likely moves with bra
 - [[i-need-to-set-boundaries]] — often comes first in time. This concern arrives after the boundary is already set.
 - [[i-caretake-people]] — the underlying pattern that often required the eventual separation.
 - [[im-exhausted-holding-space-for-my-partner]] — a different application of the "I should be able to keep giving" pattern that this concern resolves in a different direction.
+- [[i-want-to-reconnect-with-estranged-parents-but-im-scared]] — the closely related concern that runs in the opposite direction. After the guilt-about-separation work has resolved and significant healing has happened, the want to reconnect can arise — bringing a new fear (of losing the boundary in the renewed contact). The same parent system often produces both concerns at different stages of the same person's work.
 
 ## Sources
 

@@ -127,6 +127,7 @@ The tone is also slightly amused. "Oh, they're scared" lands as recognition, not
 - Toward [[fear-in-body-vs-fear-in-head]]: the diagnostic for what kind of fear is operating in the person whose behavior you have read
 - Toward [[what-is-truly-compassionate]]: the broader principle that compassion for self and other are the same act
 - Toward [[every-trigger-with-your-kid-is-projection]]: the parenting application, where the angry parent is the scared parent
+- Toward [[guilt-as-passive-fear]]: a specific variant of the read for the chronically guilt-tripping parent — the guilt is the fear taking the passive route because the active route (anger) was taken by another family member
 
 ## Sources
 

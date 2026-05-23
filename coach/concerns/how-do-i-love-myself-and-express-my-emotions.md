@@ -123,6 +123,7 @@ The exchange shows the structural moves in compressed form. Joe asks for the loa
 
 ## Related Concerns
 
+- [[how-do-i-love-myself]] — the self-love-only variant without the emotional-expression component; for the person who dismisses their accomplishments and needs but is not specifically in a paired struggle with emotional expression
 - [[i-cant-feel-my-emotions]] — the more head-dominant variant where the wires from body to awareness have been dimmed; this concern is for the case where the emotions are present and being actively suppressed
 - [[i-dont-have-community]] — often co-occurs because the masking produces social isolation; the person performs an acceptable self and ends up surrounded by people who don't know them
 - [[i-get-anxious-in-relationships]] — the related concern when the masking surfaces specifically in intimate relationships

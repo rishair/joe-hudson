@@ -89,6 +89,7 @@ The mechanics are otherwise the same: flag the role-play, deliver in role withou
 - [[trigger-the-shame-live]]: the same role-play mechanic applied specifically to producing the shame state in the room when the concern is fear of offending people
 - [[voice-in-the-head]]: the parent-stand-in variation often surfaces the source of the voice
 - [[im-exhausted-holding-space-for-my-partner]]: the parent-stand-in variation often appears in this concern, where the should-toughen-up voice traces to a childhood figure
+- [[coach-demonstrates-via-reversed-role-play]]: the inverted variant where the client plays the trigger and the coach demonstrates the new stance — used when the client cannot picture the new stance being possible and needs to see it land before trying to embody it themselves
 
 ## Sources
 

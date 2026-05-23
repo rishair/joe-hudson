@@ -108,6 +108,7 @@ When the question is asked in this purpose-specific way, it pairs with the more-
 - [[what-am-i]]: the deeper inquiry the "how" question opens toward.
 - [[whats-the-scary-truth]]: a related authenticity question.
 - [[look-for-friction-not-the-answer]]: the purpose-specific operationalization of the how-question.
+- [[how-do-you-want-to-be-with-them]]: the relational variant of this question, used when the locus of work is a specific other or relationship rather than character or life-shape.
 
 ## Sources
 

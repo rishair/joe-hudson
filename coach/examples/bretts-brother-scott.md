@@ -3,9 +3,9 @@ type: example
 id: bretts-brother-scott
 title: "Brett's Brother Scott (How an Imminent Death Rewrites the Old Story of Who Left Whom)"
 aliases: ["Brett's brother", "Brett's brother Scott", "Scott's glioblastoma", "the brain cancer diagnosis on retreat", "the brother with stage 4 glioblastoma", "Brett's older brother dying", "the brother who dove into family", "the brother who stayed in Cleveland", "Brett's brother story", "the diagnosis on retreat story", "Brett's brother and the kids running through the house", "I could never be happier from bed", "Brett's brother held us close and said it's been an honor", "the brother who got two doublings of life expectancy", "the brother who is really fucking living", "the post-diagnosis flip in the story", "the I-left-him-behind story that flipped"]
-tags: ["death", "family", "siblings", "grief", "story-dissolution", "example", "brett-personal"]
-related: ["acknowledging-death-compresses-life", "every-moment-is-an-exit-point", "grief-as-identity-dismantling", "death-is-not-the-end-of-the-relationship", "without-grief-we-recreate-the-pattern"]
-sources: ["2024-12-06_How Death Brings Life Closer"]
+tags: ["death", "family", "siblings", "grief", "story-dissolution", "example", "brett-personal", "uncertainty", "adventure-stance", "compartmentalization"]
+related: ["acknowledging-death-compresses-life", "every-moment-is-an-exit-point", "grief-as-identity-dismantling", "death-is-not-the-end-of-the-relationship", "without-grief-we-recreate-the-pattern", "take-the-adventure-stance", "compartmentalizing-can-be-adaptive", "three-moves-when-frozen-by-uncertainty"]
+sources: ["2024-12-06_How Death Brings Life Closer", "2025-04-25_Making the Most of Uncertain Times", "2025-04-25_Making The Most of Uncertainty"]
 ---
 
 # Brett's Brother Scott
@@ -91,12 +91,54 @@ The example is most useful when:
 - A person is in a daily-complaint frame and the example is needed to show what enjoyment looks like under far worse conditions
 - The teaching of [[acknowledging-death-compresses-life]] needs a recent, concrete instance from someone the listener knows (Brett)
 
+## The Adventure-Stance Reframe at the Moment of Diagnosis
+
+The reframe Brett offered Scott — "there's a way we could have a deeper relationship by the end of your life because of this than otherwise" — is also a canonical instance of [[take-the-adventure-stance]] applied to a terminal diagnosis. Brett did not cause the cancer. He had no control over the prognosis. He had complete control over how he chose to be inside the remaining time. The choosing was the adventure.
+
+Brett's own recall of the moment:
+
+"That brings me back to the conversation where Scott told me he had cancer, and I was like, one of the first things that I said was like, 'Well, there's a way that we could have a deeper relationship by the end of your life because of this than otherwise.' And that's a moment where I can recall making it an adventure. I didn't want to face that. I didn't want that reality. I didn't cause it. There's ways that I already was going into guilt and blame about not already having as close as possible of a relationship with him." -- Brett Kistler, Making the Most of Uncertain Times
+
+Joe's read on the same moment: "It's such a beautiful example of exactly this thing of — I'm not optimistically saying we're going to cure your cancer. I might hope that, blah blah blah, but I'm not acting from that. I'm not acting from 'well, we're fucked, you're fucked, your family's fucked.' We're saying this is what's happening, and what is the institution, the reality that we can change through this moment of transformation."
+
+This is the move described in [[take-the-adventure-stance]] in operation, with the realism Joe insists on. Brett did not pretend the cancer might not kill his brother. He held the death as a real possibility while choosing to live into the closeness that was still available.
+
+## Brett's Titration During the Retreat (Compartmentalizing Adaptively)
+
+A separate dimension surfaces in Brett's own retelling: how he handled his own emotional life through the period.
+
+The diagnosis arrived during a week-long retreat Brett was co-facilitating. He could not stop the retreat. The participants needed the container. Brett had to keep facilitating, which meant he could not feel everything that had just arrived for him.
+
+What he did instead: small moments of crying through the week, letting some of the grief move when the structure allowed. Then, when the retreat ended:
+
+"When the retreat finally finished and we all gathered at the end, that was when I like broke down and just cried for an hour and let it... I made that an adventure too. I was like, 'okay, Alexa, I want you to hold me. Everyone else continue to do your work stuff. And I'm just going to take like an hour and just go ball in the corner.' And did that." -- Brett Kistler, Making the Most of Uncertain Times
+
+Joe's framing: "You had little moments of crying that you were letting the steam out of the kettle. You were compartmentalizing enough and then boom, you totally [released]." Brett's confirmation: "Yeah. So the compartmentalizing was adaptive."
+
+The compartmentalization here is not the suppression that creates pathology. It is the matching of the feeling-load to the available container. When the container expanded (the retreat ended, his wife Alexa was available, the time was protected), the larger feeling came. The smaller moments through the week kept the pressure manageable without producing the full release that the conditions could not yet hold. See [[compartmentalizing-can-be-adaptive]] for the structural principle this example demonstrates.
+
+The example is therefore also useful for someone in a sustained crisis who is blaming themselves for not feeling enough in the high-stakes moments. The titration is the work, not a failure of it.
+
+## The Three-Moves Practice Applied Across the Arc
+
+The full arc of Brett's working with the diagnosis demonstrates the [[three-moves-when-frozen-by-uncertainty]] practice across an extended period.
+
+**Move 1 (face what is actually real).** Brett did not cause the cancer. The worrying about cancer in newspapers earlier in life did not cause it. Cancer happens with or without you. The first form of facing the truth was releasing the self-blame, which made room for the other moves. Joe's emphasis: "Facing reality is don't blame yourself. A lot of people in the face of uncertainty, their first move is to blame themselves... First form of certainty is facing the truth of the situation, which is I'm not to blame for this scenario."
+
+**Move 2 (feel the avoided emotion).** Done across the entire arc — the small moments during the retreat, the hour of grief at the end, the larger grief as the illness progressed, the moments of fear about losing the brother. The titration was matched to the container that was available. The full feeling moved over time, not all at once.
+
+**Move 3 (find the certainty that is actually here).** Brett's certainties through the arc: "I'm certain I can spend more time with you. I'm certain that I love you. I'm certain that I want to be close to you. I'm certain that this could mean your death." Multiple certainties at once, including the certainty of the loss, alongside the certainties about love and connection. None of these required predicting the future. All of them were available in the present.
+
 ## Upstream (What Leads Here)
 
 - When a person is in the early days or weeks after a loved one's terminal diagnosis
 - When [[acknowledging-death-compresses-life]] is being taught and needs an example of the felt-shift in real time
 - When someone is running a long-held story about a family member and the question is what the story is for
 - When the work is to find what is still possible in a relationship with someone who is dying
+- When [[take-the-adventure-stance]] is being taught and needs an example of the move applied to a non-business situation
+- When [[compartmentalizing-can-be-adaptive]] needs a worked example
+- When [[three-moves-when-frozen-by-uncertainty]] is being applied to a major loss and needs an extended-arc example
+- When a person is in a sustained crisis and is self-blaming for not feeling enough in the high-stakes moments
 
 ## Downstream (Where This Leads)
 
@@ -105,7 +147,12 @@ The example is most useful when:
 - Toward [[grief-as-identity-dismantling]]: what is dying for Brett alongside the brother's physical death
 - Toward [[grieve-the-marriage-to-save-it]]: the same pre-grief move applied here to a sibling relationship
 - Toward [[joes-funeral-poem-for-kase]]: the formal expression of the gratitude-for-the-illusion that the example contains in raw form
+- Toward [[take-the-adventure-stance]]: the move Brett took at the moment of diagnosis
+- Toward [[compartmentalizing-can-be-adaptive]]: the principle Brett's retreat-titration demonstrates
+- Toward [[three-moves-when-frozen-by-uncertainty]]: the practice the full arc embodies
 
 ## Sources
 
 - 2024-12-06_How Death Brings Life Closer
+- 2025-04-25_Making the Most of Uncertain Times (Brett's retelling of the moment of reframe and the titration-during-the-retreat dimension)
+- 2025-04-25_Making The Most of Uncertainty (companion/alternate cut)
