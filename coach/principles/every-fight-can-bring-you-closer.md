@@ -100,6 +100,8 @@ This is not a principle that requires never being scared during the fight. Joe d
 ## Downstream (Where Joe Goes From Here)
 
 - Toward [[fight-agreements-made-outside-the-fight]]: the concrete starting practice that operationalizes fighting well — sit down outside a fight and make explicit agreements about how you want to fight together
+- Toward [[mirror-until-they-confirm]]: the year-long mirroring practice that reveals how much disagreement is actually misunderstanding
+- Toward [[most-disagreements-are-not-understanding-not-attack]]: the principle that lives downstream of the mirroring work and that turns most fights into clarification rather than combat
 - Toward [[repair-phrase-as-trauma-deactivator]]: the kind of specific co-created agreement that turns a phrase into an instrument for dissolving a trauma loop mid-fight
 - Toward [[how-you-fight-not-how-often]]: the metric reframe that operationalizes "fighting well" as a tracker
 - Toward [[joe-and-tara-retreat-prep-fight]]: the canonical illustration of a fight whose form is so matured that bystanders did not register it as a fight

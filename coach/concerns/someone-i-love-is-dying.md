@@ -3,8 +3,8 @@ type: concern
 id: someone-i-love-is-dying
 title: "Someone I love is dying / How do I be in this final time?"
 aliases: ["someone I love is dying", "how do I be in this final time", "my brother is dying", "my sister is dying", "my parent is dying", "my partner is dying", "my friend is dying", "they have terminal cancer", "the diagnosis is terminal", "stage 4 diagnosis", "we got the diagnosis", "they have months to live", "they have a year to live", "they're not going to make it", "the prognosis is bad", "the doctors say it's terminal", "how do I be with someone who is dying", "what do I do with the remaining time", "how do I be in this remaining time", "how do I bring myself to the visits", "I don't know what to say", "I don't know how to be with them", "I'm scared of saying the wrong thing", "I keep avoiding the visit", "I keep wanting to fix it", "I'm trying to be useful", "everyone is dancing around the elephant", "the family is in denial about the diagnosis", "we're all pretending it's not happening", "I'm watching them decline", "the watching-them-die concern", "the imminent-death concern", "they're slipping away", "they're not who they used to be", "I want this time to mean something", "I want to be present but I'm scared", "I'm grieving while they're still alive", "anticipatory grief", "how do I be with my dying loved one"]
-tags: ["death", "grief", "loved-ones", "terminal-illness", "presence", "anticipatory-grief", "family"]
-sources: ["2024-12-06_How Death Brings Life Closer"]
+tags: ["death", "grief", "loved-ones", "terminal-illness", "presence", "anticipatory-grief", "family", "generosity"]
+sources: ["2024-12-06_How Death Brings Life Closer", "2025-02-14_How Generosity Improves Your Well-Being"]
 ---
 
 # Someone I love is dying / How do I be in this final time?
@@ -91,6 +91,10 @@ The typical flow from this concern follows the broader arc of the death-and-life
 
 7. **Stay with the grief that arises.** The work is not to talk the grief away. The grief is the relationship continuing in its new form. See [[grief-as-identity-dismantling]] and [[grief-is-many-emotions-not-just-sadness]].
 
+8. **Introduce the highest-form-of-generosity principle if it lands.** When the person is overwhelmed by their own helplessness in the face of an unfixable situation, the principle [[being-with-without-needing-change-as-highest-generosity]] is often the relief. The fix was never the assignment. Being-with-without-needing-anything-to-change is what the situation actually calls for, and it is also itself the deepest form of generosity available. The person may be doing it already without registering it.
+
+9. **For the supporting circle, consider the redirected-generosity move.** When the question arises of how others can support the dying person and their family, the example of [[scott-and-his-wifes-redirected-generosity-request]] is useful: the wife's redirect of supporter energy out into the world rather than back to the family is itself an act of generosity that gives helpless supporters something real to do. This move can be offered to the family as an option, not prescribed.
+
 The arc is not linear. The person will move into and out of the various states. The coach's job is to keep meeting whatever is here, not to push toward a particular endpoint.
 
 ## What This Concern Is Not
@@ -107,3 +111,4 @@ The discrimination matters because the work differs. This concern requires the d
 ## Sources
 
 - 2024-12-06_How Death Brings Life Closer (the conversation about Brett's brother Scott's brain cancer; the reframe of the remaining time as the opportunity for deeper relating; the practice of saying goodbye like it might be the last time)
+- 2025-02-14_How Generosity Improves Your Well-Being (Brett's account of his final visits with Scott as Scott was in palliative care; the family prayer call as a demonstration of being-with-without-needing-change as the highest form of generosity; Scott's wife's Facebook post redirecting supporter generosity out into the world; the cascade of generous acts that followed, including the loan paid in Scott's name in India and the cookies brought to homeless people under a bridge)

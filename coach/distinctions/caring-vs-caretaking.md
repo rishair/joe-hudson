@@ -5,7 +5,7 @@ title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern", "codependence vs care", "managing emotions vs supporting"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior", "codependence"]
 related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice", "resentment-as-caretaking-diagnostic", "softening-as-caring-diagnostic", "you-think-they-cant-handle-it", "rehearsing-how-to-say-it", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2024-07-26_Codependency： 3 signs it's not love", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2024-07-26_Codependency： 3 signs it's not love", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-02-26_How To Attune To Your Partner's Needs"]
 ---
 
 # Caring vs. Caretaking
@@ -275,6 +275,20 @@ The structural recognition the partners reach, that allows them to keep going ev
 - Toward [[what-is-truly-compassionate]]: the reframe that resolves the apparent conflict between self-care and care.
 - Toward [[boundary-with-vs-boundary-against]]: care without boundaries collapses; clean care has structure.
 - Toward [[visualizing-feared-outcomes]]: the pre-feel of the loss that often releases the caretaking grip.
+- Toward [[ask-what-they-want-before-responding]]: the practical three-option ask that operationalizes the distinction inside an intimate relationship.
+- Toward [[attune-to-the-actual-want-not-the-program]]: the underlying principle the three-option ask expresses.
+
+## The Three-Option Ask as the Operational Move
+
+The cleanest operational form of clean caring inside a couple is the explicit ask: "Do you want me to listen, do you want some questions, or do you want advice?" The ask is what attunement looks like when the default program has not yet been reprogrammed. It interrupts the caretaking impulse to fix and replaces it with a request for the actual response the partner wants.
+
+"It's all because of this little thing, which is like, she doesn't want your help. She just wants to be heard. Or she wants you to show her, not do it for her, or whatever it is." -- Joe Hudson, How To Attune To Your Partner's Needs
+
+The discovery Joe and Tara made by running this practice for years is that they almost never wanted each other to coach or psychiatrist them. The default request, almost every time, was just to be with each other. The fixing-coaching-advising mode that the caretaker assumed was being requested was almost never being requested. The data is in: when a partner is given the explicit choice, "just be with me" wins overwhelmingly.
+
+"What we almost never wanted was the other person to coach us or to be our psychiatrist. It's like, no, we want each other to be with each other. Like, I just want you to be with me. I don't want you to try to fix me." -- Joe Hudson, How To Attune To Your Partner's Needs
+
+The felt cost of dropping the caretaking is structurally the same as the felt cost of the principle generally: the discovery that being with the person is easier than trying to fix them, and the recognition that the original belief ("I'm responsible for her happiness") was the engine producing the caretaking. See [[ask-what-they-want-before-responding]] for the move and [[attune-to-the-actual-want-not-the-program]] for the principle.
 
 ## The Two-Layer Recognition: Manipulation Underneath the Care
 
@@ -304,3 +318,4 @@ The word Carla uses — manipulation — and the word Joe uses in this teaching 
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (the "Dad, I just need to be sad. You don't need to take care of that" moment from Esmé to Joe)
 - 2024-07-26_Codependency: 3 signs it's not love (the three-signs compression of the distinction; the marriage-recovery case where 3-4 months of gentle truth-speaking dissolved years of accumulated codependence; the library-where-the-only-thing-to-read-was-the-dictionary metaphor for the flattened marriage)
 - 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the two-layer recognition framing for how the caretaker discovers the manipulation underneath the care; the layer-1 vs layer-2 distinction that explains why Layer-1-only work doesn't end the caretaking)
+- 2025-02-26_How To Attune To Your Partner's Needs (the three-option ask as the practical operational form of clean caring inside a couple; the discovery that partners almost never want to be coached or psychiatrized when given the explicit choice; the felt drop from "I'm responsible for her happiness" to "I can just be with her")

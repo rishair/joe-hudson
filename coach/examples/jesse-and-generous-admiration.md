@@ -4,8 +4,8 @@ id: jesse-and-generous-admiration
 title: "Jesse and Generous Admiration (The Conference Organizer Whose Admiration Multiplied)"
 aliases: ["Jesse and generous admiration", "the conference organizer who openly admired everyone", "the Jesse conference story", "Jesse the conference organizer", "the generous admiration story", "stingy with admiration vs generous with admiration", "the admiration multiplier story", "the admiration produces gifts story", "the conference where admiration made the business grow", "what Joe learned from Jesse at the conference"]
 tags: ["example", "admiration", "resentment", "generosity", "business", "leadership", "self-recognition"]
-related: ["admire-what-you-crave", "see-yourself-and-acknowledge-others", "i-keep-being-resentful", "pointers-to-unseen-parts"]
-sources: ["2024-09-02_How To Stop Being Resentful"]
+related: ["admire-what-you-crave", "see-yourself-and-acknowledge-others", "i-keep-being-resentful", "pointers-to-unseen-parts", "generosity"]
+sources: ["2024-09-02_How To Stop Being Resentful", "2025-02-14_How Generosity Improves Your Well-Being"]
 ---
 
 # Jesse and Generous Admiration
@@ -63,6 +63,17 @@ The simplicity is the teaching. The thing that produced the compounding effect w
 - When the person is in a competitive or comparison-heavy field and the resentment of peers is a barrier to learning from them
 - When a person wants to build community or network and is approaching it as extraction rather than as appreciation
 
+## The Jesse Example as a Form of Generosity
+
+Joe returns to the Jesse story (under the name Tiago Forte in a later conversation -- the same kind of teacher-of-Building-a-Second-Brain organizer figure) when teaching the broader concept of [[generosity]]. The point in that context: generosity is not only money. Admiration is one of its forms. Jesse/Tiago is the canonical example of generosity-of-admiration.
+
+"There's a guy, Tiago Forte. He runs Building a Second Brain, and he is one of the most generous people as far as admiration goes. He's so generous in his admiration. He looks at somebody, finds something to admire about them. What you see is that the people around him, when he admires them, they light up. It's like they've been given a gift. Way better than a couple hundred bucks, right?" -- Joe Hudson, How Generosity Improves Your Well-Being
+
+The framing "way better than a couple hundred bucks" is the key teaching. Specific, openly-named admiration is received as a gift on the same scale as money -- often larger. This is why generosity-of-admiration belongs in the same category as generosity-of-money, and why a person who believes they "have nothing to give" because they have no money still has access to a form of generosity that produces visible effects in the receiver.
+
+The Jesse/Tiago example anchors the multi-form teaching of generosity. See [[generosity]] for the four forms (money, admiration, seeing, being-with) and the principle that the form follows what the giver has access to.
+
 ## Sources
 
 - 2024-09-02_How To Stop Being Resentful (the Jesse story used to illustrate generous admiration as a general practice; Joe's self-recognition of being "a little stingy with my admiration"; the chain of effects from generous admiration to people sharing their gifts to business growth)
+- 2025-02-14_How Generosity Improves Your Well-Being (Joe returning to the same kind of example under the name Tiago Forte to illustrate generosity-of-admiration as one of the forms of generosity beyond money; the "way better than a couple hundred bucks" framing that anchors why admiration belongs in the same category as financial generosity)

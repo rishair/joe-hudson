@@ -102,6 +102,7 @@ Joe's framing carries no urgency about it ("oh, oh, maybe, oh" — the small awa
 - [[whats-the-emotion-youre-trying-to-avoid]]: the coach-asked relative of this self-asked question
 - [[breath-to-exit-overwhelm]]: the regulation on-ramp that often precedes asking this question
 - [[arc-of-fighting-maturation]]: the developmental context for when this capacity becomes available
+- [[what-do-i-really-need-right-now]]: the sibling self-asked question that operates earlier in the arc — before the fight has escalated, when the body is in the fight-seeking state but the superiority position has not yet appeared. Both questions are in the family of self-asked redirects from surface-position to underneath-material; they apply at different moments of the same arc.
 
 ## Sources
 

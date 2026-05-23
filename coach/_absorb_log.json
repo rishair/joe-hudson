@@ -6792,15 +6792,106 @@
     },
     {
       "folder": "2025-02-14_How Generosity Improves Your Well-Being",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T02:04:09Z",
+      "articles_created": [
+        "generosity",
+        "being-with-without-needing-change-as-highest-generosity",
+        "giving-as-respect-vs-giving-as-saving",
+        "canadians-in-nicaragua-with-the-clothing",
+        "esmes-stolen-passport-in-spain",
+        "scott-and-his-wifes-redirected-generosity-request",
+        "unrecognized-generosity-already-received-and-given"
+      ],
+      "articles_updated": [
+        "giving-from-desire-not-obligation",
+        "jesse-and-generous-admiration",
+        "someone-i-love-is-dying"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:15:53Z"
+    },
+    {
+      "folder": "2025-02-18_How to Use Relationship Fights to Heal",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:06:12Z",
+      "articles_created": [
+        "looking-for-a-fight-means-self-disconnection",
+        "everything-i-say-they-contradict",
+        "i-keep-picking-fights-with-my-partner",
+        "go-to-separate-rooms-and-yell",
+        "what-do-i-really-need-right-now",
+        "the-contradict-myself-test"
+      ],
+      "articles_updated": [
+        "kids-release-emotions-where-they-feel-safe",
+        "unfelt-emotion-leaks",
+        "dont-do-anger-at-your-partner",
+        "what-am-i-not-feeling-right-now"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:16:51Z"
+    },
+    {
+      "folder": "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:16:30Z",
+      "articles_created": [
+        "mirror-until-they-confirm",
+        "most-disagreements-are-not-understanding-not-attack"
+      ],
+      "articles_updated": [
+        "listen-as-the-wisest-person",
+        "patient-on-the-table",
+        "listening",
+        "every-fight-can-bring-you-closer",
+        "we-have-built-up-resentment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:25:12Z"
+    },
+    {
+      "folder": "2025-02-24_Stop Relationship Fights in 10 Minutes \u2014 'See Me' Method",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:17:26Z",
+      "articles_created": [
+        "joe-and-tara-la-show-fight",
+        "dont-find-the-truth-find-their-truth"
+      ],
+      "articles_updated": [
+        "see-them-be-seen-find-alignment-instead-of-control",
+        "being-heard",
+        "the-desire-to-be-seen"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:24:52Z"
+    },
+    {
+      "folder": "2025-02-26_How To Attune To Your Partner's Needs",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:25:24Z",
+      "articles_created": [
+        "ask-what-they-want-before-responding",
+        "nail-in-the-head-metaphor",
+        "attune-to-the-actual-want-not-the-program"
+      ],
+      "articles_updated": [
+        "caring-vs-caretaking"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:31:21Z"
+    },
+    {
+      "folder": "2025-02-28_So You\u2019re Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T02:25:49Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-02-18_How to Use Relationship Fights to Heal",
+      "folder": "2025-03-01_I'm Not Dead Yet\uff1a Life Lessons from Chemotherapy \uff5c Tara Howley with Guest Michael Nagle",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T02:06:12Z",
+      "claimed_at": "2026-05-23T02:31:54Z",
       "articles_created": [],
       "articles_updated": []
     }

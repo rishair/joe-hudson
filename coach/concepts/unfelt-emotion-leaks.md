@@ -5,7 +5,7 @@ title: "Unfelt Emotion Leaks"
 aliases: ["unfelt emotion comes out sideways", "the leak", "emotion you don't feel comes out at others", "anger at someone is unfelt anger", "leakage", "emotion has to go somewhere"]
 tags: ["emotions", "expression", "leakage", "relationships", "core mechanism"]
 related: ["dont-do-emotion-at-people", "feeling-the-unfelt-emotion", "kinked-emotions", "feel-over-figure", "judgment-vs-discernment", "get-angry-in-the-car", "joes-angry-executive-commute", "passive-aggressive-vs-aggressive-aggressive", "anger"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure", "2022-10-26_The Wisdom Of Anger, Part 2", "2025-02-18_How to Use Relationship Fights to Heal"]
 ---
 
 # Unfelt Emotion Leaks
@@ -58,6 +58,20 @@ One under-recognized form of the leak: it does not always leak at others. Someti
 
 When the chronic state is low-grade depression and external life is fine, held anger is one of the main diagnostics. See [[anger]] and [[get-angry-in-the-car]].
 
+## The Fight-Seeking Form of the Leak (Looking for a Safe Place to Discharge)
+
+A specific variant deserves naming: the leak that does not erupt sideways but instead deliberately seeks out a safe container in which to discharge. The person who had the hard day comes home and finds themselves contradicting everything their partner says. The contradicting is the leak; the partner is the chosen surface; the relationship is the safe place that has been built to absorb friction.
+
+Joe identified the pattern first in his 8-year-old daughter, then in his wife, then in himself.
+
+"I came home and I had a shitty day and I was like, I'm contradicting everything Tara says. I'm like, I'm looking for that fight. And I think almost all of us have been there with somebody where we're like, oh, this is like — they're like, I'm not getting out of this fight. Like, oh shit, here it comes." -- Joe Hudson, How to Use Relationship Fights to Heal
+
+The structural difference from sideways-leakage: the fight-seeking leak is targeted at the safest available container, deliberately. The body knows the partner is the safest target. The discharge is not random; it is selected. This makes the dynamic both more recoverable (the body is at least seeking the right kind of container) and more corrosive (the partner is being used as the surface without consent, without naming, and the actual source is never identified).
+
+The diagnostic for this form of the leak is content-independence: the contradicting will continue regardless of what is said, because the function is the friction itself. See [[everything-i-say-they-contradict]] for the read and [[the-contradict-myself-test]] for the deliberate test. The principle that names this dynamic explicitly is [[looking-for-a-fight-means-self-disconnection]]. The in-the-moment move that interrupts it is [[go-to-separate-rooms-and-yell]].
+
+This is also the adult version of the kid-version principle [[kids-release-emotions-where-they-feel-safe]]. Same machinery, more sophisticated wrapping, different implications for what to do about it.
+
 ## Subtle Forms of the Leak
 
 The leak is not always a shout. It includes:
@@ -105,3 +119,4 @@ Direct, sometimes humorous. Joe holds this as just-how-it-works rather than as a
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)
+- 2025-02-18_How to Use Relationship Fights to Heal (the fight-seeking variant of the leak: Joe names the specific form where the body deliberately reaches for friction with the partner because the relationship is the safest available discharge container, identified first in his daughter coming home from school ready to fight about anything, then in his wife Tara on an unusual day, then in himself after a shitty day)

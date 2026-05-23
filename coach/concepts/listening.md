@@ -2,10 +2,10 @@
 type: concept
 id: listening
 title: "Listening"
-aliases: ["deep listening", "attuned listening", "listening as attunement", "listening as receiving", "listening as allowing", "the quality of listening", "the caliber of listening", "whole-body listening", "embodied listening", "listening with the body", "always listening", "you're always listening", "non-management listening", "listening simultaneously to self and other", "listening through filters", "what listening is", "listening fundamentals", "listening sushi rice", "speaking from listening", "channeling through listening", "listening is presence"]
-tags: ["listening", "receiving", "presence", "attunement", "core concept", "view", "connection", "communication"]
-related: ["view", "empathy", "vulnerability", "wonder", "impartiality", "opposite-of-trying", "staying-in-your-body", "listen-as-the-wisest-person", "head-heart-gut", "being-heard", "listening-to-impulse", "applied-self-awareness", "different-languages-of-love", "the-butler-metaphor", "faithing-faith-as-verb", "wait-for-someone-else-to-say-it", "cant-remember-what-i-said-in-flow", "dont-claim-the-wisdom-as-yours"]
-sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better"]
+aliases: ["deep listening", "attuned listening", "listening as attunement", "listening as receiving", "listening as allowing", "the quality of listening", "the caliber of listening", "whole-body listening", "embodied listening", "listening with the body", "always listening", "you're always listening", "non-management listening", "listening simultaneously to self and other", "listening through filters", "what listening is", "listening fundamentals", "listening sushi rice", "speaking from listening", "channeling through listening", "listening is presence", "listening through trauma filters", "trauma-filtered listening", "two people listening through different filters", "listening to a partner in a fight", "listening in conflict"]
+tags: ["listening", "receiving", "presence", "attunement", "core concept", "view", "connection", "communication", "fighting", "trauma", "filters"]
+related: ["view", "empathy", "vulnerability", "wonder", "impartiality", "opposite-of-trying", "staying-in-your-body", "listen-as-the-wisest-person", "head-heart-gut", "being-heard", "listening-to-impulse", "applied-self-awareness", "different-languages-of-love", "the-butler-metaphor", "faithing-faith-as-verb", "wait-for-someone-else-to-say-it", "cant-remember-what-i-said-in-flow", "dont-claim-the-wisdom-as-yours", "mirror-until-they-confirm", "most-disagreements-are-not-understanding-not-attack"]
+sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better", "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever"]
 ---
 
 # Listening
@@ -96,6 +96,18 @@ The deeper forms of listening have fewer filters. Or the filters that remain are
 "My experiences of the wider forms of listening, the listening that are like embodied listening, what it does is it's like the important information comes to the surface easily, more easily. The signal-to-noise ratio gets better." -- Joe Hudson, Listening
 
 This is the link to [[seeing-through-projections-expands-possibility]] — what looks like intelligence in others is often just fewer filters. The same is true with listening. Reduced filters look like sharper perception. They are not. They are less obstruction.
+
+## Trauma Filters Are the Dominant Filter Inside Relationships
+
+The everyday "knowing" filter is the universal one. Inside an intimate relationship, the filter that matters most is the trauma-shaped one. Each partner has a set of pre-installed decoders that load specific meanings onto specific words. The same sentence runs through two different decoders and arrives as two different sentences. The partners then disagree about what was said, often with neither one accurately reporting it.
+
+"We had different ways of looking at the world and different ways of communicating. And our trauma filtered things in different ways." -- Joe Hudson, Give Me 5 Minutes And I'll Transform How You Listen Forever
+
+This is why most fights inside long relationships are not what they appear to be. The disagreement is felt as substantive; the actual substance is often two trauma-filters colliding. The listening practice in this context is the slow, repeated work of becoming visible to each partner: what filter just fired, what got added to or subtracted from the actual words, what the speaker actually meant before the filter loaded its meaning.
+
+The operational form of this work is [[mirror-until-they-confirm]] — small chunks of speech repeated back, with the speaker allowed to correct until the listener has actually heard what was said rather than what their filter said. Done over months, this surfaces both partners' filters and produces a different kind of listening: filter-aware listening, where the listener knows their decoder is running and treats its output as a hypothesis to be checked rather than as the partner's actual meaning.
+
+The principle that lives downstream of this work is [[most-disagreements-are-not-understanding-not-attack]]. Once enough comprehension gaps have been cleared via the mirroring practice, the default reading of conflict shifts: from "you are attacking me" to "you have not yet understood me," from "you don't love me" to "your filter is running and so is mine." The relational temperature drops because the body stops mobilizing for defense against an attack that was never actually happening.
 
 ## Listening to Yourself While Listening to Another
 
@@ -286,7 +298,9 @@ After the conversation, the details may be hard to recall. Something deeper land
 
 ## Downstream (Where This Leads)
 
-- Toward [[listen-as-the-wisest-person]]: the two-day experiment that makes the listening lever felt directly.
+- Toward [[listen-as-the-wisest-person]]: the two-day experiment that makes the listening lever felt directly; also the in-fight variant where the partner is listened to as a sage during a disagreement.
+- Toward [[mirror-until-they-confirm]]: the operational practice for surfacing filter mismatches in a long relationship.
+- Toward [[most-disagreements-are-not-understanding-not-attack]]: the principle that lives downstream of the trauma-filter-aware listening practice.
 - Toward [[staying-in-your-body]]: the practice that anchors listening to oneself while listening to others.
 - Toward [[listen-to-yourself-ten-percent-more]]: the smallest viable in-conversation move toward self-listening.
 - Toward [[listen-to-yourself-one-minute-a-day]]: the daily-reps practice that builds self-listening over time.
@@ -314,3 +328,4 @@ Plain, conversational, unhurried. The teaching is not delivered as a difficult i
 - 2024-04-06_Speaking Authentically with Tristan de Montebello
 - 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the inner-ear hack named explicitly as a hack; the principle that you cannot be seen when you are not in yourself; the live application of self-listening to dissolve a chasing-to-be-understood pattern)
 - 2024-06-10_How To Listen Better (the active vs. passive distinction; the specific signatures of judging-listening vs. fixing-listening vs. unconditional-acceptance listening; the daily-reps approach to building self-listening)
+- 2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever (the trauma-filter mechanism inside long relationships as the dominant filter on listening; the in-fight application of listening as a sage; the year-long mirroring practice as the operational way to surface and clear filter mismatches; the reframe from "attack" to "not-understanding" that follows from doing the filter-aware listening work)

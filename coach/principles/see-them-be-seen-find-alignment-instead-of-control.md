@@ -5,7 +5,7 @@ title: "See Them, Be Seen, Find Alignment (The Alternative to Control)"
 aliases: ["see them be seen find alignment", "the alternative to control", "the four moves instead of control", "see them understand them be seen find alignment", "the positive alternative to emotional control", "what to do instead of controlling", "the alignment frame", "find their truth find where they want to move", "the non-control orientation in fights", "what fighting well looks like instead of control", "the structural replacement for control", "alignment instead of control", "see them not control them", "be seen when they're ready to see you", "find a solution that works for both", "the four-move alternative to control"]
 tags: ["control", "alignment", "relationships", "fighting", "presence", "principle"]
 related: ["dont-do-emotion-at-people", "verbal-abuse-as-controlling-with-anger", "management-required-to-launch-predicts-management-required-forever", "every-fight-can-bring-you-closer", "love-as-deep-welcoming", "vulnerability", "enjoy-over-manage"]
-sources: ["2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship"]
+sources: ["2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method"]
 ---
 
 # See Them, Be Seen, Find Alignment (The Alternative to Control)
@@ -64,6 +64,42 @@ The reframe is often initially rejected: "But they would have just walked all ov
 
 The pre-work is often [[feeling-the-unfelt-emotion]]: the emotion that has been driving the need to control has to be felt before the orientation toward seeing the partner can hold.
 
+## The Day-to-Ten-Minutes Compression
+
+The most concrete data point for what holding the orientation produces. Joe describes the same fight-shape with Tara before and after the shift:
+
+Before: hours of fighting, sometimes a full day. Both partners caught in the structure where one had to be wrong for the other to be right.
+
+After: ten minutes. The fight ends not because someone wins but because the engine has been removed.
+
+"I just listened. I was just there and I was just understanding and I could say I'm sorry. And I said I was sorry and it just all melted inside of like 10 minutes, what used to be hours of fighting, you know, like maybe even a day of fighting." -- Joe Hudson, Stop Relationship Fights in 10 Minutes
+
+The collapse from a day to ten minutes is the proof-of-concept for the principle. The seeing-them move is not aspirational; it is mechanically the thing that ends the fight. See [[joe-and-tara-la-show-fight]] for the canonical illustration: Tara comes home furious about Joe missing her LA show, Joe makes the internal recognition "this is true for her, it doesn't have to be mine, it's hers," and listens with an open heart. Ten minutes, instead of a day.
+
+## The Courtroom Frame
+
+A companion metaphor Joe and Tara developed that makes the failure mode of the principle nameable. Inside a fight, the partners are often unconsciously inside a courtroom: each is the prosecutor of the other, each is the defender of themselves, both are seeking a verdict, and the verdict is supposed to resolve the conflict.
+
+"We used to have this phrase and it was like, hey, let's not go into the courtroom. Courtroom was to figure out who had done what and what the truth was." -- Joe Hudson, Stop Relationship Fights in 10 Minutes
+
+The courtroom is the structural opposite of the four-move frame. In the courtroom, neither partner is trying to see the other; both are trying to win. The naming move — "let's not go into the courtroom" — is an in-the-moment exit either partner can use to re-orient toward the four moves.
+
+The four moves do not work inside the courtroom. The seeing collapses into evidence-gathering, the understanding collapses into hostile cross-examination, the being-seen collapses into testimony, and the solution-finding collapses into verdict-seeking. The frame is what is available once the courtroom has been left.
+
+See [[dont-find-the-truth-find-their-truth]] for the standalone principle on stopping the search for THE truth and starting the search for THEIR truth — the operational pivot that gets two partners out of the courtroom.
+
+## The Generalization to All Fights
+
+Joe extends the four-move frame past abusive relationships to the structure of fights generally. The diagnostic shorthand: two people in a fight are both trying to be seen, and they are usually trying to be seen by attacking the other.
+
+"What I notice is that when two people are in a fight, this is such a critical thing. Two people in a fight, what both want is to be seen. Both of them want to feel seen. And what they're usually doing is they're just throwing shame at each other. They're like, you're wrong, you're wrong, you're wrong, you're wrong... If you want to end a fight, just sit down and see their truth. Connect with where they're at." -- Joe Hudson, Stop Relationship Fights in 10 Minutes
+
+This compresses the four-move frame to a single operational instruction: see their truth, connect with where they're at. The asymmetric exit mechanism follows: when one partner does this, the other almost immediately wants to do it back.
+
+"As soon as someone feels seen, almost immediately they want to see the other person. And so the fight just almost instantaneously resolves." -- Joe Hudson, Stop Relationship Fights in 10 Minutes
+
+The unilateral nature of the exit is the key practical claim. The fight does not require both partners to agree to the four-move frame. It requires one partner to enact it. The other partner's response is, almost by reflex, to reciprocate.
+
 ## When Someone Experiences This
 
 - Recognizing, after a conversation, that you spent the whole time trying to make the other person agree
@@ -71,6 +107,8 @@ The pre-work is often [[feeling-the-unfelt-emotion]]: the emotion that has been 
 - Feeling that even when you "won" the argument, nothing actually moved in the relationship
 - Realizing that the solution you arrived at requires constant maintenance to stay in place
 - Being in a conflict and wondering whether there is any way through that does not require one party to lose
+- The first fight that ends in ten minutes instead of hours after holding the see-them orientation
+- The recognition that the fight-as-courtroom is something you can opt out of by re-orienting toward the partner instead of the verdict
 
 ## Tone
 
@@ -91,7 +129,11 @@ Steady, instructive. The frame is offered as a description of what the alternati
 - Toward [[vulnerability]]: the specific practice for "allow yourself to be seen when they are ready"
 - Toward [[enjoy-over-manage]]: the broader distinction this principle sits inside — alignment is the relational version of enjoying-over-managing
 - Toward [[feeling-the-unfelt-emotion]]: the pre-work that has to happen before the orientation can hold
+- Toward [[dont-find-the-truth-find-their-truth]]: the standalone principle for the truth-search trap and the courtroom exit
+- Toward [[joe-and-tara-la-show-fight]]: the canonical illustration of the day-to-ten-minutes compression
+- Toward [[reflect-back-to-make-partner-feel-heard]]: the specific verbal move that follows once the orientation is held
 
 ## Sources
 
 - 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the four-move structure as the explicit alternative to control in a fight; the alignment-vs-compliance frame and the structural argument that alignment produces movement that maintains itself while control produces compliance that has to be maintained; the "finding what their truth is, finding where they want to move, finding how that aligns with you" formulation)
+- 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the day-to-ten-minutes compression as the proof-of-concept; the courtroom frame Joe and Tara developed as the in-the-moment exit phrase; the generalization that under most fights both partners want to be seen and are throwing shame at each other to get there; the asymmetric exit mechanism where one partner seeing first produces the other partner almost immediately wanting to see back; the LA-show-fight as the canonical illustrative story; the operational compression of the four-move frame into "see their truth, connect with where they're at")

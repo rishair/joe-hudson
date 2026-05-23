@@ -2,10 +2,10 @@
 type: practice
 id: patient-on-the-table
 title: "Patient on the Table (Depersonalize the Problem)"
-aliases: ["look at it like a patient on the table", "what are the symptoms, what's the next step", "depersonalize the problem", "no-fault problem framing", "ER doc framing", "remove the fault question", "symptom and treatment frame"]
-tags: ["shame", "blame", "fault", "problem-solving", "leadership", "teams", "practice"]
-related: ["shame-drives-behavior", "fault-vs-responsibility", "just-business-vs-impersonal", "money-is-impersonal", "decisions-are-emotional", "voice-in-the-head", "conditions-for-transformation"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
+aliases: ["look at it like a patient on the table", "what are the symptoms, what's the next step", "depersonalize the problem", "no-fault problem framing", "ER doc framing", "remove the fault question", "symptom and treatment frame", "patient on the table for couples", "patient on the table in relationships", "patient on the table mid-fight", "look at the problem like a patient on the table not personal", "the not-personal frame for fights", "treat the fight like a body on the table", "the impersonalize-the-fight move", "no-fault relationship problem-solving"]
+tags: ["shame", "blame", "fault", "problem-solving", "leadership", "teams", "practice", "relationships", "fighting", "marriage", "depersonalization"]
+related: ["shame-drives-behavior", "fault-vs-responsibility", "just-business-vs-impersonal", "money-is-impersonal", "decisions-are-emotional", "voice-in-the-head", "conditions-for-transformation", "most-disagreements-are-not-understanding-not-attack", "mirror-until-they-confirm", "every-fight-can-bring-you-closer", "listen-as-the-wisest-person", "fight-agreements-made-outside-the-fight"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever"]
 ---
 
 # Patient on the Table (Depersonalize the Problem)
@@ -71,12 +71,30 @@ Brett's reframe sharpens this: "What if it's not your fault? It's your responsib
 - Personal reviews of mistakes the voice in your head wants to make into shame.
 - Therapy or coaching sessions when the client is trying to assign blame to themselves or others as a substitute for working the problem.
 
+## The Same Move Inside a Relationship Fight
+
+Joe applies the patient-on-the-table reframe inside fights with his partner, citing the practice directly back to Jaime Waydo ("this woman I work with who's amazing, she's this technologist"). The move pairs with the discovery that most disagreement is misunderstanding rather than attack (see [[most-disagreements-are-not-understanding-not-attack]]). Once the comprehension lands and both partners stop feeling rejected by each other, the natural next move is to look at the actual problem as if it were a patient on the table.
+
+"There's this woman I work with who's amazing. She's this technologist and she talks about — she goes, it's like looking at the problem like it's a patient on the table. It's not personal. Like we just look at it like, oh, this is the problem. And then all of a sudden that's what happens. You're like, oh, we're just looking at this problem like it's a patient on the table. It's not personal. It doesn't mean anybody's bad. We can just listen to each other and like understand each other and then everything's going to resolve itself." -- Joe Hudson, Give Me 5 Minutes And I'll Transform How You Listen Forever
+
+The mechanism is the same as in the team application: removing the personal stake unlocks the work. In the team case, the personal stake is fault. In the marriage case, the personal stake is rejection ("you don't love me / you're attacking me"). Both stakes were doing damage. The reframe drops both.
+
+The natural sequence inside a conflict:
+1. Mirror until both partners actually understand each other (see [[mirror-until-they-confirm]]).
+2. The "you're attacking me" reading collapses (see [[most-disagreements-are-not-understanding-not-attack]]).
+3. The remaining substantive disagreement gets placed on the table as a problem.
+4. Both partners work the problem rather than each other.
+
+The patient-on-the-table frame is what makes step 4 possible. Without it, even cleared-up misunderstandings can recur because the problem keeps being relitigated as a referendum on whether the partner loves you.
+
 ## Upstream (What Leads Here)
 
 - When a team is stuck in fault-finding and not making progress.
 - When shame is preventing someone from looking honestly at what happened.
 - When the leader notices the question "whose fault is this" is hijacking the work.
 - When a person is in [[the-shame-avoidance-loop]] about a specific incident.
+- When a couple has cleared a comprehension gap (via [[mirror-until-they-confirm]]) and now has a substantive problem to address without sliding back into personal accusation.
+- When [[most-disagreements-are-not-understanding-not-attack]] has been named and the next move is to look at the residual problem impersonally.
 
 ## Downstream (Where Joe Goes From Here)
 
@@ -84,8 +102,11 @@ Brett's reframe sharpens this: "What if it's not your fault? It's your responsib
 - Toward [[shame-drives-behavior]]: the underlying mechanism.
 - Toward [[just-business-vs-impersonal]]: the broader principle of depersonalizing decisions.
 - Toward [[decisions-are-emotional]]: the recognition that the fault frame is itself an emotional response, not a logical one.
+- Toward [[most-disagreements-are-not-understanding-not-attack]]: the same depersonalize-the-problem move applied to the felt-rejection layer of fights.
+- Toward [[every-fight-can-bring-you-closer]] when the depersonalized work converts the fight into a connecting event.
 
 ## Sources
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-10-26_Jaime Waydo | Putting My Needs First (Jaime opens and closes this episode with the patient-on-the-table framing, applying it specifically as a way to keep shame from cropping up in team problem-solving)
+- 2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever (Joe applies the patient-on-the-table reframe inside relationship fights, citing it back to Jaime as "this woman I work with who's amazing, she's this technologist"; the move pairs with mirror-until-they-confirm and most-disagreements-are-not-understanding-not-attack as the third step in the sequence: clear the comprehension gap, drop the felt rejection, then look at the residual problem impersonally)

@@ -2,10 +2,10 @@
 type: practice
 id: listen-as-the-wisest-person
 title: "Listen to Everyone as the Wisest Person You Know (For a Day)"
-aliases: ["listen as the wisest person", "listen to everyone with skepticism then like a sage", "the listening experiment", "two-day listening practice", "skeptical day vs sage day", "listen to everyone like they're a sage", "the listening experiment for a day", "skepticism day and wisdom day", "listening as the receive"]
-tags: ["practice", "listening", "receiving", "view", "connection", "experiment", "two-day"]
-related: ["opposite-of-trying", "view", "empathy", "wonder", "connection", "being-heard", "how-what-questions", "ask-from-slowness-not-intellect", "five-star-meeting-commitment", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block"]
-sources: ["2023-04-14_The Opposite of Trying"]
+aliases: ["listen as the wisest person", "listen to everyone with skepticism then like a sage", "the listening experiment", "two-day listening practice", "skeptical day vs sage day", "listen to everyone like they're a sage", "the listening experiment for a day", "skepticism day and wisdom day", "listening as the receive", "listen to your partner like they're a guru", "listen like everything is a pearl of wisdom", "listen to her like she's everything I admire", "listen to him like he's the best guru of the biggest thing", "listen to my partner like a sage", "the in-fight listen-as-sage stance", "listen mid-fight as if they're the best guru", "listen with full wonder", "wonder as the listening stance", "the I-don't-need-to-find-the-answer listening stance", "listen for the truth I don't get yet", "listen as the someone-with-truth-I-don't-yet-see stance"]
+tags: ["practice", "listening", "receiving", "view", "connection", "experiment", "two-day", "fighting", "marriage", "couples", "wonder"]
+related: ["opposite-of-trying", "view", "empathy", "wonder", "connection", "being-heard", "how-what-questions", "ask-from-slowness-not-intellect", "five-star-meeting-commitment", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "mirror-until-they-confirm", "most-disagreements-are-not-understanding-not-attack", "fight-agreements-made-outside-the-fight", "every-fight-can-bring-you-closer", "wonder-vs-curiosity"]
+sources: ["2023-04-14_The Opposite of Trying", "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever"]
 ---
 
 # Listen to Everyone as the Wisest Person You Know (For a Day)
@@ -70,6 +70,30 @@ For some people, the practice surfaces the discovery that they have been chronic
 
 The same practice compressed into one meeting. Before walking into a conversation that matters, decide explicitly: "In this meeting, I am going to listen to this person as if they are the wisest person I know." Do not try to perform agreement. Just receive what they say with that stance. Notice what gets said that would not have been said under your default listening.
 
+## A Variant for the Middle of a Fight With Your Partner
+
+The most demanding application of the practice — and the one Joe describes from his own marriage — is to use it inside a fight. In the heat of a disagreement with your partner, when your body is reading their words as attack, deliberately switch the listening mode: listen to them as if they were the wisest guru you have ever met, as if every sentence coming out of their mouth contains a pearl of wisdom you are here to receive.
+
+"The way I do it in a fight is I will listen to Tara and I will think like she is everything I admire, like the best guru of the biggest thing, and she's like — everything that spills out of her mouth is a pearl of wisdom. And I'll listen to her like that, like, oh, there's some truth here that I don't get that I am here to understand. And it doesn't mean I have to buy it, but the idea is like, I'm here to fully open, fully to understand where she's coming from." -- Joe Hudson, Give Me 5 Minutes And I'll Transform How You Listen Forever
+
+Two clarifications make the move tenable:
+
+**You do not have to agree.** The instruction is not to capitulate. It is to receive with the assumption that there is truth in what they are saying that you do not yet see. You can still hold your own view after the receiving. The receiving is what allows the actual exchange to happen rather than the trauma-loop firefight.
+
+**You are listening for what you do not get.** The orientation is not "they are right and I am wrong." It is "there is something here I do not yet see that they are pointing at." The listening becomes a search for the wisdom you are missing rather than a defense against the threat you are hearing.
+
+Pair this in-fight variant with [[mirror-until-they-confirm]] for the operational form. The wisest-person stance is the inner state. The mirroring is the external loop. Together they convert most fights from positional combat into mutual discovery of what each partner was actually trying to say.
+
+## A Companion Mode: Listen With Full Wonder
+
+Alongside the wisest-person stance, Joe runs a parallel mode in fights and in conversation more broadly: listen with full wonder. Wonder here is the [[wonder]] from VIEW — curiosity without needing the answer, with awe.
+
+"The other thing that I do when I'm listening is just be full wonder, just like in the Connection Course when we talk about wonder. I'm just like, I don't — it's like curiosity without needing to know the answer. And it's this space of like, awe. Oh, wow. What is happening? I have no idea. I'm so curious, but I don't need to like find the — I don't need to root around and get to the place where we solve everything. I just need to be in wonder, and eventually it'll show itself." -- Joe Hudson, Give Me 5 Minutes And I'll Transform How You Listen Forever
+
+The two modes work together. The wisest-person stance assumes there is wisdom to receive. Wonder removes the urgency to resolve, fix, or understand right now. Both keep the listener open. Both prevent the body from collapsing into defense or into solution-mode, which would close the channel and convert receiving back into reactivity.
+
+See [[wonder]] and [[wonder-vs-curiosity]] for the underlying state. The application here is wonder as a listening posture specifically: not "I need to figure out what they mean" but "I am amazed at this conversation and I trust the meaning will show itself."
+
 ## What This Is Not
 
 The practice is not a manipulation tactic for getting people to disclose more. The receiving mode is real or it is not; people can tell the difference. Performing sage-listening while internally still skeptical produces only a slightly worse version of skeptical listening.
@@ -98,4 +122,5 @@ The practice is offered in the same tone as [[hands-together-exercise]] — as a
 
 ## Sources
 
-- 2023-04-14_The Opposite of Trying
+- 2023-04-14_The Opposite of Trying (the original two-day skeptical-vs-sage experiment; the mechanism by which the listener's stance shapes what the speaker says; the underlying receive frame)
+- 2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever (the in-fight application of the wisest-person stance from Joe's own marriage — listening to Tara as if every sentence were a pearl of wisdom; the companion wonder mode that runs alongside the wisest-person stance; the "I don't have to buy it but I'm here to fully open" qualification that makes the move tenable inside a real disagreement)

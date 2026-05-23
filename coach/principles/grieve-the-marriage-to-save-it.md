@@ -2,10 +2,10 @@
 type: principle
 id: grieve-the-marriage-to-save-it
 title: "Grieve the Marriage to Save the Marriage"
-aliases: ["pre-grieve the relationship", "mourn the marriage to save it", "assume the marriage is over to be undefended in it", "grief frees you to be true in the relationship", "grieving the relationship periodically", "let the marriage die to come alive in it", "grieve to drop the defense", "the marriage dies many times", "the periodic grief of a relationship"]
-tags: ["grief", "relationships", "marriage", "vulnerability", "defense", "principle", "practice"]
-related: ["visualizing-feared-outcomes", "grief-as-identity-dismantling", "defense", "upright-undefended-love", "fear-is-about-feeling", "without-grief-we-recreate-the-pattern", "feeling-the-unfelt-emotion"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
+aliases: ["pre-grieve the relationship", "mourn the marriage to save it", "assume the marriage is over to be undefended in it", "grief frees you to be true in the relationship", "grieving the relationship periodically", "let the marriage die to come alive in it", "grieve to drop the defense", "the marriage dies many times", "the periodic grief of a relationship", "grieve the rupture before the conversation", "grieve the breakup first to be at choice", "pre-grieve to enable consent", "the grief-the-loss-first heuristic applied to mortality", "the breakup-grief heuristic applied to chemo", "the grief-first principle applied to any major choice"]
+tags: ["grief", "relationships", "marriage", "vulnerability", "defense", "principle", "practice", "mortality", "choice", "consent"]
+related: ["visualizing-feared-outcomes", "grief-as-identity-dismantling", "defense", "upright-undefended-love", "fear-is-about-feeling", "without-grief-we-recreate-the-pattern", "feeling-the-unfelt-emotion", "accepting-the-end-empowers-the-yes", "i-have-a-terminal-diagnosis"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha"]
 ---
 
 # Grieve the Marriage to Save the Marriage

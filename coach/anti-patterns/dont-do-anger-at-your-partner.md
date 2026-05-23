@@ -5,7 +5,7 @@ title: "Don't Discharge Anger At Your Partner (Move It First, Then Talk)"
 aliases: ["don't yell at your partner", "don't do anger at people", "don't discharge at partner", "yelling at partner anti-pattern", "anger release is not anger at partner", "move anger somewhere else first", "don't aim anger at partner", "the discharge-at-partner anti-pattern", "release anger before the conversation", "I'm just expressing my feelings as bypass", "don't use the relationship as your gym for anger", "don't make your partner take your anger work", "the unconsented anger dump", "don't yell at your partner to get the anger out", "no permission no anger dump"]
 tags: ["anti-pattern", "anger", "relationships", "discharge", "consent", "anger release"]
 related: ["trigger", "walking-on-eggshells", "get-angry-in-the-car", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "dont-do-anger-at-your-partner", "say-the-thing-youre-not-saying", "anger"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-02-18_How to Use Relationship Fights to Heal"]
 ---
 
 # Don't Discharge Anger At Your Partner (Move It First, Then Talk)
@@ -64,6 +64,18 @@ Joe's framing: "You can be together in the sadness of it, and you can be togethe
 
 This is the constructive corollary to the anti-pattern. The anger does need to move. When the move can be done together at a shared external object, the relationship deepens instead of suffering the discharge. See [[sadie-christopher-anger-together]] for the full example.
 
+## The Sneakier Form: Picking a Fight as Displaced Discharge
+
+The anti-pattern usually gets named in cases where someone overtly yells at their partner about a real grievance. There is a sneakier form: starting a fight about anything available, because the body is looking for somewhere to discharge held charge that has nothing to do with the partner. The contradicting-everything pattern. The taking-anything-as-criticism pattern. The whatever-they-say-isn't-right pattern.
+
+"What's happening is that we have this big emotional experience and we are looking for a way to get it out and we're going for the safe place. ... So instead of going to, let's have a fight, go to what do we need to be connected? Because a fight can be very corrosive when it's like that, because it's not about the other person. So now I'm yelling at you, but it's really not about you at all. Like that can't be good. The fight isn't about the thing that's in the relationship, it's about the fact that your boss yelled at you or something like that." -- Joe Hudson, How to Use Relationship Fights to Heal
+
+This is structurally the same anti-pattern with a different surface. The overt-yelling version at least names a complaint; the sneaky version uses any pretext available because the function is the friction, not the content. Both are unconsented discharge of held material onto the partner.
+
+The recovery move is the same: route the discharge somewhere else. The specifically-couple-level intervention for this variant is [[go-to-separate-rooms-and-yell]] — both partners go to their own rooms, both discharge in private, both come back. The principle that names this dynamic is [[looking-for-a-fight-means-self-disconnection]]. The diagnostic test that disambiguates this from a content-fight is [[the-contradict-myself-test]].
+
+The recognition signature: the fight will continue regardless of what gets said. Agreement does not end it. Apology does not end it. New topic does not end it. The reach is for the friction, and the friction will find a new target if the previous one is removed. See [[everything-i-say-they-contradict]] for the read.
+
 ## The Failure Mode This Anti-Pattern Replaces
 
 Some people read "do not yell at your partner" as "suppress the anger." That is also wrong. Anger that does not move either goes to disdain or to physical symptoms or to leaking sideways at people who are not the source.
@@ -95,3 +107,4 @@ For the somatic mechanics, see [[fake-the-anger-to-let-it-move]] (the body needs
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the shared-target variation: both partners moving anger together at a chronic illness rather than at each other
+- 2025-02-18_How to Use Relationship Fights to Heal -- Joe names the sneakier form of the anti-pattern: picking a fight about anything available because the body is looking for a safe place to discharge held charge that has nothing to do with the partner. Includes the couple-level antidote of going to separate rooms to yell and then coming back together, and the diagnostic that the fight will continue regardless of what is said because the friction itself is the function.
