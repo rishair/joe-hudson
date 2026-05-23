@@ -5,7 +5,7 @@ title: "Being With Another's Emotion Is Actually Being With Your Own Pain"
 aliases: ["their pain evokes your pain", "what you're being with is your own pain", "the other's emotion is the trigger for your emotion", "being with someone is being with what they evoke in you", "their pain isn't what's hard their pain evokes your pain", "the difficulty is in you not in them", "if it were easy you would be there", "the obstacle to presence is your own evoked feeling", "presence requires being with what they bring up in you", "their emotion evokes yours", "the partner's emotion as your trigger"]
 tags: ["principle", "presence", "empathy", "relationships", "emotion", "self-knowledge", "caretaking"]
 related: ["trigger", "stay-centered-while-holding-space", "empathy", "losing-yourself-in-others", "caring-vs-caretaking", "feeling-the-unfelt-emotion", "is-this-mine", "capacity-to-love-other-is-capacity-to-love-self", "do-the-work-thats-harder-for-you"]
-sources: ["2022-10-26_Triggered!"]
+sources: ["2022-10-26_Triggered!", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
 ---
 
 # Being With Another's Emotion Is Actually Being With Your Own Pain
@@ -120,6 +120,35 @@ This is the same mechanism as [[triggers-reveal-your-own-beliefs]] applied to em
 
 Joe delivers this as a quiet reframe, almost a small correction to Alexa's framing. The tone is "this is exactly right, and also notice where the actual work lives." There is no judgment of the difficulty of being with another's emotion. There is just the redirect to where the leverage actually is.
 
+## The Childhood-Origin Diagnostic
+
+A particularly clean self-diagnostic for which emotions are the unworked material: the emotions you have a hard time sitting with in your partner or your kids are usually the exact emotions you were not allowed to sit with as a kid. The match is often one-to-one. The parent who could not let you cry produced an adult who cannot sit with their partner's crying. The parent who could not let you be angry produced an adult who cannot be with their kid's anger.
+
+"What I've noticed is every emotion that I have a hard time sitting with, with Tara or with my kids, is an emotion that I wasn't allowed to sit with as a kid that I don't like sitting with." -- Joe Hudson, Stop Fixing Your Partner
+
+The diagnostic value: the specific emotion that destabilizes you in the people closest to you names, with precision, an emotion from your own childhood that did not get welcomed. The current intolerance maps to the original prohibition. The work is to give yourself, now, what was not available then — permission to feel that specific emotion fully — and the intolerance with others dissolves as a side-effect.
+
+This refines the broader principle. The article's earlier framing ("their pain evokes your pain") is correct but general. The childhood-origin diagnostic makes it specific: the pain their pain evokes is usually the pain you were specifically forbidden from feeling. The forbidden emotion lives in the body as an un-completed emotional task. Other people's expression of that emotion is one of the only consistent stimuli that activates the un-completed task. The activation feels like "I can't handle this from them" but is really "I am being asked to feel something I was trained to suppress."
+
+A worked example Joe uses: the airplane. When a kid starts crying on a plane, look around at the adults who are visibly aggravated. The aggravated adults were the ones who were not allowed to cry as kids. The kid's crying is activating, in them, the suppressed crying of their own childhood. The aggravation is the felt cost of holding that suppression in the presence of evidence that it could have been otherwise.
+
+"You go into an airplane and a kid starts to cry and you stand up and you look at the airplane and everybody who's frickin' frustrated, they were the ones that weren't allowed to cry as kids. It's just like, as simple as that." -- Joe Hudson, Stop Fixing Your Partner
+
+The airplane example is generalizable. The annoyed-at-the-public-tantrum adult, the parent who shuts down at their teenager's anger, the partner who freezes at sadness — all are diagnostic moments. The reaction is naming the emotion that was forbidden in the reactor's own childhood. See [[esme-just-having-my-emotions]] for the airplane example in its broader context, and [[every-trigger-with-your-kid-is-projection]] for the parallel diagnostic in the parent-child relationship.
+
+The instruction for an AI coach: when a person reports difficulty being with a specific emotion in their partner or child, the most direct line of inquiry is "what happened with that emotion in your own family?" The answer almost always reveals the suppression. The work then becomes the work on the suppression, not the work on the relationship.
+
+## The Self-Protective Function of Managing the Other's Emotion
+
+The principle deepens once the self-protective function of the management becomes visible. Trying to make the partner feel a different emotion is not just a failure of presence. It is an active strategy for not having to feel the emotion the partner is producing in you.
+
+"What I'm actually doing is I am trying to make them feel a certain way so I don't have to feel a certain way. It's even more manipulative than I thought it was. I thought it was at the beginning, like, I'm trying to help this person. And then it was, oh, I am trying to make them feel good for me. So I don't have to feel a certain way so I can continue to be neurotic around my emotions." -- Joe Hudson, Stop Fixing Your Partner
+
+The frame "manipulation" is heavy and exact. The behavior that looked like caring is, structurally, the management of the partner's state for the avoidance of one's own. The recognition does not require self-attack — see [[loving-all-parts]] — but it does require honesty. The cleaner the recognition of the function, the more cleanly the behavior can change.
+
+The mechanism: as long as the partner's emotion is the one being managed, the emotion in the self that is evoked by the partner's emotion never has to be felt. The whole project of caretaking is, at the level of mechanism, a sophisticated avoidance of the caretaker's own evoked feeling. See [[caring-vs-caretaking]] for the systematic distinction this principle rests on, and [[dont-take-responsibility-for-anothers-happiness]] for the structural principle that follows.
+
 ## Sources
 
 - 2022-10-26_Triggered!
+- 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the childhood-origin diagnostic — the specific emotions you can't sit with in your partner or kids are the emotions you weren't allowed to feel as a kid; the airplane example as the public-space diagnostic for which adults had which emotions forbidden; the explicit naming of caretaking as the self-protective avoidance of the evoked feeling)

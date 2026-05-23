@@ -2,10 +2,10 @@
 type: principle
 id: dont-do-emotion-at-people
 title: "Don't Do Emotion At People"
-aliases: ["don't do anger at people", "don't do sadness at people", "emotion at someone is emotional abuse", "release first then talk", "don't aim emotion", "emotion as manipulation"]
+aliases: ["don't do anger at people", "don't do sadness at people", "emotion at someone is emotional abuse", "release first then talk", "don't aim emotion", "emotion as manipulation", "what is emotional abuse", "Joe's definition of emotional abuse", "emotional abuse is using emotion to control", "the five forms of emotional abuse", "anger guilt sadness fear withdrawal as control", "the weak-collapsed-person form of emotional abuse", "the broken-down for two weeks form", "the I can't get up form", "the collapse as control move", "the small weak version of emotional abuse", "the unseen form of emotional abuse", "the suffering-as-control form", "the controlling through sadness pattern", "the controlling through guilt pattern", "the controlling through fear pattern", "control doesn't work in relationships", "control breaks eventually", "the deal-energy argument against control", "the venture capital frame applied to control", "see them understand them be seen find alignment", "the alternative to control in relationships", "find their truth find where they want to move", "alignment instead of control"]
 tags: ["emotions", "anger", "sadness", "boundary", "abuse", "expression"]
-related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control", "anger", "get-angry-in-the-car", "withdrawal-with-vs-without-a-timeline", "using-your-emotion-to-make-others-hold-it", "emotion-at-someone-means-self-manipulation"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Feel Over Figure", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
+related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control", "anger", "get-angry-in-the-car", "withdrawal-with-vs-without-a-timeline", "using-your-emotion-to-make-others-hold-it", "emotion-at-someone-means-self-manipulation", "withdrawal-of-love-as-passive-aggression", "management-required-to-launch-predicts-management-required-forever", "aggressive-victim-stance", "every-fight-can-bring-you-closer", "see-them-be-seen-find-alignment-instead-of-control"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Feel Over Figure", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship"]
 ---
 
 # Don't Do Emotion At People
@@ -24,8 +24,21 @@ People understand the principle for anger ("don't get angry at the person") but 
 - **Sadness at someone** to produce guilt is abuse.
 - **Fear at someone** ("if you do this I won't be safe") to control is abuse.
 - **Disappointment at someone** to produce shame is abuse.
+- **Withdrawal of love at someone** to punish or compel is abuse. See [[withdrawal-of-love-as-passive-aggression]].
 
 The mechanism is the same: using the emotion as a lever to change another person rather than as information about yourself.
+
+"The one that our society says is the worst is anger. Yelling at me so that I do the thing... that aggressive thing, that's what we say is bad. But it's just as true: using guilt to try to control somebody is emotional abuse. Or using your sadness. Look how hurt I am, see how bad you are. Or using your fear, like, ah ah ah, take care of me, take all my fear for me. Anytime when you're putting the emotion at the person and you want to control them and try to have them take care of you or do what you want, bend them to your will through your emotions — that's abuse." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+## The Weak-Collapsed Form (The Form Most Often Missed)
+
+The form that gets least recognized: the person who collapses, breaks down, and goes unreachable when criticized or asked to change. The visible content is suffering. The function is control: the partner now cannot say the thing, cannot bring the concern, cannot ask for the change, because doing so will produce the collapse.
+
+"My favorite that is like very not seen almost at all is the person who's like the weak person — 'oh, you said something critical to me and now I'm broken down and I'm sad and I'm not going to get up for two weeks and I can't love you anymore.' I'm being big about it, but this can happen in very small ways. That's just as much emotional abuse as someone yelling at someone as a way to scare them to get them to change." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+The structural diagnostic is the same as for yelling: is the emotion being deployed to make the other person do, stop, or change something? If the answer is yes, the moral surface (suffering, fragility, weakness) does not change what the move is. The collapse is functioning as control. See [[aggressive-victim-stance]] for the related pattern where victimhood itself becomes the lever, and [[vulnerability-as-control]] for the parallel weaponization of vulnerability.
+
+The reason this form is invisible: the social field reads the visibly distressed party as the wronged party. The partner who responded to the collapse with frustration looks like the bad guy. The collapsing partner looks like the one who was hurt. The actual constraint of behavior is in the other direction, but the visible distress runs the other way.
 
 ## The Sequence
 
@@ -113,6 +126,31 @@ The same recurrence diagnostic applies to love-bombing as to anger-controlling: 
 
 This principle is one specific application of [[vulnerability-as-control]]. Sadness aimed at someone to control them is weaponized vulnerability. Anger aimed at someone to control them is the same mechanism in a different costume.
 
+## Control Doesn't Work Anyway (The Deal-Energy Argument)
+
+The principle has a second leg that lands for people who do not move on the moral argument: control through emotion does not actually produce the thing it is reaching for. It produces compliance that has to be maintained, and the maintenance cost compounds until the system breaks.
+
+The frame Joe carries over from venture capital: the amount of energy required to make a deal happen is the amount of energy required to keep the deal running. The deal closed with flow runs with flow. The deal closed with pressure runs with pressure. The same principle holds for human relationships and is the structural argument against emotional control. See [[management-required-to-launch-predicts-management-required-forever]] for the full version of the principle.
+
+"If you have to control and cajole and push somebody into doing something so that you can be happy, you're going to have to maintain that pressure to keep them in that spot. It doesn't frickin' work. Finding what their truth is, finding where they want to move, and finding how that aligns with you — that's a much easier way to get to a place where you're together and at peace. So it doesn't even work to try to control anybody for any kind of length of time. And it's why you see relationships where somebody dominates through control, those aren't happy relationships, whether it's controlling through big emotion sadness or big emotion anger or by withholding love. All of that, none of it leads to a happy relationship and just never works." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+The compliance produced by emotional control breaks for the same reason every other control regime breaks: the controlled party did not agree from their own truth. They moved because the cost of not moving was too high. The moment the controlling energy drops, the underlying state returns. The relationship requires constant pressure to maintain the appearance of working, and the constant pressure is itself what makes the relationship unhappy.
+
+This is the practical argument for the coachee who can hear "it won't work" more clearly than "it's abuse."
+
+## What To Do Instead: See Them, Be Seen, Find the Alignment
+
+The positive frame, in Joe's own structure: when you are not trying to control, you are trying to do four things:
+
+- **See them.** Understand where the other person actually is, not where you need them to be for your plan to work.
+- **Understand where they are.** Their truth, not your projection of their truth.
+- **Allow yourself to be seen when they are ready to see you.** Not push to be seen, not perform vulnerability for effect, not require them to look. Be available for the seeing when their capacity for it is present.
+- **Find a way that both of you can come together and have a solution that works for both of you.** Not a solution where one party wins and the other complies. A solution that is genuinely both parties' truth at the same time.
+
+"In a fight, when you're having a fight with somebody, you're not trying to control them in any way. You are trying to see them, you are trying to understand where they are. You're trying to allow yourself to be seen when they're ready to see you. You are finding a way that both of you can come together and have a solution that works for both of you, not control." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+The alignment frame is the structural alternative. The control frame produces compliance that has to be maintained. The alignment frame produces movement that maintains itself, because both parties are moving from what they actually want. See [[see-them-be-seen-find-alignment-instead-of-control]] for the dedicated treatment of the four-move structure, and [[every-fight-can-bring-you-closer]] for the broader orientation that this principle serves.
+
 ## Why It Is Not Suppression
 
 This is not "do not feel your feelings." It is the opposite. Feel them more. Feel them fully. The fuller the felt experience by yourself, the less the emotion needs to leak at others. Suppressing emotions guarantees they will eventually be expressed at someone. Felt emotions clear.
@@ -135,6 +173,7 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 - When someone is about to have a "hard conversation" with a partner, boss, or family member.
 - When someone is using their own emotions as evidence in a complaint about another person.
 - When someone reports that another person uses sadness, anger, or disappointment to control them.
+- When the concern [[am-i-being-emotionally-abusive]] is being worked through and the working definition is needed.
 
 ## Downstream (Where This Leads)
 
@@ -142,6 +181,11 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 - Toward [[unfelt-emotion-leaks]]: why the leak happens in the first place.
 - Toward [[feeling-the-unfelt-emotion]]: the practice that prevents the leak.
 - Toward [[vulnerability-as-control]]: the related anti-pattern using vulnerability as a lever.
+- Toward [[withdrawal-of-love-as-passive-aggression]]: the specific form for the withdrawal/withholding direction.
+- Toward [[management-required-to-launch-predicts-management-required-forever]]: the structural argument that emotional control does not work even on its own terms.
+- Toward [[aggressive-victim-stance]]: the configuration where the controlling emotion is delivered from a victim position.
+- Toward [[see-them-be-seen-find-alignment-instead-of-control]]: the dedicated treatment of the four-move alternative to control.
+- Toward [[every-fight-can-bring-you-closer]]: the destination orientation that the see-them/be-seen/find-alignment alternative serves.
 
 ## Sources
 
@@ -151,3 +195,4 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 - 2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Followup Questions
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More (same episode as 2023-01-06; one was the original posting, the other a rebroadcast or reposting)
 - 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (Brett's articulation of manipulation-as-self-manipulation; Joe's "that's a beautiful point" confirmation; the recurrence diagnostic; the explicit cross-emotion extension that includes love-bombing as the love-version of the same mechanism)
+- 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the explicit enumeration of all five forms — anger, guilt, sadness, fear, withdrawal of love — under the unified definition; the weak-collapsed-person form as the most-often-missed variant; the deal-energy argument that emotional control does not work because the energy to produce the compliance is the energy required to maintain it; the see-them/understand-them/be-seen/find-alignment alternative as the structural replacement for control)

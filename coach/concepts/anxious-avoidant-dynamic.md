@@ -4,7 +4,7 @@ id: anxious-avoidant-dynamic
 title: "The Anxious-Avoidant Dynamic (Chasing as the Push-Away)"
 aliases: ["anxious avoidant dynamic", "the chaser and the aloof", "the pursuer and the distancer", "chasing pushes away", "neediness pushes away", "jealousy pushes away", "love equals chasing", "scared of receiving love", "the chasing configuration", "the pursuit-distance pattern", "fear of being adored", "the receiving abyss", "scared of love where I receive"]
 tags: ["relationships", "attachment", "anxious avoidant", "pursuit-distance", "trauma mapping", "chasing"]
-related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "self-reliance-pushes-people-away", "transactional-relationships-as-defense"]
+related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "self-reliance-pushes-people-away", "transactional-relationships-as-defense", "chaser-and-love-remover-both-experience-death", "withdrawal-with-vs-without-a-timeline"]
 sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-11-10_Finding a Romantic Partner"]
 ---
 
@@ -75,6 +75,10 @@ See [[without-grief-we-recreate-the-pattern]]. The grief is what frees the body 
 This article centers the chaser because that is who usually presents. The avoidant partner is performing the matching half. They have learned that closeness equals threat or absorption, that being chased is the form of love that does not engulf them. Their work has the same shape -- feel and love the avoided states (closeness, being needed, being wanted) -- but the felt content is different.
 
 When both partners are doing this work, the dynamic can transform within the relationship. When only one is, the chasing partner sometimes finds that the work itself produces enough internal change that the configuration with this partner is no longer sustainable. See [[relationships-as-personal-growth-path]].
+
+## The In-Relationship Form: Chaser and Love-Remover in Fights
+
+Once these two configurations end up in an established relationship, the structure shows up most acutely in fight-leaving. See [[chaser-and-love-remover-both-experience-death]] for the principle. The summary: the chaser's natural pursuit and the love-remover's natural withdrawal are exactly the moves that trigger the other's deepest trauma. Each partner's worst trauma is the other's most natural move. The work in the relationship is not to argue the other out of their stance but to build practices (especially [[withdrawal-with-vs-without-a-timeline]]) that allow both responses to coexist without producing the other's death.
 
 ## Why Therapy Often Does Not Touch This
 

@@ -6668,15 +6668,139 @@
     },
     {
       "folder": "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T01:32:56Z",
+      "articles_created": [
+        "see-them-be-seen-find-alignment-instead-of-control",
+        "am-i-being-emotionally-abusive"
+      ],
+      "articles_updated": [
+        "dont-do-emotion-at-people",
+        "verbal-abuse-as-controlling-with-anger",
+        "management-required-to-launch-predicts-management-required-forever",
+        "withdrawal-of-love-as-passive-aggression"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:41:28Z"
+    },
+    {
+      "folder": "2025-01-29_The Best Trick For Having Great Fights In Relationship",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:36:16Z",
+      "articles_created": [
+        "fight-agreements-made-outside-the-fight",
+        "cant-make-agreements-during-the-fight",
+        "agreements-must-be-co-created-not-prescribed",
+        "repair-phrase-as-trauma-deactivator",
+        "dont-fight-about-breaking-the-fight-agreement"
+      ],
+      "articles_updated": [
+        "every-fight-can-bring-you-closer",
+        "arc-of-fighting-maturation",
+        "name-im-in-my-trauma-as-couple-language",
+        "agreements-renegotiate-as-you-change"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:45:14Z"
+    },
+    {
+      "folder": "2025-01-31_Self-Reliance Is A Trap",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:41:59Z",
+      "articles_created": [
+        "self-reliance-is-an-illusion",
+        "how-is-he-asking-for-help-differently",
+        "giving-to-avoid-receiving",
+        "what-emerges-when-self-reliance-drops",
+        "dont-glorify-self-reliance",
+        "self-reliance-emotional-signature",
+        "you-make-that-impossible",
+        "double-checking-help"
+      ],
+      "articles_updated": [
+        "i-have-to-do-it-all-myself",
+        "self-reliance-pushes-people-away",
+        "joes-abandonment-mapping",
+        "helplessness-is-the-gateway",
+        "anger-as-cover-for-deeper-emotion"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:54:52Z"
+    },
+    {
+      "folder": "2025-02-04_The Healthy Way To Leave A Fight",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:45:45Z",
+      "articles_created": [
+        "chaser-and-love-remover-both-experience-death"
+      ],
+      "articles_updated": [
+        "withdrawal-with-vs-without-a-timeline",
+        "anxious-avoidant-dynamic"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:50:46Z"
+    },
+    {
+      "folder": "2025-02-07_How to Use Your Relationship Fights to Heal",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:51:16Z",
+      "articles_created": [
+        "nervous-system-codes-threats-as-real",
+        "disagreement-that-heals-vs-retraumatizes"
+      ],
+      "articles_updated": [
+        "verbal-abuse-as-controlling-with-anger",
+        "fight-agreements-made-outside-the-fight",
+        "withdrawal-with-vs-without-a-timeline"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:58:10Z"
+    },
+    {
+      "folder": "2025-02-10_Boundaries Aren't What You Think They Are",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:55:51Z",
+      "articles_created": [
+        "good-fights-require-great-boundaries",
+        "new-boundary-always-feels-not-okay",
+        "boundary-as-self-teaching",
+        "defended-boundary-invites-the-fight"
+      ],
+      "articles_updated": [
+        "boundaries",
+        "self-aggression-permits-others-aggression",
+        "i-need-to-set-boundaries"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:03:34Z"
+    },
+    {
+      "folder": "2025-02-12_Stop Fixing Your Partner - It\u2019s Killing the Relationship",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:58:45Z",
+      "articles_created": [],
+      "articles_updated": [
+        "dont-take-responsibility-for-anothers-happiness",
+        "being-with-anothers-emotion-is-being-with-your-own-pain",
+        "nobody-wants-to-have-sex-with-a-kid",
+        "esme-just-need-to-be-sad",
+        "caring-vs-caretaking"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:05:38Z"
+    },
+    {
+      "folder": "2025-02-14_How Generosity Improves Your Well-Being",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T02:04:09Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-01-29_The Best Trick For Having Great Fights In Relationship",
+      "folder": "2025-02-18_How to Use Relationship Fights to Heal",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T01:36:16Z",
+      "claimed_at": "2026-05-23T02:06:12Z",
       "articles_created": [],
       "articles_updated": []
     }

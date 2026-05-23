@@ -4,7 +4,7 @@ id: arc-of-fighting-maturation
 title: "The Arc of Fighting Maturation in a Relationship (From Bad Fighting or No Fighting to Game On)"
 aliases: ["arc of fighting maturation", "the stages of how couples learn to fight", "the arc from violent fights to game on", "two starting points for fighting arc", "the no-fighters path and the abusive-fighters path", "how a couple's fighting evolves", "stages of relational fighting maturity", "the developmental arc of how a couple fights", "from skirmishes to healing fights", "the end-state of fighting practice is I can't wait to fight", "the fighting arc"]
 tags: ["framework", "relationships", "fighting", "marriage", "arc", "development", "growth", "stages"]
-related: ["every-fight-can-bring-you-closer", "we-never-fight", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "view-as-technique", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "stages-of-emotional-development", "name-im-in-my-trauma-as-couple-language"]
+related: ["every-fight-can-bring-you-closer", "we-never-fight", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "view-as-technique", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "stages-of-emotional-development", "name-im-in-my-trauma-as-couple-language", "fight-agreements-made-outside-the-fight"]
 sources: ["2024-10-25_How To Fight And Win"]
 ---
 
@@ -125,6 +125,7 @@ The exit from this stall is recognizing that you can only fix yourself. The part
 - Toward [[view-as-technique]] for couples whose techniques have been weaponized
 - Toward [[hold-back-from-relationship-is-what-needs-healing]] for couples whose fights are about wrong things
 - Toward [[name-im-in-my-trauma-as-couple-language]] for couples ready to make the trauma move
+- Toward [[fight-agreements-made-outside-the-fight]] as a concrete practice that gives couples in the middle stages a structure for installing trauma-aware moves before they need them
 - Toward [[every-fight-can-bring-you-closer]] as the destination orientation
 - Toward [[tara-fights-that-destroyed-joes-narcissism]] as the example of late-stage reversion
 - Toward [[feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse]] when the couple is in unexpected late-stage difficulty

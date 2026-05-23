@@ -4,8 +4,8 @@ id: boundaries
 title: "Boundaries"
 aliases: ["what a boundary is", "setting boundaries", "drawing boundaries", "boundary", "Joe's definition of boundaries", "the boundary teaching", "how Joe defines boundaries", "good boundaries", "effective boundaries", "loving boundaries"]
 tags: ["boundaries", "love", "empowerment", "vulnerability", "relationships", "fear"]
-related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries"]
+related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner", "good-fights-require-great-boundaries", "new-boundary-always-feels-not-okay", "boundary-as-self-teaching", "defended-boundary-invites-the-fight"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries", "2025-02-10_Boundaries Aren't What You Think They Are"]
 ---
 
 # Boundaries
@@ -171,6 +171,40 @@ The boundary that protects you when you are first learning that you deserve prot
 
 See [[boundaries-expand-as-capacity-grows]] and [[joes-dad-drinking-boundary]].
 
+## Boundaries Are the Infrastructure of Productive Fights
+
+A boundary is not the opposite of fighting. The boundary is what makes fighting useful. A fight conducted without boundaries cannot go anywhere good, because the absence of boundaries means each party can only be safe by overpowering the other. Boundaries give each party a clean place to stand, which is what lets the fight produce closeness rather than damage.
+
+"Fighting requires great boundaries. You have to have great boundaries to have good, productive fights." -- Joe Hudson, Boundaries Aren't What You Think They Are
+
+See [[good-fights-require-great-boundaries]] for the full structural argument.
+
+## The Boundary Is Mostly for You, Not for Them
+
+The function of drawing a boundary is not primarily to change the other person. It is to install, in yourself, the embodied knowledge that the behavior is not okay. Once that knowledge is in place, your delivery of any future boundary is different, and the behavior often does not arise at all because others read the embodied standard you carry.
+
+"The boundary is mostly about you learning for yourself that something's not okay. And your drawing it externally is learning that in a real concrete way. It's like learning how to fix an engine. You need to get your hands dirty." -- Joe Hudson, Boundaries Aren't What You Think They Are
+
+The boss-yelling diagnostic illustrates: "Why is it that the thing that the boss does to you, they're not doing to everybody. It's because in that person's mind, it's very clear that like, no, I'm not going to get yelled at by the boss. ... As soon as you know, like, oh, I'm not going to put up with that kind of behavior, then there's nothing in you that has to fight or defend, and it's less likely for that behavior to come at you."
+
+See [[boundary-as-self-teaching]] for the full principle and [[self-boundary-mirrors-external-boundary]] for the underlying structural mirror.
+
+## New Boundaries Always Feel Not-Okay to Draw
+
+The novelty of a new boundary produces a structural discomfort that is often misread as evidence the boundary is wrong. If a boundary is new, by definition you have been tolerating the behavior, which means your internal standard has not yet been set. Drawing the boundary feels not-okay because it is novel, not because it is incorrect.
+
+"If you have to draw a boundary as a new thing, if it's a new boundary that you're drawing, it's automatically true that you do not feel okay drawing the boundary. You think that maybe you shouldn't draw this boundary, like maybe you should just put up with it. Maybe you should put up with the gaslighting. Maybe you should put up with the guilt." -- Joe Hudson, Boundaries Aren't What You Think They Are
+
+The mistake this produces: a person rehearses the boundary, feels the discomfort, withdraws the boundary, and concludes the boundary was wrong. The discomfort was actually the signature of the boundary's newness. See [[new-boundary-always-feels-not-okay]].
+
+## The Defended Delivery Invites the Fight
+
+The same boundary, delivered with bracing or with open heart, lands as a different boundary. The defended delivery telegraphs "I expect you to attack me," and the receiver, positioned as the attacker, attacks. The open-hearted delivery telegraphs "this is what I am going to do and the relationship is still here," and the receiver responds differently.
+
+"You're going to be ready for the fight, which invites the fight. ... So it's going to be a whole different interaction if you can draw it with that open heart." -- Joe Hudson, Boundaries Aren't What You Think They Are
+
+This is why the internal work has to precede the delivery. The body state of the speaker is the substrate that determines how the words land. See [[defended-boundary-invites-the-fight]] and [[speak-the-elephant-from-open-heart-not-fear]].
+
 ## Upstream (What Leads Here)
 
 - When someone asks "how do I set good boundaries?"
@@ -190,9 +224,15 @@ See [[boundaries-expand-as-capacity-grows]] and [[joes-dad-drinking-boundary]].
 - Toward [[does-saying-it-increase-your-love]]: the live diagnostic question
 - Toward [[apologize-for-trying-to-control]]: the move when you catch yourself overshooting
 - Toward [[boundaries-expand-as-capacity-grows]]: the principle that boundaries refine over time
+- Toward [[good-fights-require-great-boundaries]]: why boundaries are required for productive fighting
+- Toward [[boundary-as-self-teaching]]: the principle that the boundary is mostly for the speaker
+- Toward [[new-boundary-always-feels-not-okay]]: why the discomfort of first boundaries is structural
+- Toward [[defended-boundary-invites-the-fight]]: the failure mode when the boundary is delivered from bracing
 
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
 - 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2024-08-05_How to Draw HEALTHY Boundaries
+- 2025-02-10_Boundaries Aren't What You Think They Are (boundaries are mostly for the speaker not the receiver; new boundaries always feel not-okay; the defended delivery invites the fight; productive fighting requires great boundaries; the boss-yelling diagnostic; the hands-dirty metaphor for boundary learning)

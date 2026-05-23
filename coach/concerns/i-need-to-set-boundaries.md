@@ -4,7 +4,7 @@ id: i-need-to-set-boundaries
 title: "I need to set boundaries / How do I know if I'm setting good boundaries?"
 aliases: ["how do I set boundaries", "I don't know how to set boundaries", "is this a good boundary", "what's the difference between a boundary and an ultimatum", "I'm bad at boundaries", "I can't draw boundaries", "I'm scared to set a boundary", "how do I know if my boundary is good", "I'm being too harsh with my boundary", "I keep being walked over", "I need to enforce a boundary", "I'm setting a boundary"]
 tags: ["boundaries", "concerns", "self-worth", "relationships", "fear"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2024-08-05_How to Draw HEALTHY Boundaries"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2024-08-05_How to Draw HEALTHY Boundaries", "2025-02-10_Boundaries Aren't What You Think They Are"]
 ---
 
 # I need to set boundaries / How do I know if I'm setting good boundaries?
@@ -40,6 +40,10 @@ The concern is often presented explicitly using the word "boundary." But it also
 - The person hedges every request with "I don't want to be a difficult"
 - The person says they "have been told" they need better boundaries (often by a therapist, a partner, or a book)
 - The person reports having drawn a boundary that "didn't work" or "caused more conflict"
+- The person reports that drawing a boundary feels impossible because "I shouldn't even need to draw this"
+- The person reports comparing themselves to a co-worker, sibling, or friend who never seems to receive the bad treatment they receive
+- The person reports that whenever they try to set a boundary, a fight breaks out
+- The person is asking how to fight better in a relationship and the underlying problem is the absence of any boundary infrastructure
 
 ## What Joe Hears
 
@@ -73,6 +77,14 @@ The branching point is what kind of boundary trouble the person is in. Different
 
 - If the person is scared of being attacked when they draw the boundary: Joe redirects from "how do I manage their reaction" to "are you actually okay with this boundary yourself?" When the boundary is firmly held inside, the fear of the attack drops because the attack cannot land on a clearly-held boundary. See [[self-boundary-mirrors-external-boundary]] and [[extend-the-no-asshole-rule-inward]].
 
+- If the person reports drawing the boundary and "it didn't work" because the other person did not respect it: Joe reframes the function of the boundary. The boundary is mostly for the speaker, not the receiver. The drawing-it-externally is the means by which the standard gets installed internally. The behavior change in the other person is downstream of the embodied standard the speaker now carries. See [[boundary-as-self-teaching]].
+
+- If the person reports that their boundaries keep producing fights: the diagnostic is the delivery, not the boundary. The defended delivery invites the fight the speaker was afraid of. The work is on the internal state before delivery. See [[defended-boundary-invites-the-fight]].
+
+- If the person is paralyzed by the "I shouldn't be drawing this" feeling: name that the not-okay-ness is automatic for any new boundary. The discomfort is novelty-discomfort, not integrity-discomfort. The diagnostic for which is which: does the love test pass? If yes, draw the boundary despite the not-okay-ness. See [[new-boundary-always-feels-not-okay]].
+
+- If a couple is presenting recurring fights and asking how to fight better: the question is upstream. Boundaries are the infrastructure of productive fighting. Without them, the fights cannot go anywhere good. See [[good-fights-require-great-boundaries]].
+
 ## Coaching Path
 
 The typical flow:
@@ -88,3 +100,5 @@ The typical flow:
 
 - 2022-03-18_What's So Scary About Boundaries?
 - 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
+- 2024-08-05_How to Draw HEALTHY Boundaries
+- 2025-02-10_Boundaries Aren't What You Think They Are

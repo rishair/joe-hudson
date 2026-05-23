@@ -2,10 +2,10 @@
 type: principle
 id: management-required-to-launch-predicts-management-required-forever
 title: "The Management Required to Start Something Is the Management Required to Keep It Running"
-aliases: ["management to launch equals management to maintain", "the deal you have to push to close you'll have to push to run", "if you have to convince them to start you'll have to convince them to continue", "the launch-management predicts the lifetime-management principle", "investment management predictor", "hiring management predictor", "the friction at the start is the friction forever", "the convincing-to-close predicts convincing-to-keep"]
+aliases: ["management to launch equals management to maintain", "the deal you have to push to close you'll have to push to run", "if you have to convince them to start you'll have to convince them to continue", "the launch-management predicts the lifetime-management principle", "investment management predictor", "hiring management predictor", "the friction at the start is the friction forever", "the convincing-to-close predicts convincing-to-keep", "control requires maintenance pressure", "the energy to produce compliance is the energy to maintain it", "the deal-energy principle applied to relationships", "control breaks because it requires ongoing pressure", "alignment vs control as low-friction vs high-friction"]
 tags: ["principle", "investing", "hiring", "relationships", "leadership", "management", "decisions", "fit"]
-related: ["enjoy-over-manage", "hire-by-dream-job", "follow-the-demand", "inherent-goodness", "creative-career-story", "subconscious-partner-selection", "feeling-the-unfelt-emotion"]
-sources: ["2022-10-26_Enjoy Over Manage"]
+related: ["enjoy-over-manage", "hire-by-dream-job", "follow-the-demand", "inherent-goodness", "creative-career-story", "subconscious-partner-selection", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people"]
+sources: ["2022-10-26_Enjoy Over Manage", "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship"]
 ---
 
 # The Management Required to Start Something Is the Management Required to Keep It Running
@@ -25,6 +25,12 @@ This is not because the start magically determines the rest. It is because the l
 **Hiring.** If you have to convince someone to take the job, you will have to convince them to do the job every day. See [[hire-by-dream-job]]. The candidate whose dream job already matches the role does not need to be convinced. They will not need to be convinced of the work tomorrow either.
 
 **Romantic relationships.** Joe extends the principle implicitly: if you are managing the other person's mood in the early dates, you will be managing it for the duration. The patterns laid down in courtship persist. See [[subconscious-partner-selection]] for the related read on what is being negotiated in the first encounters.
+
+**Emotional control inside an existing relationship.** A specific extension: the principle is also the structural argument against using emotion to control a partner. The control produces compliance. The compliance has to be maintained. The maintenance is exhausting. Eventually the system breaks. See [[dont-do-emotion-at-people]] for the full version. The connection: emotional control is functionally identical to a high-friction deal — the energy required to produce the behavior change is the energy required to keep producing it.
+
+"If you have to control and cajole and push somebody into doing something so that you can be happy, you're going to have to maintain that pressure to keep them in that spot. It doesn't frickin' work. Finding what their truth is, finding where they want to move, and finding how that aligns with you, that's a much easier way to get to a place where you're together and at peace. It's why you see relationships where somebody dominates through control, those aren't happy relationships, whether it's controlling through big emotion sadness or big emotion anger or by withholding love. All of that, none of it leads to a happy relationship and just never works." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+The alignment alternative is the relational version of the low-friction deal: when both parties are moving from their own truth toward something that fits both, no maintenance pressure is required. The movement maintains itself.
 
 **Business partnerships.** If the partnership requires heavy negotiation to start, the negotiations will continue. Each operational decision will require the same level of structuring that the original agreement required.
 
@@ -94,3 +100,4 @@ Matter-of-fact. Joe describes the principle as something he learned in investing
 ## Sources
 
 - 2022-10-26_Enjoy Over Manage
+- 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the explicit extension of the deal-energy principle to relationships built on emotional control — the same friction-at-launch-equals-friction-forever pattern operates when a partner controls through emotion, with the maintenance pressure being the structural reason such relationships are unhappy and eventually break; the alignment alternative as the relational version of the low-friction deal)

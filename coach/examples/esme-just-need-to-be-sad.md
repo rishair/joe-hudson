@@ -5,7 +5,7 @@ title: "Esme: 'Dad, I Just Need to Be Sad. You Don't Need to Take Care of That.'
 aliases: ["I just need to be sad", "Dad I just need to be sad", "Esme setting a boundary against caretaking", "the daughter who told Joe to stop caretaking", "Esme's clean limit", "the just need to be sad moment", "you don't need to take care of that", "the boundary against the caretaking impulse", "the 17-year-old daughter naming the caretaking", "Joe's daughter catching the caretaking move", "the kid teaches the parent to stop caretaking"]
 tags: ["example", "parenting", "caretaking", "boundaries", "children", "presence", "love-not-nice"]
 related: ["caring-vs-caretaking", "resentment-as-caretaking-diagnostic", "dont-jump-to-compassion-before-anger", "love-vs-nice", "parenting-as-honest-mirror", "parenting-as-coaching-domain", "owning-your-partiality", "dont-add-anyway-to-love"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
 ---
 
 # Esme: "Dad, I Just Need to Be Sad. You Don't Need to Take Care of That."
@@ -99,6 +99,29 @@ The example is not a recommendation that every sad person should tell others to 
 - Toward [[dont-jump-to-compassion-before-anger]]: the related anti-pattern of comfort-as-bypass
 - Toward [[love-vs-nice]]: presence is loving even when it does not look comforting
 
+## The Alternate Telling: "Dad, Just Let Me Have My Emotions"
+
+In a later 2025 podcast, Joe retells the moment with a slightly different phrasing — almost certainly the same incident, remembered through a different angle. The phrasing carries the same teaching with a different verb:
+
+"I was having an off day and she was having a hard time and she was like going through it and I was like trying to give her advice to like make her feel better. And she was like, Dad, just let me have my emotions. I was like, oh, fuck." -- Joe Hudson, Stop Fixing Your Partner
+
+The two phrasings name the same boundary from two angles:
+- "I just need to be sad. You don't need to take care of that." names the need and releases the caretaker from the role.
+- "Just let me have my emotions" names the request and removes the unrequested intervention.
+
+The "oh, fuck" reaction in the later telling is Joe's compressed naming of the recognition. The same recognition the daughter gave him produced the same internal shock the parent feels when a beloved is correctly identifying a pattern in them.
+
+## This Moment as the Origin of a Larger Teaching
+
+The 2025 retelling is structurally important because Joe frames the moment as the origin of a teaching he then generalizes across all close relationships:
+
+"I realized like that is the cause of so much tension in almost every relationship that I see... usually what happens is somebody feels like they're responsible for the other person's emotions." -- Joe Hudson, Stop Fixing Your Partner
+
+The daughter's correction was not just feedback about one parenting moment. It was the moment Joe identified the pattern that produces "so much tension in almost every relationship that I see" — the assumption of responsibility for the other person's emotional state. The example sits at the head of a teaching arc that includes [[dont-take-responsibility-for-anothers-happiness]], [[caring-vs-caretaking]], and [[nobody-wants-to-have-sex-with-a-kid]]. The 17-year-old delivered the data; Joe spent the years after that working out the consequences across relational domains.
+
+For an AI coach: this example is not just an illustration of one parent-child boundary. It is the seed of the entire emotional-responsibility teaching applied to romantic partnership. When a coachee is presenting "I'm trying to manage my partner's feelings and it's not working," the example can be used both as a precedent (someone correctly named this in real time) and as a frame (the underlying teaching emerged from this kind of moment).
+
 ## Sources
 
 - 2022-12-23_Joe and His Daughter Discuss Fatherhood
+- 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the same incident retold with the alternate phrasing "Dad, just let me have my emotions"; the framing of this moment as the origin of Joe's larger teaching that responsibility for others' emotions is "the cause of so much tension in almost every relationship that I see")

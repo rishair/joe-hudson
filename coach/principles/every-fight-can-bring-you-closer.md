@@ -4,8 +4,8 @@ id: every-fight-can-bring-you-closer
 title: "Every Fight Can Bring You Closer (When You Know How to Fight Well)"
 aliases: ["every fight can bring you closer", "fights that heal", "fighting well", "fighting in a way that heals", "the trend line of fighting", "fights as openings", "I can't wait to have a fight", "fighting that brings personal growth", "fight as opening into more of yourself", "fights bring you closer", "fights bring growth", "what fighting well means", "fights as spiritual path", "the relationship as growth opportunity", "the fight as the way to become more yourself", "fall into non-defensiveness quickly", "the non-defensiveness move in fighting", "the practice of non-defensive recovery", "the move from no-that's-not to yeah-you're-right", "the I-see-how-that-reality-is-true-for-you move", "your reality is true for you and mine is true for me", "the rapid non-defensiveness move"]
 tags: ["principle", "relationships", "fighting", "marriage", "growth", "trauma", "closeness", "non-defensiveness"]
-related: ["power-dynamics-as-two-defenders", "trigger", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "arc-of-fighting-maturation", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "conflict-as-evolutionary-tension", "we-never-fight", "we-have-built-up-resentment", "you-can-only-fix-yourself-in-a-fight", "regression-in-the-fight-work-is-progress", "truth-is-perspective-with-context", "loving-presence-as-defense", "you-are-responsible-for-your-own-window-of-tolerance", "name-im-in-my-trauma-as-couple-language", "your-trauma-is-equally-matched-with-your-partner", "view-can-show-up-with-anger", "how-you-fight-not-how-often", "joe-and-tara-retreat-prep-fight"]
-sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well"]
+related: ["power-dynamics-as-two-defenders", "trigger", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "arc-of-fighting-maturation", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "conflict-as-evolutionary-tension", "we-never-fight", "we-have-built-up-resentment", "you-can-only-fix-yourself-in-a-fight", "regression-in-the-fight-work-is-progress", "truth-is-perspective-with-context", "loving-presence-as-defense", "you-are-responsible-for-your-own-window-of-tolerance", "name-im-in-my-trauma-as-couple-language", "your-trauma-is-equally-matched-with-your-partner", "view-can-show-up-with-anger", "how-you-fight-not-how-often", "joe-and-tara-retreat-prep-fight", "fight-agreements-made-outside-the-fight", "repair-phrase-as-trauma-deactivator"]
+sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well", "2025-01-29_The Best Trick For Having Great Fights In Relationship"]
 ---
 
 # Every Fight Can Bring You Closer
@@ -99,6 +99,8 @@ This is not a principle that requires never being scared during the fight. Joe d
 
 ## Downstream (Where Joe Goes From Here)
 
+- Toward [[fight-agreements-made-outside-the-fight]]: the concrete starting practice that operationalizes fighting well — sit down outside a fight and make explicit agreements about how you want to fight together
+- Toward [[repair-phrase-as-trauma-deactivator]]: the kind of specific co-created agreement that turns a phrase into an instrument for dissolving a trauma loop mid-fight
 - Toward [[how-you-fight-not-how-often]]: the metric reframe that operationalizes "fighting well" as a tracker
 - Toward [[joe-and-tara-retreat-prep-fight]]: the canonical illustration of a fight whose form is so matured that bystanders did not register it as a fight
 - Toward [[arc-of-fighting-maturation]]: the developmental stages couples go through to arrive at this orientation
@@ -123,3 +125,4 @@ Joe says this with the easy conviction of someone who has been through it. The "
 
 - 2024-10-25_How To Fight And Win (Joe's framing of fighting-as-developmental-medium; the "I can't wait to have a fight" opening; the criteria for fighting that heals vs fighting that retraumatizes; the 2-3 day pride test; the trauma-healing-through-loving-witness mechanism)
 - 2024-10-25_How To Fight Well (the fall-into-non-defensiveness-quickly capacity as the operational requirement; the "no that's not" to "yeah you're right" move; the "I see how that reality is true for you" formulation as the verbal shape of the non-defensiveness move; the it's-so-fucking-cool tone marker about the pleasure of the move once practiced)
+- 2025-01-29_The Best Trick For Having Great Fights In Relationship (the fight-agreements practice as the concrete starting move that makes fighting-well a tractable thing couples can begin; the "I see how much you care" example of a pre-agreed phrase that dissolves a trauma loop, illustrating one specific instrument that fighting well can deploy)

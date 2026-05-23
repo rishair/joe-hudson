@@ -5,7 +5,7 @@ title: "How You Are With Yourself Sets the Ceiling on How Others Get to Be With 
 aliases: ["self-aggression permits others' aggression", "you allow what you allow yourself", "internal relationship sets external ceiling", "as you treat yourself so others treat you", "self-love sets the limit on what you accept", "you expect from others what you do to yourself", "external aggression matches internal aggression", "the bidirectional principle of self-treatment", "self-talk trains the world", "you accept from others what you do to yourself", "the inside-out and outside-in principle", "internal and external aggression mirror each other"]
 tags: ["self-love", "passive-aggression", "principle", "boundaries", "self-talk", "relationships"]
 related: ["passive-aggression-toward-self", "voice-in-the-head", "extend-the-no-asshole-rule-inward", "boundaries", "passive-aggressive-vs-aggressive-aggressive", "what-we-fear-we-invite"]
-sources: ["2024-07-05_Passive Aggression"]
+sources: ["2024-07-05_Passive Aggression", "2025-02-10_Boundaries Aren't What You Think They Are"]
 ---
 
 # How You Are With Yourself Sets the Ceiling on How Others Get to Be With You
@@ -45,6 +45,16 @@ The mirror failure mode: drawing boundaries in the world while running aggressiv
 This is the person who has "perfect boundaries" externally and is internally exhausted. The work was done on one side only.
 
 See [[extend-the-no-asshole-rule-inward]] for the specific application of this principle.
+
+## The External Diagnostic: Why Some People Don't Get the Same Treatment
+
+A second instance of the principle: look at any environment where one person receives mistreatment that another person in the same environment does not. The boss who yells at one report but not at another. The family member who lays guilt on one sibling but not the other. The pattern is structural.
+
+"You're at a job and you have to say to your boss like, no, you don't yell at me. But there's somebody else that the boss never yells at. ... Why is it that the thing that the boss does to you, they're not doing to everybody. It's because in that person's mind, it's very clear that like, no, I'm not going to get yelled at by the boss." -- Joe Hudson, Boundaries Aren't What You Think They Are
+
+The boss is not selecting at random. The boss is registering, mostly unconsciously, which people carry the embodied "this is not okay with me" standard and which people do not. The mistreatment gets directed at the people without the standard. The principle here -- that internal aggression sets the ceiling on what external aggression you accept -- predicts and explains this selection effect.
+
+The boundary-drawing principle [[boundary-as-self-teaching]] is the corrective: drawing the boundary externally is the act that installs the standard internally, which then changes the unconscious signal you give off, which then changes who directs the behavior at you.
 
 ## The Practical Form
 
@@ -97,7 +107,10 @@ Joe delivers this principle matter-of-factly, often as the bookend or summary of
 - Toward [[voice-in-the-head]] for the internal practice
 - Toward [[passive-aggressive-vs-aggressive-aggressive]] for the distinction this applies to
 - Toward [[what-we-fear-we-invite]] for the broader mechanism this is one specific case of
+- Toward [[boundary-as-self-teaching]] for the action principle: drawing the boundary externally is what installs the new internal standard
+- Toward [[self-boundary-mirrors-external-boundary]] for the parallel structural principle applied to boundaries specifically
 
 ## Sources
 
 - 2024-07-05_Passive Aggression
+- 2025-02-10_Boundaries Aren't What You Think They Are (the boss-yelling diagnostic; the structural account of why some people in the same environment get mistreated while others do not)

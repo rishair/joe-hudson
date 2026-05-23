@@ -4,7 +4,7 @@ id: agreements-renegotiate-as-you-change
 title: "Agreements Renegotiate as You Change (The Only Commitment Is to the Relationship)"
 aliases: ["renegotiate commitments", "renegotiate commitments as you change", "renegotiate vows", "only commitment is to the relationship", "less rules more attunement", "agreements evolve", "the only fixed commitment is to growth", "you change so the agreements change", "no fixed commitments outside growth", "renegotiation is the practice", "the moving agreement", "agreements are temporary", "what we agreed at 26 isn't what we need now", "ongoing renegotiation as the practice"]
 tags: ["principle", "relationships", "marriage", "commitment", "agreements", "attunement", "growth", "non-monogamy"]
-related: ["relationships-as-personal-growth-path", "dont-compromise-find-both-needs-met", "boundaries-expand-as-capacity-grows", "boundaries", "epiphany-becomes-rut", "say-the-thing-youre-not-saying"]
+related: ["relationships-as-personal-growth-path", "dont-compromise-find-both-needs-met", "boundaries-expand-as-capacity-grows", "boundaries", "epiphany-becomes-rut", "say-the-thing-youre-not-saying", "fight-agreements-made-outside-the-fight", "agreements-must-be-co-created-not-prescribed"]
 sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
@@ -117,6 +117,7 @@ Renegotiation is operationalized through:
 - Toward [[say-the-thing-youre-not-saying]] for the practice of surfacing what needs renegotiation
 - Toward [[boundaries-expand-as-capacity-grows]] for the parallel principle on boundaries
 - Toward [[epiphany-becomes-rut]] for the general principle that yesterday's solution becomes today's constraint
+- Toward [[fight-agreements-made-outside-the-fight]] for the application of this principle to the specific case of how a couple agrees to handle conflict (where the iterative renegotiation is built into the practice itself)
 
 ## Tone
 

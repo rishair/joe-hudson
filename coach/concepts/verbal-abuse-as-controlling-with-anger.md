@@ -4,8 +4,8 @@ id: verbal-abuse-as-controlling-with-anger
 title: "Verbal Abuse Is Trying to Control Someone With the Threat of Anger"
 aliases: ["verbal abuse", "what verbal abuse is", "Joe's definition of verbal abuse", "controlling with anger", "controlling with the threat of anger", "abuse as control", "abuse in fighting", "fighting that is abusive", "the line of verbal abuse", "yelling without permission", "threatening as abuse", "trying to control with the threat of something", "abuse in relationships", "the difference between fighting and abuse", "the two marriages frame", "the four-people-in-a-marriage frame", "John and Nancy and their parents", "the parent and the partner are the same person to the trauma", "fighting the parents through the partner"]
 tags: ["abuse", "anger", "control", "fighting", "relationships", "boundaries", "definitions"]
-related: ["dont-do-anger-at-your-partner", "every-fight-can-bring-you-closer", "dont-do-emotion-at-people", "aggressive-victim-stance", "power-dynamics-as-two-defenders", "boundaries", "arc-of-fighting-maturation", "withdrawal-with-vs-without-a-timeline", "name-im-in-my-trauma-as-couple-language", "trauma-heals-in-relationship", "you-are-responsible-for-your-own-window-of-tolerance"]
-sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well"]
+related: ["dont-do-anger-at-your-partner", "every-fight-can-bring-you-closer", "dont-do-emotion-at-people", "aggressive-victim-stance", "power-dynamics-as-two-defenders", "boundaries", "arc-of-fighting-maturation", "withdrawal-with-vs-without-a-timeline", "name-im-in-my-trauma-as-couple-language", "trauma-heals-in-relationship", "you-are-responsible-for-your-own-window-of-tolerance", "nervous-system-codes-threats-as-real", "disagreement-that-heals-vs-retraumatizes", "fight-agreements-made-outside-the-fight"]
+sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well", "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship", "2025-02-07_How to Use Your Relationship Fights to Heal"]
 ---
 
 # Verbal Abuse Is Trying to Control Someone With the Threat of Anger
@@ -26,6 +26,22 @@ Joe and Tara, early in their relationship, took their fights to a therapist. The
 
 The story is offered as the canonical example of how invisible this is when it has been modeled in childhood. The behavior felt like "what people do" because it was what their parents did. The recognition required an outside reading.
 
+The pre-marriage moment that surfaces in the 2025 telling: visiting Tara's parents' house before the wedding and walking into "a crazy-ass yell fest. It was like out of control." Joe's recognition at the time: "oh, she's like, apparently her family's like mine, it was just yelling a lot." The pattern was visible across both families of origin and was the unmarked default the couple inherited.
+
+The specific image Joe uses to mark how bad it got at the beginning: a Miata and a pitchfork.
+
+"Tara and I used to live partially in the city and partially on these 200 acres. There was this moment where she's sitting in her Miata, revving her engine, threatening to run me over, and I am sitting above it with a pitchfork, which was the closest thing, threatening to hit the hood of her car. That's how bad our fights got at the beginning. Oh, it was brutal. I never physically hit her. And she never physically hit me, but it was like, those fights were brutal." -- Joe Hudson, How to Use Your Relationship Fights to Heal
+
+The image is offered as the canonical reference point for how far inside the abusive-fighting zone the couple started. The carve-out matters: no actual physical contact happened. But the threats of physical violence were real and were delivered, and the threats themselves are what the body codes (see [[nervous-system-codes-threats-as-real]]). The story functions as an upper bound on "where can a relationship start from and still arrive at fights that heal" — very far inside the danger zone, as long as the work to interrupt the pattern actually happens.
+
+The expanded definition that came from the therapist:
+
+"Her definition, which has stuck with me forever, is: emotional abuse is when you are using your emotion to try to control somebody." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+This definition is broader than the verbal-abuse-via-anger frame. It is the same structural definition, applied to all emotions (anger, guilt, sadness, fear, withdrawal of love). The control intent is what makes the move abusive, regardless of which emotion is being deployed. The full extension to all emotions sits in [[dont-do-emotion-at-people]]. This article is the anger-specific application of the same definition.
+
+Initial reaction at the time: "I was like, no, we're not. We're just yelling. Abuse is something like when you're whacking somebody on the head with like a cast iron skillet or something." The recognition that yelling-to-control is also abuse, not only physical violence, required the therapist's intervention and the readings she assigned.
+
 ## What the Behaviors Look Like
 
 The behaviors Joe lists explicitly:
@@ -37,6 +53,23 @@ The behaviors Joe lists explicitly:
 - **Any kind of physical violence.** The obvious version.
 
 The unifying structure across all of these: the anger is being deployed to make the other person do something, stop something, or change something. The control intent is what marks the behavior as abusive.
+
+## The "Takes a Long Time to Heal" List
+
+Joe organizes the same set of behaviors from a different angle: not "what counts as abuse" but "what kinds of moves leave a long-term residue in the body of the person on the receiving end." The list is largely the same; the framing emphasizes the asymmetric damage timeline.
+
+"There's certain things in fighting that take a long time to heal. If you do in a fight, it's going to take a long time to heal. The threat of any kind of physical violence is going to take a long time to heal, any kind of physical violence... Yelling, insults is another -- like insulting somebody, that can have the same kind of big emotional hit. And that erodes trust over a long period of time. Generally threatening somebody with future stuff -- I'm going to divorce you, I'm going to cheat on you -- any of those big threats are going to be incredibly damaging and it's going to take a long time to heal out of those." -- Joe Hudson, How to Use Your Relationship Fights to Heal
+
+The list as Joe organizes it from this angle:
+- The threat of any physical violence
+- Any actual physical violence
+- Yelling
+- Insulting
+- Threatening anything in the future (divorce, cheating, leaving)
+
+The same list shows up under the abuse definition and under the long-time-to-heal frame. Both framings describe the same set of moves. The reason both framings converge on the same set is the underlying mechanism: see [[nervous-system-codes-threats-as-real]]. The body codes these specific moves as real threats and brakes around the angry partner thereafter. The control intent and the long-time-to-heal damage are two faces of the same phenomenon — the body has registered the threat as real, regardless of the speaker's later regret or the conscious mind's later discount.
+
+This converges with [[disagreement-that-heals-vs-retraumatizes]]: any of these moves, in a fight, puts the fight on the retraumatizing side of the line rather than the healing side. The fight that crosses any of these lines installs damage that subsequent fights then have to work around.
 
 ## Why the Permission Carve-Out Matters
 
@@ -124,3 +157,5 @@ Plain, structural, not moralizing. Joe describes his own pattern with humor and 
 
 - 2024-10-25_How To Fight And Win (Joe's working definition of verbal abuse as controlling with the threat of anger; the Joe-and-Tara therapist story as the canonical example of how invisible the pattern is when modeled in childhood; the list of specific behaviors; the trauma frame; the pride-after-fight diagnostic)
 - 2024-10-25_How To Fight Well (the two-marriages frame with the John-and-Nancy example -- a marriage between the two partners and a parallel marriage between their projected parents -- as the structural reason why fights in trauma become disproportionate to their content)
+- 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the pre-marriage Tara's-parents yell-fest detail filling in the family-of-origin observation; the therapist's broader working definition — "emotional abuse is when you are using your emotion to try to control somebody" — that extends the same structural definition to all emotions, of which the verbal-abuse-via-anger frame is one application; Joe's initial reaction that abuse meant physical violence with a cast iron skillet)
+- 2025-02-07_How to Use Your Relationship Fights to Heal (the Miata-and-pitchfork story as the canonical image of how bad Joe and Tara's fights got at the beginning, with the carve-out that no actual physical contact happened but the threats of physical violence were real; the "takes a long time to heal" reframing of the same list of moves — physical threats, actual physical violence, yelling, insults, future threats including divorce and cheating — from a different angle that emphasizes the asymmetric damage timeline and converges on the same set as the abuse definition because both run on the body-codes-the-threat mechanism)

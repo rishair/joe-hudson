@@ -5,7 +5,7 @@ title: "Nobody Wants to Have Sex With a Kid (Caretaking Kills the Sex Drive)"
 aliases: ["nobody wants to have sex with a kid", "nobody wants to fuck a kid", "you can't have sex with a child", "caretaking kills the sex drive", "managing your partner like a child kills the eros", "parent-child dynamic kills sex", "the parent-child configuration kills the sexual aliveness", "you turned your partner into a child and the sex died", "the sex went where the caretaking is", "the dead sex drive in a caretaking marriage", "caretaking turns the partner into a kid", "when you parent your partner the sex dies", "the eros-killing parent-child configuration", "managing someone's emotional state turns them into a child", "sex requires two adults not a parent and child"]
 tags: ["principle", "sex", "eros", "caretaking", "relationships", "marriage", "configuration"]
 related: ["caring-vs-caretaking", "responsibility-stops-love", "obligation-cuts-off-love", "i-caretake-people", "treat-them-like-an-adult", "the-built-up-resentment-story"]
-sources: ["2024-07-01_Should I Stay With My Ex？"]
+sources: ["2024-07-01_Should I Stay With My Ex？", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship"]
 ---
 
 # Nobody Wants to Have Sex With a Kid
@@ -112,6 +112,19 @@ This is one of several teachings about why sex dies in long relationships. Adjac
 
 When the AI coach is working with a sex-died-in-the-marriage presentation, the diagnostic question is whether the caretaking configuration is present. If yes, this principle is the operative teaching. If no, one of the other teachings is.
 
+## The Sex-Requires-Equals Compression
+
+A cleaner compression of the principle Joe gives when teaching it directly to a podcast audience, naming the structural requirement that produces the configuration's incompatibility with sexual aliveness:
+
+"It breeds resentment in a relationship, and then eventually it'll just kill the sex in the relationship. The reason it kills the sex is because you want to have sex with equals. You don't want to have sex with someone you're caretaking. That's not how it's meant to be between a romantic couple. It's not a caretaking relationship. It is a supportive, interdependent relationship." -- Joe Hudson, Stop Fixing Your Partner
+
+The compression isolates the structural requirement: sex requires equals. The caretaking configuration produces a relationship of unequals — one party is now structurally the parent, the other is structurally the child. The sex does not die because anyone wanted it to die. It dies because the configuration no longer contains the structural condition (equality) the sex needed to exist in.
+
+The framing of the alternative as "supportive, interdependent" is also worth tracking. The alternative to caretaking is not independence (each partner handles their own state alone). It is interdependence (each partner stays the source of their own state while remaining available to support the other). The interdependence is the adult-adult configuration. The independence is its own failure mode — a relationship of two separate selves who are not actually in relationship. See [[connection-doesnt-require-the-other]] for the related distinction, and [[caring-vs-caretaking]] for the systematic version of the support-vs-management distinction.
+
+The intermediate causal step in this compression is also clean: the resentment builds first, the sex dies after. The resentment is the symptom that arrives before the death of the sex. A relationship where the resentment is starting to build is one where the configuration is already shifting toward parent-child — even if the sex has not yet died, the trajectory is set. The corrective action available at the resentment stage is the same as at the dead-sex stage: exit the caretaking configuration. See [[resentment-as-caretaking-diagnostic]].
+
 ## Sources
 
 - 2024-07-01_Should I Stay With My Ex？ (the canonical instance: Joe delivers the line during the body-shift moment of a trial-separation Q&A; the woman has just reported the joyful and silly self returning, and Joe names the sexual self as the same self)
+- 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the cleaner teaching compression: "sex requires equals, and a caretaking relationship has no equals"; the framing of the alternative as "supportive, interdependent" rather than independent; the causal sequence resentment-first-then-dead-sex as a teaching point)

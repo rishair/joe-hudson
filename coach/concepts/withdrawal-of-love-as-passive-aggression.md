@@ -5,7 +5,7 @@ title: "Withdrawal of Love as Passive Aggression (And Why It Hurts You)"
 aliases: ["withdrawal of love as passive aggression", "withholding love", "cutting off love", "the cold withdrawal", "shutting down love to punish", "I'm just protecting myself self-deception", "the I'll-withhold-until move", "love withdrawal as control", "shutting off love hurts you too", "the painful self-amputation", "the metaphor for passive aggression"]
 tags: ["passive-aggression", "love", "withdrawal", "withholding", "control", "open-heart"]
 related: ["passive-aggressive-vs-aggressive-aggressive", "open-heart-vs-closed-heart", "love-as-deep-welcoming", "withdrawal-with-vs-without-a-timeline", "caring-vs-caretaking", "three-forms-of-anger-repression"]
-sources: ["2024-07-05_Passive Aggression"]
+sources: ["2024-07-05_Passive Aggression", "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship"]
 ---
 
 # Withdrawal of Love as Passive Aggression
@@ -39,6 +39,14 @@ The mechanism: love moves through you when you let it flow toward others. When y
 "When we are open to love, if we're loving somebody else, not caretaking, but loving somebody, actually loving somebody else, the love equally comes to us and through us and to them. Cutting it off, you're cutting off that love. It's really quite a painful experience once you really realize what it's like to live with an open heart. To close it is just sucks." -- Joe Hudson, Passive Aggression
 
 The cost is invisible to most people because they have never sustained the open-heart state long enough to know what they are cutting off. The withdrawal feels like "protecting myself" because the closed-heart state has been so habitual it registers as the default. Only after enough experience of the open state does the cost of the closure become viscerally clear.
+
+## Withdrawal of Love as One of the Five Forms of Emotional Control
+
+A specific framing that lands the withdrawal pattern inside the broader emotional-abuse taxonomy: withdrawal of love is the fifth form of emotion-as-control, alongside controlling-with-anger, controlling-with-guilt, controlling-with-sadness, and controlling-with-fear. The unifying definition (using emotion to make the other person do, stop, or change something) holds across all five.
+
+"You see relationships where somebody dominates through control. Those aren't happy relationships, whether it's controlling through big emotion sadness, or big emotion anger, or by withholding love. All of that, none of it leads to a happy relationship and just never works." -- Joe Hudson, How To Know If You Are In An Emotionally Abusive Relationship
+
+The implication: withdrawal of love is often catalogued separately from emotional abuse because it is quieter and has the appearance of self-protection rather than aggression. The unifying frame collapses that separation. The function is the same as yelling: produce a behavior change in the other through the deployment (or withholding) of an emotion. See [[dont-do-emotion-at-people]] for the full cross-emotion principle.
 
 ## Why It Is the Metaphor for All Passive Aggression
 
@@ -109,3 +117,4 @@ Joe describes this with care. There is no condemnation of people who withdraw lo
 ## Sources
 
 - 2024-07-05_Passive Aggression
+- 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the placement of withdrawal-of-love as the fifth form of emotion-as-control alongside anger, guilt, sadness, and fear under the unifying definition that emotional abuse is using emotion to control)
