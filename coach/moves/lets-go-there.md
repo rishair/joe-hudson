@@ -4,7 +4,7 @@ id: lets-go-there
 title: "Let's Go There (The Invitation Into the Avoided Territory)"
 aliases: ["let's go there", "lets go there", "let's go", "the invitation to enter the abyss", "stepping into the avoided", "go into it move", "into the avoided territory", "the let's-go-there move", "the descent invitation", "go into the hole", "go into the black hole", "step into the middle of it", "go in", "the go-into-the-image move", "the entry move", "enter the catastrophic image", "enter the avoided image"]
 tags: ["live coaching", "invitation", "abyss", "fear", "presence", "companionship"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-03-18_I Am Scared Of The Unknown", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Let's Go There
@@ -112,3 +112,4 @@ The move in this variant is short and concrete. Two words: "go in." Or four: "go
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2024-03-18_I Am Scared Of The Unknown (the stuckness variant: "go in, go into the hole" with the catastrophic-image of the black hole; the immediate dissolution upon entry and the person's smiling recognition; Joe's structural naming afterward that "the avoidance of the hole is the stuckness")
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the silence-as-territory variant: after the judgment-removal descent produces "nothingness, just silent, it's quiet," Joe responds "Great. So let's go there" and the next move is to look at the world through the lens of silence; the move converts the named-territory (silence) into the entered-territory in a single sentence

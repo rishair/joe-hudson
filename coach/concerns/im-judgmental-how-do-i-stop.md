@@ -4,7 +4,7 @@ id: im-judgmental-how-do-i-stop
 title: "I'm judgmental / How do I stop being judgmental?"
 aliases: ["I'm judgmental", "I'm too judgmental", "how do I stop being judgmental", "how do I stop judging people", "I judge people too much", "I'm so judgmental of others", "I keep judging everyone", "I judge everyone", "I want to stop being so harsh", "I want to be less critical of others", "I'm always finding fault", "I'm always picking people apart", "I'm critical of everyone", "I judge people and I hate that I do it", "I notice I judge a lot and I want to stop", "I'm angry at the people I judge but I can't stop", "I think I'm better than other people and I don't like that I do", "I'm constantly comparing myself to other people", "the judgment runs all day", "I'm hard on other people and I don't want to be", "how do I stop being so critical", "how do I be less judgmental of others", "I judge everyone I meet", "I can see I'm judgmental and I want it to stop"]
 tags: ["judgment", "self-judgment", "superiority", "comparative-mind", "criticism", "self-improvement"]
-sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways"]
+sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # I'm judgmental / How do I stop being judgmental?
@@ -79,6 +79,17 @@ The typical flow for this concern follows the three-step structure from the sour
 
 6. **Prepare for what is underneath.** When judgment relaxes, what comes up is often love — and love is the scariest emotion of all because it puts the person at risk of being hurt. The path through judgment opens onto the path through heartbreak. See [[heartbreak-as-capacity-expansion]] and [[letting-judgment-in]].
 
+## The Judgment-as-Fix-Driver Variant
+
+A specific shape: the judgment is operating as the engine of a fix-everything pattern. The person judges the wrong-doers, the unjust, the people who do not treat others the way they should be treated — and the judgment is what propels them to fix the injustice. The judgment and the fix-everything pattern ([[why-am-i-always-trying-to-fix]]) are interlocked: each justifies the other.
+
+In this variant, the descent through judgment to silence is the same descent the fix-pattern needs to discover. "If you couldn't judge them, what would you have to feel?" produces silence, nothingness, quietness — and the fix-activity has been functioning in the same role as the judgment, both maintaining the avoidance of the silence.
+
+When the variant is recognized, the work runs simultaneously on the judgment and on the fixing. Stopping either one releases the same underneath material. The coach does not have to pick which to work; both lead to the same place.
+
+The canonical example: a woman who fixes everything she sees, who frames her fixing as activism against injustice, who judges those who perpetrate the injustice. Joe descends through her judgment ("if you couldn't judge them, what would you feel?" "nothingness, silence") and then names the structure ("if you can't go to judgment, then there's a vastness that makes you very anxious"). The judgment-descent is the entry into the silence the fix-pattern has been holding off. See [[fix-everything-woman-anthill-presence-session]].
+
 ## Sources
 
 - 2024-07-15_How To Stop Being Judgmental - 3 Ways (the three-step structure: start with self-judgment, find the emotion underneath, be clear about what judgment costs you; the framing that judgment is somatically painful and that "people know when you're judging them"; the warning that what is underneath judgment is eventually love and love is the scariest emotion)
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the judgment-as-fix-driver variant; the woman who judges those who perpetrate injustice and whose fix-everything pattern is propelled by the judgment; the descent through judgment to silence ("if you couldn't judge them, what would you have to feel?" "nothingness, just silent, it's quiet"); the structural naming "if you can't go to judgment, then there's a vastness that makes you very anxious"

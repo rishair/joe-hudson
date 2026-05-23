@@ -5,7 +5,7 @@ title: "Undoing, Not Doing"
 aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing", "undoing as receiving", "the undoing is the receive"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
 related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line", "joes-woods-fast-stopped-fighting", "layered-resistance", "opposite-of-trying", "letting-go-vs-doing-nothing"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Undoing, Not Doing
@@ -108,6 +108,19 @@ The first felt sense of undoing is often relief. The relief of putting down some
 
 The second sense is often disorientation. If you have been the person who tries hard, the person who manages, the person who performs, releasing those patterns can feel like loss of self. The self that was being managed by the patterns dissolves a little. What remains is unfamiliar. See [[zen-sickness]] for a related dynamic at the extreme.
 
+## How-Do-I-Be-With-You: The Question The Answer Is the Undoing
+
+A canonical exchange that operates the undoing principle in question-form:
+
+- Person: "How do I stop fixing people?"
+- Coach: "That's the question that leads to failure. So it lets you stay in the loop. The question is, how do you be with people? And it's the exact opposite of a doing. It is an undoing. ... To ask, how do you do it, is counterproductive."
+
+The exchange demonstrates that the right question for a doing-pattern is not how to stop the doing but how to be-with — and the answer to how-do-you-be-with-people is "undo it." The answer is not a technique. It is the dropping of the doing-attempt.
+
+When the person updates the question to "how do I undo it?", the same structure applies. The question can be inverted with vocabulary updates, but it remains a how-to-do question if it is treated as content to be answered. The right response is to convert the question back into the live attempt: "let's find out. How do you be with me? The answer: undo it." The discovery has to happen in the body, not in the receive-the-answer mode.
+
+See [[how-do-i-stop-is-the-fix-trap]] for the anti-pattern this exchange dismantles. The undoing principle is what makes the anti-pattern's refusal coherent — the right move is not a better technique but the absence of technique-seeking.
+
 ## Upstream (What Leads Here)
 
 - When effort-based transformation has stalled.
@@ -135,3 +148,4 @@ Quiet, almost casual. Joe presents this as obvious once seen. Not a heroic refra
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2023-04-14_The Opposite of Trying (the undoing as a positive receiving/allowing/listening state, not merely an absence of trying)
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the how-do-I-stop / how-do-I-be inversion as the question-form of the undoing; the explicit "the question is, how do you be with people; the answer: undo it"; the conversion of the updated "how do I undo it?" question back into the live attempt rather than answered as a technique

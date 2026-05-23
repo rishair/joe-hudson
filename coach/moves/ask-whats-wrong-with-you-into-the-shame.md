@@ -3,8 +3,8 @@ type: move
 id: ask-whats-wrong-with-you-into-the-shame
 title: "Ask 'What's Wrong With You?' Into the Shame (The Question That Dissolves What It Asks)"
 aliases: ["what's wrong with you", "whats wrong with you", "tell me what the fuck is wrong with you", "I don't care about the story, what's wrong with you", "ask the shame its own question", "the what's-wrong-with-you provocation", "demand the shame name itself", "what's wrong with you as the dissolver", "the question that makes the shame dissipate", "the demand-the-answer-now move with shame", "ask the shame what it's about", "Joe asks what's wrong with you", "the recursive what's-wrong-with-you", "the bypass-the-story shame question", "the shame-naming demand move", "the directly-into-shame question", "if shame says something's wrong then say what", "demand the content of the shame, refuse the story", "the shame-can't-survive-the-direct-question move", "asking shame to name itself dissolves it", "what's wrong with you you don't need to find an answer", "what is it we're going to find out when we see you that's shameful", "what is it I'm gonna see that I'm gonna think is bad", "the no-answer-required variant", "the keep-going-there variant", "the you-don't-need-to-find-an-answer variant", "ask the shame and instruct them to stay without answering", "the descent-without-answer variant", "the what-will-they-see version of the question", "the social-anxiety version of the question"]
-tags: ["moves", "shame", "story", "interruption", "provocation", "feeling-into-it", "directness", "shame-dissolution", "social-anxiety", "being-seen"]
-sources: ["2024-07-22_I Have To Do What Others Want (To Make Money)", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
+tags: ["moves", "shame", "story", "interruption", "provocation", "feeling-into-it", "directness", "shame-dissolution", "social-anxiety", "being-seen", "fix-premise"]
+sources: ["2024-07-22_I Have To Do What Others Want (To Make Money)", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Ask "What's Wrong With You?" Into the Shame
@@ -45,6 +45,34 @@ The question takes shape depending on what shame is operating. The core is the s
 - **The shame of wanting:** "What's wrong with wanting [the thing]?"
 
 The being-seen variant is the form for social anxiety. The person who reports they don't like being seen, who hides or wears a mask, is operating from the assumption that being seen would expose something shameful. The question asks the shame to specify what.
+
+## The Fix-Premise Variant: "So What's to Fix?"
+
+A specific application opens fix-everything sessions. When the person presents that they are trying to fix themselves, the move runs as a three-turn sequence: state-the-premise, ask-the-question, follow-with-the-implication.
+
+- **State the premise:** "So what's wrong with you?"
+- **Receive the answer:** The person almost always says "nothing's wrong with me."
+- **Follow with the implication:** "So what's to fix?"
+
+The third turn does the work. The person has just confirmed nothing is wrong; the fix-pattern is operating on a premise the person, when asked, does not actually endorse. The contradiction is suddenly visible. The session has begun with the broken-frame already wobbling.
+
+From the source session:
+
+- **Guest:** "I'm trying to fix myself. That's probably the biggest thing."
+- **Joe:** "So what's wrong with you?"
+- **Guest:** "Nothing's wrong with me."
+- **Joe:** "So what's to fix?"
+- *(Source: Why Am I Always Trying To Fix Myself & Others?)*
+
+This variant runs the same structure as the canonical shame variant but operates on the fix-the-broken-self premise rather than on shame's general claim of defectiveness. The shame variant asks the shame to deliver content; the fix-premise variant asks the fix-attempt to identify its target. Both fail. The failure is the work in both cases.
+
+When the person tries to escape into a substitute target ("when I caretake others in this way..."), Joe holds the frame. "Hold on, you've said the main thing I'm trying to do is fix myself. So what are you trying to fix? What's wrong with you?" The repetition is part of the move; the person will offer the substitute target several times before producing the actual material that the fix-pattern is operating on.
+
+When the actual material is delivered, the descent continues from there. In the source session, the actual material was "my tendency to judge versus to be discerning." The judgment was the next layer, and the session moved into the [[im-judgmental-how-do-i-stop]] descent.
+
+This variant is also the canonical opening move for the [[why-am-i-always-trying-to-fix]] presenting concern. The session needs to open by refusing the fix-frame; this move does that in three turns.
+
+See [[dont-presume-the-person-is-broken]] for the broader anti-pattern this variant operates inside. The move is the live-coaching expression of the coach-stance that the person is not broken.
 
 ## The No-Answer-Required Instruction
 
@@ -179,3 +207,4 @@ Then Joe often connects the wired-in shame to a childhood pattern. The shame did
 
 - 2024-07-22_I Have To Do What Others Want (To Make Money) — the comedian-to-coach session; the three-step rhythm (state the claim, demand the content, refuse the story); the discovery that the body says nothing while the head says a book; the move repeated on money ("what's wrong with money?") with the same result
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the being-seen variant of the question ("what is it that I'm gonna see that I'm gonna think is bad?", "what is it that we're going to find out when we see you that's shameful?"); the no-answer-required instruction ("you don't need to find an answer, just keep going there for a minute") that pairs with the question when the person starts to descend; the discovery that what was being hidden was the person's own emotions, not a defect of self
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the fix-premise variant; the three-turn sequence opening a fix-everything session ("what's wrong with you?" / "nothing's wrong" / "so what's to fix?"); the move's use as the canonical opening for the fix-the-broken-self presenting frame; Joe's holding of the frame when the person offers a substitute target ("hold on, you've said the main thing I'm trying to do is fix myself")

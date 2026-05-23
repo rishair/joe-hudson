@@ -4,7 +4,7 @@ id: bring-the-presenting-problem-into-the-room-now
 title: "Bring the Presenting Problem Into the Room Now (The Anxiety You're Describing Is Happening Right Here)"
 aliases: ["bring the presenting problem into the room now", "let's just talk about how it happened right now", "the in-the-room demonstration of the presenting problem", "the present-tense version of the pattern", "how is that happening right now", "use the live moment as the example", "the anxiety is happening right now use it", "the social anxiety is in the room right now use it", "the pattern is firing in this conversation use it", "stop describing the problem look at the version of it happening now", "the live-instance redirect", "redirect from the abstract pattern to the live instance", "the in-session demonstration redirect", "the right-now version of the relational pattern", "use the coaching room as the laboratory", "the coaching session as the example of the problem", "let's use this moment as the example", "the pattern is firing here", "the right-now is the example", "the in-the-moment-instance move", "use the present-tense instance not the past-tense story", "the now-version-of-the-relational-pattern move", "the now-not-then move", "the don't-tell-me-just-look-at-now move", "the right-now-instance move"]
 tags: ["moves", "live coaching", "present moment", "social anxiety", "in-the-room", "demonstration", "concrete", "anti-abstraction"]
-sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)"]
+sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2025-04-08_How Do I Overcome Self-Consciousness？ (Coaching Session With Master Coach)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Bring the Presenting Problem Into the Room Now
@@ -103,6 +103,16 @@ There is also a quality of welcoming. The coach is making the live anxiety a wel
 - This is not [[surface-the-spectrum-of-presence-in-real-time]]. That move names a shift that has happened during the session. This move uses the live presenting-problem as the entry point at the beginning of the work.
 - This is not [[trigger-the-shame-live]]. That move deliberately evokes the shame by role-playing the offended other. This move uses the shame that is already firing without needing to evoke it.
 
+## The Fix-Pattern Variant: Note-Taking as the Live Instance
+
+When the presenting concern is a fix-everything or controlling pattern, the live instance often shows up at the very beginning of the session as preparation. The person has been taking notes throughout the call to formulate the perfect question. The note-taking is the fix-pattern firing in the room before the formal start of the session.
+
+The move in this variant runs through a specific sub-move: [[set-aside-the-notes-be-here-with-me]]. The coach asks the person to set the notes aside, frames it as a favor, and follows immediately with a compression request that strips the prepared formulation to its bone.
+
+The variant differs from the canonical use only in that the live instance is the opening of the session rather than something that surfaces mid-session. The same structural feature is operating: the presenting concern is happening right now in how the person is presenting it, and the move uses the live happening as the entry.
+
+In the source session, the woman who presented with "I want to fix everything, I'm always trying to fix things" had been preparing the question throughout the call. The preparation was the fix-pattern. Joe asked her to set the notes aside ("can you do me a favor and not take any notes and just be fully here with me?") and compressed her formulation into one sentence. The session was already in the live work in the first 60 seconds. See [[reading-from-notes-or-script]] for the read this opening serves.
+
 ## Anti-Patterns
 
 - Do not deploy when the pattern is not actually firing in the room. The move requires the live instance. Without it, the move is a fishing expedition that the person will rightly resist.
@@ -131,3 +141,4 @@ There is also a quality of welcoming. The coach is making the live anxiety a wel
 
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the man who said he gets anxious in relationships; Joe's immediate pivot ("yeah, just like right now") and the redirect ("so let's just talk about how it happened right now"); the use of the live moment ("what's happening right now is you're being seen, how is that working for you?") as the entry into the actual work
 - 2025-04-08_How Do I Overcome Self-Consciousness? (Coaching Session With Master Coach) — the stand-up comic asking about authenticity on stage; Joe clarifies the question is about self-consciousness; refuses to engage with the abstract advice the person was about to share ("I don't want to hear that. Okay, I don't care."); makes the live pivot ("is it so right now you're self-conscious?"); the Zoom session becomes the laboratory for the on-stage work
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the fix-pattern variant; the woman who has been taking notes during the entire Q&A to formulate her question about fixing everything; Joe asks her to set the notes aside and be fully here as the opening move; the preparation is the live instance of the fix-pattern firing in the room before the session has formally begun

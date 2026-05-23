@@ -4,7 +4,7 @@ id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
 aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form", "I'm trying to manage him into happiness", "I'm trying to save my partner", "I'm trying to fix my partner so I can love them again", "I'm trying to bring back the person I fell in love with"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-07-01_Should I Stay With My Ex？"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-07-01_Should I Stay With My Ex？", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -133,8 +133,21 @@ When this is the presentation, the work is not the decision. The decision is dow
 
 A specific strategy often surfaces underneath the stay-or-leave question: the caretaking is functioning as a way to bring back the partner the speaker fell in love with. "I'm managing him into happiness so I can get back the same man I fell in love with." Joe names this strategy as the love-killer: the management IS the love-loss, and the strategy is reaching for the love it is killing. See [[responsibility-stops-love]] for the principle and [[qa-trial-separation-client]] for the canonical example.
 
+## The Obsessive-Caretaking / Fix-Everything Form
+
+Some caretakers do not localize their caretaking to family or partner. They caretake everywhere: the partner, the kids, the colleagues, the strangers, the world's injustices. The pattern has expanded into a whole way of being. They describe themselves as people who always have to fix something, always have to stand up against unfairness, always have to make sure others are okay.
+
+The person sometimes labels this themselves: "obsessive caretaking." The label is informative — the caretaker has noticed the pattern is no longer just about specific relationships but is operating as a compulsion.
+
+This form is the broader concern [[why-am-i-always-trying-to-fix]]. The structural feature that distinguishes it from the relational-caretaking shape: the caretaking has generalized to any target that admits a fix. Anything broken in the visible world becomes the caretaker's mandate.
+
+The work for this form is the work for the broader fix-everything concern. The caretaking dynamic — managing another's emotional state to avoid one's own — is one specific expression of a broader pattern of fix-as-avoidance-of-presence. See [[fixing-as-avoidance-of-presence]]. When the obsessive-caretaking form is presenting, the coaching often needs to move from the caretaking-specific work to the broader fix-pattern work, because the localized framing will keep reproducing itself in new targets even after specific caretaking relationships are addressed.
+
+The descent for this form runs through judgment to silence rather than through grief of feared loss. The fixer judges what needs fixing; the judgment is the activator; the silence underneath the judgment is what the activity has been holding off. See [[im-judgmental-how-do-i-stop]] for the judgment-descent and [[fix-everything-woman-anthill-presence-session]] for the canonical example of the whole arc.
+
 ## Related Concerns
 
+- [[why-am-i-always-trying-to-fix]]: the broader concern when the caretaking has generalized to a whole way of being, including self, others, and the world.
 - [[should-i-stay-with-my-ex]]: when the caretaking presents as a stay-or-leave question about a long relationship.
 - [[i-feel-trapped]]: the felt cage is often the caretaking dynamic.
 - [[i-have-to-sacrifice-to-succeed]]: a related framing in the work domain.
@@ -149,3 +162,4 @@ A specific strategy often surfaces underneath the stay-or-leave question: the ca
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the chronic-illness-partner form, where caretaking presents as exhaustion and unexpressed anger
 - 2024-07-01_Should I Stay With My Ex? -- Q&A session demonstrating caretaking presenting as a stay-or-leave question about a trial separation; the woman is managing her depressed husband into happiness to recover the man she fell in love with
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the obsessive-caretaking / fix-everything form; the woman who self-labels "obsessive caretaking behavior" and describes fixing self, others, and the world's injustices as one generalized pattern; the demonstration that this form requires the broader fix-pattern work rather than the localized caretaking work

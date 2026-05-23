@@ -4,7 +4,7 @@ id: if-you-couldnt-feel-this-whats-underneath
 title: "If You Couldn't Feel This, What Would Be Left to Feel?"
 aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent", "if you couldn't have that reaction what would you feel or notice", "the if-you-couldnt-feel-it question for non-blocker emotions", "the question for finding what's under a strong reaction", "if you couldn't hate it what would you feel", "the hypothetical removal of the strong reaction", "if you couldn't have a should what would you have to feel", "if you couldn't feel the should what would be underneath", "the should-as-blocker variant", "if you couldn't feel the obligation what's there", "the give-me-a-specific should-variant", "what's the one specific thing you should yourself for"]
 tags: ["moves", "emotional inquiry", "blocker emotions", "feel-over-figure", "feeling sequence", "descent", "AOA", "Tara Howley"]
-sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # If You Couldn't Feel This, What Would Be Left to Feel?
@@ -111,6 +111,32 @@ The variant is documented separately because:
 
 See [[i-should-be-doing-this]] for the concern this variant most often serves and [[purposelessness-is-freedom]] for what the bottom of the descent often opens onto.
 
+## Application to Judgment as a Blocker (The "If You Couldn't Judge Them" Variant)
+
+Judgment is a canonical blocker emotion and the move runs on it cleanly. The variant matters because judgment often presents not as "I'm having a feeling of judgment" but as a sustained activity — judging an injustice, judging a perpetrator, judging the self. The hypothetical-removal collapses the activity into a single moment so the body can answer what comes next.
+
+The form Joe uses: "If you were not able to judge them in that moment, what feeling would you be left with?"
+
+The variant requires the same specificity step the should variant requires: a generic judgment ("I judge people") does not produce a clean descent. The work is to anchor the judgment in a specific past moment first, then run the hypothetical removal on that moment.
+
+The canonical sequence from the source session (the fix-everything woman):
+
+- **Joe:** "What do you judge others for? Give me something that's a prime—"
+- **Client:** "You're going to judge somebody for not treating others the way I think they should be treated, this sense of fairness."
+- **Joe:** "Fantastic. Think of that time where that's most prevalent. Think back in your history of a time where that person was definitely doing it and you were definitely judging them. You got it? ... And now imagine there is just no possible way on earth you could judge them. What would you have to feel?"
+- **Client:** "I'm going to say it feels like nothingness. Just silent. It's quiet."
+- **Joe:** "Great. So let's go there."
+
+The descent lands on silence/nothingness rather than on a discrete underneath-emotion. The silence is itself the underneath material — the territory the judgment activity was protecting against. When the silence is then entered (Joe's next move: "what if you looked at it through the lens of silence?"), the anxiety surfaces as the buffer between the person and the silence. The descent has produced the territory; the work then moves into being-with-the-silence and its accompanying anxiety.
+
+The variant is documented separately because:
+
+- The judgment is typically running as an *activity* (judging X, judging Y, judging the self) rather than as a discrete felt emotion. The specificity step (anchor to a particular moment) is what converts the activity back into a thing the hypothetical-removal can operate on.
+- The bottom of the descent often arrives at silence/vastness/nothingness rather than at another emotion. This is because the judgment has been functioning to generate activity-to-avoid-stillness, and removing the judgment removes the activity. The bottom is the territory of no-activity, which the body experiences as silence first and anxiety second.
+- The descent is often deployed inside the broader fix-everything pattern (see [[why-am-i-always-trying-to-fix]]) where the judgment-removal is the first step in the descent toward the underneath-feeling that drives the whole fix-pattern.
+
+See [[im-judgmental-how-do-i-stop]] for the concern this variant most often serves and [[whats-wrong-with-this-moment]] for the present-moment question that often follows the silence-arrival.
+
 ## Application Beyond Blocker Emotions: Strong Reactions in General
 
 The move was developed in the context of blocker emotions (guilt, shame, judgment) — the canonical case. The same structure works on any strong reaction that is functioning as a top layer, even when the reaction is not technically a blocker emotion. A strong "I hate this" or "I love this" or "fuck you" can be operating as a layer that holds something else off.
@@ -171,3 +197,4 @@ The blocker emotions are designed to keep the underneath material from surfacing
 - 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (Tara Howley's deployment of the move with Michael Nagel after his "I hate it" reaction to receiving care; the trust-fall image that surfaced when the hate was hypothetically removed; the demonstration that the move works on any strong reaction, not just blocker emotions like guilt or shame)
 - 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; the full exchange showing Tara honoring the hate first -- "I totally, fully, 100% get -- I hate it" -- before deploying the hypothetical-removal question; the timing of the move after the validation as part of why it lands)
 - 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the should-as-blocker variant; the explicit specificity-step ("give me a specific. I want a specific. What's the one specific thing that you should yourself for?") before running the hypothetical removal; the multi-layer descent from should ("I should be more productive") through aimlessness through panic to existential dread; the bottom of the descent landing on freedom-territory rather than on heartbreak/love
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the judgment-as-blocker variant; the specificity-step ("think back in your history of a time where that person was definitely doing it and you were definitely judging them"); the hypothetical-removal applied to the anchored moment ("imagine there is just no possible way on earth you could judge them. What would you have to feel?"); the descent landing on silence/nothingness rather than on another emotion; the silence as the territory the judgment-activity had been protecting against

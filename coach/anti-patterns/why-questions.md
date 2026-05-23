@@ -5,7 +5,7 @@ title: "Avoid 'why' questions"
 aliases: ["why questions carry judgment", "why as attack", "don't ask why"]
 tags: ["VIEW", "questions", "judgment", "communication"]
 related: ["how-what-questions", "view"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2022-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2022-10-26_Introduction to VIEW", "2025-07-04_Doubt- The Key To Authentic Confidence (Coaching Session Breakdown)"]
 ---
 
 # Avoid "why" questions
@@ -26,6 +26,18 @@ Two reasons:
 
 "Why questions are the questions that scientists can't answer." -- Joe Hudson, Introduction to VIEW
 
+## Why-Questions Turned Inward Are Self-Judgment
+
+The same dynamic operates when the why-questions are aimed at oneself rather than at another person. Clients who open coaching sessions with stacked why-questions about themselves — "Why am I stuck? Why am I not moving forward? Why am I not just running in?" — are running the same judgment structure they would be running on someone else, but directed inward.
+
+The opening signature is diagnostically useful for the coach. A session that opens with multiple why-questions about the self previews the level of self-judgment the work will likely encounter. Joe names this as one of the first-minute reads in the breakdown of a coaching session:
+
+"The questions, when asked what the questions are, they're all why questions, which are typically more judgmental questions that are happening." -- Joe Hudson, Doubt: The Key To Authentic Confidence (Coaching Session Breakdown)
+
+See [[the-first-minute-tells-you-everything]] for the principle this read belongs to. The why-question signature in the opening turn is part of a larger cluster (often paired with closed eyes, distance markers, and credential frames) that tells the coach what relational and self-judgmental defaults the client is operating from.
+
+For self-coaching, the equivalent move is: notice when the inner voice is asking why-questions about yourself, and translate them into how/what versions. "Why am I stuck?" becomes "What is happening when I try to move?" The translation is the same act of moving from judgment to inquiry, performed interiorly.
+
 ## What To Do Instead
 
 Reframe the question using "how" or "what." This forces a different kind of thinking and opens the conversation rather than closing it.
@@ -41,3 +53,4 @@ The reframing is not just cosmetic. It changes the speaker's neurology. Finding 
 - 2020-10-26_Introduction to VIEW
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2025-07-04_Doubt: The Key To Authentic Confidence (Coaching Session Breakdown) — extension to the self-directed form of why-questions; the opening-turn diagnostic where stacked why-questions about the self preview the level of self-judgment the work will encounter

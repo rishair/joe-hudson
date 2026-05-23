@@ -89,6 +89,7 @@ The typical flow:
 
 ## Related Concerns
 
+- [[why-am-i-always-trying-to-fix]]: the broader concern when the improvement project has generalized to fixing-everything (self, others, the world); the self-improvement is one specific expression of a broader fix-pattern.
 - [[i-should-be-doing-this]]: the language layer of the same dynamic.
 - [[ill-become-lazy-without-shoulds]]: the fear that blocks releasing the improvement project.
 - [[im-afraid-of-stagnating]]: the related fear about not measuring progress.

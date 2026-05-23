@@ -5,7 +5,7 @@ title: "Don't Coach From the Presumption That the Person Is Broken (Even When Th
 aliases: ["don't presume the person is broken", "fixing assumes you're broken", "I have no interest in fixing you", "the no-interest-in-fixing-you stance", "the I-don't-think-you're-broken stance", "the coach's no-fix posture", "decline to coach from brokenness premise", "the explicit no-fix opener", "the wholeness presumption as coaching stance", "starting the session from wholeness not brokenness", "the no-fix coaching frame", "fixing premise as the anti-pattern", "I'm not going to fix you", "the inherent-wholeness coaching stance", "explicit refusal to coach as fixer", "the no-fix opener for the I-can't-be-fixed presenter", "don't accept the fix-me invitation"]
 tags: ["anti-pattern", "fixing", "wholeness", "coach stance", "presumption", "broken vs whole", "coaching frame"]
 related: ["send-the-message-that-youre-whole", "fixing-people", "symptoms-vs-root-causes-of-depression", "self-improvement-is-shame-inducing", "caring-vs-caretaking", "coaching-to-be-seen-as-wise", "loving-presence-as-defense", "improvement-vs-authenticity", "theres-a-voice-that-says-im-fake-around-everyone"]
-sources: ["2024-10-29_Am I Being Authentic Or Fake？"]
+sources: ["2024-10-29_Am I Being Authentic Or Fake？", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Don't Coach From the Presumption That the Person Is Broken (Even When They Present a 'Problem')
@@ -81,6 +81,26 @@ The line itself can be useful as a frame-setting move at the start of a session,
 
 A related move, used when a person is collapsed into self-improvement: "Self-improvement starts with the assumption that something is wrong with you. Self-awareness starts with nothing wrong." See [[self-improvement-is-shame-inducing]]. The improvement orientation installs the brokenness premise even when the person is doing the work on themselves.
 
+## The Three-Turn Refusal: "What's Wrong With You?" / "Nothing" / "So What's to Fix?"
+
+A second canonical form of the refusal operates as a three-turn opening sequence rather than as a direct declaration. The form is most useful when the person opens the session by stating that they are trying to fix themselves.
+
+The sequence:
+
+1. Coach: "What's wrong with you?"
+2. Person: "Nothing's wrong with me."
+3. Coach: "So what's to fix?"
+
+The third turn does the refusal. The person has just stated, in their own voice, that nothing is wrong. The coach surfaces the contradiction between that statement and the fix-attempt. The person hears their own non-endorsement of the brokenness-premise echoed back. The frame wobbles in the first 30 seconds.
+
+This variant works because the person rarely actually believes they are broken in the way the fix-attempt presupposes. The fix-pattern operates on an inherited or absorbed premise, not on a considered judgment. The simple act of asking "what's wrong with you?" and receiving "nothing" gets the person to state the position they have been acting against. The coach does not have to argue with the brokenness-frame; the person has just declined to defend it.
+
+See [[ask-whats-wrong-with-you-into-the-shame]] for the move in its detailed form, including the fix-premise variant section that documents this exact sequence.
+
+The variant is the canonical opening for the [[why-am-i-always-trying-to-fix]] presenting concern. The session needs the broken-frame refused before the actual work can begin. The three-turn sequence is the most economical version of the refusal.
+
+The variant works alongside the declarative form ("I have absolutely no interest in fixing you, it assumes you're broken"). The declarative form names the coach's stance directly. The three-turn form gets the person to discover the same thing from their own statement. Both refuse the same frame; the right choice depends on whether the person needs to hear the coach name it or needs to hear themselves name it.
+
 ## The Tone of the Refusal
 
 The decline is delivered warmly, not defensively. The "no interest in fixing you" is a statement of stance, not a refusal to engage. It is the equivalent of a doctor who says "I'm not going to treat you as a problem to solve, I'm going to be with you and see what's actually happening here." The patient feels the difference between being met as a person and being processed as a case.
@@ -90,3 +110,4 @@ The warmth is what allows the refusal to land as care rather than as withholding
 ## Sources
 
 - 2024-10-29_Am I Being Authentic Or Fake?
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the three-turn variant of the refusal ("what's wrong with you?" / "nothing's wrong" / "so what's to fix?"); the variant's use as the canonical opening for the fix-everything presenting concern; the demonstration that the broken-frame refusal can be accomplished by getting the person to state the position they have been acting against

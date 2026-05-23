@@ -4,7 +4,7 @@ id: peace-is-what-we-resist-the-most
 title: "Peace Is What We Resist the Most (The Abyss Turns Out to Be Peace)"
 aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience", "in a war with yourself you always lose", "the war with yourself loses", "peace cannot be forced", "peace cannot be tried into being", "the avoidance is the stuckness", "the avoidance of the hole is the stuckness", "the stuckness IS the avoidance", "stuckness as avoidance of the abyss", "the avoidance is the suffering", "what you're running from is your relief", "running from the thing that brings freedom quickest"]
 tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance", "stuckness"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying", "2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying", "2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
 ---
 
 # Peace Is What We Resist the Most
@@ -128,6 +128,22 @@ The post-session frame also names the specific shape of what is usually on the o
 
 A further commentary frame: this does not mean the entry is comfortable. "It's not like someone's like, okay, go into this big black hole, it's not scary, and you're gonna have freedom. It's like, go to the big black hole because it's scary, right?" The scariness is not a sign that the entry is wrong. The scariness is a sign that the entry is at the right location. The territory being avoided will, by definition, feel like the territory being avoided when entered. The freedom is on the other side of the entry, not in the entry itself.
 
+## The Fix-Everything Variant: Compulsive Fixing as the Activity That Holds Peace at Bay
+
+A specific operational form of the principle. The fix-everything pattern — fixing the self, others, and the world — is the activity that holds the peace at bay. The fixer cannot stop because stopping reveals the silence the activity has been generated to fill. The chronic fix-activity is structurally the same as the chronic worry / planning / monitoring described above: it is the system's strategy for keeping the peace from arriving.
+
+The diagnostic move in this variant: ask the fixer what they would have to feel if they could not judge or fix. The standard answer is "nothing, just silent, it's quiet." The "nothing" is the peace. The descent has surfaced what the fixing has been protecting against, and the protection is now visible as protection.
+
+The corollary, named explicitly in the source session: "If you can't go to judgment, then there's a vastness that makes you very anxious." The vastness is the peace. The anxiety is the body's report that the protection is failing. The work is to welcome the anxiety as the gateway and let the peace arrive on the other side of it.
+
+The fixer's eventual self-description, when this variant lands, is direct: "I am avoiding the silence. I am avoiding the peace." -- Guest, Why Am I Always Trying To Fix Myself & Others?
+
+Joe's confirmation: "Yeah. And the pleasure and that aliveness. That's why everybody rejects you trying to fix it."
+
+The full operational chain in this variant: the fixing produces rejection from those being fixed, which produces the failure-feeling, which drives more fixing, which produces more rejection. The cycle is the avoidance of peace expressed as an activity-trap. See [[everything-i-touch-fails-drives-fixing]] for the failure-feeling driver and [[why-am-i-always-trying-to-fix]] for the canonical presenting concern.
+
+The treatment in this variant is the same as the canonical case: enter the territory being avoided. The territory is the silence / peace / aliveness that the fixing has been generating activity to escape. See [[make-the-session-itself-the-demonstration]] for the live entry move and [[whats-wrong-with-this-moment]] for the present-moment test that demonstrates there is nothing to fix when the time-travel scan is constrained.
+
 ## When Someone Experiences This
 
 - They describe a fear of "losing themselves" if they really feel something
@@ -164,3 +180,4 @@ Quiet, deliberate, almost gentle. This principle is delivered in the same low re
 - 2023-04-14_The Opposite of Trying (the corollary that peace cannot be forced; "in a war with yourself, you always lose"; avoiding conflict creates a war inside)
 - 2024-03-18_I Am Scared Of The Unknown (the stuckness variant: "the avoidance of the hole is the stuckness, the abyss"; "you are avoiding something that is your relief; you are running away from the thing that brings you freedom quickest"; the live demonstration of the principle in the felt-state-of-stuckness form, where entering the catastrophic image dissolves the chronic stuck-feeling)
 - 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the reflective formulation post-session ("the thing that we're avoiding is usually the most direct path to our freedom"); the catalog of what is usually on the other side ("deep love, deep pleasure, deep freedom"); the corrective that scariness at entry is not a counter-signal ("go to the big black hole because it's scary"); the structural frame that entering the catastrophic image dissolves the identity that requires the catastrophe-story
+- 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the fix-everything variant; the woman who has been compulsively fixing self, others, and the world; the descent through judgment to silence ("nothingness, just silent, it's quiet"); the anxiety at the gateway ("if you can't go to judgment, then there's a vastness that makes you very anxious"); the woman's own naming when the variant lands ("I am avoiding the silence, I am avoiding the peace"); Joe's confirmation extending to "the pleasure and that aliveness"
