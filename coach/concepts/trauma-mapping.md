@@ -4,8 +4,8 @@ id: trauma-mapping
 title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma", "generational trauma pattern", "trauma transmits across generations"]
 tags: ["trauma", "attachment", "patterns", "repetition", "generations"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation", "trigger", "anxious-avoidant-dynamic", "capital-t-vs-small-t-trauma", "the-fight-is-asking-you-to-feel-what-you-couldnt"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation", "trigger", "anxious-avoidant-dynamic", "capital-t-vs-small-t-trauma", "the-fight-is-asking-you-to-feel-what-you-couldnt", "trauma-is-present-experienced-as-past", "downregulate-to-interrupt-the-trauma-loop"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)", "2025-09-16_Pleasure Is What Makes Healing Possible"]
 ---
 
 # Trauma Mapping
@@ -34,6 +34,8 @@ The pattern dissolves when the emotion suppressed during the original trauma is 
 ## Trauma Mapping and Presence
 
 When trauma is active, the person is not fully present. They are with the people and situations from the original wound, not the person in front of them. War veterans experience this acutely (believing they are in combat while on their sofa), but it happens in minor forms constantly. A person whose early experience included criticism from a caregiver will hear criticism from a partner even when none is intended. They are not hearing the partner. They are hearing the original caregiver.
+
+The moment-to-moment expression of this is captured in the working definition [[trauma-is-present-experienced-as-past]]: in the firing of a trauma response, the system is processing the current stimulus through the template of the original event. The veteran in Ohio responding to the car backfire as if it were an IED is the clear case; the partner hearing the spouse's tone as the parent's tone is the everyday case. The mapping is what arranges the recurring situations; the present-as-past firing is what happens inside each one.
 
 This absence of presence is one of two reasons people get "duped" in relationships and sales. The other is self-deception: people believe lies that rhyme with truths they want to believe. But in the trauma case, the person literally is not in the same time and space as the interaction.
 
@@ -137,6 +139,8 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - Toward [[i-cant-trust-my-thoughts-right-now]] when the pattern is firing in the present moment
 - Toward [[trace-emotion-to-its-first-felt]] to locate where the pattern was installed
 - Toward [[complementary-trauma-surfaces]] when the pattern is showing up in partnership
+- Toward [[trauma-is-present-experienced-as-past]] as the moment-by-moment operational description of the pattern
+- Toward [[downregulate-to-interrupt-the-trauma-loop]] as the in-the-moment intervention that interrupts a single firing
 
 ## Sources
 
@@ -154,3 +158,4 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the drummer-with-the-dart anecdote as the compressed vivid example of how precisely targeted the body's partner selection mechanism is; the wired-with-love framing applied directly to partner selection — "you're going to be attracted to the thing that you learned as a kid was love"; the pronounced-cases-make-mechanism-visible point with the childhood-sexual-assault recurrence data; the universal-but-variable-intensity framing — "we're all doing that on some level")
+- 2025-09-16_Pleasure Is What Makes Healing Possible (the working definition "trauma is when you are experiencing the present as the past" that grounds the moment-by-moment operational view of trauma-mapping; the Afghanistan-veteran-and-car-backfire example as the clear case of the present-as-past firing; the everyday relational extension — treating husbands and wives like mothers and fathers, hearing the partner's words as the brother who made fun of you — that locates the mechanism in ordinary life; the explicit pairing with downregulation as the in-the-moment intervention available when the loop fires)

@@ -2,10 +2,10 @@
 type: principle
 id: make-it-redundant-not-just-done
 title: "Make Things Redundant, Not Done (The Highest-Leverage Productivity Question)"
-aliases: ["make it redundant not just done", "my job is to not do things and get them done", "make the work irrelevant", "what are the three things on my list that would make everything else easier or redundant", "the three-things question for your to-do list", "the redundancy move", "stop asking how to get this done ask how to make this not need doing", "the leverage question for productivity", "making things irrelevant beats making them done", "the great-ideas-over-hard-work principle", "your job isn't to work hard your job is to have great ideas", "the local tire shop and Google worked the same hours", "the VC's lesson to CEOs", "one great idea saves three years", "removing tasks beats doing tasks"]
+aliases: ["make it redundant not just done", "my job is to not do things and get them done", "make the work irrelevant", "what are the three things on my list that would make everything else easier or redundant", "the three-things question for your to-do list", "the redundancy move", "stop asking how to get this done ask how to make this not need doing", "the leverage question for productivity", "making things irrelevant beats making them done", "the great-ideas-over-hard-work principle", "your job isn't to work hard your job is to have great ideas", "the local tire shop and Google worked the same hours", "the VC's lesson to CEOs", "one great idea saves three years", "removing tasks beats doing tasks", "the three things that make everything else easier or irrelevant", "the famous executive who shifted to three things", "the 60-70 hour executive case"]
 tags: ["principle", "productivity", "leverage", "to-do list", "leadership", "redundancy", "efficiency", "great ideas"]
-related: ["pace-and-spin", "energy-management-over-time-management", "productivity-as-dopamine-fix", "what-is-the-productivity-for", "do-the-work-thats-harder-for-you", "overwhelm-reduces-productivity", "do-the-uncomfortable-task-first", "rest-is-an-accomplishment"]
-sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
+related: ["pace-and-spin", "energy-management-over-time-management", "productivity-as-dopamine-fix", "what-is-the-productivity-for", "do-the-work-thats-harder-for-you", "overwhelm-reduces-productivity", "do-the-uncomfortable-task-first", "rest-is-an-accomplishment", "to-do-list-as-inner-critic-on-paper", "plan-how-not-just-what", "joes-executive-three-things-shift", "impact-and-purpose-are-universal-human-needs"]
+sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity", "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper"]
 ---
 
 # Make Things Redundant, Not Done
@@ -37,6 +37,28 @@ The same principle generalizes to leadership work, which Joe articulates as a te
 The comparison is sharp. Two founders, similar hours, vastly different outcomes. The difference is not in the labor. It is in what the labor was pointed at. The founder whose ideas removed years of work from the company arrived somewhere the other one could not get to with any amount of additional labor.
 
 The implication for any CEO, founder, or leader: optimizing for harder work optimizes for the wrong variable. The variable that actually moves the outcome is idea-quality. The leader's primary job is to think well, not to grind. The grinding is the comfort behavior. The thinking is the leverage.
+
+## The Famous-Executive Worked Example
+
+The principle in a high-stakes, observable case. Joe coaches one executive who, when they started working together, was going from meeting to meeting nonstop, working 60-70 hours a week. By conventional metrics this was succeeding -- the company was growing 10-12% per year. The cost was paid in the executive's days, which were structured around getting through the list.
+
+The shift was a single substitution. Instead of organizing the day around "what do I need to get done?" the executive started organizing the day around: "what are the three things I can do that make everything else either easier or irrelevant?" Three things a day. The three highest-leverage things.
+
+The result was double. First, the company grew faster -- the shift did not slow the growth that the 60-70 hours had been producing; it accelerated it. Second, the executive felt better day-to-day. The fulfillment of doing three things that would make a substantial difference was structurally different from the fulfillment of checking off many medium-leverage items.
+
+"He started thinking about his days as, what are the 3 things that I can do that make everything else either easier or irrelevant? And that's all he would focus on, just getting those 3 things done. And so all of a sudden his to-do list was the most high-leverage stuff. And there's a fulfillingness to like checking off a to-do list. But man, do you feel great if you've done something that you know will make a substantial difference?" -- Joe Hudson, Your To-Do List is Just Your Inner Critic on Paper
+
+The example matters because it covers both the productivity-result variable and the felt-experience variable. Most productivity advice optimizes for one and damages the other. The three-things shift improved both. The structural reason: high-leverage work is also high-meaning work, and high-meaning work is also high-energy work. The three variables move together when the leverage is real. See [[joes-executive-three-things-shift]] for the full example article.
+
+The example also demonstrates that the principle scales. The same substitution that works for a person whose list contains "respond to client emails" also works for a person whose list contains "decide quarterly strategy for a growing company." The leverage logic does not change with the stakes; it just operates at a higher level.
+
+## The Felt-Fulfillment Difference
+
+A specific observation worth naming on its own. The default to-do list produces a small dopamine hit per item completed -- see [[productivity-as-dopamine-fix]]. The hits add up to a kind of fulfillment, but the kind is shallow. The fulfillment of doing one thing that makes a substantial difference is a different, larger kind of fulfillment that the dopamine-of-completion can mask but not replace.
+
+This fulfillment-difference is also why the principle is sustainable in a way that the grinding-through-the-list mode is not. Sustained grinding produces depletion because the felt-payoff is small relative to the energy spent. Sustained leverage-work produces energy because the felt-payoff is large relative to the energy spent. The math of human effort favors the second mode. See [[efficiency-as-enjoyment]] for the structural argument.
+
+The principle also touches the structural human need for impact. See [[impact-and-purpose-are-universal-human-needs]]. Doing three high-leverage things meets the impact-need; doing twenty medium-leverage things does not, even if both produce the same business result. The difference shows up in how the person ends the day -- depleted or energized.
 
 ## What This Looks Like at the Personal Level
 
@@ -134,3 +156,4 @@ Direct, slightly entrepreneurial. Joe delivers this with the energy of someone w
 ## Sources
 
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the to-do list shift from "how do I get this done" to "what three things would make everything else redundant"; "my job wasn't to get things done, my job was to not do things and get them done"; the VC lesson to CEOs that "your job isn't to work hard, your job is to have great ideas"; the local tire shop and Google comparison; the most-uncomfortable-task corollary; "the thing I was most likely not going to do was the thing I didn't know how to do, and it was usually the most important thing to do if I was creating a business")
+- 2025-09-24_Your To-Do List is Just Your Inner Critic on Paper (the famous-executive worked example with the specific details: 60-70 hours per week, 10-12% company growth, the shift to "three things that make everything else easier or irrelevant," the double result of accelerated company growth and improved day-to-day felt experience; the explicit fulfillment-difference between the dopamine-hit of checking off many items and the felt-sense of doing something that will make a substantial difference)

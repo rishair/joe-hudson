@@ -4,7 +4,7 @@ id: stuck-is-only-ever-stuck-with-thoughts
 title: "The Only Thing You Were Ever Stuck With Was the Thoughts"
 aliases: ["the only thing you were ever stuck with was the thoughts", "stuck is always thoughts", "stuck only happens in the mind", "if you're not scared of death no one can oppress you", "if you're not afraid of consequences no one can trap you", "the prison cell is not the stuckness", "Mandela in prison was not stuck", "the monk in the 2.5 by 2.5 foot room was not stuck", "physical confinement is not stuckness", "stuckness is internal framing not external reality", "stuckness is an internal framing not an actuality", "we're stuck with gravity but we don't feel stuck", "stuck is a feeling not a fact"]
 tags: ["principle", "stuckness", "thoughts", "internal framing", "freedom", "mandela", "monks", "death", "core principle"]
-sources: ["2025-08-01_How To Get Unstuck"]
+sources: ["2025-08-01_How To Get Unstuck", "2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom"]
 ---
 
 # The Only Thing You Were Ever Stuck With Was the Thoughts
@@ -70,6 +70,22 @@ The brain collapses the option-space to two bad consequences. Both are unaccepta
 The option-space is almost never actually two-choice. There are usually many options. The collapse is a feature of how the brain is processing the situation, not a feature of the situation itself. The work is to see that the option-space is not what the brain is reporting it to be.
 
 This is structurally similar to [[binary-thinking-signals-fear]]. Binary thinking is a fear-state. When the brain is reporting "only two options and both bad," the system is in fear-mode and other options are not being scanned for.
+
+## The Three Cognitive Distortions Underneath the Stuckness-Thought
+
+A finer-grained articulation of what the "thoughts" the principle names actually are. Stuckness is not produced by a single thought; it is produced by three cognitive distortions stacked together. Each is a specific way fear shapes the mind's processing of a situation. Together they construct the felt experience of having nowhere to go.
+
+**The option-space collapse.** The mind narrows the visible options to a small set. The person sees "ask or don't ask" rather than the many actual ways to ask. See [[binary-thinking-signals-fear]].
+
+**The false end.** The mind freezes time at the worst predicted moment of each option and treats that frozen moment as the permanent state. The boss's Tuesday reaction is treated as the boss's permanent verdict. The fact that people change their minds about each other constantly is excluded from the calculation. See [[change-your-mind-frequently-about-others]].
+
+**The safety-vs-risk inversion.** The mind labels not-acting as the safe choice when the math is the other way around. Staying in the position that has produced the stuckness is usually the higher-risk position over any meaningful timeline; the iteration that feels risky is usually the safer one. See [[safety-is-in-evolution-not-stagnation]].
+
+All three distortions are thoughts. All three are the "thoughts" the principle names as the only thing the person was ever stuck with. The synthesis is: strip the three distortions away, and the cage disappears even when the external situation is unchanged.
+
+"There are many issues with being scared of the consequences. One of the issues with being scared of the consequences is that you're thinking that there's only one way to do it... I'm just thinking in a binary way, yes or no... The other thing that's happening because I am in fear is that I see this false end... So we're sitting here thinking that we're stuck because we're scared of the consequences, and the fear of the consequences is making it so that we can't see all the optionality that we have." -- Joe Hudson, The More Stuck You Feel, The Closer You Are To Freedom
+
+The cognitive-layer treatment of stuckness is the explicit unwinding of these three distortions. The felt-amplification treatment is the body-first complement that releases the fear underneath the cognitive distortions. Both paths arrive at the same place: the cage was made of thoughts; once the thoughts are recognized as thoughts, the cage is no longer operative. See [[fear-of-consequences-creates-stuck]] for the concept that organizes the cognitive-layer treatment.
 
 ## The Convergence with the Earlier Move
 
@@ -147,3 +163,4 @@ The Mandela and monk examples are delivered with quiet respect. These are humans
 ## Sources
 
 - 2025-08-01_How To Get Unstuck (the canonical statement: "the only thing they were ever stuck with was the thoughts. It was a set of thoughts"; the gravity example: "we're stuck with gravity, we're stuck with the sun, we're stuck on Earth. But we don't feel stuck in these ways"; the if-you're-not-scared-of-death test case: "person with a gun can't oppress you. You can't be stuck. You just have some choices to make"; the prison-cell examples including Mandela-type prisoners who emerged moving and the monks in 2.5x2.5 foot cells calling it awakening; the 6-year darkness retreat example demonstrating how the same experience can be either freedom or shame depending on internal framing; the universal-decay reframe: "we're all evolving until we die and then we're all decomposing")
+- 2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom (the finer-grained articulation of what "the thoughts" the principle names actually are: three specific cognitive distortions fear produces — the option-space collapse, the false end, and the safety-vs-risk inversion; the framing that all three together construct the felt experience of having nowhere to go; the connection of the principle to the cognitive-layer treatment of stuckness that runs in parallel to the felt-amplification treatment)

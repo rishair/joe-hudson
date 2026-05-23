@@ -2,10 +2,10 @@
 type: principle
 id: enjoyment-attracts
 title: "Enjoyment Attracts (People Who Enjoy Their Life Do More Things They Enjoy)"
-aliases: ["enjoyment attracts", "people who enjoy their life do more things they enjoy", "people who endure end up doing things they endure more and more", "enjoyment is an attractor", "endurance is an attractor", "the enjoyment compounds principle", "the endurance compounds principle", "you attract what you embody emotionally", "enjoyment attracts enjoyable work", "enjoyment attracts people who want enjoyment", "the enjoyment flywheel", "the endurance flywheel", "the enjoyment-or-endurance fork", "what you reinforce shapes what shows up", "the people-can-read-it principle", "people can feel it"]
+aliases: ["enjoyment attracts", "people who enjoy their life do more things they enjoy", "people who endure end up doing things they endure more and more", "enjoyment is an attractor", "endurance is an attractor", "the enjoyment compounds principle", "the endurance compounds principle", "you attract what you embody emotionally", "enjoyment attracts enjoyable work", "enjoyment attracts people who want enjoyment", "the enjoyment flywheel", "the endurance flywheel", "the enjoyment-or-endurance fork", "what you reinforce shapes what shows up", "the people-can-read-it principle", "people can feel it", "if I enjoy it I'm gonna do it", "doing it is more important than anything else", "the YouTube creator who found a way to enjoy and the numbers jumped"]
 tags: ["principle", "enjoyment", "endurance", "attraction", "compounding", "work", "life trajectory"]
-related: ["enjoyment-as-path", "efficiency-as-enjoyment", "consciousness-is-the-product", "enjoy-over-manage", "authenticity-in-business", "redirect-from-doing-it-right-to-enjoying-it", "lack-of-enjoyment-as-diagnostic", "what-we-fear-we-invite", "i-make-money-only-when-i-hate-what-im-doing", "ive-lost-my-joy"]
-sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2024-11-19_Why He's Afraid To Commit"]
+related: ["enjoyment-as-path", "efficiency-as-enjoyment", "consciousness-is-the-product", "enjoy-over-manage", "authenticity-in-business", "redirect-from-doing-it-right-to-enjoying-it", "lack-of-enjoyment-as-diagnostic", "what-we-fear-we-invite", "i-make-money-only-when-i-hate-what-im-doing", "ive-lost-my-joy", "joes-friend-tiago-youtube-meetings", "plan-how-not-just-what"]
+sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2024-11-19_Why He's Afraid To Commit", "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper"]
 ---
 
 # Enjoyment Attracts
@@ -96,6 +96,18 @@ The argument is not that enjoyment is more productive in the moment (though [[ef
 
 "All that's required is that you just focus on the enjoyment the way that you would focus on getting a job done. And the job gets done. It just gets done better. It just gets done more efficiently. And you start having a life that you just enjoy." -- Joe Hudson, How To Enjoy Your Work
 
+## The Tiago YouTube Worked Example
+
+A specific case showing the principle at the level of observable metrics. In a mastermind conversation among content creators, Joe's friend Tiago said: "There's just no way to enjoy YouTube meetings." Joe and the others pushed back. They went through the specific things Tiago found unenjoyable. Each became a candidate for redesign. By the end of the conversation, Tiago started to light up -- the somatic signature of seeing that a different way was possible. Over the following year, Tiago's YouTube channel numbers jumped substantially.
+
+"I'd like that. Because if I enjoy it, I'm gonna do it. And doing it is more important than anything else. Next thing you know, His YouTube channel has completely jumped over the last year. You can just see the numbers has gone way up because he found a way to enjoy doing YouTube." -- Joe Hudson, Your To-Do List is Just Your Inner Critic on Paper
+
+The story compresses the attractor logic into a tight before/after. Tiago believed YouTube meetings were intrinsically unenjoyable; the belief produced the enduring; the enduring produced the work that did not work. Once Tiago saw a way to enjoy the meetings, the work flowed differently and the audience could feel it. The numbers are the downstream observable. The state-shift in Tiago is the upstream cause.
+
+The example also demonstrates the "if I enjoy it, I'm gonna do it" mechanism at a high-stakes professional level. Content creation requires sustained output. The variable that distinguishes high-output creators from plateaued creators is often whether they have found a way to enjoy the work, not whether they have a better strategy or more skill. The enjoyment produces the doing; the doing produces the result.
+
+See [[joes-friend-tiago-youtube-meetings]] for the full example article. See [[plan-how-not-just-what]] for the related principle about including the how -- the configuration of the meetings -- in the planning.
+
 ## Upstream (What Leads Here)
 
 - When someone asks how to build a life they enjoy.
@@ -122,3 +134,4 @@ Direct, slightly amused, slightly serious. Joe states the principle as if it is 
 
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the principle stated explicitly at the open and the close of the episode; the marketing-attraction example showing how unenjoyed marketing transmits and fails; the "everybody can read and feel that" formulation of why enjoyment is somatically detectable; the close: focus on enjoyment the way you would focus on getting the job done)
 - 2024-11-19_Why He's Afraid To Commit (the endurance trajectory in the relationship domain: the ultramarathon runner who has been enduring relationships sees the relationship category as more endurance; the deliberation about whether to be in a new relationship is generated by the frame; Joe names the frame and redirects rather than adjudicating the deliberation)
+- 2025-09-24_Your To-Do List is Just Your Inner Critic on Paper (the Tiago YouTube worked example -- the mastermind conversation about content creation; Tiago's "there's just no way to enjoy YouTube meetings" claim; the redesign conversation; the somatic "lighting up" moment; the downstream observation that Tiago's YouTube channel numbers jumped substantially the following year; the compact statement of the mechanism: "if I enjoy it, I'm gonna do it. And doing it is more important than anything else")

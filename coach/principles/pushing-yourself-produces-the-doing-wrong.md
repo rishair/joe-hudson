@@ -5,7 +5,7 @@ title: "Pushing Yourself Is What Produces the Doing Wrong (Not the Prevention of
 aliases: ["pushing yourself produces the doing wrong", "the pushing is the source of wrong", "pushing causes the wrongs you're trying to prevent", "the trying produces the messing-up", "the trying is the wrong-maker", "every wrong happens while pushing", "all of them happen while you're pushing yourself", "self-pressure produces self-betrayal", "the pushing-causes-wrong principle", "pushing creates the conditions for wrong", "pushing dissociates and dissociation produces wrong", "what we use to prevent error causes the error", "the wrong-prevention is the wrong-producer"]
 tags: ["principle", "trying", "pushing", "structural insight", "self-betrayal", "inversion", "patterns"]
 related: ["trying-prevents-the-feeling", "trying-vs-doing", "undoing-not-doing", "the-effort-of-disconnection", "tell-me-one-thing-youve-done-wrong-when-you-werent-pushing-yourself", "what-makes-you-push-yourself", "the-trying-is-the-pattern-firing-now"]
-sources: ["2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)"]
+sources: ["2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)"]
 ---
 
 # Pushing Yourself Is What Produces the Doing Wrong
@@ -74,6 +74,22 @@ The principle is not stated as a teaching. It is produced by the client through 
 - [[the-effort-of-disconnection]] — dissociation as sustained effort, which is what the pushing is
 - [[the-trying-is-the-pattern-firing-now]] — the live read this principle structurally explains
 
+## The In-The-Way-Of Form of the Principle
+
+A complementary surfacing of this principle: the pushing has not just produced specific wrongs; it has been "in the way of" the entire texture of life — love, awareness, presence with others.
+
+When the question "if there's no pressure, what comes out?" is asked, what tends to emerge is what the pushing has been blocking. From the source session:
+
+- **Joe:** "If there's no pressure, what comes out?"
+- **Client:** "Just— yeah, I'm just seeing you. Here I'm aware there's a couple people on the call I know."
+- **Joe:** "So it's gotten in the way of your awareness. Let's go all the way to the awareness for a minute."
+- **Client:** "I feel a lot of love for these people."
+- **Joe:** "So all this pressure has gotten in the way of your love and your awareness."
+
+The pushing was not just preventing-error. It was actively in-the-way-of seeing, loving, being-with. The client recognizes the cost of the pushing not as "the wrongs I made" but as "the seeing and loving I didn't do." This is the same structural principle from a different angle: the pushing produces the absence-of-good rather than the production-of-bad, but both follow the same dissociation mechanism. The pushing contracts; the contracted self cannot perceive, cannot love, cannot connect. The wrongs in the previous form are what comes out of the contracted self; the lost-presence in this form is what doesn't come out because the contracted self cannot make it.
+
+The implication for the work: the question "what is the pushing in the way of" is a useful alternative to "what wrongs have you done while pushing." The former invites the client to feel the cost in lived experience rather than to inventory past failures. The two questions surface the same principle but produce different felt material — and the felt material of what has been blocked is often more motivating than the inventory of what has been wrong.
+
 ## Connected Concerns
 
 - [[how-do-i-love-myself-and-express-my-emotions]] — the concern where the pushing produces the dissociation that prevents the emotional expression the person is asking for
@@ -84,3 +100,4 @@ The principle is not stated as a teaching. It is produced by the client through 
 ## Sources
 
 - 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the canonical surfacing of this principle through the live inversion move; the client recognizes "it's me, all of them" — every wrong he has been pushing to prevent has happened in the pushing state; the principle is produced by the client through Joe's setup rather than stated as a teaching
+- 2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson) — the in-the-way-of variant; instead of asking what wrongs the pushing has produced, Joe asks "if there's no pressure, what comes out?"; the client surfaces awareness, seeing, love for the people in the room; the pushing is named as having been "in the way of your love and your awareness"; the variant surfaces the principle from the cost-of-absence rather than the cost-of-error angle

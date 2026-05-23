@@ -4,8 +4,8 @@ id: redirect-from-doing-it-right-to-enjoying-it
 title: "Redirect From 'How Do I Do This Right' to 'How Do I Enjoy Doing This'"
 aliases: ["redirect from doing it right to enjoying it", "how do I enjoy this task", "stop asking how to do it right ask how to enjoy it", "the right-vs-enjoy flip", "the work productivity flip", "stop trying to do it right", "the enjoy-instead-of-right move", "from perfection to enjoyment", "the right-question redirect", "the doing-it-right anti-pattern", "the perfectionism-to-enjoyment redirect", "the right-into-enjoy redirect for work tasks", "the productivity-through-enjoyment flip", "she became productive when she stopped asking how to do it right", "Joe's employee story"]
 tags: ["move", "enjoyment", "productivity", "perfectionism", "work", "tasks", "doing it right", "right-vs-enjoy", "redirect"]
-related: ["how-would-you-enjoy-x", "apply-enjoy-to-whats-here", "enjoyment-as-path", "perfectionism", "am-i-doing-it-right", "find-the-want-behind-the-should", "impulse-to-should", "raw-ambition-vs-stories-on-ambition", "lack-of-enjoyment-as-diagnostic", "authenticity-in-business", "consciousness-is-the-product"]
-sources: ["2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
+related: ["how-would-you-enjoy-x", "apply-enjoy-to-whats-here", "enjoyment-as-path", "perfectionism", "am-i-doing-it-right", "find-the-want-behind-the-should", "impulse-to-should", "raw-ambition-vs-stories-on-ambition", "lack-of-enjoyment-as-diagnostic", "authenticity-in-business", "consciousness-is-the-product", "three-reasons-for-procrastination", "procrastination-is-wisdom", "importance-makes-the-task-un-fun"]
+sources: ["2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-09-23_When You Know What To Do But You Just Don't Do It"]
 ---
 
 # Redirect From "How Do I Do This Right" to "How Do I Enjoy Doing This"
@@ -135,6 +135,20 @@ The answer surfaces the structural fix to the function, just as the individual r
 
 The leader who has internalized the individual redirect ("how do I enjoy this?") becomes more able to make the organizational redirect ("how do we structure this so it can be enjoyed?"). The personal practice becomes the leadership capacity.
 
+## The Perfectionism-as-Procrastination-Reason Framing
+
+The move is also Joe's standard intervention when perfectionism is the diagnosed cause of procrastination. In the three-reasons-for-procrastination framework (see [[three-reasons-for-procrastination]]), reason two is "the way you are doing it is bad" — and the canonical bad way is perfectionism. The redirect is the operational answer to reason two.
+
+> "There's this person I was coaching at one point, and what we'd found out was that all the procrastination was that he was trying to do everything perfectly... as soon as they saw, oh, instead of trying to get it perfect, my job is to enjoy the process, boom, they started working on it right away. And they iterated and they made really a great product." -- Joe Hudson, When You Know What To Do But You Just Don't Do It
+
+Two structural features of this framing:
+
+**The procrastination was correct.** It was signaling "this method is going to suck" and refusing on quality grounds. The redirect did not override the procrastination; it heeded its message ("change the method") and the action then became available. See [[procrastination-is-wisdom]] for the orientation.
+
+**Iteration is the product of the redirect.** Joe specifically names that the resulting product was great *because* the person iterated rather than tried to do it right the first time. The perfectionist version is unstartable. The enjoyable version is iterable. Iterability is what produces quality over time. This connects to [[spaghetti-tower-experiment]] — the kindergartners outperformed CEOs at the marshmallow challenge because they iterated and the CEOs tried to do it right.
+
+The teaching framing also makes the bidirectional argument explicit. The redirect does not lower quality; it makes quality possible at all. The defense of perfection that often resists the redirect ("but I need it to be good") is structurally backward: the perfection demand is the mechanism preventing the good outcome.
+
 ## Connection to Ambition
 
 This move is the operational application of [[raw-ambition-vs-stories-on-ambition]] at the task level. The story-loaded ambition produces the "do it right" question. The raw ambition produces the "enjoy doing it" question. The redirect is therefore one of the more accessible ways to surface the difference for someone who has not yet seen the distinction in their own work.
@@ -167,3 +181,4 @@ Direct, light, concrete. Joe delivers this as a small flip of a switch, not as a
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (alternate cut of the same Q&A episode covering the same employee story and redirect)
 - 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the website case; the explicit ordering of "enjoyment first, work second" in the take-home; the iteration argument that the fun-built thing gets done while the perfection-built thing never does; the application of the move to self-employment specifically, where the person's own internal pressure has become a worse boss than any external one)
 - 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) (the identity-loaded creative variant; the artist with the 15-year block where the importance carried identity-purpose-calling weight rather than income weight; the prerequisite of collapsing the special-activity frame before the redirect can land; the sequence of refuse-purpose, collapse-art-into-life, then apply-the-redirect)
+- 2025-09-23_When You Know What To Do But You Just Don't Do It (the framing of the redirect as the operational answer to reason two of the three-reasons-for-procrastination diagnostic; the perfectionist case where the procrastination was correctly signaling that the method would suck and the redirect to enjoyment unlocked both the doing and the iteration that produced the quality)

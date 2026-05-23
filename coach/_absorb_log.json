@@ -8443,15 +8443,119 @@
     },
     {
       "folder": "2025-09-16_Pleasure Is What Makes Healing Possible",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T20:29:38Z",
+      "articles_created": [
+        "presence-is-pleasure-not-trying",
+        "trauma-is-present-experienced-as-past",
+        "downregulate-to-interrupt-the-trauma-loop"
+      ],
+      "articles_updated": [
+        "joe-thich-nhat-hanh-dishes",
+        "whats-wrong-with-this-moment",
+        "trauma-mapping",
+        "pleasure-tells-system-its-safe",
+        "notice-sensations-as-pleasure-experiment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:40:16Z"
+    },
+    {
+      "folder": "2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:35:57Z",
+      "articles_created": [
+        "i-put-pressure-on-myself-and-rebel-against-it",
+        "mirror-back-the-recursion-of-the-fix-question",
+        "what-do-you-have-to-feel-when-you-soften",
+        "how-much-of-this-game-is-to-avoid-the-feeling",
+        "the-minds-stories-about-emotions",
+        "turn-the-love-toward-the-self-conscious-part",
+        "you-are-nothing-as-vast-awareness",
+        "i-get-it-as-intellectual-grasp-evading-felt-recognition"
+      ],
+      "articles_updated": [
+        "rebellion-or-submission-to-should",
+        "how-do-i-stop-is-the-fix-trap",
+        "why-dont-you-just-love-yourself-as-you-are-right-now",
+        "pushing-yourself-produces-the-doing-wrong"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T20:50:36Z"
+    },
+    {
+      "folder": "2025-09-23_When You Know What To Do But You Just Don't Do It",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:41:08Z",
+      "articles_created": [
+        "procrastination-is-wisdom",
+        "three-reasons-for-procrastination",
+        "three-brain-alignment-required-for-action",
+        "the-bully-passive-aggressive-loop",
+        "ask-what-is-the-procrastination-telling-you",
+        "joes-famous-ceo-not-the-right-time-example"
+      ],
+      "articles_updated": [
+        "visualizing-feared-outcomes",
+        "redirect-from-doing-it-right-to-enjoying-it",
+        "importance-makes-the-task-un-fun"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T20:52:14Z"
+    },
+    {
+      "folder": "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:51:06Z",
+      "articles_created": [
+        "to-do-list-as-inner-critic-on-paper",
+        "plan-how-not-just-what",
+        "impact-and-purpose-are-universal-human-needs",
+        "joes-daughter-panama-vs-europe-purpose",
+        "joes-executive-three-things-shift",
+        "joes-friend-tiago-youtube-meetings"
+      ],
+      "articles_updated": [
+        "make-it-redundant-not-just-done",
+        "enjoyment-attracts",
+        "i-keep-getting-stuff-done-but-nothing-changes",
+        "voice-in-the-head"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:04:13Z"
+    },
+    {
+      "folder": "2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom",
+      "status": "complete",
+      "claimed_at": "2026-05-23T20:52:47Z",
+      "articles_created": [
+        "safety-is-in-evolution-not-stagnation",
+        "fear-of-consequences-creates-stuck",
+        "vp-who-feared-starting-her-company",
+        "change-your-mind-frequently-about-others"
+      ],
+      "articles_updated": [
+        "i-feel-stuck",
+        "binary-thinking-signals-fear",
+        "stuck-is-only-ever-stuck-with-thoughts",
+        "say-im-excited-ten-times",
+        "iterative-mindset",
+        "failure-is-an-idea"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T21:05:29Z"
+    },
+    {
+      "folder": "2025-09-26_How to End Procrastination Now",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T21:05:08Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)",
+      "folder": "2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T20:35:57Z",
+      "claimed_at": "2026-05-23T21:06:01Z",
       "articles_created": [],
       "articles_updated": []
     }

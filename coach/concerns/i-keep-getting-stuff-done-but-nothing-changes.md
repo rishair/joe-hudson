@@ -2,9 +2,9 @@
 type: concern
 id: i-keep-getting-stuff-done-but-nothing-changes
 title: "I keep getting stuff done but nothing changes / I'm productive but my life isn't moving"
-aliases: ["I keep getting stuff done but nothing changes", "I'm productive but nothing is moving", "I'm crushing my to-do list and my business isn't growing", "I answered 100 emails and nothing happened", "I'm busy all day and have nothing to show for it", "my company hasn't grown in two years but we're working harder than ever", "I'm always behind even though I never stop", "we worked all week and the product didn't ship", "I'm exhausted but I can't remember what I did", "we're grinding but the metrics aren't moving", "the team is heads-down and the company is flat", "I get to the end of the day with no idea what I actually did", "the productivity is real but the results aren't", "I feel productive but I'm not actually productive", "I'm always working and I never feel done", "doing more isn't producing more", "we keep hiring and nothing speeds up"]
-tags: ["productivity", "dopamine", "spin", "stagnation", "presenting concern", "business"]
-sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
+aliases: ["I keep getting stuff done but nothing changes", "I'm productive but nothing is moving", "I'm crushing my to-do list and my business isn't growing", "I answered 100 emails and nothing happened", "I'm busy all day and have nothing to show for it", "my company hasn't grown in two years but we're working harder than ever", "I'm always behind even though I never stop", "we worked all week and the product didn't ship", "I'm exhausted but I can't remember what I did", "we're grinding but the metrics aren't moving", "the team is heads-down and the company is flat", "I get to the end of the day with no idea what I actually did", "the productivity is real but the results aren't", "I feel productive but I'm not actually productive", "I'm always working and I never feel done", "doing more isn't producing more", "we keep hiring and nothing speeds up", "my to-do list is running my life", "I feel controlled by my to-do list", "the to-do list never gets shorter no matter what I do", "I work all day and at the end I'm depleted with nothing to show", "the work doesn't feel meaningful even though I'm doing a lot of it"]
+tags: ["productivity", "dopamine", "spin", "stagnation", "presenting concern", "business", "to-do list"]
+sources: ["2025-01-17_Your Obsession With Productivity Is Killing Your Productivity", "2025-09-24_Your To-Do List is Just Your Inner Critic on Paper"]
 ---
 
 # I keep getting stuff done but nothing changes
@@ -51,6 +51,12 @@ Underneath this concern is almost always one or more of three structures:
 
 - **The wrong question being asked of the to-do list.** The person is asking "how do I get this done?" rather than "which of these would make the others easier or redundant?" See [[make-it-redundant-not-just-done]]. The first question optimizes for completing tasks. The second optimizes for leverage. Most lives are run on the first.
 
+- **The to-do list is the inner critic on paper.** The items on the list arrived through the should-pipeline, not from what the person actually wants to do. See [[to-do-list-as-inner-critic-on-paper]]. When the list is the critic's output, completing the items does not produce satisfaction because the items were never the person's items. The list owns the person; the person works for the list.
+
+- **The list has the what but not the how.** Even when the items are real, the configuration of how they will be done is missing. See [[plan-how-not-just-what]]. The unconfigured-how defaults to whatever-is-easiest or whatever-can-be-tolerated, which is rarely the version of the task that produces real output.
+
+- **The impact-need is unmet.** Even when the productivity is high, the person ends the day in the impact-deficit if none of what was done actually produced impact they can feel. See [[impact-and-purpose-are-universal-human-needs]]. The dopamine of completion masks the impact-deficit but does not satisfy it. Eventually the deficit surfaces.
+
 Underneath those three is often a deeper structure: the person has not asked [[what-is-the-productivity-for]]. The productivity is being executed autonomously. Without a forest, the trees are the only thing the system can grow.
 
 There is also frequently a fear-based engine underneath. Productivity as a strategy for safety, for approval, for control of the world. When the productivity is fear-driven, it tends to be anxious, fast, and unmoving -- because anxious effort degrades rather than enhances output. See [[overwhelm-reduces-productivity]] and the "hungry lion" framing there.
@@ -89,6 +95,12 @@ Two people with this concern can need completely different coaching paths.
 
 8. Track the change over weeks. The pattern is sticky because the dopamine loop and the identity have been running for a long time. One conversation is rarely enough. The check-in at subsequent sessions is "what's the pace and what's the spin?" -- the question becomes the ongoing tool.
 
+9. If the to-do list is the visible artifact of the concern, look at the list itself. See [[to-do-list-as-inner-critic-on-paper]]. Walk through the list with the person and ask, for each item: "did you decide to do this, or did the voice in your head decide?" The list almost always turns out to be mostly the voice's output. The list-level work is the entry point into the voice-level work.
+
+10. If the items on the list are real but the doing of them is producing depletion, the issue is the how, not the what. See [[plan-how-not-just-what]]. The work is to add a how to each item that the person would actually want to do. The same items configured for enjoyment produce different output than the same items configured for compliance.
+
+11. If none of the items, completed, would produce impact the person can feel, the work is upstream of the list. See [[impact-and-purpose-are-universal-human-needs]]. The person needs items on the list that meet the impact-need. The dopamine of completion is not a substitute.
+
 ## What This Is Not
 
 - This is not [[im-overwhelmed]]. The person with this concern is not necessarily overwhelmed. They are productive. The complaint is the disconnection between the productivity and the results, not the volume of work.
@@ -108,3 +120,4 @@ There is also a directness available with this concern. The person has often bee
 ## Sources
 
 - 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the entire episode's framing of this concern; the "I answered 20 emails but did I do anything" example; the corporate-meeting form where companies have not grown in two years; the gap between effort and results; the dopamine-driven productivity loop)
+- 2025-09-24_Your To-Do List is Just Your Inner Critic on Paper (the inner-critic-on-paper diagnostic for the to-do list; the famous-executive case showing what changes when the list shifts to three high-leverage items; the impact-need as the underlying variable the productivity-busy-ness is failing to meet; the how-vs-what distinction for tasks that explains why doing the items does not produce satisfaction)
