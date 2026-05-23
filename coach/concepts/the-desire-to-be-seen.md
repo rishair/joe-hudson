@@ -2,10 +2,10 @@
 type: concept
 id: the-desire-to-be-seen
 title: "The Desire to Be Seen"
-aliases: ["desire to be seen", "the desire to be seen", "I just want to be seen", "biological imperative to be seen", "wanting to be seen", "longing to be seen", "seen and heard", "I just want to be seen and heard", "the want-to-be-seen", "hunger for being seen", "the see-me hunger", "see-me see-me dynamic", "the seeing need", "thrival not survival", "thrivival need", "acknowledgement drives performance", "under most fights is I just want to be seen", "infant tracking mama's face", "the basic need to be seen"]
-tags: ["seeing", "connection", "developmental", "biological", "shame", "conflict", "acknowledgement", "infant", "tribe"]
-related: ["being-heard", "false-front", "pointers-to-unseen-parts", "see-yourself-and-acknowledge-others", "wanting-from-lack-vs-wanting-from-wholeness", "in-the-story-im-not-being-seen", "say-of-course-i-just-want-to-be-seen-here", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "two-levels-of-hurt-in-being-misunderstood", "letting-it-in-vs-deflecting-the-welcome", "we-make-it-hard-to-be-seen-when-in-our-trauma"]
-sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method"]
+aliases: ["desire to be seen", "the desire to be seen", "I just want to be seen", "biological imperative to be seen", "wanting to be seen", "longing to be seen", "seen and heard", "I just want to be seen and heard", "the want-to-be-seen", "hunger for being seen", "the see-me hunger", "see-me see-me dynamic", "the seeing need", "thrival not survival", "thrivival need", "acknowledgement drives performance", "under most fights is I just want to be seen", "infant tracking mama's face", "the basic need to be seen", "I don't like being seen", "I like to hide myself", "I'm either putting on a mask or running away from people", "mask or run as the seeing-strategies of the false-front", "what is being hidden is the emotions", "the don't-see-me side is hiding the emotions"]
+tags: ["seeing", "connection", "developmental", "biological", "shame", "conflict", "acknowledgement", "infant", "tribe", "social-anxiety", "hiding", "mask"]
+related: ["being-heard", "false-front", "pointers-to-unseen-parts", "see-yourself-and-acknowledge-others", "wanting-from-lack-vs-wanting-from-wholeness", "in-the-story-im-not-being-seen", "say-of-course-i-just-want-to-be-seen-here", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "two-levels-of-hurt-in-being-misunderstood", "letting-it-in-vs-deflecting-the-welcome", "we-make-it-hard-to-be-seen-when-in-our-trauma", "i-get-anxious-in-relationships", "bring-the-presenting-problem-into-the-room-now", "ask-whats-wrong-with-you-into-the-shame"]
+sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
 ---
 
 # The Desire to Be Seen
@@ -96,6 +96,34 @@ Joe and Tara's diagnostic for which form is operating: the lack-form annoys peop
 - The envy of someone who lets themselves be seen openly
 - The recurring daydream of a moment of recognition (hitting the home run, giving the speech, being applauded)
 - Pushing away a compliment while privately wishing for more of them
+- "I don't like being seen. I like to hide myself."
+- "I'm either putting on a mask or I'm just running away from people."
+- The freak-out at being called on, picked, addressed by name
+- The intense anxiety that arrives quickly at the start of a relationship
+
+## Mask or Run: The Two Operational Strategies of the Don't-See-Me Side
+
+When the don't-see-me side is fully active, it has two main strategies for managing the contradiction in real time: wear the mask, or run.
+
+- **Mask:** present the [[false-front]]. Show the part that was once allowed to be seen. Hide the rest. The mask is the curated self being performed.
+- **Run:** leave. Avoid the social situation. Withdraw before the seeing can happen. The running prevents the contradiction from showing up at all.
+
+Both strategies have the same function: protect against the seeing of what was once shamed. The mask protects by substituting an acceptable version. The running protects by removing the body from the field. A single person usually uses both, alternating based on what is available.
+
+The person reports the two strategies as the description of their problem: "I'm either putting on a mask or I'm running away from people." The report itself is the diagnostic. Both strategies are the don't-see-me side of the push-pull described above. Both prevent the see-me side from ever being met.
+
+## What Is Actually Being Hidden Is Almost Always Emotion
+
+When the work goes underneath the mask-or-run strategy, the content of what is being hidden is almost never what the person thought. The person assumes they are hiding some specific defective trait — that there is something *wrong* with them and the seeing would expose the wrong thing. When the question "what's wrong with you?" is asked directly into the felt territory (see [[ask-whats-wrong-with-you-into-the-shame]]), the body usually answers: nothing.
+
+The actual content of the hiding, once it is allowed to surface, is the person's emotions. The mask is the no-emotion face. The running is the leaving before the emotion is visible. The shame is a layer that justifies the hiding by claiming there is a defect to hide, but the defect is fictional. What is actually being suppressed is feeling itself — the tears, the anger, the fear, the longing, the alive responsiveness that a human body has when it is in the presence of other humans.
+
+In the source coaching session, the man who reported "I'm either putting on a mask or running away" discovered, after his shame failed to produce content and after he was given permission to be seen with his tears, that what he was hiding was his emotions. The recognition was simple and structural. The mask had been the no-emotion face. The running had been the leaving before emotion could land. The whole social-anxiety pattern was the hiding of the emotional life from the people in the room.
+
+"What you're hiding is what?" — Joe Hudson, *Social Anxiety Breakthrough*
+"Yeah, yeah, I'm not — I'm not letting my emotions be seen." — Guest, *Social Anxiety Breakthrough*
+
+This re-frames the work. The work is not to address some specific defective content. The work is to let the emotional life be visible in the room. The mask drops by being allowed to drop. The running stops by staying with the emotion that the running was avoiding. The [[false-front]] dissolves not by being attacked but by being made unnecessary — the underneath is allowed to show, and the underneath turns out to be emotion, not deformity.
 
 ## Upstream (What Leads Here)
 
@@ -127,3 +155,4 @@ When this is named in coaching, the tone is matter-of-fact and de-pathologizing.
 
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the biological imperative framing, the see-me-don't-see-me push-pull, the lack-vs-wholeness distinction, the acknowledgement-drives-performance teaching for organizations, the bidirectional mechanism where seeing others lets you receive seeing, the "under most fights is I just want to be seen" diagnostic)
 - 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the mistranslation dynamic: both partners asking "see me" by saying "you're wrong"; the shame-throw as the strategy for being seen that most reliably prevents the partner from being able to see; the asymmetric exit where one partner giving the seeing first produces almost-immediate reciprocation)
+- 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) (the mask-or-run formulation of the don't-see-me side; the public Q&A presentation of the social-anxiety form of the desire-to-be-seen; the discovery that what is actually being hidden behind the mask and the running is emotion, not a defect of self)

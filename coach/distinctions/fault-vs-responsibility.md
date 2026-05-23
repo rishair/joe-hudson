@@ -5,7 +5,7 @@ title: "Fault vs. Responsibility"
 aliases: ["it's not your fault, it's your responsibility", "what if it's not your fault, it's your responsibility", "fault and responsibility are different", "self-responsibility vs imposed responsibility", "blame vs ownership", "responsibility without fault", "carrying responsibility without shame"]
 tags: ["responsibility", "fault", "blame", "shame", "ownership", "empowerment", "leadership"]
 related: ["shame-drives-behavior", "patient-on-the-table", "empowered-vs-power", "self-realization", "wins-yours-failures-ours", "voice-in-the-head", "fear-triangle", "shame-hot-potato", "drop-the-hot-potato", "seeing-through-essential-wrongness", "non-defense-is-the-ocean", "upright-apology"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2023-12-22_The Shame Hot Potato"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2023-12-22_The Shame Hot Potato", "2025-03-17_How to Apologize in A Way That Transforms You"]
 ---
 
 # Fault vs. Responsibility
@@ -75,6 +75,16 @@ When a person comes in saying "this is my fault" or "I shouldn't have done X," t
 - **Shift to the responsibility frame:** "Even if we set aside fault, what is yours to do next?" The frame changes. The person can engage with the situation without managing shame.
 
 The shift is also useful when the person is using "fault" as a way to manage others: "It's your fault that..." The coach can ask: "If we set the fault question aside, what is your responsibility here?" This reframes blame as ownership and often reveals that the person making the blame claim has wants and actions they have not been naming.
+
+## The Apology Test ("What Does Fault Have to Do With an Apology?")
+
+The clearest in-the-wild surfacing of the distinction is the question Joe's therapist asked him when he was learning to apologize:
+
+"And she's like, what does fault have to do with an apology?" -- Joe Hudson recalling his therapist, How to Apologize in A Way That Transforms You
+
+The question is decisive. If the person believes apology requires fault, they are operating in the fused frame and apology is inaccessible unless they accept badness. If the person can sever the link — apology has nothing to do with fault — then apology becomes an ownership move that can be made cleanly without shame. The decoupling is the work. See [[upright-apology]] for the apology form that lives in the responsibility frame, and the explicit anti-pattern: every shame-apology is fault dressed as responsibility, and the receiver feels the difference.
+
+The same question can be asked in other framings: what does fault have to do with this leadership response, what does fault have to do with this clean-up, what does fault have to do with this acknowledgment. Wherever fault is fused to a forward-looking action, the question reveals that the fault was never required for the action.
 
 ## Boundary Conditions
 

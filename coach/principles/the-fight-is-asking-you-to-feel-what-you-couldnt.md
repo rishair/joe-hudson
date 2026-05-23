@@ -5,7 +5,7 @@ title: "The Whole Purpose of the Fight Is for You to Feel What You Couldn't Feel
 aliases: ["the fight is asking you to feel what you couldn't", "the purpose of the fight is to process the original emotion", "the fight is for the trauma", "the fight exists so the emotion can be felt", "what the trauma is asking", "the trauma is asking you to feel", "the fight is the body's request to feel the original emotion", "the whole point of the trigger is to process the unfelt emotion", "fights are the body trying to complete the emotional loop", "the relationship fight is the body's loop-completion attempt", "the trigger is for the emotion not against it"]
 tags: ["principle", "trigger", "trauma", "fighting", "relationships", "emotion processing", "core mechanism"]
 related: ["trigger", "feeling-the-unfelt-emotion", "trauma-mapping", "trauma-heals-in-relationship", "every-fight-can-bring-you-closer", "i-lose-myself-in-the-fight", "name-im-in-my-trauma-as-couple-language", "capital-t-vs-small-t-trauma", "complementary-trauma-surfaces", "without-grief-we-recreate-the-pattern", "joes-friend-yuma-grief-drives", "control-of-the-other-makes-fights-unproductive", "what-am-i-not-feeling-right-now", "intellectual-emotional-polarization-in-couples", "superiority-and-shame-erode-together"]
-sources: ["2025-01-10_The Real Reason You Lose Control In A Fight", "2025-01-15_The Price Of Being The Logical One In Love"]
+sources: ["2025-01-10_The Real Reason You Lose Control In A Fight", "2025-01-15_The Price Of Being The Logical One In Love", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # The Whole Purpose of the Fight Is for You to Feel What You Couldn't Feel at the Time of the Trauma
@@ -68,6 +68,22 @@ If the wound is then re-presented in a relationship where a partner can offer th
 
 The aloneness was part of the wound. The being-with is part of the healing. The partner cannot replace the original caregiver, but can offer something the original caregiver could not: present, attuned, loving witness to the emotion that was originally not allowed.
 
+## Anger First, Then the Deeper Emotions (The Ordering)
+
+The principle has an ordering that the body tends to follow. The first emotion that needs to move in fights is usually anger. Once the anger work is reliable, what was underneath the anger — grief, fear, hurt — starts to surface and become available to be felt.
+
+"Anger was the first that we learned because we wanted to stop hurting each other. But then we started seeing how the fights themselves were these ways to, like, feel things that we had pushed down, and then we could feel them and be with each other. And I think it's just important to realize that it's not just anger, that is the emotions that sometimes get released in a fight and that allow us to heal." -- Joe Hudson, The Path To Healthy Fighting
+
+The structural reason for the ordering: anger is the most immediate threat to the relationship if not moved. The work has to address the damage-prevention layer first. Once that layer is stable, the deeper emotions that the anger has been covering have room. See [[negative-emotions-precede-positive]] for the broader version of this ordering and [[stages-of-couple-anger-work-maturation]] for the four-stage couples progression that operationalizes it.
+
+What this means in practice: the fight that started as anger may turn out to be about grief that the anger was protecting from being felt. The body that has done enough anger work begins to find that the fights start producing tears, trembling, or fear, sometimes mid-fight. This is the principle revealing itself: the fight was asking for the unfelt emotion all along; the anger was the first layer; the deeper layer is what the relationship can now hold.
+
+Tara names the form this takes when the practice has matured:
+
+"Sometimes in the same, like starting with anger, 'Hold on, I'm just so frustrated. Do you have a minute while I move frustration?' And you'd be like, 'Yeah, go for it.' And I'm like, 'Ah!' And then I would start shaking like, 'Oh, I'm really scared 'cause I have no idea where we're going after this.' So those deeper emotions could come out too." -- Tara Hudson, The Path To Healthy Fighting
+
+The transition mid-discharge from anger into fear is the principle in action. The body had access to the fear only because the anger had moved out of the way.
+
 ## The Boundary: Same Mechanism, Other Paths
 
 The principle does not require a relationship. The same loop closes outside a partnership when the emotion is allowed to be the size it actually is in a container that holds it. See [[joes-friend-yuma-grief-drives]] for the example: a breakup-driven grief that, allowed to be the size it was, processed not just the loss of the girlfriend but the entire structure that had made that relationship necessary.
@@ -121,3 +137,4 @@ The principle is delivered with the matter-of-fact tone of a structural fact. No
 
 - 2025-01-10_The Real Reason You Lose Control In A Fight (the central teaching that the entire purpose of the trauma-driven fight is the unfelt emotion finally being felt; the "fight just ended" outcome when both partners can hold the frame; the aloneness-as-part-of-the-wound observation that explains why partnership is a particularly powerful container)
 - 2025-01-15_The Price Of Being The Logical One In Love (the specific blocker: judgment of the partner from a superior position is the cognitive method by which the body refuses the delivery the fight is trying to make; the structural account of why superiority makes the fight detrimental rather than developmental — it's the control move that prevents the avoided emotion from being felt; the in-the-moment self-check "what am I not feeling? what do I need to feel right now?" as the way to interrupt the refusal and receive the delivery)
+- 2025-03-19_The Path To Healthy Fighting (the structural ordering of the principle: anger is the first emotion that has to move because it's the most immediate damage threat; the deeper emotions — grief, fear — become available only after the anger work is reliable; Tara's example of a discharge that started as frustration and mid-flow turned into trembling and fear, demonstrating the principle in action)

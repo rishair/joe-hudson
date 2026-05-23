@@ -103,6 +103,12 @@ The downstream effect on the coach: the nervous system gets shaken, especially e
 
 Joe describes this with a mixture of seriousness and lightness. The seriousness comes from the recognition that the cost is real -- people do sometimes retaliate. The lightness comes from the recognition that the move is not heroic; it is just what the work asks for. The pucker is named with humor. The risk is named without melodrama.
 
+## The Everyday-Life Version
+
+The same pucker shows up outside coaching. See [[pucker-before-truth]] for the everyday-life form, where the pucker is the body's signal to the speaker themselves (not to the coach) that the thing they are about to say is the true thing they have been not saying. The body signature is the same; the operational use is different. In coaching, the coach feels the pucker and walks through it for the client's freedom. In everyday life, the speaker feels the pucker and walks through it for their own self-approval (which is the cure for approval-seeking; see [[speaking-truth-cures-approval-seeking]]).
+
+The coaching move is the rare-context application. The everyday version is the daily practice. Both rest on the same body datum.
+
 ## Upstream (What Leads Here)
 
 - When a coach is asking how to coach more freely

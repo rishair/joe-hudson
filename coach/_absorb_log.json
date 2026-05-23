@@ -6998,15 +6998,97 @@
     },
     {
       "folder": "2025-03-14_How To Stop Seeking Approval",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T03:04:27Z",
+      "articles_created": [
+        "speaking-truth-cures-approval-seeking",
+        "doubt-requires-closed-heart",
+        "you-cannot-make-people-happy",
+        "intuition-vs-conditioning",
+        "pucker-before-truth",
+        "speak-truth-twice-a-day",
+        "world-reorganizes-around-self-possession",
+        "three-blocks-to-speaking-truth",
+        "channeling-quality-of-truth",
+        "what-did-i-do-wrong-response-to-aggression",
+        "joes-daughter-speaks-her-truth"
+      ],
+      "articles_updated": [
+        "how-do-i-stop-seeking-approval",
+        "how-do-i-trust-myself",
+        "chase-your-own-approval",
+        "pucker-and-still-say-it"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:20:25Z"
+    },
+    {
+      "folder": "2025-03-17_How to Apologize in A Way That Transforms You",
+      "status": "complete",
+      "claimed_at": "2026-05-23T03:07:27Z",
+      "articles_created": [],
+      "articles_updated": [
+        "upright-apology",
+        "forms-of-dysfunctional-apology",
+        "sorry-from-shame-vs-sorry-as-solidarity",
+        "fault-vs-responsibility"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:10:41Z"
+    },
+    {
+      "folder": "2025-03-19_The Path To Healthy Fighting",
+      "status": "complete",
+      "claimed_at": "2026-05-23T03:11:20Z",
+      "articles_created": [
+        "emotions-are-neutral-bad-because-of-use",
+        "do-over-after-the-anger",
+        "stages-of-couple-anger-work-maturation",
+        "open-hearted-vs-closed-hearted-leaving",
+        "not-letting-the-leaving-be-part-of-the-anger"
+      ],
+      "articles_updated": [
+        "initial-anger-release-wave",
+        "dont-do-anger-at-your-partner",
+        "joes-pancake-anger-story",
+        "withdrawal-with-vs-without-a-timeline",
+        "hand-in-hand-parenting",
+        "the-fight-is-asking-you-to-feel-what-you-couldnt",
+        "resentment-as-unspoken-want",
+        "model-emotional-movement-for-your-kids"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-23T03:26:25Z"
+    },
+    {
+      "folder": "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T03:21:31Z",
+      "articles_created": [
+        "i-get-anxious-in-relationships",
+        "interrupting-your-own-descent",
+        "bring-the-presenting-problem-into-the-room-now"
+      ],
+      "articles_updated": [
+        "ask-whats-wrong-with-you-into-the-shame",
+        "is-the-shame-in-the-room-or-in-you",
+        "the-desire-to-be-seen",
+        "false-front"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-23T03:31:25Z"
+    },
+    {
+      "folder": "2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T03:27:00Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-03-17_How to Apologize in A Way That Transforms You",
+      "folder": "2025-03-28_How to Be a Parent (Without Messing Everything Up) \uff5c Guest Episode with Nathan Baschez",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T03:07:27Z",
+      "claimed_at": "2026-05-23T03:32:12Z",
       "articles_created": [],
       "articles_updated": []
     }

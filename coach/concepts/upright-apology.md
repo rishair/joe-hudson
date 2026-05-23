@@ -5,7 +5,7 @@ title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
 related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate", "five-triggers-projection-experiment", "projections", "trigger", "self-forgiveness-as-spoken-move", "list-who-you-subtly-blame", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This", "2024-07-05_Passive Aggression"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This", "2024-07-05_Passive Aggression", "2025-03-17_How to Apologize in A Way That Transforms You"]
 ---
 
 # The Upright Apology
@@ -16,6 +16,30 @@ An apology delivered from a place of empowerment, responsibility, and self-respe
 
 "When you make an apology that's upright, that's empowered, it feels freaking fantastic. It's an awesome feeling. It's like, oh, right? You feel strength in it, you feel responsible, you feel empowered." -- Joe Hudson, The Upright Apology
 
+## Joe's Origin Story (The Sitcom Tough Guy)
+
+Joe locates his own resistance to apology in the cultural pattern of the tough guy who would only apologize in the most extreme cases. The shift came through a therapist who insisted apologies should be everywhere, all the time, and decoupled from fault.
+
+"You know that classic sitcom moment where like there's like the tough guy and he's trying to say I'm sorry? And he's like — you know, like that moment? Like, I was that guy. The idea of apology was absolutely something that I was never gonna do unless it was one of the most hardcore cases." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+The pivot was the realization that the resistance was to the *shame form* of apology, not to apology itself. Once the upright form was available, the resistance dissolved and the practice became something he sought out rather than avoided.
+
+## The Look-Forward Stance
+
+A signature of the mature practice: actively looking forward to opportunities to apologize. This sounds odd from inside the shame frame, where apology is a thing to be avoided. From inside the upright form, apology is the lid coming off, the cleanest move available for transformation, and reliably good-feeling to give. The person who has felt this once will start to want the practice.
+
+"I look forward to — I can't wait to find a place where I can apologize because I know how transformative that apology is for me and how healing that apology can be." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+The diagnostic flips: a person who avoids apologizing has only encountered the shame form. A person who looks forward to apologizing has access to the upright form. The look-forward stance is the felt evidence that the practice has integrated.
+
+## The Agency Framing
+
+A complementary framing to "upright": apologizing is the move that returns you to full agency. The shame apology is a passive event — something extracted, performed, suffered through. The upright apology is an active claim: I am the one naming this, I am the one taking ownership, I am the one choosing how I want to be. The apology is an act of agency, not an act of submission.
+
+"It's always in this very upright place where you're like taking into account and you're being completely in your own agency when it comes to apologies." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+The framing matters for the person who associates apology with capitulation. The upright apology is *more* agentic, not less. The person doing the work is not handing power away. They are reclaiming the part of themselves that the behavior they are apologizing for had been operating without.
+
 ## The Body Cue
 
 The somatic signature is the diagnostic. Shame-based apologies happen with the back hunched, eyes down, tail tucked. The upright apology happens with the back straight, eyes level, body open. The body knows the difference before the mind does.
@@ -23,6 +47,16 @@ The somatic signature is the diagnostic. Shame-based apologies happen with the b
 "Literally, the way you would do this in your body is you would feel that your back is upright, you're not tucked in shame. Oftentimes when people feel shame, their eyes are down or their back is hunched or their tail is tucked in. And it's literally having your body upright is a good cue about what it feels like to come from this place." -- Joe Hudson, The Upright Apology
 
 If you cannot feel uprightness in your body while apologizing, the apology is still in the shame form. The instruction is not to perform uprightness but to find the place inside where uprightness is honest.
+
+## Fault Has Nothing to Do With Apology
+
+The opening move that breaks the old form is realizing that fault is not the engine of apology. The childhood version was: "you did something wrong, now say you're sorry." Apology was the consequence assigned to fault. The upright form severs that link entirely. Apology is not a response to fault. Apology is a response to the gap between how you behaved and how you want to behave.
+
+"And she's like, 'What does fault have to do with an apology?' And I remember like, what the — what? Like, I remember that. And where — what — how it finally landed with me was that I thought apologies were just something that was there to make you feel ashamed." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+The therapist's reframe — *what does fault have to do with an apology?* — is the question that breaks the inherited form. Until that question lands, every apology is still an admission of being bad. Once it lands, apology becomes available as a self-respecting move that has nothing to do with proving anyone right or wrong. See [[fault-vs-responsibility]].
+
+The example Joe was originally resisting: "I'm sorry that you didn't understand what I was saying to you." His objection was "that's not my fault." The reframe is that the apology was never about fault. It is about acknowledging the gap and inviting connection across it. The "fault" question is what makes apologies adversarial. The fault question is what most people learned apology to be. The upright apology is what apology becomes once that question is removed.
 
 ## Wrong vs. Responsibility
 

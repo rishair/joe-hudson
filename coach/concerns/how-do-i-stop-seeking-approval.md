@@ -4,7 +4,7 @@ id: how-do-i-stop-seeking-approval
 title: "How do I stop seeking approval / I care too much what other people think of me"
 aliases: ["how do I stop seeking approval", "how do I stop chasing approval", "I want to stop needing approval", "I care too much what people think", "I care too much what other people think", "I keep seeking approval", "I'm a chronic approval seeker", "I'm always trying to be liked", "I need them to like me", "I'm always trying to get people's approval", "I'm always trying to be the good one", "I want everybody to like me", "I want to be liked by everyone", "I keep looking for approval", "I'm a people pleaser", "I'm always seeking validation", "the approval-seeking concern", "the people-pleasing concern", "I'm always wondering what they think of me", "I'm always worried about what they think", "I can't stop monitoring how I'm landing", "I want to know they approve", "I need their approval before I can move", "I keep waiting for someone to tell me I'm okay", "I keep performing for approval"]
 tags: ["approval", "people-pleasing", "external-validation", "self-abandonment", "shame", "concern"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues", "2025-03-14_How To Stop Seeking Approval"]
 ---
 
 # How do I stop seeking approval / I care too much what other people think of me
@@ -84,6 +84,8 @@ A typical flow when this concern surfaces:
 
 7. **Install the daily practice.** The receiving of compliments needs reps. Suggest [[two-person-gratitude-practice]] or daily noticing of the deflection impulse. The capacity grows with use. See [[let-it-move-through-and-clean-the-channel]] for the structural rationale.
 
+8. **Install the speak-truth practice.** This is the structural cure, not a side practice. See [[speaking-truth-cures-approval-seeking]]. The conventional framing (first stop needing approval, then speak truth) is reversed. The actual mechanism: speaking your truth is what stops the approval-seeking. The speaking is itself the self-approval, because voicing your perception is treating it as valuable. Once the perception is treated as valuable from inside, the external validator is no longer required. The operational form: [[speak-truth-twice-a-day]] — say two slightly-uncomfortable true things a day, from an open heart in a grounded body, and stay in the conversation after.
+
 ## Branching Reads
 
 - If the concern is framed as "I'm a people pleaser" with the caretaking flavor: the move is often through [[i-caretake-people]]. The caretaking is the approval engine in service form.
@@ -104,6 +106,20 @@ The structural insight: in every C-level team around a CEO, there is one person 
 
 The qualifier: the truth has to be delivered from confidence, not from fear. A scared truth-teller will not be received. See [[name-the-authoritys-fear]] for the move and [[baboon-leadership-study]] for the underlying principle about why directness gets received and uncertainty does not.
 
+## The Three Blocks Operating Underneath
+
+When the concern is presented, three structural blocks are typically operating that prevent the simple corrective from working. See [[three-blocks-to-speaking-truth]]:
+
+- **Doubt.** The person does not trust their own perception. They are referencing outside themselves. See [[doubt-requires-closed-heart]] for the structural account. The doubt frequently traces to the [[what-did-i-do-wrong-response-to-aggression]] pattern, particularly in people with a history of alcoholic or volatile parents.
+- **Fear of consequences.** The person can see the truth clearly but is stopped by the projected outcome. The corrective: shift from single-bet evaluation to portfolio evaluation. See [[decisions-as-portfolio]] and [[world-reorganizes-around-self-possession]] for the long-arc shape.
+- **Justifying conditioning.** The person is mistaking a conditioned reactivity for their truth. The discrimination is somatic: heart closes for conditioning, heart opens for intuition. See [[intuition-vs-conditioning]] and [[spiritual-narcissism]] for the misuse.
+
+Identifying which block is dominant for the specific person determines the corrective sequence.
+
+## The Impossible Target
+
+A structural fact often hidden underneath the concern: the approval-seeker is trying to make other people happy, and this is impossible. The target is moving (the same person is happy with the same action one day and unhappy the next) and depends on inputs you do not control (their state when receiving your action). The impossibility is what keeps the doubt loop running indefinitely. See [[you-cannot-make-people-happy]]. Naming the impossibility is often the move that releases the chronic doubter.
+
 ## What This Concern Is Not
 
 - It is not [[i-caretake-people]] — the caretaking is one strategy for getting approval, but the concern is more general. Caretaking is a behavior; approval-seeking is the underlying engine.
@@ -115,3 +131,4 @@ The qualifier: the truth has to be delivered from confidence, not from fear. A s
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source teaching with the three moves: see the push-away, let compliments all the way in, feel the emotion underneath thinking someone is better/worse than you)
 - 2024-09-13_Authority Issues (the approval-seeking-toward-authority variant: the resentment that builds when sacrificing self to authority for approval; the say-the-hard-truth move as the fastest dissolver; the structural insight about the truth-teller being the most trusted person in any C-level team; the confidence requirement for delivery)
+- 2025-03-14_How To Stop Seeking Approval (the inversion that speaking truth is the cure for approval-seeking, not the other way around; the three blocks to speaking truth as the underlying structure; the impossibility of making other people happy as the doubt-loop fuel; the speak-truth-twice-a-day operational practice; the daughter example as the canonical illustration; the somatic test for intuition vs conditioning that becomes available once the heart can stay open)

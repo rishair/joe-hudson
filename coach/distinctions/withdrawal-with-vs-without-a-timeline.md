@@ -5,7 +5,7 @@ title: "Withdrawal With a Timeline vs. Withdrawal Without One"
 aliases: ["leaving with a timeline", "the 20 minute promise", "stonewalling vs taking space", "I'll be back in 20 minutes", "punishment by withdrawal vs taking space", "leaving as punishment vs leaving to take care of self", "abandonment vs space", "the timeline distinguishes withdrawal types"]
 tags: ["distinction", "relationships", "withdrawal", "abandonment", "anger", "boundaries", "communication"]
 related: ["anger", "get-angry-in-the-car", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against", "weaponized-not-caretaking", "anxious-avoidant-dynamic", "dont-do-anger-at-your-partner", "name-im-in-my-trauma-as-couple-language", "every-fight-can-bring-you-closer", "fight-agreements-made-outside-the-fight", "verbal-abuse-as-controlling-with-anger", "disagreement-that-heals-vs-retraumatizes", "nervous-system-codes-threats-as-real"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-08-05_How to Draw HEALTHY Boundaries", "2024-10-25_How To Fight And Win", "2025-02-04_The Healthy Way To Leave A Fight", "2025-02-07_How to Use Your Relationship Fights to Heal"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-08-05_How to Draw HEALTHY Boundaries", "2024-10-25_How To Fight And Win", "2025-02-04_The Healthy Way To Leave A Fight", "2025-02-07_How to Use Your Relationship Fights to Heal", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # Withdrawal With a Timeline vs. Withdrawal Without One
@@ -154,6 +154,26 @@ This sentence does three things at once:
 
 Without the third element, the same exit would land as the punishment version, and the family would not receive the leaving as care.
 
+## Joe's Own First-Person Report of the Chaser's Pre-Fix Experience
+
+The chaser side of this dynamic has a specific texture from inside. Joe describes the felt sense of being on the receiving end of Tara's early, un-framed leavings.
+
+"At the beginning that when you were leaving to go into the other room, you weren't like you weren't clear about what you were doing or that was open. And I'd be like, God, feel like so abandoned, like I was going to like fucking die or something like that. And that was really hard for me. Like, wait, you're leaving the room. What's going on? Like, you're abandoning me. Like, we're supposed to fight this out and figure it out." -- Joe Hudson, The Path To Healthy Fighting
+
+The phrasing is exact and instructive:
+- "You weren't clear about what you were doing" — no timeline, no explanation.
+- "Or that was open" — and the leaving was not open-hearted (see [[open-hearted-vs-closed-hearted-leaving]] for the closely related distinction).
+- "I'd feel like so abandoned, like I was going to like fucking die" — the trauma-coded response a chaser's body produces when the leaving is read as "forever."
+- "We're supposed to fight this out and figure it out" — the chaser's internalized rule that leaving a fight is breaking the rules, because the fight resolution is the proof of love.
+
+The fix Joe names in the same passage is the explicit installation of the timeline practice:
+
+"That was something that it was really helpful when we learned those tricks of like, here's the — like, I'm going to be gone for 5 minutes. This is what I'm doing. I'm going to come back. Like open-hearted leaving instead of closed-hearted leaving. That was really useful." -- Joe Hudson, The Path To Healthy Fighting
+
+The fix did two things at once: it added the timeline (the mechanical fix) and the open-heart posture (see [[open-hearted-vs-closed-hearted-leaving]]). Both pieces were required. The timeline alone was not enough because the early leavings already lacked the open-hearted quality even when the words started to include the timeline. The open-heart had to be added too.
+
+This is consistent with the chaser/love-remover account elsewhere in this article. Joe was the chaser; Tara was the love-remover. The fix had to address both sides' trauma simultaneously: the chaser had to be able to register the leaving as bounded (the timeline), and the chaser had to be able to feel that the love had not been removed during the leaving (the open heart). The timeline alone addresses the first; the open-heart posture addresses the second. Both together produce the leaving that lands as care.
+
 ## What This Is Not
 
 This is not about always asking permission to leave. It is not about long explanations. It is about the small, clear signal that the leaving is bounded and the return is intended.
@@ -208,3 +228,4 @@ When teaching anger discharge practice (the car, the beach), build in the timeli
 - 2024-10-25_How To Fight And Win (the "when you're in your trauma, when someone says I'm out, it's forever" mechanism; the three required elements of the timeline; the framing of leaving-without-timeline as pushing the partner deeper into their trauma)
 - 2025-02-04_The Healthy Way To Leave A Fight (the chaser/love-remover configuration as the symmetrical trauma structure that makes the timeline load-bearing; the Joe-and-Tara origin story of his own chaser activation when she would say "I just need a moment"; the specific "I'm not leaving you, I'm going to come back in 10 minutes and we're going to continue the conversation" wording; the transformation of fights from "death" to "great ways to have a fight" once both partners could leave with timelines; the safety floor that opens up the room for actual conflict to be civil, loving, and open-hearted)
 - 2025-02-07_How to Use Your Relationship Fights to Heal (the condition-of-return form as the more rigorous variant of the timeline — "I'll be back when you call me and tell me you're ready to do this without threatening me, without insulting me" — used specifically when the leaving is enforcing a fight-agreement line crossing and 20 minutes may not be enough; the framing of the conditional form as putting the next step in the partner's hands without it being a punishment, with the condition being about the in-the-lines requirement rather than about the original content of the fight)
+- 2025-03-19_The Path To Healthy Fighting (Joe's first-person report of the chaser's pre-fix experience of Tara's early un-framed leavings as "I was going to like fucking die"; the fix involved adding both the explicit timeline and the open-hearted posture; the related distinction [[open-hearted-vs-closed-hearted-leaving]] that lives one layer underneath the timeline)

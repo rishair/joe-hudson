@@ -5,7 +5,7 @@ title: "Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)"
 aliases: ["the pancake story", "pretty good anger Dad", "Joe's kitchen anger", "the cooking interruption story", "the I'm angry I'm angry I'm angry story", "Joe's daughter and the anger", "spatula down anger story"]
 tags: ["example", "anger", "parenting", "family", "release", "unkinked anger"]
 related: ["anger", "kinked-emotions", "wisdom-of-each-emotion", "get-angry-in-the-car", "dont-do-emotion-at-people"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)
@@ -58,6 +58,24 @@ The framing makes explicit what the original story implied: the daughter has bee
 
 This is the inverse of what most adults received as children. The cultural inheritance teaches anger as the way somebody tries to control us. So when anger arises in our own body, the inherited reading is "I am about to try to control someone" or "I am bad for having this." The daughter does not run this loop because she has not been trained into it.
 
+## The Kids Were Mimicking the Tension (2025 Re-Telling)
+
+In the 2025 re-telling, Joe adds an important piece of context about what the kids were doing in the moments before the discharge. The detail reframes the dynamic: the kids' "Ah!" was not random; it was a mirror.
+
+"And they'd be like, 'Ah!' At the time I didn't quite know, but they're just feeling my tension and mimicking it." -- Joe Hudson, The Path To Healthy Fighting
+
+The body of the parent under stress was the actual source. The kids were reading the field. Their behavior was the visible form of the parent's interior state, not an independent disturbance.
+
+The implication is structural: the parent who is wound up and then "gets triggered by the kids" is often being triggered by their own state reflected back. The kids are the mirror, not the cause. See [[kids-respond-to-emotional-presence-not-words]] for the broader principle. This adds a layer to the original story: the discharge was not just a piece of clean anger work; it was the parent meeting the tension that had been driving the whole interaction.
+
+## The Realization This Story Carries (2025 Telling)
+
+The 2025 re-telling makes the larger realization that came out of this story explicit. The clean-anger moment was a piece of evidence for a much bigger reframe about all emotions.
+
+"There's a whole nother level of, there's a whole nother level here of this, which is, if I'm not getting angry at you, anger isn't something that's scary. It isn't something that's bad. It's like that the emotions are considered bad, at least in part because of what people do with them. People think something's bad often not because it is, like it's a neutral thing like money, but it's bad because they've had a bad experience with it. And I realize that emotions are like, we're the same way in my life. All the emotions that I thought were bad were actually just — people had just used them as a tool to manipulate me or to try to control me, and that the emotions themselves weren't bad." -- Joe Hudson, The Path To Healthy Fighting
+
+The pancake moment was the data point that produced the general principle [[emotions-are-neutral-bad-because-of-use]]. The story is the case study; the principle is what the case study revealed. This is part of why Joe keeps returning to this story across years and contexts — it carries within it the realization that anger (and every other "bad" emotion) is innocent. Only the misuse is what made it feel bad.
+
 ## The Specific Detail That Matters
 
 The daughter's line ("That was some pretty good anger, Dad") is the load-bearing detail. It is what makes the story work as teaching. Without it, the story is just Joe yelling in the kitchen. With it, the story shows that the clean version is recognizable to a child as good. The category "good anger" exists for her because she has seen it.
@@ -91,3 +109,4 @@ Joe tells this story laughing. The lightness is the point. Anger done well is no
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_The Wisdom Of Anger, Part 1 (Joe re-tells the story in the 2022 episode with the same details and same daughter line)
 - 2024-05-20_How Anger Works (8-min Guide to Healthy Anger) (compressed retelling with the explicit gloss on why the daughter could respond the way she did -- "she knew anger was safe and there was nothing wrong with it")
+- 2025-03-19_The Path To Healthy Fighting (Joe adds two new dimensions to the story: the kids were mimicking his tension rather than independently disturbing him, which reframes the dynamic from "interrupted-by-kids" to "kids-reflecting-my-state"; and the realization that came out of the story was the broader principle [[emotions-are-neutral-bad-because-of-use]] — that all the emotions he thought were bad were actually emotions he had experienced being weaponized at him, with the pancake moment as the data point that produced the general principle)

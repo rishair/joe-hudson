@@ -2,10 +2,10 @@
 type: concept
 id: false-front
 title: "The False Front (The Curated Self Built From What Was Allowed to Be Seen)"
-aliases: ["false front", "the false front", "false self", "the false self", "the curated self", "what was allowed to be seen", "the acceptable parts only", "the pre-edited self", "the always-happy front", "I'm happy front", "I'm smart and pensive front", "the Frozen front", "the family-acceptable persona", "the socially acceptable front", "the constructed self", "the mask of acceptable parts", "shows only the parts that are socially acceptable", "the front built from shame", "the persona of allowed-parts", "the front you hold up", "growing from lack vs growing from wholeness", "the false-front trap"]
-tags: ["persona", "false-self", "shame", "shadow", "identity", "self-image", "developmental", "presentation"]
-related: ["the-desire-to-be-seen", "idea-of-self-vs-actual-self", "everyone-is-pretending", "pointers-to-unseen-parts", "the-happiness-filter", "conflict-avoidance-prevents-being-loved", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "loving-all-parts", "the-pulled-back-from-part-is-the-unloveable-part", "have-them-say-i-want-all-of-me-loved"]
-sources: ["2024-08-16_The Desire To Be Seen with Tara Howley"]
+aliases: ["false front", "the false front", "false self", "the false self", "the curated self", "what was allowed to be seen", "the acceptable parts only", "the pre-edited self", "the always-happy front", "I'm happy front", "I'm smart and pensive front", "the Frozen front", "the family-acceptable persona", "the socially acceptable front", "the constructed self", "the mask of acceptable parts", "shows only the parts that are socially acceptable", "the front built from shame", "the persona of allowed-parts", "the front you hold up", "growing from lack vs growing from wholeness", "the false-front trap", "the mask", "the no-emotion mask", "I put on a mask", "the mask as the no-emotion face", "putting on a mask in social situations", "mask-or-run as the two strategies for managing the front", "the running-away as the avoidance form of the front"]
+tags: ["persona", "false-self", "shame", "shadow", "identity", "self-image", "developmental", "presentation", "mask", "social-anxiety"]
+related: ["the-desire-to-be-seen", "idea-of-self-vs-actual-self", "everyone-is-pretending", "pointers-to-unseen-parts", "the-happiness-filter", "conflict-avoidance-prevents-being-loved", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "loving-all-parts", "the-pulled-back-from-part-is-the-unloveable-part", "have-them-say-i-want-all-of-me-loved", "i-get-anxious-in-relationships"]
+sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
 ---
 
 # The False Front (The Curated Self Built From What Was Allowed to Be Seen)
@@ -93,6 +93,16 @@ A person who has been running a "I'm always happy" front (see [[the-happiness-fi
 
 A person whose front was "I take care of everyone" finds the shadow contains all the wanting they would not let themselves have. The work to feel the wanting often produces guilt, which is the false front saying "you are not allowed to want; you are the one who takes care of others."
 
+## The Mask as the Operational Form of the Front in Social Situations
+
+When the false front is reported by the person who carries it, the most common surface name is "the mask." The mask is the front in motion — the version that is put on at the door of a social situation and taken off (if it gets taken off at all) when the person is alone.
+
+The mask has a paired strategy: running. When the person cannot or will not present the mask, the alternative is to leave the social situation entirely. "I'm either putting on a mask or I'm just running away from people" is the standard self-description. Mask and run are the two operational forms of the front when a real-time social demand is on the table. The mask is the active form. The running is the avoidance form. Both maintain the front by preventing what is underneath from being shown.
+
+The shadow contents the mask covers are the same as for any false front — the parts that were once shamed are pushed behind. What is distinctive about the mask report (versus the always-happy or the always-smart report) is that the person is conscious of the mask. They know they are presenting it. They feel the strain of presenting it. They report the social anxiety that comes from running the mask in real time.
+
+When the work goes underneath the mask in coaching, the first discovery is usually structural and surprising: the content the mask is hiding is not a defective trait. It is emotion. The mask is the no-emotion face. The shadow content is the alive feeling the mask exists to keep invisible. See [[the-desire-to-be-seen]] for the fuller version of this discovery, and [[i-get-anxious-in-relationships]] for the presenting concern that most often leads here.
+
 ## Cross-Reference: Everyone Is Doing This
 
 The false front is not unique to therapy clients or the wounded. It is approximately universal. See [[everyone-is-pretending]] for the collective form of the pattern, especially in cultures (gangs, boardrooms, elite militaries, hyper-masculine families) where the no-show-fear rule produces an entire population running fronts in parallel and each believing they are the only one. The recognition that everyone has a front loosens the shame about having one, which is the precondition for letting it relax.
@@ -125,3 +135,4 @@ When this concept is named in coaching, the tone is structural rather than diagn
 ## Sources
 
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the false-front framing as the curated self assembled from socially-acceptable parts; the internal and external double bind; the grief-anger-fear-shadow sequence that follows dismantling the front; compassion as the prerequisite for seeing past it; growth from the false front is growth from lack vs growth from wholeness)
+- 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) (the mask-or-run formulation of the front in real-time social situations; the discovery that the mask is the no-emotion face and that the shadow content the mask covers is the person's own emotion, not a defective trait)

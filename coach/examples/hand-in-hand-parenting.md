@@ -5,7 +5,7 @@ title: "Learning Empathy Through Children's Tantrums"
 aliases: ["Hand in Hand Parenting", "Parenting by Connection", "stay listening", "temper tantrum empathy", "Simplicity Parenting", "parenting tools that worked for Joe"]
 tags: ["empathy", "parenting", "emotions", "self-discovery"]
 related: ["empathy", "feeling-the-unfelt-emotion", "caring-vs-caretaking", "parenting-as-real-world-test-of-inner-work", "kids-release-emotions-where-they-feel-safe", "kids-respond-to-emotional-presence-not-words", "stay-close-and-insist", "dont-shame-kids-they-self-shame", "parenting-as-coaching-domain"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-10-13_Parenthood", "2023-10-18_Parenthood", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # Learning Empathy Through Children's Tantrums
@@ -63,6 +63,27 @@ A specific moment Joe names from finding the framework:
 
 The discovery extends beyond parenting. The felt-sense diagnostic of "this feels right" became a way Joe learned to operate generally. Parenting was where he first felt the clear difference between not-right and right. The framework gave him a felt anchor for what right was.
 
+## The Patty Wipfler Pre-Announcement Practice (Tara's Retelling)
+
+Tara names a specific practice she learned through Hand in Hand Parenting from Patty Wipfler — pre-announcing to the kid in advance how the parent will handle their own anger, so that when the parent steps away to discharge, the kid is not surprised or scared by it.
+
+"My very first introduction to hand-in-hand parenting, and I remember Patty Wipfler saying, 'I can go tell your kids in advance: if I get triggered this is what I'm going to do: I'm going to go into the room and I'm going to press on the wall.' I don't remember exactly how she said it but I remember saying it to Esme like, 'Oh, if I ever get angry it's nothing to do with you; it's my job and this is how I'm gonna take care of it. I'm gonna go into our bedroom and I'm gonna press on this wall and you might hear me make funny sounds like wah-wah or argh.'" -- Tara Hudson, The Path To Healthy Fighting
+
+The practice has three pieces, in order:
+1. Pre-announce the future behavior. Not during a triggered moment; during a calm moment, in advance.
+2. Name what the behavior will be. "Press on the wall. Make funny sounds."
+3. Decouple it from the kid. "It's nothing to do with you; it's my job."
+
+The pre-announcement transforms the in-the-moment discharge from a surprise (which a kid often reads as scary, as their fault, as abandonment) into a recognized event (the thing the parent told them about). This is what makes [[do-over-after-the-anger]] legible to the kid when it happens.
+
+Tara reports the effect:
+
+"I remember doing that one or two or three times and like just, parenting got a lot easier after that. Before that, I found myself losing my temper, having like a short fuse with the kids or with just, I think we just had Esme at that moment, like having a shorter fuse, being kind of like snippy mama. And when I learned that hack that I could go and move anger, then it was like, I'd actually do that once and I'd be settled for a week. Like untriggered, unfazed, like things could get thrown at me and I'd be like, 'Okay, that didn't work. Let's try a do-over.'" -- Tara Hudson, The Path To Healthy Fighting
+
+The frequency note is part of the teaching: regular discharge prevented the backlog from building. The short-fuse disappeared because the chronic charge had somewhere to go.
+
+This is one of the specific practices that operationalized Hand in Hand for Tara. The framework is the larger structure; the pre-announcement-plus-discharge practice is one of the concrete moves the framework taught.
+
 ## What Hand In Hand Does Not Address That Joe Adds
 
 Hand in Hand Parenting is built for younger children. Joe explicitly notes that it does not extend into the teen years, where the work shifts shape. With teens, the move is less about meeting their emotional release and more about providing the "lane to swim in" — see [[dont-hate-your-kids-and-they-wont-hate-you]] and [[teach-teenagers-to-be-their-own-authority]]. The methodology Hand in Hand teaches in the early years is preparation for the parent's capacity to hold space through the teen years, but the teen-years application is something Joe has had to extend on his own from the foundational principles.
@@ -84,3 +105,4 @@ When someone asks how to develop empathy practically. When illustrating that the
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (Joe naming the tools by name and reflecting on the unfoolability of parenting)
 - 2023-10-13_Parenthood (extensive treatment of Hand in Hand Parenting as the methodology that taught Joe what parenting could be -- "the first time that I felt like I was doing it right")
 - 2023-10-18_Parenthood (Joe re-tells the story of finding Hand in Hand Parenting; he adds that the moment he felt "oh, that feels right" was a broader lesson about how to navigate life by iterating until something feels right)
+- 2025-03-19_The Path To Healthy Fighting (Tara names a specific Patty Wipfler practice she learned through Hand in Hand: pre-announcing to the kid in advance the form the parent's discharge will take, so that when the parent steps away to move anger, the kid recognizes the behavior rather than being frightened by it; the practice produced a dramatic reduction in Tara's short-fuse and made the [[do-over-after-the-anger]] move legible to the kid)

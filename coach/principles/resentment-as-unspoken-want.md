@@ -5,7 +5,7 @@ title: "Resentment Means You Are Not Following Your Wants"
 aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic", "resentment is built when there's anger that's unexpressed", "resentment as unexpressed anger", "the three sources of resentment", "the three corresponding moves for resentment", "boundaries asking admiration as the three moves for resentment", "resentment is repressed anger pointing at a boundary", "anger underneath resentment is pointing at a boundary", "the anger is pointing at how I want to interact with you", "the boundary defines the wanted interaction", "you hold the resentment because you can't draw the boundary", "if you could draw the boundary you wouldn't have to hold the resentment"]
 tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment", "admiration", "envy"]
 related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love", "resentment-saturates-other-fights", "move-the-anger-then-draw-the-boundary", "joe-and-tara-the-fridge-resentment"]
-sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # Resentment Means You Are Not Following Your Wants
@@ -115,6 +115,20 @@ This is the operational logic underneath the broader principle: the resentment i
 
 See [[move-the-anger-then-draw-the-boundary]] for the two-step operational form and [[joe-and-tara-the-fridge-resentment]] for the canonical marital instance.
 
+## The Tara Confirmation: Moved Charge Prevents Resentment From Accumulating
+
+Tara names the same mechanism from the other direction — the long-term result of regular charge-moving and clean truth-speaking is that resentment does not accumulate at all.
+
+"My experience is that if I'm sitting on especially a charge like anger, that then it's not moving the charge that leads to the resentment and complaining. And if I move the charge, I don't even wanna call it anger as much as like a charge or a trigger or a hit, and express it, it doesn't even have to be to you. I can express it on my own. Then it's like I've moved it. Resentment isn't even a... It's not even, because when the charge moves, there's no need for resentment, usually because there's another hack that comes in, which is then I speak my truth, uncharged." -- Tara Hudson, The Path To Healthy Fighting
+
+The mechanism Tara describes:
+- Charge sits in body → not moving the charge → resentment and complaining.
+- Charge moves (privately) → clarity available → speak truth uncharged → no resentment.
+
+The second sequence is the principle operating in reverse: the unspoken want gets spoken (truth, uncharged) before the resentment can form. The boundary becomes the lived form of the relationship, not a thing held back and stewed over.
+
+This is what the practice looks like at maturity. Resentment never accumulates because the want and the boundary are articulated in real time, made possible by the regular discharge of the body's charge into a private container (see [[get-angry-in-the-car]]). The principle does not just describe what to do with existing resentment; it points at the practice that prevents resentment from forming in the first place.
+
 ## The Mechanism Within a Couple
 
 In a couple, the resentment-anger-boundary chain typically has a third element: caretaking. One partner takes care of the other in a way the other did not ask for. The cared-for has anger about the disempowerment, but cannot express it directly because the caretaker was "trying to help." So the anger does not move, the boundary does not get drawn, and the resentment shows up sideways — chronic criticism of the action that was taken, irritation about little things, a low-grade not-wanting-to-be-around-the-person quality.
@@ -157,3 +171,4 @@ The downstream consequence — and the reason this matters for couples coaching 
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
 - 2024-09-02_How To Stop Being Resentful (the three-part teaching naming the three specific moves: boundaries, asking, admiration; the explicit identification of unexpressed anger as the source of much resentment; the marriage example of mutual resentment about what each partner has that the other does not)
 - 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the compressed framing that resentment is repressed anger pointing at a boundary; the structural reason resentment lingers when the boundary cannot be drawn; the fridge story as the canonical marital instance of the caretaking-anger-boundary-resentment chain; the principle that the boundary is the statement of how you want to interact with the other person, not a wall)
+- 2025-03-19_The Path To Healthy Fighting (Tara names the same mechanism from the long-term-practice angle: regular discharge of the charge in a private container plus speaking truth uncharged means resentment does not accumulate at all; the practice prevents resentment from forming, not just dissolves it after it has formed)

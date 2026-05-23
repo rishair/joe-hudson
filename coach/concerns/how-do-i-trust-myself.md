@@ -4,7 +4,7 @@ id: how-do-i-trust-myself
 title: "How do I trust myself? / How do I tell intuition from fear?"
 aliases: ["I can't trust myself", "how do I trust my intuition", "how do I tell the difference between intuition and fear", "how do I tell the difference between intuition and projection", "I've lost my confidence in what feels right for me", "I don't trust my decisions", "I can't tell what's intuition and what's reaction", "I can't tell intuition from anxiety", "I keep second-guessing myself", "I've lost trust in myself", "trust in myself", "self-trust concern"]
 tags: ["trust", "intuition", "fear", "decision-making", "second-guessing", "self-doubt"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-08-09_I'm Afraid I'll Get Depressed Again"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-08-09_I'm Afraid I'll Get Depressed Again", "2025-03-14_How To Stop Seeking Approval"]
 ---
 
 # How do I trust myself? / How do I tell intuition from fear?
@@ -65,6 +65,20 @@ The deepest layer often surfaces last: a recent hurt taught the person that goin
 
 Patient, persistent, slightly playful. Joe doesn't engage the intellectual machinery of the question. He keeps redirecting from "how do I know" to "what is happening right now in your body." He treats the elaborate question-frame with mild dismissal -- not contempt, but the friendly indifference of someone who is not going to follow the bait into the head.
 
+## The Somatic Discrimination Move
+
+A specific operational move that resolves the intuition-vs-fear question for many people: notice what happens in the heart at the moment of the immediate response. Intuition arrives with the heart open or opening. Negative conditioning arrives with the heart closing. The closure is the diagnostic. See [[intuition-vs-conditioning]] for the full account.
+
+The move is not about overriding responses in real time (that comes later). The first job is to notice the difference repeatedly until the signatures become unmistakable. Joe's specific instruction: every time you make an immediate decision, pay attention to your body. After 2-3 weeks of doing this, the question "is this intuition or conditioning?" answers itself in the body the moment the impulse arrives.
+
+The discrimination depends on body access being available. The 10% body-attention practice (see [[staying-in-your-body]]) is the prerequisite. If the person reports being unable to feel their body, work begins there before the intuition question can be resolved somatically.
+
+## The Doubt-Closed-Heart Layer
+
+When the trust question presents with a strong doubt component — chronic second-guessing, the "what did I do wrong?" loop, ruminating after conflict — the underlying structure is often the [[what-did-i-do-wrong-response-to-aggression]] pattern. Doubt structurally requires a closed heart. See [[doubt-requires-closed-heart]]. Until the heart can stay open, the discrimination practice cannot fully operate because the heart is closed at the moment of the immediate response, which produces a false reading of "this is conditioning" for what may have been intuition.
+
+The corrective sequence: address the inward-routing of anger (move the original anger outward in private; see [[how-to-release-anger-out-loud]]), install [[speak-truth-twice-a-day]] as the rewiring practice, and use [[intuition-vs-conditioning]] as the moment-by-moment somatic test. The combination dissolves the doubt-structure that is making the trust question unanswerable.
+
 ## Related Concerns
 
 The trust question often surfaces as the deeper layer underneath other presenting concerns. Most notably:
@@ -80,3 +94,4 @@ The trust question also serves as a cover for other concerns it is upstream of:
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2024-08-09_I'm Afraid I'll Get Depressed Again (the trust question presented as a cover for a recurrence fear: the guest opens with "how can I trust my voice and my worth again" but the underlying fear is that following her intuition will lead her back into depression; Joe pivots from the trust frame to the recurrence fear directly and resolves the trust concern by dissolving the avoidance pattern rather than by clarifying intuition)
+- 2025-03-14_How To Stop Seeking Approval (the somatic test for intuition vs conditioning — heart closes for conditioning, opens for intuition; the doubt-closed-heart structural link; the daily "notice your body on every immediate decision" practice as the training move; the qualifier on useful conditioning vs negative conditioning)

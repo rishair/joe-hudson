@@ -5,7 +5,7 @@ title: "Don't Discharge Anger At Your Partner (Move It First, Then Talk)"
 aliases: ["don't yell at your partner", "don't do anger at people", "don't discharge at partner", "yelling at partner anti-pattern", "anger release is not anger at partner", "move anger somewhere else first", "don't aim anger at partner", "the discharge-at-partner anti-pattern", "release anger before the conversation", "I'm just expressing my feelings as bypass", "don't use the relationship as your gym for anger", "don't make your partner take your anger work", "the unconsented anger dump", "don't yell at your partner to get the anger out", "no permission no anger dump"]
 tags: ["anti-pattern", "anger", "relationships", "discharge", "consent", "anger release"]
 related: ["trigger", "walking-on-eggshells", "get-angry-in-the-car", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "dont-do-anger-at-your-partner", "say-the-thing-youre-not-saying", "anger"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-02-18_How to Use Relationship Fights to Heal"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-02-18_How to Use Relationship Fights to Heal", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # Don't Discharge Anger At Your Partner (Move It First, Then Talk)
@@ -53,6 +53,22 @@ The conditions for this:
 - The relationship has been doing the work long enough that both know how to move through this kind of exchange.
 
 Without these conditions, the move is the anti-pattern dressed up as healing work.
+
+### The Stage-3 Form: In-the-Room Anger With Asked Consent
+
+The consent carve-out becomes its own stage of the work for couples who have been at this for years. The shape is precise: one partner asks for a specific, brief window to discharge anger with the other in the room; the other consents; the discharge happens; both stay present.
+
+"Eventually there came a time when I can remember being like, 'Hold on, do you have a minute of space for me just to yell?' You'd be like, 'Yeah.' And I go, 'Grr!' And we could do it with each other in the room. And sometimes there would be leaking over on each other. And eventually, again, even there would learn how to do it really cleanly." -- Tara Hudson, The Path To Healthy Fighting
+
+The structure that makes this work:
+- "Do you have a minute of space" — the ask. Specific. Brief. Not assumed.
+- "For me just to yell" — the named form. The receiver knows what is coming.
+- "Yeah" — the actual consent. A real yes, available because the receiver knows what the work is and has capacity for it.
+- The discharge in the contained window. Yelling, not aimed; in front of, not at.
+
+This is also the form that opens access to deeper emotions. Tara reports that an anger discharge with consent can transition mid-flow into grief or fear: "I would start shaking like, 'Oh, I'm really scared 'cause I have no idea where we're going after this.'" The relationship becomes the container that can hold whatever surfaces, not only the anger that was named at the start. See [[stages-of-couple-anger-work-maturation]] for the full developmental arc this stage lives inside.
+
+The Stage-3 form is the consent carve-out matured. Early in a relationship, the consent carve-out exists but is brittle. After enough years of practice, it stabilizes into a regularly-available move that deepens the relationship rather than risking it.
 
 ## The Shared-Target Variation: Anger Together, at the Situation
 
@@ -108,3 +124,4 @@ For the somatic mechanics, see [[fake-the-anger-to-let-it-move]] (the body needs
 - 2022-10-26_Triggered!
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the shared-target variation: both partners moving anger together at a chronic illness rather than at each other
 - 2025-02-18_How to Use Relationship Fights to Heal -- Joe names the sneakier form of the anti-pattern: picking a fight about anything available because the body is looking for a safe place to discharge held charge that has nothing to do with the partner. Includes the couple-level antidote of going to separate rooms to yell and then coming back together, and the diagnostic that the fight will continue regardless of what is said because the friction itself is the function.
+- 2025-03-19_The Path To Healthy Fighting -- Tara's framing of the Stage-3 form of the consent carve-out: "Do you have a minute of space for me just to yell?" as the precise asking language, and the observation that this stage can transition into grief and fear surfacing in the relationship as well, since the relationship has become capable of holding the deeper emotions once the anger work is reliable.

@@ -4,7 +4,7 @@ id: model-emotional-movement-for-your-kids
 title: "Model the Emotional Movement (Let Them Witness You Doing It)"
 aliases: ["model emotional movement for your kids", "let your kids see you move your anger", "have them witness you in your emotion", "modeling not managing", "the kid learns from witnessing your emotion-work", "ask the kid to witness your anger movement", "let them see what it looks like", "the witnessing-as-teaching move", "be the model rather than the manager", "let your kid watch you cry let your kid watch you rage", "kids learn emotion-work from seeing it done"]
 tags: ["parenting", "kids", "modeling", "moves", "emotion", "anger"]
-related: ["dont-manage-your-kids-into-moving-emotion", "kids-respond-to-emotional-presence-not-words", "draw-boundaries-with-kids-to-let-anger-arise", "parenting-as-honest-mirror", "parenting-as-real-world-test-of-inner-work", "kids-release-emotions-where-they-feel-safe"]
+related: ["dont-manage-your-kids-into-moving-emotion", "kids-respond-to-emotional-presence-not-words", "draw-boundaries-with-kids-to-let-anger-arise", "parenting-as-honest-mirror", "parenting-as-real-world-test-of-inner-work", "kids-release-emotions-where-they-feel-safe", "do-over-after-the-anger", "hand-in-hand-parenting", "emotions-are-neutral-bad-because-of-use"]
 sources: ["2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
 ---
 

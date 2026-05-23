@@ -5,7 +5,7 @@ title: "The Initial Anger Release Wave (The Champagne Bottle Pop)"
 aliases: ["the champagne bottle metaphor", "the champagne pop of anger", "anger floods when you start releasing", "the initial release surge", "the early release wave", "the wave of anger that comes when you start", "I started releasing anger and now I'm angry at everything", "anger noticing surges when practice begins", "the discharge wave", "the held charge releasing in waves", "I'm noticing way more anger now that I started practicing", "the champagne bottle pop", "anger floods at the beginning", "the early-phase anger overflow", "the release-period flooding"]
 tags: ["pattern", "anger", "release", "practice", "expected phenomenon", "early-stage", "champagne bottle"]
 related: ["anger", "kinked-emotions", "get-angry-in-the-car", "free-write-the-anger", "three-things-that-go-wrong-when-releasing-anger", "dont-go-after-every-emotion-at-once", "daily-emotional-yoga", "fake-the-anger-to-let-it-move"]
-sources: ["2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
+sources: ["2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
 # The Initial Anger Release Wave (The Champagne Bottle Pop)
@@ -42,6 +42,30 @@ In the early phase of an anger practice (first two-to-four weeks of [[get-angry-
 - A self-doubt arises: "this practice is making me worse."
 
 The self-doubt is the most diagnostic. It is the predictable mind-response to the predictable body-process. Naming the pattern in advance prevents the person from concluding the practice is broken and quitting.
+
+## Joe's Own First-Person Report of the Wave
+
+Joe describes the wave from inside his own experience of starting the practice early in his work with Tara. The texture confirms the pattern: more anger, faster, accompanied by self-doubt about whether the practice was working.
+
+"When I first started moving emotions to like, so I wasn't triggered by you at you, I was triggered by you, I'd move the emotion, but then I could come back, was that when I first started moving the emotions, I actually started feeling it more and more. I remember like, oh, I'm like, shit, should I be doing this? Because it started to like amplify a little bit. Like, I was a little quicker to anger at the beginning. The immediate thing is I would get angry out of the room and come back and be like there. But then I just noticed like, oh, I was a little quicker to anger generally. And I got scared about that for a while." -- Joe Hudson, The Path To Healthy Fighting
+
+The two pieces are both diagnostic:
+- The first piece: getting angry out of the room and coming back present. The immediate-discharge practice was working.
+- The second piece: being quicker to anger generally. The wave was beginning.
+
+The "shit, should I be doing this?" is the predictable self-doubt the wave produces. Joe's own response is the right one: keep going.
+
+## Joe's Resolution of His Own Wave
+
+Joe names two pieces of what he learned about how to clear the wave faster:
+
+"I realized, oh, I just had like a shit ton of backlog of anger that needed to move. And that if I was moving the anger without believing the story, it definitely moved like smoother. Whereas if I like got angry in such a way that I tracked — like I kept on thinking the story was true, then I actually hadn't moved the anger all the way. So part of it was learning to move the anger all the way so that I actually had real peace on the other side, a real epiphany on the other side. And then part of it was just getting a backlog of anger out of the system." -- Joe Hudson, The Path To Healthy Fighting
+
+The first piece names the diagnostic: anger moved while still believing the story is incomplete release. The clean release requires letting the story go during the discharge. See [[visceral-clarity-from-anger]] for what the completed release produces.
+
+The second piece names the structural cause: the wave is the backlog leaving the system. The volume is not increasing because the body is generating new anger; the volume is increasing because the held anger now has somewhere to go.
+
+The implication for coaching: when someone is in the wave, the work is both quality (let the story go during release so the release completes) and quantity (keep going until the backlog has cleared). Both/and, not either/or.
 
 ## The Anti-Pattern: Concluding the Practice Is Broken
 
@@ -121,3 +145,4 @@ The pattern is presented with friendliness. The champagne metaphor itself carrie
 ## Sources
 
 - 2024-05-20_How Anger Works (8-min Guide to Healthy Anger)
+- 2025-03-19_The Path To Healthy Fighting (Joe's first-person report of his own wave when he first started moving emotions early in his relationship with Tara — the surprise at being "a little quicker to anger generally," the self-doubt "shit, should I be doing this?", the resolution into recognizing the backlog mechanism, and the two-piece insight that the wave clears faster when the release is done without believing the story plus with sufficient quantity to clear the backlog)

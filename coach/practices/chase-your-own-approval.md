@@ -4,7 +4,7 @@ id: chase-your-own-approval
 title: "Chase Your Own Approval (Ask 'Do I Approve?' as the Central Question)"
 aliases: ["chase your own approval", "chasing your own approval", "approve of yourself", "self-approval as the central question", "do I approve of that", "do I approve", "does that make me feel good", "is this how I wanna be", "ask yourself if you approve", "the do-I-approve question", "the central question inversion", "from do they approve to do I approve", "asking for your own approval instead of theirs", "the self-approval inversion", "make do-I-approve the central question", "the I-approve practice", "approval inversion practice", "approve of your own life", "be your own approver", "chasing your own approval practice", "the approval inversion move", "asking yourself what you think", "self-approval over external approval", "the I-approve question", "stop asking what they think start asking what you think")]
 tags: ["approval", "practice", "self-listening", "self-trust", "freedom", "inversion"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval"]
 ---
 
 # Chase Your Own Approval
@@ -82,6 +82,16 @@ When a compliment arrives, receive it (see [[let-it-move-through-and-clean-the-c
 
 The practice compounds. Each successful flip makes the next one easier. Eventually the do-I-approve question runs as the default and the do-they-approve question becomes the noticeable exception rather than the operating system.
 
+## Connection to Speaking Your Truth
+
+The do-I-approve question can be asked silently as a check at the threshold of any decision. But it has a more potent operational form: speaking your truth out loud. See [[speaking-truth-cures-approval-seeking]] and [[speak-truth-twice-a-day]].
+
+The mechanism: when you speak the perception that is actually true for you, the act of voicing it is itself the act of approving it. Saying it is treating it as valuable enough to leave your mouth. The speaking is the self-approval, made operational. The silent "do I approve?" question becomes the louder "I approve enough to say this."
+
+The two practices are paired. The silent question is the inner discrimination ("is this how I want to be?"). The speaking is the outer enactment ("yes, this — said aloud, in the room, to the people present"). Both are the same self-approval mechanism in two forms. Combined, they install the structural shift faster than either alone.
+
+The downstream signature when both practices are running: the felt sense of speaking shifts. The speech starts to feel less like self-expression and more like [[channeling-quality-of-truth]]. The "do I approve?" question stops needing to be asked because the speech is already self-approving by the time it is spoken.
+
 ## Connection to Self-Trust
 
 This practice is also one of the practical paths into self-trust. See [[how-do-i-trust-myself]]. The person who is chasing others' approval cannot trust themselves because they have never let their own verdict carry weight. The practice gives the inner verdict weight. With repetition, the inner verdict becomes reliable enough to trust. Self-trust is the downstream of asking and acting on one's own approval over and over.
@@ -117,3 +127,4 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 ## Sources
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "do I approve" question set, the "central question" framing, and the empowered/grounded/able-to-have-the-life downstream)
+- 2025-03-14_How To Stop Seeking Approval (the speaking-truth operational form of self-approval: voicing the perception is the act of approving it; the inversion that speaking-truth is the cure for approval-seeking; the daughter's two-week report on how speaking truth stopped the approval-seeking automatically)

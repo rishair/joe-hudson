@@ -5,7 +5,7 @@ title: "Sorry From Shame vs. Sorry as Solidarity"
 aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it", "I'm sorry you're having a hard day", "solidarity apology", "the not-responsible apology", "sorry as presence not responsibility"]
 tags: ["distinction", "apology", "shame", "vulnerability", "language"]
 related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves", "2025-03-17_How to Apologize in A Way That Transforms You"]
 ---
 
 # Sorry From Shame vs. Sorry as Solidarity
@@ -31,6 +31,24 @@ The solidarity sorry can be deployed proactively, not just in response to feelin
 "Hey, I'm sorry that you're having a hard day. I know I'm not responsible for your happiness. And I just want you to know that I feel like I'm seeing you, that you're seen, and that I don't want this for you. I'm here with you. I love using apologies that way. It's like, for me, it's a great way to just let somebody know that, hey, I see that this is not easy for you, and I'm not trying to fix it, and I'm just here with you." -- Joe Hudson, The Upright Apology
 
 The Covey subway story is the same move at scale: "I'm so sorry they lost their mom the other day." Not responsibility. Solidarity. See [[covey-subway-story]].
+
+## Solidarity Sorry as a Non-Caretaking Move (Therapist-Favored Form)
+
+A specific virtue of the solidarity sorry: it lets you stay close to someone's difficulty without taking it on. It is a move that honors the other person's experience as theirs — not yours to fix, not yours to take responsibility for — while explicitly choosing to be present with them in it. This is why a number of therapists actively coach this form: it threads the needle between caretaking (which disempowers) and distance (which abandons).
+
+"Hey, I'm sorry that you've had a hard day. Or I'm sorry. And it's not a sorry like I'm responsible sorry, but it's saying, hey, I acknowledge you're having a bad day. ... It allows the relationship to show that it's like, I'm with you, and I also acknowledge that that's yours. It's not for me to take care of. I can just be here with you in it instead of like come in and try to fix the whole thing and then disempower you." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+The move has three properties that make it useful as a relational instrument:
+
+1. **It acknowledges.** The other person's hard moment is named. They are not having it alone.
+2. **It does not take responsibility.** The speaker is not implying "I should have prevented this" or "this is on me to fix."
+3. **It does not disempower.** The other person stays the agent of their own situation. The sorry is offered as company, not as a takeover.
+
+Joe and Tara experimented with this form for a while and use it less now, but Joe still considers it a clean form when deployed with intention. The fact that they "don't use it as much anymore" suggests the form has a particular usefulness in certain phases of practice — possibly when a person is learning to be present with difficulty without caretaking — and recedes once the underlying capacity is integrated.
+
+"Now, there's another kind of apology that there's a lot of therapists that really like this. We experimented with it for a while, Tara and I. I do like it. We don't use it as much anymore, but it was really useful for a while." -- Joe Hudson, How to Apologize in A Way That Transforms You
+
+Anti-pattern to watch: the solidarity sorry can slip into caretaking if the underlying impulse is to manage the other person's mood. The form is the same; the function differs. The diagnostic is what the speaker is reaching for. If reaching for connection without fixing: clean. If reaching to make the other person feel better so the speaker can stop feeling their discomfort: it has slid into [[dont-comfort-the-mourner-from-your-own-discomfort]].
 
 ## Body Diagnostic
 
