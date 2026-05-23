@@ -182,6 +182,32 @@ This is also the practical answer to the "problem of is and isn't" — the paral
 
 Because decisions are emotional, the move when standing in front of a decision is not to think harder. The move is to address the fear that is shaping the decision-feel and take the next genuine step. See [[do-the-next-most-obvious-thing]] and [[if-you-think-youre-deciding-youre-in-fear]]. The success criterion is the quality of how the decision is made, not the outcome. See [[good-decision-is-how-you-make-it-not-the-outcome]].
 
+## The Divorce-Consideration Worked Example (Two-Sided Feel-Through)
+
+The cleanest live demonstration of the principle as an applied protocol comes from a rapid coaching session about a divorce that had been deliberated for two or three years. The decider had been spinning the question without resolution. Joe applied the emotional-substrate diagnostic in a single move that broke the spin.
+
+"I said, all right, so what would you have to feel if you were going to get a divorce? And what would you have to feel if you stayed in the relationship and it didn't change?" -- Joe Hudson, Give Me 17 Minutes And You'll Stop Avoiding Your Emotions
+
+The instruction was to feel each side, not to decide between them. The client went off, did the feeling work, and returned with the answers:
+
+- **If divorce:** she would have to grieve the loss of the marriage and the felt-sense of letting her kids down by leaving (because she had organized her identity around staying married for the children).
+- **If she stayed in the same situation:** she would have to grieve the fact that she was giving her children an example of living a half-life.
+
+Both grieves had to be done. The "decision" was being held up by the avoidance of both. Once both were felt, the spin stopped. What came through was not a choice between two paths but a third available position: be fully herself in the marriage, and let the marriage either survive that or not.
+
+"The decision is really clear. The decision is, I am going to be exactly myself in this marriage. And if divorce happens, that's great, but I'm not gonna be a half self in my marriage. I'm gonna be my full self in the marriage. And if that means the marriage doesn't survive, it doesn't survive." -- Joe Hudson, Give Me 17 Minutes And You'll Stop Avoiding Your Emotions
+
+The outcome Joe reports is empirical: about 80% of the time when he sees this resolution, the marriage actually works out and things change. The mechanism is not magic. The grief that was being avoided was the same grief that was making the person show up half. Once the grief is felt, the half-showing-up stops being necessary, the full self becomes available, and the relationship gets the encounter with the real person it had been missing.
+
+The structural points the example demonstrates:
+
+1. **The decision was never really a decision.** It was an attempt to find a path that did not require feeling either of the two avoided emotions. That path does not exist. Both grieves had to be done regardless of the choice.
+2. **The two-sided feel-through is the protocol.** Ask the avoided-emotion question on each branch of the fork. The avoidance is usually different-flavored on each side; both have to be surfaced.
+3. **The decision often dissolves.** After the feeling work, the original fork is no longer the relevant question. A different question emerges, and that question is usually the actual decision the person was trying to find.
+4. **The clarification is not the result of more thinking.** It is the result of less avoidance. The intellect was never going to crack the question because the question was not an intellectual question. Once the body did the feeling work, the answer was visible.
+
+The protocol is also a specific application of [[whats-the-emotion-youre-trying-to-avoid]] and pairs with [[treating-it-as-a-decision-when-its-an-emotion]]. The pattern in those articles — "they brought a decision but the work is the emotion" — operates here in compressed form. The divorce question was the decision-cover. The avoided-emotion question on each side was the work.
+
 ## Big Decisions Are Usually Just Avoided Emotions
 
 The crispest operational form of this principle, used as a live coaching diagnostic when a person presents a fork they cannot resolve. The question that breaks the fork open: "What's the emotion you're trying to avoid?"
@@ -259,3 +285,4 @@ Each mechanism reinforces the others. Better decisions reduce the situations tha
 - 2024-06-28_4 Ways To Feel Your Emotions (the beginner-facing diagnostic question form of the principle: "how many times have you made a decision because you wanted to feel good / wanted to not feel like a loser / wanted to feel loved / didn't want to feel rejected / wanted to feel like a success / didn't want to feel like a failure"; the short specific list of common emotional drivers that lets a beginner verify the principle against their own decision history; positioning the principle as the stakes that motivate the four-tactical-ways framework)
 - 2024-08-30_How Saying "No" Sets You Free (Coaching Reaction Video) (the operational sequence of intellectual processing first, then felt material, then body picks the one option; the "only one thing is going to feel right" formulation that resolves the apparent paralysis of holding multiple perspectives as partially true; the instruction to give credence to frustration and fear as signal in business decisions rather than treating them as noise to override)
 - 2024-08-30_Loving the No (Coaching Session Breakdown) (alternate edit of the same breakdown; same operational sequence; same "only one thing" framing for the body's role in deciding among multiple-true options)
+- 2025-08-05_Give Me 17 Minutes And You'll Stop Avoiding Your Emotions (the divorce-consideration worked example demonstrating the two-sided feel-through as the operational protocol — ask the avoided-emotion question on each branch of the fork, feel both, then notice the third position that emerges; the 80%-of-the-time empirical observation that this resolution often saves the marriage because the half-showing-up that was held in place by the avoidance stops being necessary; positioned in the public-facing teaching as the second of the four toxic symptoms of unfelt emotion alongside judgment, guilt, and dissociation)

@@ -5,7 +5,7 @@ title: "Victim Stance Invites Abuse"
 aliases: ["victim invites abuser", "the oppressed position attracts oppressors", "owning the victim role", "victims and abusers", "you attract what you embody", "you'll never find a community that rewards you for being yourself if you're a victim", "victim stance blocks community", "ISIS argument for community", "victim stance blocks finding your tribe"]
 tags: ["victim", "abuse", "stance", "fear-triangle", "principle", "community"]
 related: ["fear-triangle", "empowered-vs-power", "what-we-fear-we-invite", "i-feel-trapped", "i-dont-have-time-for-this", "helplessness-is-the-gateway", "5-ways-to-stay-unhappy", "i-dont-have-community"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2024-04-08_How NOT To Be Happy"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2024-04-08_How NOT To Be Happy", "2025-08-01_How To Get Unstuck"]
 ---
 
 # Victim Stance Invites Abuse
@@ -23,6 +23,18 @@ This is one of the operating principles of the [[fear-triangle]]. The Victim rol
 The same principle operates inside the person. Believing yourself a victim produces internal abuse from your own mind. The self-criticism, the self-attack, the constant evidence-gathering for why your situation is hopeless: all of this is the internal abuser meeting the internal victim.
 
 This connects to [[what-we-fear-we-invite]]. The fear of being oppressed, when held tightly, often results in the experience of being oppressed. Not because the world is out to get the fearful person, but because the stance of fearful expectation organizes attention and choices around the very thing being feared.
+
+## The Perceptual Mechanism: The Crosswalk Study
+
+The mechanism is more specific than "stance generates dynamics." It is perceptual. People who exploit others have learned to read the behavioral signature of the victim stance with high precision. See [[oppressors-target-the-oppressible]] for the full development.
+
+The crosswalk study: aggressive people who steal purses (and similar), shown footage of pedestrians, agreed with each other on who would make a good target. They were reading something specific in the gait, the posture, the energetic field. The signal correlates with what Joe calls "very oppressible" -- the chronic-freeze behavioral signature.
+
+"Usually people who oppress, people who are looking for victims for their behavior, can actually spot that exact quality with laser precision." -- Joe Hudson, How To Get Unstuck
+
+The implication: the victim stance is not a hidden internal experience. It is a broadcast. The matching person finds the broadcast and approaches. The dynamic is then completed by both parties. The work of changing the stance changes the signal, which changes who is attracted.
+
+A related, more common mechanism Joe surfaces: the freeze pattern produces frustration even in non-predator partners. "Every time I am a little frustrated, you freeze. So now I feel like I can't depend on you. That really fucking frustrates me. I'm going to even be more frustrated, right?" The freeze invites pressure even from people who would not have applied pressure to a non-freezing person. The principle applies beyond predator dynamics.
 
 ## In Practice
 
@@ -96,3 +108,4 @@ Direct, almost provocative. Joe is willing to name this even though it is uncomf
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2024-04-08_How NOT To Be Happy (the second mechanism by which victim stance keeps a person isolated: the ISIS-of-community argument extending the structural many-matches argument from partnership to community; the "you'll never find a community that rewards you for being yourself if you feel like you're a victim" framing; the connection of victim stance to the childhood-imprinted assumption "the world will punish me if I am myself")
+- 2025-08-01_How To Get Unstuck (the perceptual mechanism: the crosswalk study showing that aggressive people can identify victims from gait/posture with high inter-rater agreement; the "very oppressible" framing; the observation that freeze invites pressure even in non-predator partners through the frustration-compounding mechanism)

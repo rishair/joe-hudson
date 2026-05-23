@@ -5,7 +5,7 @@ title: "Judgment Hurts the Judger (It's a Painful Addiction with a Small Payoff)
 aliases: ["judgment hurts you", "judgment hurts the judger", "the somatic cost of judgment", "judgment is muscular constriction", "you have to clench to judge", "judgment requires constricting muscles", "the payoff of judgment is small the cost is large", "judgment as an addiction with a small high", "the addiction structure of judgment", "judging hurts physically", "the body cost of judgment", "judgment is constriction", "judgment requires constriction", "the more judgmental you are the worse you feel", "very judgmental people don't actually feel good about themselves", "the felt cost of judgment", "judgment makes you feel like shit", "the temporary high of judgment", "the scrolling-like high of judgment", "judgment feels like scrolling", "judgment as a scroll-like high"]
 tags: ["judgment", "constriction", "addiction", "felt-cost", "somatic", "superiority", "body"]
 related: ["self-judgment-protects-from-emotion", "open-your-heart-while-judging-experiment", "comparative-mind", "5-ways-to-stay-unhappy", "judgment-vs-discernment", "blocker-emotions", "im-judgmental-how-do-i-stop"]
-sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways"]
+sources: ["2024-07-15_How To Stop Being Judgmental - 3 Ways", "2025-08-05_Give Me 17 Minutes And You'll Stop Avoiding Your Emotions"]
 ---
 
 # Judgment Hurts the Judger (It's a Painful Addiction with a Small Payoff)
@@ -57,6 +57,16 @@ Each of these is a different angle on the same somatic reality. Together they sh
 
 "Just notice how judgment makes you feel and notice what kind of life you want. Don't make it into a should because that's just another judgment. Don't tell yourself you shouldn't judge. That's another judgment. Then you're judging yourself. All you have to do is just notice the pain, just notice what you want, and allow yourself to go in that direction. It's as easy as that." -- Joe Hudson, How To Stop Being Judgmental
 
+## The Relational Cost: Judgment Cuts Off Connection Between People Who Love Each Other
+
+A specific application of the felt-cost frame: judgment is not only somatically expensive for the judger; it severs connection in relationships where the judgment is being directed. The Thanksgiving-dinner political example demonstrates the cost in compressed form. A family with members on opposite sides of the political aisle had clear love for each other across the table. When the political conversation started, every person at the table reached for judgment rather than feel the grief, hurt, or helplessness of the disagreement. The judgment cut off the connection between people who had real love for each other.
+
+"Here was this family that clearly loved each other on so many levels, and they would just stop the connection. It's really devastating when you think about how many homes have their connection cut off from each other because they have this judgment of, you don't understand, if you only got it right, if you could see my point of view. But instead of feeling the hurt of that disconnection, instead of feeling the helplessness that often comes with politics, what they did instead was they judged one another. They got hard. They tightened up." -- Joe Hudson, Give Me 17 Minutes And You'll Stop Avoiding Your Emotions
+
+This is the relational version of the somatic cost. The somatic cost is the chronic constriction in the judger's body. The relational cost is the loss of contact in the relationships where the judgment is being directed. Both costs are paying for the same thing: the avoidance of the underlying emotion (the grief, the hurt, the helplessness).
+
+The example also functions as a permission frame for the listener. Disagreement is not the problem. Judgment is the problem. A person can hold a strong contrary position without judging the other person. "It doesn't mean I have to agree with you to get the wisdom. It just means I can't cut you off to get the wisdom." This distinguishes the principle from a soft "everyone should agree" frame. The principle is about the cost of the judgment, not the cost of having a position. The position can be held; the judgment is what closes the channel. See [[three-signals-of-unfelt-emotion]] for the full treatment of the example as an instance of judgment-as-signal-of-unfelt-emotion.
+
 ## The Connection to Superiority and the Closed Heart
 
 This principle is one component of the broader teaching that superiority produces unhappiness. The mechanism in [[open-your-heart-while-judging-experiment]] is the same as the mechanism here: defense requires constriction; constriction closes the heart; the closed heart cannot feel joy. The principle is also the first leg of why one of the [[5-ways-to-stay-unhappy]] is thinking-you-are-better-than-others: the better-than position requires constant judgment, the judgment runs constant constriction, the constriction produces chronic depletion.
@@ -102,3 +112,4 @@ Plain, structural, not moralizing. The principle is delivered as a description o
 ## Sources
 
 - 2024-07-15_How To Stop Being Judgmental - 3 Ways (the explicit framing that judgment hurts physically and emotionally; the addiction structure with a small payoff and a large cost; the scrolling analogy for the immediate-high-then-feeling-worse pattern; the empirical claim that very judgmental people do not actually feel good about themselves; the "you have to constrict your muscles to judge someone else" formulation of the somatic mechanism)
+- 2025-08-05_Give Me 17 Minutes And You'll Stop Avoiding Your Emotions (the relational-cost frame complementing the somatic-cost frame: judgment also severs connection in the relationships where the judgment is directed; the Thanksgiving-dinner political-judgment worked example demonstrating how a family that genuinely loved each other lost the connection by reaching for judgment rather than feeling the grief and helplessness of the disagreement; the "disagreement is not the problem, judgment is the problem" distinction that prevents the principle from being mistaken for a soft everyone-should-agree frame)

@@ -4,7 +4,7 @@ id: emotional-movement-unsticks-stuckness
 title: "Emotional Movement (Not Figuring Things Out) Unsticks Stuckness"
 aliases: ["emotional movement unsticks stuckness", "move some emotion see if you still feel stuck", "stuck means stuck in your head", "the move out of stuckness is emotional not cognitive", "stuckness is usually a thought pattern", "figuring out doesn't change stuckness", "emotional fluidity changes stuckness", "to get unstuck move emotion not thinking", "stuck in your head", "stuckness as cognitive immobility", "the stuckness-thinking link", "move emotion not analysis", "the wrong layer to work stuckness on"]
 tags: ["principle", "stuckness", "emotion", "figuring-out", "cognitive vs emotional", "live coaching", "intervention selection"]
-sources: ["2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
+sources: ["2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2025-08-01_How To Get Unstuck"]
 ---
 
 # Emotional Movement (Not Figuring Things Out) Unsticks Stuckness
@@ -54,6 +54,16 @@ This is not a claim that thinking is bad. Thinking is appropriate for situations
 It is also not a claim that all stuckness is emotional. There are situations where a person genuinely lacks information and the felt-stuckness will move once the information is acquired. The principle is operational: try the emotional move first, because it tends to be the right one. If the emotional move produces nothing, then look elsewhere.
 
 It is also not the same as the catharsis model — "express your emotions and you will feel better." The principle is about contact and movement, not expression. A person can express emotion all day without contacting the held material, and the stuckness will persist. See [[acting-out-emotions-as-fluidity]] for the related anti-pattern.
+
+## Which Emotion to Move First (For Trapped-Stuck)
+
+When the stuckness is the trapped-stuck form (see [[problem-stuck-vs-trapped-stuck]]), the emotional work has an order. Anger first. Then fear. The sequence is structural; the anger is the protest against the oppression that has been frozen, and the fear is the meeting of the consequence that the oppression made felt-impossible.
+
+"The first first feeling to move to get the most bang for your buck is to move the anger. The second feeling to move is often the fear." -- Joe Hudson, How To Get Unstuck
+
+See [[anger-first-then-fear-out-of-stuck]] for the full development. The principle that "emotional movement unsticks stuckness" doesn't specify which emotion; the sequence article does. For most chronic trapped-stuck, the anger has to move first to make space for the fear to be feelable.
+
+For the problem-stuck form (see [[problem-stuck-vs-trapped-stuck]]), the emotional component is usually smaller and the work is more about staying in [[the-404-the-productive-unknown]] long enough for the solution to assemble.
 
 ## What Emotional Movement Looks Like
 
@@ -105,3 +115,4 @@ When the principle is enacted in a session, the tone is steady and direct. The c
 ## Sources
 
 - 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the explicit principle statement ("stuck is often like stuck in your head"; "let's get into the emotion because that's where oftentimes if you find yourself stuck, oftentimes it's emotional movement, emotional fluidity that's going to actually change something"); the direct advice to listeners ("move some emotion, see if you still feel stuck"); the structural claim that stuckness is usually a thought pattern, not a feature of reality
+- 2025-08-01_How To Get Unstuck — the order in which emotions should be moved for trapped-stuck (anger first, fear second, sometimes grief); the structural reason for the order (anger releases the suppressed protest; fear restores willingness for consequence); the broader three-layer frame (nervous system, emotional, intellectual) within which the emotional layer sits

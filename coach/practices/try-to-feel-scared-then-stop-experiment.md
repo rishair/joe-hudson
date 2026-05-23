@@ -5,7 +5,7 @@ title: "Try to Feel Scared, Then Try to Stop (The Somatic Suppression Experiment
 aliases: ["try to feel scared then stop", "the somatic suppression demonstration", "feel scared then stop feeling scared", "the suppression-is-physical experiment", "the muscles-must-constrict demonstration", "the body proof of suppression", "the live somatic demonstration of holding", "experiment to feel the holding", "the in-the-podcast emotion exercise", "the listener exercise", "the proof emotions live in muscles"]
 tags: ["practice", "emotions", "body", "demonstration", "suppression", "muscles"]
 related: ["emotions-live-in-muscles", "emotional-fluidity", "kinked-emotions", "feeling-the-unfelt-emotion", "stages-of-emotional-development"]
-sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-08-05_Give Me 17 Minutes And You'll Stop Avoiding Your Emotions"]
 ---
 
 # Try to Feel Scared, Then Try to Stop (The Somatic Suppression Experiment)
@@ -67,6 +67,16 @@ The all-emotions variant is the emotion-level intervention in [[four-causes-of-s
 
 Use the canonical version when teaching emotional fluidity or somatic suppression. Use the all-emotions variant when teaching the four causes of stress. Both work; they emphasize different aspects of the same mechanism.
 
+## The All-Emotions Variant Linked to Joy
+
+A further deployment of the all-emotions variant connects the demonstration directly to the loss of joy. The experiment is the empirical proof that holding back any emotion costs joy specifically, because joy cannot be felt by a body that is contracting against feeling.
+
+"Right now, do me a favor and try to stop feeling all of your emotions, right? Don't let any emotion be felt. And what you'll notice is muscles have to contract for that. You have to tighten up. And joy can't be felt if you're not feeling anything else, right? So we tighten up to stop feeling the emotions, our muscles get tight, and then we don't feel the joy because you can't feel joy if you're not feeling anything. You can't feel anything if you're not feeling anything. So that's the big trick, is just knowing that allowing all the emotions in creates a life of joy." -- Joe Hudson, Give Me 17 Minutes And You'll Stop Avoiding Your Emotions
+
+This deployment of the experiment is the most direct in-the-body proof of [[joy-as-matriarch]]. The matriarch teaching states the structural fact: joy will not come into a house where her children are not welcome. The experiment shows the listener, in thirty seconds and in their own body, why. The contraction required to keep the children out is the same contraction that blocks joy. There is no contraction-pattern that selectively blocks the difficult emotions while letting joy through. The body has only one channel; closing it on one side closes it on both.
+
+Use this version of the experiment specifically when teaching the matriarch principle, when working with a person who reports missing joy, or when explaining why the suppression that "worked" to manage difficult emotions also produced the flatness the person is now complaining about. The body's instant cooperation with the experiment is the evidence that converts the abstract teaching into felt-knowledge.
+
 ## When to Use This
 
 - When teaching emotional fluidity to a person who has only heard the principle abstractly
@@ -101,3 +111,4 @@ Playful and immediate. Joe delivers this as an interactive moment in the podcast
 
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the canonical introduction of this somatic experiment, delivered as a live in-the-podcast exercise the listener performs in real time; the immediate implication that decades of holding the same suppression produces chronic pain, stress, and musculoskeletal issues)
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the all-emotions variant of the experiment as the emotion-level intervention in the four-causes-of-stress framework; the explicit teaching that attempting to suppress all emotions produces immediate full-body stress; the "stop feeling all of it" framing as a quick demonstration of the cause of emotion-generated stress)
+- 2025-08-05_Give Me 17 Minutes And You'll Stop Avoiding Your Emotions (the all-emotions variant deployed to demonstrate the joy-as-matriarch principle in the body; the explicit chain of reasoning that constriction-to-stop-difficult-emotions is the same constriction that blocks joy, with the body's instant cooperation as the proof; the "you can't feel anything if you're not feeling anything" formulation that closes the loop between selective suppression and total flatness)

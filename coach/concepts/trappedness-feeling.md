@@ -5,7 +5,7 @@ title: "The Felt Trappedness Beneath Anger"
 aliases: ["feeling trapped", "trappedness", "the trapped feeling", "damned if I do damned if I don't", "I can't fucking win", "psychological trappedness", "trauma-rooted trappedness", "the trap is felt not real"]
 tags: ["anger", "trauma", "childhood", "trappedness", "fear", "double-bind"]
 related: ["anger", "trauma-mapping", "childhood-imprinting", "i-feel-trapped", "should-as-threat", "rebellion-or-submission-to-should", "binary-thinking-signals-fear"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2025-08-01_How To Get Unstuck"]
 ---
 
 # The Felt Trappedness Beneath Anger
@@ -31,6 +31,18 @@ The work is not to deny the felt trap. It is to see that the felt trap is doing 
 The reason people experience trappedness in situations where they are not trapped is usually childhood. The current scene matches the felt geometry of an earlier scene where the person actually was trapped. The body responds to the earlier scene's geometry, not to the current scene's possibilities.
 
 "In my childhood, for instance, if I didn't do something right, I would get yelled at. So I'm trying not to get yelled at. So I feel trapped, not because I'm trapped in this particular day and age, I'm trapped because it reminds me of a situation where I was trapped as a kid." -- Joe Hudson, The Wisdom of Anger
+
+## The Specific Childhood Configuration: No-Win Situations
+
+The most common childhood configuration that produces chronic trappedness is the no-win situation. The child was put in conditions where any move would produce attack -- they couldn't be themselves and please the parents, they had to be a particular way, they suffered abuse where no behavior was correct. Freezing became the lowest-cost available strategy.
+
+"Often had a childhood where they were put in no-win situations where they couldn't get out of the situation, meaning that they couldn't be themselves and please their parents, or that they had to be a very particular way, or they suffered some sort of abuse that was no-win. And so all they could do was just freeze." -- Joe Hudson, How To Get Unstuck
+
+The freeze was not a failure. It was the smart available move. "If they got yelled at for being frozen, it didn't last as long as if they actually participated." Freezing minimized the duration and intensity of the attack.
+
+The pattern installed: any future situation with the felt shape of the original (two-bad-choices, no third option, attack coming either way) triggers the same freeze. The adult experiences this as trappedness in situations that have many more options than the body is registering.
+
+See [[freeze-became-the-best-childhood-strategy]] for the full development of this pattern.
 
 Trauma's working definition: experiencing yourself as in an old circumstance instead of the circumstance you are currently in.
 
@@ -101,3 +113,4 @@ Joe holds this matter-of-factly. The pancake example is laughed at, not dramatiz
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing)
+- 2025-08-01_How To Get Unstuck (the no-win childhood configuration as the specific origin pattern for chronic trappedness; the structural reason freeze became the trained response: it minimized attack duration relative to participating; the option-space-collapse mechanism that has the brain reporting only two-bad-choices)
