@@ -135,6 +135,7 @@ This is why [[feeling-the-unfelt-emotion]] applies to shame as much as to anger 
 ## Downstream (Where Joe Goes From Here)
 
 - Toward [[the-shame-avoidance-loop]]: showing how avoiding shame creates shame.
+- Toward [[loneliness-as-shame-based-disconnection]] when the disconnection-shame has become chronic and the specific loneliness compound is what is presenting.
 - Toward [[conflict-avoidance-prevents-healing]]: making the case that the avoidance has costs in both directions.
 - Toward [[trigger-the-shame-live]]: producing the felt sense of shame in the room so the person can feel it rather than only think about it.
 - Toward [[shame-drives-behavior]]: showing that the behavior cannot change while the shame is being avoided.

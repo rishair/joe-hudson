@@ -8289,15 +8289,58 @@
     },
     {
       "folder": "2025-08-29_Dear Lonely Person\uff1a You're Probably A Sweetheart",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T19:38:03Z",
+      "articles_created": [
+        "loneliness-as-shame-based-disconnection",
+        "loneliness-vs-solitude",
+        "loneliness-vs-feeling-alone",
+        "lonely-people-are-sweethearts",
+        "two-types-of-lonely-person",
+        "16-experiments-for-connection",
+        "lean-into-the-connection-mode-you-avoid",
+        "dont-chase-a-mate-to-escape-loneliness",
+        "dont-claim-solitude-to-avoid-shame",
+        "loneliness-titrates-like-exercise-pain",
+        "chronic-isolation-builds-static",
+        "the-sensitive-businesswoman-whose-loneliness-died"
+      ],
+      "articles_updated": [
+        "i-feel-lonely-i-cant-find-real-community"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:56:50Z"
+    },
+    {
+      "folder": "2025-08-29_How to Break Free from Loneliness",
+      "status": "complete",
+      "claimed_at": "2026-05-23T19:39:03Z",
+      "articles_created": [
+        "connection-surrogates-dont-cure-loneliness",
+        "loneliness-hidden-under-other-presentations"
+      ],
+      "articles_updated": [
+        "aloneness-vs-loneliness",
+        "loneliness-vs-feeling-alone",
+        "chronic-isolation-builds-static",
+        "loneliness-as-shame-based-disconnection",
+        "shame-as-disconnection",
+        "i-feel-lonely-i-cant-find-real-community"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T19:57:04Z"
+    },
+    {
+      "folder": "2025-09-02_How To End 60,000 Negative Thoughts a Day",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T19:57:39Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-08-29_How to Break Free from Loneliness",
+      "folder": "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T19:39:03Z",
+      "claimed_at": "2026-05-23T19:58:04Z",
       "articles_created": [],
       "articles_updated": []
     }
