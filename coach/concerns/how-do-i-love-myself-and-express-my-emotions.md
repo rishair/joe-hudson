@@ -2,9 +2,9 @@
 type: concern
 id: how-do-i-love-myself-and-express-my-emotions
 title: "How do I love myself and express my emotions / How do I accept myself and reconnect with my inner child?"
-aliases: ["how do I love myself and express my emotions", "how do I express my emotions properly", "how do I love myself", "how do I accept myself", "how do I accept myself and reconnect with my inner child", "I was told not to let my emotions shine through", "I should let my emotions roll off my sleeve", "I'm trying to express my emotions but I can't", "I don't know how to express my emotions", "how do I learn to feel my feelings", "how do I learn to express my emotions", "I'm trying to be emotional but I was taught not to be", "I was taught my emotions were a bad thing", "I'm a very emotional guy but I've been told to hide it", "I want to reconnect with my inner child", "how do I not listen to all the people who told me I'm worthless", "how do I accept myself given what's happened to me", "I want to learn to feel my emotions properly", "I lived a lot of my life in my head and I want to feel", "I'm trying to listen to my body more", "I'm trying to be more emotional", "I masked my emotions for so long and now I want them back"]
+aliases: ["how do I love myself and express my emotions", "how do I express my emotions properly", "how do I love myself", "how do I accept myself", "how do I accept myself and reconnect with my inner child", "I was told not to let my emotions shine through", "I should let my emotions roll off my sleeve", "I'm trying to express my emotions but I can't", "I don't know how to express my emotions", "how do I learn to feel my feelings", "how do I learn to express my emotions", "I'm trying to be emotional but I was taught not to be", "I was taught my emotions were a bad thing", "I'm a very emotional guy but I've been told to hide it", "I want to reconnect with my inner child", "how do I not listen to all the people who told me I'm worthless", "how do I accept myself given what's happened to me", "I want to learn to feel my emotions properly", "I lived a lot of my life in my head and I want to feel", "I'm trying to listen to my body more", "I'm trying to be more emotional", "I masked my emotions for so long and now I want them back", "how can I love the resistance", "how do I let in the fear", "I've been trying breathwork and avoiding it", "I keep getting advice and not implementing it", "I'm betraying myself with everything I've learned", "I have the tools and I'm not using them", "I avoid the practices that would help me", "how do I let in the fear I'm avoiding", "how can I love the resistance that's stopping me", "the I-have-tools-can't-implement variant", "the I-keep-betraying-myself-with-what-I-know variant", "the love-the-resistance presenting"]
 tags: ["concern", "emotions", "self-love", "expression", "dissociation", "masking", "inner-child", "self-acceptance"]
-sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe"]
+sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)"]
 ---
 
 # How do I love myself and express my emotions?
@@ -114,6 +114,42 @@ The opening sequence from the source session:
 
 The exchange shows the structural moves in compressed form. Joe asks for the load-bearing question, declines the framing of "properly" (which assumes there's a correct technique), refuses the suppression teaching the person was raised on, and immediately interrupts the "I'm trying" pivot.
 
+## The "Love the Resistance / Let in the Fear" Variant
+
+A common form of this concern: the person has tools, has had coaching, has done work — and they describe a pattern of betrayal where they keep getting good advice and not implementing it. The framing is often "how can I love the resistance?" or "how do I let in the fear?" or "what's stopping me from doing the simple thing I was told to do?"
+
+Specific phrasings:
+- "How can I love the resistance?"
+- "How do I let in the fear?"
+- "I've been trying breathwork, I've been trying to go outside, but I avoid it."
+- "He told me to breathe and it's been so hard to implement it."
+- "I'm betraying myself all over again with everything I've learned."
+- "I have lots of abandonment and neglect in my past and there's resistance to connect with my body."
+
+The presentation has a specific texture. The person is articulate. They have done work. They can describe the resistance precisely. They are visibly distressed about not being able to implement what they know — and they are delivering this distress with a pleasant face, often smiling, often crafting the question carefully. The contradiction between the content (distress, abandonment, neglect, terror) and the delivery (well-formed question, easeful affect) is the diagnostic.
+
+The session moves typically follow this sequence:
+
+1. **Name the body-language contradiction.** See [[body-contradicts-the-words]]. "You say 'how do I let in the fear?' and you're smiling. There's a contradiction."
+
+2. **Invite presence without the contradiction.** See [[come-to-me-without-contradiction]]. The invitation is often paired with naming the inner fight: "It's like your dad is in your head fighting with who you are. What is it to come to me without that fight?"
+
+3. **Re-issue the invitation when the first attempt carries the same pattern.** The person will often try to comply by producing a more "vulnerable" version of the question with the same pleasant face. Joe re-issues. "You're closer, but there's still a trying. What's the trying?"
+
+4. **Name the trying-to-ask-the-right-question as the live pattern.** See [[the-trying-is-the-pattern-firing-now]] (the trying-to-ask-the-right-question variant). When the person says "trying to ask the right question," the trying has been made visible.
+
+5. **Ask what makes them push themselves.** See [[what-makes-you-push-yourself]]. The answer is usually some version of "afraid of doing wrong" or "had to be something else to be loved."
+
+6. **Invert "afraid of doing wrong" via the no-non-pushing-wrongs move.** See [[tell-me-one-thing-youve-done-wrong-when-you-werent-pushing-yourself]]. The recognition: every wrong they remember happened while pushing. The pushing is the wrong-maker.
+
+7. **For "had to be something else to be loved," cut to the chase.** See [[why-dont-you-just-love-yourself-as-you-are-right-now]]. The direct invitation to give the self the love the strategy was trying to earn.
+
+8. **When self-directed love produces the run, stay with the running.** See [[its-okay-to-run-no-judgment]] and [[feel-bad-as-the-running]]. The meta-acceptance of the running, including the feeling-bad-about-running, is the work.
+
+9. **The somatic landing is often tingling, goosebumps, breath dropping.** This is the marker that contact has happened. The body has registered the love or the fear (or both) without the pushing operating.
+
+This variant resolves not by teaching the person new tools but by dissolving the pushing structure that has been preventing every tool from working. The tools were never the problem. The pushing was.
+
 ## What This Concern Is Not
 
 - It is not the same as [[i-cant-feel-my-emotions]]. The person feels — sometimes intensely. The problem is that the feeling has been taught to be wrong and the system has built suppression on top. The work is releasing the suppression, not building emotional access from scratch.
@@ -132,3 +168,4 @@ The exchange shows the structural moves in compressed form. Joe asks for the loa
 ## Sources
 
 - 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the canonical presentation of this concern; the client opened with the paired question (how to love himself AND express his emotions properly); the backstory of having been taught his emotions were a bad thing; the live dissociation while reporting inability to express emotion; the full coaching arc from naming the live trying through the amplify-then-opposite move through the parent-fear question through the body-catch-up integration through the embodied non-personal observation refinement to the closing mangy-cat example
+- 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the "love the resistance / let in the fear" variant; the client has had the advice (breathwork, going outside, body practices) and reports betraying himself by not implementing it; the abandonment/neglect backstory; the live contradiction between distressed content and smiling delivery; Joe names the body-language contradiction; uses "come to me without contradiction" as the invitation; surfaces "trying to ask the right question" as the live form of the trying; "what makes you push yourself?" produces both "afraid of doing wrong" and "had to be something else to be loved"; the inversion ("tell me one thing you've done wrong when you weren't pushing yourself") exposes that all wrongs happen while pushing; the cut-to-the-chase ("why don't you just love yourself as you are right now") produces the run, which Joe accepts ("it's okay to run, I don't have any judgment"); the meta-loop of self-judgment-as-running is named ("that's how you run, one of the ways you run is to feel bad"); the loop itself is accepted; the somatic landing arrives as tingling and goosebumps signaling actual contact

@@ -4,8 +4,8 @@ id: capacity-to-love-other-is-capacity-to-love-self
 title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
 aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love", "the reflection inside is the reflection outside", "cutting off love internally cuts off love externally", "the same move done to yourself is done to others", "the mirror move of cutting off love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
-related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love"]
-sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love", "outer-life-mirrors-relationship-with-self", "war-with-yourself"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-17_The Cure for Self-Help Fatigue", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -133,9 +133,47 @@ The 4-keys teaching also extends the principle beyond the romantic partnership -
 
 See [[4-keys-to-save-your-relationship]] for the framework this principle closes, and [[relationships-as-personal-growth-path]] for the agreement that operationalizes the principle in long-term partnership.
 
+## The Money, Dreams, and All-Domains Extension
+
+The principle reaches further still. The self-relationship reproduces in domains that are not interpersonal at all. Money is one. Your relationship with your dreams is another. Your relationship with your work, with your body, with your circumstances — all carry the texture of the self-relationship.
+
+"If you are having a bad relationship with money, it's reflective of a bad relationship you're having with yourself. If you are having a bad relationship with your boyfriend or girlfriend, it's a reflection of the relationship you have with yourself. If you are not living up to your dreams, it's a reflection of not having a great relationship with yourself." -- Joe Hudson, The Cure for Self-Help Fatigue
+
+The mechanism extends because the relational equipment extends. Money is a relationship. Work is a relationship. Dreams are a relationship with a future self the dreams describe. Every relationship is routed through the same relational equipment that the self-relationship is configured by. If the equipment is configured for war, every relationship — interpersonal or not — inherits the war texture.
+
+This is the structural reason why someone can fix their relationship problem and watch a money problem appear. The fixing was at the surface; the substrate that was producing the surface problem was untouched; the substrate found a new domain to express through. The same shape shows up everywhere because the same configuration is running everywhere.
+
+See [[outer-life-mirrors-relationship-with-self]] for the broader form of this principle that names the all-domains extension explicitly. The all-domains version is the structural justification for why self-relationship work is the highest-leverage intervention available — it propagates everywhere at once.
+
+## The Marriage Application: Love Yourself More to Love Your Partner More
+
+In the Modern Relationships interview Joe gives the principle in its specifically marital form, with a personal report on how it operated across his marriage to Tara. The structural claim is the same. The lived experience he reports is the form most usable to a coach working with a married person.
+
+"What's interesting is that, like, what that ends up meaning for my existence, my existence with Tara, is that the only way I could actually make our marriage work was to learn how to love myself. And so, and then the more I learned to love myself, the, it increases my capacity to love Tara. The more I can unconditionally love myself, the more I can unconditionally love Tara. Which is not what I expected marriage to be." -- Joe Hudson, How Joe and Tara Became Joe and Tara
+
+The "not what I expected marriage to be" is the operational handle for an AI coach. People enter marriage expecting it to be the place where they receive love and learn to give it. They are correct about the receiving and the giving, but wrong about the mechanism. The mechanism is not "we exchange love and that's how love works." The mechanism is "the marriage forces each partner into the self-relationship work that is the structural prerequisite for love being available." The unexpected discovery is that the marriage is the field for self-love work; the love between the partners is downstream of how that work goes.
+
+Joe's specific framing is operationally precise: "the only way I could actually make our marriage work was to learn how to love myself." Not one of several ways. The only way. The trying-harder-to-love-Tara strategy did not produce the expansion. Working on the self-relationship did, and the love for Tara expanded as a byproduct.
+
+This is the principle as it actually operates in long-term partnership. The work is not "be more loving." The work is "love yourself more." The capacity to love the partner expands at the same rate as the capacity to love the self. The two are one capacity expressed in two directions.
+
+## The Drop-Shame-First Mechanic in Real Time
+
+The principle has a specific in-the-moment operational form in marriage: when you cannot see your partner clearly, the first move is not to try to see them better; it is to drop your own shame. Without dropping the shame, seeing them is structurally not available -- whatever they say or do gets routed through the shame, which either weaponizes against them or collapses into self-attack.
+
+"Being seen is the, the most important part about seeing somebody else is dropping your own shame. If you're dropping your own shame, you're either beating yourself up for it, which makes the person feel unseen, or you're attacking them so they don't feel seen. So the most important thing is to see yourself. Clearly enough to let go of the shame. And then once you do that, then your heart can come online and then you speak from your heart." -- Joe Hudson, How Joe and Tara Became Joe and Tara
+
+The sequence: drop the shame; the heart comes online; speech from the heart becomes possible. Until the shame is dropped, the heart is not online; until the heart is online, the speech from the heart that does the actual relational work is not available. The self-relationship move (dropping the shame) is the gating prerequisite for the relational move (seeing and speaking).
+
+This is the live in-the-moment form of the capacity equation. The self-acceptance that the principle is about is not just a long-arc trait; it is also a moment-by-moment move available inside any conversation. The partner who can drop the shame mid-conversation produces the speech from the heart mid-conversation. The partner who cannot drop the shame mid-conversation produces either attack or self-attack, both of which prevent the partner from feeling seen.
+
+See [[drop-the-shame-to-see-them]] for the move treated as its own coaching instrument.
+
 ## Sources
 
 - 2022-09-30_Triggered
 - 2024-02-12_Welcome To The Art Of Accomplishment
 - 2024-03-01_What Blocks Your Love?
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the self-relationship-reflects-all-relationships compression; the principle delivered as the closing frame of the [[4-keys-to-save-your-relationship]] framework; the extension of the principle beyond romantic partnership to company, work, and friendships)
+- 2025-06-17_The Cure for Self-Help Fatigue (the all-domains extension of the principle — money, partner, dreams; the explicit articulation that surface problems in any domain are reflections of the self-relationship; the principle delivered as the third reason self-help videos do not work, because the videos address surface problems while leaving the substrate that produces them untouched)
+- 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the marital form of the principle as Joe's personal report -- "the only way I could actually make our marriage work was to learn how to love myself"; the "not what I expected marriage to be" tone marker; the in-the-moment operational form -- drop the shame first, then the heart comes online, then speech from the heart becomes possible -- as the live form of the capacity equation inside a single conversation)

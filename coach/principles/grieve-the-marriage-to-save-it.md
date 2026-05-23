@@ -5,7 +5,7 @@ title: "Grieve the Marriage to Save the Marriage"
 aliases: ["pre-grieve the relationship", "mourn the marriage to save it", "assume the marriage is over to be undefended in it", "grief frees you to be true in the relationship", "grieving the relationship periodically", "let the marriage die to come alive in it", "grieve to drop the defense", "the marriage dies many times", "the periodic grief of a relationship", "grieve the rupture before the conversation", "grieve the breakup first to be at choice", "pre-grieve to enable consent", "the grief-the-loss-first heuristic applied to mortality", "the breakup-grief heuristic applied to chemo", "the grief-first principle applied to any major choice"]
 tags: ["grief", "relationships", "marriage", "vulnerability", "defense", "principle", "practice", "mortality", "choice", "consent"]
 related: ["visualizing-feared-outcomes", "grief-as-identity-dismantling", "defense", "upright-undefended-love", "fear-is-about-feeling", "without-grief-we-recreate-the-pattern", "feeling-the-unfelt-emotion", "accepting-the-end-empowers-the-yes", "i-have-a-terminal-diagnosis"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
 ---
 
 # Grieve the Marriage to Save the Marriage
@@ -43,6 +43,23 @@ See [[grief-as-identity-dismantling]] for the broader frame. See [[upright-undef
 Joe describes himself and his wife as having been through "many marriages together." This is not a euphemism for crises that almost ended the relationship. It is a description of the actual phenomenon: long-term relationships die and resurrect many times over the course of their lifespan. Each death is the dissolution of an old version of the relationship -- a particular identity-configuration between the two people. Each resurrection is the emergence of a new version.
 
 Couples who avoid the grief stay in one old version of the relationship indefinitely. Couples who can let the old versions die together stay alive together.
+
+## Tara's Compressed Version: Grieve the Marriage as if It Were Going to Die
+
+In the Modern Relationships interview, Joe and Tara describe the in-marriage grief practice in its most compressed form, as something they have done many times across the life of the relationship -- not just once, not in extreme crisis, but as a recurring practice each time the relationship enters a contracted period.
+
+"I would say that in every time of those years that we're in that conflict, one of the things we do is we grieve the marriage as if it was going to die. Like that. We've lost it. It's all. And so we grieve and feel all the things that we don't want to feel in the end of a relationship so that we can show up as ourselves again and, and recommit. And so that's been a huge part of our process is to like fully grieve the fact that this whole thing might be gone so that we can say the things that are true to us so that we can be ourselves as we've changed and then meet each other again." -- Joe Hudson, How Joe and Tara Became Joe and Tara
+
+The compressed sequence is clear:
+1. **Enter the conflict.** Notice the contraction. The relationship is in a stuck place.
+2. **Grieve as if it were going to die.** Internally treat it as over. Feel everything you would feel.
+3. **Recover the truth.** Once the grief has moved, the things that are true to you become sayable. The defense that was preventing the truth is gone.
+4. **Be yourself as you have changed.** Both partners have changed during the period; the previous configuration was for previous selves.
+5. **Meet each other again.** The post-grief meeting is the recommitment. The new configuration is the new marriage.
+
+The teaching is structural: every long marriage produces many configurations across its life. Each one has to be allowed to die for the next to arrive. The grief is the medium of the death; the meeting-again is the medium of the resurrection. The couples who can do this stay alive together. The couples who refuse the grief stay frozen in one old configuration until the configuration cannot hold and the relationship ends in form.
+
+Tara adds the multi-emotional nature of the work: "And that's not just tears, that's anger, that's fear, that's excitement, that's moving all of, you know, grief encompasses all those emotions, moving all the whole, all the emotions around it, being with them, processing them." See [[grief-is-many-emotions-not-just-sadness]] for the full menu. The marriage-grief is not just sadness about the imagined loss; it is the anger, fear, and even excitement that would arise if the loss were real. The completeness of the felt range is part of what produces the post-grief availability.
 
 ## What This Is Not
 
@@ -125,3 +142,4 @@ See [[accepting-the-end-empowers-the-yes]] for the same principle in its most ge
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
 - 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (Michael Nagel's application of the AOA grief-the-breakup-first heuristic to his chemo decision and mortality; the structural generalization from the marriage application to any major choice that requires consent in the face of an unbearable alternative; the demonstration that "blinders on" vs "actually at choice" is the same distinction the relational principle produces)
 - 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; Michael's explicit naming of the AOA heuristic verbatim -- "if you're worried that you might have conflict where it could rupture the relationship, like a breakup, it can be really helpful to grieve that breakup first" -- and his recognition that he "found an analogy of that for me in mortality," locating the cross-domain generalization within the established AOA frame)
+- 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the compressed in-marriage form of the practice as a recurring move during every conflict period; the sequence "grieve as if it were going to die / show up as yourselves again / recommit"; Tara's naming that grief-not-just-tears includes anger, fear, and excitement as the full menu; the structural framing that the marriage-grief is what allows both partners to be themselves "as we've changed" — the practice is also the medium for letting the marriage update to who the partners have become rather than holding it to who they were)

@@ -5,7 +5,7 @@ title: "Are you both willing to do the work?"
 aliases: ["are you willing to do the work", "are you both willing to do the work", "the are-you-willing-to-do-the-work question", "the right-person redirect", "is this the right person redirect", "the criterion for partnership question", "the willingness-to-work question", "the are-you-willing question", "Joe's answer to is-this-the-right-person", "the only thing that matters in a relationship is willingness to do the work"]
 tags: ["relationships", "commitment", "work", "question", "criterion", "marriage"]
 related: ["there-is-no-the-one", "i-cant-find-love", "complementary-trauma-surfaces", "from-looking-for-love-to-being-love", "relationships-as-personal-growth-path", "agreements-renegotiate-as-you-change", "fear-of-losing-yourself-in-love"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2025-01-13_The Mindset Shift That Transforms Dead Relationships", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
 ---
 
 # Are you both willing to do the work?
@@ -88,6 +88,32 @@ The implication: the upfront agreement to iterate is itself the diagnostic. A co
 
 The contrapositive is also load-bearing: "if you don't have that agreement upfront, the chances of success are not great." Joe is not saying it is impossible. He is saying the structural protection that the agreement provides is absent. The couple is more exposed.
 
+## Tara's Three Pre-Marriage Requirements (All Forms of the Same Question)
+
+In the Modern Relationships interview Joe describes the three pre-marriage requirements Tara required of him before she would consider marriage. The requirements were idiosyncratic-looking on the surface but Joe later realized they were all forms of the same question.
+
+The three requirements:
+1. **Go to a therapist together.**
+2. **Do a 10-day silent meditation retreat together.**
+3. **Backpack in harsh conditions for 4-6 months together.**
+
+Tara's framing of why these three: "If you're gonna think that was lame and stupid, then this isn't gonna work."
+
+Joe's realization, naming what they all had in common:
+
+"I think the thing I noticed speaking about it now that I don't think I've noticed before is each one of them was, are, are you willing to do the work on yourself? Are you willing to do the work on yourself with me? Right. So therapy is working on yourself with each other. Like we were in very harsh conditions backpacking. Oh, it's 6 o'clock at night. We have no place to stay and we have no food. What, you know, are we going to yell at each other? Are we going to handle it? And a meditation retreat is, are you willing to work on yourself for, and or for the sake of the marriage? And so I think they were just 3 ways of saying the thing that was most important to Tara was also the thing that happened to be most important to the marriage, which was, are you willing to do the work on yourself for the marriage?" -- Joe Hudson, How Joe and Tara Became Joe and Tara
+
+Each requirement is a different domain of the same question:
+- **Therapy:** Are you willing to do the work on yourself in a structured psychological context, with me present?
+- **Silent meditation retreat:** Are you willing to do the work on yourself in extended internal solitude, with the marriage as the context for the willingness?
+- **Hard backpacking:** Are you willing to do the work on yourself when external conditions are stripping you and we have to handle each other under stress?
+
+The structural observation: any pre-marriage screen that tests something other than the willingness to do the work is a poor proxy. The willingness-to-work screen is the one that predicts whether the marriage will function. Tara's three requirements were brilliant precisely because they tested the load-bearing variable from three different angles. A person could fake one of the three. Faking all three would require already having the trait being tested.
+
+The implication for coaching anyone evaluating a partnership: design (or notice) the things that test the willingness-to-do-the-work directly. Things like "are they willing to do couples therapy with me?", "are they willing to spend extended uncomfortable time in their own internal space?", "are they willing to handle hard external conditions with me and stay relational?" are the cleanest tests.
+
+Tara herself frames the principle of her requirements directly: "How much do you care about it? Because if you care about these 3 things and we have nothing else in common, we're gonna be okay. Like, I love horses, you hate horses, I don't have to have horses." The everything-else-can-vary observation is the structural consequence of the willingness-to-work being load-bearing. Surface compatibilities (horses, dogs, kids) become negotiable when the deep willingness is shared.
+
 ## Why This Question Beats the Right-Person Question
 
 The right-person question is unanswerable in a way that the willingness question is not. The right-person question requires a comparison to an alternative that does not exist (a real comparison to all the other potential partners the person did not select). The willingness question requires only an honest report of what both partners are actually committed to.
@@ -112,3 +138,4 @@ Direct. Joe uses the same answer every time. The repetition is part of the teach
 
 - 2023-11-10_Finding a Romantic Partner
 - 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the expanded pre-marriage form of the question -- "are you both willing to work and change so the relationship gets better and better" -- as the iteration-commitment version; the "if you don't have that agreement upfront, the chances of success are not great" framing as the load-bearing contrapositive; the question as the diagnostic that determines whether the iterative-mindset relationship work can be undertaken at all)
+- 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (Tara's three pre-marriage requirements -- therapy, silent retreat, hard backpacking -- as three different domain-specific tests of the same load-bearing willingness-to-do-the-work question; Joe's retrospective recognition that all three were "are you willing to do the work on yourself for the marriage" in different forms; the implication for coaching anyone evaluating partnership: design tests that probe the willingness-to-do-the-work directly rather than testing surface compatibilities; Tara's everything-else-can-vary observation -- horses, dogs, kids become negotiable when the deep willingness is shared)

@@ -84,6 +84,7 @@ The branching point depends on what is underneath the surface complaint.
 3. Reframe the voice as care with bad strategies. See [[voice-as-care]]. This shifts the relationship from adversarial to compassionate.
 
 4. Introduce a practice. Different practices fit different moments:
+   - For someone who has not yet seen how constant the voice is: [[say-ouch-to-the-inner-critic]]. The entry-point experiment that makes the voice audible to the person.
    - For someone who needs lightness: [[experimenting-with-the-voice]].
    - For someone who needs analytical rigor: [[lawyer-the-voice]] and [[untruth-in-every-thought]].
    - For someone who needs depth: [[whats-looking-out-behind-my-eyes]].
@@ -99,6 +100,7 @@ The branching point depends on what is underneath the surface complaint.
 - [[i-should-be-doing-this]]: the language the voice often speaks in.
 - [[i-need-to-improve-myself]]: the project the voice manages.
 - [[ill-become-lazy-without-shoulds]]: the fear that prevents releasing the voice.
+- [[im-so-stressed-out]]: the chronic-attack from the voice is often the upstream cause of the felt stress; the voice is one of the four causes of stress ([[four-causes-of-stress]]) and softening it is upstream of nervous-system rest ([[pleasure-tells-system-its-safe]]).
 
 ## Sources
 

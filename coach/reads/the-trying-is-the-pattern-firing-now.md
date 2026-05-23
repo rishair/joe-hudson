@@ -2,9 +2,9 @@
 type: read
 id: the-trying-is-the-pattern-firing-now
 title: "The Trying Is the Pattern Firing Now (When 'I'm Trying' Is the Live Demonstration)"
-aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it"]
+aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying"]
 tags: ["read", "live coaching", "trying", "dissociation", "pattern recognition", "present-moment", "resistance"]
-sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe"]
+sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)"]
 ---
 
 # The Trying Is the Pattern Firing Now
@@ -76,6 +76,31 @@ A second instance later in the same session:
 
 The second instance shows the same read deployed compactly. The client says "trying," Joe echoes it with a question mark to make it audible, then uses [[paradoxical-instruction-to-resist]] to make the trying visible by asking for it deliberately.
 
+## The Trying-to-Ask-the-Right-Question Variant
+
+A specific common form of this read: the trying shows up as crafting the right question to ask the coach. The person opens a coaching session with a well-formed, articulate, almost-rehearsed question. The question itself is the artifact of the trying. The trying-to-get-it-right has been applied to the question-formation in the moments before the session.
+
+Signals:
+
+- The opening question is unusually polished — clearly thought through, often phrased like a coaching question the person has heard before
+- The person delivers the question with a quality of presentation, as if performing the appropriate level of vulnerability
+- The body shows tension in the moment of asking — the question is doing work to get out
+- The person, when invited to drop into something simpler, immediately begins crafting the next-best version of the question rather than dropping into whatever is actually present
+- Often paired with [[body-contradicts-the-words]] — the face shows ease while the question reports distress
+
+The variant is structurally identical to the "I'm trying" disclosure: in both cases, the trying is the pattern firing in the room, and the form the trying takes is the form the pattern usually takes. For someone whose pattern is performing the right thing to be loved, the trying takes the form of performing the right question to get the right help.
+
+The corrective move: name the trying-as-question-crafting and re-invite via [[come-to-me-without-contradiction]]. "What's the trying?" — when the person answers "trying to ask the right question," the trying has just been made visible. Joe responds "yeah. So I don't need you to try." The directness removes the project of asking-the-right-question and asks for presence instead.
+
+From the source session:
+
+- **Joe:** "What is it to come to me without contradiction? The other way to say it is, like, it's like your dad is in your head fighting with who you are. And so what is it to come to me without that fight? That's — you're closer, but you're still — there's still a trying. What's the trying?"
+- **Client:** "Trying to ask the right question."
+- **Joe:** "Yeah. So I don't need you to try."
+- *(Source: Why You Can't Stop Trying So Hard)*
+
+The exchange shows the trying being named and dismissed in a single beat. Once the trying-to-ask-the-right-question is surfaced, the project itself can be set down. The next move is usually [[what-makes-you-push-yourself]] — the inquiry into what drives the trying.
+
 ## Tone
 
 Direct. Slightly impatient with the descriptive frame, but warm. The "What the fuck was that?" is delivered with curiosity, not aggression — the implication is "something just happened that you didn't notice, let's both look at it." The profanity makes it casual; the question makes it serious.
@@ -87,12 +112,15 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 - [[disassociating-in-the-coaching-room]] — the broader read this is a specific form of; this read is for the moment the person has noticed the dissociation and is now trying to fix it, which is still dissociating
 - [[manufacturing-the-feeling]] — the parallel read where the person is trying to produce a feeling rather than trying to stop a pattern
 - [[intellectualizing-as-the-form-of-control]] — when the pivot to descriptive explanation is itself the read
+- [[body-contradicts-the-words]] — frequently co-occurring; the contradiction (smiling face, distressed words) is often the same gear as the trying
 
 ## Connected Moves
 
 - [[amplify-the-dissociation-then-opposite-with-no-effort]] — the typical move that follows this read
 - [[paradoxical-instruction-to-resist]] — the move that makes the trying visible by asking for it deliberately
 - [[name-it-without-judgment]] — the general form of the naming Joe uses here
+- [[come-to-me-without-contradiction]] — the move that often follows this read when the trying appears as the trying-to-ask-the-right-question
+- [[what-makes-you-push-yourself]] — the question that opens the inquiry into what drives the trying
 
 ## Connected Methodology
 
@@ -100,6 +128,7 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 - [[trying-vs-doing]] — the somatic distinction underneath
 - [[undoing-not-doing]] — the broader frame this read points toward
 - [[the-effort-of-disconnection]] — the principle that dissociation is sustained effort, not absence of effort
+- [[pushing-yourself-produces-the-doing-wrong]] — the parallel principle for action: the trying-to-do-right produces the doing-wrong, the same way the trying-to-feel produces the not-feeling
 
 ## Connected Concerns
 
@@ -109,3 +138,4 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 ## Sources
 
 - 2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe — the canonical use of this read; the client said "I'm trying" three separate times across the session, each time pivoting into a descriptive explanation of why he was the way he was; Joe interrupted each pivot and pointed at the live event; the second instance ("try not to listen to your body right now") deployed paradoxical instruction to make the trying visible
+- 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the trying-to-ask-the-right-question variant; the client opens with a polished question ("how do I let in the fear?") that is itself the artifact of the trying; Joe names it ("there's still a trying. What's the trying?") and the client answers "trying to ask the right question"; the corrective move pairs with [[come-to-me-without-contradiction]] and [[what-makes-you-push-yourself]]; the session also demonstrates that this read frequently co-occurs with [[body-contradicts-the-words]] — the smiling face delivering the question is part of the same pattern firing

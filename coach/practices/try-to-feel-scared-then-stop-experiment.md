@@ -5,7 +5,7 @@ title: "Try to Feel Scared, Then Try to Stop (The Somatic Suppression Experiment
 aliases: ["try to feel scared then stop", "the somatic suppression demonstration", "feel scared then stop feeling scared", "the suppression-is-physical experiment", "the muscles-must-constrict demonstration", "the body proof of suppression", "the live somatic demonstration of holding", "experiment to feel the holding", "the in-the-podcast emotion exercise", "the listener exercise", "the proof emotions live in muscles"]
 tags: ["practice", "emotions", "body", "demonstration", "suppression", "muscles"]
 related: ["emotions-live-in-muscles", "emotional-fluidity", "kinked-emotions", "feeling-the-unfelt-emotion", "stages-of-emotional-development"]
-sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13"]
+sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
 ---
 
 # Try to Feel Scared, Then Try to Stop (The Somatic Suppression Experiment)
@@ -55,6 +55,18 @@ The same experiment works with other emotions:
 
 The pleasure version is particularly useful for people who do not believe they suppress positive emotions. See [[pleasure-capacity]] and [[fear-of-joy]].
 
+## The All-Emotions Variant (Stress Demonstration)
+
+A condensed version of the experiment that demonstrates the principle as a direct cause of stress, not just of suppression. The instruction:
+
+"I want you to stop feeling all of your emotions right now. All right, you're still feeling something. Stop feeling all of it. All of it. Everything you can do to stop feeling your emotions. Nope, you're still feeling something. Stop. Make sure that you stop feeling. And you might notice right now your entire body is stressed out. That's what happens when you try not to feel emotions. Stresses your whole body out." -- Joe Hudson, 4 Causes of Stress
+
+This variant skips the "allow yourself to feel scared first" step and goes directly to "stop feeling all of it." The listener is invited to attempt total emotional suppression — and immediately notice that the body goes tense everywhere. The discovery is the same as the canonical version (suppression is physical), but the framing is different: the experiment is positioned as a demonstration of the stress-cause of emotional suppression, not as a demonstration of how feelings are stored in muscles.
+
+The all-emotions variant is the emotion-level intervention in [[four-causes-of-stress]]. It pairs with the framework's second cause of stress: unfelt emotions accumulating produce muscular holding which is itself the felt experience of stress. The experiment makes the cause visible in real time.
+
+Use the canonical version when teaching emotional fluidity or somatic suppression. Use the all-emotions variant when teaching the four causes of stress. Both work; they emphasize different aspects of the same mechanism.
+
 ## When to Use This
 
 - When teaching emotional fluidity to a person who has only heard the principle abstractly
@@ -88,3 +100,4 @@ Playful and immediate. Joe delivers this as an interactive moment in the podcast
 ## Sources
 
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the canonical introduction of this somatic experiment, delivered as a live in-the-podcast exercise the listener performs in real time; the immediate implication that decades of holding the same suppression produces chronic pain, stress, and musculoskeletal issues)
+- 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the all-emotions variant of the experiment as the emotion-level intervention in the four-causes-of-stress framework; the explicit teaching that attempting to suppress all emotions produces immediate full-body stress; the "stop feeling all of it" framing as a quick demonstration of the cause of emotion-generated stress)

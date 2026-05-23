@@ -5,7 +5,7 @@ title: "Marriage as 'Two People Thinking They're Not Good Enough Coming Together
 aliases: ["marriage as two people thinking theyre not good enough", "the two people thinking theyre not good enough definition", "the marriage definition Joe likes", "two people coming together to find out theyre good enough", "the marriage-is-trying-to-find-out-theyre-good-enough definition", "the marriage as healing the not-enough definition", "Joe's preferred marriage definition", "the aphorism Joe uses for marriage", "the not-good-enough marriage frame", "the marriage as good-enough confirmation"]
 tags: ["marriage", "partnership", "definition", "self-worth", "trauma", "healing", "example"]
 related: ["complementary-trauma-surfaces", "there-is-no-the-one", "subconscious-partner-selection", "whatever-you-think-you-need-to-be-lovable-is-self-rejection", "trauma-mapping", "fear-of-losing-yourself-in-love", "love-misconceptions-inherited-from-childhood"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
 ---
 
 # Marriage as "Two People Thinking They're Not Good Enough Coming Together to Find Out That They Are"
@@ -91,6 +91,21 @@ It is not a substitute for evaluating actual fit. The definition operates at the
 
 Quoted, not asserted. Joe attributes the definition to someone else and is careful to say he cannot remember who. The tone is the tone of someone passing on a teaching they think is true. The lightness of "let's see if I can remember it" softens what would otherwise be a stark claim.
 
+## What Underneath the Fights Reveals (Joe and Tara on What Every Fight Was Really About)
+
+In the Modern Relationships interview, Joe and Tara are asked what they were always fighting about. Their answer matches this definition's framework precisely. The surface content was variable. The underneath was consistent.
+
+"In a way it's, do you love me? Do you love me? Do you love me? Are we safe? Am I safe? Am I safe? Always. Like, can we attach? Am I attached? Am I attached? Are you attached? Are you attached?" -- Tara Howley, How Joe and Tara Became Joe and Tara
+
+Joe adds: "Who's in charge? Who's in charge?"
+
+And: "Wherever we had both had shame that were perfectly interlocking and feeling unseen. That was a huge part of it." -- Joe Hudson, How Joe and Tara Became Joe and Tara
+
+The "perfectly interlocking shame" is the structural form this definition predicts. Two people who each carry "I am not enough" find each other precisely because the not-enoughness fits together in a way that surfaces it in both. The fights are the form the surfacing takes. The fights' content (pick a topic) is the cover; the underlying processing is the "do you love me / are we safe / am I attached" inquiry, which is the "am I good enough to be loved, kept safe, attached to" inquiry in slightly disaggregated form.
+
+The teaching cleanly supports the definition. The marriage's psychological work is the finding-out about being good enough. The fights are the medium of the work. The interlocking shame is the structural mechanism by which the partner is precisely the one who can deliver the work. See [[complementary-trauma-surfaces]] for the mechanism.
+
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (Joe and Tara's explicit naming of what was always underneath their fights -- "do you love me / are we safe / are we attached / who's in charge / wherever we had perfectly interlocking shame and feeling unseen"; the operational confirmation that the surface content of long-marriage fights is processing the underlying are-we-good-enough-to-be-loved/safe/attached inquiry that this definition predicts)

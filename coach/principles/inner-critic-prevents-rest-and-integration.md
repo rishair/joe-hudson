@@ -98,6 +98,9 @@ The coaching move shifts from "let's add another practice" to "let's address the
 - Toward [[rest-is-an-accomplishment]] — the related principle for the achievement-oriented person
 - Toward [[nervous-system-recovery-after-stress]] when the unrested system has accumulated into a need for an extended bathrobe period
 - Toward [[the-work-as-three-levels-of-change]] — the broader work the voice work fits inside
+- Toward [[pleasure-tells-system-its-safe]] — the structural reason the voice blocks rest: it prevents the safety signal from arriving
+- Toward [[say-ouch-to-the-inner-critic]] — the entry-point experiment that makes the voice visible to the person
+- Toward [[four-causes-of-stress]] — the framework where the voice is one of the four sub-forms of thought-stress
 
 ## Tone
 

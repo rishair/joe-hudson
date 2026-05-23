@@ -5,7 +5,7 @@ title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
 related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma", "measuring-transformation-across-three-brains", "head-heart-gut", "polyvagal-nervous-system-framing"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
 ---
 
 # Pleasure Capacity
@@ -31,6 +31,8 @@ If deeply nurtured as a child, the ceiling is higher. But in either case, the ce
 A useful working definition Joe credits to someone else: pleasure is the awareness of energy moving in the body. Joe's refinement on this: pleasure is more precisely the awareness of sensations in the body *without resistance*.
 
 "One of the greatest definitions I've ever heard for pleasure is the awareness of energy moving in your body. I would say that it's more awareness of sensations in your body without resistance." -- Joe Hudson, How To Measure Your Progress In Personal Development & Transformation
+
+The same definition appears in a simpler form in Joe's stress teaching: "the best definition for pleasure I've ever heard is just awareness of the sensations in your body moving." This compressed version is the working definition for the basic pleasure-capacity practice ([[notice-sensations-as-pleasure-experiment]]). The simplification matters: the listener does not need to track "with or without resistance" to start the practice. Just notice the sensations moving and let attention rest there. The refinement about resistance comes later, as the practice deepens.
 
 The refinement matters because it identifies the variable. The same sensation, with resistance, is not pleasure. The same sensation, without resistance, is. The pleasure is not in the sensation but in the relationship to the sensation. This makes the capacity trainable: the work is on the resistance, not on producing more sensation.
 
@@ -144,3 +146,4 @@ The story is the origin point for the broader framing: pleasure-capacity is trai
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical five-minute breath diagnostic and prediction that the system will reach for a problem when joy approaches)
 - 2024-09-27_Pleasure (the developmental mechanism of punishment-while-feeling-good as the origin of low pleasure ceilings, sourced from [[punishment-when-good-stings-more]]; the chase-pleasure failure mode in which hunger-in-the-pleasure-getting prevents the capacity from stretching, sourced from [[chasing-pleasure-is-avoidance]]; the personal origin story of Joe and Thich Nhat Hanh's dishes as the discovery point for the pleasure-capacity teaching, sourced from [[joe-thich-nhat-hanh-dishes]]; the framing that the pleasure-source cannot be permanently disrupted because it is in the breath and body, which is part of how the capacity stretches over time as the body accumulates new evidence)
 - 2024-10-16_Pleasure (re-edited version of the same conversation; the capacity teaching is recounted identically)
+- 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the compressed working definition of pleasure as "awareness of the sensations in your body moving" used as the entry-point definition for the basic pleasure-capacity practice; pleasure capacity positioned within the four-causes-of-stress framework as the diagnostic and intervention for the nervous-system layer of stress)

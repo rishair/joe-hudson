@@ -5,7 +5,7 @@ title: "Identity"
 aliases: ["what identity is", "Joe's definition of identity", "how identity works", "the structure of self", "identity as ideas emotions and gut reactions", "identity is what we take personally", "the personal-taking measure of identity", "identity definition", "what is identity", "subconscious identity", "conscious vs unconscious identity", "identity as exoskeleton", "trying on identities", "snakeskin identity", "Burning Man as identity sandbox", "identity attaches to external concepts", "identity as scaffolding", "ego is any self-definition you take personally", "Joe's definition of ego", "the broader definition of ego", "I'm no good is ego too", "self-flagellation is also ego", "ego is not just arrogance"]
 tags: ["identity", "self", "ego", "core concept", "transformation", "development"]
 related: ["grief-as-identity-dismantling", "idea-of-self-vs-actual-self", "expanding-sense-of-self", "identity-extension-expands-fear", "every-identity-has-limits", "identity-changes-on-three-levels", "transparent-identity-vs-rigid", "dont-fight-identity", "view-around-self-as-identity-diagnostic", "improvement-vs-authenticity", "self-realization", "loving-all-parts", "humility", "the-arrogantly-humble-paradox", "identity-shapes-who-is-around-you", "identity-reproduces-childhood-stress-levels", "dont-believe-your-emotions-as-identity"]
-sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2023-09-15_Humility"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2023-09-15_Humility", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
 ---
 
 # Identity
@@ -108,6 +108,18 @@ When an identity is touched, the system defends. The defense is the signature.
 
 The constriction in the body, the defensiveness in the mind, the fear of "who would I be without this" -- these are reads that identity is in play. See [[defensiveness-as-identity-signal]].
 
+## Identity Is a Source of Stress (The Harder the Identity, the More Stressful Life Is)
+
+A direct structural consequence of how identity works: every piece of identity is a piece that has to be protected. The protection is the stress. The more identity, the more constant the protection, the more stressful the life.
+
+"A huge amount of our stress comes from basically, I think I'm this and I need to protect it in the world. Somebody beat me up on Twitter, and so I need to protect that. Somebody thinks that I'm bad because I'm not valuable. Somebody thinks I'm a loser, or I feel like I'm a loser. I can't feel like a loser. I can't feel like I'm codependent. You have this identity. And if you have an identity, the more you have a harder identity, the more your life is just going to be stressful." -- Joe Hudson, 4 Causes of Stress
+
+This is why identity is one of the [[four-causes-of-stress]]. The intervention is not to acquire better identities (the better identity is still an identity that must be protected). The intervention is to tenderize the holding of the identities that are there. See [[transparent-identity-vs-rigid]].
+
+The principle also has a practical implication for stress management: every standard stress technique (sleep, food, exercise, breath, meditation) addresses inputs to the system. None of them address the identity-load that is generating the stress in the first place. A person with hardened identity can do all the right practices and still be stressed because the source is the identity, not the inputs.
+
+The identity-stress entry point is [[who-am-i-right-now-experiment]] — the practice that gives the system a brief experience of the self that exists without past-or-future story, and therefore without the identity that has to be protected.
+
 ## Identity Inside Organizations
 
 Identity does not stay personal. CEOs run their companies through their identities. The CEO with a hoarder identity does not kill projects that should be killed. The CEO whose identity is "if I am vulnerable I will be hurt" has an executive team with no real intimacy because the CEO models the closure.
@@ -179,3 +191,4 @@ Joe holds identity with curiosity and care. Not as a problem to be solved or an 
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)
 - 2023-09-15_Humility (Joe's explicit framing of ego as any self-definition you take personally, including "I'm no good"; humility as the structural absence of defending self)
+- 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the explicit teaching that the harder the identity, the more stressful the life; identity as one of the four causes of stress; the Twitter-attack and loser examples of identity-protection generating stress)

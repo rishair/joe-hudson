@@ -5,7 +5,7 @@ title: "Overwhelm"
 aliases: ["what overwhelm is", "Joe's definition of overwhelm", "the overwhelm definition", "overwhelm as broken flow", "overwhelm as unprocessed emotion", "the moment of overwhelm", "definition of overwhelm", "what causes overwhelm"]
 tags: ["overwhelm", "fear", "anxiety", "flow", "emotional processing", "definition"]
 related: ["fear-vs-anxiety", "anxiety-three-definitions", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "im-overwhelmed", "the-rush-signature", "overwhelm-reduces-productivity", "meaning-of-overwhelm-determines-direction", "ask-from-slowness-not-intellect", "four-tactical-ways-to-feel-your-emotions"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?", "2024-06-28_4 Ways To Feel Your Emotions"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?", "2024-06-28_4 Ways To Feel Your Emotions", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
 ---
 
 # Overwhelm
@@ -29,6 +29,14 @@ The public-facing compression of the same teaching, delivered in the on-ramp fra
 "Almost every time that you're overwhelmed, what's actually happening is that you have an emotion that isn't being felt. It's not just that things are busy. It's because you go like, 'Ugh,' and you're holding and you're tightening down, not feeling an emotional experience instead of breathing in and actually allowing that emotion to move." -- Joe Hudson, 4 Ways To Feel Your Emotions
 
 The compressed version is useful as a quick diagnostic: when overwhelm shows up, the question is not "what is on the list" but "what is the emotion I am tightening down on right now?" The tightening is the experienceable evidence that the emotion is being held. Loosen the tightening (breath, body softening, movement) and the held emotion becomes felt; once felt, it moves; once moved, the overwhelm releases.
+
+A specific naming of the underlying-emotion mechanism: the felt "overwhelm" is often anger or fear that the person is not letting themselves feel directly. The body translates the not-feeling into the felt experience of having too much to do.
+
+"Many people are just like overwhelmed. 'I have so much to do.' But actually what's just happening there is that they are angry and they're not feeling it, or they're scared and they're not feeling it. And so it feels like depression or anxiety or something like that because they're not actually allowing that emotion to move." -- Joe Hudson, 4 Causes of Stress
+
+The translation has a structural reason. Anger and fear both arrive with activation in the body. If the activation cannot be discharged through the emotion itself (because the emotion is being suppressed), the activation has to land somewhere. It often lands as the felt sense of "too much to do" — because that is a culturally permitted form of activation. Calling the experience "I'm overwhelmed" is more acceptable than calling it "I'm angry" or "I'm scared." The misnaming preserves the social permission while the activation continues to run.
+
+The coaching implication: when someone presents overwhelm, the early question is often "what are you angry about?" or "what are you scared of?" The answer is the emotion the overwhelm was holding.
 
 ## Overwhelm Is a Form of Fear
 
@@ -115,3 +123,4 @@ Direct, matter-of-fact, slightly amused at the cultural assumption that overwhel
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm? (re-release with the same content)
 - 2024-06-28_4 Ways To Feel Your Emotions (the public-facing compression of the overwhelm-is-unfelt-emotion principle into a quick diagnostic; the "tightening down" framing as the experienceable evidence of the held emotion; positioning the four-way framework as the live intervention when overwhelm arises)
+- 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the specific naming of overwhelm as the cover-form for unfelt anger or fear; the explicit teaching that "I have so much to do" is often anger-not-being-felt or fear-not-being-felt; overwhelm positioned as one symptom of the emotion-layer of the four-causes-of-stress framework)
