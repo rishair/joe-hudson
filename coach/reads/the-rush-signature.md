@@ -4,7 +4,7 @@ id: the-rush-signature
 title: "The Rush Signature (The Body and Speech of Overwhelm)"
 aliases: ["the rush signature", "rush as overwhelm signal", "the buzzing body", "fast eyes", "pace of speech as overwhelm read", "the lion body", "the somatic signature of overwhelm", "rushing as the visible overwhelm", "I have to I have to gotta get right", "the push sense", "panic and quickening of tempo"]
 tags: ["read", "overwhelm", "somatic", "body language", "speech", "diagnostic"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?", "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
 ---
 
 # The Rush Signature
@@ -80,13 +80,26 @@ When the rush is firing, Joe slows down. He becomes slower than usual, not faste
 
 There is also a gentle humor here. The buzzing-lion image is amused. Joe takes the overwhelm seriously without losing the lightness that comes from having seen it so many times.
 
+## The Rush During Productive Activity
+
+A specific form of the rush signature shows up not when the person is reporting overwhelm but when they are mid-productivity. The signature is the same -- shallow breath, forward lean, "bam, bam, bam" tempo -- but the context is "being productive" rather than "being overwhelmed." The person inside the rush does not call it overwhelm. They call it being efficient, being busy, getting things done.
+
+"I noticed that when I'm going through, like, oh, it's four o'clock in the afternoon and I'm going through my emails. Am I still breathing deeply? Am I present in my email response? Am I taking a moment to really, oh, what's the real thing I'm doing here and what's the real answer I want to give? Or am I bam, bam, bam?" -- Joe Hudson, Your Obsession With Productivity Is Killing Your Productivity
+
+The diagnostic value: the same rush signature appears whether the person calls it productivity or overwhelm. The body does not distinguish. The intervention is the same. See [[stop-to-feel-the-anxiety-underneath-the-productivity]] for the move that targets this version specifically, and [[brett-alexa-airport-pause]] for the worked example.
+
+The implication for an AI coach: do not wait for someone to call themselves overwhelmed. If the rush signature is firing during a discussion of productivity, the read is the same and the intervention is the same. The label the person is using does not change what the body is doing.
+
 ## Connected Concerns
 
 - [[im-overwhelmed]] -- the most direct concern this read pairs with
 - [[i-cant-trust-my-thoughts-right-now]] -- related read when the rush has crossed into trauma activation
 - [[my-inner-critic-wont-stop]] -- the rush can be the inner critic with the volume turned up
+- [[i-keep-getting-stuff-done-but-nothing-changes]] -- the productivity-specific concern this read often shows up underneath
+- [[productivity-as-dopamine-fix]] -- the pattern that often runs with this read present
 
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm?
+- 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the productivity-specific form of the rush signature; "am I still breathing deeply, am I present, or am I bam, bam, bam"; the email-response context where the signature most commonly appears)

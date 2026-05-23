@@ -4,8 +4,8 @@ id: rest-is-an-accomplishment
 title: "Rest Is an Accomplishment (Not the Absence of One)"
 aliases: ["rest is an accomplishment", "resting well is a skill", "rest as accomplishment", "becoming the best at resting", "rest as aesthetic", "rest as art", "resting is hard", "how do we measure how well you're resting", "are you going to be the best at resting", "rest as something you do well", "the resting flip", "rest-as-accomplishment hack", "Olympic athletes recover well", "the secret of Olympic athletes", "best athletes know how to recover", "the recovery skill", "rest is a skill not a default", "tiredness is the recovery signal", "welcoming the tiredness", "the sensation of tiredness is the body asking to rest", "sleep is a feeling of tiredness", "tiredness as reparative not wrong", "biathlete 7 hours of TV", "Norwegian biathlete rest example", "rest as the underrated half of performance", "rest as integration not absence of work"]
 tags: ["burnout", "rest", "recovery", "concept", "self-talk", "achievement-orientation"]
-related: ["nervous-system-recovery-after-stress", "burnout-cycle", "im-burned-out", "energy-management-over-time-management", "efficiency-as-enjoyment", "post-rest-second-wind-trap", "should-as-threat", "wisdom-of-each-emotion", "activation-release-rest-cycle", "inner-critic-prevents-rest-and-integration", "biathlon-athlete-7-hours-tv"]
-sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-02-16_'WTF Is A Nervous System?' With Jonny Miller"]
+related: ["nervous-system-recovery-after-stress", "burnout-cycle", "im-burned-out", "energy-management-over-time-management", "efficiency-as-enjoyment", "post-rest-second-wind-trap", "should-as-threat", "wisdom-of-each-emotion", "activation-release-rest-cycle", "inner-critic-prevents-rest-and-integration", "biathlon-athlete-7-hours-tv", "close-the-loop-between-work-blocks", "context-switching-drains-energy", "pace-and-spin"]
+sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-02-16_'WTF Is A Nervous System?' With Jonny Miller", "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
 ---
 
 # Rest Is an Accomplishment
@@ -110,6 +110,9 @@ The follow-up: what would resting well look like for you? The person, once given
 - Toward [[nervous-system-recovery-after-stress]]: validating that the recovery is biology, not character.
 - Toward [[post-rest-second-wind-trap]]: extending the rest past the false-recovery point.
 - Toward [[energy-management-over-time-management]]: the broader principle that organizes effort around energy rather than hours.
+- Toward [[close-the-loop-between-work-blocks]]: the daily-rhythm version of the practice for in-the-flow recovery.
+- Toward [[context-switching-drains-energy]]: when the recovery problem is mostly about calendar structure rather than absolute rest hours.
+- Toward [[pace-and-spin]]: when the rest needs to be diagnosed as a pace problem rather than a recovery problem.
 - Toward dropping the achievement frame entirely, once the rest has had its effect.
 
 ## Anti-Patterns
@@ -127,3 +130,4 @@ Light, slightly playful, with the energy of "let me show you a fun trick." Joe n
 - 2023-09-01_The Burnout Cycle
 - 2023-09-08_The Burnout Cycle
 - 2024-02-16_'WTF Is A Nervous System?' With Jonny Miller
+- 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the daily-rhythm version of resting well: "release and relax" between work blocks, the workout 20-on-10-off analogy, the yoga shavasana analogy; the explicit claim that learning to rest between things is part of what allows the same number of hours to produce different output)

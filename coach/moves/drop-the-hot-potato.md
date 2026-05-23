@@ -4,8 +4,8 @@ id: drop-the-hot-potato
 title: "Drop the Hot Potato"
 aliases: ["drop the hot potato", "stop throwing back", "let the shame land", "the unilateral exit from the hot potato", "the one-person hot potato exit", "feel the shame and listen", "stop the shame ping pong", "the non-throw move"]
 tags: ["shame", "move", "conflict", "exit", "couples", "teams", "non-defense", "view"]
-related: ["shame-hot-potato", "the-shame-avoidance-loop", "non-defense-is-the-ocean", "state-no-wish-for-their-shame", "feeling-the-unfelt-emotion", "shame-as-disconnection", "view", "impartiality", "seeing-through-essential-wrongness", "apologize-to-exit-a-fight", "how-what-questions"]
-sources: ["2023-12-22_The Shame Hot Potato"]
+related: ["shame-hot-potato", "the-shame-avoidance-loop", "non-defense-is-the-ocean", "state-no-wish-for-their-shame", "feeling-the-unfelt-emotion", "shame-as-disconnection", "view", "impartiality", "seeing-through-essential-wrongness", "apologize-to-exit-a-fight", "how-what-questions", "i-dont-need-to-be-seen-right-now", "see-yourself-when-they-cant-see-you", "immune-to-shame-through-non-defense", "defense-feels-like-attack-feedback-loop"]
+sources: ["2023-12-22_The Shame Hot Potato", "2025-01-24_How To Overcome Shame In Conflict"]
 ---
 
 # Drop the Hot Potato
@@ -57,6 +57,28 @@ Joe makes a sharp distinction for marriages: the move works in workplace and pol
 "In a marriage, you don't — I wouldn't suggest being married to somebody who can't get there. Like, I think the whole thing about marriage is wanting to grow and learn together." -- Joe Hudson, The Shame Hot Potato
 
 This is not a recommendation to leave. It is a recommendation to look honestly at whether both people are willing to do this work. See [[are-you-willing-to-do-the-work]].
+
+## The "Seen In An Hour" Lever
+
+A specific in-the-moment formulation that makes the move accessible when the urgency to be seen is high.
+
+"If you can drop that experience right now, just for a short period of time and say, 'I don't need to be seen at this moment, I can be seen in an hour. But in this moment, I don't need to defend anything. I can just actually listen and find out what their reality is and see that truth.'" -- Joe Hudson, How To Overcome Shame In Conflict
+
+The lever works because most of the felt urgency in the moment is "I need to be seen right now or I never will be." The temporal release of the urgency — "I can be seen in an hour" — does not require giving up on being seen, only on being seen in this minute. The body can usually metabolize a one-hour wait. It cannot metabolize a permanent loss.
+
+The paradox: holding tightly to being-seen-right-now pushes the seeing away. Releasing the urgency creates the conditions in which the other person, having felt heard, often starts wanting to see you. See [[i-dont-need-to-be-seen-right-now]] for the full move and [[ill-be-seen-in-an-hour-not-now]] for the variant phrasing.
+
+"When they feel heard, then oftentimes they're at that point wanting to see you. And so if you hold on tightly to trying to be seen, you're going to push being seen away." -- Joe Hudson, How To Overcome Shame In Conflict
+
+## When the Other Person Cannot Receive It
+
+A common failure mode: the move is attempted with someone who is currently incapable of seeing. The drop happens. Nothing comes back. The practitioner concludes the move did not work.
+
+The reframe: when the other person cannot see you, the move shifts. The drop still happens. The listening still happens. But the path to peace is no longer through being seen by them — it is through seeing yourself.
+
+"If somebody else can't see you and you recognize that, like, they're not capable of seeing me right now, the only option for you to get to peace is to see yourself." -- Joe Hudson, How To Overcome Shame In Conflict
+
+This is the variation of the move for the case where the other party is too triggered, too defended, or too incapacitated to do the corresponding work. See [[see-yourself-when-they-cant-see-you]] for the full move. The core insight: the move does not require the other person to do anything for it to work. It works on the practitioner's nervous system first. What the other person does is downstream.
 
 ## What Tends to Happen
 
@@ -113,6 +135,9 @@ The move may need to be rehearsed in coaching before it can be deployed in life.
 - Toward [[state-no-wish-for-their-shame]] for the specific couples application
 - Toward [[apologize-to-exit-a-fight]] for the related move when the coachee finds their own throw to apologize for
 - Toward [[view]] for the framework underneath the listening and questioning
+- Toward [[i-dont-need-to-be-seen-right-now]] when the urgency to be seen is what is making the defense fire
+- Toward [[see-yourself-when-they-cant-see-you]] when the other party is too triggered or incapacitated to participate
+- Toward [[immune-to-shame-through-non-defense]] as the long-arc result of repeated practice of this move
 
 ## Tone
 
@@ -121,3 +146,4 @@ Calm, grounded, almost light. The move is not heavy. It is the simple act of not
 ## Sources
 
 - 2023-12-22_The Shame Hot Potato
+- 2025-01-24_How To Overcome Shame In Conflict (added the "I can be seen in an hour" lever for releasing the urgency to be seen; the variation for when the other party cannot receive the move, in which the path to peace is seeing yourself rather than waiting to be seen by them)

@@ -6576,16 +6576,107 @@
       "absorbed_at": "2026-05-23T00:57:32Z"
     },
     {
+      "folder": "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:01:42Z",
+      "articles_created": [
+        "pace-and-spin",
+        "make-it-redundant-not-just-done",
+        "productivity-as-dopamine-fix",
+        "what-is-the-productivity-for",
+        "i-keep-getting-stuff-done-but-nothing-changes",
+        "brett-alexa-airport-pause",
+        "stop-to-feel-the-anxiety-underneath-the-productivity",
+        "presence-in-the-body-while-working",
+        "close-the-loop-between-work-blocks",
+        "context-switching-drains-energy"
+      ],
+      "articles_updated": [
+        "overwhelm-reduces-productivity",
+        "energy-management-over-time-management",
+        "do-the-work-thats-harder-for-you",
+        "the-rush-signature",
+        "rest-is-an-accomplishment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:20:26Z"
+    },
+    {
       "folder": "2025-01-17_Productivity Is Making You Unproductive",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:21:06Z",
+      "articles_created": [
+        "productivity-is-the-trees-purpose-is-the-forest",
+        "spin-vs-pedaling",
+        "how-you-do-productivity-reveals-what-its-for",
+        "ask-how-much-safety-plays-a-role",
+        "productivity-as-fear-based-engine",
+        "reflection-after-an-hour",
+        "doing-doesnt-equal-producing",
+        "reflection-is-release-resting-is-nothing",
+        "design-the-interactions-and-the-productivity-takes-care-of-itself",
+        "the-emotional-hangover-of-false-productivity",
+        "dont-mistake-the-dopamine-of-completion-for-production",
+        "redundant-vs-safe",
+        "100-middle-managers-redundant-vs-safe",
+        "vp-and-the-3-day-offsite",
+        "joes-vc-realization-one-tenth-the-work"
+      ],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:22:34Z"
+    },
+    {
+      "folder": "2025-01-22_Why Blame Is So Corrosive",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:23:34Z",
+      "articles_created": [
+        "three-stages-of-the-blame-path",
+        "blame-is-not-real",
+        "self-blame-abdicates-others-agency",
+        "how-do-we-want-to-be-together"
+      ],
+      "articles_updated": [
+        "toilet-blame-story",
+        "shame-hot-potato",
+        "turn-blame-into-wants",
+        "fault-vs-responsibility"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:32:28Z"
+    },
+    {
+      "folder": "2025-01-24_How To Overcome Shame In Conflict",
+      "status": "complete",
+      "claimed_at": "2026-05-23T01:23:52Z",
+      "articles_created": [
+        "defense-feels-like-attack-feedback-loop",
+        "i-dont-need-to-be-seen-right-now",
+        "see-yourself-when-they-cant-see-you",
+        "immune-to-shame-through-non-defense",
+        "walking-away-from-fight-feeling-bad"
+      ],
+      "articles_updated": [
+        "shame-hot-potato",
+        "drop-the-hot-potato",
+        "non-defense-is-the-ocean",
+        "inherent-goodness",
+        "we-have-built-up-resentment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T01:35:17Z"
+    },
+    {
+      "folder": "2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T00:58:04Z",
+      "claimed_at": "2026-05-23T01:32:56Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity",
+      "folder": "2025-01-29_The Best Trick For Having Great Fights In Relationship",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T01:01:42Z",
+      "claimed_at": "2026-05-23T01:36:16Z",
       "articles_created": [],
       "articles_updated": []
     }

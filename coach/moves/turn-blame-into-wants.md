@@ -4,7 +4,7 @@ id: turn-blame-into-wants
 title: "Turn the Blame Into Wants (Every Blame Impulse Becomes an Owned Want)"
 aliases: ["turn blame into wants", "blame to wants", "blame to want", "convert blame to wants", "move blame into wants", "the blame-to-wants move", "every time you blame own a want", "blame becomes want", "translate blame to want", "the every-blame-becomes-a-want practice", "the blame-into-wants conversion", "instead of blaming own what you want", "the blame catch-and-convert", "from blame to wants in real time", "the in-the-moment blame to want move"]
 tags: ["move", "relationships", "blame", "wants", "empowerment", "self-responsibility", "marriage"]
-sources: ["2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+sources: ["2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-22_Why Blame Is So Corrosive"]
 ---
 
 # Turn the Blame Into Wants
@@ -124,6 +124,9 @@ The body shift is the diagnostic. Blame produces contraction. Owned want produce
 - Toward [[wants-deepen-as-you-follow-them]] when the surface want is opening into deeper wants
 - Toward [[capacity-to-love-other-is-capacity-to-love-self]] when the work is becoming clear that the wants are about the self
 - Toward [[4-keys-to-save-your-relationship]] for the larger framework this move is the first key of
+- Toward [[three-stages-of-the-blame-path]] when the person catches the blame impulse and is about to redirect it inward as self-blame instead of converting it to a want
+- Toward [[blame-is-not-real]] when the person resists the move because they believe the blame is true and accurate
+- Toward [[how-do-we-want-to-be-together]] when the wants have surfaced enough that the couple can begin organizing around a shared vision
 
 ## Tone
 
@@ -134,3 +137,4 @@ When delivering this move one-on-one, the tone shifts to gentler. The recognitio
 ## Sources
 
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW!
+- 2025-01-22_Why Blame Is So Corrosive (reinforces the move as the corrective for the blame frame; provides the cascade-of-blame argument that supports the move by showing the blame frame is not a stable description of the situation)

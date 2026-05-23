@@ -4,7 +4,7 @@ id: reflection-after-an-hour
 title: "Reflection After an Hour (What Did I Actually Do?)"
 aliases: ["reflection after an hour", "the hourly reflection", "the what-did-I-actually-do practice", "the post-hour check", "what did I actually move forward", "the responded-to-people-isn't-a-thing-you-do practice", "Joe's hour-check practice", "the productivity reality check", "what did I move forward in the last hour", "the spin-detection practice", "the throughput-vs-leverage check practice", "what did I really do practice", "the moment of reflection productivity practice", "the after-an-hour-what-did-I-actually-do practice"]
 tags: ["practice", "productivity", "reflection", "diagnostic", "presence"]
-related: ["spin-vs-pedaling", "im-doing-a-lot-but-nothing-is-moving-forward", "doing-doesnt-equal-producing", "three-things-that-make-everything-else-redundant", "productivity-is-the-trees-purpose-is-the-forest", "pause-and-feel-the-anxiety-before-responding"]
+related: ["spin-vs-pedaling", "i-keep-getting-stuff-done-but-nothing-changes", "doing-doesnt-equal-producing", "make-it-redundant-not-just-done", "productivity-is-the-trees-purpose-is-the-forest", "stop-to-feel-the-anxiety-underneath-the-productivity"]
 sources: ["2025-01-17_Productivity Is Making You Unproductive"]
 ---
 
@@ -59,9 +59,9 @@ It is also short enough that the practice itself doesn't become another spin-pro
 
 ## Pairing With Other Practices
 
-- **With [[three-things-that-make-everything-else-redundant]]:** the three-things practice sets the week. The hourly reflection checks the alignment hour-by-hour. The three-things practice without the hourly reflection drifts. The hourly reflection without the three-things practice is reactive.
+- **With [[make-it-redundant-not-just-done]]:** the three-things practice sets the week. The hourly reflection checks the alignment hour-by-hour. The three-things practice without the hourly reflection drifts. The hourly reflection without the three-things practice is reactive.
 - **With the body-presence practice:** the hourly reflection is a natural moment to check breath, body, posture. The reflection on what was produced and the reflection on how the body was during the production are the same check at different layers.
-- **With [[whats-all-the-productivity-for]]:** the hourly reflection is the operational moment when the forest question lands. If the hours are full and the forest is missing, the practice will keep producing hollow answers. The hollow answers point to the missing forest.
+- **With [[what-is-the-productivity-for]]:** the hourly reflection is the operational moment when the forest question lands. If the hours are full and the forest is missing, the practice will keep producing hollow answers. The hollow answers point to the missing forest.
 
 ## The Adjacent Practice (Week-Level Retrospective)
 
@@ -80,7 +80,7 @@ The week-level retrospective catches what the hourly reflection cannot: the stru
 ## When to Use It
 
 - During any period of intense work where spin is a risk.
-- When the person is in [[im-doing-a-lot-but-nothing-is-moving-forward]].
+- When the person is in [[i-keep-getting-stuff-done-but-nothing-changes]].
 - When the channels (email, Slack, meetings) are dominating the day.
 - When the person reports an emotional hangover at the end of "productive" days.
 - As an ongoing rhythm for anyone whose work involves multiple channels of incoming demand.

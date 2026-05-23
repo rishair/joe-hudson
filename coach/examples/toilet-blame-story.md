@@ -2,16 +2,20 @@
 type: example
 id: toilet-blame-story
 title: "God Damn It, She Moved the Toilet (The Wife-Blame Recognition)"
-aliases: ["god damn it she moved the toilet", "the toilet blame story", "the man who missed the toilet", "the wife moved the toilet recognition", "the blaming the wife story", "the pee in the dark story", "she moved the toilet", "the 2am toilet story", "the stub-your-toe toilet story", "ah she moved the toilet", "the automatic blame story", "the autopilot blame example"]
-tags: ["relationships", "blame", "recognition", "self-awareness", "example", "marriage"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+aliases: ["god damn it she moved the toilet", "the toilet blame story", "the man who missed the toilet", "the wife moved the toilet recognition", "the blaming the wife story", "the pee in the dark story", "she moved the toilet", "the 2am toilet story", "the stub-your-toe toilet story", "ah she moved the toilet", "the automatic blame story", "the autopilot blame example", "the fuck she moved the toilet story", "the entrainment-to-blame story", "the therapist office toilet story", "how Joe heard the toilet story", "we entrained ourselves where something goes wrong the other person must be responsible"]
+tags: ["relationships", "blame", "recognition", "self-awareness", "example", "marriage", "entrainment"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-22_Why Blame Is So Corrosive"]
 ---
 
 # God Damn It, She Moved the Toilet
 
 ## The Story
 
-A man -- in one telling a client of a therapist Joe and Tara saw years back, in another telling simply "one of my clients" -- got up to use the bathroom around 2 a.m. He stubbed his toe on the way in, started to pee, and missed the toilet. His first thought, immediately and automatically: "Ah, she moved the toilet."
+A man -- in one telling a client of a therapist Joe and Tara saw years back, in another telling simply "one of my clients" -- got up to use the bathroom around 2 a.m. He stubbed his toe on the way in, started to pee, and missed the toilet. His first thought, immediately and automatically: "Fuck, she must have moved the toilet."
+
+In the original telling that Joe heard in the therapist's office:
+
+"Tara and I were in a therapist's office like earlier in our relationship, and the therapist tells us the story about how one of his clients wakes up in the middle of the night, goes to the bathroom, and starts to pee and misses the toilet and noticed that his head says, 'Fuck, she must have moved the toilet.'" -- Joe Hudson, Why Blame Is So Corrosive
 
 In that thought, he caught himself. He saw, in one second, what he had been doing in his entire marriage. He was holding her responsible for everything. He had organized his life around blaming her for whatever went wrong, including, in this case, his own miss in the dark.
 
@@ -24,6 +28,12 @@ The 4-Keys retelling compresses the story to its essential form:
 ## What Joe Uses It For
 
 Joe reaches for this story to make a structural point about marriage: the daily, low-grade blame of the partner becomes invisible to the blamer. It runs constantly, on autopilot, attaching the partner to events the partner had nothing to do with. The blamer does not experience themselves as blaming. They experience themselves as observing a string of things their partner is doing wrong.
+
+The Why Blame Is So Corrosive framing makes the underlying mechanism explicit: it is not that one person is uniquely bad at blame, it is that two people in a long relationship can *entrain themselves* to a baseline state where any negative event automatically attaches to the partner.
+
+"It's funny because we have all done something like that where we're like, We've entrained ourselves in a relationship where if something doesn't feel right, something goes wrong, the other person must be responsible. And so that's how corrosive blame is in a relationship." -- Joe Hudson, Why Blame Is So Corrosive
+
+The word "entrained" matters. It frames the blame as a learned coupling between event and target, not as a moral failing of the blamer. The man who thought his wife moved the toilet had not chosen to think that. His nervous system had been entrained, over years, to route any negative event to "her fault" automatically. The recognition was the moment the entrainment surfaced and lost its grip.
 
 The recognition is hard to produce on purpose. It usually comes the way it came in this story: a moment so absurd that the pattern surfaces. "She moved the toilet" is absurd. It surfaces what the running blame was being applied to in the more plausible cases.
 
@@ -39,7 +49,7 @@ The recognition is hard to produce on purpose. It usually comes the way it came 
 
 ## When Joe Reaches for This Story
 
-When a person is in a relationship and not yet aware of how much blame is automatic. When a person has been describing their partner as the source of their unhappiness for a long time and the pattern needs to be made visible without being attacked. When the principle [[dont-take-responsibility-for-anothers-happiness]] needs a concrete instance. When introducing [[turn-blame-into-wants]] as a move and the listener needs the concrete image of how blame runs on autopilot.
+When a person is in a relationship and not yet aware of how much blame is automatic. When a person has been describing their partner as the source of their unhappiness for a long time and the pattern needs to be made visible without being attacked. When the principle [[dont-take-responsibility-for-anothers-happiness]] needs a concrete instance. When introducing [[turn-blame-into-wants]] as a move and the listener needs the concrete image of how blame runs on autopilot. When [[blame-is-not-real]] needs an absurd instance that demonstrates the unreality of the blame frame — the toilet did not move, and the obviousness that it did not move surfaces that the blame mechanism is not connected to actual causation.
 
 The story works because it does not require the listener to feel attacked. The story is about someone else. The listener can hear it and then, in private, run the same diagnostic on their own running thoughts. The diagnostic question: what is the absurd version of the blame I am running about my partner? When does the blame attach to things they had nothing to do with?
 
@@ -62,3 +72,4 @@ The story connects to [[awareness-as-change-agent]] -- the recognition is itself
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the compressed retelling used as the opening illustration for the blame-to-wants key; "Ah, she moved the toilet" as the verbatim thought; the recognition that "I am blaming my wife for all sorts of things. It doesn't even make sense what I'm blaming her for")
+- 2025-01-22_Why Blame Is So Corrosive (the origin telling — Joe and Tara hearing the story from a therapist in their own session; the "Fuck, she must have moved the toilet" verbatim form; the entrainment framing — "we've entrained ourselves in a relationship where if something doesn't feel right, something goes wrong, the other person must be responsible")

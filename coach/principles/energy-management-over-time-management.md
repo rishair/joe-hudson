@@ -4,8 +4,8 @@ id: energy-management-over-time-management
 title: "Manage Energy, Not Time"
 aliases: ["energy management over time management", "manage energy not time", "energy management is the lever", "time management is the wrong frame", "time management trap", "pay attention to your energy not your hours", "the energy frame for productivity", "managing energy beats managing time", "where am I spending my adrenaline", "the energy audit", "what's draining energy what's giving energy", "the energy-management principle"]
 tags: ["energy", "productivity", "burnout", "principle", "time management"]
-related: ["efficiency-as-enjoyment", "burnout-cycle", "im-burned-out", "how-could-you-do-this-and-gain-energy", "rest-is-an-accomplishment", "overwhelm-reduces-productivity", "invigorated-vs-depleted-as-functionality-measure", "enjoyment-as-path"]
-sources: ["2023-09-01_The Burnout Cycle"]
+related: ["efficiency-as-enjoyment", "burnout-cycle", "im-burned-out", "how-could-you-do-this-and-gain-energy", "rest-is-an-accomplishment", "overwhelm-reduces-productivity", "invigorated-vs-depleted-as-functionality-measure", "enjoyment-as-path", "pace-and-spin", "close-the-loop-between-work-blocks", "context-switching-drains-energy", "productivity-as-dopamine-fix", "make-it-redundant-not-just-done", "presence-in-the-body-while-working"]
+sources: ["2023-09-01_The Burnout Cycle", "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
 ---
 
 # Manage Energy, Not Time
@@ -50,6 +50,33 @@ The person who manages energy well does not work fewer hours. They work the same
 
 The claim is concrete: Joe attributes his ability to work the way he works without burning out to having done the energy-management work. The hours are similar to other people's. The internal cost is much lower.
 
+The same point made more explicitly, from a different conversation:
+
+"Last week you and I both worked from 7:30 in the morning till 10, 10:30 at night, average, sometimes longer, sometimes a little shorter, for seven days straight. And this week I'll be doing four podcasts, one live performance, running the business, seeing eight clients. And still making time for my family and still making sure that my girls are attended to and that my marriage is healthy. And that happens. I can be that productive. And the reason I can do it is because there isn't as much inner fight. It isn't that I'm doing it from anxiety. It's that I'm in my body when I'm sending the emails. It's because I'm not trying to force anything. It's because I've learned how to rest in between my things. If you get your pace right, there's just this constant flow of creativity." -- Joe Hudson, Your Obsession With Productivity Is Killing Your Productivity
+
+The directness of the claim matters. This is not a theoretical principle. It is an observable difference between the person who has done the energy work and the person who has not. The hours are the same. The output is high. The depletion is absent. The system can sustain.
+
+## Joe's Three Known Drains
+
+The principle becomes operational when you can name your specific drains. Joe names three of his own:
+
+1. **Back-to-back meetings without time to close the cycle.** Each meeting that ends without a moment of release-and-relax leaves an open loop. The loops accumulate. The day ends with a buzzing, scattered, depleted body. See [[close-the-loop-between-work-blocks]].
+
+2. **Context switching between modes.** A coaching session followed by a business meeting costs much more than two coaching sessions or two business meetings. The mode-switch tax is large. See [[context-switching-drains-energy]].
+
+3. **(implicit third)** The pattern across his examples is anything that runs on adrenaline rather than on regulated effort. Each adrenaline-driven activity is an energy debit. Each regulated activity is energy-neutral or positive.
+
+The practice is to identify your own drains. Different people have different ones. The category is "what specifically takes energy from me that does not need to?" Each named drain is a candidate for restructuring.
+
+## The Pace-and-Spin Pairing
+
+Energy management is the principle. Pace and spin are the diagnostics that operationalize it daily. See [[pace-and-spin]].
+
+- Pace asks: is this sustainable? Am I working at a tempo I can come back to next year?
+- Spin asks: is the effort actually moving the ball, or am I rowing against the current?
+
+Both are direct diagnostics of energy management. A wrong pace will deplete the system over time. A high spin will deplete it in real time. The two checks together cover the moment-to-moment and the long-horizon questions that the energy frame requires.
+
 ## When Someone Experiences This
 
 - When they have optimized their calendar to the millimeter and are still exhausted.
@@ -76,6 +103,11 @@ The action that follows from the diagnostic: for each depleting activity, find a
 - Toward [[efficiency-as-enjoyment]] as the broader principle linking energy to performance.
 - Toward [[rest-is-an-accomplishment]] when the person needs to recover what has already been spent.
 - Toward [[enjoyment-as-path]] as the deeper version of the same principle.
+- Toward [[pace-and-spin]] for the operational daily diagnostic.
+- Toward [[close-the-loop-between-work-blocks]] for the inter-task practice that protects energy.
+- Toward [[context-switching-drains-energy]] for the calendar-structure intervention.
+- Toward [[make-it-redundant-not-just-done]] when the leverage move is to reduce the amount of work that needs doing rather than do it more efficiently.
+- Toward [[presence-in-the-body-while-working]] for the somatic dimension of the practice.
 - Toward addressing the psychological sources of unnecessary adrenaline (childhood patterns, perfectionism, shoulds).
 
 ## Tone
@@ -85,3 +117,4 @@ Direct. Operational. This is a frame change with concrete behavioral implication
 ## Sources
 
 - 2023-09-01_The Burnout Cycle
+- 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the worked example of working 7:30 AM to 10:30 PM for seven days straight without burning out because "it's because I'm in my body when I'm sending the emails, it's because I've learned how to rest in between my things"; Joe's two named drains: back-to-back meetings without cycle-closing and context switching between modes; the pacing principle "if you get your pace right, there's just this constant flow of creativity")

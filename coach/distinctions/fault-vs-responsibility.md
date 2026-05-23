@@ -96,6 +96,9 @@ The distinction also does not mean apologies are wrong. An apology can come from
 - Toward [[shame-drives-behavior]]: the mechanism that makes the distinction necessary.
 - Toward [[empowered-vs-power]]: the responsibility frame is the empowered version; the fault frame puts the person in the [[fear-triangle]].
 - Toward [[sorry-from-shame-vs-sorry-as-solidarity]]: the related distinction in apologies.
+- Toward [[blame-is-not-real]]: the conceptual undergird for why the fault frame produces arbitrary answers and is not picking up a real feature of the world.
+- Toward [[three-stages-of-the-blame-path]]: the developmental arc when the distinction is being applied across multiple situations rather than to one moment.
+- Toward [[self-blame-abdicates-others-agency]]: the specific cost when fault is internalized in a relational context.
 
 ## Sources
 

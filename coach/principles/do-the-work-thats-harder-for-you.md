@@ -4,8 +4,8 @@ id: do-the-work-thats-harder-for-you
 title: "Do the Work That's Harder for You (When Two Paths Are Available)"
 aliases: ["do the harder work", "the productive path is the less appealing one", "when two paths are available do the less natural one", "the diagnostic for which work to do", "if one option is appealing the other is the work", "the path of most resistance", "the unappealing option is usually the productive one", "the two-path coaching diagnostic", "do the one you're less likely to do", "if speaking up is easier then sitting with the emotion is the work", "if sitting with emotion is easier then speaking up is the work"]
 tags: ["principle", "growth", "coaching", "self-knowledge", "edge work", "transformation", "two-path diagnostic"]
-related: ["embrace-intensity", "embracing-intensity-as-leading-indicator", "approach-the-pink-elephant", "the-gold-lies-beyond-the-afraid", "say-the-thing-youre-not-saying", "feeling-the-unfelt-emotion", "stay-centered-while-holding-space", "being-with-anothers-emotion-is-being-with-your-own-pain", "am-i-falling-or-flying", "take-contrary-action"]
-sources: ["2022-10-26_Triggered!", "2024-05-03_What Changed After Master Class?"]
+related: ["embrace-intensity", "embracing-intensity-as-leading-indicator", "approach-the-pink-elephant", "the-gold-lies-beyond-the-afraid", "say-the-thing-youre-not-saying", "feeling-the-unfelt-emotion", "stay-centered-while-holding-space", "being-with-anothers-emotion-is-being-with-your-own-pain", "am-i-falling-or-flying", "take-contrary-action", "make-it-redundant-not-just-done", "what-is-the-productivity-for"]
+sources: ["2022-10-26_Triggered!", "2024-05-03_What Changed After Master Class?", "2025-01-17_Your Obsession With Productivity Is Killing Your Productivity"]
 ---
 
 # Do the Work That's Harder for You (When Two Paths Are Available)
@@ -27,6 +27,16 @@ The work the system resists is the work the system has not been doing. Doing it 
 A speaker who already says everything they think but cannot be present with another's emotion will become a louder, clearer speaker if they keep working on speaking. The relationship will not change. The relationship changes when the speaker develops the capacity to sit with what the other person is producing.
 
 A sitter who can hold space for anyone's pain but cannot say what they need will become a more saintly sitter if they keep working on sitting. The relationship will not change. The relationship changes when the sitter learns to say the thing.
+
+## Applied to a To-Do List: The Avoided Task Is the High-Leverage Task
+
+The same principle has a sharp productivity application. On any given to-do list, the task you are least likely to do is usually the one that, if done, would change the most:
+
+"There was a recognition that one of the most productive things I could do is do the most uncomfortable thing. That there was a moment of seeing that the thing I was most likely not going to do was the thing I didn't know how to do, and it was usually the most important thing to do if I was creating a business." -- Joe Hudson, Your Obsession With Productivity Is Killing Your Productivity
+
+The mechanism is the same as the relational version. The task you are avoiding is usually the one you do not know how to do. The not-knowing-how is what kept it undone. The willingness to do the thing you do not know how to do is what produces leverage that the comfortable tasks cannot. The comfortable tasks have already been done, repeatedly. They have produced what they can. The new movement comes from doing the avoided thing.
+
+For someone working through a to-do list with the [[make-it-redundant-not-just-done]] frame, the two principles combine: the high-leverage task (the one that would make other tasks redundant) is often the same task you have been avoiding (the one you do not know how to do). Both filters point at the same item. Pull on it and the list collapses. This is one of the most direct routes to actually moving things in a business or a personal project.
 
 ## The Two-Path Pattern Shows Up Everywhere
 
@@ -118,3 +128,4 @@ Joe delivers this as a quiet diagnostic, not as a confrontation. The point is no
 
 - 2022-10-26_Triggered!
 - 2024-05-03_What Changed After Master Class? (Eva's articulation of the same principle applied to course participation: "going against the grain of what your usual you is"; the diagnostic that the move you would not normally make is the work; Matthew's design suggestion that the question "how would you normally show up for this thing" could be made into an explicit up-front prompt for participants)
+- 2025-01-17_Your Obsession With Productivity Is Killing Your Productivity (the productivity-specific version: "the thing I was most likely not going to do was the thing I didn't know how to do, and it was usually the most important thing to do if I was creating a business"; the recognition that the most uncomfortable task is often the highest-leverage one)

@@ -124,6 +124,8 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - Toward [[improvement-vs-authenticity]]: the improvement project stops being necessary
 - Toward [[three-month-inherent-goodness-experiment]]: the daily practice for working with the I'm-bad foundation
 - Toward [[three-keepers-of-stuck-beliefs]]: the broader structure in which I'm-bad operates as one of three keepers preventing limiting-belief work from landing
+- Toward [[immune-to-shame-through-non-defense]]: the operational result of holding inherent goodness — shame attempts stop landing
+- Toward [[see-yourself-when-they-cant-see-you]]: the in-conflict application of inherent goodness as the internal seeing path to peace
 
 ## Sources
 
