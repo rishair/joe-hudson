@@ -2,9 +2,9 @@
 type: concern
 id: im-so-stressed-out
 title: "I'm so stressed out / I can't stop stressing / Why am I so stressed?"
-aliases: ["I'm stressed out", "I'm so stressed", "I can't stop stressing", "why am I so stressed", "I'm always stressed", "the stress concern", "stress as presenting concern", "I have so much stress", "I'm constantly stressed", "I'm stressed about everything", "the stressed-out presenting concern", "I'm stressed and I don't know why", "I'm chronically stressed", "I'm stressed all the time", "I feel so stressed", "my stress is too much", "the stress is killing me", "I cannot handle this stress", "I keep stressing about everything", "how do I stop stressing", "how do I deal with my stress", "my whole life is stress", "I'm just so stressed", "I've tried everything for stress", "what can I do about my stress", "I want to figure out my stress", "I want help with my stress"]
+aliases: ["I'm stressed out", "I'm so stressed", "I can't stop stressing", "why am I so stressed", "I'm always stressed", "the stress concern", "stress as presenting concern", "I have so much stress", "I'm constantly stressed", "I'm stressed about everything", "the stressed-out presenting concern", "I'm stressed and I don't know why", "I'm chronically stressed", "I'm stressed all the time", "I feel so stressed", "my stress is too much", "the stress is killing me", "I cannot handle this stress", "I keep stressing about everything", "how do I stop stressing", "how do I deal with my stress", "my whole life is stress", "I'm just so stressed", "I've tried everything for stress", "what can I do about my stress", "I want to figure out my stress", "I want help with my stress", "I want to get rid of my stress", "I just want the stress to stop", "I want zero stress", "I want to push the button and have no stress", "the stress is going to break me", "this stress is destroying me", "the stress is making me act in ways I don't like", "the stress is making me snap at people"]
 tags: ["concerns", "stress", "presenting concern", "front door", "thought", "emotion", "nervous system", "identity"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It"]
 ---
 
 # I'm so stressed out / I can't stop stressing / Why am I so stressed?
@@ -78,6 +78,22 @@ The branching point. Two people can say the same thing — "I'm so stressed" —
 
 - If the person reports doing all the nervous-system practices and still being stressed: consider [[over-regulating-nervous-system-creates-stress]]. The practice may have become its own management.
 
+- If the person is naming a specific external cause ("it's the work," "it's the marriage," "it's the kids") and has been trying to address that cause without relief: the named cause may not be the actual cause. Run [[investigate-the-actual-source-of-stress]]. The actual cause is often sleep, an unfelt emotion, a cultural pressure, or a story being run about the stress — not the named cause.
+
+- If the person treats all stress as the same thing and as inherently bad: the work begins with the distinction between growth stress and corrosive stress. See [[stress-is-essential-for-life]] and [[shame-as-the-stress-quality-diagnostic]]. The body needs to feel the difference between the two before the work can proceed accurately. Often the somatic install via [[growth-stress-vs-corrosive-stress-memory-experiment]] is the entry point.
+
+- If the person is doing things they would be ashamed of and the stress is producing those behaviors: the diagnostic [[shame-as-the-stress-quality-diagnostic]] reads this as deteriorating stress. The work moves to investigating what is overloading the system.
+
+- If the person is comparing their stress capacity to others' ("they handle more than me and don't seem this stressed"): the work includes [[stress-tolerance-is-personal-and-built]]. There is no universal answer to "how much stress is okay." The diagnostic is the body's read, not the comparison.
+
+- If the person is in a workplace or culture that demands the appearance of stress as proof of commitment: investigate [[cultural-pressure-to-perform-stress]]. Some of the stress may be performance, not load.
+
+- If the person has one specific stressor at the top of the stack and is in cognitive narrowing about it ("how do I solve this thing"): the move is to convert the stressor into a field of [[wonder]]. The structured practice is [[fifteen-unknowns-then-how-what-questions]]. The mechanism is that wonder and stress cannot coexist in the same nervous system, so producing wonder about the stressor itself drops the stress while also producing better problem-solving than the cognitive-narrowing was producing.
+
+- If the person has been trying to "love their stress" and reports it is no longer working: read for [[dont-love-stress-to-make-it-go-away]]. The welcoming has slipped into management. The corrective is to return to wonder, dropping the agenda for the stress to change.
+
+- If the person is trying to "just love the stress" without having done any wonder or experiments first: read for [[dont-skip-wonder-and-jump-to-love-when-oppressed]]. The path is the staged arc in [[separation-wonder-reality-experiments-love]], not the bypass.
+
 ## Coaching Path
 
 The general arc when stress is the presenting concern:
@@ -89,12 +105,29 @@ The general arc when stress is the presenting concern:
 3. **Offer the layer-specific intervention.** Each cause has its own practices and principles:
    - Thought: [[stress-as-rejection-of-stress]], [[say-ouch-to-the-inner-critic]], [[inquiry-on-limiting-beliefs]]
    - Emotion: [[feeling-the-unfelt-emotion]], [[loving-the-emotion]], [[four-tactical-ways-to-feel-your-emotions]]
-   - Nervous system: [[notice-sensations-as-pleasure-experiment]], [[breath-to-exit-overwhelm]], [[pleasure-tells-system-its-safe]]
+   - Nervous system: [[notice-sensations-as-pleasure-experiment]], [[breath-to-exit-overwhelm]], [[pleasure-tells-system-its-safe]], [[hold-stress-tightly-vs-gently-experiment]]
    - Identity: [[who-am-i-right-now-experiment]], [[view-around-self-as-identity-diagnostic]]
 
 4. **Warn about the limit.** Cognitive reframe alone will not fix the stress if the body is also loaded. See [[pep-talk-cant-override-the-body]]. The work usually has to happen across multiple layers.
 
 5. **Trust the cascade.** Progress on one cause produces progress on others. Do not try to fix all four at once. Find the entry that is alive and work there. The other layers will follow.
+
+6. **If the named cause does not match the actual cause:** the layer-specific intervention will not work. Run [[investigate-the-actual-source-of-stress]] first. The person who is treating "the marriage" as the cause when the cause is actually sleep deprivation will not be helped by relational work. See [[sleep-not-the-marriage-story]] for the canonical example.
+
+7. **For a specific, current stressor: use the wonder reset.** If there is one identifiable thing producing the most stress right now, the move is to convert the stressor into a field of [[wonder]] via [[fifteen-unknowns-then-how-what-questions]]. This works because wonder and stress cannot coexist in the same nervous system. The practice is structured (15 things you do not know about the stressor, then a how/what question for each), which prevents the brain from racing back into problem-solving mode. Often appropriate as an in-session exercise or homework between sessions.
+
+8. **For the long arc with a chronic stress or a thing you have been at war with:** the work is [[separation-wonder-reality-experiments-love]]. Most chronic stress is a relationship problem with the stress, not a stress problem. The arc moves the relationship from oppression through wonder and experimentation to actual love. Skipping stages does not work — see the two backwaters: [[dont-love-stress-to-make-it-go-away]] and [[dont-skip-wonder-and-jump-to-love-when-oppressed]].
+
+## The Reframe Available Underneath
+
+The concern almost always assumes that the goal is to have less stress. The structural truth is that the goal is right relationship with the stress that is part of being alive. See [[stress-is-essential-for-life]]. The work is not to remove stress but to:
+
+- Distinguish growth stress from deteriorating stress. See [[shame-as-the-stress-quality-diagnostic]].
+- Hold stress gently rather than tightly. See [[hold-stress-tightly-vs-gently-experiment]] and [[tension-and-release-cycle]].
+- Investigate the actual source when the system is overloaded. See [[investigate-the-actual-source-of-stress]].
+- Address the root cause at the appropriate layer. See [[four-causes-of-stress]].
+
+The reframe is not always immediately available. Some people need to feel met in the desire for less stress first, before they can hear that the desire as stated is structurally incoherent. The coaching senses when the reframe can land and when it would feel dismissive.
 
 ## What This Concern Is Not
 
@@ -107,3 +140,5 @@ The distinctions matter because the coaching path differs slightly. But the four
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the canonical framing of stress as a multi-layered phenomenon requiring the four-causes-of-stress framework; the presenting concern as the entry point for the framework)
+- 2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained) (the additional reads about misattributed stress, the goal of right-relationship-with-stress rather than less-stress, the cultural-performance possibility, the personal-tolerance framing, and the shame diagnostic for distinguishing growth from deteriorating stress; the addition of the investigation move when the named cause is not the actual cause)
+- 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the wonder-as-stress-reset pathway; the 15-unknowns + how/what practice as an immediately usable move; the staged separation-wonder-reality-experiments-love arc for chronic stress; the two backwaters that get added as reads — welcoming-as-management and skip-wonder-to-love)

@@ -4,7 +4,7 @@ id: dont-compromise-find-both-needs-met
 title: "Don't Compromise -- Find a Way Both Needs Get Met"
 aliases: ["don't compromise in relationships", "no compromise principle", "find a way both needs are met", "compromise builds resentment", "compromise is neglect of self", "both needs met not compromise", "never sacrifice yourself for the relationship", "the no-compromise principle"]
 tags: ["relationships", "needs", "compromise", "resentment", "creativity", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # Don't Compromise -- Find a Way Both Needs Get Met
@@ -170,3 +170,4 @@ The added piece in this telling is the diagnostic value of friction: every place
 - 2022-10-26_Triggered!
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the carving image: "we just keep on carving away, we keep on saying, 'Yes, dear,' and then all of a sudden there's nothing left in the marriage"; the skeleton-in-the-marriage end-state; the diagnostic value of every place the both-needs-met solution doesn't yet exist; the pairing with the [[yes-dear-old-timers]] story; the principle delivered as the fourth key in the [[4-keys-to-save-your-relationship]] framework)
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the stay-at-home-dad fights as the identity-level example of the principle -- positional surface frame collapsing into "what's the thing under it we're trying to get?" with the actual want being co-parenting alignment, not the role itself; the late-stage destination state where the trade-off framing itself stops generating; the three operational elements named -- willingness to experiment, willingness to be wrong, non-defensiveness -- as what the both-needs-met work requires; the shift in framing from "I have to make a trade-off" to "how do we have a conversation that allows us to see each other and be of support to each other")
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)

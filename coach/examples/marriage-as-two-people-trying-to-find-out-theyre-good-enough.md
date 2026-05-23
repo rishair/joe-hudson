@@ -5,7 +5,7 @@ title: "Marriage as 'Two People Thinking They're Not Good Enough Coming Together
 aliases: ["marriage as two people thinking theyre not good enough", "the two people thinking theyre not good enough definition", "the marriage definition Joe likes", "two people coming together to find out theyre good enough", "the marriage-is-trying-to-find-out-theyre-good-enough definition", "the marriage as healing the not-enough definition", "Joe's preferred marriage definition", "the aphorism Joe uses for marriage", "the not-good-enough marriage frame", "the marriage as good-enough confirmation"]
 tags: ["marriage", "partnership", "definition", "self-worth", "trauma", "healing", "example"]
 related: ["complementary-trauma-surfaces", "there-is-no-the-one", "subconscious-partner-selection", "whatever-you-think-you-need-to-be-lovable-is-self-rejection", "trauma-mapping", "fear-of-losing-yourself-in-love", "love-misconceptions-inherited-from-childhood"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # Marriage as "Two People Thinking They're Not Good Enough Coming Together to Find Out That They Are"
@@ -109,3 +109,4 @@ The teaching cleanly supports the definition. The marriage's psychological work 
 
 - 2023-11-10_Finding a Romantic Partner
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (Joe and Tara's explicit naming of what was always underneath their fights -- "do you love me / are we safe / are we attached / who's in charge / wherever we had perfectly interlocking shame and feeling unseen"; the operational confirmation that the surface content of long-marriage fights is processing the underlying are-we-good-enough-to-be-loved/safe/attached inquiry that this definition predicts)
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)

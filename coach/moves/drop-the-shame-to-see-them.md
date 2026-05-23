@@ -5,7 +5,7 @@ title: "Drop Your Shame Before You Try to See Them (The Heart Comes Online After
 aliases: ["drop the shame to see them", "see yourself clearly first then them", "the shame must drop first move", "drop your shame as prerequisite for seeing", "the shame-drop unlock for the heart", "you can't see someone while in your own shame", "see yourself clearly enough to let go of the shame", "the shame is what's blocking your seeing", "address your shame before addressing them", "the heart comes online after shame drops", "drop the shame then speak from the heart", "the in-shame attack-or-self-beat-up trap", "you cannot speak from the heart while in shame", "the prerequisite move before any relational repair"]
 tags: ["move", "marriage", "fighting", "shame", "seeing", "heart", "self-relationship", "relational repair", "prerequisite move"]
 related: ["if-im-not-feeling-seen-im-also-not-seeing", "see-yourself-and-acknowledge-others", "capacity-to-love-other-is-capacity-to-love-self", "superiority-and-shame-erode-together", "shame-as-disconnection", "self-blame-abdicates-others-agency", "see-them-be-seen-find-alignment-instead-of-control", "say-of-course-i-just-want-to-be-seen-here", "shame-hot-potato"]
-sources: ["2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
+sources: ["2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # Drop Your Shame Before You Try to See Them
@@ -115,3 +115,4 @@ Direct, almost technical. Joe is delivering this as operational information rath
 ## Sources
 
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the explicit naming of the sequence: drop the shame, the heart comes online, speech from the heart becomes possible; the two failure modes of shame-as-attack-on-partner and shame-as-self-flagellation, both of which make the partner feel unseen; the example of the kind of speech that becomes available after the shame drops -- Tara's "there's nothing in me that wants you to feel like you've done anything wrong right now" -- as a statement that is impossible to make authentically while in shame; the structural framing that the drop is the prerequisite, not a parallel move, for any relational repair)
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)

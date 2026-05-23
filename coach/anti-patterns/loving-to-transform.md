@@ -5,7 +5,7 @@ title: "Don't love to transform"
 aliases: ["loving as strategy", "weaponized love", "instrumental love", "love as change tool", "loving in order to change", "tainted love"]
 tags: ["love", "anti-pattern", "improvement", "manipulation", "transformation"]
 related: ["love-as-deep-welcoming", "love-is-the-best-change-agent", "tools-to-change-not-love", "improvement-vs-authenticity", "view-as-technique"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It"]
 ---
 
 # Don't love to transform
@@ -82,6 +82,10 @@ Loving someone you want to change, while being honest with yourself that the wan
 
 "The love, if it gets tainted, it just stops working." -- Joe Hudson, Love over Defense
 
+"If you're loving something to go away, you're not fucking loving it anymore." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+The stress-specific version of this anti-pattern is treated in [[dont-love-stress-to-make-it-go-away]]. The general form (love-as-tool-for-change disables itself) is the same.
+
 ## When Someone Experiences This
 
 When someone reports that love practices that used to work no longer do.
@@ -107,8 +111,11 @@ When a person is asking "why isn't my love working anymore?" -- the answer is of
 - Toward [[tools-to-change-not-love]]: the parent anti-pattern.
 - Toward [[improvement-vs-authenticity]]: the underlying distinction.
 - Toward [[view-as-technique]]: the same pattern applied to VIEW.
+- Toward [[dont-love-stress-to-make-it-go-away]]: the stress-specific application.
+- Toward [[separation-wonder-reality-experiments-love]]: the larger arc in which this is the first backwater.
 
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)
+- 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the explicit stress-specific framing of this anti-pattern; the catch is "there's no wonder in it anymore"; the corrective is the return to wonder)

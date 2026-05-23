@@ -5,7 +5,7 @@ title: "The Four Causes of Stress (Thought, Emotion, Nervous System, Identity)"
 aliases: ["four causes of stress", "the four core issues underneath stress", "four levels of stress", "the stress framework", "thought emotion nervous system identity", "the four-layer stress map", "the four stress causes", "the four layers under stress", "underneath stress framework", "what's actually causing your stress", "four causes thought emotion nervous system identity", "Joe's four causes of stress", "the layered causes of stress", "the four causes framework for stress"]
 tags: ["stress", "framework", "thought", "emotion", "nervous system", "identity", "underneath", "diagnostic"]
 related: ["stress-as-rejection-of-stress", "pep-talk-cant-override-the-body", "tension-and-release-cycle", "pleasure-tells-system-its-safe", "identity", "overwhelm", "emotions-live-in-muscles", "limiting-belief", "negative-self-talk-stress-source", "polyvagal-nervous-system-framing", "every-identity-has-limits"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)"]
 ---
 
 # The Four Causes of Stress (Thought, Emotion, Nervous System, Identity)
@@ -110,6 +110,14 @@ The transcript pairs each cause with a live experiment the listener can do in th
 
 The experiments are how the framework is taught. Reading about the four causes intellectually is a thought-level intervention only. The experiments engage all four layers in real time.
 
+## The Investigation Move That Operates Across the Layers
+
+When stress is the presenting concern and the person has attributed it to a specific cause ("it's the work," "it's the marriage"), the framework supports a specific move: do not accept the named cause too quickly. Investigate which of the four causes is actually loaded, because the named cause is often not the actual cause.
+
+The canonical example: the marriage that was actually about sleep. See [[sleep-not-the-marriage-story]]. Joe and his wife had attributed constant fighting to the marriage; the actual cause was nervous-system depletion from a new baby. Sleep alone resolved what looked like a relational problem.
+
+The investigation move that runs across the layers is [[investigate-the-actual-source-of-stress]]. The framework provides the layers; the investigation move uses them. The combination is more useful than either alone.
+
 ## Why This Framework Works for Coaching
 
 When someone presents as stressed, "I'm so stressed out," the framework gives the coach four entry points instead of one. The work is to find which entry is alive for this person right now.
@@ -148,3 +156,4 @@ Direct, structured, slightly amused at the standard cultural treatment of stress
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the canonical introduction of the four-cause framework as the organizing structure for understanding stress; the cascade principle that progress on one cause produces falling-into-place on the others; the four paired listener experiments; the cross-layer mechanics of how the four interact)
+- 2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained) (the cross-layer investigation move; the sleep-not-the-marriage example as a cross-layer demonstration; the emotional-release-reveals-the-real-cause example showing how the emotion layer can produce what looks like a thought-layer overload; the cultural-pressure-to-perform-stress example showing how the identity layer can produce what looks like a load-based stress)

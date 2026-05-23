@@ -5,7 +5,7 @@ title: "Stress Comes Mostly From the Rejection of the Stress (Not the Stress Its
 aliases: ["stress as rejection of stress", "rejecting the stress creates more stress", "the meta-stress mechanism", "the stress-on-the-stress mechanism", "thinking stress is bad makes it worse", "the relationship to stress is the stress", "stress is mostly the rejection", "the rejection of stress is the stress", "the same activation different relationship", "basketball stress vs work stress", "the stress is the not-allowing-the-stress", "the second-arrow of stress", "Am I-thinking-about-my-stress-in-a-way-that-is-useful", "the woods stress story", "the I-shouldn't-be-stressed loop", "the what-is-wrong-with-me-that-I'm-stressed amplifier"]
 tags: ["stress", "principle", "rejection", "meta", "thought", "relationship-to-experience"]
 related: ["four-causes-of-stress", "pep-talk-cant-override-the-body", "dont-add-the-overwhelm-of-creating-the-overwhelm", "meaning-of-overwhelm-determines-direction", "questioning-the-positive-state", "loving-the-emotion", "should-as-threat"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)"]
 ---
 
 # Stress Comes Mostly From the Rejection of the Stress (Not the Stress Itself)
@@ -71,6 +71,14 @@ This is upstream of removing items from the calendar. The calendar might still n
 
 See [[four-causes-of-stress]] for the broader framework. This principle is the thought-level entry point of cause 1.
 
+## The Hidden-Rejection Failure Mode
+
+A specific way this principle gets subverted: a person learns that welcoming stress reduces stress, and starts welcoming the stress in order to reduce it. The agenda for reduction is itself the rejection. The welcome is no longer real.
+
+"If you're loving something to go away, you're not fucking loving it anymore." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+The unconditional welcome reduces stress. The conditional welcome does not. See [[dont-love-stress-to-make-it-go-away]] for the anti-pattern in full and [[separation-wonder-reality-experiments-love]] for the larger arc in which this is the first backwater.
+
 ## Tone
 
 Practical. The teaching is delivered without mysticism. The same activation can be enjoyed or suffered — that is a mechanical observation, not a spiritual one. The work is on the relationship, which is trainable.
@@ -90,7 +98,11 @@ Practical. The teaching is delivered without mysticism. The same activation can 
 - Toward [[dont-add-the-overwhelm-of-creating-the-overwhelm]]: the anti-pattern that emerges when this teaching lands wrong
 - Toward [[loving-the-emotion]]: the deeper move of receiving the stress with gentleness
 - Toward [[should-as-threat]]: the related mechanism where the "should not be stressed" is itself a stress-multiplier
+- Toward [[dont-love-stress-to-make-it-go-away]]: the predictable failure mode once the welcoming starts working
+- Toward [[separation-wonder-reality-experiments-love]]: the arc that delivers the lived version of the relationship-change this principle points to
+- Toward [[fifteen-unknowns-then-how-what-questions]]: the structured wonder practice that operationalizes the move out of rejection
 
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the woods-fasting story as the origin example; the basketball-vs-work-stress comparison; the explicit teaching that the same activation can be useful or suffering depending on the relationship)
+- 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the loving-to-make-it-go-away formulation of the hidden-rejection failure mode; the larger arc in which the welcoming-becomes-management is the first backwater)

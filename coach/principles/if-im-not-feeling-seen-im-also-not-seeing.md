@@ -5,7 +5,7 @@ title: "If I'm Not Feeling Seen, I'm Also Not Seeing (Tara's Reverse-Engineer Ha
 aliases: ["if I'm not feeling seen I'm also not seeing", "the bidirectional unseen-and-not-seeing principle", "Tara's seeing reverse-engineer hack", "the not-being-seen and not-seeing pair", "not feeling seen is not seeing", "the reverse engineering of seeing", "if I'm not seen I'm also blocking my own seeing", "the symmetric unseen pattern", "if you're not feeling seen ask what you're not seeing", "what am I not seeing here", "tell me about your experience as the seeing repair", "the not-being-seen as a sign of not-seeing", "the unseen-and-not-seeing reciprocity", "the seeing-asymmetry hack", "the I-need-to-see-them move when I want to be seen", "the partner curiosity move", "what am I missing question"]
 tags: ["principle", "seeing", "marriage", "relationships", "defense", "curiosity", "projection", "reverse-engineer", "self-awareness"]
 related: ["the-desire-to-be-seen", "in-the-story-im-not-being-seen", "triggers-reveal-your-own-beliefs", "see-yourself-and-acknowledge-others", "see-them-be-seen-find-alignment-instead-of-control", "drop-the-shame-to-see-them", "say-of-course-i-just-want-to-be-seen-here", "open-ended-non-judgmental-questions-when-triggered"]
-sources: ["2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
+sources: ["2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # If I'm Not Feeling Seen, I'm Also Not Seeing
@@ -99,3 +99,4 @@ The "I can find my way through that way" closing has the rhythm of someone who h
 ## Sources
 
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (Tara's naming of the bidirectional unseen-not-seeing pattern and the reverse-engineer hack she uses in her own marriage; the operational sequence of noticing the not-being-seen, asking what you're not seeing, opening the channel for the partner's interior, and watching the defenses drop; the structural reciprocity by which the seeing-of-them returns the seeing-of-you that was being held back; the offering of the move as a practical hack rather than as a principle, with the conversational tone that makes it transmissible)
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the principle's content is identical across the two airings)

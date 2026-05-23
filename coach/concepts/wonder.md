@@ -5,7 +5,7 @@ title: "Wonder"
 aliases: ["W in VIEW", "awe", "being in the question", "open curiosity", "follow your wonder"]
 tags: ["VIEW", "curiosity", "presence", "openness", "fear", "knowing", "learning"]
 related: ["view", "wonder-vs-curiosity", "how-what-questions", "wonder-as-strategy", "questioning-assumptions", "right-question-over-right-answer"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW", "2022-10-26_Wonder"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW", "2022-10-26_Wonder", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It"]
 ---
 
 # Wonder
@@ -24,11 +24,43 @@ The awe component is essential. Awe carries a recognition that what you are faci
 
 Wonder is the W in [[view]]. It dissolves fear. When someone stops and genuinely wonders, the fear response cannot coexist. Fear drives a specific chain: fear -> control -> resistance. When someone is scared, they push others into compliance, and others resist. "The drama of our life is our incapacity to love people as they are. And we are scared of something, and so we start trying to push them around." -- Joe Hudson, Introduction to VIEW (Connection Course). Wonder breaks this chain at the root.
 
-The lion visualization: you are running from a lion, hearing its paws, knowing it will catch you. Now ask: "I wonder how much it weighs?" The fear vanishes. The shift from flight to wonder interrupts the threat response entirely.
+The lion/tiger visualization: you are running from a tiger, hearing its paws, knowing it will catch you, about to feel it pounce. Now ask: "I wonder how much it weighs?" The fear vanishes. The shift from flight to wonder interrupts the threat response entirely.
 
 "If you actually stop and say, what am I curious about? What do I have actual deep wonder for? Then the fear that you have dissipates." -- Joe Hudson, Introduction to VIEW
 
+"It's a crazy thing that our brain has a really hard time holding fear and stress when we're in wonder, when we are in awe of life or anything." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
 Being with someone who is in genuine wonder about you, who does not need you to solve anything, produces a felt relaxation in the whole system.
+
+### Wonder Dissolves Defensiveness
+
+A specific application: when someone comes at you with an attack, wonder converts the moment from a fight into a question. "You're a complete asshole." From wonder, the answer is not defense — it is "Oh, how is that? How do you see that?" There is nothing to defend. The response begins with a question, which immediately makes the other person feel heard.
+
+The mechanism: defense and wonder are incompatible postures. Defense requires the position "I am being attacked and must protect." Wonder requires the position "this is information I do not yet have access to." The body cannot occupy both at once.
+
+"Somebody comes up to you and they say, 'You're a complete asshole.' And if you're in wonder, the answer is, 'Oh, how is that? How do you see that?' There's nothing to defend. You're actually starting with a question, which immediately makes the other person feel heard." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+The cascade is felt. The attacker, expecting defense, gets a question. The pressure drops in their system. Your own pressure drops because you are no longer in defense. The interaction that was going to be a fight becomes a collaboration. See [[ask-open-ended-non-judgmental-questions-when-triggered]] for the move-level treatment of this.
+
+### Defensiveness Is Itself Stressful
+
+A subtle but load-bearing point: defense itself is a stress. Being defensive is never relaxing. The defended posture requires constant muscular and attentional output. The act of dropping defense by entering wonder reduces the stress in your own system, independent of what happens with the other person.
+
+"Even being defensive is quite a stressful act. If you think about any time that you've been defensive, it's not like I was just relaxing while being defensive with somebody. It just never happens." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+So wonder takes pressure out of your system in two ways at once: it disables the fight-or-flight response to whatever is happening, and it disables the additional stress-cost of holding the defense itself. The effect is felt as a drop in stress that is larger than the situation would predict.
+
+### Wonder as Aperture for Stress Problem-Solving
+
+Under stress, the brain narrows. It runs the cached solutions: "I know I have these 6 things to do that everybody tells me to do in the marketing campaign, and I make my web page like this." The thinking is the inherited list, mechanically applied.
+
+Wonder opens the aperture. The same problems become: "I wonder what exercise would be the most enjoyable exercise." "What would be the exercise that I could do that I would want to do so bad that I would get up off of TikTok to go do it?" "How do I have a marketing campaign that makes me feel more connected to the people we're selling to?"
+
+The wonder-questions produce different solutions than the stress-questions. They are alive, specific, and personal in ways the inherited solutions cannot be.
+
+"Wonder is the thing that opens up the aperture to life, and it solves the problems that you think you need to resolve when you're under stress." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+For the structured pen-and-paper practice that operationalizes this on a specific stressor, see [[fifteen-unknowns-then-how-what-questions]].
 
 ### Being in the Question
 
@@ -103,6 +135,9 @@ People in their 40s and 50s begin to feel a pull toward staying inside familiar 
 - When [[impartiality]] is hard to reach, wonder can be the doorway in.
 - When someone identifies with being right. See [[questioning-assumptions]].
 - When depression or stuckness is present, wonder directed at the inner critic opens movement.
+- When someone is in defense — wonder converts the defensive posture into a question. See [[defense]].
+- When someone presents with [[im-so-stressed-out]] and the cognitive narrowing is part of the load.
+- When the [[separation-wonder-reality-experiments-love]] arc is at the wonder stage and needs the engine.
 
 ## Downstream (Where This Leads)
 
@@ -112,6 +147,9 @@ People in their 40s and 50s begin to feel a pull toward staying inside familiar 
 - Leads to asking [[right-question-over-right-answer]] rather than seeking the right answer.
 - "Follow your wonder like a trail" in conversation. Seek what you don't know. See [[find-what-you-dont-know]] for the practice.
 - Across difference (political, cultural, generational), wonder reopens the heart without requiring agreement.
+- For stress reduction on a specific stressor, see [[fifteen-unknowns-then-how-what-questions]].
+- As the engine of the long arc from resistance to love, see [[separation-wonder-reality-experiments-love]].
+- When in a triggered conversation, see [[ask-open-ended-non-judgmental-questions-when-triggered]].
 
 ## Questions Joe Asks
 
@@ -146,3 +184,4 @@ If wonder is producing paralysis or avoidance, something else is happening. Genu
 - 2020-11-04_Wonder -- Connection Course Series #2
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the tiger visualization as a more vivid retelling of the lion visualization; the "you're an asshole" -> "how is that" example of wonder dissolving defensiveness; the explicit statement that defense itself is stressful; the marketing-campaign and exercise examples of wonder-mode vs stress-mode problem solving; wonder as the aperture-opener for stress)

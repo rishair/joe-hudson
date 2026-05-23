@@ -4,7 +4,7 @@ id: romantic-relationships
 title: "Romantic Relationships as a Coaching Domain"
 aliases: ["romantic relationships", "coaching about relationships", "relationship coaching", "the relationship domain", "long-term partnership work", "marriage as coaching domain", "relationships work"]
 tags: ["relationships", "partnership", "marriage", "application", "domain"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # Romantic Relationships as a Coaching Domain
@@ -109,3 +109,4 @@ It is not relationship-specific. The methodology in this domain is the general m
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2023-06-09_Marriage, Love, and Death (Tara's coaching of Brett and Alexa through eggs-in-one-basket fear, finite-love preciousness, the safety-creation suppression pattern, intra-dependence vs. codependence, heart-opening-needs-boundaries; the pre-wedding coaching session as an example of the full methodology applied in one conversation)
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the long-arc account of Joe and Tara's marriage as a worked example of the full methodology applied across decades: the Sobonfu Somé building-up-the-mountain frame as the structural picture of long marriage; the periodic-life-change-as-cycle-trigger pattern; the love-causes-annihilation principle as the deep mechanism underneath the work; Tara's reverse-engineer practice for the "not feeling seen" moment; the marital confirmation of the all-disagreements-come-from-two-questions principle in the attachment form — "do you love me / are we safe / are you attached")

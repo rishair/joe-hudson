@@ -3,9 +3,9 @@ type: principle
 id: all-disagreements-come-from-two-questions
 title: "All Disagreements Come From Two Questions: Who's In Charge? and How Much Do You Love Me?"
 aliases: ["all disagreements come from two questions", "the two questions underneath every disagreement", "who's in charge and how much do you love me", "the two-questions principle", "the substrate of cultural misunderstanding", "two questions underneath all arguments", "all arguments come from two questions", "the base of all cultural misunderstanding", "people feeling unseen and people not knowing who's in charge", "the two operating questions of every disagreement"]
-tags: ["culture", "disagreement", "leadership", "teams", "conflict", "authority", "love", "feeling-seen", "principle"]
-related: ["structure-and-empowerment", "make-everyone-feel-seen-when-things-go-wrong", "leaders-wants-are-the-organizations-wants", "sublimated-wants-become-politics", "functional-team", "the-four-authority-positions", "authority-issues", "everybody-wants-the-same-kind-of-team"]
-sources: ["2025-01-03_The Secret to Thriving Company Culture"]
+tags: ["culture", "disagreement", "leadership", "teams", "conflict", "authority", "love", "feeling-seen", "marriage", "attachment", "principle"]
+related: ["structure-and-empowerment", "make-everyone-feel-seen-when-things-go-wrong", "leaders-wants-are-the-organizations-wants", "sublimated-wants-become-politics", "functional-team", "the-four-authority-positions", "authority-issues", "everybody-wants-the-same-kind-of-team", "every-fight-can-bring-you-closer", "marriage-as-two-people-trying-to-find-out-theyre-good-enough"]
+sources: ["2025-01-03_The Secret to Thriving Company Culture", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # All Disagreements Come From Two Questions
@@ -52,6 +52,32 @@ See [[invigorated-vs-depleted-as-functionality-measure]] for the diagnostic fram
 The principle generalizes beyond companies. The fight in the kitchen, the recurring argument with a teenager, the breakdown in a friendship -- almost all of it traces to the same two questions. Who's in charge of this decision? Do you actually love me? Once you see the substrate, the surface content of the argument matters less. The work is to address the underlying question rather than to win the surface debate.
 
 This is also why the same person who cannot create a great company culture often cannot create a great marriage. The substrate questions are the same. The leader who hasn't figured out how to answer them at home will struggle to answer them at work. See [[culture-outside-mirrors-culture-inside]].
+
+## The Marriage Confirmation (and the Attachment Variant of the Love Question)
+
+In the Modern Relationships interview Tara and Joe confirm the principle directly from inside their own marriage, naming what their fights were actually about across the years. The naming both confirms the two-question structure and slightly expands the second question to include its attachment-form:
+
+"Do you love me? Do you love me? Do you love me? Are we safe? Am I safe? Am I safe? Always. Like, can we attach? Am I attached? Am I attached? Are you attached? Are you attached?" -- Tara Howley, Can Marriage Make You a Better Person?
+
+"Who's in charge? Who's in charge? Those are the, those are the fights." -- Joe Hudson, Can Marriage Make You a Better Person?
+
+The marital articulation reveals that the "how much do you love me" question, in long-term partnership specifically, often presents in its attachment form: "are we safe?" / "am I safe?" / "are you attached?" / "am I attached?" The structural question is the same — the live energy is whether the bond holds, whether the other is reliably present, whether love is operating. The attachment phrasing is the form the question takes when the relationship is the primary attachment bond rather than a workplace relationship.
+
+For coaching purposes, this means the "how much do you love me" question in marriage should be read with an ear for any of these forms:
+- Do you love me?
+- Are we safe?
+- Are you here? Will you stay?
+- Am I attached? Are you attached?
+- Will you choose me again?
+- Am I being seen?
+
+All are surface variants of the same substrate question. The fight content will distract; the live energy is one of these.
+
+The "who's in charge" question also operates in marriage, often in domains that the partners did not realize they were contesting. Who is in charge of the kids' bedtime. Who is in charge of money. Who is in charge of the social calendar. Who is in charge of the emotional temperature of the house. These are not arbitrary fights about logistics; they are the same authority question that operates in companies, scaled down to the household.
+
+Joe also names what often lurks beneath: "Wherever we had both had shame that were perfectly interlocking and feeling unseen. That was a huge part of it." -- Joe Hudson, Can Marriage Make You a Better Person?
+
+The shame-and-feeling-unseen form is the lived texture of the "how much do you love me" question when the answer the body keeps getting is "not enough to dissolve the shame you walked in with." See [[marriage-as-two-people-trying-to-find-out-theyre-good-enough]] for the structural frame that makes this lived texture coherent.
 
 ## How to Use the Principle in Diagnosis
 
@@ -106,3 +132,4 @@ Joe delivers this principle with the conviction of someone who has tested it aga
 ## Sources
 
 - 2025-01-03_The Secret to Thriving Company Culture
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the marital confirmation of the principle from Joe and Tara's own marriage; the attachment-variant phrasings of the "how much do you love me" question — "are we safe?" / "am I safe?" / "are you attached?" / "am I attached?" — as the marital-form of the same substrate question; Joe's "who's in charge" naming as a question that also operates in marriage in domains the partners didn't realize they were contesting; the interlocking-shame-and-feeling-unseen as the lived texture the love-question takes when the answer the body keeps getting is "not enough to dissolve what you walked in with")

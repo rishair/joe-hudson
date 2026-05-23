@@ -4,7 +4,7 @@ id: mourn-the-breakup-fully
 title: "Mourn the Breakup Fully (The End Is the Most Productive Time)"
 aliases: ["grieve the breakup", "mourn the relationship", "the breakup as opportunity", "mourning a relationship", "the productive end", "the end of a relationship is the most productive time", "mourn the patterns that brought you here", "grieving the relationship fully", "fully feeling the heartbreak"]
 tags: ["relationships", "breakup", "grief", "mourning", "heartbreak", "transformation", "ending"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
 ---
 
 # Mourn the Breakup Fully (The End Is the Most Productive Time)
@@ -169,3 +169,4 @@ Quiet, almost reverent. Joe slows down when he tells the friend's Arizona story.
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the expanded catalog of what specifically needs to be grieved -- the relationship, then everything that got you into the relationship, then the patterns that caused misery, then the hopes and dreams, then the false future that dies; Tara's "same shit different shovel" naming of the cost of skipping the grief and the precise mechanism by which "grief changes us" produces a different choice on the other side; Joe's universal empirical claim that "everybody I know who doesn't grieve a relationship's ending repeats it" and the inverse)
+- 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)
