@@ -5,7 +5,7 @@ title: "Disconnection Precedes the Decline of a Company (Not the Other Way Aroun
 aliases: ["disconnection precedes decline", "disconnection comes before decline", "team disconnection precedes company decline", "the disconnection-causes-decline principle", "the unhappy team is the cause not the effect", "team unhappiness precedes the slow downturn", "disconnection is the leading indicator of company decline", "the slow-decline diagnostic", "what the declining team tells you", "the years-of-decline diagnostic", "team disconnection is the leading indicator", "the disconnection-not-decline-causes-disconnection principle", "team-disconnection-as-cause principle", "the unhappy-team-causes-decline claim", "if a company is sliding the team feels disconnected first"]
 tags: ["connection", "teams", "leadership", "diagnostics", "decline", "principle", "causation"]
 related: ["connection", "connection-as-life-bottom-line", "functional-team", "signs-of-a-dysfunctional-team", "team-as-soil", "invigorated-vs-depleted-as-functionality-measure", "momentum-allows-dysfunction-to-persist", "consciousness-is-the-product"]
-sources: ["2024-10-22_How Connection Helps You Succeed In Business"]
+sources: ["2024-10-22_How Connection Helps You Succeed In Business", "2025-11-07_A Company Culture That Moves At The Pace of AI"]
 ---
 
 # Disconnection Precedes the Decline of a Company
@@ -50,6 +50,18 @@ This is the structural reason that interventions aimed at the dashboard alone pr
 
 See the [[healthcare-ceo-turnaround]] story for the same principle in operation. The CEO did not fire half the company. She made connection the operating principle and the company 5x'd in two years. The recovery followed the restored connection.
 
+## The Retention-in-Hot-Markets Application
+
+A specific application of the inverse principle: in markets where talent retention is structurally difficult (AI labs offering massive compensation, AI startup founders constantly being recruited away), the companies that retain talent are usually the ones where the connection is high. Compensation alone does not produce retention. People stay because the relationships are good, the work is meaningful, and they feel they are becoming better versions of themselves through the work.
+
+Johannes' company at Ona is the live example: in a market where competitors are paying enormous sums to attract engineers, Ona retains great talent with comparatively little difficulty. The retention is not about compensation parity. It is about a culture where people experience deep relationships, ongoing growth, and authentic alignment with operating principles. The connection is the retention lever.
+
+"You're in a place where retaining great talent is really, really difficult in the space of AI. You don't seem to have almost any problem with it." -- Joe Hudson, A Company Culture That Moves At The Pace of AI
+
+The mechanism: people who experience the work as their life's work do not leave for slightly better compensation. The companies that produce that experience produce the structural retention advantage that no salary increase can match.
+
+See [[connection-as-life-bottom-line]] for the operating principle that produces this; see [[two-things-ceo-must-get-right]] for why the CEO investment in relationships is leverage rather than indulgence.
+
 ## What This Rules Out
 
 This principle rules out the standard story that "we just need a better strategy" or "we just need new leadership" as the path back from decline. Strategy and leadership matter, but they operate through the team. A team that has been in chronic disconnection will execute any strategy poorly. A team in connection will execute even a flawed strategy well enough to learn from it.
@@ -88,3 +100,4 @@ Direct, observational. Joe states this as a noticing across many companies, not 
 ## Sources
 
 - 2024-10-22_How Connection Helps You Succeed In Business
+- 2025-11-07_A Company Culture That Moves At The Pace of AI (the inverse principle applied to talent retention in hot markets: Ona retains great talent in the AI labor market where competitors are paying enormous sums; the mechanism is the connection-as-life's-work experience, not compensation parity)

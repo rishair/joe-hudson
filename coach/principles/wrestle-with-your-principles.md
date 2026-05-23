@@ -4,7 +4,7 @@ id: wrestle-with-your-principles
 title: "Wrestle With Your Principles (The Wrestling Matters More Than the Principles)"
 aliases: ["wrestle with your principles", "wrestling with principles", "iterate your principles", "the wrestling is the principle", "everything is an iteration applies to principles too", "principles need experimentation", "the principles must stay alive", "principles are not a one-time exercise", "the iterative principle work", "principles as ongoing inquiry", "wrestling is more important than the principle itself"]
 tags: ["principles", "iteration", "experimentation", "decisions", "ongoing-practice", "Steve Jobs"]
-related: ["principles-free-you", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "five-principles-of-the-path", "epiphany-becomes-rut", "process-over-result", "team-as-scientific-method"]
+related: ["principles-free-you", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "five-principles-of-the-path", "epiphany-becomes-rut", "process-over-result", "team-as-scientific-method", "we-not-me-iterated-to-connect-connect-connect", "open-the-drawer-as-shared-verb", "80-percent-of-decisions-are-automatic-via-principles", "rollout-principles-in-organization"]
 sources: ["2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
 ---
 
@@ -55,6 +55,18 @@ Joe lives by five principles that have been mostly stable for about five years. 
 5. **Loving accountability.** Hold accountability without shame. See [[five-principles-of-the-path]].
 
 Only the wonder principle has shifted in the last five years. Even with that level of stability, Joe describes himself as "constantly thinking about them." The stability is what stability looks like after years of wrestling, not absence of wrestling.
+
+## A Second Worked Example: Ona's "We, Not Me" Iteration
+
+Johannes Langgraf's company iterated a principle in real time, providing a worked example of what wrestling produces at the company level. The original principle was "We, Not Me," which pointed at collective orientation and explicitly framed ego as not particularly helpful. The team noticed a side effect: people were not showing up fully empowered. The principle had over-corrected the individual orientation that empowerment requires.
+
+The iteration retained the underlying intent (connection with each other) and added two directions the original had missed (connection with self, connection with customers). The new principle: "Connect, Connect, Connect."
+
+"What it also did was that people did not show up fully empowered. Because yes, it's also about yourself. It's not only about others. It's like about yourself. It's about having end-to-end ownership of things, right? Really, really, you know, driving those results and thinking also what you want as a person. So we changed that and iterated that to Connect, Connect, Connect, which keeps the, you know, connection part and both with our customers and similarly connecting with each other, but also, and we spoke about that previously, connecting with yourself." -- Johannes Langgraf, 6 Operating Principles
+
+The example illustrates several features of wrestling-with-principles at scale: side effects are the diagnostic; the replacement principle can be more compressive than the original; verb-form principles travel further than descriptive ones. See [[we-not-me-iterated-to-connect-connect-connect]] for the full treatment of this example and [[open-the-drawer-as-shared-verb]] for the related verb-form upgrade in the same company.
+
+The Ona iteration also illustrates the boomerang effect: a phrase that works at the company-of-the-coachee level can return into the coach's own teaching. Joe's company adopted "Open the Drawer" from watching Ona's team use the phrase in meetings; the original Joe-taught principle had been "Embrace Intensity." The principle iteration moves in both directions when the wrestling is happening at both ends.
 
 ## The Wonder Evolution as an Example of Wrestling
 
@@ -120,3 +132,4 @@ The wrestling is also not promiscuous principle-collecting. Adding a sixth, seve
 ## Sources
 
 - 2023-02-17_Wrestle With Your Principles -- Decisions Series #4
+- 2025-11-07_6 Operating Principles That Make 80% of Decisions Automatic (the Ona "We, Not Me" iteration to "Connect, Connect, Connect" as a worked example of company-level principle wrestling; the boomerang effect where Joe's own teaching updated from "Embrace Intensity" to "Open the Drawer" after watching the coachee's company use the phrase organically; the operational confirmation that wrestled-with principles produce 80% of decision automation; the training-the-dog metaphor for principle work as upfront-cost-then-back-end-savings)

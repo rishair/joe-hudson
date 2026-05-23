@@ -174,6 +174,18 @@ The rollout method matters. Top-down imposition produces wall decorations. Botto
 
 For an extended example of principles in operation at a major firm, see [[ray-dalio-transparency]].
 
+## The 80% Claim
+
+The operational return on well-built operating principles is measurable: roughly 80% of decisions in the leader's daily work get made automatically by the principles, and they get made well. The remaining 20% is the genuinely novel decision-making that requires the leader's full attention. The leader who has the principles installed has access to bandwidth that the principle-less leader does not.
+
+"If you have a good set of operating principles, 80% of your decisions get made almost automatically and they get made well, consistently. It's just an amazing efficiency." -- Joe Hudson, 6 Operating Principles That Make 80% of Decisions Automatic
+
+Johannes Langgraf's company illustrates the claim in practice: a company that navigated a 30% layoff, a full product architecture pivot, a company rename, and a repositioning around AI agents in 18 months without bottlenecking at the CEO. The principles were doing the heavy lifting on the recurring decisions; the CEO was making the genuinely novel decisions only.
+
+"A lot of your decisions get made based on your operating principles, meaning they're not really getting made by you. They're not really getting made by the CTO. It's we make our decisions based on these operating principles." -- Joe Hudson observing Johannes's company, 6 Operating Principles
+
+See [[80-percent-of-decisions-are-automatic-via-principles]] for the full treatment of this claim and the time-ROI calculation that justifies the upfront investment.
+
 ## Upstream (What Leads Here)
 
 - When someone is exhausted from re-deciding the same decisions
@@ -197,3 +209,4 @@ For an extended example of principles in operation at a major firm, see [[ray-da
 - 2024-03-15_Joy (the asymmetry between principles and joy: principles can get you closer to joy but cannot ensure it, while joy ensures principles; the mechanism by which most principles include a lean-in commitment that structurally produces the conditions for joy; the leaders-who-run-principled-businesses-are-happier-leaders observation)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical principles-vs-joy asymmetry teaching and lean-in-principle mechanism)
 - 2025-05-09_Why Your Goals Are Making You Miserable (the principles-goals-metrics stack with principles as the "how do you wanna drive" layer underneath goals and metrics; principles as what ensures alignment in goals across an organization; the structural relationship to [[principles-goals-metrics]] framework)
+- 2025-11-07_6 Operating Principles That Make 80% of Decisions Automatic (the 80% claim that well-built operating principles automate 80% of the leader's decisions and make them well; the Johannes Langgraf example of a company that navigated multiple massive transitions without CEO-bottlenecking because the principles were doing the deciding; the training-the-dog metaphor for the upfront-cost-then-back-end-savings ROI of principles; the observation that the decisions get made not by the CEO but by the operating principles themselves)

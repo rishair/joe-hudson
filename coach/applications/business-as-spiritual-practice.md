@@ -5,7 +5,7 @@ title: "Business as a Spiritual Practice"
 aliases: ["business as spiritual practice", "business as a spiritual path", "business as practice", "spiritual practice through business", "skillful means business", "the dichotomy of business and spirituality", "is business a spiritual practice", "can business be spiritual", "business as self-discovery", "company as practice", "running a business as the work", "the work of running things", "applying the work to business", "business as a developmental tool", "business as the practice", "business as the path"]
 tags: ["business", "spiritual practice", "application", "leadership", "self-development", "skillful means", "alignment"]
 related: ["authenticity-in-business", "consciousness-is-the-product", "parenting-as-real-world-test-of-inner-work", "embrace-intensity", "connection-as-life-bottom-line", "empowered-vs-power", "art-of-accomplishment", "material-problems-are-emotional-problems", "money-relationship-is-an-energetic-exchange", "improvement-vs-authenticity", "approach-the-pink-elephant", "money-domain"]
-sources: ["2023-08-18_Business as a Spiritual Practice"]
+sources: ["2023-08-18_Business as a Spiritual Practice", "2025-11-07_A Company Culture That Moves At The Pace of AI"]
 ---
 
 # Business as a Spiritual Practice
@@ -190,3 +190,4 @@ Practical. Confident. Joe speaks about this with the certainty of someone who ha
 ## Sources
 
 - 2023-08-18_Business as a Spiritual Practice
+- 2025-11-07_A Company Culture That Moves At The Pace of AI (the principle in action in a live case study at Ona: 2.5-3 years of work with Johannes Langgraf producing the AI-pivot, the company rename, the architectural change, the 30% layoff, all navigated through the embrace-intensity/connection/alignment frame; the company-as-fastest-self-development extension of the principle for founders specifically; the Open-the-Drawer operating principle as the company-vocabulary form of embrace-intensity)

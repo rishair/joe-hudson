@@ -4,7 +4,7 @@ id: purpose-is-how-not-what
 title: "Purpose Is How You Do It, Not What You Do (Purpose Is the Quality of the Action, Not the Content)"
 aliases: ["purpose is how not what", "purpose is how you do it not what you do", "purpose is the quality not the content", "purpose as how vs purpose as what", "the how-vs-what of purpose", "purpose is the quality of doing", "the quality of action is the purpose", "purpose lives in the how", "not what you're doing how you're doing it", "purpose as the manner not the matter", "purpose is in the doing not the done", "purpose lives in how", "purpose as emergent property of how", "purpose is found in how I am", "how I'm being is the purpose", "purpose is in the doing", "the same thing can be purpose or not depending on how", "BASE jumping or business can both be purpose", "purpose is the thread through all your activities", "purpose as the through-line of how you move", "you can be in your purpose at the gas station", "purpose is not the job it's the way", "no purpose is found in some career or some job"]
 tags: ["purpose", "distinction", "calling", "quality of action", "how-not-what"]
-sources: ["2024-12-20_The Myth Of Finding Your Purpose", "2024-12-20_How To Find Your Purpose", "2024-12-24_What Do I Offer The World？"]
+sources: ["2024-12-20_The Myth Of Finding Your Purpose", "2024-12-20_How To Find Your Purpose", "2024-12-24_What Do I Offer The World？", "2025-11-04_You Won't Find Your Purpose By Searching For It"]
 ---
 
 # Purpose Is How You Do It, Not What You Do
@@ -22,6 +22,10 @@ This distinction collapses the years-long search for the right thing. The right 
 ## Two People, Same Activity
 
 Two people can do the same job. One is in their purpose; the other is not. The difference is not the job. The difference is what the person is bringing to the job — the felt orientation, the aliveness, the willingness to be stretched, the willingness to be cracked open, the doing-it-for-themselves rather than for approval.
+
+The sharpest formulation collapses the activity-axis entirely: "No matter what I'm doing, whether I'm picking up trash for a living or whether I'm the President of the United States, how I do it is more of an expression of my purpose than what I'm doing." -- guest, You Won't Find Your Purpose By Searching For It
+
+The trash-collector and the president bracket the whole range of social status, income, prestige, and influence. The claim is that the activity-axis does not capture purpose at any point along it. The president can be out of their purpose. The trash collector can be in theirs. The how-quality is the unit of measurement; the activity is the medium through which the how is expressed.
 
 Two activities, same person. Brett describes BASE jumping, business, traveling, meeting people across cultures — and finds the through-line is exploration. The content varies; the how is constant. The purpose lives in the how-of-exploring, not in any one of those activities.
 
@@ -130,3 +134,4 @@ Slightly amused, slightly relieved. The distinction is delivered as a structural
 
 - 2024-12-20_The Myth Of Finding Your Purpose (the canonical statement "it's really not about what you're doing either, which is really interesting. It's really about how you're doing it"; the through-line of Joe's varied career being interest in human nature; Brett's reframe "how do I explore purposefully?"; the test "this whole company could collapse and I would still be living my purpose")
 - 2024-12-24_What Do I Offer The World? (the parallel application to gifts via the "I help people die better" story — the world-famous coach giving the answer that converted a stranger into a client because he was coming from his space, illustrating that gifts are the felt-quality of nature, not the content of skill; Joe's framing "what you're calling the gift, I would just call his nature")
+- 2025-11-04_You Won't Find Your Purpose By Searching For It (the sharpest social-status formulation of the distinction — picking up trash for a living vs. President of the United States, how is more an expression of purpose than what; Joe's closing experiment that operationalizes the distinction — see [[visualize-being-in-purpose-now]] for the practice — visualizing being in purpose during an ordinary activity and during a big-deal moment, both demonstrating that the in-purpose quality is available regardless of the activity's social weight)

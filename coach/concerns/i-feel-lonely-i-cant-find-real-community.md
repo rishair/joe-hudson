@@ -108,6 +108,8 @@ This concern is also not the [[i-have-to-do-it-all-myself]] hyper-independence p
 
 This concern is also not [[solitude]]. Solitude is chosen or non-resisted aloneness without shame, which the research associates with creativity, resilience, and self-esteem. The loneliness concern is specifically the shame-based form. See [[loneliness-vs-solitude]]. Beware the inversion: a person presenting "I prefer being alone" may be using solitude as cover for the actual loneliness underneath. See [[dont-claim-solitude-to-avoid-shame]].
 
+This concern is also adjacent to but distinct from [[i-dont-belong-here]]. The loneliness concern is about the painful absence of being met. The not-belonging concern is about a trained outsider-identity that follows the person across all environments and is actively produced by one of [[three-strategies-of-not-belonging]]. The two can co-present: many people who report loneliness are also running the not-belonging pattern underneath, and many people who report not-belonging are also lonely. The clarifying question is whether the felt-state is "I am not being met by the people around me" (loneliness) or "I am not the kind of person who belongs anywhere" (not-belonging). The first is a concern about contact; the second is a concern about identity. The work overlaps but the entry-point differs.
+
 ## Anti-Patterns to Watch For
 
 - [[dont-chase-a-mate-to-escape-loneliness]]: trying to fix loneliness by acquiring a partner. The contortion required to be acceptable to the imagined partner is the same contortion the loneliness is built on. The fix doesn't fix.

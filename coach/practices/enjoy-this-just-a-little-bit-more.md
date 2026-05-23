@@ -2,10 +2,10 @@
 type: practice
 id: enjoy-this-just-a-little-bit-more
 title: "Enjoy This Just a Little Bit More (The Micro-Shift Practice)"
-aliases: ["enjoy this a little bit more", "the just-a-little-bit-more practice", "enjoy the moment a little bit more", "the micro-enjoyment shift", "the inward-shift practice", "the small enjoyment turn", "stop and enjoy this a little more", "the tiny enjoyment increment", "the nothing-has-to-change practice", "the small inward shift", "the take-a-breath-pay-attention enjoyment move", "the micro-practice for enjoyment", "enjoy this moment 10 percent more", "how do you enjoy this moment 10 percent more", "the 10 percent more variant", "the percentage version of the practice"]
+aliases: ["enjoy this a little bit more", "the just-a-little-bit-more practice", "enjoy the moment a little bit more", "the micro-enjoyment shift", "the inward-shift practice", "the small enjoyment turn", "stop and enjoy this a little more", "the tiny enjoyment increment", "the nothing-has-to-change practice", "the small inward shift", "the take-a-breath-pay-attention enjoyment move", "the micro-practice for enjoyment", "enjoy this moment 10 percent more", "how do you enjoy this moment 10 percent more", "the 10 percent more variant", "the percentage version of the practice", "enjoy this moment 5 percent more", "the 5 percent more variant", "just enjoy yourself 5 percent more right now", "the smaller-than-10-percent variant"]
 tags: ["practice", "enjoyment", "presence", "micro-shift", "body", "now"]
-related: ["enjoyment-as-path", "apply-enjoy-to-whats-here", "enjoy-your-breath-for-five-minutes", "how-would-you-enjoy-x", "how-is-that-not-here-right-now", "i-keep-postponing-enjoyment", "efficiency-as-enjoyment"]
-sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
+related: ["enjoyment-as-path", "apply-enjoy-to-whats-here", "enjoy-your-breath-for-five-minutes", "how-would-you-enjoy-x", "how-is-that-not-here-right-now", "i-keep-postponing-enjoyment", "efficiency-as-enjoyment", "if-you-really-understood-it-it-wouldve-changed", "offer-yourself-as-the-bad-boss-they-installed"]
+sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-10-30_My body won't let me build what my brain knows I can (Coaching with Joe Hudson)"]
 ---
 
 # Enjoy This Just a Little Bit More
@@ -64,6 +64,32 @@ Two things happened in this brief exchange. First, the question pulled the man o
 Then Joe made the move transferable: "that's how you enjoy your work more too." The same micro-practice that just shifted the man's state in the coaching room is the practice he was being asked to take to his desk. The percentage form is portable. The man can ask himself the same question while building his website.
 
 The "10%" choice of number matters. 50% would invite the trying mechanism. 1% would feel trivial. 10% is small enough to be reachable, large enough to be detectable. Calibrate to the person; sometimes 5% or 20% fits better. The principle is the same: a small specific increment, not a transformation.
+
+## The 5% Variant (When the Client Has Just Lamented They Already Know This)
+
+A specific calibration that arises in a particular coaching moment: the client expresses frustration that they have studied the teaching, recognize the pattern, and still cannot embody it. In Joe's 2025-10-30 session, the client had a déjà vu — he realized he had watched Joe do this exact session online with another client and still had not changed his own behavior. Joe's response used the smaller 5% calibration:
+
+> "Yeah, so, so, right. So that I think there is a part you didn't learn, which is how do you enjoy yourself more right now? Just, I want you to enjoy yourself just 5% more right now. I don't want you to change anything you're doing. Just enjoy yourself 5% more right now."
+>
+> "Yeah, I can do that. Yeah."
+>
+> "So how hard was that?"
+>
+> "That was very easy. Yeah."
+>
+> "So that's how easy it is."
+
+Two structural moves are stacked in this brief exchange. First, Joe drops to 5% from his more common 10% — the smaller number is deliberately easier to reach. The client has been demoralized by the gap between knowing and doing; a 10% target risks being met with "I should be able to do that and clearly I can't." The 5% target removes that defense by being trivially small.
+
+Second, Joe completes the move with the meta-question: "So how hard was that?" The answer ("very easy") is the demonstration the client needed. The part they didn't learn from the prior video is precisely what they just did — enjoyed themselves a tiny bit more right now. The doing is the teaching. The teaching cannot be acquired by re-watching; it can only be acquired by doing the small thing in the present moment.
+
+Joe's compression: "So that's how easy it is." The whole frustration around "I've watched this teaching and nothing changed" collapses in five words. The doing was always available. The watching was the substitute for the doing. See [[if-you-really-understood-it-it-wouldve-changed]] — the variant of that principle this exchange operationalizes: the part that hasn't changed is the part that has only been thought about, not done. The 5% practice is the smallest possible unit of doing.
+
+The 5% calibration is the right one when:
+- The client has explicitly named that they have studied or watched this teaching before
+- The client is in the demoralized state of "I should already know how to do this"
+- The 10% version risks landing as another standard the client cannot meet
+- The session is closing and the move is being installed as a portable practice
 
 ## When to Use It
 
@@ -130,3 +156,4 @@ Light, almost casual. The practice loses its character when delivered with weigh
 
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the three ways to enjoy your work more; the just-a-little-bit-more instruction; the nothing-has-to-change-outwardly framing; examples of inward shifts: breath, slowing, body attention, alternative rhythms; the email-pounding vs. email-slowing example showing the shift is idiosyncratic)
 - 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the "10% more" percentage variant of the practice; in-session use as a state-shifter while the person is mid-intellectualization; the explicit transfer move "that's how you enjoy your work more too" linking the in-session demonstration to the take-home practice)
+- 2025-10-30_My body won't let me build what my brain knows I can (Coaching with Joe Hudson) (the 5% variant calibrated for the demoralized "I've watched this teaching and nothing changed" client; the "I want you to enjoy yourself just 5% more right now, I don't want you to change anything you're doing" delivery; the meta-question close "so how hard was that?" with the client's "very easy" as the demonstration; Joe's compression "so that's how easy it is" landing the answer to the déjà vu of having studied the teaching without changing — the doing is the teaching, and the doing is trivially available in any present moment)

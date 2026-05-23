@@ -4,8 +4,8 @@ id: conflict-as-evolutionary-tension
 title: "Conflict as the Natural Tension of Evolution"
 aliases: ["conflict is evolutionary tension", "conflict is the grist for the evolutionary mill", "leaning in speeds evolution", "tension as the room for growth", "the natural tension of evolution", "conflict creates better solutions", "the friction is the path", "noticing the tension that's there", "factory friction principle", "conflict is the exact place to lean in"]
 tags: ["conflict", "evolution", "growth", "tension", "relationships", "teams"]
-related: ["loving-conflict-vs-wanting-conflict", "conflict-avoidance-prevents-healing", "trust-requires-conflict", "friction-is-required-for-life", "tension-return-to-love-cycle", "dont-compromise-find-both-needs-met", "anger-as-containment-for-the-conflict-seeker", "black-swan-small-collapses-prevent-big-ones", "how-you-fight-not-how-often"]
-sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
+related: ["loving-conflict-vs-wanting-conflict", "conflict-avoidance-prevents-healing", "trust-requires-conflict", "friction-is-required-for-life", "tension-return-to-love-cycle", "dont-compromise-find-both-needs-met", "anger-as-containment-for-the-conflict-seeker", "black-swan-small-collapses-prevent-big-ones", "how-you-fight-not-how-often", "run-toward-friction", "alignment-beats-effort", "open-the-drawer-as-shared-verb", "toxic-niceness"]
+sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2025-11-07_A Company Culture That Moves At The Pace of AI"]
 ---
 
 # Conflict as the Natural Tension of Evolution
@@ -70,6 +70,14 @@ Several signatures tell you that the leaning-in is not evolutionary but defensiv
 
 The diagnostic is felt as much as thought. When you are in this orientation, the room has the quality of mutual exploration. When you are in the other orientation, the room has the quality of opposition.
 
+## The Organizational Move: Run Toward the Friction
+
+At the team and company scale, the concept becomes a specific operating move: run toward the friction. The same friction that the factory operator hunts for, the leadership team learns to run at as soon as it appears. The move is the company-level instantiation of "lean in" as the principle.
+
+"There is tension, let's run towards that tension. Throughout the whole organization. And that tension can be in interpersonal relationships within the company, the tension can be with the product architecture, the tension can also be in relationships with a customer. But whenever we feel that friction, we kind of immediately run towards that." -- Johannes Langgraf, A Company Culture That Moves At The Pace of AI
+
+See [[run-toward-friction]] for the full treatment of the organizational application. The companies that internalize this develop what Johannes calls "deep resilience in our culture" -- the capacity to navigate massive change (an architecture pivot, a 30% layoff, a company rename) without rupturing. The resilience is the cumulative product of many small friction-run-ats. Each successful one trains the team to trust the next one.
+
 ## In Teams and Companies
 
 The same principle scales to organizations. A tech department disagreeing with customer service is not a problem to be solved by silencing one side. It is information that there is a solution available that meets both teams' real concerns.
@@ -109,3 +117,4 @@ Spacious and matter-of-fact. Joe presents this not as moral exhortation but as o
 
 - 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement
 - 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement
+- 2025-11-07_A Company Culture That Moves At The Pace of AI (the organizational application of the principle at Ona; the explicit "run toward the friction" framing as the move that produces alignment and resilience; the data-points argument that avoidance limits the data pool needed for optimal decisions)

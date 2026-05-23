@@ -5,7 +5,7 @@ title: "The Leader's Calm Becomes the Team's Calm (And the Leader's Panic Become
 aliases: ["leader's calm sets the culture", "leader's steadiness in crisis", "calmness as leadership multiplier", "the leader's nervous system is the team's nervous system", "you set how the team reacts", "calm propagates through the team", "panic propagates through the team", "leadership steadiness", "how the leader meets crisis sets the team's response", "the steadiness multiplier", "crisis calmness as leadership skill"]
 tags: ["leadership", "calmness", "crisis", "anxiety", "culture", "teams", "nervous system", "modeling"]
 related: ["overwhelm-reduces-productivity", "decisions-are-emotional", "dont-reflect-your-patterns-as-culture", "leaders-wants-are-the-organizations-wants", "public-failure-as-leadership-modeling", "welcoming-fear-in-leadership", "what-we-fear-we-invite", "reducing-overwhelm-in-organizations", "consciousness-is-the-product", "anger-as-containment-for-the-conflict-seeker"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2025-11-07_A Company Culture That Moves At The Pace of AI"]
 ---
 
 # The Leader's Calm Becomes the Team's Calm (And the Leader's Panic Becomes the Team's Panic)
@@ -88,6 +88,18 @@ This is not the absence of anger or strong response. There are situations that c
 
 This is not stoicism as identity. The leader is not building an "I am the calm one" identity to wear in front of the team. That is performance. The teaching here is about actual nervous system steadiness as a side effect of internal work, which then propagates because nervous systems propagate. The identity work is separate; the principle here is about the propagation.
 
+## The Overwhelm-Cascade Version
+
+The principle has an overwhelm-specific form that operates the same way. When the leader is overwhelmed, the team is overwhelmed. The leader's overwhelm transmits down through layers of leadership and through them to the team. The transmission is not symbolic. It is direct: the team picks up the leader's nervous-system state, and the cascading layers amplify rather than absorb it.
+
+"One thing I -- the thing I recognized is when I'm overwhelmed, the team is overwhelmed. So it always starts with leadership, and that applies similarly to my leadership team. So if they're overwhelmed, their team will be overwhelmed as well. And then also the team understands each individually that if they project the overwhelm towards their team, it impacts that team." -- Johannes Langgraf, A Company Culture That Moves At The Pace of AI
+
+The recognition is the diagnostic move. Once the leader sees that their overwhelm is propagating through the company, the overwhelm becomes a leadership responsibility rather than a personal problem to push through. The leader's own nervous-system regulation becomes part of the job.
+
+This is also the structural reason that the company's nervous system never gets to slow down enough to speed up. The leader who is in chronic overwhelm produces a leadership team in chronic overwhelm, which produces a workforce in chronic overwhelm. No layer ever gets to settle. The settling has to start at the top, where the cascade originates.
+
+The transparency tension this surfaces: if the leader is overwhelmed and the leader is being asked to be transparent, does transparency mean projecting overwhelm at the team? The answer is no. The transparency is about the situation, the data, the decisions. The overwhelm is processed somewhere else -- with a coach, with a peer council, with whatever practice gives the leader access to the regulation that the team will then read. The Council program at Ona is one such structure: a place where the leadership team can process the overwhelm together so it does not radiate downward unprocessed.
+
 ## When Someone Experiences This
 
 - The team's morale tracking the leader's mood day-by-day in ways the leader does not understand.
@@ -133,3 +145,4 @@ State this directly to a leader. The principle does not need softening. Most lea
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2025-11-07_A Company Culture That Moves At The Pace of AI (the cascading-overwhelm version of the principle from Johannes Langgraf at Ona: "when I'm overwhelmed, the team is overwhelmed"; the transparency tension this surfaces -- transparency is about the situation, not about projecting nervous-system state; the Council program as the structural alternative to projecting overwhelm downward)

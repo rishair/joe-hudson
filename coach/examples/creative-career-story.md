@@ -12,7 +12,9 @@ sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-10-26
 
 ## The Story
 
-Joe started in investment banking. He hated it. The texture was specific and recognizable: one person in charge, everyone working long hours, everybody unhappy because they were not getting enough sleep, everybody snappy and chasing the next thing, nobody feeling deeply empowered. He looked at the structure and concluded: this is misery, I want out.
+Joe started in international stock lending — 5 a.m. until 3 or 4 in the afternoon, yelling into phones, in a soundproof room they called "the cage." The texture was specific and recognizable: one person in charge, everyone working long hours, everybody unhappy because they were not getting enough sleep, everybody snappy and chasing the next thing, nobody feeling deeply empowered. He looked at the structure and concluded: this is misery, I want out. The body delivered its own verdict — he broke out in hives from the stress.
+
+The exit required preparation. He had been successful and had saved a lot. He figured out how to live on less money. The savings became the runway for the next chapter.
 
 What he wanted instead was to be an artist. He spent seven years chasing it — cajoling, figuring out, managing. He eventually landed an observing-director slot on a TV show, having produced his own short film, on track to direct an episode.
 
@@ -24,11 +26,21 @@ The seven years of chasing had delivered him to the structural duplicate of what
 
 "I had spent all these years of my life trying to manage this outcome, and I had finally achieved it, but I didn't have any idea that it wasn't the thing that I wanted." -- Joe Hudson, Enjoy over Manage
 
+A sharper version of the same recognition, told later: "It dawned on me, I am running away from the same thing that I was running to, and I had no idea that that's what was happening. And it was in the search for purpose that all this was occurring." -- Joe Hudson, You Won't Find Your Purpose By Searching For It
+
+The "no idea" is the operative phrase. The seven years of seeking did not produce visibility into what was being sought. The reaching toward an image of art-as-the-thing was simultaneously the reaching away from the structure of misery — and the image did not specify the structure, so the structure was inherited unchanged. The visibility arrived only at the moment of arrival, when the structure of the new chapter could be compared side-by-side to the structure of the old.
+
 ## The Shift
 
 The shift was a single move: stop chasing a mental model of what would make him happy. Say yes to whatever was presented. Say no to what he did not enjoy. Let the narrowing happen on its own.
 
 "Any opportunity that was put in front of me, I said yes. And I did metalworking, I did woodworking, I did this large-scale video art installation for this rich guy. I did all sorts of crazy things. And then I got so busy that I could only say yes to the things that were really exciting to me. And that's what I did. I just kept on saying yes to the things that were exciting and just narrowed down more and more and more." -- Joe Hudson, Finding Your Purpose is Hard Until You Understand This
+
+The narrowing logic is operationally specific. The filter is not "what I think I should do." The filter is "what intrigues me." The intrigue produces the yes. Enough yeses produce too-full. Too-full produces the inability to do everything. The inability forces the next filter: "the most enjoyable stuff." That filter does the next narrowing without anyone needing to plan it.
+
+"What I started doing was just saying yes to anything that intrigued me. I just was like, yep, I'm going to do that. Yes, I'm going to do that. Yes, I'm going to do that. And all of a sudden, my time was too full. I couldn't do everything that I was being asked to do. And so then I just did the most enjoyable stuff. And it went from whatever I was doing to making large-scale video art installations, to working for a big family office, to being a venture capitalist, to running a philanthropy, doing those two things at the same time." -- guest, You Won't Find Your Purpose By Searching For It
+
+The two filters operate in sequence — intrigue, then enjoyment. The first opens the field; the second tightens it. Either filter alone is insufficient. Intrigue without the enjoyment filter produces dispersion; enjoyment without the intrigue filter produces the safety-default. The combination produces specificity that no one could have plotted in advance.
 
 The narrowing was emergent, not planned. The yeses produced enough opportunity that the criterion for the next yes had to tighten. Enough yeses tightening enough times produced specificity that no upfront plan could have predicted.
 
@@ -92,3 +104,4 @@ Several principles are visible in this arc:
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4 (original telling, framed for enjoy-over-manage)
 - 2022-10-26_Enjoy Over Manage (parallel framing)
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the fullest version of the story; adds the explicit "running toward the thing I was running away from" framing for purpose specifically; adds the rich man's gift of asking Joe to find what would excite him; adds the climate-VC and kids-foundation chapter; adds the fifteen-years-later evolution into coaching; adds the retrospective-recognition that everything led here)
+- 2025-11-04_You Won't Find Your Purpose By Searching For It (the short-form retelling delivered by a guest as the lived experience this teaching came from; adds the operational details — international stock lending 5 a.m. to 3-4 p.m. in the soundproof "cage," hives from stress, figuring out how to live on less money to make the savings into runway; sharpens the "I had no idea that's what was happening" formulation of the running-toward-what-you-ran-from recognition; specifies the two-filter narrowing logic — yes to anything that intrigued me, then "the most enjoyable stuff" as the second filter when time got too full)

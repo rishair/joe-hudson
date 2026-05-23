@@ -4,8 +4,8 @@ id: embrace-intensity
 title: "Embrace Intensity"
 aliases: ["run toward intensity", "run into it", "intensity as path", "embrace the intensity"]
 tags: ["resistance", "transformation", "courage", "principle"]
-related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path", "embrace-vs-brace", "embracing-vs-creating-intensity", "are-you-bracing-or-embracing", "embracing-intensity-as-leading-indicator", "emotional-fluidity", "sensitivity-as-byproduct", "approach-the-pink-elephant", "electric-fence-with-dog", "decisions-are-emotional", "the-gold-lies-beyond-the-afraid", "business-as-spiritual-practice"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2023-08-18_Business as a Spiritual Practice"]
+related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path", "embrace-vs-brace", "embracing-vs-creating-intensity", "are-you-bracing-or-embracing", "embracing-intensity-as-leading-indicator", "emotional-fluidity", "sensitivity-as-byproduct", "approach-the-pink-elephant", "electric-fence-with-dog", "decisions-are-emotional", "the-gold-lies-beyond-the-afraid", "business-as-spiritual-practice", "open-the-drawer-as-shared-verb", "what-we-fear-we-invite"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-10-26_Embracing Intensity", "2022-10-26_Embarking On The Journey", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2023-08-18_Business as a Spiritual Practice", "2025-11-07_A Company Culture That Moves At The Pace of AI"]
 ---
 
 # Embrace Intensity
@@ -125,6 +125,18 @@ Several common business pathologies map directly onto unembraced intensity:
 
 Each of these is the practice asking to be done. The decision-making, the defensiveness, and the conflict patterns shift when the underlying intensity is approached rather than worked around. For the full treatment of business as a container for this principle, see [[business-as-spiritual-practice]].
 
+## The Evolution Into "Open the Drawer" as Company Phrase
+
+The principle, when installed in a company, often gets refined into a phrase the team can actually use in real time. In Johannes Langgraf's company (Ona, formerly Gitpod), "Embrace Intensity" became "Open the Drawer" -- a phrase derived from the kitchen-drawer metaphor Joe uses (see [[what-we-fear-we-invite]] for the original metaphor) and shortened into something an engineer can say in a Slack message or a meeting.
+
+The phrase travels because it is verb-shaped, image-based, and short enough to invoke in the moment a hard conversation needs to start. "Let me open the drawer with you on that" announces the difficult conversation and gives the listener permission to receive it. The bare "Embrace Intensity" framing does not have the same in-the-moment usability.
+
+The boomerang: Joe's own company adopted "Open the Drawer" as a principle after watching the phrase spread through Johannes's team. The shift from "Embrace Intensity" to "Open the Drawer" was a refinement of the verbal form, not the underlying principle.
+
+"I remember we switched our -- we had Embrace Intensity, we switched it to Open the Drawer. And one of the reasons we did it was because I was watching one of your meetings and someone's like, I got to open the drawer on that. And it was just -- it had become such a regular part of your culture for someone to say it, and everybody immediately knew what it was. Everybody could immediately prepare themselves to have the real conversation." -- Joe Hudson, 6 Operating Principles That Make 80% of Decisions Automatic
+
+See [[open-the-drawer-as-shared-verb]] for the full practice and the design pattern. The underlying principle does not change; the verbal form evolves to maximize the principle's usability inside a team.
+
 ## Three Integration Questions
 
 Joe offers three questions to take into one's life to embody this principle.
@@ -162,3 +174,5 @@ The second question is particularly useful because it produces direct experienti
 - 2022-10-26_Embracing Intensity (the 2022 re-recording of the same teaching with the cafe-with-daughter framing and the intensity-lives-in-feeling formulation)
 - 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)
 - 2023-08-18_Business as a Spiritual Practice (embrace intensity as the first of three prongs for using business as a spiritual practice; the business-specific diagnostic for what to embrace)
+- 2025-11-07_A Company Culture That Moves At The Pace of AI (the principle scaled to AI-pace company-building: intensity helps the team not overthink, the AOA-course pacing as the explicit training of fast emotional cycling, embrace-intensity expressed organizationally as the Ona principle "Open the Drawer"; see [[open-the-drawer-as-shared-verb]] for the verb-form and [[run-toward-friction]] for the organizational application)
+- 2025-11-07_6 Operating Principles That Make 80% of Decisions Automatic (the "Embrace Intensity" to "Open the Drawer" evolution as an example of how principles get refined into team-usable verbs; the boomerang where the coachee's company's phrase entered Joe's own principle set)
