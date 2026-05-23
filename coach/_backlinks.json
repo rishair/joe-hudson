@@ -3,6 +3,7 @@
     "am-i-being-emotionally-abusive",
     "new-age-fight",
     "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "disagreement-that-heals-vs-retraumatizes",
     "control-of-the-other-makes-fights-unproductive",
     "disdain-is-the-true-sign-of-a-dead-relationship",
@@ -136,6 +137,7 @@
     "apologize-for-trying-to-control",
     "draw-boundaries-with-kids-to-let-anger-arise",
     "empathize-with-fear-under-constricted-boundary",
+    "move-the-anger-then-draw-the-boundary",
     "reflect-back-to-make-partner-feel-heard",
     "say-no-to-find-the-want",
     "say-ouch",
@@ -144,6 +146,7 @@
     "letting-go-vs-doing-nothing",
     "losing-self-in-love-two-forms",
     "nice-vs-kind-from-open-heart",
+    "passive-aggressive-vs-aggressive-aggressive",
     "allowing-creates-resilience",
     "asking-dissolves-the-not-okay-to-want",
     "boundaries-expand-as-capacity-grows",
@@ -174,6 +177,7 @@
     "complementary-trauma-surfaces",
     "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse",
     "the-attack-and-cling-test-of-real-community",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "excavating-the-inner-critic-in-group",
     "name-im-in-my-trauma-as-couple-language",
     "repair-phrase-as-trauma-deactivator",
@@ -212,6 +216,7 @@
   "see-yourself-when-they-cant-see-you": [
     "am-i-being-emotionally-abusive",
     "walking-away-from-fight-feeling-bad",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "drop-the-hot-potato",
     "i-dont-need-to-be-seen-right-now",
     "immune-to-shame-through-non-defense",
@@ -525,6 +530,7 @@
     "development-as-corkscrew",
     "same-defense-shows-up-in-marriage-and-team",
     "the-attack-and-cling-test-of-real-community",
+    "venting-friend-pattern",
     "agree-with-the-depression-dont-talk-them-out",
     "have-partner-state-the-welcome-aloud",
     "name-the-authoritys-fear",
@@ -577,6 +583,7 @@
     "what-if-they-did-see-you",
     "projections",
     "pointers-to-unseen-parts",
+    "projecting-captor-onto-the-helper",
     "ask-the-witnesses",
     "go-down-one-level-to-find-projection",
     "question-the-caveat",
@@ -893,6 +900,7 @@
     "say-no-to-find-the-want",
     "visualize-the-reality-of-leadership",
     "fault-vs-responsibility",
+    "passive-aggressive-vs-aggressive-aggressive",
     "resources-vs-resourcefulness",
     "acting-as-if-already-true",
     "connection-as-life-bottom-line",
@@ -1357,6 +1365,7 @@
     "grief-as-gateway-to-self-love",
     "grief-as-identity-dismantling",
     "helplessness-distinguishes-death-grief",
+    "accepting-the-end-empowers-the-yes",
     "cant-chase-someone-into-loving-you",
     "death-is-not-the-end-of-the-relationship",
     "disdain-is-the-true-sign-of-a-dead-relationship",
@@ -1512,6 +1521,7 @@
   "i-cant-get-over-this-loss": [
     "how-do-i-stay-open-after-narcissistic-abuse",
     "i-feel-guilty-for-cutting-off-family",
+    "i-have-a-terminal-diagnosis",
     "someone-i-love-is-dying",
     "shame-blocks-connection-in-real-time",
     "give-me-the-sound-of-the-emotion",
@@ -1548,6 +1558,7 @@
     "i-dont-have-time-for-this",
     "i-feel-stuck",
     "i-freeze-around-authority",
+    "i-have-a-terminal-diagnosis",
     "i-have-to-sacrifice-to-succeed",
     "i-keep-running-into-the-same-wall",
     "im-afraid-of-stagnating",
@@ -1563,11 +1574,13 @@
     "boundaries",
     "trappedness-feeling",
     "limiting-belief-detection-signals",
+    "projecting-captor-onto-the-helper",
     "team-feels-oppressed-not-accountable",
     "feel-the-love-then-feel-obligation",
     "say-no-to-find-the-want",
     "turn-blame-into-wants",
     "i-get-to-vs-i-have-to",
+    "accepting-the-end-empowers-the-yes",
     "obligation-cuts-off-love",
     "victim-stance-invites-abuse",
     "visualizing-feared-outcomes",
@@ -2278,11 +2291,13 @@
     "should-i-stop-drinking",
     "hidden-rebellion-under-the-habit",
     "dont-ping-pong-on-responsibility",
+    "passive-aggression-toward-self",
     "should-as-threat",
     "trappedness-feeling",
     "voice-in-the-head",
     "find-the-want-behind-the-should",
     "name-the-authoritys-fear",
+    "passive-aggressive-vs-aggressive-aggressive",
     "experimenting-with-the-voice",
     "write-50-experiments-before-starting",
     "do-i-stop-drinking-session",
@@ -2656,12 +2671,16 @@
     "listening",
     "athletes-unlocking-body-intelligence-in-business",
     "disassociation-as-numbness-layer",
+    "highly-logical-more-inconsistent",
+    "intellectual-emotional-polarization-in-couples",
+    "venting-friend-pattern",
     "attention-is-feeling",
     "go-to-your-heart-not-your-brain",
     "not-sometimes-right-now",
     "scan-body-for-what-cant-be-loved",
     "use-domain-of-mastery-as-template-for-body-intelligence",
     "what-does-your-heart-say",
+    "being-with-vs-being-in",
     "embrace-intensity",
     "emotions-live-in-muscles",
     "exercises-need-body-voice-emotion",
@@ -2867,6 +2886,7 @@
     "i-cant-find-love",
     "i-dont-have-community",
     "i-feel-lonely-i-cant-find-real-community",
+    "i-have-a-terminal-diagnosis",
     "im-afraid-i-wont-get-anything-done",
     "im-exhausted-holding-space-for-my-partner",
     "the-more-i-grow-the-more-alone-i-feel",
@@ -3426,12 +3446,14 @@
   ],
   "grief-is-many-emotions-not-just-sadness": [
     "i-cant-get-over-this-loss",
+    "i-have-a-terminal-diagnosis",
     "someone-i-love-is-dying",
     "how-much-of-this-is-fear-of-feeling-the-hurt-you-already-have",
     "dont-shame-your-grief-process",
     "grief-as-identity-dismantling",
     "helplessness-distinguishes-death-grief",
     "the-natural-integration-arc-after-breakthrough",
+    "functional-denial-vs-dysfunctional-denial",
     "death-is-not-the-end-of-the-relationship",
     "exhaustion-is-unexpressed-anger",
     "without-grief-we-recreate-the-pattern",
@@ -3477,6 +3499,7 @@
     "i-cant-get-over-this-loss",
     "dont-try-to-make-yourself-cry",
     "shame-stagnates-emotion",
+    "move-the-anger-then-draw-the-boundary",
     "shame-is-anger-turned-inward"
   ],
   "embodied-stages-of-grief-ritual": [
@@ -3513,6 +3536,7 @@
     "caring-vs-caretaking",
     "catastrophizing-vs-visualizing",
     "safety-that-connects-vs-disconnects-from-reality",
+    "accepting-the-end-empowers-the-yes",
     "caretaking-prevents-the-bottom",
     "fear-is-about-feeling",
     "fear-is-misuse-of-imagination",
@@ -3602,12 +3626,15 @@
     "i-caretake-people",
     "i-keep-being-resentful",
     "we-have-built-up-resentment",
+    "move-the-anger-then-draw-the-boundary",
     "caring-vs-caretaking",
     "softening-as-caring-diagnostic",
     "dont-take-responsibility-for-anothers-happiness",
     "nobody-wants-to-have-sex-with-a-kid",
     "resentment-as-unspoken-want",
+    "resentment-saturates-other-fights",
     "esme-just-need-to-be-sad",
+    "joe-and-tara-the-fridge-resentment",
     "joes-daughter-resentment-with-her-grieving-friend"
   ],
   "what-is-truly-compassionate": [
@@ -3681,6 +3708,7 @@
     "have-partner-state-the-welcome-aloud",
     "name-the-authoritys-fear",
     "receive-the-apology-permeably",
+    "being-with-vs-being-in",
     "embodied-love-vs-vacuous-presence",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "empathy-makes-you-better-at-hard-jobs",
@@ -3945,6 +3973,7 @@
   ],
   "i-have-all-my-eggs-in-one-basket": [
     "i-dont-have-community",
+    "i-have-a-terminal-diagnosis",
     "someone-i-love-is-dying",
     "finite-love-is-precious-love",
     "creating-safety-suppresses-self",
@@ -4439,6 +4468,7 @@
     "boundaries",
     "power-dynamics-as-two-defenders",
     "binary-thinking-signals-fear",
+    "projecting-captor-onto-the-helper",
     "team-feels-oppressed-not-accountable",
     "acknowledge-the-fear-by-role",
     "deconstruct-the-victim-to-release-anger",
@@ -4556,6 +4586,7 @@
     "whats-the-for-part",
     "feel-the-love-then-feel-obligation",
     "i-get-to-vs-i-have-to",
+    "accepting-the-end-empowers-the-yes",
     "obligation-cuts-off-love",
     "pleasure-in-the-expression-prevents-attack"
   ],
@@ -4565,6 +4596,7 @@
     "obligation-as-management",
     "reframe-from-whether-to-how",
     "say-no-to-find-the-want",
+    "say-yes-to-the-experience-youre-already-having",
     "obligation-cuts-off-love",
     "potato-chipping-the-rigid-body-under-obligation"
   ],
@@ -4591,6 +4623,7 @@
     "nervous-system-codes-threats-as-real",
     "nobody-wants-to-have-sex-with-a-kid",
     "obligation-cuts-off-love",
+    "resentment-saturates-other-fights",
     "responsibility-stops-love",
     "say-the-thing-youre-not-saying",
     "weekly-tension-inventory",
@@ -4708,6 +4741,93 @@
     "nervous-system-codes-threats-as-real",
     "story-dissolution-is-progress",
     "trace-emotion-to-its-first-felt"
+  ],
+  "functional-denial-vs-dysfunctional-denial": [
+    "i-have-a-terminal-diagnosis",
+    "accepting-the-end-empowers-the-yes"
+  ],
+  "psychedelic-of-mortality": [
+    "i-have-a-terminal-diagnosis",
+    "someone-i-love-is-dying",
+    "acknowledging-death-compresses-life"
+  ],
+  "projecting-captor-onto-the-helper": [
+    "i-have-a-terminal-diagnosis",
+    "accepting-the-end-empowers-the-yes"
+  ],
+  "accepting-the-end-empowers-the-yes": [
+    "i-have-a-terminal-diagnosis",
+    "projecting-captor-onto-the-helper",
+    "say-yes-to-the-experience-youre-already-having",
+    "functional-denial-vs-dysfunctional-denial",
+    "grieve-the-marriage-to-save-it"
+  ],
+  "what-emerges-when-self-reliance-drops": [
+    "i-have-a-terminal-diagnosis",
+    "i-have-to-do-it-all-myself",
+    "self-reliance-pushes-people-away"
+  ],
+  "gratitude-as-acknowledgment-of-greater-force": [
+    "i-have-a-terminal-diagnosis",
+    "i-have-to-do-it-all-myself",
+    "gratitude-as-full-body-sport",
+    "psychedelic-of-mortality",
+    "what-emerges-when-self-reliance-drops",
+    "always-something-spectacular-happening",
+    "gratitude-as-healing-medicine",
+    "two-person-gratitude-practice",
+    "5-ways-to-stay-unhappy",
+    "base-jumping-broken-hand-gratitude"
+  ],
+  "ask-from-each-of-the-three-centers": [
+    "i-have-a-terminal-diagnosis",
+    "functional-denial-vs-dysfunctional-denial"
+  ],
+  "say-yes-to-the-experience-youre-already-having": [
+    "i-have-a-terminal-diagnosis"
+  ],
+  "grieve-the-marriage-to-save-it": [
+    "i-have-a-terminal-diagnosis",
+    "someone-i-love-is-dying",
+    "grief-as-identity-dismantling",
+    "accepting-the-end-empowers-the-yes",
+    "defending-the-ideal-blocks-the-relating",
+    "disdain-is-the-true-sign-of-a-dead-relationship",
+    "love-means-signing-up-to-be-hurt",
+    "nre-returns-in-grounded-form-after-each-healing",
+    "relationships-as-personal-growth-path",
+    "say-it-twice-then-relationship-moves-or-ends",
+    "take-care-of-yourself-then-marriage-then-kids",
+    "you-cant-chase-someone-into-loving-you",
+    "visualizing-feared-outcomes",
+    "three-things-to-save-a-marriage-from-disdain",
+    "bretts-brother-scott"
+  ],
+  "acknowledging-death-compresses-life": [
+    "i-have-a-terminal-diagnosis",
+    "someone-i-love-is-dying",
+    "every-moment-is-an-exit-point",
+    "psychedelic-of-mortality",
+    "the-abyss-is-where-you-dont-exist",
+    "functional-denial-vs-dysfunctional-denial",
+    "death-is-not-the-end-of-the-relationship",
+    "defending-the-ideal-blocks-the-relating",
+    "say-goodbye-like-its-the-last-time",
+    "bretts-brother-scott",
+    "case-the-consultant",
+    "joes-funeral-poem-for-kase"
+  ],
+  "being-with-without-needing-change-as-highest-generosity": [
+    "i-have-a-terminal-diagnosis",
+    "someone-i-love-is-dying",
+    "generosity",
+    "giving-from-desire-not-obligation",
+    "scott-and-his-wifes-redirected-generosity-request"
+  ],
+  "someone-i-love-is-dying": [
+    "i-have-a-terminal-diagnosis",
+    "psychedelic-of-mortality",
+    "ask-from-each-of-the-three-centers"
   ],
   "finite-love-is-precious-love": [
     "i-have-all-my-eggs-in-one-basket",
@@ -5084,8 +5204,10 @@
     "intellectual-emotional-polarization-in-couples",
     "negative-bias-of-trauma-imprinting",
     "scapegoat-as-marriage-stabilizer",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "apologize-for-not-seeing-the-help",
     "apply-the-childhood-pattern-to-the-present-problem",
+    "repair-phrase-as-trauma-deactivator",
     "what-was-really-more-important-than-you",
     "capital-t-vs-small-t-trauma",
     "body-lies-as-much-as-mind",
@@ -5136,6 +5258,7 @@
     "say-no-to-find-the-want",
     "stick-a-fucking-shit-in-front-of-the-should",
     "whats-wrong-with-the-thing-theyre-judging",
+    "accepting-the-end-empowers-the-yes",
     "cant-chase-someone-into-loving-you",
     "dont-take-responsibility-for-anothers-happiness",
     "never-rob-pain-or-gold",
@@ -5219,9 +5342,26 @@
     "dont-glorify-self-reliance",
     "self-reliance-pushes-people-away"
   ],
-  "what-emerges-when-self-reliance-drops": [
+  "if-you-couldnt-feel-this-whats-underneath": [
     "i-have-to-do-it-all-myself",
-    "self-reliance-pushes-people-away"
+    "what-do-you-lose-if-this-belief-goes-away",
+    "blocker-emotions",
+    "heartbreak-is-the-love-underneath-the-blockers",
+    "fuck-the-right-answer",
+    "keep-asking-whats-the-problem-with-that",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
+    "compassion-as-of-the-guts"
+  ],
+  "i-have-a-terminal-diagnosis": [
+    "i-have-to-do-it-all-myself",
+    "someone-i-love-is-dying",
+    "psychedelic-of-mortality",
+    "what-emerges-when-self-reliance-drops",
+    "projecting-captor-onto-the-helper",
+    "ask-from-each-of-the-three-centers",
+    "say-yes-to-the-experience-youre-already-having",
+    "functional-denial-vs-dysfunctional-denial",
+    "accepting-the-end-empowers-the-yes"
   ],
   "i-need-to-improve-myself": [
     "i-have-to-do-it-all-myself",
@@ -5369,6 +5509,18 @@
     "three-kinds-of-limiting-beliefs",
     "champion-swimmer-belief"
   ],
+  "resentment-saturates-other-fights": [
+    "i-keep-being-resentful",
+    "we-have-built-up-resentment",
+    "resentment-as-unspoken-want",
+    "joe-and-tara-the-fridge-resentment"
+  ],
+  "joe-and-tara-the-fridge-resentment": [
+    "i-keep-being-resentful",
+    "move-the-anger-then-draw-the-boundary",
+    "resentment-as-caretaking-diagnostic",
+    "resentment-as-unspoken-want"
+  ],
   "resentment-as-unspoken-want": [
     "i-keep-being-resentful",
     "i-need-to-set-boundaries",
@@ -5381,6 +5533,8 @@
     "asking-dissolves-the-not-okay-to-want",
     "dont-compromise-find-both-needs-met",
     "leaders-wants-are-the-organizations-wants",
+    "resentment-saturates-other-fights",
+    "joe-and-tara-the-fridge-resentment",
     "joes-daughter-resentment-with-her-grieving-friend"
   ],
   "anger": [
@@ -5411,6 +5565,7 @@
     "exhaustion-is-unexpressed-anger",
     "looking-for-a-fight-means-self-disconnection",
     "resentment-as-unspoken-want",
+    "resentment-saturates-other-fights",
     "fake-the-anger-to-let-it-move",
     "free-write-the-anger",
     "get-angry-in-the-car",
@@ -5479,6 +5634,7 @@
     "upright-undefended-love",
     "apologize-for-trying-to-control",
     "empathize-with-fear-under-constricted-boundary",
+    "move-the-anger-then-draw-the-boundary",
     "say-no-to-find-the-want",
     "see-yourself-when-they-cant-see-you",
     "stay-close-and-insist",
@@ -5966,6 +6122,7 @@
     "invert-the-responsibility-for-understanding",
     "say-the-same-sentence-five-ways",
     "speak-from-listening",
+    "being-with-vs-being-in",
     "listening-shapes-the-reality-that-comes-back",
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
@@ -6186,6 +6343,7 @@
     "most-disagreements-are-not-understanding-not-attack",
     "obligation-cuts-off-love",
     "resentment-as-unspoken-want",
+    "resentment-saturates-other-fights",
     "take-care-of-yourself-then-marriage-then-kids",
     "fight-agreements-made-outside-the-fight",
     "mirror-until-they-confirm",
@@ -6275,6 +6433,7 @@
     "walking-on-eggshells",
     "go-to-separate-rooms-and-yell",
     "invite-the-aggression-out",
+    "move-the-anger-then-draw-the-boundary",
     "turn-blame-into-wants",
     "apathy-vs-disdain-as-end-of-marriage",
     "disagreement-that-heals-vs-retraumatizes",
@@ -6387,6 +6546,7 @@
     "convert-thought-to-time-bounded-listening",
     "go-to-separate-rooms-and-yell",
     "invite-the-aggression-out",
+    "move-the-anger-then-draw-the-boundary",
     "name-your-trigger-as-vulnerability",
     "say-ouch",
     "turn-blame-into-wants",
@@ -6801,6 +6961,7 @@
     "complementary-trauma-surfaces",
     "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse",
     "walking-on-eggshells",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "go-down-one-level-to-find-projection",
     "name-im-in-my-trauma-as-couple-language",
     "reflect-back-to-make-partner-feel-heard",
@@ -6814,15 +6975,19 @@
   ],
   "capital-t-vs-small-t-trauma": [
     "i-lose-myself-in-the-fight",
+    "repair-phrase-as-trauma-deactivator",
     "the-fight-is-asking-you-to-feel-what-you-couldnt"
   ],
   "the-fight-is-asking-you-to-feel-what-you-couldnt": [
     "i-lose-myself-in-the-fight",
     "what-am-i-not-feeling-right-now",
     "intellectual-emotional-polarization-in-couples",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "name-im-in-my-trauma-as-couple-language",
+    "repair-phrase-as-trauma-deactivator",
     "capital-t-vs-small-t-trauma",
     "control-of-the-other-makes-fights-unproductive",
+    "repair-phrase-must-feel-clean-to-deliver",
     "hands-on-body-to-regulate-nervous-system",
     "joes-friend-yuma-grief-drives"
   ],
@@ -6830,7 +6995,8 @@
     "i-lose-myself-in-the-fight",
     "im-exhausted-holding-space-for-my-partner",
     "abandoning-self-while-speaking",
-    "listening"
+    "listening",
+    "venting-friend-pattern"
   ],
   "performing-growth": [
     "i-lose-myself-in-the-fight",
@@ -7272,7 +7438,8 @@
   "joes-dad-drinking-boundary": [
     "i-need-to-set-boundaries",
     "boundaries",
-    "boundaries-expand-as-capacity-grows"
+    "boundaries-expand-as-capacity-grows",
+    "joes-parents-criticism-boundary"
   ],
   "self-boundary-mirrors-external-boundary": [
     "i-need-to-set-boundaries",
@@ -8116,6 +8283,7 @@
     "soul-dysmorphia",
     "voice-in-the-head",
     "symptoms-of-depression",
+    "ask-from-each-of-the-three-centers",
     "symptoms-vs-root-causes-of-depression",
     "exhaustion-is-unexpressed-anger",
     "nervous-system-recovery-after-stress",
@@ -8239,6 +8407,7 @@
     "grief-is-many-emotions-not-just-sadness",
     "initial-anger-release-wave",
     "three-childhood-origins-of-anger-repression",
+    "move-the-anger-then-draw-the-boundary",
     "paradoxical-instruction-to-resist",
     "treat-yourself-as-actor-of-emotion",
     "observer-vs-immersion-by-anger-type",
@@ -8647,6 +8816,7 @@
     "helplessness-as-cayenne-pepper-of-fear",
     "overwhelm",
     "polyvagal-nervous-system-framing",
+    "ask-from-each-of-the-three-centers",
     "fear-vs-anxiety",
     "perceived-certainty-not-actual-certainty",
     "head-heart-gut"
@@ -9331,6 +9501,8 @@
     "someone-i-love-has-mental-health-issues",
     "view-as-technique",
     "empathy",
+    "venting-friend-pattern",
+    "being-with-vs-being-in",
     "caring-vs-caretaking",
     "empathy-vs-sympathy",
     "do-the-work-thats-harder-for-you",
@@ -9398,36 +9570,11 @@
   ],
   "bretts-brother-scott": [
     "someone-i-love-is-dying",
+    "psychedelic-of-mortality",
     "acknowledging-death-compresses-life",
     "death-is-not-the-end-of-the-relationship",
     "defending-the-ideal-blocks-the-relating",
     "say-goodbye-like-its-the-last-time"
-  ],
-  "grieve-the-marriage-to-save-it": [
-    "someone-i-love-is-dying",
-    "grief-as-identity-dismantling",
-    "defending-the-ideal-blocks-the-relating",
-    "disdain-is-the-true-sign-of-a-dead-relationship",
-    "love-means-signing-up-to-be-hurt",
-    "nre-returns-in-grounded-form-after-each-healing",
-    "relationships-as-personal-growth-path",
-    "say-it-twice-then-relationship-moves-or-ends",
-    "take-care-of-yourself-then-marriage-then-kids",
-    "you-cant-chase-someone-into-loving-you",
-    "visualizing-feared-outcomes",
-    "three-things-to-save-a-marriage-from-disdain",
-    "bretts-brother-scott"
-  ],
-  "acknowledging-death-compresses-life": [
-    "someone-i-love-is-dying",
-    "every-moment-is-an-exit-point",
-    "the-abyss-is-where-you-dont-exist",
-    "death-is-not-the-end-of-the-relationship",
-    "defending-the-ideal-blocks-the-relating",
-    "say-goodbye-like-its-the-last-time",
-    "bretts-brother-scott",
-    "case-the-consultant",
-    "joes-funeral-poem-for-kase"
   ],
   "death-is-not-the-end-of-the-relationship": [
     "someone-i-love-is-dying",
@@ -9440,12 +9587,6 @@
   ],
   "say-goodbye-like-its-the-last-time": [
     "someone-i-love-is-dying"
-  ],
-  "being-with-without-needing-change-as-highest-generosity": [
-    "someone-i-love-is-dying",
-    "generosity",
-    "giving-from-desire-not-obligation",
-    "scott-and-his-wifes-redirected-generosity-request"
   ],
   "scott-and-his-wifes-redirected-generosity-request": [
     "someone-i-love-is-dying",
@@ -9632,7 +9773,8 @@
     "theres-a-voice-that-says-im-fake-around-everyone",
     "voice-as-care",
     "voice-as-guide-to-unhealed-places",
-    "assume-the-voice-is-right-but-not-bad"
+    "assume-the-voice-is-right-but-not-bad",
+    "say-yes-to-the-experience-youre-already-having"
   ],
   "im-fake-my-love-is-corrupt": [
     "theres-a-voice-that-says-im-fake-around-everyone",
@@ -10129,6 +10271,7 @@
     "aggressive-victim-stance",
     "three-forms-of-anger-repression",
     "invite-the-aggression-out",
+    "move-the-anger-then-draw-the-boundary",
     "passive-aggressive-vs-aggressive-aggressive",
     "dont-meet-aggression-with-aggression"
   ],
@@ -10244,6 +10387,7 @@
     "trigger",
     "childhood-imprinting",
     "negative-bias-of-trauma-imprinting",
+    "projecting-captor-onto-the-helper",
     "go-down-one-level-to-find-projection",
     "mirror-the-judgment",
     "choosing-the-projection-that-serves",
@@ -10301,6 +10445,7 @@
     "what-do-i-really-need-right-now",
     "go-to-separate-rooms-and-yell",
     "looking-for-a-fight-means-self-disconnection",
+    "resentment-saturates-other-fights",
     "the-contradict-myself-test"
   ],
   "i-lose-myself-in-the-fight": [
@@ -10431,6 +10576,7 @@
     "being-heard",
     "false-front",
     "pointers-to-unseen-parts",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "i-dont-need-to-be-seen-right-now",
     "i-love-your-frustration",
     "make-everyone-feel-seen-when-things-go-wrong",
@@ -10947,7 +11093,8 @@
   ],
   "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor": [
     "you-think-they-cant-handle-it",
-    "conflict-avoidance-prevents-being-loved"
+    "conflict-avoidance-prevents-being-loved",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma"
   ],
   "dont-position-yourself-as-your-partners-growth-guide": [
     "are-you-willing-to-do-the-work",
@@ -11170,6 +11317,8 @@
   ],
   "intellectual-emotional-polarization-in-couples": [
     "what-am-i-not-feeling-right-now",
+    "highly-logical-more-inconsistent",
+    "being-with-vs-being-in",
     "control-of-the-other-makes-fights-unproductive",
     "superiority-and-shame-erode-together",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
@@ -11254,15 +11403,6 @@
     "view",
     "cia-organization-sabotage-manual",
     "joes-bathroom-realization"
-  ],
-  "if-you-couldnt-feel-this-whats-underneath": [
-    "what-do-you-lose-if-this-belief-goes-away",
-    "blocker-emotions",
-    "heartbreak-is-the-love-underneath-the-blockers",
-    "fuck-the-right-answer",
-    "keep-asking-whats-the-problem-with-that",
-    "every-thought-about-not-feeling-is-an-emotion-to-feel",
-    "compassion-as-of-the-guts"
   ],
   "tell-it-to-god": [
     "what-do-you-lose-if-this-belief-goes-away",
@@ -11529,7 +11669,8 @@
   ],
   "say-yes-to-the-clients-experiment": [
     "dont-add-anyway-to-love",
-    "shame-as-disconnection"
+    "shame-as-disconnection",
+    "say-yes-to-the-experience-youre-already-having"
   ],
   "fault-vs-responsibility": [
     "dont-add-the-overwhelm-of-creating-the-overwhelm",
@@ -11769,6 +11910,7 @@
   ],
   "fight-agreements-made-outside-the-fight": [
     "dont-fight-about-breaking-the-fight-agreement",
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
     "go-to-separate-rooms-and-yell",
     "repair-phrase-as-trauma-deactivator",
     "disagreement-that-heals-vs-retraumatizes",
@@ -11781,6 +11923,7 @@
     "every-fight-can-bring-you-closer",
     "most-disagreements-are-not-understanding-not-attack",
     "nervous-system-codes-threats-as-real",
+    "repair-phrase-must-feel-clean-to-deliver",
     "mirror-until-they-confirm",
     "arc-of-fighting-maturation"
   ],
@@ -11792,10 +11935,12 @@
     "dont-fight-about-breaking-the-fight-agreement",
     "repair-phrase-as-trauma-deactivator",
     "cant-make-agreements-during-the-fight",
+    "repair-phrase-must-feel-clean-to-deliver",
     "fight-agreements-made-outside-the-fight"
   ],
   "cant-make-agreements-during-the-fight": [
     "dont-fight-about-breaking-the-fight-agreement",
+    "repair-phrase-as-trauma-deactivator",
     "agreements-must-be-co-created-not-prescribed",
     "good-fights-require-great-boundaries",
     "fight-agreements-made-outside-the-fight"
@@ -12501,6 +12646,7 @@
     "sense-of-time-expansion",
     "the-work-as-three-levels-of-change",
     "pleasure-capacity",
+    "ask-from-each-of-the-three-centers",
     "embracing-intensity-as-leading-indicator",
     "there-is-no-better-person-on-the-other-side",
     "speak-from-each-of-the-three-centers",
@@ -12585,6 +12731,7 @@
     "gratitude-as-a-condition-i-can-feel-it-once-x-happens",
     "gratitude-as-a-strategy-for-an-outcome",
     "generosity",
+    "say-yes-to-the-experience-youre-already-having",
     "always-something-spectacular-happening",
     "gratitude-as-acknowledgment-of-greater-force",
     "gratitude-as-healing-medicine",
@@ -12610,8 +12757,25 @@
     "gratitude-as-a-strategy-for-an-outcome",
     "gratitude-as-full-body-sport"
   ],
+  "highly-logical-more-inconsistent": [
+    "losing-yourself-in-others",
+    "intellectual-emotional-polarization-in-couples",
+    "being-with-vs-being-in"
+  ],
+  "being-with-vs-being-in": [
+    "losing-yourself-in-others",
+    "empathy",
+    "highly-logical-more-inconsistent",
+    "intellectual-emotional-polarization-in-couples",
+    "venting-friend-pattern",
+    "staying-in-your-body"
+  ],
   "is-this-mine": [
     "losing-yourself-in-others",
+    "highly-logical-more-inconsistent",
+    "intellectual-emotional-polarization-in-couples",
+    "move-the-anger-then-draw-the-boundary",
+    "being-with-vs-being-in",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "stay-centered-while-holding-space",
     "relating-to-someone-with-mental-health-issues"
@@ -12641,6 +12805,7 @@
     "control-of-the-other-makes-fights-unproductive",
     "every-fight-can-bring-you-closer",
     "how-you-fight-not-how-often",
+    "repair-phrase-must-feel-clean-to-deliver",
     "you-are-responsible-for-your-own-window-of-tolerance"
   ],
   "loving-to-transform": [
@@ -12736,6 +12901,9 @@
     "right-and-wrong-flips-from-head-to-action",
     "sensitivity-as-byproduct",
     "vulnerability",
+    "highly-logical-more-inconsistent",
+    "venting-friend-pattern",
+    "being-with-vs-being-in",
     "boundary-with-vs-boundary-against",
     "caring-vs-caretaking",
     "dont-buy-the-story-validate-the-emotion",
@@ -12822,16 +12990,19 @@
     "forms-of-dysfunctional-apology",
     "three-forms-of-anger-repression",
     "invite-the-aggression-out",
+    "move-the-anger-then-draw-the-boundary",
     "say-ouch",
     "nice-vs-kind-from-open-heart",
     "triggered-vs-big-emotion",
     "dont-meet-aggression-with-aggression",
     "self-aggression-permits-others-aggression",
     "list-who-you-subtly-blame",
+    "joe-and-tara-the-fridge-resentment",
     "anger-and-politics"
   ],
   "aggression-amplifies-against-conflict-avoidance": [
     "anger-as-containment-for-the-conflict-seeker",
+    "passive-aggressive-vs-aggressive-aggressive",
     "conflict-avoidance-prevents-healing",
     "dont-meet-aggression-with-aggression",
     "tire-shop-guy-customer-container"
@@ -12927,6 +13098,7 @@
   "free-write-the-anger": [
     "anger",
     "initial-anger-release-wave",
+    "move-the-anger-then-draw-the-boundary",
     "get-angry-in-the-car",
     "how-to-release-anger-out-loud"
   ],
@@ -12944,7 +13116,9 @@
     "the-work-as-three-levels-of-change",
     "three-layers-of-the-work",
     "athletes-unlocking-body-intelligence-in-business",
+    "highly-logical-more-inconsistent",
     "intellectual-emotional-polarization-in-couples",
+    "ask-from-each-of-the-three-centers",
     "ask-the-body-the-question",
     "what-does-your-heart-say",
     "body-lies-as-much-as-mind",
@@ -13101,6 +13275,7 @@
   "dont-find-the-truth-find-their-truth": [
     "being-heard",
     "the-desire-to-be-seen",
+    "venting-friend-pattern",
     "see-them-be-seen-find-alignment-instead-of-control",
     "joe-and-tara-la-show-fight"
   ],
@@ -13208,7 +13383,9 @@
     "asking-dissolves-the-not-okay-to-want",
     "attune-to-the-actual-want-not-the-program",
     "control-of-the-other-makes-fights-unproductive",
-    "resentment-as-unspoken-want"
+    "resentment-as-unspoken-want",
+    "resentment-saturates-other-fights",
+    "joe-and-tara-the-fridge-resentment"
   ],
   "do-the-work-thats-harder-for-you": [
     "coach-personality-determines-style",
@@ -13573,6 +13750,8 @@
   ],
   "empathy-vs-sympathy": [
     "empathy",
+    "venting-friend-pattern",
+    "being-with-vs-being-in",
     "giving-as-respect-vs-giving-as-saving",
     "being-with-without-needing-change-as-highest-generosity",
     "stay-centered-while-holding-space"
@@ -13584,6 +13763,7 @@
   "body-lies-as-much-as-mind": [
     "energetic-system-as-fourth-layer",
     "sensitivity-as-byproduct",
+    "highly-logical-more-inconsistent",
     "decisions-are-emotional",
     "do-the-next-most-obvious-thing",
     "staying-in-your-body",
@@ -13666,9 +13846,11 @@
   "every-moment-is-an-exit-point": [
     "familiar-over-safe",
     "fully-feeling-restructures-the-self",
+    "psychedelic-of-mortality",
     "the-abyss-is-where-you-dont-exist",
     "disorienting-middle-of-self-inquiry",
     "the-natural-integration-arc-after-breakthrough",
+    "say-yes-to-the-experience-youre-already-having",
     "acknowledging-death-compresses-life",
     "annihilation-reveals-what-is-real",
     "defending-the-ideal-blocks-the-relating",
@@ -13830,14 +14012,6 @@
   "giving-from-desire-not-obligation": [
     "generosity",
     "giving-as-respect-vs-giving-as-saving"
-  ],
-  "gratitude-as-acknowledgment-of-greater-force": [
-    "gratitude-as-full-body-sport",
-    "always-something-spectacular-happening",
-    "gratitude-as-healing-medicine",
-    "two-person-gratitude-practice",
-    "5-ways-to-stay-unhappy",
-    "base-jumping-broken-hand-gratitude"
   ],
   "daily-gratitude-for-your-own-transformation": [
     "gratitude-as-full-body-sport",
@@ -14517,6 +14691,7 @@
   "go-down-one-level-to-find-projection": [
     "projections",
     "trigger",
+    "projecting-captor-onto-the-helper",
     "triggers-reveal-your-own-beliefs",
     "five-triggers-projection-experiment"
   ],
@@ -15178,6 +15353,13 @@
   "three-stages-of-negotiation": [
     "transactional-relationships-as-defense"
   ],
+  "repair-phrase-as-trauma-deactivator": [
+    "we-make-it-hard-to-be-seen-when-in-our-trauma",
+    "agreements-must-be-co-created-not-prescribed",
+    "every-fight-can-bring-you-closer",
+    "repair-phrase-must-feel-clean-to-deliver",
+    "fight-agreements-made-outside-the-fight"
+  ],
   "covey-subway-story": [
     "agree-when-challenged-on-the-teaching",
     "sorry-from-shame-vs-sorry-as-solidarity",
@@ -15229,6 +15411,20 @@
     "enjoy-this-just-a-little-bit-more",
     "authenticity-in-business"
   ],
+  "speak-from-each-of-the-three-centers": [
+    "ask-from-each-of-the-three-centers"
+  ],
+  "feel-into-it-vs-think-about-it": [
+    "ask-from-each-of-the-three-centers",
+    "ask-whats-wrong-with-you-into-the-shame",
+    "feel-the-searching-then-feel-the-opposite",
+    "embodied-love-vs-vacuous-presence",
+    "shame-dissipates-in-the-question-itself",
+    "comedian-to-coach-money-shame-session"
+  ],
+  "ask-from-the-gut": [
+    "ask-from-each-of-the-three-centers"
+  ],
   "direct-intervention-vs-structural-change": [
     "ask-how-do-i-change-this-so-it-never-happens-again",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
@@ -15265,6 +15461,8 @@
   "attune-to-the-actual-want-not-the-program": [
     "ask-what-they-want-before-responding",
     "caring-vs-caretaking",
+    "repair-phrase-must-feel-clean-to-deliver",
+    "joe-and-tara-the-fridge-resentment",
     "nail-in-the-head-metaphor"
   ],
   "shame-dissipates-in-the-question-itself": [
@@ -15272,13 +15470,6 @@
     "feel-into-it-vs-think-about-it",
     "comedian-to-coach-money-shame-session",
     "the-monster-wants-hugs-teaching"
-  ],
-  "feel-into-it-vs-think-about-it": [
-    "ask-whats-wrong-with-you-into-the-shame",
-    "feel-the-searching-then-feel-the-opposite",
-    "embodied-love-vs-vacuous-presence",
-    "shame-dissipates-in-the-question-itself",
-    "comedian-to-coach-money-shame-session"
   ],
   "intimate-with-vs-giving-in-to-feeling": [
     "be-intimate-with-the-feeling",
@@ -15443,6 +15634,9 @@
     "passive-aggressive-vs-aggressive-aggressive",
     "dont-meet-aggression-with-aggression"
   ],
+  "trappedness-feeling|trappedness is felt before it is true": [
+    "invite-the-aggression-out"
+  ],
   "authenticity-in-business": [
     "lack-of-enjoyment-as-diagnostic",
     "enjoyment-attracts",
@@ -15498,6 +15692,15 @@
     "the-work-is-yours-not-mine",
     "training-coaches-and-facilitators"
   ],
+  "joes-parents-criticism-boundary": [
+    "move-the-anger-then-draw-the-boundary",
+    "passive-aggressive-vs-aggressive-aggressive"
+  ],
+  "dont-meet-aggression-with-aggression": [
+    "move-the-anger-then-draw-the-boundary",
+    "say-ouch",
+    "passive-aggressive-vs-aggressive-aggressive"
+  ],
   "your-trauma-is-equally-matched-with-your-partner": [
     "name-im-in-my-trauma-as-couple-language",
     "chaser-and-love-remover-both-experience-death",
@@ -15511,6 +15714,12 @@
     "redirect-from-doing-it-right-to-enjoying-it",
     "stress-from-not-doing-the-thing"
   ],
+  "repair-phrase-must-feel-clean-to-deliver": [
+    "repair-phrase-as-trauma-deactivator"
+  ],
+  "we-make-it-hard-to-be-seen-when-in-our-trauma": [
+    "repair-phrase-as-trauma-deactivator"
+  ],
   "walled-no-vs-open-hearted-limit": [
     "say-no-to-find-the-want",
     "stay-close-and-insist",
@@ -15518,10 +15727,6 @@
     "dont-compromise-find-both-needs-met",
     "what-was-wired-with-love-needs-untying",
     "romantic-relationships"
-  ],
-  "dont-meet-aggression-with-aggression": [
-    "say-ouch",
-    "passive-aggressive-vs-aggressive-aggressive"
   ],
   "asking-with-shame-invites-refusal": [
     "say-the-forbidden-want-out-loud",
@@ -15540,6 +15745,17 @@
     "say-yes-to-the-clients-experiment",
     "send-the-message-that-youre-whole",
     "love-the-aspect-through-someone-else"
+  ],
+  "pollyanna-vs-reframing-failure": [
+    "say-yes-to-the-experience-youre-already-having",
+    "functional-denial-vs-dysfunctional-denial"
+  ],
+  "pleasure-is-letting-life-fully-hit-you": [
+    "say-yes-to-the-experience-youre-already-having",
+    "guilty-pleasure-vs-real-pleasure",
+    "pleasure-amplifies-vs-detracts-from-emotion",
+    "pleasure-in-the-expression-prevents-attack",
+    "tara-bacon-wrapped-dates"
   ],
   "athletes-unlocking-body-intelligence-in-business": [
     "skill-transfer-redirect",
@@ -15603,6 +15819,12 @@
     "aware-belief-vs-unseen-belief",
     "find-the-comparable",
     "inquiry-on-limiting-beliefs"
+  ],
+  "venting-friend-pattern": [
+    "being-with-vs-being-in"
+  ],
+  "empathic-radar-without-off-switch": [
+    "being-with-vs-being-in"
   ],
   "three-ways-to-fire-someone": [
     "caring-vs-caretaking",
@@ -15680,12 +15902,6 @@
     "esmes-stolen-passport-in-spain",
     "jesse-and-generous-admiration"
   ],
-  "pleasure-is-letting-life-fully-hit-you": [
-    "guilty-pleasure-vs-real-pleasure",
-    "pleasure-amplifies-vs-detracts-from-emotion",
-    "pleasure-in-the-expression-prevents-attack",
-    "tara-bacon-wrapped-dates"
-  ],
   "what-if-i-dont-want-to-be-in-view": [
     "hold-a-perspective-without-thinking-youre-right"
   ],
@@ -15718,6 +15934,12 @@
   ],
   "hungry-lion-principle": [
     "pace-and-spin"
+  ],
+  "move-the-anger-then-draw-the-boundary": [
+    "passive-aggressive-vs-aggressive-aggressive",
+    "resentment-as-unspoken-want",
+    "resentment-saturates-other-fights",
+    "joe-and-tara-the-fridge-resentment"
   ],
   "constraints-increase-creativity": [
     "performance-vs-play",
@@ -15825,11 +16047,6 @@
   ],
   "always-something-spectacular-happening|there is always something to be grateful for": [
     "adversity-as-for-not-against"
-  ],
-  "repair-phrase-as-trauma-deactivator": [
-    "agreements-must-be-co-created-not-prescribed",
-    "every-fight-can-bring-you-closer",
-    "fight-agreements-made-outside-the-fight"
   ],
   "buurtzorg-nursing": [
     "allowing-creates-resilience",
@@ -16550,6 +16767,12 @@
   ],
   "boundaries-expand-as-capacity-grows|boundaries refine as capacity grows": [
     "joes-dad-drinking-boundary"
+  ],
+  "boundaries-expand-as-capacity-grows|boundaries refining as capacity grows": [
+    "joes-parents-criticism-boundary"
+  ],
+  "boundary-with-vs-boundary-against|a boundary with, not a boundary against": [
+    "joes-parents-criticism-boundary"
   ],
   "happy-money-game": [
     "joes-pleasing-dad-money-story",

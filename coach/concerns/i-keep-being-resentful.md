@@ -2,9 +2,9 @@
 type: concern
 id: i-keep-being-resentful
 title: "I keep being resentful / How do I stop being resentful?"
-aliases: ["I keep being resentful", "how do I stop being resentful", "I'm resentful all the time", "I'm resentful of my partner", "I'm resentful of my spouse", "I resent my husband", "I resent my wife", "I resent my coworkers", "I resent my boss", "I resent my kids", "I'm full of resentment", "I'm so resentful and I don't want to be", "resentment keeps building", "I'm a resentful person and I hate it", "I feel resentful and I don't know why", "the resentment is destroying my relationship", "I'm resentful about what other people have", "I'm resentful that they get to be carefree and I have to work", "I'm resentful that they don't have to worry about money", "I resent their freedom", "I resent the things other people have that I want", "I'm resentful and I want to stop", "the resentment presenting concern", "the I-keep-resenting concern", "I resent the people closest to me", "I find myself resenting people I love", "my resentment is corrosive", "I'm resentful and I know it isn't fair", "I'm resentful but I don't know how to stop", "the chronic resentment concern"]
-tags: ["resentment", "wants", "boundaries", "admiration", "envy", "anger"]
-sources: ["2024-09-02_How To Stop Being Resentful"]
+aliases: ["I keep being resentful", "how do I stop being resentful", "I'm resentful all the time", "I'm resentful of my partner", "I'm resentful of my spouse", "I resent my husband", "I resent my wife", "I resent my coworkers", "I resent my boss", "I resent my kids", "I'm full of resentment", "I'm so resentful and I don't want to be", "resentment keeps building", "I'm a resentful person and I hate it", "I feel resentful and I don't know why", "the resentment is destroying my relationship", "I'm resentful about what other people have", "I'm resentful that they get to be carefree and I have to work", "I'm resentful that they don't have to worry about money", "I resent their freedom", "I resent the things other people have that I want", "I'm resentful and I want to stop", "the resentment presenting concern", "the I-keep-resenting concern", "I resent the people closest to me", "I find myself resenting people I love", "my resentment is corrosive", "I'm resentful and I know it isn't fair", "I'm resentful but I don't know how to stop", "the chronic resentment concern", "I don't want to come home anymore", "I'm bummed when they're coming home", "I'm having fights about stupid little things", "I know I'm not blaming them but the resentment is still there", "I'm angry at them for trying to help me", "I'm resentful and I know they were just trying to do something nice", "the resentment that isn't even blame anymore", "the resentment I feel toward myself for not standing up"]
+tags: ["resentment", "wants", "boundaries", "admiration", "envy", "anger", "caretaking"]
+sources: ["2024-09-02_How To Stop Being Resentful", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
 ---
 
 # I keep being resentful / How do I stop being resentful?
@@ -37,6 +37,10 @@ How the AI coach recognizes this concern even when the person does not name it:
 - A specific somatic signature in the voice: tight, sour, low-grade, building
 - The phrase "I shouldn't feel this way but I do" attached to a comparison
 - Statements that something is "not okay to want" while the wanting is clearly happening
+- The person does not want to go home, or is bummed when their partner is coming home — Joe names this as the marker that resentment has "fully gotten in the relationship"
+- Fights breaking out over little things that are not at all relevant to what is actually going on — see [[resentment-saturates-other-fights]]
+- The presence of the specific bind where the person believes "I cannot be angry because they were trying to help" or "I cannot draw the boundary because they already did the work" — see [[joe-and-tara-the-fridge-resentment]] for the canonical instance
+- The resenter explicitly says they are not blaming the other person and may even be blaming themselves, but the resentment is still there — self-directed blame is one of the forms unexpressed anger takes, not evidence that resentment is absent
 
 ## What Joe Hears
 
@@ -90,3 +94,4 @@ The typical flow from this concern:
 ## Sources
 
 - 2024-09-02_How To Stop Being Resentful (the three-move teaching: draw boundaries, ask for what you want, admire what you crave; the Esme-and-friend-with-heart-attack-father example for the asking move; the Jesse-and-generous-admiration story for the admiration move)
+- 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the fridge story as the canonical instance of caretaking-produced resentment in a marriage; the explicit "I'm not blaming you, I'm blaming me" variant where the resentment persists even without external blame; the "I don't want to come home" and "fighting over little things" detection cues; the teaching that unresolved resentment saturates every other fight in the relationship)

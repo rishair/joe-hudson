@@ -105,8 +105,13 @@ The concern is structurally different from:
 - [[someone-i-love-has-mental-health-issues]] (a different kind of loss, with different work)
 - [[i-have-all-my-eggs-in-one-basket]] (fear of future loss; this concern is loss that is actually arriving)
 - [[i-caretake-people]] (a general pattern; this concern is a specific context in which caretaking may show up)
+- [[i-have-a-terminal-diagnosis]] (the speaker IS the dying person; this concern is about supporting someone else who is dying — different lived experience, different coaching path)
 
 The discrimination matters because the work differs. This concern requires the death-acknowledgement work, the willingness to let the previous version of the relationship die, and the steady capacity to be with the person who is actually here.
+
+## The Paired Form: Watching the Dying Person Be Inside the Field
+
+When the loved one who is dying is themselves doing the work of being in their dying — articulating a "psychedelic of mortality" or actively practicing the yes-to-treatment moves — the supporter is often pulled into a more intense version of this concern. The dying person's heightened presence produces a heightened presence in the supporter. The wants that the dying person is voicing change what the supporter feels permission to voice. The compression of the dying person's time produces a compression of the supporter's time. See [[psychedelic-of-mortality]] for the field-effect that operates in this case.
 
 ## Sources
 

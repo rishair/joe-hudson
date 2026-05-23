@@ -5,7 +5,7 @@ title: "Grieve the Marriage to Save the Marriage"
 aliases: ["pre-grieve the relationship", "mourn the marriage to save it", "assume the marriage is over to be undefended in it", "grief frees you to be true in the relationship", "grieving the relationship periodically", "let the marriage die to come alive in it", "grieve to drop the defense", "the marriage dies many times", "the periodic grief of a relationship", "grieve the rupture before the conversation", "grieve the breakup first to be at choice", "pre-grieve to enable consent", "the grief-the-loss-first heuristic applied to mortality", "the breakup-grief heuristic applied to chemo", "the grief-first principle applied to any major choice"]
 tags: ["grief", "relationships", "marriage", "vulnerability", "defense", "principle", "practice", "mortality", "choice", "consent"]
 related: ["visualizing-feared-outcomes", "grief-as-identity-dismantling", "defense", "upright-undefended-love", "fear-is-about-feeling", "without-grief-we-recreate-the-pattern", "feeling-the-unfelt-emotion", "accepting-the-end-empowers-the-yes", "i-have-a-terminal-diagnosis"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle"]
 ---
 
 # Grieve the Marriage to Save the Marriage
@@ -83,6 +83,28 @@ When the relationship contains active abuse or safety concerns, the work is diff
 - When [[visualizing-feared-outcomes]] is being discussed and the relational application is the place it lands.
 - When a person is asking "what do I do" about a relationship that has gone flat or contracted.
 
+## The Same Principle Applied to Other Major Choices
+
+The structural mechanism — openness to the worst-case is what enables the choice in front of you — generalizes well beyond marriage. The most generalized form is named at [[accepting-the-end-empowers-the-yes]]. The marriage application is the canonical case. The principle has been applied to other domains by people who learned it in the relational context and recognized its structural reach.
+
+The mortality application is particularly striking. Michael Nagel, who has metastatic colon cancer, describes applying the AOA grief-the-breakup-first heuristic to his chemo decision:
+
+"There's a heuristic that I learned from AOA. Like, the way I remember it is like, if you're worried that you might have conflict where it could rupture the relationship, like a breakup, you know, it can be really helpful to grieve that breakup first, and then you can actually be yourself and be like, hey, here's my limit, here's my boundary, and I'm no longer contorting from that possibility. And I found an analogy of that for me in mortality. Of like, oh, if I'm not open to the fact that this is the end of my life, I can't choose chemo. I'm just like, 'don't want to die, don't want to die.' They say they're going to keep me alive. Blinders are on -- versus the like, 'I'm actually at choice. That choice might be the end of my life, but there is a choice.'" -- Michael Nagel, So You're Not Dead Yet
+
+The same shape: pre-grieve the loss to remove the defense; the post-defense state lets you actually be in the relationship to the decision. In the marriage case, the relationship is with the partner. In the mortality case, the relationship is with the disease, the treatment, and the time he has. The unbearable alternative (losing the marriage; losing the life) has to be allowed to be a real possibility for the present action to be a real choice rather than a fear-driven compliance.
+
+This generalization matters because the marriage version of the principle can be hard to transfer in coaching — the marriage frame can feel domain-specific. Michael's mortality application demonstrates the underlying structural reach. The same teaching is at work in:
+
+- Marriage and partnership: pre-grieve the marriage to be in it
+- Treatment decisions in serious illness: pre-grieve the possibility of stopping to actually choose continuing
+- Major business or career choices: pre-grieve the worst-case outcome to actually choose the path
+- Difficult conversations: pre-grieve the rupture to actually speak the truth
+- Long-term commitments of any kind: pre-grieve the loss to actually be in the commitment
+
+In each case, the mechanism is the same: the defense against the unbearable alternative is what prevents the present consent; the felt grief of the unbearable alternative dissolves the defense; the post-defense state is what consent actually requires.
+
+See [[accepting-the-end-empowers-the-yes]] for the same principle in its most generalized form.
+
 ## Upstream (What Leads Here)
 
 - When a long-term relationship is in a stuck or contracted place.
@@ -101,3 +123,5 @@ When the relationship contains active abuse or safety concerns, the work is diff
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
+- 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (Michael Nagel's application of the AOA grief-the-breakup-first heuristic to his chemo decision and mortality; the structural generalization from the marriage application to any major choice that requires consent in the face of an unbearable alternative; the demonstration that "blinders on" vs "actually at choice" is the same distinction the relational principle produces)
+- 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; Michael's explicit naming of the AOA heuristic verbatim -- "if you're worried that you might have conflict where it could rupture the relationship, like a breakup, it can be really helpful to grieve that breakup first" -- and his recognition that he "found an analogy of that for me in mortality," locating the cross-domain generalization within the established AOA frame)

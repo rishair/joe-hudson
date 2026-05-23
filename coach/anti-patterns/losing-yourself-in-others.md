@@ -4,8 +4,8 @@ id: losing-yourself-in-others
 title: "Don't lose yourself in others' emotions"
 aliases: ["merging with emotions", "codependent empathy", "lost in the other person", "empathic merging", "over-empathizing"]
 tags: ["empathy", "VIEW", "boundaries", "mirror neurons", "codependence"]
-related: ["empathy", "is-this-mine", "staying-in-your-body", "empathy-vs-sympathy", "caring-vs-caretaking"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy"]
+related: ["empathy", "is-this-mine", "staying-in-your-body", "empathy-vs-sympathy", "caring-vs-caretaking", "being-with-vs-being-in", "highly-logical-more-inconsistent", "venting-friend-pattern"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2025-03-04_How To Be Empathetic Without Losing Yourself"]
 ---
 
 # Don't lose yourself in others' emotions
@@ -31,6 +31,10 @@ People who do this are also more susceptible to manipulation. If someone believe
 
 "If somebody thinks that you're bad and you get locked into their emotion, then you start thinking you're bad." -- Joe Hudson, Empathy
 
+The same mechanism explains how merger transfers unearned conviction. When you are in someone who is convicted, you become convicted. The argument they are making does not have to actually hold up — the feeling of it holding up transfers to you, and you adopt the position. This is how highly logical, highly emphatic speakers move audiences past arguments that contain visible holes. The listener is not evaluating the argument; the listener is in the speaker and is feeling the speaker's certainty as their own. See [[highly-logical-more-inconsistent]] for the specific pattern of convicted-but-inconsistent speakers and why the merger is what produces the buy-in.
+
+Joe describes this from his own work: a highly logical CEO would make great-sounding arguments; Joe would buy in; later Joe would realize the argument did not add up. The conviction had transferred via empathic merger. The body had not been at home to register the gaps in the logic. See [[being-with-vs-being-in]] for the operational distinction between being beside someone (where their conviction is information about them) and being inside them (where their conviction becomes yours).
+
 ## What To Do Instead
 
 1. **Stay in your body.** See [[staying-in-your-body]]. Put attention on your own physical sensations while being present. Feel the bottom of your feet. Notice your breath. This keeps you anchored in yourself while remaining open to the other person.
@@ -47,6 +51,10 @@ The traditional defense against merging is to hold a wall of emotional distance.
 
 "If you empathize without, with losing yourself, that can be really damaging. So learning how to be in your own body while you're empathetic is so critical." -- Joe Hudson, Empathy
 
+"When you're fully in them, you bought into their story, you bought into their emotional experience. You're feeling their story, you're feeling the emotional experience. But if you attune to yourself and then you can see them for what's actually going on." -- Joe Hudson, How To Be Empathetic Without Losing Yourself
+
 ## Sources
 
 - 2020-11-06_Empathy -- Connection Course Series #4
+- 2022-10-26_Empathy (rebroadcast of the 2020-11-06 episode)
+- 2025-03-04_How To Be Empathetic Without Losing Yourself (the merger-transfers-conviction mechanism in the CEO example; the relationship-fight application of can't-tell-whose-feeling-is-whose; the bought-into-the-story formulation as the explicit description of merger; the structural connection to highly-logical-more-inconsistent speakers whose convicted-but-inconsistent arguments move audiences via empathic merger)

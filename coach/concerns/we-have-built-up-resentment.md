@@ -4,7 +4,7 @@ id: we-have-built-up-resentment
 title: "We have built-up resentment / We're not entirely happy with each other anymore"
 aliases: ["we have built up resentment", "we're not entirely happy with each other", "we're walking on eggshells", "the resentment has been building", "we used to be happy and now we're not", "we got married and were happy and now there's this", "we've grown apart", "things have built up", "we're not as connected as we used to be", "our marriage has gotten heavy", "the same fight keeps coming up", "we're stuck in this dynamic", "our relationship has gotten stagnant", "low-grade resentment in a long marriage", "the slow-burn marriage", "the slow-burn business partnership", "the gradual erosion of the relationship", "we used to talk about everything", "the marriage that slowly went flat", "the company that lost its aliveness", "the founder relationship that turned competitive"]
 tags: ["relationships", "marriage", "partnership", "presenting concern", "resentment", "stagnation", "conflict avoidance"]
-sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-09-02_How To Stop Being Resentful", "2025-01-07_The Reason Your Relationship Is Dead", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
+sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-09-02_How To Stop Being Resentful", "2025-01-07_The Reason Your Relationship Is Dead", "2025-01-13_The Mindset Shift That Transforms Dead Relationships", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
 ---
 
 # We have built-up resentment / We're not entirely happy with each other anymore
@@ -37,6 +37,9 @@ Joe specifically names this as a recurring story. The players change but the sha
 - The person frames the issue as "we have grown apart" or "we have just become different people"
 - A sense of low-grade dread about being in the relationship that the person cannot make specific
 - The dynamic has spread to adjacent domains -- the same low-grade pissedness about work, about family, about life generally
+- The person reports not wanting to come home, or being bummed when their partner is coming home — Joe names this as the marker that resentment has "fully gotten in" the relationship
+- Fights have started breaking out over little things that are not even relevant to the actual content — the fight about the career and the fight about the coffee maker fused into one fight (see [[resentment-saturates-other-fights]])
+- Fights are getting harder to resolve where both partners feel they have grown — this is the saturation signature, not necessarily evidence of a "bigger" problem but of a "more loaded channel"
 
 ## What Joe Hears
 
@@ -123,3 +126,4 @@ This is the iterative-mindset path applied to the relationship domain. It is par
 - 2024-09-02_How To Stop Being Resentful (the specific mutual-envy form of built-up marital resentment where each spouse resents what the other has; the admiration move as a clean first intervention; the marriage example of mutual resentment about career freedom vs. home time)
 - 2025-01-07_The Reason Your Relationship Is Dead (the symmetric-fears configuration as the structural reason both partners stop telling each other the truth; the dead-marriage symptoms — only logistics fights, no intimacy, no sex, no storytelling — as the visible form of mutual withholding; the 6-to-8-month recovery timeline once both partners commit to truth-telling and respectful fighting)
 - 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the iteration path as the structural alternative to the binary "try one thing and if it doesn't work it's over" frame; the 10-to-20 experiments practice as the operational form of the iterative-mindset applied to the relationship; the upfront belief-and-mutual-willingness preconditions that determine whether the iteration path can even begin; the both-partners-required condition for the practice to produce relationship-level change)
+- 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the explicit teaching that unresolved resentment makes the couple "fight about two things at once" — informing the new detection cues around fights over little things, harder-to-resolve fights, and the don't-want-to-come-home marker; the fridge story as the canonical caretaking-resentment instance in a marriage; the move-the-anger-then-draw-the-boundary path for the resentful partner)

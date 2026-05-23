@@ -6883,15 +6883,130 @@
     },
     {
       "folder": "2025-02-28_So You\u2019re Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T02:25:49Z",
+      "articles_created": [
+        "i-have-a-terminal-diagnosis",
+        "psychedelic-of-mortality",
+        "ask-from-each-of-the-three-centers",
+        "functional-denial-vs-dysfunctional-denial",
+        "accepting-the-end-empowers-the-yes",
+        "projecting-captor-onto-the-helper",
+        "say-yes-to-the-experience-youre-already-having"
+      ],
+      "articles_updated": [
+        "grieve-the-marriage-to-save-it",
+        "acknowledging-death-compresses-life",
+        "if-you-couldnt-feel-this-whats-underneath",
+        "i-have-to-do-it-all-myself",
+        "what-emerges-when-self-reliance-drops",
+        "someone-i-love-is-dying"
+      ],
+      "type": "guest-interview",
+      "absorbed_at": "2026-05-23T02:43:46Z"
+    },
+    {
+      "folder": "2025-03-01_I'm Not Dead Yet\uff1a Life Lessons from Chemotherapy \uff5c Tara Howley with Guest Michael Nagle",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:31:54Z",
+      "articles_created": [],
+      "articles_updated": [
+        "i-have-a-terminal-diagnosis",
+        "psychedelic-of-mortality",
+        "functional-denial-vs-dysfunctional-denial",
+        "accepting-the-end-empowers-the-yes",
+        "projecting-captor-onto-the-helper",
+        "ask-from-each-of-the-three-centers",
+        "grieve-the-marriage-to-save-it",
+        "acknowledging-death-compresses-life",
+        "what-emerges-when-self-reliance-drops",
+        "i-have-to-do-it-all-myself",
+        "if-you-couldnt-feel-this-whats-underneath",
+        "say-yes-to-the-experience-youre-already-having"
+      ],
+      "type": "guest-interview",
+      "absorbed_at": "2026-05-23T02:44:04Z",
+      "note": "Alternate transcription of 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (same Tara Howley + Michael Nagel episode, re-published March 1 with the alternate title I'm Not Dead Yet). Joe Hudson does not speak in this episode; the AOA methodology is being articulated by Tara Howley and applied by Michael Nagel to his cancer experience. No net-new articles created (the Feb 28 absorption created all the new articles), but this absorption pass enriched the articles created from Feb 28 by adding the Mar 1 source citation, integrating additional dialogue unique to the Mar 1 version (Michael's I-have-to-believe-okay-Ive-got-some-time articulation of functional denial; the explicit naming of the AOA grieve-the-breakup-first heuristic verbatim; the closing teaching on love and messiness as inseparable; the trust-fall-as-toddler-in-the-playpen image), and adding a new section to the terminal-diagnosis concern on love-and-messiness-as-inseparable. The say-yes-to-the-experience-youre-already-having move was also rewritten with the Mar 1 transcript as primary source since the labor-derived practice and the midwife move show up there most fully."
+    },
+    {
+      "folder": "2025-03-04_How To Be Empathetic Without Losing Yourself",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:45:16Z",
+      "articles_created": [
+        "being-with-vs-being-in",
+        "highly-logical-more-inconsistent",
+        "venting-friend-pattern"
+      ],
+      "articles_updated": [
+        "empathy",
+        "losing-yourself-in-others",
+        "staying-in-your-body",
+        "intellectual-emotional-polarization-in-couples"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:52:50Z"
+    },
+    {
+      "folder": "2025-03-07_Passive Aggression\uff1a How To Identify & Respond",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:48:21Z",
+      "articles_created": [
+        "joes-parents-criticism-boundary",
+        "move-the-anger-then-draw-the-boundary"
+      ],
+      "articles_updated": [
+        "passive-aggressive-vs-aggressive-aggressive",
+        "passive-aggression-toward-self",
+        "invite-the-aggression-out"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T02:57:06Z"
+    },
+    {
+      "folder": "2025-03-10_What Causes Resentment in Relationships\uff1f (+ What to Do About It)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:56:52Z",
+      "articles_created": [
+        "joe-and-tara-the-fridge-resentment",
+        "resentment-saturates-other-fights"
+      ],
+      "articles_updated": [
+        "i-keep-being-resentful",
+        "we-have-built-up-resentment",
+        "resentment-as-unspoken-want",
+        "resentment-as-caretaking-diagnostic",
+        "move-the-anger-then-draw-the-boundary"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:03:45Z"
+    },
+    {
+      "folder": "2025-03-12_Unlocking your trauma pattern (how to see and be seen)",
+      "status": "complete",
+      "claimed_at": "2026-05-23T02:58:09Z",
+      "articles_created": [
+        "repair-phrase-must-feel-clean-to-deliver",
+        "we-make-it-hard-to-be-seen-when-in-our-trauma"
+      ],
+      "articles_updated": [
+        "repair-phrase-as-trauma-deactivator",
+        "fight-agreements-made-outside-the-fight",
+        "the-desire-to-be-seen"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-23T03:06:43Z"
+    },
+    {
+      "folder": "2025-03-14_How To Stop Seeking Approval",
+      "status": "in-progress",
+      "claimed_at": "2026-05-23T03:04:27Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-03-01_I'm Not Dead Yet\uff1a Life Lessons from Chemotherapy \uff5c Tara Howley with Guest Michael Nagle",
+      "folder": "2025-03-17_How to Apologize in A Way That Transforms You",
       "status": "in-progress",
-      "claimed_at": "2026-05-23T02:31:54Z",
+      "claimed_at": "2026-05-23T03:07:27Z",
       "articles_created": [],
       "articles_updated": []
     }

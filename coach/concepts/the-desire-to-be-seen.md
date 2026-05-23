@@ -4,8 +4,8 @@ id: the-desire-to-be-seen
 title: "The Desire to Be Seen"
 aliases: ["desire to be seen", "the desire to be seen", "I just want to be seen", "biological imperative to be seen", "wanting to be seen", "longing to be seen", "seen and heard", "I just want to be seen and heard", "the want-to-be-seen", "hunger for being seen", "the see-me hunger", "see-me see-me dynamic", "the seeing need", "thrival not survival", "thrivival need", "acknowledgement drives performance", "under most fights is I just want to be seen", "infant tracking mama's face", "the basic need to be seen"]
 tags: ["seeing", "connection", "developmental", "biological", "shame", "conflict", "acknowledgement", "infant", "tribe"]
-related: ["being-heard", "false-front", "pointers-to-unseen-parts", "see-yourself-and-acknowledge-others", "wanting-from-lack-vs-wanting-from-wholeness", "in-the-story-im-not-being-seen", "say-of-course-i-just-want-to-be-seen-here", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "two-levels-of-hurt-in-being-misunderstood", "letting-it-in-vs-deflecting-the-welcome"]
-sources: ["2024-08-16_The Desire To Be Seen with Tara Howley"]
+related: ["being-heard", "false-front", "pointers-to-unseen-parts", "see-yourself-and-acknowledge-others", "wanting-from-lack-vs-wanting-from-wholeness", "in-the-story-im-not-being-seen", "say-of-course-i-just-want-to-be-seen-here", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "two-levels-of-hurt-in-being-misunderstood", "letting-it-in-vs-deflecting-the-welcome", "we-make-it-hard-to-be-seen-when-in-our-trauma"]
+sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method"]
 ---
 
 # The Desire to Be Seen
@@ -53,6 +53,8 @@ The diagnostic shorthand: under most fights is "I just want to be seen and heard
 This is why content-focused conflict resolution often does not resolve the conflict. The fight is not really about the content. The content is the surface where the unmet need is being negotiated. Naming the seeing layer often shifts the dynamic faster than working the content.
 
 The corollary: when both people get fully heard, the apparent disagreement frequently dissolves. The disagreement was not about the position. It was about needing the seeing to land before the position could be relaxed. See [[being-heard]] for the parallel teaching on the productivity and team form of this.
+
+The mistranslation that makes the loop self-defeating: each partner is asking "see me, see me, see me" by saying "you're wrong, you're wrong, you're wrong." The shame-throw is the strategy for being seen, but it is the move that most reliably prevents the partner from being able to see. The exit move is to give the seeing first; the partner, finally seen, almost immediately reciprocates. See [[dont-find-the-truth-find-their-truth]] for the operational pivot, [[joe-and-tara-la-show-fight]] for the canonical illustration, and [[shame-hot-potato]] for the broader pattern this sits inside.
 
 ## Acknowledgement as the Operational Form in Organizations
 
@@ -124,3 +126,4 @@ When this is named in coaching, the tone is matter-of-fact and de-pathologizing.
 ## Sources
 
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the biological imperative framing, the see-me-don't-see-me push-pull, the lack-vs-wholeness distinction, the acknowledgement-drives-performance teaching for organizations, the bidirectional mechanism where seeing others lets you receive seeing, the "under most fights is I just want to be seen" diagnostic)
+- 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the mistranslation dynamic: both partners asking "see me" by saying "you're wrong"; the shame-throw as the strategy for being seen that most reliably prevents the partner from being able to see; the asymmetric exit where one partner giving the seeing first produces almost-immediate reciprocation)

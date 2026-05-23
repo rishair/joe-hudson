@@ -2,10 +2,10 @@
 type: move
 id: repair-phrase-as-trauma-deactivator
 title: "The Pre-Agreed Repair Phrase (A Specific Sentence That Dissolves a Specific Trauma Loop)"
-aliases: ["repair phrase as trauma deactivator", "pre-agreed repair phrase", "the I-see-how-much-you-care move", "the rush-deactivator phrase", "the specific phrase for the specific trauma", "the agreement-loaded repair phrase", "the trauma-deactivating phrase", "the phrase that makes you go soft", "the acknowledgement phrase for the rush", "Tara's I see how much you care", "the phrase that disintegrates the trauma loop", "the repair phrase move", "the named phrase the partner uses", "the partner's pre-agreed sentence for the pattern", "the recognition phrase as trauma off-switch", "the under-the-trauma acknowledgement phrase"]
+aliases: ["repair phrase as trauma deactivator", "pre-agreed repair phrase", "the I-see-how-much-you-care move", "the rush-deactivator phrase", "the specific phrase for the specific trauma", "the agreement-loaded repair phrase", "the trauma-deactivating phrase", "the phrase that makes you go soft", "the acknowledgement phrase for the rush", "Tara's I see how much you care", "the phrase that disintegrates the trauma loop", "the repair phrase move", "the named phrase the partner uses", "the partner's pre-agreed sentence for the pattern", "the recognition phrase as trauma off-switch", "the under-the-trauma acknowledgement phrase", "Janine's I see how much you care", "the Groundbreakers origin of the phrase", "Joe's late-for-dinner trauma", "Joe's trauma with time", "the rush trauma childhood origin", "Tara's you're right phrase", "you're right as a repair phrase", "the reciprocal repair phrase", "Joe had a problem with that one at first", "got it into my bones before I could say it", "the receiving-partner side of the phrase", "the phrase the recognizing partner has to find their way to deliver", "the practice required to deliver the phrase clean", "physical holding as the attuned response", "be embraced in a strong way as the attuned response", "no fixing just holding as the attuned response"]
 tags: ["move", "fighting", "couples", "trauma", "repair", "agreements", "phrase", "marriage"]
-related: ["fight-agreements-made-outside-the-fight", "agreements-must-be-co-created-not-prescribed", "cant-make-agreements-during-the-fight", "name-im-in-my-trauma-as-couple-language", "see-yourself-when-they-cant-see-you", "every-fight-can-bring-you-closer", "i-see-how-much-you-care-as-of-course-move", "trauma-heals-in-relationship", "reflect-back-to-make-partner-feel-heard", "say-of-course-i-just-want-to-be-seen-here"]
-sources: ["2025-01-29_The Best Trick For Having Great Fights In Relationship"]
+related: ["fight-agreements-made-outside-the-fight", "agreements-must-be-co-created-not-prescribed", "cant-make-agreements-during-the-fight", "name-im-in-my-trauma-as-couple-language", "see-yourself-when-they-cant-see-you", "every-fight-can-bring-you-closer", "trauma-heals-in-relationship", "reflect-back-to-make-partner-feel-heard", "say-of-course-i-just-want-to-be-seen-here", "repair-phrase-must-feel-clean-to-deliver", "we-make-it-hard-to-be-seen-when-in-our-trauma", "the-fight-is-asking-you-to-feel-what-you-couldnt"]
+sources: ["2025-01-29_The Best Trick For Having Great Fights In Relationship", "2025-03-12_Unlocking your trauma pattern (how to see and be seen)"]
 ---
 
 # The Pre-Agreed Repair Phrase
@@ -29,6 +29,76 @@ The structure of this specific example:
 - **The phrase.** "I see how much you care."
 - **What the phrase does.** It names the true thing under the trauma deformation. The acknowledgement of the care dissolves the need for the rush (which was trying to express the care), which dissolves the urge to control (which was the rush trying to act itself out).
 - **The outcome.** Joe goes soft. The rush ends. The control attempt ends. The fight ends or transforms.
+
+## The Origin of the Phrase (Asking the Group for the Words You Need)
+
+The phrase did not originate between Joe and Tara. It came from Janine, a participant in a week-long Groundbreakers program where Joe asked the group to help him find words that would deactivate his rush trauma.
+
+"One day we were doing a Groundbreakers. We were doing like our week-long program. And I said, I need help with this. When I'm in this trauma, I need to hear something that pulls me out of the trauma. I think it was Janine. Who came up with the expression, 'I see how much you care.' And it just dissolved my rush." -- Joe Hudson, Unlocking your trauma pattern
+
+This part of the example matters for two reasons. First, it shows that the phrase does not have to be invented inside the couple — someone outside the system, sometimes a stranger, may hear the trauma and name what is underneath more accurately than either partner can. The couple's job is to recognize the phrase when it lands and then load it into the agreement. Second, it shows that asking openly for the phrase is the move that surfaces it. Joe asked a room of people: *what could you say to me when I'm in this state that would pull me out of it?* The question made the answer findable.
+
+The implication for other couples: if you cannot find the phrase between the two of you, you can ask other people who know you. The phrase is something that names the truth under the trauma — that truth is sometimes more legible to a third party than to the partner who is in the loop with you every day.
+
+## The Childhood Origin That Made the Rush Trauma
+
+The rush did not start with Tara or with parenting. It started in Joe's own childhood, with a specific time-anxiety transmission from his mother:
+
+"I'm hanging out with my mom. My dad's supposed to meet us at dinner. He was like 5 minutes late, which he seldom was. And my mom was like, I think, full panic attack. That's how I was raised with time. So you can imagine I have like some trauma with time." -- Joe Hudson, Unlocking your trauma pattern
+
+The trauma was: someone five minutes late = catastrophe in the home. The lesson encoded: caring about people on time is what shows you love them; failure to be on time is dangerous; the panic of "we are late" carries the weight of "something terrible could happen." Joe, as an adult parent, runs the same panic when his kids are slow leaving for a party — honking the horn, rushing them, being "a dick" in his own description. The rush is the inheritance of his mother's panic, attempting to do what it always tried to do: communicate that he cares enough to keep everyone safe.
+
+The phrase "I see how much you care" lands on that exact spot. It names what was true in his mother's panic and what is true in Joe's rush: the urgency is care. The care, finally named, no longer has to produce the rush to be visible. See [[capital-t-vs-small-t-trauma]] for the kind of trauma at work and [[trauma-mapping]] for the inheritance mechanism.
+
+## The Reciprocal Example: Tara's "You're Right"
+
+The move is not one-directional. Tara has her own trauma pattern, and Joe has a phrase he says to her. Hers is being made wrong as a child; the phrase she needs is the simple, complete validation of being right:
+
+"I remember this one, Tara was just like, I just need to hear I'm right. You're right. You're absolutely 100% right. Like, yep, you're right. And boy, I had a problem with that one at first. I was like, right. But I realized like, oh, that it's not about being right or not being right. What it's about is that she's in her trauma. And when she was a kid, she was always made wrong. And she just needed to be told, oh, hey, I'm, I'm right." -- Joe Hudson, Unlocking your trauma pattern
+
+The same structural recipe applies: pattern (Tara goes into a wrong-making loop), truth underneath (she is reaching for the validation of being right that the original caregiver never gave), phrase (some version of "you're right"), what the phrase does (gives the trauma exactly what it was reaching for, dissolves the need to keep arguing).
+
+The reciprocity is important. If only one partner is the trauma-firing one and only the other is the recognizing one, the move installs an asymmetry that becomes its own resentment over time. Both partners have patterns; both partners have phrases the other says.
+
+## The Receiving Partner Has to Find a Way to Deliver the Phrase Cleanly
+
+Joe's experience with Tara's phrase reveals an under-discussed half of the move: the partner who is supposed to say the phrase often has their own resistance to saying it. The phrase has to be delivered cleanly — without sarcasm, without resentment, without backloading. If it cannot be delivered cleanly, it lands as the opposite of what it is supposed to be.
+
+"And boy, I had a problem with that one at first. I was like, right. But I realized like, oh, that it's not about being right or not being right... I couldn't say you were right for a while until I got it into my bones what it was actually." -- Joe Hudson, Unlocking your trauma pattern
+
+The "got it into my bones" is load-bearing. Joe could not say "you're right" cleanly while he was still privately defending against being wrong himself, while he was still hearing the phrase through his own truth-and-falseness frame, while he was still attached to the literal content of the disagreement. He had to take in *what the phrase actually does for Tara* — that it is meeting her childhood wound, that it has nothing to do with the content — before his mouth could deliver it without contamination.
+
+This is part of why the phrase is built over time. The first time it gets used, it may still carry some of the recognizing partner's own resistance. As the partner internalizes what the phrase is doing, the delivery cleans up. Over time the phrase becomes effortlessly clean because the partner is no longer fighting against what they have to say.
+
+If the resistance cannot be worked through, the move is not available. See [[repair-phrase-must-feel-clean-to-deliver]] for the principle that protects against forcing a phrase that the recognizing partner is not yet able to mean.
+
+## Not Always a Phrase: Physical Holding as an Attuned Response
+
+The "phrase" frame is one common form, but the attuned response can also be physical. Sometimes the trauma is asking not for words but for a specific kind of contact:
+
+"If you're feeling scared, you don't need me to fix you. You just need to be physically held. You just need to be like embraced in a, like a strong way." -- Joe Hudson, Unlocking your trauma pattern
+
+The structure is the same as the phrase version: a specific recurring activation in one partner, a specific truth underneath (this person needs to be held, not fixed), a specific action the other partner can take (firm physical embrace, no problem-solving). The agreement is co-created. The action is pre-loaded. When the activation fires, the partner offers the held-embrace and the trauma's attempt to keep firing for the contact it never got begins to release.
+
+Other shapes the attuned response can take, named or implied across Joe's examples: sitting silently next to the person while they cry; placing a hand on their knee; saying "I'm right here with you"; not trying to stop the emotion. The form depends on what the trauma is reaching for. The work is to identify what that is, together.
+
+## The Conversation That Builds the Phrase or Action
+
+The phrase or action does not assemble itself. It comes out of a specific conversation the couple has, often more than once:
+
+"What's the— what's the thing that I can say to you?... What do you most want in that moment? In that moment when you're fucking like feeling like I'm not— that you're all alone in the relationship and I don't get you. Like, what is it that you want me to say? What's the thing that you want most that you never got as a kid?" -- Joe Hudson, Unlocking your trauma pattern
+
+The structure of the question is precise: *what is the thing you want most that you never got as a kid?* The question routes directly to the original wound. The answer to that question, translated into a sentence or action the partner can deliver, becomes the phrase or move.
+
+Note that the question is asked outside the fight, when both are regulated. Mid-fight, neither partner can produce the answer cleanly. See [[cant-make-agreements-during-the-fight]] for why the timing matters.
+
+## The Iteration Rule
+
+The first attempted phrase or action is often not the right one. Trauma is precise; the response has to be precise to match. Most couples need multiple iterations before they land on what actually works:
+
+"It'll take many iterations to find the thing that like actually like gets you, but you can find that thing." -- Joe Hudson, Unlocking your trauma pattern
+
+This is the same iteration rule that governs [[fight-agreements-made-outside-the-fight]] in general. The first draft is a hypothesis. The couple tries it, notices what worked and what did not, and tunes. Over months, the phrases and actions sharpen. The early versions are not failures; they are the data that produces the later versions.
 
 ## The General Shape
 
@@ -120,6 +190,9 @@ The process applies in both directions. Each partner has phrases for the other's
 - Toward [[every-fight-can-bring-you-closer]] as the destination this serves
 - Toward [[reflect-back-to-make-partner-feel-heard]] for the wider family of recognition moves
 - Toward [[say-of-course-i-just-want-to-be-seen-here]] for the self-version of the recognition move
+- Toward [[repair-phrase-must-feel-clean-to-deliver]] when the recognizing partner cannot yet say the phrase without contamination, naming the principle that prevents forcing the move before it can land clean
+- Toward [[we-make-it-hard-to-be-seen-when-in-our-trauma]] for the underlying pattern this move addresses — the trauma-firing partner has become hard to see in exactly the moment they most need to be seen
+- Toward [[the-fight-is-asking-you-to-feel-what-you-couldnt]] for the structural account of why the phrase works at all
 
 ## Tone
 
@@ -128,3 +201,4 @@ Joe describes the example with warmth and a little wonder, as someone describing
 ## Sources
 
 - 2025-01-29_The Best Trick For Having Great Fights In Relationship (the "I see how much you care" example from Joe's marriage; the structure of how the phrase works on his rush trauma; the framing of how Tara knows the phrase will land because it was pre-agreed; the implication that both partners have phrases for each other's patterns)
+- 2025-03-12_Unlocking your trauma pattern (how to see and be seen) (the origin of the phrase in a Groundbreakers week-long, with Janine offering it after Joe asked the room to help him find what could deactivate his rush; the childhood source of the rush trauma — Joe's mom in full panic when his dad was five minutes late for dinner; the reciprocal example of Tara's "you're right" phrase for her wrong-making trauma; Joe's struggle to deliver Tara's phrase cleanly — "I had a problem with that one at first... I couldn't say you were right for a while until I got it into my bones what it was actually"; the non-phrase variant of the move — being physically held in a strong way as the attuned response to fear, not being fixed; the explicit question that builds the phrase or action — "what is the thing that you want most that you never got as a kid"; the iteration rule — "many iterations to find the thing that actually gets you")

@@ -4,8 +4,8 @@ id: passive-aggressive-vs-aggressive-aggressive
 title: "Passive-Aggressive vs. Aggressive-Aggressive"
 aliases: ["passive aggressive vs aggressive aggressive", "passive aggression vs direct anger", "covert anger vs open anger", "anger through safety language", "passive aggression as kinked anger", "open anger is easier to meet", "covert aggression", "anger I'm not allowed to own", "perpetual lateness as passive aggression", "confusion as passive aggression", "playing dumb as passive aggression", "needling", "the I'm not mad you're mad direct form", "the can-own-but-still-hide form"]
 tags: ["distinction", "anger", "passive aggression", "kinked emotions", "communication"]
-related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "invite-the-aggression-out", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "caring-vs-caretaking", "say-ouch", "withdrawal-of-love-as-passive-aggression", "passive-aggression-toward-self", "nice-vs-kind-from-open-heart", "self-aggression-permits-others-aggression"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-07-05_Passive Aggression"]
+related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "invite-the-aggression-out", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "caring-vs-caretaking", "say-ouch", "withdrawal-of-love-as-passive-aggression", "passive-aggression-toward-self", "nice-vs-kind-from-open-heart", "self-aggression-permits-others-aggression", "move-the-anger-then-draw-the-boundary", "joes-parents-criticism-boundary", "rebellion-or-submission-to-should", "empowered-vs-power", "boundaries"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-07-05_Passive Aggression", "2025-03-07_Passive Aggression： How To Identify & Respond"]
 ---
 
 # Passive-Aggressive vs. Aggressive-Aggressive
@@ -20,6 +20,12 @@ Both are anger aimed at a person. The difference is whether the anger is acknowl
 
 "Passive aggression is just — you could almost call it covert aggression, but it's basically aggression that's not being owned as aggression. Sometimes not by the person who's doing it, sometimes not by the person who it's being done to, but it's basically, I'm upset, but I'm not allowed to be angry, and therefore I'm going to be passively angry. So I'm going to figure out a way to attack you that isn't fully admitting to myself or to somebody else that it's an attack." -- Joe Hudson, Passive Aggression
 
+A simpler operational definition Joe also uses: passive aggression is **being mean while pretending to be nice**. Or, framed as the diagnostic test: if someone is doing something — consciously or subconsciously — to change you in a passive way, that is passive aggression.
+
+"The way to think about passive aggression so it's easy to see, it's like if somebody is doing something subconsciously or not subconsciously to change you in a passive way, that's passive aggression. Right? So it's being mean while pretending to be nice. It is guilt-tripping. It is nagging is a form of passive aggression. It's anything where the person feels like they don't have control, but they're still exerting control." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The diagnostic has two parts: an attempt to change someone, and a form that lets the attempter avoid owning the attempt. Guilting, nagging, criticism delivered as "just an observation" — all share this structure. The trying-to-change is what makes it aggression; the not-owning-it is what makes it passive.
+
 ## The Subtlety: Some People Can Own It and Still Do It
 
 The distinction is not purely about awareness. Some passive aggressors know exactly what they are doing — and continue to do it because the indirect form gets the work done with less risk than the direct form.
@@ -27,6 +33,26 @@ The distinction is not purely about awareness. Some passive aggressors know exac
 "Some people can own passive aggression, but they're still going to hide it. It's how good are you with your own anger, your own aggression, your own ambition. Like the more that you are able to be in love with those aspects of yourself, the less likely it's going to be that you're going to be passive in your aggression." -- Joe Hudson, Passive Aggression
 
 The deeper diagnostic: how at peace is the person with their own anger, aggression, and ambition? When those are loved, they tend to move directly. When they are forbidden — internally or culturally — they kink into the passive form. A person can be self-aware about the passive aggression and still do it, because the kink is at the level of permission, not at the level of awareness.
+
+The clearest illustration of self-aware passive aggression that Joe references: a documentary in which a group of mothers brag to each other about how good they are as guilt-trippers. They describe their specific techniques, their tone, what works on which child. The conscious knowledge of what they are doing is total. The behavior continues anyway because the form gets the result they want at lower cost than the direct form would.
+
+"I remember watching this film where all these moms — it was like a documentary sort of thing — all these moms were talking around and bragging how good of guilt trippers they were. They're like, 'I'm the best guilt tripper. This is how I do it. This is the tone.' I know, and that's what I did. I was like, 'Fucking gross.' I was like, 'Wait, they know they're doing this? They're doing this and they know?'" -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The documentary case is the limiting form. Most passive aggressors are somewhere in the middle: partial awareness, ability to recognize the behavior when named, inability to consistently stop running it. The identity protection ("I'm the one that's oppressed, I'm the victim") is what makes the seeing intermittent. When the identity is too entrenched, the person genuinely cannot see what they are doing. "Their identity is so entrenched in, I'm the one that's oppressed or I'm the victim, that they can't see that they're eh, eh, eh, eh." (Joe Hudson, Passive Aggression: How To Identify & Respond)
+
+## The Underlying Principle: Nobody Likes Being Told What to Do
+
+A structural principle underneath the whole pattern: no one likes being told what to do. Everyone resists. The only variable is how openly.
+
+"The truth about us as people is that nobody likes to be told what to do. We all resist. It's just how openly we resist." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+This is why passive aggression is the default response to perceived oppression. When a person feels they have been instructed, commanded, or pressured — and does not feel safe enough to refuse openly — the energy still has to go somewhere. It goes into the passive form.
+
+The same principle operates internally with the voice in the head. The critical voice issues commands ("you should, you should, you should") and a part of the self responds with passive aggression ("yeah, yeah, I'm gonna get right to that") even when the conscious mind is agreeing. This is why bad habits the voice has been demanding change on for years are still in place. See [[passive-aggression-toward-self]] and [[rebellion-or-submission-to-should]] for the internal versions of this dynamic.
+
+"We know this because, like the voice in the head. If you have a critical voice in the head and the critical voice in the head is like, 'you should do up, up, up, up, up,' and it gets really shitty at you, notice the reaction is usually some form of passive-aggressive because you haven't done everything the voice in the head has told you to do. You're like, 'yeah, man, fuck off. I'm not doing that.' Or 'yeah, you're right. I should do that. But really, fuck off. I'm not doing that.'" -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The implication for external relationships: anywhere you find yourself in a chronic position of being told what to do — and not feeling safe to openly refuse — the system will produce passive aggression. The fix is not "stop being passive-aggressive." The fix is to address the lack of safety to openly refuse, or to address the lack of empowerment to leave the situation entirely.
 
 ## Why the Distinction Matters in Coaching
 
@@ -93,7 +119,43 @@ Several things happen at once in this move:
 - The frame of "experiment" makes it lower-stakes.
 - The actual experience of being met in direct anger often is a relief.
 
+In Joe's facilitation practice, this move became the standard rule of thumb for managing passive aggression in groups. The rule was announced at the start of the workshop so it would not arrive as a surprise mid-session:
+
+"Our rule of thumb was when we'd say it at the beginning, once we figured it out, we'd say like, if we see someone being passive-aggressive, we're going to ask you to be just outright aggressive and like just yell and get mad at us and tell us, like, tell us your boundaries or whatever it was." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The pre-announcement matters. It establishes consent for the move before any specific instance of passive aggression occurs. When the move is then deployed in the moment, the person knows what is happening and has already agreed to the frame. This is part of why the move works in a facilitated context and does not work — and becomes its own anti-pattern — when applied to a partner or family member without the prior consent. See [[dont-weaponize-the-make-it-active-move]].
+
 See [[invite-the-aggression-out]] for the move treated separately.
+
+## The Move for the Person Who Realizes They Are the Passive Aggressor
+
+The above move is for the facilitator or receiver. The mirror move — for the person who recognizes they themselves are being passive-aggressive — has two steps in order: move the anger in private, then draw the boundary. See [[move-the-anger-then-draw-the-boundary]].
+
+"If you are the one that realizes you're being passive-aggressive, like you have resentment, then the thing to do is to move that anger, to like let the anger go, to express it, not at the person, not in an abusive way, but to just fully express that anger and then draw the boundary that you need to draw instead of feeling like you can't draw the boundary and you can't move the anger, which is that lack of empowerment, that lack of sovereignty, that lack of agency is the thing that makes somebody passive-aggressive. They don't feel like they can actually get what they want, and so they have to do it in a backhanded way." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The two-step move addresses the two halves of the kink: anger that cannot be expressed openly, and a no that cannot be drawn directly. Moving the anger discharges the held energy. Drawing the boundary changes the structure. Both halves are required.
+
+## The Mechanism Underneath: Lack of Empowerment
+
+The deepest framing of why passive aggression forms: it is what happens when someone does not have the empowerment, sovereignty, or agency to get what they want directly. The form is the system's workaround for the absence.
+
+"That lack of empowerment, that lack of sovereignty, that lack of agency is the thing that makes somebody passive-aggressive. They don't feel like they can actually get what they want, and so they have to do it in a backhanded way." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+This is why the move out of passive aggression cannot be just a behavioral correction. The form is the visible artifact of an underlying deficit. The work is to build the empowerment, not to manage the symptom.
+
+The implication for the AI coach: when someone presents chronic passive aggression as a behavior problem, look underneath for the place where they do not feel empowered to do what they want. The place will usually be specific — a particular relationship, a particular role, a particular pressure — and the boundary work and empowerment work are what dissolve the form. See [[empowered-vs-power]].
+
+The same applies to receiving passive aggression in your life. If you find yourself surrounded by passive-aggressive behavior, check whether you are participating in the disempowerment of the people around you. See [[aggression-amplifies-against-conflict-avoidance]] for the parallel mechanism with direct aggression and conflict avoidance.
+
+## A Boundary on Passive Aggression Is the Same Shape as a Boundary on Direct Aggression
+
+A common stuck point for the receiver: the passive form feels too vague to set a boundary about. "It wasn't really anything, it was just a comment, just a tone." Joe's point: the criticism, the guilt-trip, the snide remark is doing the same work as yelling. The same kind of boundary applies.
+
+"It's the same thing as if, like, I came home, my dad yelled at me all the time. I would say, hey, I'd love to see you, but it's not okay for you to yell at me, which I did at a different time in my relationship with my dad. So it's drawing that boundary." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The canonical example: Joe's boundary with his parents about the criticism they kept up every time he visited. See [[joes-parents-criticism-boundary]] for the full story — the line he drew, the 18 months of silence that followed, and what eventually happened in the family.
+
+The structural template is the same as for direct aggression: state what you will do under what condition, leave them free to continue or change, do not require them to change for the boundary to be valid. The fact that the aggression is indirect does not make the boundary indirect. See [[boundaries]].
 
 ## The Key Caveat: Not Recommending Anger At People
 
@@ -136,13 +198,18 @@ Both forms are kinked. Neither is morally worse than the other. The distinction 
 
 - Toward [[invite-the-aggression-out]]: the move for converting passive to direct in a facilitated context.
 - Toward [[say-ouch]]: the move for the receiving end of chronic passive aggression.
+- Toward [[move-the-anger-then-draw-the-boundary]]: the mirror move for the person who realizes they themselves are being passive-aggressive — release the anger in private, then draw the boundary.
+- Toward [[joes-parents-criticism-boundary]]: the canonical example of a passive-aggression boundary that held at substantial cost and ultimately changed the family system.
 - Toward [[dont-meet-aggression-with-aggression]]: the principle for the response side.
 - Toward [[dont-weaponize-the-make-it-active-move]]: the anti-pattern for what to avoid bringing to your partner.
 - Toward [[passive-aggression-toward-self]]: the internal version.
+- Toward [[rebellion-or-submission-to-should]]: how the "nobody likes being told what to do" principle operates with the voice in the head.
+- Toward [[empowered-vs-power]]: the stance that the underlying empowerment-work builds toward.
 - Toward [[withdrawal-of-love-as-passive-aggression]]: the metaphor-form of the whole pattern.
 - Toward [[self-aggression-permits-others-aggression]]: the bidirectional principle on the work that resolves it.
 - Toward [[nice-vs-kind-from-open-heart]]: the cultural soil that breeds the form.
 - Toward [[list-who-you-subtly-blame]]: the experiment that makes one's own version visible.
+- Toward [[boundaries]]: the broader teaching on the response form.
 - Toward [[kinked-emotions]]: the underlying mechanism.
 - Toward [[anger]]: the broader treatment of anger as emotion vs anger at someone.
 - Toward [[get-angry-in-the-car]]: the upstream practice that prevents the kink from forming in the first place.
@@ -155,3 +222,4 @@ Both forms are kinked. Neither is morally worse than the other. The distinction 
 - 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing on passive-aggressive vs aggressive-aggressive)
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
 - 2024-07-05_Passive Aggression (the comprehensive treatment: full taxonomy of forms, the internal version, the cultural soil, the response principles, the closing experiments)
+- 2025-03-07_Passive Aggression: How To Identify & Respond (the "mean while pretending to be nice" operational definition; the "nobody likes being told what to do, we all resist" structural principle and its connection to the voice in the head; the documentary-moms example of conscious passive aggression; the facilitation rule of thumb of pre-announcing the make-it-active move; the lack-of-empowerment framing as the deepest mechanism; the mirror move for the realized passive-aggressor; the Joe-and-his-parents-criticism-boundary story)

@@ -2,10 +2,10 @@
 type: principle
 id: resentment-as-unspoken-want
 title: "Resentment Means You Are Not Following Your Wants"
-aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic", "resentment is built when there's anger that's unexpressed", "resentment as unexpressed anger", "the three sources of resentment", "the three corresponding moves for resentment", "boundaries asking admiration as the three moves for resentment"]
+aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic", "resentment is built when there's anger that's unexpressed", "resentment as unexpressed anger", "the three sources of resentment", "the three corresponding moves for resentment", "boundaries asking admiration as the three moves for resentment", "resentment is repressed anger pointing at a boundary", "anger underneath resentment is pointing at a boundary", "the anger is pointing at how I want to interact with you", "the boundary defines the wanted interaction", "you hold the resentment because you can't draw the boundary", "if you could draw the boundary you wouldn't have to hold the resentment"]
 tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment", "admiration", "envy"]
-related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love"]
-sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful"]
+related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love", "resentment-saturates-other-fights", "move-the-anger-then-draw-the-boundary", "joe-and-tara-the-fridge-resentment"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
 ---
 
 # Resentment Means You Are Not Following Your Wants
@@ -99,6 +99,30 @@ The anger underneath the resentment is operationally connected: anger is the ene
 
 The three moves are not alternatives. In a complex resentment, all three are usually relevant. The marriage where a wife resents her husband's career freedom typically calls for all three: draw the boundary around what does not work, ask for what is wanted, and admire the freedom in the husband as a way of allowing the same freedom in the self.
 
+## The Anger Is Pointing At The Boundary
+
+A more compressed framing of the same mechanism, from the resentment-in-relationships teaching: resentment is repressed anger, and the anger is pointing at a boundary that has not been drawn.
+
+"Whenever resentment was there in the relationship, there was an anger, there was some sort of frustration, that resentment was kind of a sign of a repressed anger that was happening. ... It is anger, but the anger is pointing at a boundary. So it's anger, da da da da da. I'm like, don't fucking take care of me, whatever it is. But underneath that, that anger is a boundary. This is how I wanna interact with you." -- Joe Hudson, What Causes Resentment in Relationships
+
+The boundary, in this frame, is not a wall. The boundary is the statement of how the person wants to interact with the other. The anger surfaces because the wanted interaction is not happening. The resentment forms because the boundary has not been articulated.
+
+The structural reason the resentment lingers: you only need to hold a resentment when you cannot draw the boundary that would have prevented the situation. Once the boundary is drawn, the future is protected, and the resentment has nothing to do.
+
+"Because oftentimes the resentment lingers because the boundary hasn't been drawn. If you can draw the boundary, then why do you have to hold on to it? Because you're okay for the future. It's the fact that you don't feel like you can draw that boundary that makes it so that you have to hold on to this resentment." -- Joe Hudson, What Causes Resentment in Relationships
+
+This is the operational logic underneath the broader principle: the resentment is the protective function the system runs when boundary-drawing has been blocked. Removing the block (moving the anger, drawing the boundary) removes the need for the protective function. The resentment relaxes because the structure that required it no longer exists.
+
+See [[move-the-anger-then-draw-the-boundary]] for the two-step operational form and [[joe-and-tara-the-fridge-resentment]] for the canonical marital instance.
+
+## The Mechanism Within a Couple
+
+In a couple, the resentment-anger-boundary chain typically has a third element: caretaking. One partner takes care of the other in a way the other did not ask for. The cared-for has anger about the disempowerment, but cannot express it directly because the caretaker was "trying to help." So the anger does not move, the boundary does not get drawn, and the resentment shows up sideways — chronic criticism of the action that was taken, irritation about little things, a low-grade not-wanting-to-be-around-the-person quality.
+
+The fridge story is the canonical illustration: Joe bought a fridge to "just get it done." Tara had wanted a silent fridge and wanted to do the research herself. For six months the fridge could do no right. The anger was real but had nowhere to go; the boundary ("don't buy the fridge until we talk") was the one that had not been drawn. The resentment was holding both. See [[joe-and-tara-the-fridge-resentment]] for the full structure.
+
+The downstream consequence — and the reason this matters for couples coaching — is that the unaddressed resentment loads every subsequent fight in the relationship. See [[resentment-saturates-other-fights]] for what this does to the couple's ability to resolve any conflict cleanly.
+
 ## What This Is Not
 
 - Not a license to use "I'm resentful" as a weapon. The signal points back at you. It does not authorize blaming the other person.
@@ -132,3 +156,4 @@ The three moves are not alternatives. In a complex resentment, all three are usu
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
 - 2024-09-02_How To Stop Being Resentful (the three-part teaching naming the three specific moves: boundaries, asking, admiration; the explicit identification of unexpressed anger as the source of much resentment; the marriage example of mutual resentment about what each partner has that the other does not)
+- 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the compressed framing that resentment is repressed anger pointing at a boundary; the structural reason resentment lingers when the boundary cannot be drawn; the fridge story as the canonical marital instance of the caretaking-anger-boundary-resentment chain; the principle that the boundary is the statement of how you want to interact with the other person, not a wall)

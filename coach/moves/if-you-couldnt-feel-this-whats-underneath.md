@@ -2,9 +2,9 @@
 type: move
 id: if-you-couldnt-feel-this-whats-underneath
 title: "If You Couldn't Feel This, What Would Be Left to Feel?"
-aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent"]
-tags: ["moves", "emotional inquiry", "blocker emotions", "feel-over-figure", "feeling sequence", "descent"]
-sources: ["2024-02-22_How Do I Love My Mom？"]
+aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent", "if you couldn't have that reaction what would you feel or notice", "the if-you-couldnt-feel-it question for non-blocker emotions", "the question for finding what's under a strong reaction", "if you couldn't hate it what would you feel", "the hypothetical removal of the strong reaction"]
+tags: ["moves", "emotional inquiry", "blocker emotions", "feel-over-figure", "feeling sequence", "descent", "AOA", "Tara Howley"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle"]
 ---
 
 # If You Couldn't Feel This, What Would Be Left to Feel?
@@ -70,8 +70,27 @@ Other forms that do the same work:
 - "Assume you can't feel the guilt. What's underneath?"
 - "Just see what you have to feel if you go underneath the guilt."
 - "If the guilt weren't there, what would be there?"
+- "If you couldn't have that reaction, what would you feel or notice?"
 
 The exact phrasing matters less than the structure: temporarily remove the top layer in the imagination, and ask the body what comes next.
+
+## Application Beyond Blocker Emotions: Strong Reactions in General
+
+The move was developed in the context of blocker emotions (guilt, shame, judgment) — the canonical case. The same structure works on any strong reaction that is functioning as a top layer, even when the reaction is not technically a blocker emotion. A strong "I hate this" or "I love this" or "fuck you" can be operating as a layer that holds something else off.
+
+Tara Howley uses the move in this broader form during her conversation with Michael Nagel, who has just said he hates being on the receiving end of care after a lifetime of being the rock for everyone:
+
+- **Michael:** "Yeah, the first thing out of my mouth is I hate it."
+- **Tara:** "I totally, fully, 100% get -- I hate it. I get it. I can imagine many of us would feel the same way in your shoes. But if you couldn't feel that, if you couldn't have that reaction, what would you feel or notice?"
+- **Michael:** "I've never done a trust fall per se, but that's the image that's coming to mind. Like, it just feels like this infinite trusting that I'm gonna be caught or I'm gonna be cared for..."
+
+The "I hate it" is not a guilt or shame layer. It is a real, valid reaction. Tara honors it first ("I totally, fully, 100% get -- I hate it"). Then she runs the same hypothetical-removal structure: if you couldn't feel that, what would be there? The answer that surfaces is the trust fall — the underneath material that the hate was holding off.
+
+The structural feature is the same. The hate is doing work. It is keeping the trust-fall vulnerability at bay. The question removes the hate hypothetically without requiring the person to stop hating, and the underneath surfaces. In Michael's case, what surfaces is not another emotion-layer but an image (the trust fall) that names the underneath dynamic. The body's answer is whatever-comes, not always a single feeling-word.
+
+This broader application is worth naming for the coach because the move's mechanism is more general than the blocker-emotion frame suggests. Any strong top-layer reaction can be temporarily removed by the question, and what surfaces is what the reaction has been protecting.
+
+The discrimination: if the top-layer reaction is a blocker emotion (guilt, shame, judgment), the move is descending through the blocker-emotion stack and what surfaces is usually another emotion layer underneath. If the top-layer reaction is a strong-but-non-blocker emotion (hate, love, anger, attraction), the move is removing the reaction hypothetically and what surfaces is often a less-defended-self underneath — an image, a vulnerability, a different relationship to the situation. Both are useful. Both work the same way.
 
 ## What This Move Is Not
 
@@ -112,3 +131,5 @@ The blocker emotions are designed to keep the underneath material from surfacing
 ## Sources
 
 - 2024-02-22_How Do I Love My Mom？
+- 2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha (Tara Howley's deployment of the move with Michael Nagel after his "I hate it" reaction to receiving care; the trust-fall image that surfaced when the hate was hypothetically removed; the demonstration that the move works on any strong reaction, not just blocker emotions like guilt or shame)
+- 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; the full exchange showing Tara honoring the hate first -- "I totally, fully, 100% get -- I hate it" -- before deploying the hypothetical-removal question; the timing of the move after the validation as part of why it lands)

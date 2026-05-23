@@ -2,10 +2,10 @@
 type: distinction
 id: resentment-as-caretaking-diagnostic
 title: "Resentment as Caretaking Diagnostic"
-aliases: ["resentment signals caretaking", "if you feel resentful you're caretaking", "the resentment tell", "two-way resentment in caretaking"]
+aliases: ["resentment signals caretaking", "if you feel resentful you're caretaking", "the resentment tell", "two-way resentment in caretaking", "the way resentment typically works in couples", "one person takes care of the other in a way they didn't want", "the disempower-by-helping mechanism", "the make-me-small-by-saving-me dynamic", "don't make my decisions for me resentment", "the caretaker took care of something I wanted to decide"]
 tags: ["caretaking", "diagnostic", "resentment", "codependence", "boundaries"]
-related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle", "resentment-as-unspoken-want"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_What Is Selfishness？"]
+related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle", "resentment-as-unspoken-want", "joe-and-tara-the-fridge-resentment", "move-the-anger-then-draw-the-boundary", "resentment-saturates-other-fights"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_What Is Selfishness？", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)"]
 ---
 
 # Resentment as Caretaking Diagnostic
@@ -51,6 +51,16 @@ The temptation, when resentment shows up, is to manage the resentment. To work o
 All of these miss the diagnostic. The resentment is not the malfunction. The resentment is information. The system telling both people the dynamic is corrupt.
 
 The correct response is to ask: what am I actually doing? Is this care or caretaking? Where am I trying to manage their experience? Where am I treating them as incapable? Where am I refusing to feel what I would have to feel if I stopped?
+
+## The Disempower-By-Helping Mechanism
+
+There is a specific form of caretaking that produces a specific form of resentment: the form where one partner takes care of a task or decision on the other's behalf, in a form the other did not ask for. The caretaker thinks they are being helpful. The cared-for experiences having a decision made for them that they wanted to make.
+
+"The way that resentment typically works is that one person is taking care of another person in some way that they don't want to be taken care of. And then the person starts resenting them. Like, hey, don't make me small, don't disempower me, don't make my decisions for me. Don't think that you have to save me all the time." -- Joe Hudson, What Causes Resentment in Relationships
+
+The bind for the cared-for is doubly tight: they cannot easily express anger at someone who was "trying to help," and they cannot easily draw a boundary against an action that has already been taken. The result is the kind of low-grade, returning resentment that surfaces as criticism of the thing the caretaker did, again and again, without ever quite landing on the underlying issue.
+
+See [[joe-and-tara-the-fridge-resentment]] for the canonical instance of this mechanism. Joe bought a fridge to "just get it done." Tara had wanted to research and choose a silent fridge. For six months the fridge could do no right. The resentment was Tara's anger about the disempowerment of the decision, plus the unboundaried way Joe had taken initiative, both unable to be expressed directly because Joe "was just trying to help."
 
 ## The Internal Sequence That Produces the Explosion
 
@@ -110,3 +120,4 @@ When a person describes being resented by someone they are caring for, the quest
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the disempower-by-helping mechanism named explicitly; the fridge story as the canonical instance of caretaking-produced resentment; the typical bind where the cared-for cannot express anger because the caretaker was "just trying to help"; the recognition that this form of resentment can persist even without overt blame between the partners)

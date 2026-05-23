@@ -4,8 +4,8 @@ id: passive-aggression-toward-self
 title: "Passive Aggression Toward Yourself (The Cheery Coach and the Undermining Voice)"
 aliases: ["passive aggression toward self", "internal passive aggression", "self-directed passive aggression", "the cheery internal coach", "the undermining inner voice", "turn that frown upside down voice", "the helpful coach self-talk", "the it's-never-going-to-work voice", "internal undermining", "passive aggression in the head", "passive aggression at yourself", "the self-coach as passive aggression", "you-can-do-it self-talk as aggression", "the never-going-to-work undermining"]
 tags: ["passive-aggression", "voice-in-the-head", "self-talk", "inner-critic", "self-aggression"]
-related: ["voice-in-the-head", "passive-aggressive-vs-aggressive-aggressive", "self-aggression-permits-others-aggression", "three-forms-of-anger-repression", "my-inner-critic-wont-stop", "intelligence-amplifies-self-criticism"]
-sources: ["2024-07-05_Passive Aggression"]
+related: ["voice-in-the-head", "passive-aggressive-vs-aggressive-aggressive", "self-aggression-permits-others-aggression", "three-forms-of-anger-repression", "my-inner-critic-wont-stop", "intelligence-amplifies-self-criticism", "rebellion-or-submission-to-should", "apply-view-to-the-voice"]
+sources: ["2024-07-05_Passive Aggression", "2025-03-07_Passive Aggression： How To Identify & Respond"]
 ---
 
 # Passive Aggression Toward Yourself
@@ -52,6 +52,18 @@ This voice does not look like aggression because it sounds like resignation or r
 "The part of the internal dialogue that goes, 'Oh, I just saw that thing. How do I make it stay?' That's like passive aggression. That's, that's like, it's an undermining. It's a saying that like, you can't, it's not going to work. It's like that little, 'Yeah, this is never going to work,' that part of your voice in your head also can be incredibly passive-aggressive." -- Joe Hudson, Passive Aggression
 
 The function is the same as external passive aggression: produce a state in the other (here, the other part of yourself) while preserving plausible deniability about being the cause. The voice can claim it was just being realistic.
+
+## The Pattern: Critical Voice Triggers Internal Passive Aggression
+
+There is a third internal form that runs alongside the cheery coach and the undermining voice: the passive-aggressive response from the listener-self when the critical voice issues commands. The critical voice says "you should, you should, you should." A part of the self responds with "yeah, fuck off, I'm not doing that" — or worse, "yeah, you're right, I should — but really, fuck off, I'm not doing that."
+
+This is the everyday operation of the same principle that produces external passive aggression. Nobody likes being told what to do, including by oneself. The internal response to the internal command takes the same shape as the external response to external commands. See [[rebellion-or-submission-to-should]] for the broader pattern this fits inside.
+
+"We know this because, like the voice in the head. If you have a critical voice in the head and the critical voice in the head is like, 'you should do up, up, up, up, up,' and it gets really shitty at you, notice the reaction is usually some form of passive-aggressive because you haven't done everything the voice in the head has told you to do. You're like, 'yeah, man, fuck off. I'm not doing that.' Or 'yeah, you're right. I should do that. But really, fuck off. I'm not doing that.'" -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+The diagnostic value of this framing: the long-running bad habits the voice has been demanding change on for years are still in place because the internal listener has been passive-aggressing them away. The compliance is on the surface; the noncompliance is the actual behavior. This is why the bully-voice approach fails as a change strategy — it produces the same passive-aggressive response in the self that bullying produces in others.
+
+The corollary is that softening the critical voice (see [[apply-view-to-the-voice]]) often produces behavior change where bullying did not. The part being addressed is no longer in the position of having to be passive-aggressive about the demand.
 
 ## The Pair: Bully and Undermining
 
@@ -125,3 +137,4 @@ The "this is going to bother people" framing acknowledges that the teaching dist
 ## Sources
 
 - 2024-07-05_Passive Aggression
+- 2025-03-07_Passive Aggression: How To Identify & Respond (the third internal form: the listener-self's passive-aggressive response to the critical voice's commands; the "yeah, fuck off, I'm not doing that" mechanism; the connection to why bullying-as-change-strategy fails and softening the voice produces actual behavior change)

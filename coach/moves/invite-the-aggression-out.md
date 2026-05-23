@@ -5,7 +5,7 @@ title: "Invite the Aggression Out"
 aliases: ["convert passive to direct anger", "ask for the direct anger", "can you be direct with me", "name the passive aggression", "the experiment invitation move", "invite the aggression out as experiment", "request direct anger", "make passive aggression active", "rule of thumb permission for anger"]
 tags: ["move", "anger", "passive aggression", "group dynamics", "facilitation"]
 related: ["passive-aggressive-vs-aggressive-aggressive", "anger", "welcoming-the-others-emotion", "kinked-emotions", "dont-weaponize-the-make-it-active-move", "say-ouch", "dont-do-anger-at-your-partner"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2024-07-05_Passive Aggression"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2024-07-05_Passive Aggression", "2025-03-07_Passive Aggression： How To Identify & Respond"]
 ---
 
 # Invite the Aggression Out
@@ -68,6 +68,21 @@ Joe's general rule: do not direct anger at someone without their permission. Thi
 "Our rule of thumb is that we don't get angry at somebody. So that doesn't matter if it's aggressive anger or passive-aggressive anger. We don't get angry at somebody without permission. And so you want to be permissive — give, get permission. If we're facilitating somebody and we're getting paid to help somebody work with this stuff, we'll be like, hey, that's passive. Let's make it aggressive and like invite them into experiencing that." -- Joe Hudson, Passive Aggression
 
 The bracket of "facilitating somebody and we're getting paid" is significant. The move belongs to a coaching frame. Outside that frame, the structure of permission has to be built differently or skipped entirely.
+
+## Pre-Announcing the Rule of Thumb at the Start of a Workshop
+
+In Joe's early facilitation practice (24-person live workshops in San Francisco), the move became the standard rule of thumb for managing passive aggression in groups. The rule was announced at the very beginning of the workshop so it would not arrive as a surprise mid-session.
+
+"I remember when we were doing the facilitation, there would always be somebody who would be passive-aggressive. When we started, we were doing these 24-person things, like live in San Francisco, and there was always somebody who somehow or another felt like they were being oppressed by the situation, as if they couldn't leave, and they would start being really passive-aggressive. And our rule of thumb was when we'd say it at the beginning, once we figured it out, we'd say like, if we see someone being passive-aggressive, we're going to ask you to be just outright aggressive and like just yell and get mad at us and tell us, like, tell us your boundaries or whatever it was." -- Joe Hudson, Passive Aggression: How To Identify & Respond
+
+Why the pre-announcement matters:
+- It establishes consent for the move before any specific instance triggers it
+- The participant who later gets named has already agreed to the frame
+- It signals to the group that direct anger is welcome and that the indirect form will be made explicit
+- It reduces the shame of being named in the moment, because the naming is just executing on something everyone agreed to
+- It distinguishes the facilitated context from everyday relationships, where the move is the very anti-pattern it is trying to address (see [[dont-weaponize-the-make-it-active-move]])
+
+The "as if they couldn't leave" framing is also significant. People in workshops were producing passive aggression because they felt trapped — even though they could literally walk out. The felt-stuckness is what triggers the form, regardless of whether the actual situation contains the stuckness. This is consistent with the broader teaching that [[trappedness-feeling|trappedness is felt before it is true]].
 
 ## A Safer Variant: You Don't Need to Do It At Anybody
 
@@ -139,3 +154,4 @@ Joe's tone with this move is open, slightly playful, and undefended. Not solemn.
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2024-07-05_Passive Aggression (the permission rule, the safer variant of doing it without a target, the warnings about applying this in long-term relationships)
+- 2025-03-07_Passive Aggression: How To Identify & Respond (the pre-announcement of the rule of thumb at the start of facilitated workshops; the "as if they couldn't leave" framing on felt-stuckness producing the form)

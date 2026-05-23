@@ -4,8 +4,8 @@ id: empathy
 title: "Empathy"
 aliases: ["being with someone in their emotions", "E in VIEW", "true empathy", "felt sense of another", "being with not saving"]
 tags: ["VIEW", "emotions", "connection", "presence", "body", "mirror neurons"]
-related: ["view", "vulnerability", "wonder", "empathy-vs-sympathy", "losing-yourself-in-others", "caring-vs-caretaking", "staying-in-your-body", "is-this-mine", "decisions-are-emotional", "feeling-the-unfelt-emotion", "simplicity-on-the-other-side-of-complexity", "anger-as-cover-for-deeper-emotion"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2022-10-26_Introduction to VIEW"]
+related: ["view", "vulnerability", "wonder", "empathy-vs-sympathy", "losing-yourself-in-others", "caring-vs-caretaking", "staying-in-your-body", "is-this-mine", "decisions-are-emotional", "feeling-the-unfelt-emotion", "simplicity-on-the-other-side-of-complexity", "anger-as-cover-for-deeper-emotion", "being-with-vs-being-in", "highly-logical-more-inconsistent", "venting-friend-pattern"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2022-10-26_Empathy", "2022-10-26_Introduction to VIEW", "2025-03-04_How To Be Empathetic Without Losing Yourself"]
 ---
 
 # Empathy
@@ -15,6 +15,10 @@ sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW �
 Empathy is being with somebody's experience without losing yourself in it. Not watching their experience from a distance. Not wanting to change it. Being with them in it while remaining in your own body.
 
 "It's not watching somebody's experience, and it's not wanting to change somebody's experience. It's being with them in the experience without losing yourself in it." -- Joe Hudson, Empathy
+
+A sharper one-line formulation Joe uses: empathy is being **with** somebody **without being in** somebody. The preposition is the entire teaching. With keeps you beside, anchored, able to see them. In dissolves the boundary and you lose access to what is actually happening because their state has become your state. See [[being-with-vs-being-in]] for the full distinction and the operational mechanism (10-20% body attention) that holds the with-position in place.
+
+"Empathy is like being with somebody without being in somebody. But oftentimes we find ourselves in somebody." -- Joe Hudson, How To Be Empathetic Without Losing Yourself
 
 Empathy is a felt sense, not an intellectual understanding. It cannot be fully described by logic any more than the color green can be described to someone who has never seen it. Proprioception (knowing where your left foot is without looking) is a felt sense. Knowing when you are done going to the bathroom is a felt sense. Empathy operates at the same level: below thought, in the body.
 
@@ -138,3 +142,4 @@ The combination of gentleness and curiosity is what makes the descent sustainabl
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2022-10-26_Empathy (rebroadcast of the 2020-11-06 episode)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2025-03-04_How To Be Empathetic Without Losing Yourself (the sharper one-line formulation "being with somebody without being in somebody" as the prepositional core of the teaching; the 10-20% body-attention "trick" as the operational calibration that holds the with-position; the relationship application of can't-tell-whose-feeling-is-whose; the highly-logical-CEO example of how empathic merger transfers unearned conviction)
