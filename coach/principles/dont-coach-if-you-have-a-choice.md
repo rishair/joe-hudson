@@ -4,8 +4,8 @@ id: dont-coach-if-you-have-a-choice
 title: "Don't Coach If You Have a Choice ($100M Test)"
 aliases: ["don't coach if you have a choice", "if you think you have a choice don't fucking do it", "if you have a choice don't do it", "the $100 million coaching test", "the 100M test for coaching", "the hundred-million-dollar test for coaching", "would you give it up for $100 million", "the would-you-quit-for-100M test", "coaching as choicelessness", "the no-choice test for coaching", "the don't-do-it-if-you-can-choose principle for coaching", "the call-test for coaching", "if you can stop coaching you should", "coach only if you can't not coach", "the choicelessness test for coaching", "you must be unable to give it up", "the $100M-no-coaching-ever-again test", "no fucking chance answer to the $100M offer", "the price-of-quitting-coaching test", "vocation test for coaching", "the give-up-test for the calling", "the coaching call is non-negotiable", "if you can take the money you don't have the call", "the no-amount-of-money test for coaching"]
 tags: ["principle", "coaching", "vocation", "calling", "purpose", "choicelessness", "training-coaches"]
-related: ["choicelessness-as-purpose-marker", "coaches-foundation-self-awareness", "coaching-as-savior-role", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "training-coaches-and-facilitators", "purpose-is-recognized-not-found", "do-it-for-yourself-to-find-purpose", "be-of-service-doesnt-require-the-moniker", "coaches-life-must-be-healthy-first"]
-sources: ["2025-07-18_The Cost of Ignoring What You're Called to Do"]
+related: ["choicelessness-as-purpose-marker", "coaches-foundation-self-awareness", "coaching-as-savior-role", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "training-coaches-and-facilitators", "purpose-is-recognized-not-found", "do-it-for-yourself-to-find-purpose", "be-of-service-doesnt-require-the-moniker", "coaches-life-must-be-healthy-first", "joe-and-the-CEO-everyone-said-dont-let-in", "jerry-and-the-lawyer-who-cried", "coaches-never-stop-growing-and-need-supervision", "transformational-coaching-vs-performance-coaching", "recognition-feeling-balance-then-call-emerges"]
+sources: ["2025-07-18_The Cost of Ignoring What You're Called to Do", "2025-07-18_What It's Like To Live Your Purpose"]
 ---
 
 # Don't Coach If You Have a Choice
@@ -118,6 +118,11 @@ The principle is not a moral judgment of people who want to coach. Many of the s
 - Toward [[do-it-for-yourself-to-find-purpose]]: the related principle about the source of vocation
 - Toward [[purpose-is-recognized-not-found]]: the deeper principle that the call is acknowledged, not chosen
 - Toward [[own-your-narcissism]]: the foundational ingredient that allows the role to be held without distortion
+- Toward [[joe-and-the-CEO-everyone-said-dont-let-in]]: Joe's example of the call operating in his own coaching work as the felt-quality the principle points at
+- Toward [[jerry-and-the-lawyer-who-cried]]: Jerry's example of the call-recognition moment that produced his transition from VC to coach
+- Toward [[coaches-never-stop-growing-and-need-supervision]]: the related principle about what happens after the call has been confirmed and the role has been entered
+- Toward [[transformational-coaching-vs-performance-coaching]]: the distinction that determines which version of coaching the call is for
+- Toward [[recognition-feeling-balance-then-call-emerges]]: the order-of-operations principle that explains how the call becomes audible
 
 ## Tone
 
@@ -128,3 +133,4 @@ Jerry's tone matches: serious, structural, willing to name damage as damage. The
 ## Sources
 
 - 2025-07-18_The Cost of Ignoring What You're Called to Do (the "if you think you have a choice, don't fucking do it" formulation; the $100 million test and the unanimous "no fucking chance" answer from all three people present; "you'll do damage" as the structural consequence Jerry and Joe both affirm; "if you want to be of service you can do that in every aspect of your life" as the redirect for the service-impulse; the natural-filling-of-the-roster observation; "the moniker over the being of service" as wobbly; Jerry's "vocation is not the alternate to the original plan" framing; the failed-startup-to-coach as common but structurally wrong path)
+- 2025-07-18_What It's Like To Live Your Purpose (continuation of the same conversation; Joe's CEO-everyone-said-don't-let-in example as the first-time the call hit him like a ton of bricks in his coaching work, with the structural framing that following the call requires recognizing it overrides preference, family wisdom, and even strong consensus; Jerry's lawyer-who-cried example as the call-recognition moment that produced his own VC-to-coach transition, with the "I'll coach on Wednesdays" hedge that did not hold over time; Chris McConnell's "it's about damn time" as the outside witness recognizing the call before Jerry had named it)

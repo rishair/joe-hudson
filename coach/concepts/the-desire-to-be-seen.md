@@ -5,7 +5,7 @@ title: "The Desire to Be Seen"
 aliases: ["desire to be seen", "the desire to be seen", "I just want to be seen", "biological imperative to be seen", "wanting to be seen", "longing to be seen", "seen and heard", "I just want to be seen and heard", "the want-to-be-seen", "hunger for being seen", "the see-me hunger", "see-me see-me dynamic", "the seeing need", "thrival not survival", "thrivival need", "acknowledgement drives performance", "under most fights is I just want to be seen", "infant tracking mama's face", "the basic need to be seen", "I don't like being seen", "I like to hide myself", "I'm either putting on a mask or running away from people", "mask or run as the seeing-strategies of the false-front", "what is being hidden is the emotions", "the don't-see-me side is hiding the emotions"]
 tags: ["seeing", "connection", "developmental", "biological", "shame", "conflict", "acknowledgement", "infant", "tribe", "social-anxiety", "hiding", "mask"]
 related: ["being-heard", "false-front", "pointers-to-unseen-parts", "see-yourself-and-acknowledge-others", "wanting-from-lack-vs-wanting-from-wholeness", "in-the-story-im-not-being-seen", "say-of-course-i-just-want-to-be-seen-here", "you-cant-be-seen-when-youre-not-in-yourself", "shame-as-disconnection", "two-levels-of-hurt-in-being-misunderstood", "letting-it-in-vs-deflecting-the-welcome", "we-make-it-hard-to-be-seen-when-in-our-trauma", "i-get-anxious-in-relationships", "bring-the-presenting-problem-into-the-room-now", "ask-whats-wrong-with-you-into-the-shame"]
-sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
+sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method", "2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)"]
 ---
 
 # The Desire to Be Seen
@@ -125,6 +125,20 @@ In the source coaching session, the man who reported "I'm either putting on a ma
 
 This re-frames the work. The work is not to address some specific defective content. The work is to let the emotional life be visible in the room. The mask drops by being allowed to drop. The running stops by staying with the emotion that the running was avoiding. The [[false-front]] dissolves not by being attacked but by being made unnecessary — the underneath is allowed to show, and the underneath turns out to be emotion, not deformity.
 
+## The Overachiever Form: Producing to Be Seen and Then Refusing the Seeing
+
+A specific configuration of the see-me / don't-see-me push-pull plays out in the overachiever, the perfectionist, the chronic producer. The push-pull runs through the achievement domain rather than through the relational domain, but the structure is the same.
+
+The see-me side runs as the producing-engine. The person produces constantly — output, achievements, contributions, fixings, helpings — as the strategy to be seen. The producing is downstream of the same biological need to be seen, channeled through the achievement axis. The hope is that the output will produce the recognition that the being could not produce.
+
+The don't-see-me side runs as the deflection of the seeing when it arrives. Compliments that come for the output bounce. Recognition that names the achievement gets pushed away. The person who has been producing constantly cannot let the recognition land somatically because letting it land would require feeling the underneath the producing was trying to outrun.
+
+The mistranslation specific to this form: the recognition arrives for the output, but the wound is for the being. Output-recognition lands on the output and does not reach the place that is actually hungry. The hunger persists. The producing intensifies. The next round of recognition bounces. The loop continues.
+
+A specific complaint pattern: the person says they feel misvalued when called an achievement-coded word ("overachiever," "creative," "warrior"). The complaint surfaces the gap — what they wanted was to be seen for the cost, the care, the effort, the survival-mode. What they got was praise for the output. The praise feels like dismissal because it credits the wrong layer.
+
+The coaching path for this form involves offering the reflective compliment that names the effort and the cost (see [[reflect-effort-back-as-the-compliment]]) before re-engineering the achievement-language to carry the same care-content the client was actually hungry for (see [[reframe-the-trait-they-feel-stung-by-as-evidence-of-care]]). See [[i-feel-misvalued-as-an-overachiever]] for the concern article and [[overachieving-is-survival-mode]] for the principle that names what the producing-engine is actually doing.
+
 ## Upstream (What Leads Here)
 
 - When someone says "I just want to be seen" or "I don't feel seen" in any relationship complaint
@@ -156,3 +170,4 @@ When this is named in coaching, the tone is matter-of-fact and de-pathologizing.
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the biological imperative framing, the see-me-don't-see-me push-pull, the lack-vs-wholeness distinction, the acknowledgement-drives-performance teaching for organizations, the bidirectional mechanism where seeing others lets you receive seeing, the "under most fights is I just want to be seen" diagnostic)
 - 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the mistranslation dynamic: both partners asking "see me" by saying "you're wrong"; the shame-throw as the strategy for being seen that most reliably prevents the partner from being able to see; the asymmetric exit where one partner giving the seeing first produces almost-immediate reciprocation)
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) (the mask-or-run formulation of the don't-see-me side; the public Q&A presentation of the social-anxiety form of the desire-to-be-seen; the discovery that what is actually being hidden behind the mask and the running is emotion, not a defect of self)
+- 2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson) (the overachiever form of the see-me / don't-see-me push-pull, where producing-to-be-valued is the see-me strategy and deflecting compliments is the don't-see-me move; the mistranslation specific to this form, where recognition arrives for the output but the wound is for the being; the developmental origin in struggling-immigrant or otherwise survival-pressured parents who valued utility over being; the specific complaint that achievement-coded compliments feel like dismissal because they credit the wrong layer)

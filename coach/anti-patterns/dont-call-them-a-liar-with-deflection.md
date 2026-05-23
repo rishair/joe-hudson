@@ -4,7 +4,7 @@ id: dont-call-them-a-liar-with-deflection
 title: "Don't Deflect Compliments (You're Calling Them a Liar)"
 aliases: ["don't call them a liar with deflection", "deflecting a compliment is calling them a liar", "you're telling them they're a liar", "the polite-thank-you-while-still-thinking-they're-a-liar", "deflecting compliments is rude", "deflecting compliments costs them", "the deflection-as-disagreement anti-pattern", "deflection contradicts the giver", "saying thank you while disbelieving is still deflection", "the polite-deflection trap", "the polite-disbelief deflection", "the I'll-be-polite-but-disbelieve move", "no I'm not the pretty one move", "the you're-the-pretty-one deflection", "deflecting hurts the giver", "the compliment-giver felt rejection", "the giver stops giving compliments after deflection", "the deflection costs the relationship", "the unreceived compliment as rejection of the giver", "saying thank you is not enough you have to receive"]
 tags: ["compliments", "anti-pattern", "approval", "humility", "deflection", "smallness", "self-deprecation"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)", "2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)"]
 ---
 
 # Don't Deflect Compliments (You're Calling Them a Liar)
@@ -61,6 +61,30 @@ The arc: noticing the calling-them-a-liar move, switching to polite-thank-you, r
 - "If you don't receive the compliment, guess what it feels like to the person giving you the compliment? It feels like shit. Why would I keep giving you compliments if you don't actually receive them, if you don't enjoy them?" -- Joe Hudson, STOP Chasing Approval
 - "When I realized that I was calling people liars, I felt like such an asshole." -- Joe Hudson, STOP Chasing Approval
 
+## The Cake Metaphor for the Cost
+
+A concrete metaphor Joe uses to make the cost-to-the-giver vivid: imagine someone bakes you a beautiful cake. They bring it to you. You respond with a flat mm-hmm. Would they bring you another cake?
+
+"If I was to show up and I'm like, here's this beautiful cake I baked you, and you went, mm-hmm, would I bring you — would I bring you another fucking cake?" — Joe Hudson, You're Deflecting What You Want Most
+
+The extension exposes the loop: the deflector throws the cake on the ground, then experiences not getting cake, then complains about not getting cake.
+
+"You're, you're, you're tossing their cake on the ground, and then you're like, why aren't people bringing me cake?" — Joe Hudson, You're Deflecting What You Want Most
+
+The metaphor compresses the entire anti-pattern into one image. The cake is the compliment. The mm-hmm is the deflection. The non-arrival of future cakes is the cost. The complaint about no cakes is the deflector's experience of their own cake-throwing. See [[the-cake-metaphor-for-deflected-compliments]] for the full example article.
+
+The metaphor also functions as portable instruction. Late in the same session, Joe uses "stop flipping the cake over" as the short-form instruction that calls back to the established image. The metaphor has done the long-form work earlier and can now be invoked as shorthand.
+
+## The Live Demonstration Form
+
+A specific in-session form of teaching the anti-pattern: the coach performs the client's deflection back at them. The client says "mm-hmm" to the coach's compliment; the coach then says "mm-hmm" to the client's compliment; the coach immediately clarifies the move is a demonstration, not an agreement or rejection.
+
+"I'm saying I'm doing that, mm-hmm, not because I'm agreeing with you, because I'm showing you how you do it." — Joe Hudson, You're Deflecting What You Want Most
+
+The demonstration makes the anti-pattern visible from the outside. The client cannot see their own deflection because it happens from inside the body. Being on the receiving end of the same move makes the move recognizable. The client's "oh, I don't mean to do that" is the diagnostic that the deflection has been seen for the first time.
+
+See [[do-the-deflection-back-to-show-them-how-they-do-it]] for the full move article. The demonstration is one of the most effective ways to teach this anti-pattern in session because it bypasses the intellectual layer and lands at the body level.
+
 ## The "You're Just Saying That" Form (The Deflection Used Against the Giver)
 
 A related but inverted form of the anti-pattern: when the deflector accuses the giver of not really meaning the compliment. "You're just saying that," "you're being kind," "you have to say that," "you don't actually believe it." The accusation is the same calling-them-a-liar move, just stated more directly. The deflector is asserting that the giver's compliment was performative, polite, or false.
@@ -92,3 +116,4 @@ The corrective for the giver of compliments who is being told "you're just sayin
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "calling them a liar" framing, the polite-thank-you-while-disbelieving sequence, and the autobiographical arc from polite deflection to actual receiving)
 - 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the "you're just saying that" form as the explicit version of the calling-them-a-liar move; Joe's deliberate use of this form in coaching to test whether the client can stay open through a deflection; the move's diagnostic value in surfacing the underlying belief that compliments are not real)
+- 2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson) (the cake metaphor for the structural cost of deflection — would I bring you another cake; the cake-on-the-ground extension that diagnoses the deflector-creates-the-shortage loop; the live demonstration form where the coach performs the client's mm-hmm back at the client and clarifies "I'm doing that because I'm showing you how you do it"; the visible recognition "oh, I don't mean to do that" as the moment the deflection becomes visible from outside for the first time)

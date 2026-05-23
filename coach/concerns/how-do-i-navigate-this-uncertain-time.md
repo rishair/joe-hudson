@@ -4,7 +4,7 @@ id: how-do-i-navigate-this-uncertain-time
 title: "How do I navigate this uncertain time? / Everything feels uncertain right now"
 aliases: ["how do I navigate uncertainty", "how do I navigate this uncertain time", "everything feels uncertain right now", "the world is so uncertain", "we live in uncertain times", "I'm scared about the future", "I don't know what's going to happen", "how do I find certainty in this world", "how do I find some certainty", "I want some certainty in my life", "I want some stability", "I want to feel grounded in this chaos", "how do I make decisions in this uncertainty", "I'm scared about geopolitics", "I'm scared about the markets", "I'm scared about AI", "I'm scared about the economy", "I'm scared about what's coming", "I feel paralyzed by all this change", "I feel frozen by the news", "I'm dysregulated by everything happening", "the AI thing is freaking me out", "I don't know how to plan anything", "how do I move forward with conviction right now", "how do I make decisions in the midst of all this uncertainty", "the world feels like it's falling apart", "the world feels like it's coming apart", "everything is changing so fast I can't keep up", "I feel out of control of my life", "I can't predict anything anymore", "the uncertainty is killing me", "the not-knowing is unbearable", "I just want some stability", "I just want to know what's going to happen", "I keep doomscrolling", "I can't stop catastrophizing about the world", "I keep imagining the worst case", "everything's going to shit", "we're all fucked", "the I'm-living-in-uncertain-times concern", "the uncertain-times concern", "the world-is-falling-apart concern"]
 tags: ["uncertainty", "fear", "future", "chaos", "geopolitics", "AI", "control", "transformation"]
-sources: ["2025-04-25_Making the Most of Uncertain Times", "2025-04-25_Making The Most of Uncertainty"]
+sources: ["2025-04-25_Making the Most of Uncertain Times", "2025-04-25_Making The Most of Uncertainty", "2025-07-18_What It's Like To Live Your Purpose"]
 ---
 
 # How do I navigate this uncertain time? / Everything feels uncertain right now
@@ -69,6 +69,8 @@ The branching point depends on which artificial collapse the person is currently
 
 - **If the person comes from a chaotic family of origin**: their stance toward the current chaos is being shaped by an old imprint. Children of alcoholics often went one of two ways: extremely adaptive to chaos, or extremely controlling. Both are responses to the same imprint and both can be operating now. See [[alcoholic-family-chaos-vs-control-lineage]].
 
+- **If the person is a leader and they are stuck in long-horizon planning during the chaos**: this is structurally a Pattern 1 leader. The 5-year deck is fear-management. The work is to bring them into the felt fear so the cognitive grip releases. Once it does, the planning horizon naturally compresses to 3-6 months, which is the operational horizon where opportunity is actually visible. See [[two-ways-leaders-hold-uncertainty]] and [[short-horizon-planning-in-rapid-change]].
+
 - **If the person is treating the chaos as something being done to them**: this is the most common configuration and the most consequential. The shift is from "this is being done to me" to "this is an adventure I am taking ownership of." The shift is not optimism. It is the only stance that actually produces both better outcomes and a livable interior. See [[take-the-adventure-stance]].
 
 ## Coaching Path
@@ -106,3 +108,4 @@ The discrimination matters because the work differs. This concern's specific wor
 
 - 2025-04-25_Making the Most of Uncertain Times
 - 2025-04-25_Making The Most of Uncertainty (companion/alternate cut of the same teaching)
+- 2025-07-18_What It's Like To Live Your Purpose (the leader-specific extension: leaders in rapid-change periods split into two groups based on their relationship to their own fear, with Pattern 1 producing binary thinking and false-end thinking and Pattern 2 finding opportunity in compressed 3-6 month planning horizons; the implication for the leader-version of this concern: the long-horizon planning persistence is often fear-management; the work is to feel the fear so the horizon compresses naturally)

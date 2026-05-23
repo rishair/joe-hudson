@@ -4,8 +4,8 @@ id: burnout-cycle
 title: "The Burnout Cycle (Three Layers: Nervous System, Psychological, Emotional)"
 aliases: ["burnout cycle", "the burnout cycle", "three layers of burnout", "how burnout works", "what is burnout", "Joe's definition of burnout", "burnout as adrenal depletion plus psychological pressure plus emotional avoidance", "the burnout engine", "three faces of burnout", "burnout through three layers", "what causes burnout", "the structure of burnout", "burnout cycle definition", "running on adrenaline as burnout engine", "the burnout map", "the adrenal exhaustion diagnostic", "no-adrenaline at the bridge as adrenal exhaustion signal", "the empty adrenal reserve", "tiredness as recovery signal", "tiredness as the body asking to rest", "kids burnout and unschooling recovery"]
 tags: ["burnout", "adrenaline", "nervous system", "stress", "shoulds", "concept", "framework"]
-related: ["nervous-system-recovery-after-stress", "depression-four-levels", "should-as-threat", "urgency-as-motivation", "post-rest-second-wind-trap", "rest-is-an-accomplishment", "how-could-you-do-this-and-gain-energy", "energy-management-over-time-management", "wants-over-shoulds", "what-we-fear-we-invite", "im-burned-out", "ceo-pajama-house-study", "adrenaline-discharge-via-fear-activity", "nature-improves-itself"]
-sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-05-27_How Do I Not Burn Out Again？"]
+related: ["nervous-system-recovery-after-stress", "depression-four-levels", "should-as-threat", "urgency-as-motivation", "post-rest-second-wind-trap", "rest-is-an-accomplishment", "how-could-you-do-this-and-gain-energy", "energy-management-over-time-management", "wants-over-shoulds", "what-we-fear-we-invite", "im-burned-out", "ceo-pajama-house-study", "adrenaline-discharge-via-fear-activity", "nature-improves-itself", "stress-burnout-depression-progression", "optimize-for-downtime-not-productivity", "quality-of-downtime-matters", "inner-critic-prevents-rest-and-integration"]
+sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-05-27_How Do I Not Burn Out Again？", "2025-07-29_Why You're Exhausted (Even After Resting)"]
 ---
 
 # The Burnout Cycle
@@ -73,6 +73,14 @@ The cycle has two distinct sides, each with its own dynamics:
 "There's a couple things too. I, I've also seen it somewhat on a societal level where I notice that like if a society is like all run up on an idea, you know, like make as much money as you can in cocaine-fueled kind of caffeine-fueled expansion of on a societal level, then like you can just wait for that downturn to happen in the economy." -- Joe Hudson, The Burnout Cycle
 
 Cultures, companies, and individuals all run this cycle. The shape repeats at every scale.
+
+## The Critical Voice as Continuous Adrenal Attack
+
+A specific mechanism that drives the cycle from the inside: a critical voice constantly attacking the person produces the same nervous-system response as an external attacker. The body cannot distinguish internal attack from external threat. Years of internal self-criticism are years of continuous low-grade fight-or-flight activation, with the adrenal cost that follows.
+
+"There's things that can create depression in you, a critical voice in your head that's constantly beating you up, so you're constantly under adrenal attack." -- Joe Hudson, Why You're Exhausted (Even After Resting)
+
+This naming matters because the critical voice rarely gets counted as a burnout driver. The conversation about burnout usually focuses on workload, schedule, demands of others. The critical voice runs in the background, invisible to the burnout calculation, contributing more adrenal cost than any single external demand. A person can leave a difficult job and remain burnt out because the internal voice did not change. See [[inner-critic-prevents-rest-and-integration]] for the way the critical voice also blocks the recovery that would address the burnout, producing a double mechanism: the voice produces the burnout and prevents the rest that would resolve it.
 
 ## The Self-Reinforcing Trap
 
@@ -165,3 +173,4 @@ Direct, biological, slightly amused at the obviousness once stated. The cycle is
 
 - 2023-09-01_The Burnout Cycle
 - 2023-09-08_The Burnout Cycle
+- 2025-07-29_Why You're Exhausted (Even After Resting) (the explicit naming of the critical voice as continuous adrenal attack producing the same nervous-system depletion as external threat: "a critical voice in your head that's constantly beating you up, so you're constantly under adrenal attack"; the framing of the stress-burnout-depression sequence as one continuous mechanism rather than three separate conditions, building on the earlier burnout-cycle teachings)

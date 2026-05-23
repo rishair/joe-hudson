@@ -4,8 +4,8 @@ id: humility
 title: "Humility"
 aliases: ["what humility is", "Joe's definition of humility", "humility as not taking it personally", "thinking of yourself less", "humility is non-defense", "humility as intimacy with life", "humility is empty of self", "the empty self", "humility as empowerment", "humble and empowered", "humility as following the call", "humility is the dissolution of defense", "humility is no identity to defend", "non-defendedness", "true humility", "Joe's humility teaching", "humility as grace", "navigating the river not being the river", "humility as occupying your God-given space", "anava", "the both-and of humility and empowerment", "humility as intimacy and awe", "the fu-joe practice"]
 tags: ["humility", "ego", "identity", "self", "core concept", "non-defense", "intimacy", "grace"]
-related: ["identity", "every-identity-has-limits", "dont-fight-identity", "annihilation-reveals-what-is-real", "love-requires-empowerment", "feel-love-and-empowerment-as-the-same", "enjoyment-as-surrender", "impartiality", "spiritual-narcissism", "humility-vs-disempowerment", "the-arrogantly-humble-paradox", "let-it-move-through-and-clean-the-channel", "receive-the-projection-and-let-it-move-through", "surround-yourself-with-people-who-make-fun-of-you", "pucker-and-still-say-it", "nothing-is-wrong-with-it-its-just-painful"]
-sources: ["2023-09-15_Humility", "2023-10-18_Humility"]
+related: ["identity", "every-identity-has-limits", "dont-fight-identity", "annihilation-reveals-what-is-real", "love-requires-empowerment", "feel-love-and-empowerment-as-the-same", "enjoyment-as-surrender", "impartiality", "spiritual-narcissism", "humility-vs-disempowerment", "the-arrogantly-humble-paradox", "let-it-move-through-and-clean-the-channel", "receive-the-projection-and-let-it-move-through", "surround-yourself-with-people-who-make-fun-of-you", "pucker-and-still-say-it", "nothing-is-wrong-with-it-its-just-painful", "humility-developmental-arc", "epiphany-becomes-rut"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility", "2025-07-18_What It's Like To Live Your Purpose"]
 ---
 
 # Humility
@@ -154,6 +154,22 @@ The same structural problem appears in any role with public visibility. The role
 
 For the practical version of this in facilitation and coaching, see [[receive-the-projection-and-let-it-move-through]]: the teacher must be invisible enough that students can project freely (the asshole dad, the perfect parent, the answer-haver) and receive that projection without taking it on.
 
+## Humility Evolves: From Smallness to Channel to Personal Power
+
+Humility is not a single stable position. It is a developmental arc that matures through structurally different stages. Each stage is real. Each stage is also incomplete in its turn, and produces its own version of the trap that the next stage corrects.
+
+Joe articulates the three stages he has lived through:
+
+1. **Humility as thinking less of yourself / making yourself small.** The first available form. The cultural script. Often confused with smallness and self-erasure.
+2. **Humility as the hollow channel.** Fools Crow's hollow bone. "It's not me, it's the teachers before me. It's not me, it's that which moves through me." The structurally impersonal form. The recognition that the wisdom moves through, not from.
+3. **Humility as taking your God-given place (the personal returns).** The recognition that the channel framing, held alone, becomes its own form of denial. The practitioner has actually done the work. The practitioner actually has power. Denying this is not humility; it is a new identity-defense ("I am the one who has transcended ownership") wearing humility's clothes. The mature form holds both: "I have done this work and this would not be happening without me" *and* "this is not me at all."
+
+"There was a very non-personal form of humility. And now there's this recognition of, oh no, it's me. I've done this work and this shit wouldn't be happening without me. And really, this is not me at all. It's holding both of those two things." -- Joe Hudson, What It's Like To Live Your Purpose
+
+The arc is not three stages and done. Each integration produces a new ledge from which to see, which becomes the next thing to be seen through. Joe frames the current edge as one instance of a permanent process: "the hollowing out process is also always going on. It's the evolution doesn't end. It's just this perpetual process of letting go of one epiphany and finding, oh, that epiphany has its own rut, and then just continuing to learn."
+
+The implications for coaching: do not push someone in Stage 1 directly to Stage 3 -- the integration of personal power without the prior channel-recognition produces narcissism, not humility. The work moves through the stages in order. See [[humility-developmental-arc]] for the full treatment of the arc and the structural reason that Stage 2, held alone, becomes its own denial of personal power that the mature form has to integrate.
+
 ## Humility as Occupying Your God-Given Space
 
 A specific reframe arrived at through the listener question about the Hebrew word *anava* (humility, literally "occupying our God-given space"): being humble and taking up your full space are not opposites. Taking up your full space, when done in the direction of the call rather than the direction of personal preference, *is* humility. The refusal to take up the space is the identity, not the humility.
@@ -234,6 +250,8 @@ The teaching is not "be more humble." That would install humility as an identity
 - Toward [[surround-yourself-with-people-who-make-fun-of-you]]: the practice that prevents the humility from becoming the identity
 - Toward [[pucker-and-still-say-it]]: the move that follows the call into the discomfort of saying the freeing thing
 - Toward [[nothing-is-wrong-with-it-its-just-painful]]: the principle that prevents humility-as-teaching from becoming moralism
+- Toward [[humility-developmental-arc]]: the three-stage developmental view of how humility matures over time, including the post-channel integration with personal power
+- Toward [[epiphany-becomes-rut]]: the underlying structural mechanism that makes the arc continuous rather than terminal
 
 ## Tone
 
@@ -245,4 +263,5 @@ When he describes the empowerment side of humility, his voice carries certainty.
 
 - 2023-09-15_Humility
 - 2023-10-18_Humility (the Q&A follow-up: the intimacy-plus-awe framing, the *anava* / God-given-space framing, the "I am X and I love that" test, the "nothing wrong with it -- it's just painful" guardrail, the "navigating the river not being the river" metaphor, the "through grace" tearful moment, the @fu_joe handle as humility practice, the facilitator-receives-projections teaching, the "pucker and still say it" coaching move)
+- 2025-07-18_What It's Like To Live Your Purpose (the explicit articulation of the three-stage developmental arc of humility: thinking less of yourself, the hollow channel / Fools Crow, and taking your God-given place where the personal returns; the recognition that Stage 2 held alone becomes its own denial of personal power; the integration "I have done this work and this shit wouldn't be happening without me" with "this is not me at all"; the framing of the arc as one instance of perpetual hollowing-out where every epiphany is the next future rut)
 - 2025-07-18_The Cost of Ignoring What You're Called to Do (Joe's three-phase developmental arc of his own relationship with humility -- thinking less of yourself, becoming the channel, taking your God-given place; the explicit naming of phase 2's failure mode -- "by denying that, I'm actually denying my power and I become more dangerous"; the recovery of the personal at depth -- "I do have a tremendous amount of power" alongside "this is not me at all"; the continuous form of the work as "the hollowing out process is also always going on")

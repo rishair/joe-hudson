@@ -94,6 +94,12 @@ The session typically follows a recognizable shape, even though the specific mov
 
 10. **Apology to self.** "You said something to your husband, you apologized. What's the apology you have for yourself?" Usually: sorry for holding you back from feeling the emotions you wanted to feel for so long. See [[apologize-to-yourself-for-holding-back-from-feeling]].
 
+## Related Concerns
+
+- [[i-feel-misvalued-as-an-overachiever]] — the achievement-and-recognition variant of the receiving difficulty; arrives through a different door (feeling misvalued by achievement-coded compliments) but addresses the same underlying structure of producing-to-be-seen and refusing-to-be-seen
+- [[how-do-i-stop-seeking-approval]] — the diffuse approval-monitoring variant
+- [[how-do-i-love-myself]] — the request-for-technique variant with self-dismissal as the visible surface
+
 ## Sources
 
 - 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)

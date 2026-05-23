@@ -4,8 +4,8 @@ id: stress-as-rejection-of-stress
 title: "Stress Comes Mostly From the Rejection of the Stress (Not the Stress Itself)"
 aliases: ["stress as rejection of stress", "rejecting the stress creates more stress", "the meta-stress mechanism", "the stress-on-the-stress mechanism", "thinking stress is bad makes it worse", "the relationship to stress is the stress", "stress is mostly the rejection", "the rejection of stress is the stress", "the same activation different relationship", "basketball stress vs work stress", "the stress is the not-allowing-the-stress", "the second-arrow of stress", "Am I-thinking-about-my-stress-in-a-way-that-is-useful", "the woods stress story", "the I-shouldn't-be-stressed loop", "the what-is-wrong-with-me-that-I'm-stressed amplifier"]
 tags: ["stress", "principle", "rejection", "meta", "thought", "relationship-to-experience"]
-related: ["four-causes-of-stress", "pep-talk-cant-override-the-body", "dont-add-the-overwhelm-of-creating-the-overwhelm", "meaning-of-overwhelm-determines-direction", "questioning-the-positive-state", "loving-the-emotion", "should-as-threat"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)"]
+related: ["four-causes-of-stress", "pep-talk-cant-override-the-body", "dont-add-the-overwhelm-of-creating-the-overwhelm", "meaning-of-overwhelm-determines-direction", "questioning-the-positive-state", "loving-the-emotion", "should-as-threat", "resisted-vs-unresisted-everything-shows-up-different", "stress-burnout-depression-progression"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It", "2025-06-27_You Need The Stress You Hate (Good vs Bad Stress Explained)", "2025-07-29_Why You're Exhausted (Even After Resting)"]
 ---
 
 # Stress Comes Mostly From the Rejection of the Stress (Not the Stress Itself)
@@ -31,6 +31,23 @@ The same activation that produces suffering in one context produces enjoyment in
 "Let's say you're playing a game like basketball. There's a massive activation, there's a stress to it. You're trying to get to the place, you're trying to get the basket. There's the stress to it. It can feel really, really good. Or you can be, fuck, I gotta go to work again, this sucks, and I'm thinking about it all the time." -- Joe Hudson's co-teacher, 4 Causes of Stress
 
 The body cannot tell the difference between the basketball-stress and the work-stress on the activation level. The difference is in whether the system is receiving the activation or rejecting it.
+
+## The Two-Stress Body Experiment
+
+A specific guided experiment that lets the principle land in the body rather than as a concept. The instructions, paraphrased:
+
+1. Close your eyes, get comfortable.
+2. Remember a time when you were feeling stress but it felt great — playing pickleball, rushing to the net, cooking in flow with everything happening at once, deep in some sport. Feel what it was in your body for stress to feel enlivening.
+3. Then remember a time when you were feeling stress and it sucked — trying to get work done on time, worried about a test, scared someone would be upset with you. Let it land in your body. Feel what it was when stress felt like crap.
+4. Shake it off. Go back to the great stress. Then to the bad stress. Notice the difference.
+
+The discovery the experiment surfaces: when stress feels horrible, it is really resisted. When stress feels great, it is really not resisted. The same body, the same activation system, the same nervous-system architecture — the variable is whether the activation is being met or fought.
+
+"Notice that when stress feels horrible, it's really resisted. And when stress feels great, it's really not resisted." -- Joe Hudson, Why You're Exhausted (Even After Resting)
+
+The experiment is then extended to a present-tense stressor: bring something stressful in your current life to the front — boss, husband, kids, whatever. Let yourself feel it. Notice the thoughts that produce the stress. Then feel what it is like not to resist that stress, to let it land in your body the same way the great stress did. The principle becomes operational in the body.
+
+This experiment is the embodied form of the basketball comparison below. The basketball comparison is the cognitive case for the principle; the two-stress experiment is the somatic case. Both land the same point. The somatic version tends to land deeper because the body verifies the claim directly rather than being told about it.
 
 ## The Mechanism
 
@@ -106,3 +123,4 @@ Practical. The teaching is delivered without mysticism. The same activation can 
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the woods-fasting story as the origin example; the basketball-vs-work-stress comparison; the explicit teaching that the same activation can be useful or suffering depending on the relationship)
 - 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the loving-to-make-it-go-away formulation of the hidden-rejection failure mode; the larger arc in which the welcoming-becomes-management is the first backwater)
+- 2025-07-29_Why You're Exhausted (Even After Resting) (the embodied two-stress experiment that surfaces the principle in the body: remember stress that felt great, remember stress that sucked, notice that when stress feels horrible it's really resisted and when it feels great it's really not resisted; the application of the principle to a present-tense stressor with the instruction "feel what it's like not to resist that stress, to allow it to land in your body the same way that you did when stress felt great")

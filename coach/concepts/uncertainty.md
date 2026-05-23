@@ -4,8 +4,8 @@ id: uncertainty
 title: "Uncertainty (Joe's Framing: There Is No Such Thing as Certainty)"
 aliases: ["uncertainty", "what is uncertainty", "Joe's definition of uncertainty", "the truth about uncertainty", "no such thing as certainty", "certainty is an illusion", "uncertainty is what's happening now", "uncertainty and cycles", "uncertainty cycles", "the 80-year cycle", "rapid change cycles", "the dopamine of short-term uncertainty", "cortisol from long-term uncertainty", "the window of tolerance for uncertainty", "uncertainty as the actual state", "uncertainty as opportunity", "uncertain times as mirror to reality", "uncertain times are a mirror"]
 tags: ["uncertainty", "prediction", "control", "transformation", "cycles", "fear", "concept"]
-related: ["transformation-happens-in-uncertainty", "the-certainty-that-is-actually-here", "optimism-pessimism-realism-vs-ownership", "take-the-adventure-stance", "window-of-tolerance", "how-do-you-want-to-be-in-this-uncertainty", "wonder"]
-sources: ["2025-04-25_Making the Most of Uncertain Times", "2025-04-25_Making The Most of Uncertainty"]
+related: ["transformation-happens-in-uncertainty", "the-certainty-that-is-actually-here", "optimism-pessimism-realism-vs-ownership", "take-the-adventure-stance", "window-of-tolerance", "how-do-you-want-to-be-in-this-uncertainty", "wonder", "forest-fire-as-system-reset", "both-individual-and-society-reference-point"]
+sources: ["2025-04-25_Making the Most of Uncertain Times", "2025-04-25_Making The Most of Uncertainty", "2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You"]
 ---
 
 # Uncertainty
@@ -34,9 +34,11 @@ Periods called "uncertain" are periods where the standard illusion of certainty 
 
 Uncertainty is not random noise. It moves in cycles, and the cycles are observable across scales.
 
-- Redwood forests have big fires every 50 years, small fires every 5.
-- Predator-prey populations cycle up and down.
-- Human institutions redefine themselves on approximately 80-year cycles.
+- Redwood forests have big fires every 50 years, small fires every 5. The fires are not aberrations; they are the maintenance practice. The redwood seeds themselves require fire to open. See [[forest-fire-as-system-reset]].
+- Predator-prey populations cycle up and down. Intervening against one element of the cycle does not stabilize the system; it crashes it. See [[kaibab-deer-mountain-lion-balance]].
+- Human institutions redefine themselves on approximately 80-year cycles. The current period is observably one of those institutional-reset moments.
+
+"So right now we are in a chaotic time in our society, and it seems to happen every 80 years. You can historically look back and see every 80 year, 80, 85 years or so, you can see these chaotic times arise and you can see that our institutions change about every 80 years. And there's this opportunity for the system to get a lot better, and that you can only get that opportunity when there is a transition." -- Joe Hudson, The Forest Fire Theory of Personal Growth
 
 Inside these cycles, the moments of rapid transformation are the moments when the most change becomes possible. See [[transformation-happens-in-uncertainty]]. The same cycle that is felt as chaos and threat is the cycle that contains the largest opportunity for reorganization.
 
@@ -117,3 +119,4 @@ Joe is not solemn about uncertainty. He treats it as factual and almost casual. 
 
 - 2025-04-25_Making the Most of Uncertain Times
 - 2025-04-25_Making The Most of Uncertainty (companion/alternate cut of the same teaching)
+- 2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You (the explicit "every 80 years" framing for institutional cycles; the integration of forest-fire-ecology and predator-prey balance as continuous illustrations of the cycles principle; the framing of the current moment as a once-per-80-year institutional-reset opportunity)

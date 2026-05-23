@@ -4,8 +4,8 @@ id: nervous-system-recovery-after-stress
 title: "The Body Needs to Sit Down After Prolonged Stress"
 aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon", "adrenaline fatigue", "post-deployment collapse", "post-exit depression", "the lake house phase", "house of depressed CEOs", "tired from the 70s", "Billie Jean King tired from the 70s", "the acupuncture story about adrenals", "the Western doctor cycle", "coffee then energy drinks then antidepressants", "the adrenal exhaustion to antidepressant pipeline", "3 to 4 months vs 2 to 5 years recovery", "the self-attack lock on recovery", "recovery time proportional to self-attack"]
 tags: ["body", "nervous system", "depression", "stress", "recovery", "principle", "adrenaline", "burnout"]
-related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing", "depression-four-levels", "im-depressed", "burnout-cycle", "im-burned-out", "rest-is-an-accomplishment", "post-rest-second-wind-trap"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2023-09-01_The Burnout Cycle"]
+related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing", "depression-four-levels", "im-depressed", "burnout-cycle", "im-burned-out", "rest-is-an-accomplishment", "post-rest-second-wind-trap", "stress-burnout-depression-progression", "optimize-for-downtime-not-productivity", "quality-of-downtime-matters"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2023-09-01_The Burnout Cycle", "2025-07-29_Why You're Exhausted (Even After Resting)"]
 ---
 
 # The Body Needs to Sit Down After Prolonged Stress
@@ -47,6 +47,10 @@ Joe recounts a conversation with an acupuncturist during his first company. The 
 "He said, well, I'd wait for a while, and then you'd start drinking a ton of coffee, and then maybe energy drinks, and then you get depressed, and I'd give you antidepressants." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
 
 The progression is recognizable: an overworked nervous system, masked by stimulants, eventually collapses into depression that gets medicated with antidepressants. Roughly 25 years after that conversation, Western medicine began treating depression with anti-anxiety medication -- a partial catch-up to what the acupuncturist had described. The structural insight stands: a significant chunk of what gets diagnosed as depression is exhausted adrenals from sustained anxiety/stress, and the stimulant-then-antidepressant arc does not address the underlying adrenal exhaustion.
+
+In the 2025 retelling Joe makes the progression explicit: stress → burnout → depression as a "highly linked" sequence. The progression is the motivation for catching the cascade early; pushing through stress is what produces the burnout that produces the depression. See [[stress-burnout-depression-progression]] for the full structural treatment of this arc and why catching it at the stress phase is dramatically cheaper than catching it at the depression phase.
+
+"You're running off adrenaline, you don't have enough adrenaline, so you use coffee that amps up your adrenaline, and then eventually your adrenals just fail on you and then you get depressed, and so then you get antidepressants." -- Joe Hudson, Why You're Exhausted (Even After Resting)
 
 This is the nervous system layer of the [[depression-four-levels]] frame. Recognizing this layer as physiological recovery (not character failure, not "what's wrong with me") is part of what frees the body to actually recover.
 
@@ -135,3 +139,4 @@ Matter-of-fact. Almost biological. This is what bodies do. There is no moral con
 - 2022-10-26_The Self-Discovery Of A Navy SEAL
 - 2023-06-23_Exploring Depression in the Head, Heart, and Gut
 - 2023-09-01_The Burnout Cycle
+- 2025-07-29_Why You're Exhausted (Even After Resting) (the explicit naming of the stress → burnout → depression progression as a "highly linked" sequence; the retelling of the acupuncture story with the adrenaline-coffee-depression-antidepressants progression and the early-Prozac historical detail; the explicit motivation argument that without seeing the progression you don't have motivation to address the stress early)

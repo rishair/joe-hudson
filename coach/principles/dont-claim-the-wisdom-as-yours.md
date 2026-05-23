@@ -2,10 +2,10 @@
 type: principle
 id: dont-claim-the-wisdom-as-yours
 title: "Don't Claim the Wisdom as Yours (The Ownership-Responsibility-Resentment-Addiction Cascade)"
-aliases: ["don't claim the wisdom as yours", "don't take ownership of the work", "the ownership-responsibility-resentment cascade", "the it's-me cascade", "the teacher-takes-credit cascade", "what happens when you think it's you", "the cost of owning the work as personal", "why the founder goes berserk", "the channel vs the source distinction", "the sexy-girlfriend trap", "I can't leave because the girlfriend is too sexy", "the cascade from owning the wisdom", "the structural cost of teacher-narcissism", "channeling vs authorship", "channeling not authoring", "the teacher who claims it is the teacher who breaks", "ownership of teaching as trap", "the archaeologist not the inventor", "archaeologist not inventor", "unearthing not inventing", "the work is not yours", "you're a channel not the author", "channel not source", "the teacher is not the source", "wisdom moving through not from", "if you own it you'll need the addiction", "the teacher who can't let go of authorship", "the responsibility-obligation-resentment-addiction cascade", "the obligation-becomes-resentment-becomes-addiction pattern for teachers", "the teacher's authorship trap"]
+aliases: ["don't claim the wisdom as yours", "don't take ownership of the work", "the ownership-responsibility-resentment cascade", "the it's-me cascade", "the teacher-takes-credit cascade", "what happens when you think it's you", "the cost of owning the work as personal", "why the founder goes berserk", "the channel vs the source distinction", "the sexy-girlfriend trap", "I can't leave because the girlfriend is too sexy", "the cascade from owning the wisdom", "the structural cost of teacher-narcissism", "channeling vs authorship", "channeling not authoring", "the teacher who claims it is the teacher who breaks", "ownership of teaching as trap", "the archaeologist not the inventor", "archaeologist not inventor", "unearthing not inventing", "the work is not yours", "you're a channel not the author", "channel not source", "the teacher is not the source", "wisdom moving through not from", "if you own it you'll need the addiction", "the teacher who can't let go of authorship", "the responsibility-obligation-resentment-addiction cascade", "the obligation-becomes-resentment-becomes-addiction pattern for teachers", "the teacher's authorship trap", "the integration where personal power returns", "the holding-both move", "this-isn't-me plus this-is-me-and-it-wouldn't-be-happening-without-me", "the integrated form of channeling", "channeling is not the destination it is one stage", "the it's-not-me-and-also-it-is-me integration"]
 tags: ["teaching", "coaching", "ego", "channeling", "lineage", "narcissism", "principle", "responsibility", "addiction", "control", "authorship", "humility", "service", "leadership"]
-related: ["the-clients-wisdom-not-the-teachers", "downward-spiral-between-teacher-and-students", "the-butler-metaphor", "faithing-faith-as-verb", "spiritual-narcissism", "coaching-to-be-seen-as-wise", "own-your-narcissism", "humility", "applied-self-awareness", "teach-from-pleasure-not-mission", "obligation-as-management", "obligation-cuts-off-love", "responsibility-stops-love", "community-over-teacher", "become-unnecessary", "speaking-authentically"]
-sources: ["2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-06_Speaking Authentically with Tristan de Montebello"]
+related: ["the-clients-wisdom-not-the-teachers", "downward-spiral-between-teacher-and-students", "the-butler-metaphor", "faithing-faith-as-verb", "spiritual-narcissism", "coaching-to-be-seen-as-wise", "own-your-narcissism", "humility", "applied-self-awareness", "teach-from-pleasure-not-mission", "obligation-as-management", "obligation-cuts-off-love", "responsibility-stops-love", "community-over-teacher", "become-unnecessary", "speaking-authentically", "humility-developmental-arc"]
+sources: ["2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-06_Speaking Authentically with Tristan de Montebello", "2025-07-18_What It's Like To Live Your Purpose"]
 ---
 
 # Don't Claim the Wisdom as Yours
@@ -158,6 +158,28 @@ Tristan offers a related framing Joe affirms: the work is archaeological. The te
 
 The archaeological frame is another version of the channeling frame. It locates the wisdom in something older than the teacher. The teacher is one excavator. There have been many. There will be many more. The teacher's job is to dig carefully and present what is found in a usable form. The find is not the digger's.
 
+## The Channel-Recognition Is Not the End: The Integration Where Personal Power Returns
+
+The channeling orientation is structurally necessary to avoid the cascade. It is also, held alone, incomplete. The teacher who has spent years internalizing "this isn't me, it's the lineage moving through me" eventually reaches a stage where the next move is to integrate the recognition with its complement: this is also me. The work I have done is mine. The skill is mine. The presence is mine. The influence I now hold is mine. Denying this becomes its own form of identity-defense -- the defense of "the one who has transcended ownership."
+
+Joe articulates this directly in the context of his own developmental arc:
+
+"There was a very non-personal form of humility. And now there's this recognition of, oh no, it's me. I've done this work and this shit wouldn't be happening without me. And really, this is not me at all. It's holding both of those two things." -- Joe Hudson, What It's Like To Live Your Purpose
+
+The integration is not a retreat from the channeling principle. The channeling principle is what allowed the practitioner to do the work without being consumed by the cascade. The integration is the next stage, in which the channel-recognition is preserved while the personal-power recognition is added. Both are held at the same time. The teacher recognizes that the wisdom moves through them and also that the wisdom would not be moving through this particular channel if the channel had not been cleared by this particular work.
+
+Why this matters specifically for the cascade-avoidance work:
+
+- The teacher who refuses to acknowledge their personal contribution at all becomes structurally unaccountable for their actual influence. The "it's not me" framing, used as a way to avoid the power that the role actually holds, leaves the practitioner unable to take responsibility for what they do with the platform.
+- The teacher who holds only the channeling stance can develop a particular kind of subtle narcissism: the defended position of being the one-who-doesn't-claim. The defense is identical in structure to other identity-defenses, just with humbler content.
+- The integrated stance ("it's the lineage" *and* "I'm the channel and I have actually done the work") is the structural location from which the role can be held over time without either the cascade or the inverted-cascade.
+
+This is the third stage of the [[humility-developmental-arc]]. The principle Don't Claim the Wisdom as Yours is the operational form of Stage 2 (the channel recognition). The integration with personal power is Stage 3. Both stages are real. Stage 3 does not negate Stage 2; it integrates Stage 2 with what Stage 2 left unaddressed.
+
+The order matters. A practitioner who tries to install Stage 3 without first having genuinely occupied Stage 2 will produce a kind of narcissism dressed up as integration. The integration requires the prior dissolution of authorship. The personal-power recognition then arrives as a recovery rather than as a claim.
+
+See [[humility-developmental-arc]] for the full developmental view and [[own-your-narcissism]] for the related operational principle that handles the personal-power side of the integration.
+
 ## Upstream (What Leads Here)
 
 - A coachee who is a teacher, coach, or facilitator is describing themselves as the source of the work.
@@ -179,6 +201,7 @@ The archaeological frame is another version of the channeling frame. It locates 
 - Toward [[coaching-to-be-seen-as-wise]] for the version of this in coaching specifically.
 - Toward [[own-your-narcissism]] when the underlying want-to-be-special needs to be owned cleanly before it gets weaponized.
 - Toward [[humility]] for the broader concept of what the channeling orientation feels like as a state.
+- Toward [[humility-developmental-arc]] for the structural view of why the channeling-orientation is Stage 2 of a longer arc that integrates with personal-power recognition in Stage 3.
 
 ## Tone
 
@@ -188,3 +211,4 @@ Direct and slightly grim. Joe describes the cascade with the affect of someone w
 
 - 2024-04-05_Speaking Authentically With Tristan de Montebello (the cascade of ownership-responsibility-obligation-resentment-addiction; the "girlfriend's too sexy" lock-in; the two-options framing; the "20 people, some of them 2,000 years old" lineage passage; the archaeological framing from Tristan; the macro-of-speaking application to life)
 - 2024-04-06_Speaking Authentically with Tristan de Montebello (the second recording of substantially the same conversation; the same channeling material delivered with slight wording differences; Tristan's "pump up your chest" line about the early-stage entrepreneur trap)
+- 2025-07-18_What It's Like To Live Your Purpose (the integration principle that the channel-recognition is not the end-stage: "There was a very non-personal form of humility. And now there's this recognition of, oh no, it's me. I've done this work and this shit wouldn't be happening without me. And really, this is not me at all. It's holding both of those two things"; the structural framing that Stage 2 (channeling) held alone becomes its own form of identity-defense, and that the mature form integrates the channel-recognition with the personal-power recognition; the warning that Stage 3 cannot be installed without genuinely occupying Stage 2 first or else the result is narcissism dressed as integration)

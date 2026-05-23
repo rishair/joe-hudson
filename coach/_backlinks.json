@@ -1010,7 +1010,8 @@
     "how-you-fight-not-how-often",
     "politics-from-unclear-standards",
     "three-effects-of-connection",
-    "black-swan-small-collapses-prevent-big-ones"
+    "black-swan-small-collapses-prevent-big-ones",
+    "forest-fire-as-system-reset"
   ],
   "goals-give-you-the-questions": [
     "goals-make-me-miserable",
@@ -1051,6 +1052,7 @@
     "how-do-i-be-happy",
     "how-do-i-stop-seeking-approval",
     "how-do-i-trust-myself",
+    "i-feel-misvalued-as-an-overachiever",
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
     "the-emotional-hangover-of-false-productivity",
@@ -1067,6 +1069,7 @@
     "acknowledging-death-compresses-life",
     "caring-what-others-think-is-the-burnout-engine",
     "only-your-own-judgment-matters",
+    "overachieving-is-survival-mode",
     "productivity-is-the-trees-purpose-is-the-forest",
     "putting-someone-above-blocks-emotion",
     "chase-your-own-approval",
@@ -1507,6 +1510,7 @@
     "name-the-gap-between-felt-story-and-lived-evidence",
     "open-the-heart-to-the-doubt",
     "talk-to-the-part-that-knows",
+    "problem-stuck-vs-trapped-stuck",
     "dont-believe-the-stories-you-tell-yourself",
     "emotional-movement-unsticks-stuckness",
     "peace-is-what-we-resist-the-most",
@@ -1971,6 +1975,7 @@
     "the-trying-is-the-pattern-firing-now",
     "what-makes-you-push-yourself",
     "come-to-me-without-contradiction",
+    "live-naming-the-physical-constriction-of-non-reception",
     "tell-me-one-thing-youve-done-wrong-when-you-werent-pushing-yourself",
     "why-dont-you-just-love-yourself-as-you-are-right-now"
   ],
@@ -2021,6 +2026,8 @@
   ],
   "how-do-i-love-myself": [
     "how-do-i-love-myself-and-express-my-emotions",
+    "i-cant-receive-compliments-or-love-from-my-spouse",
+    "i-feel-misvalued-as-an-overachiever",
     "body-cues-of-shame-about-being-seen",
     "self-criticism-kicks-in-when-invited-to-see-yourself",
     "the-avoidant-partner-who-cant-receive",
@@ -2123,6 +2130,7 @@
   "body-cues-of-shame-about-being-seen": [
     "how-do-i-love-myself",
     "linguistic-caveat",
+    "live-naming-the-physical-constriction-of-non-reception",
     "two-layers-of-shame-about-being-seen",
     "play-with-not-hedging"
   ],
@@ -2179,10 +2187,13 @@
   ],
   "how-do-i-stop-seeking-approval": [
     "how-do-i-love-myself",
+    "i-cant-receive-compliments-or-love-from-my-spouse",
+    "i-feel-misvalued-as-an-overachiever",
     "i-want-to-be-authentic-on-stage",
     "body-contradicts-the-words",
     "contorting-into-someone-elses-framework",
     "cutting-off-your-own-authenticity-in-real-time",
+    "deflecting-by-pivoting-to-helping-others",
     "pucker-before-truth",
     "purpose-as-approval-seeking-in-disguise",
     "the-good-alone-false-humility-with-others-read",
@@ -2193,10 +2204,12 @@
     "the-four-authority-positions",
     "what-did-i-do-wrong-response-to-aggression",
     "let-it-move-through-and-clean-the-channel",
+    "name-the-deflection-as-its-happening",
     "transfer-the-receiving-from-them-to-yourself",
     "why-dont-you-just-love-yourself-as-you-are-right-now",
     "purpose-is-acknowledgement-not-approval",
     "doubt-requires-closed-heart",
+    "overachieving-is-survival-mode",
     "seeking-approval-pushes-people-away",
     "simultaneous-reception-is-uncontrollable",
     "speaking-truth-cures-approval-seeking",
@@ -2278,9 +2291,11 @@
     "alcoholic-family-chaos-vs-control-lineage",
     "take-the-adventure-stance",
     "optimism-pessimism-realism-vs-ownership",
+    "short-horizon-planning-in-rapid-change",
     "stress-is-essential-for-life",
     "the-certainty-that-is-actually-here",
     "transformation-happens-in-uncertainty",
+    "forest-fire-as-system-reset",
     "stockdale-paradox"
   ],
   "optimism-pessimism-realism-vs-ownership": [
@@ -2291,21 +2306,28 @@
     "dont-be-the-realist-who-collapses-uncertainty",
     "uncertainty",
     "take-the-adventure-stance",
+    "short-horizon-planning-in-rapid-change",
     "the-certainty-that-is-actually-here",
     "transformation-happens-in-uncertainty",
     "stockdale-paradox"
   ],
   "transformation-happens-in-uncertainty": [
     "how-do-i-navigate-this-uncertain-time",
+    "two-ways-leaders-hold-uncertainty",
     "dont-be-the-realist-who-collapses-uncertainty",
     "heat-and-sweat-as-process-marker",
     "uncertainty",
     "take-the-adventure-stance",
     "optimism-pessimism-realism-vs-ownership",
+    "both-individual-and-society-reference-point",
+    "shift-the-environment-not-the-actor",
+    "short-horizon-planning-in-rapid-change",
     "stress-is-essential-for-life",
     "growth-stress-vs-corrosive-stress-memory-experiment",
     "three-moves-when-frozen-by-uncertainty",
-    "joes-covid-creative-explosion"
+    "forest-fire-as-system-reset",
+    "joes-covid-creative-explosion",
+    "welcoming-fear-in-leadership"
   ],
   "catastrophizing-vs-visualizing": [
     "how-do-i-navigate-this-uncertain-time",
@@ -2348,6 +2370,18 @@
   "alcoholic-family-chaos-vs-control-lineage": [
     "how-do-i-navigate-this-uncertain-time"
   ],
+  "two-ways-leaders-hold-uncertainty": [
+    "how-do-i-navigate-this-uncertain-time",
+    "fear-in-body-vs-fear-in-head",
+    "short-horizon-planning-in-rapid-change",
+    "welcoming-fear-in-leadership"
+  ],
+  "short-horizon-planning-in-rapid-change": [
+    "how-do-i-navigate-this-uncertain-time",
+    "two-ways-leaders-hold-uncertainty",
+    "fear-in-body-vs-fear-in-head",
+    "welcoming-fear-in-leadership"
+  ],
   "take-the-adventure-stance": [
     "how-do-i-navigate-this-uncertain-time",
     "how-do-you-want-to-be-in-this-uncertainty",
@@ -2357,10 +2391,14 @@
     "uncertainty",
     "alcoholic-family-chaos-vs-control-lineage",
     "optimism-pessimism-realism-vs-ownership",
+    "both-individual-and-society-reference-point",
+    "shift-the-environment-not-the-actor",
+    "short-horizon-planning-in-rapid-change",
     "the-certainty-that-is-actually-here",
     "transformation-happens-in-uncertainty",
     "three-moves-when-frozen-by-uncertainty",
     "bretts-brother-scott",
+    "forest-fire-as-system-reset",
     "joes-covid-creative-explosion",
     "stockdale-paradox"
   ],
@@ -2387,6 +2425,7 @@
     "uncertainty",
     "take-the-adventure-stance",
     "optimism-pessimism-realism-vs-ownership",
+    "both-individual-and-society-reference-point",
     "the-certainty-that-is-actually-here",
     "transformation-happens-in-uncertainty",
     "three-moves-when-frozen-by-uncertainty",
@@ -2500,6 +2539,7 @@
     "i-have-a-terminal-diagnosis",
     "someone-i-love-is-dying",
     "finite-love-is-precious-love",
+    "velcro-the-attachments-that-remain",
     "creating-safety-suppresses-self",
     "can-you-hang-out-with-it",
     "what-we-fear-we-invite",
@@ -2671,7 +2711,8 @@
   "defensive-scanning-for-the-feared-threat": [
     "how-do-i-stay-open-after-narcissistic-abuse",
     "cant-rebuild-trust-without-grieving-the-loss",
-    "fear-is-about-feeling"
+    "fear-is-about-feeling",
+    "if-trust-cant-arrive-grief-isnt-complete"
   ],
   "how-much-of-this-is-fear-of-feeling-the-hurt-you-already-have": [
     "how-do-i-stay-open-after-narcissistic-abuse",
@@ -2705,6 +2746,8 @@
     "death-is-not-the-end-of-the-relationship",
     "feared-stories-about-emotions-sense-something-real",
     "grieve-the-marriage-to-save-it",
+    "grieving-in-groups-beats-grieving-solo",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "loss-of-control-and-loss-of-self-are-the-same",
     "nre-returns-in-grounded-form-after-each-healing",
     "story-dissolution-is-progress",
@@ -2747,6 +2790,7 @@
     "give-me-the-sound-of-the-emotion",
     "use-the-live-group-as-love-field",
     "good-decision-is-how-you-make-it-not-the-outcome",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "host-a-grief-ceremony-as-community",
     "how-to-release-anger-out-loud"
   ],
@@ -2808,6 +2852,7 @@
     "say-no-to-find-the-want",
     "turn-blame-into-wants",
     "i-get-to-vs-i-have-to",
+    "problem-stuck-vs-trapped-stuck",
     "accepting-the-end-empowers-the-yes",
     "obligation-cuts-off-love",
     "victim-stance-invites-abuse",
@@ -2833,6 +2878,7 @@
     "im-burned-out",
     "whats-the-emotion-youre-trying-to-avoid",
     "burnout-cycle",
+    "overachieving-is-survival-mode",
     "putting-someone-above-blocks-emotion",
     "seeking-approval-pushes-people-away",
     "chase-your-own-approval"
@@ -2847,7 +2893,8 @@
     "putting-someone-above-blocks-emotion",
     "world-reorganizes-around-self-possession",
     "chase-your-own-approval",
-    "eating-but-not-digesting-the-food"
+    "eating-but-not-digesting-the-food",
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "putting-someone-above-blocks-emotion": [
     "how-do-i-stop-seeking-approval",
@@ -2865,9 +2912,12 @@
     "self-criticism-kicks-in-when-invited-to-see-yourself",
     "dont-call-them-a-liar-with-deflection",
     "pointers-to-unseen-parts",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
     "have-them-receive-your-listening",
     "let-it-move-through-and-clean-the-channel",
+    "live-naming-the-physical-constriction-of-non-reception",
     "look-around-the-room-can-you-see-anyone-not-here-for-you",
+    "name-the-deflection-as-its-happening",
     "say-of-course-i-just-want-to-be-seen-here",
     "transfer-the-receiving-from-them-to-yourself",
     "welcoming-the-others-emotion",
@@ -2882,11 +2932,14 @@
   "let-it-move-through-and-clean-the-channel": [
     "how-do-i-stop-seeking-approval",
     "i-cant-receive-compliments-or-love-from-my-spouse",
+    "i-feel-misvalued-as-an-overachiever",
+    "deflecting-by-pivoting-to-helping-others",
     "humility-in-the-system",
     "self-criticism-kicks-in-when-invited-to-see-yourself",
     "the-avoidant-partner-who-cant-receive",
     "dont-call-them-a-liar-with-deflection",
     "generosity",
+    "humility-developmental-arc",
     "humility",
     "the-desire-to-be-seen",
     "two-forms-of-ego-good-and-bad",
@@ -2895,12 +2948,18 @@
     "apologize-to-partner-without-shame-for-the-distance-pattern",
     "apologize-to-yourself-for-holding-back-from-feeling",
     "count-the-years-of-showing-up",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
+    "live-naming-the-physical-constriction-of-non-reception",
     "look-around-the-room-can-you-see-anyone-not-here-for-you",
+    "name-the-deflection-as-its-happening",
     "receive-the-projection-and-let-it-move-through",
     "redirect-from-being-seen-by-them-to-seeing-yourself",
+    "reflect-effort-back-as-the-compliment",
+    "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
     "transfer-the-receiving-from-them-to-yourself",
     "use-recent-deflection-to-test-receiving-live",
     "use-the-live-group-as-love-field",
+    "overachieving-is-survival-mode",
     "seeking-approval-pushes-people-away",
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment",
     "unrecognized-generosity-already-received-and-given",
@@ -2909,7 +2968,8 @@
     "see-yourself-and-acknowledge-others",
     "surround-yourself-with-people-who-make-fun-of-you",
     "eating-but-not-digesting-the-food",
-    "esmes-stolen-passport-in-spain"
+    "esmes-stolen-passport-in-spain",
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "chasing-understanding-as-control": [
     "how-do-i-stop-seeking-approval",
@@ -2969,16 +3029,20 @@
   "dont-call-them-a-liar-with-deflection": [
     "how-do-i-stop-seeking-approval",
     "i-cant-receive-compliments-or-love-from-my-spouse",
+    "i-feel-misvalued-as-an-overachiever",
     "the-avoidant-partner-who-cant-receive",
     "two-forms-of-ego-good-and-bad",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
     "let-it-move-through-and-clean-the-channel",
+    "name-the-deflection-as-its-happening",
     "use-recent-deflection-to-test-receiving-live",
     "love-causes-annihilation",
     "seeking-approval-pushes-people-away",
     "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment",
     "what-you-see-in-the-other-with-love-is-in-you",
     "thank-your-partner-for-anything-mutual-benefit",
-    "eating-but-not-digesting-the-food"
+    "eating-but-not-digesting-the-food",
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "chase-your-own-approval": [
     "how-do-i-stop-seeking-approval",
@@ -3069,6 +3133,7 @@
     "whats-the-emotion-youre-trying-to-avoid",
     "burnout-cycle",
     "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
     "adrenaline-discharge-via-fear-activity",
     "post-rest-second-wind-trap",
     "productivity-as-fear-based-engine",
@@ -3078,6 +3143,7 @@
     "caring-what-others-think-is-the-burnout-engine",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "energy-management-over-time-management",
+    "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
     "reflection-is-release-resting-is-nothing",
     "you-cannot-make-people-happy"
@@ -3296,6 +3362,7 @@
     "bound-the-behavior-find-where-it-doesnt-happen",
     "name-the-avoidance-cascade-from-essence-to-addiction",
     "strip-the-story-and-re-ask-the-question",
+    "quality-of-downtime-matters",
     "the-brain-is-the-brakes",
     "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
     "joes-doomscrolling-story"
@@ -3489,6 +3556,7 @@
     "identity-reproduces-childhood-stress-levels",
     "rehearsing-conversations",
     "embrace-intensity",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "love-means-signing-up-to-be-hurt",
     "the-emotional-experience-decides-the-channel",
@@ -4101,6 +4169,7 @@
     "meaning-of-overwhelm-determines-direction",
     "never-rob-pain-or-gold",
     "see-whats-right-to-build-on-it",
+    "shift-the-environment-not-the-actor",
     "tears-dont-disturb-the-refuge",
     "the-pattern-is-not-personal",
     "wanting-got-wired-to-unlovability",
@@ -4113,7 +4182,9 @@
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "emile-three-relationships-with-fear",
+    "forest-fire-as-system-reset",
     "joes-high-waisted-jeans-decoy",
+    "kaibab-deer-mountain-lion-balance",
     "mangy-cat-eating-from-the-hand",
     "predator-or-prey-hayes-valley",
     "stone-face-baby-experiment"
@@ -4176,6 +4247,7 @@
     "i-cant-feel-my-emotions",
     "i-keep-running-into-the-same-wall",
     "fight-or-roll-over-binary",
+    "two-ways-leaders-hold-uncertainty",
     "cult-of-one",
     "fear-in-body-vs-fear-in-head",
     "limiting-belief",
@@ -4193,10 +4265,12 @@
     "decisions-are-emotional",
     "empathy-makes-you-better-at-hard-jobs",
     "if-you-think-youre-deciding-youre-in-fear",
+    "short-horizon-planning-in-rapid-change",
     "voice-creates-what-it-fears",
     "do-the-next-most-obvious-thing",
     "four-tactical-ways-to-feel-your-emotions",
-    "three-kinds-of-limiting-beliefs"
+    "three-kinds-of-limiting-beliefs",
+    "welcoming-fear-in-leadership"
   ],
   "whats-the-real-question": [
     "i-cant-feel-my-emotions",
@@ -4348,6 +4422,7 @@
     "repressed-trigger-in-the-body",
     "self-reliance-emotional-signature",
     "the-avoidant-partner-who-cant-receive",
+    "two-ways-leaders-hold-uncertainty",
     "dont-glorify-self-reliance",
     "authority-issues",
     "reclaiming-abandonment",
@@ -4430,6 +4505,7 @@
   ],
   "mirror-the-clients-own-framework-back": [
     "i-cant-find-love",
+    "reflect-effort-back-as-the-compliment",
     "surrender-your-way-out-not-think-your-way-out",
     "tell-it-to-god",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
@@ -4545,13 +4621,16 @@
     "riding-the-roller-coaster-from-the-ground",
     "purpose-is-acknowledgement-not-approval",
     "scary-effort-vs-grind-effort",
+    "transformational-coaching-vs-performance-coaching",
     "choicelessness-as-purpose-marker",
     "do-it-for-yourself-to-find-purpose",
+    "next-generation-institutions-create-healing",
     "purpose-asks-you-to-be-scary-then-effortless",
     "purpose-cracks-you-open",
     "purpose-is-an-evolution-not-a-destination",
     "purpose-is-recognized-not-found",
     "searching-for-purpose-pushes-it-away",
+    "the-life-that-shows-up-beats-the-goal",
     "the-means-must-match-the-end",
     "your-gift-is-your-nature-not-your-skill",
     "i-help-people-die-better",
@@ -4750,6 +4829,8 @@
     "purpose-is-an-evolution-not-a-destination",
     "recognition-feeling-balance-then-call-emerges",
     "searching-for-purpose-pushes-it-away",
+    "the-life-that-shows-up-beats-the-goal",
+    "jerry-and-the-lawyer-who-cried",
     "joe-and-the-CEO-everyone-said-dont-let-in",
     "the-retreat-woman-no-choice"
   ],
@@ -4832,9 +4913,12 @@
   "purpose-is-an-unfolding-not-a-destination": [
     "i-cant-find-my-purpose",
     "the-answer-is-already-known",
+    "humility-developmental-arc",
     "riding-the-roller-coaster-from-the-ground",
     "the-hollowing-out-process",
+    "velcro-the-attachments-that-remain",
     "purpose-is-recognized-not-found",
+    "the-life-that-shows-up-beats-the-goal",
     "joe-and-the-CEO-everyone-said-dont-let-in",
     "the-hot-springs-massage-message",
     "the-retreat-woman-no-choice"
@@ -4847,6 +4931,7 @@
   ],
   "the-retreat-woman-no-choice": [
     "i-cant-find-my-purpose",
+    "jerry-and-the-lawyer-who-cried",
     "joe-and-the-CEO-everyone-said-dont-let-in",
     "the-hot-springs-massage-message"
   ],
@@ -5049,6 +5134,8 @@
     "death-is-not-the-end-of-the-relationship",
     "exhaustion-is-unexpressed-anger",
     "grieve-the-marriage-to-save-it",
+    "grieving-in-groups-beats-grieving-solo",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "without-grief-we-recreate-the-pattern",
     "embodied-stages-of-grief-ritual",
     "host-a-grief-ceremony-as-community",
@@ -5256,7 +5343,8 @@
   "use-recent-deflection-to-test-receiving-live": [
     "i-cant-receive-compliments-or-love-from-my-spouse",
     "the-avoidant-partner-who-cant-receive",
-    "dont-call-them-a-liar-with-deflection"
+    "dont-call-them-a-liar-with-deflection",
+    "do-the-deflection-back-to-show-them-how-they-do-it"
   ],
   "apologize-to-partner-without-shame-for-the-distance-pattern": [
     "i-cant-receive-compliments-or-love-from-my-spouse",
@@ -5294,6 +5382,19 @@
     "apologize-to-partner-without-shame-for-the-distance-pattern",
     "count-the-years-of-showing-up",
     "redirect-from-being-seen-by-them-to-seeing-yourself"
+  ],
+  "i-feel-misvalued-as-an-overachiever": [
+    "i-cant-receive-compliments-or-love-from-my-spouse",
+    "deflecting-by-pivoting-to-helping-others",
+    "which-came-first",
+    "the-desire-to-be-seen",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
+    "live-naming-the-physical-constriction-of-non-reception",
+    "name-the-deflection-as-its-happening",
+    "reflect-effort-back-as-the-compliment",
+    "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
+    "overachieving-is-survival-mode",
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "every-no-contains-a-better-answer": [
     "i-cant-stop-being-jealous-of-my-partners-friend",
@@ -5464,6 +5565,7 @@
   ],
   "how-do-i-navigate-this-uncertain-time": [
     "i-cant-stop-doomscrolling",
+    "two-ways-leaders-hold-uncertainty",
     "how-do-you-want-to-be-in-this-uncertainty",
     "dont-be-optimistic-in-uncertainty",
     "dont-be-pessimistic-in-uncertainty",
@@ -5472,6 +5574,7 @@
     "alcoholic-family-chaos-vs-control-lineage",
     "take-the-adventure-stance",
     "optimism-pessimism-realism-vs-ownership",
+    "short-horizon-planning-in-rapid-change",
     "the-certainty-that-is-actually-here",
     "transformation-happens-in-uncertainty",
     "three-moves-when-frozen-by-uncertainty"
@@ -5557,6 +5660,7 @@
     "stick-a-fucking-shit-in-front-of-the-should",
     "caring-vs-caretaking",
     "over-control-vs-hands-off-oscillation",
+    "transformational-coaching-vs-performance-coaching",
     "attune-to-the-actual-want-not-the-program",
     "become-unnecessary",
     "cant-fix-without-being-with",
@@ -6262,6 +6366,128 @@
     "support-system",
     "shared-purpose-not-shared-proximity"
   ],
+  "see-me-dont-see-me push-pull|see-me / don't-see-me push-pull": [
+    "i-feel-misvalued-as-an-overachiever"
+  ],
+  "overachieving-is-survival-mode": [
+    "i-feel-misvalued-as-an-overachiever",
+    "which-came-first",
+    "the-desire-to-be-seen"
+  ],
+  "the-cake-metaphor-for-deflected-compliments": [
+    "i-feel-misvalued-as-an-overachiever",
+    "dont-call-them-a-liar-with-deflection",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
+    "live-naming-the-physical-constriction-of-non-reception",
+    "name-the-deflection-as-its-happening"
+  ],
+  "reflect-effort-back-as-the-compliment": [
+    "i-feel-misvalued-as-an-overachiever",
+    "which-came-first",
+    "the-desire-to-be-seen",
+    "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
+    "overachieving-is-survival-mode"
+  ],
+  "reframe-the-trait-they-feel-stung-by-as-evidence-of-care": [
+    "i-feel-misvalued-as-an-overachiever",
+    "the-desire-to-be-seen",
+    "perfectionism",
+    "reflect-effort-back-as-the-compliment"
+  ],
+  "letting-it-in-vs-deflecting-the-welcome|the body tightens around the mouth": [
+    "i-feel-misvalued-as-an-overachiever"
+  ],
+  "live-naming-the-physical-constriction-of-non-reception": [
+    "i-feel-misvalued-as-an-overachiever",
+    "deflecting-by-pivoting-to-helping-others",
+    "do-the-deflection-back-to-show-them-how-they-do-it",
+    "name-the-deflection-as-its-happening",
+    "reflect-effort-back-as-the-compliment",
+    "reframe-the-trait-they-feel-stung-by-as-evidence-of-care",
+    "the-cake-metaphor-for-deflected-compliments"
+  ],
+  "deflecting-by-pivoting-to-helping-others": [
+    "i-feel-misvalued-as-an-overachiever",
+    "giving-to-avoid-receiving",
+    "name-the-deflection-as-its-happening",
+    "reflect-effort-back-as-the-compliment"
+  ],
+  "which-came-first": [
+    "i-feel-misvalued-as-an-overachiever"
+  ],
+  "do-the-deflection-back-to-show-them-how-they-do-it": [
+    "i-feel-misvalued-as-an-overachiever",
+    "dont-call-them-a-liar-with-deflection",
+    "live-naming-the-physical-constriction-of-non-reception",
+    "name-the-deflection-as-its-happening",
+    "reflect-effort-back-as-the-compliment",
+    "the-cake-metaphor-for-deflected-compliments"
+  ],
+  "i-cant-receive-compliments-or-love-from-my-spouse": [
+    "i-feel-misvalued-as-an-overachiever",
+    "deflecting-by-pivoting-to-helping-others",
+    "self-criticism-kicks-in-when-invited-to-see-yourself",
+    "the-avoidant-partner-who-cant-receive",
+    "anxious-avoidant-dynamic",
+    "two-forms-of-ego-good-and-bad",
+    "apologize-to-partner-without-shame-for-the-distance-pattern",
+    "apologize-to-yourself-for-holding-back-from-feeling",
+    "count-the-years-of-showing-up",
+    "live-naming-the-physical-constriction-of-non-reception",
+    "look-around-the-room-can-you-see-anyone-not-here-for-you",
+    "redirect-from-being-seen-by-them-to-seeing-yourself",
+    "locked-down-sensitivity-is-the-gift",
+    "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment"
+  ],
+  "perfectionism": [
+    "i-feel-misvalued-as-an-overachiever",
+    "i-need-to-improve-myself",
+    "my-inner-critic-wont-stop",
+    "which-came-first",
+    "art-of-accomplishment",
+    "burnout-cycle",
+    "intelligence-amplifies-self-criticism",
+    "resistance",
+    "should-as-threat",
+    "undoing-not-doing",
+    "voice-in-the-head",
+    "impulse-to-should",
+    "rehearsing-conversations",
+    "find-the-emotion-under-self-judgment",
+    "redirect-from-doing-it-right-to-enjoying-it",
+    "reflect-effort-back-as-the-compliment",
+    "improvement-vs-authenticity",
+    "intention-vs-goal",
+    "trying-vs-doing",
+    "be-a-good-boss-to-yourself",
+    "connection-over-perfection",
+    "efficiency-as-enjoyment",
+    "importance-makes-the-task-un-fun",
+    "overachieving-is-survival-mode",
+    "self-judgment-protects-from-emotion",
+    "trying-to-be-right-is-the-voice",
+    "voice-creates-what-it-fears",
+    "wants-over-shoulds",
+    "seven-limiting-beliefs"
+  ],
+  "i-keep-getting-stuff-done-but-nothing-changes": [
+    "i-feel-misvalued-as-an-overachiever",
+    "the-emotional-hangover-of-false-productivity",
+    "the-rush-signature",
+    "ask-how-much-safety-plays-a-role",
+    "what-is-the-productivity-for",
+    "spin-vs-pedaling",
+    "productivity-as-dopamine-fix",
+    "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "design-the-interactions-and-the-productivity-takes-care-of-itself",
+    "doing-doesnt-equal-producing",
+    "how-you-do-productivity-reveals-what-its-for",
+    "overwhelm-reduces-productivity",
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "reflection-after-an-hour",
+    "joes-vc-realization-one-tenth-the-work",
+    "vp-and-the-3-day-offsite"
+  ],
   "familiar-over-safe": [
     "i-feel-stuck",
     "view-as-technique",
@@ -6322,7 +6548,8 @@
     "dont-believe-the-stories-you-tell-yourself"
   ],
   "emotional-movement-unsticks-stuckness": [
-    "i-feel-stuck"
+    "i-feel-stuck",
+    "problem-stuck-vs-trapped-stuck"
   ],
   "lets-go-there": [
     "i-feel-stuck",
@@ -6674,6 +6901,7 @@
   "the-desire-to-be-seen": [
     "i-get-anxious-in-relationships",
     "body-cues-of-shame-about-being-seen",
+    "deflecting-by-pivoting-to-helping-others",
     "in-the-story-im-not-being-seen",
     "being-heard",
     "false-front",
@@ -6687,6 +6915,7 @@
     "dont-find-the-truth-find-their-truth",
     "if-im-not-feeling-seen-im-also-not-seeing",
     "love-causes-annihilation",
+    "overachieving-is-survival-mode",
     "two-layers-of-shame-about-being-seen",
     "see-yourself-and-acknowledge-others"
   ],
@@ -6696,6 +6925,7 @@
     "layers-of-unallowed-self",
     "the-desire-to-be-seen",
     "pointers-to-unseen-parts",
+    "overachieving-is-survival-mode",
     "see-yourself-and-acknowledge-others"
   ],
   "you-cant-be-seen-when-youre-not-in-yourself": [
@@ -7241,6 +7471,7 @@
     "culture-outside-mirrors-culture-inside",
     "if-you-have-to-convince-them-they-dont-want-it",
     "leaders-wants-are-the-organizations-wants",
+    "next-generation-institutions-create-healing",
     "public-failure-as-leadership-modeling",
     "ray-dalio-transparency",
     "authenticity-in-business",
@@ -7414,6 +7645,7 @@
   ],
   "giving-to-avoid-receiving": [
     "i-have-to-do-it-all-myself",
+    "deflecting-by-pivoting-to-helping-others",
     "generosity",
     "joes-abandonment-mapping"
   ],
@@ -7890,6 +8122,7 @@
     "helplessness-is-the-gateway",
     "honor-the-patterns-intent",
     "identity-changes-on-three-levels",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "looking-for-a-fight-means-self-disconnection",
     "management-is-for-shame-love-needs-no-management",
     "management-required-to-launch-predicts-management-required-forever",
@@ -8261,7 +8494,9 @@
     "what-is-the-productivity-for",
     "stop-to-feel-the-anxiety-underneath-the-productivity",
     "pace-and-spin",
+    "quality-of-downtime-matters",
     "make-it-redundant-not-just-done",
+    "optimize-for-downtime-not-productivity",
     "overwhelm-reduces-productivity",
     "presence-in-the-body-while-working",
     "close-the-loop-between-work-blocks",
@@ -8348,17 +8583,22 @@
     "activation-release-rest-cycle",
     "polyvagal-nervous-system-framing",
     "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
     "adrenaline-discharge-via-fear-activity",
     "productivity-as-fear-based-engine",
     "urgency-as-motivation",
     "how-could-you-do-this-and-gain-energy",
     "stop-to-feel-the-anxiety-underneath-the-productivity",
+    "quality-of-downtime-matters",
     "caring-what-others-think-is-the-burnout-engine",
     "context-switching-drains-energy",
     "energy-management-over-time-management",
     "nervous-system-recovery-after-stress",
+    "optimize-for-downtime-not-productivity",
     "close-the-loop-between-work-blocks",
     "three-stages-of-negotiation",
+    "black-swan-small-collapses-prevent-big-ones",
+    "forest-fire-as-system-reset",
     "joe-and-tara-weekend-reset"
   ],
   "rest-is-an-accomplishment": [
@@ -8369,12 +8609,14 @@
     "burnout-cycle",
     "post-rest-second-wind-trap",
     "pace-and-spin",
+    "quality-of-downtime-matters",
     "am-i-falling-or-flying",
     "context-switching-drains-energy",
     "energy-management-over-time-management",
     "inner-critic-prevents-rest-and-integration",
     "make-it-redundant-not-just-done",
     "nervous-system-recovery-after-stress",
+    "optimize-for-downtime-not-productivity",
     "reflection-is-release-resting-is-nothing",
     "close-the-loop-between-work-blocks",
     "nervous-system-support-during-intense-inquiry",
@@ -8623,6 +8865,7 @@
     "the-contradict-myself-test",
     "arc-of-fighting-maturation",
     "save-your-relationship-three-moves",
+    "forest-fire-as-system-reset",
     "joe-and-tara-conference-seen",
     "joe-and-tara-la-show-fight",
     "joe-and-tara-meeting-story",
@@ -8971,6 +9214,7 @@
     "limiting-belief-detection-signals",
     "symptoms-of-depression",
     "deconstruct-the-victim-to-release-anger",
+    "problem-stuck-vs-trapped-stuck",
     "anger-and-politics"
   ],
   "three-kinds-of-limiting-beliefs|misinterpretation of experience": [
@@ -9018,6 +9262,7 @@
     "three-keepers-of-stuck-beliefs",
     "latticework-of-limiting-beliefs",
     "limiting-belief-detection-signals",
+    "live-naming-the-physical-constriction-of-non-reception",
     "aware-belief-vs-unseen-belief",
     "constriction-not-truth-is-the-test",
     "dissolution-not-behavior-control",
@@ -9331,11 +9576,13 @@
   "performing-for-love-becomes-savior-career": [
     "i-make-money-only-when-i-hate-what-im-doing",
     "coaching-as-savior-role",
+    "transformational-coaching-vs-performance-coaching",
     "attunement-strategy-becomes-the-adult-relational-pattern",
     "dont-coach-if-you-have-a-choice",
     "kids-shouldnt-caretake-the-parent",
     "wanting-got-wired-to-unlovability",
-    "comedian-to-coach-money-shame-session"
+    "comedian-to-coach-money-shame-session",
+    "jerry-and-the-lawyer-who-cried"
   ],
   "comedian-to-coach-money-shame-session": [
     "i-make-money-only-when-i-hate-what-im-doing"
@@ -9456,33 +9703,6 @@
     "trying-prevents-the-feeling",
     "you-cant-let-go-of-emotions-only-thoughts",
     "hold-the-memory-of-when-you-felt-it-most"
-  ],
-  "perfectionism": [
-    "i-need-to-improve-myself",
-    "my-inner-critic-wont-stop",
-    "art-of-accomplishment",
-    "burnout-cycle",
-    "intelligence-amplifies-self-criticism",
-    "resistance",
-    "should-as-threat",
-    "undoing-not-doing",
-    "voice-in-the-head",
-    "impulse-to-should",
-    "rehearsing-conversations",
-    "find-the-emotion-under-self-judgment",
-    "redirect-from-doing-it-right-to-enjoying-it",
-    "improvement-vs-authenticity",
-    "intention-vs-goal",
-    "trying-vs-doing",
-    "be-a-good-boss-to-yourself",
-    "connection-over-perfection",
-    "efficiency-as-enjoyment",
-    "importance-makes-the-task-un-fun",
-    "self-judgment-protects-from-emotion",
-    "trying-to-be-right-is-the-voice",
-    "voice-creates-what-it-fears",
-    "wants-over-shoulds",
-    "seven-limiting-beliefs"
   ],
   "musk-deer-parable": [
     "i-need-to-improve-myself",
@@ -9728,6 +9948,7 @@
     "failure-is-an-idea",
     "habenula",
     "soul-dysmorphia",
+    "stress-burnout-depression-progression",
     "voice-in-the-head",
     "symptoms-of-depression",
     "ask-from-each-of-the-three-centers",
@@ -10371,6 +10592,7 @@
     "treating-felt-state-as-factual-reality",
     "anger",
     "soul-dysmorphia",
+    "stress-burnout-depression-progression",
     "symptoms-of-depression",
     "three-forms-of-anger-repression"
   ],
@@ -10622,12 +10844,15 @@
     "depression-four-levels",
     "polyvagal-nervous-system-framing",
     "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
     "symptoms-of-depression",
     "apply-connection-to-whatever-youre-doing",
     "how-could-you-do-this-and-gain-energy",
+    "quality-of-downtime-matters",
     "holding-back-truth-is-self-harm",
     "improvement-mindset-vs-maintenance-mindset",
     "inner-critic-prevents-rest-and-integration",
+    "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
     "stress-tolerance-is-personal-and-built",
     "sustained-fear-requires-post-hoc-processing",
@@ -10636,6 +10861,7 @@
     "let-your-body-shake-it-out",
     "nervous-system-support-during-intense-inquiry",
     "biathlon-athlete-7-hours-tv",
+    "black-swan-small-collapses-prevent-big-ones",
     "ceo-pajama-house-study",
     "sleep-not-the-marriage-story",
     "will-chesney-seal-collapse-and-return"
@@ -10663,11 +10889,13 @@
     "activation-release-rest-cycle",
     "burnout-cycle",
     "rest-is-an-accomplishment",
+    "quality-of-downtime-matters",
     "nervous-system-recovery-after-stress"
   ],
   "adrenaline-discharge-via-fear-activity": [
     "im-burned-out",
     "burnout-cycle",
+    "stress-burnout-depression-progression",
     "use-your-strength-on-the-real-work",
     "potato-chipping-the-rigid-body-under-obligation"
   ],
@@ -10692,10 +10920,12 @@
     "productivity-as-dopamine-fix",
     "how-could-you-do-this-and-gain-energy",
     "pace-and-spin",
+    "quality-of-downtime-matters",
     "context-switching-drains-energy",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "efficiency-as-enjoyment",
     "make-it-redundant-not-just-done",
+    "optimize-for-downtime-not-productivity",
     "presence-in-the-body-while-working",
     "close-the-loop-between-work-blocks",
     "three-stages-of-negotiation"
@@ -11053,6 +11283,7 @@
     "the-arrogantly-humble-paradox",
     "awakening-as-natural-development",
     "coaches-life-must-be-healthy-first",
+    "coaches-never-stop-growing-and-need-supervision",
     "epiphany-becomes-rut",
     "open-your-heart-while-judging-experiment",
     "joes-bathroom-realization",
@@ -11164,6 +11395,7 @@
   ],
   "welcoming-fear-in-leadership": [
     "im-not-an-anxious-person",
+    "two-ways-leaders-hold-uncertainty",
     "dont-step-on-the-signal",
     "authority-issues",
     "trust-as-multifaceted",
@@ -11181,7 +11413,9 @@
     "empathy-makes-you-better-at-hard-jobs",
     "feeling-yourself-beats-going-to-plan",
     "leaders-calm-becomes-the-teams-calm",
+    "next-generation-institutions-create-healing",
     "public-failure-as-leadership-modeling",
+    "short-horizon-planning-in-rapid-change",
     "anxiety-as-unarticulated-need",
     "sarah-i-love-your-frustration",
     "vulnerability-in-the-workplace",
@@ -11430,7 +11664,8 @@
     "im-not-living-up-to-my-potential",
     "heartbreak-as-capacity-expansion",
     "name-the-fear-loop-directly",
-    "so-what-makes-you-run-away-from-fear"
+    "so-what-makes-you-run-away-from-fear",
+    "transformation-happens-in-uncertainty"
   ],
   "jeff-bezos-calls-his-mornings-wandering": [
     "im-not-living-up-to-my-potential",
@@ -11483,6 +11718,7 @@
     "my-inner-critic-wont-stop",
     "art-of-accomplishment",
     "identity",
+    "stress-burnout-depression-progression",
     "voice-in-the-head",
     "investigate-the-actual-source-of-stress",
     "cultural-pressure-to-perform-stress",
@@ -11509,6 +11745,7 @@
   "stress-as-rejection-of-stress": [
     "im-so-stressed-out",
     "dont-love-stress-to-make-it-go-away",
+    "stress-burnout-depression-progression",
     "investigate-the-actual-source-of-stress",
     "pep-talk-cant-override-the-body",
     "stress-is-essential-for-life",
@@ -11523,6 +11760,7 @@
   "pleasure-tells-system-its-safe": [
     "im-so-stressed-out",
     "my-inner-critic-wont-stop",
+    "quality-of-downtime-matters",
     "inner-critic-prevents-rest-and-integration",
     "over-regulating-nervous-system-creates-stress",
     "pep-talk-cant-override-the-body",
@@ -11544,6 +11782,7 @@
     "identity",
     "parenting-as-deep-tissue-massage",
     "riding-the-roller-coaster-from-the-ground",
+    "velcro-the-attachments-that-remain",
     "religious-identity-around-pain",
     "investigate-the-actual-source-of-stress",
     "receive-the-projection-and-let-it-move-through",
@@ -11561,7 +11800,10 @@
   ],
   "notice-sensations-as-pleasure-experiment": [
     "im-so-stressed-out",
+    "stress-burnout-depression-progression",
     "pleasure-capacity",
+    "quality-of-downtime-matters",
+    "optimize-for-downtime-not-productivity",
     "pleasure-tells-system-its-safe",
     "stress-tolerance-is-personal-and-built",
     "tension-is-part-of-pleasure",
@@ -11605,6 +11847,7 @@
   ],
   "stress-is-essential-for-life": [
     "im-so-stressed-out",
+    "stress-burnout-depression-progression",
     "shame-as-the-stress-quality-diagnostic",
     "stress-tolerance-is-personal-and-built",
     "tension-and-release-cycle",
@@ -11955,6 +12198,7 @@
     "epiphany-becomes-rut",
     "experiments-must-stay-in-window-of-tolerance",
     "marketing-as-the-beginning",
+    "overachieving-is-survival-mode",
     "public-failure-as-leadership-modeling",
     "voice-creates-what-it-fears",
     "write-50-experiments-before-starting",
@@ -12452,6 +12696,7 @@
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
+    "notice-sensations-as-pleasure-experiment",
     "joes-pot-habit"
   ],
   "thank-the-voice-when-its-truth": [
@@ -12782,7 +13027,8 @@
     "no-finish-line",
     "the-inner-board",
     "efficiency-as-enjoyment",
-    "productivity-is-the-trees-purpose-is-the-forest"
+    "productivity-is-the-trees-purpose-is-the-forest",
+    "the-life-that-shows-up-beats-the-goal"
   ],
   "intellectual-process-with-no-somatic-component": [
     "whats-next-after-i-reached-my-big-goal",
@@ -13284,6 +13530,7 @@
     "cant-rebuild-trust-without-grieving-the-loss",
     "contain-the-narcissist",
     "fear-is-about-feeling",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "without-grief-we-recreate-the-pattern"
   ],
   "im-afraid-ill-get-depressed-again": [
@@ -13344,6 +13591,11 @@
     "pep-talk-cant-override-the-body",
     "take-access-points-wherever-you-can-get-them",
     "gandhi-isnt-weak"
+  ],
+  "name-the-deflection-as-its-happening": [
+    "deflecting-by-pivoting-to-helping-others",
+    "live-naming-the-physical-constriction-of-non-reception",
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "i-cant-apologize": [
     "ego-protection-as-need-to-be-understood",
@@ -13460,8 +13712,10 @@
   "the-arrogantly-humble-paradox": [
     "humility-in-the-system",
     "coaching-to-be-seen-as-wise",
+    "humility-developmental-arc",
     "humility",
     "identity",
+    "velcro-the-attachments-that-remain",
     "humility-vs-disempowerment",
     "nothing-is-wrong-with-it-its-just-painful",
     "own-your-narcissism",
@@ -13478,11 +13732,13 @@
   ],
   "humility": [
     "humility-in-the-system",
+    "humility-developmental-arc",
     "identity",
     "riding-the-roller-coaster-from-the-ground",
     "the-abyss-is-where-you-dont-exist",
     "the-hollowing-out-process",
     "two-forms-of-ego-good-and-bad",
+    "velcro-the-attachments-that-remain",
     "caregiving-softens-the-self",
     "shame-after-spaciousness",
     "let-it-move-through-and-clean-the-channel",
@@ -13493,12 +13749,14 @@
     "the-arrogantly-humble-paradox",
     "a-support-system-creates-you",
     "acknowledging-death-compresses-life",
+    "coaches-never-stop-growing-and-need-supervision",
     "dont-claim-the-wisdom-as-yours",
     "enjoyment-as-surrender",
     "gratitude-as-acknowledgment-of-greater-force",
     "im-none-of-my-own-business",
     "loss-of-control-and-loss-of-self-are-the-same",
     "mind-wide-as-sky-action-fine-as-barley",
+    "next-generation-institutions-create-healing",
     "non-defense-is-the-ocean",
     "nothing-is-wrong-with-it-its-just-painful",
     "own-your-narcissism",
@@ -13515,6 +13773,7 @@
     "the-good-alone-false-humility-with-others-read",
     "dont-call-them-a-liar-with-deflection",
     "generosity",
+    "humility-developmental-arc",
     "humility",
     "the-hollowing-out-process",
     "two-forms-of-ego-good-and-bad",
@@ -13559,7 +13818,8 @@
   "wanting-from-lack-vs-wanting-from-wholeness": [
     "in-the-story-im-not-being-seen",
     "the-desire-to-be-seen",
-    "i-dont-need-to-be-seen-right-now"
+    "i-dont-need-to-be-seen-right-now",
+    "overachieving-is-survival-mode"
   ],
   "epiphany-becomes-task": [
     "insight-converted-to-task-in-real-time",
@@ -13930,19 +14190,6 @@
     "self-criticism-kicks-in-when-invited-to-see-yourself",
     "count-the-years-of-showing-up"
   ],
-  "i-cant-receive-compliments-or-love-from-my-spouse": [
-    "self-criticism-kicks-in-when-invited-to-see-yourself",
-    "the-avoidant-partner-who-cant-receive",
-    "anxious-avoidant-dynamic",
-    "two-forms-of-ego-good-and-bad",
-    "apologize-to-partner-without-shame-for-the-distance-pattern",
-    "apologize-to-yourself-for-holding-back-from-feeling",
-    "count-the-years-of-showing-up",
-    "look-around-the-room-can-you-see-anyone-not-here-for-you",
-    "redirect-from-being-seen-by-them-to-seeing-yourself",
-    "locked-down-sensitivity-is-the-gift",
-    "theres-always-a-way-to-find-the-lack-of-truth-in-a-compliment"
-  ],
   "i-feel-lonely-i-cant-find-real-community": [
     "shame-blocks-connection-in-real-time",
     "how-do-you-abandon-yourself",
@@ -13960,6 +14207,7 @@
     "purpose-is-acknowledgement-not-approval",
     "dont-coach-if-you-have-a-choice",
     "purposelessness-is-freedom",
+    "jerry-and-the-lawyer-who-cried",
     "the-hot-springs-massage-message",
     "the-retreat-woman-no-choice"
   ],
@@ -14036,6 +14284,7 @@
     "childhood-imprinting",
     "give-me-the-sound-of-the-emotion",
     "observe-vs-move-emotion",
+    "grieving-in-groups-beats-grieving-solo",
     "tears-dont-disturb-the-refuge",
     "daily-emotional-yoga",
     "fake-the-anger-to-let-it-move",
@@ -14057,23 +14306,6 @@
     "spin-vs-pedaling",
     "doing-doesnt-equal-producing",
     "reflection-is-release-resting-is-nothing"
-  ],
-  "i-keep-getting-stuff-done-but-nothing-changes": [
-    "the-emotional-hangover-of-false-productivity",
-    "the-rush-signature",
-    "ask-how-much-safety-plays-a-role",
-    "what-is-the-productivity-for",
-    "spin-vs-pedaling",
-    "productivity-as-dopamine-fix",
-    "stop-to-feel-the-anxiety-underneath-the-productivity",
-    "design-the-interactions-and-the-productivity-takes-care-of-itself",
-    "doing-doesnt-equal-producing",
-    "how-you-do-productivity-reveals-what-its-for",
-    "overwhelm-reduces-productivity",
-    "productivity-is-the-trees-purpose-is-the-forest",
-    "reflection-after-an-hour",
-    "joes-vc-realization-one-tenth-the-work",
-    "vp-and-the-3-day-offsite"
   ],
   "insight-converted-to-task-in-real-time": [
     "the-pattern-seer-using-pattern-knowledge-to-stay-stuck",
@@ -14183,6 +14415,21 @@
     "emotional-inquiry",
     "stages-of-emotional-development"
   ],
+  "fear-in-body-vs-fear-in-head": [
+    "two-ways-leaders-hold-uncertainty",
+    "fear-as-signal-of-care",
+    "helplessness-as-cayenne-pepper-of-fear",
+    "two-words-for-fear",
+    "binary-thinking-signals-fear",
+    "read-anger-and-help-as-fear",
+    "catastrophizing-vs-visualizing",
+    "grounded-excitement-vs-ungrounded-excitement",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "short-horizon-planning-in-rapid-change",
+    "5-second-spice-check",
+    "brett-wingsuit-girlfriend-thought",
+    "welcoming-fear-in-leadership"
+  ],
   "what-makes-you-care-about-their-emotional-state": [
     "using-your-emotion-to-make-others-hold-it",
     "feel-the-love-then-feel-obligation"
@@ -14245,6 +14492,7 @@
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
     "doing-doesnt-equal-producing",
     "how-you-do-productivity-reveals-what-its-for",
+    "optimize-for-downtime-not-productivity",
     "productivity-is-the-trees-purpose-is-the-forest",
     "reflection-is-release-resting-is-nothing",
     "reflection-after-an-hour",
@@ -14291,7 +14539,8 @@
     "how-do-you-want-to-be-in-this-uncertainty",
     "take-the-adventure-stance",
     "optimism-pessimism-realism-vs-ownership",
-    "transformation-happens-in-uncertainty"
+    "transformation-happens-in-uncertainty",
+    "forest-fire-as-system-reset"
   ],
   "apply-view-to-fear": [
     "how-do-you-want-to-be-with-them",
@@ -14639,6 +14888,9 @@
   "heat-and-sweat-as-process-marker": [
     "whats-your-truth-in-this-moment"
   ],
+  "what-was-going-on-at-eight-years-old": [
+    "which-came-first"
+  ],
   "grief-at-the-disproportion": [
     "wild-goose-chase-when-the-answer-is-known",
     "apologize-for-contorting-into-frameworks"
@@ -14782,6 +15034,7 @@
     "humility",
     "receive-the-projection-and-let-it-move-through",
     "visualize-the-reality-of-leadership",
+    "coaches-never-stop-growing-and-need-supervision",
     "dont-claim-the-wisdom-as-yours",
     "dont-coach-if-you-have-a-choice",
     "hierarchy-collapses-support",
@@ -14796,6 +15049,7 @@
     "coaching-to-be-seen-as-wise",
     "dont-treat-coaching-videos-as-how-to-coach",
     "performing-for-love-becomes-savior-career",
+    "transformational-coaching-vs-performance-coaching",
     "coaches-foundation-self-awareness",
     "dont-coach-if-you-have-a-choice",
     "own-your-narcissism",
@@ -14837,6 +15091,7 @@
     "seeing-through-essential-wrongness",
     "self-blame-abdicates-others-agency",
     "shame-dissipates-in-the-question-itself",
+    "shift-the-environment-not-the-actor",
     "three-stages-of-the-blame-path",
     "what-was-done-to-you-youre-now-doing-to-yourself",
     "list-who-you-subtly-blame",
@@ -14900,6 +15155,7 @@
     "composing-yourself-as-self-suppression",
     "emotional-fluidity",
     "bracing-hardens-identity-makes-you-needed",
+    "if-trust-cant-arrive-grief-isnt-complete",
     "locked-down-sensitivity-is-the-gift",
     "loss-of-control-and-loss-of-self-are-the-same"
   ],
@@ -14932,12 +15188,16 @@
     "dont-name-emotion-to-avoid-feeling",
     "limiting-belief-meta-trap",
     "dysfunction-as-spectrum",
+    "humility-developmental-arc",
+    "humility",
     "integration",
     "no-finish-line",
+    "velcro-the-attachments-that-remain",
     "enter-inquiry-with-soft-sense-of-self",
     "feel-over-figure",
     "agreements-renegotiate-as-you-change",
     "awakening-as-natural-development",
+    "coaches-never-stop-growing-and-need-supervision",
     "every-identity-has-limits",
     "friction-is-required-for-life",
     "good-and-corruption-cycle",
@@ -14998,11 +15258,15 @@
     "dont-comfort-the-mourner-from-your-own-discomfort",
     "community",
     "being-with-without-needing-change-as-highest-generosity",
+    "grieving-in-groups-beats-grieving-solo",
+    "next-generation-institutions-create-healing",
     "host-a-grief-ceremony-as-community"
   ],
   "host-a-grief-ceremony-as-community": [
     "dont-comfort-the-mourner-from-your-own-discomfort",
     "community",
+    "grieving-in-groups-beats-grieving-solo",
+    "next-generation-institutions-create-healing",
     "people-want-you-in-it-with-them-not-advice",
     "your-pain-when-witnessed-heals-the-whole-community"
   ],
@@ -15041,6 +15305,7 @@
     "dont-consume-self-help-to-avoid-yourself",
     "bad-habits-are-the-avoidance-of-essential-self",
     "natural-shame-vs-installed-shame",
+    "quality-of-downtime-matters",
     "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken",
     "joes-doomscrolling-story"
   ],
@@ -15311,6 +15576,7 @@
     "wanting-vs-craving",
     "enjoyment-as-surrender",
     "goal-beyond-the-goal",
+    "the-life-that-shows-up-beats-the-goal",
     "set-and-forget-goals",
     "principles-goals-metrics",
     "pow-optimist",
@@ -15910,7 +16176,8 @@
     "dont-skip-the-consultation-because-it-evokes-emotion",
     "all-disagreements-come-from-two-questions",
     "coaches-life-must-be-healthy-first",
-    "outer-life-mirrors-relationship-with-self"
+    "outer-life-mirrors-relationship-with-self",
+    "shift-the-environment-not-the-actor"
   ],
   "forgiveness-as-stop-making-them-monster": [
     "dont-skip-wonder-and-jump-to-love-when-oppressed",
@@ -15945,10 +16212,12 @@
     "dont-treat-coaching-videos-as-how-to-coach",
     "coach-personality-determines-style",
     "be-of-service-doesnt-require-the-moniker",
+    "transformational-coaching-vs-performance-coaching",
     "become-unnecessary",
     "coach-as-follower-not-director",
     "coach-as-mirror-not-customer-service",
     "coaches-life-must-be-healthy-first",
+    "coaches-never-stop-growing-and-need-supervision",
     "dont-coach-if-you-have-a-choice",
     "feeling-yourself-beats-going-to-plan",
     "first-iteration-is-irreplaceable",
@@ -16121,6 +16390,7 @@
     "echo-chamber-of-the-single-support-group",
     "community",
     "a-support-system-creates-you",
+    "grieving-in-groups-beats-grieving-solo",
     "hierarchy-collapses-support",
     "shared-purpose-not-shared-proximity",
     "teach-to-integrate",
@@ -16276,7 +16546,9 @@
   ],
   "inner-critic-prevents-rest-and-integration": [
     "activation-release-rest-cycle",
+    "burnout-cycle",
     "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
     "pleasure-tells-system-its-safe",
     "say-ouch-to-the-inner-critic",
     "four-causes-of-stress",
@@ -16570,6 +16842,7 @@
     "capacity-to-love-other-is-capacity-to-love-self",
     "conversation-as-microcosm-of-relationship",
     "culture-outside-mirrors-culture-inside",
+    "next-generation-institutions-create-healing",
     "treating-world-as-threat-reproduces-threat",
     "understand-yourself-like-you-understand-a-computer",
     "four-causes-of-stress",
@@ -16792,6 +17065,7 @@
   ],
   "dont-claim-the-wisdom-as-yours": [
     "channeling-quality-of-truth",
+    "humility-developmental-arc",
     "listening",
     "the-butler-metaphor",
     "the-hollowing-out-process",
@@ -16799,6 +17073,7 @@
     "downward-spiral-between-teacher-and-students",
     "speak-from-listening",
     "wait-for-someone-else-to-say-it",
+    "coaches-never-stop-growing-and-need-supervision",
     "the-clients-wisdom-not-the-teachers",
     "speaking-authentically"
   ],
@@ -16853,6 +17128,8 @@
   "dont-comfort-the-mourner-from-your-own-discomfort": [
     "community",
     "sorry-from-shame-vs-sorry-as-solidarity",
+    "grieving-in-groups-beats-grieving-solo",
+    "next-generation-institutions-create-healing",
     "people-want-you-in-it-with-them-not-advice",
     "your-pain-when-witnessed-heals-the-whole-community",
     "host-a-grief-ceremony-as-community"
@@ -16915,8 +17192,13 @@
   ],
   "black-swan-small-collapses-prevent-big-ones": [
     "conflict-as-evolutionary-tension",
+    "rest-is-an-accomplishment",
     "friction-is-required-for-life",
-    "how-you-fight-not-how-often"
+    "how-you-fight-not-how-often",
+    "optimize-for-downtime-not-productivity",
+    "transformation-happens-in-uncertainty",
+    "forest-fire-as-system-reset",
+    "kaibab-deer-mountain-lion-balance"
   ],
   "authenticity-reduces-shame": [
     "conflict-avoidance-prevents-being-loved",
@@ -17075,6 +17357,7 @@
     "decisions-as-portfolio",
     "good-decision-is-how-you-make-it-not-the-outcome",
     "if-you-think-youre-deciding-youre-in-fear",
+    "the-life-that-shows-up-beats-the-goal",
     "you-cant-let-go-of-emotions-only-thoughts"
   ],
   "examples/joes-board-member": [
@@ -17119,6 +17402,7 @@
     "all-disagreements-come-from-two-questions",
     "disconnection-precedes-decline",
     "energy-management-over-time-management",
+    "optimize-for-downtime-not-productivity",
     "self-connection-catches-meeting-friction",
     "five-star-meeting-commitment",
     "gratitude-rounds-before-meetings",
@@ -17252,18 +17536,6 @@
     "purpose-is-an-evolution-not-a-destination",
     "say-goodbye-like-its-the-last-time",
     "joes-funeral-poem-for-kase"
-  ],
-  "fear-in-body-vs-fear-in-head": [
-    "fear-as-signal-of-care",
-    "helplessness-as-cayenne-pepper-of-fear",
-    "two-words-for-fear",
-    "binary-thinking-signals-fear",
-    "read-anger-and-help-as-fear",
-    "catastrophizing-vs-visualizing",
-    "grounded-excitement-vs-ungrounded-excitement",
-    "if-you-think-youre-deciding-youre-in-fear",
-    "5-second-spice-check",
-    "brett-wingsuit-girlfriend-thought"
   ],
   "helplessness-as-cayenne-pepper-of-fear": [
     "fear-in-body-vs-fear-in-head",
@@ -17474,6 +17746,26 @@
     "helplessness-is-the-gateway",
     "get-angry-in-the-car"
   ],
+  "receive-the-projection-and-let-it-move-through": [
+    "humility-developmental-arc",
+    "humility",
+    "let-it-move-through-and-clean-the-channel",
+    "pucker-and-still-say-it",
+    "surround-yourself-with-people-who-make-fun-of-you",
+    "the-fu-joe-handle"
+  ],
+  "channeling-quality-of-truth": [
+    "humility-developmental-arc",
+    "the-hollowing-out-process",
+    "speaking-truth-cures-approval-seeking",
+    "chase-your-own-approval",
+    "speak-truth-twice-a-day"
+  ],
+  "coaches-never-stop-growing-and-need-supervision": [
+    "humility-developmental-arc",
+    "dont-coach-if-you-have-a-choice",
+    "epiphany-becomes-rut"
+  ],
   "refuse-to-be-defined-by-the-worst-act": [
     "humility",
     "identity",
@@ -17493,12 +17785,10 @@
     "sorry-from-shame-vs-sorry-as-solidarity",
     "eating-but-not-digesting-the-food"
   ],
-  "receive-the-projection-and-let-it-move-through": [
+  "humility-developmental-arc": [
     "humility",
-    "let-it-move-through-and-clean-the-channel",
-    "pucker-and-still-say-it",
-    "surround-yourself-with-people-who-make-fun-of-you",
-    "the-fu-joe-handle"
+    "dont-claim-the-wisdom-as-yours",
+    "epiphany-becomes-rut"
   ],
   "dont-cement-insight-as-identity": [
     "humility",
@@ -17609,6 +17899,7 @@
     "epiphany-becomes-task",
     "the-natural-integration-arc-after-breakthrough",
     "let-your-body-remember-this-moment",
+    "transformational-coaching-vs-performance-coaching",
     "decisions-are-emotional",
     "embracing-intensity-as-leading-indicator",
     "gratitude-as-integration-mechanism",
@@ -17710,6 +18001,7 @@
   "joe-thich-nhat-hanh-dishes": [
     "joy-as-natural-state",
     "pleasure-capacity",
+    "quality-of-downtime-matters",
     "chasing-pleasure-is-avoidance"
   ],
   "intrinsic-drive-to-build": [
@@ -18087,6 +18379,22 @@
     "triggers-reveal-your-own-beliefs",
     "five-triggers-projection-experiment"
   ],
+  "forest-fire-as-system-reset": [
+    "rest-is-an-accomplishment",
+    "uncertainty",
+    "optimize-for-downtime-not-productivity",
+    "shift-the-environment-not-the-actor",
+    "transformation-happens-in-uncertainty",
+    "black-swan-small-collapses-prevent-big-ones",
+    "kaibab-deer-mountain-lion-balance"
+  ],
+  "optimize-for-downtime-not-productivity": [
+    "rest-is-an-accomplishment",
+    "stress-burnout-depression-progression",
+    "quality-of-downtime-matters",
+    "black-swan-small-collapses-prevent-big-ones",
+    "forest-fire-as-system-reset"
+  ],
   "close-the-loop-between-work-blocks": [
     "rest-is-an-accomplishment",
     "context-switching-drains-energy",
@@ -18145,6 +18453,12 @@
     "meaning-change-vs-feeling-through",
     "questioning-assumptions",
     "self-forgiveness-as-spoken-move"
+  ],
+  "quality-of-downtime-matters": [
+    "stress-burnout-depression-progression",
+    "pleasure-capacity",
+    "optimize-for-downtime-not-productivity",
+    "notice-sensations-as-pleasure-experiment"
   ],
   "tell-them-like-an-asshole": [
     "sublimated-wants-become-politics",
@@ -18235,12 +18549,6 @@
     "boeing-ford-bad-news",
     "no-doctrine-leadership"
   ],
-  "channeling-quality-of-truth": [
-    "the-hollowing-out-process",
-    "speaking-truth-cures-approval-seeking",
-    "chase-your-own-approval",
-    "speak-truth-twice-a-day"
-  ],
   "shoulds-as-self-abuse": [
     "the-inner-board"
   ],
@@ -18317,6 +18625,12 @@
   "trust-vs-safety|safety": [
     "trust-as-multifaceted"
   ],
+  "kaibab-deer-mountain-lion-balance": [
+    "uncertainty",
+    "shift-the-environment-not-the-actor",
+    "transformation-happens-in-uncertainty",
+    "forest-fire-as-system-reset"
+  ],
   "joes-woods-fast-stopped-fighting": [
     "undoing-not-doing",
     "layered-resistance",
@@ -18345,6 +18659,9 @@
   "list-who-you-subtly-blame": [
     "upright-apology",
     "passive-aggressive-vs-aggressive-aggressive"
+  ],
+  "riding-the-roller-coaster-from-the-ground": [
+    "velcro-the-attachments-that-remain"
   ],
   "nervous-system-codes-threats-as-real": [
     "verbal-abuse-as-controlling-with-anger",
@@ -18634,6 +18951,9 @@
     "wants-over-shoulds",
     "listening-to-impulse",
     "seven-limiting-beliefs"
+  ],
+  "overachieving-is-survival-mode|the producing-as-survival-mode": [
+    "perfectionism"
   ],
   "guilty-pleasure-vs-real-pleasure": [
     "pleasure-capacity",
@@ -19382,9 +19702,12 @@
   ],
   "dont-coach-if-you-have-a-choice": [
     "be-of-service-doesnt-require-the-moniker",
+    "transformational-coaching-vs-performance-coaching",
     "choicelessness-as-purpose-marker",
     "coaches-life-must-be-healthy-first",
+    "coaches-never-stop-growing-and-need-supervision",
     "recognition-feeling-balance-then-call-emerges",
+    "jerry-and-the-lawyer-who-cried",
     "joe-and-the-CEO-everyone-said-dont-let-in"
   ],
   "venting-friend-pattern": [
@@ -19544,6 +19867,21 @@
     "five-principles-of-the-path",
     "principles-goals-metrics"
   ],
+  "the-404-the-productive-unknown": [
+    "problem-stuck-vs-trapped-stuck"
+  ],
+  "freeze-became-the-best-childhood-strategy": [
+    "problem-stuck-vs-trapped-stuck"
+  ],
+  "anger-first-then-fear-out-of-stuck": [
+    "problem-stuck-vs-trapped-stuck"
+  ],
+  "feeling-stuck-is-self-oppression": [
+    "problem-stuck-vs-trapped-stuck"
+  ],
+  "movement-releases-stuckness": [
+    "problem-stuck-vs-trapped-stuck"
+  ],
   "stress-from-not-doing-the-thing": [
     "raw-ambition-vs-stories-on-ambition"
   ],
@@ -19686,6 +20024,15 @@
     "belief-in-change-is-precondition",
     "champion-swimmer-belief"
   ],
+  "parenting-as-the-most-effective-change-agent": [
+    "both-individual-and-society-reference-point",
+    "mangy-cat-eating-from-the-hand"
+  ],
+  "shift-the-environment-not-the-actor": [
+    "both-individual-and-society-reference-point",
+    "forest-fire-as-system-reset",
+    "kaibab-deer-mountain-lion-balance"
+  ],
   "composing-yourself-as-self-suppression": [
     "bracing-as-control-of-emotional-experience",
     "management-is-for-shame-love-needs-no-management"
@@ -19718,6 +20065,7 @@
   ],
   "scary-effort-vs-grind-effort": [
     "choicelessness-as-purpose-marker",
+    "overachieving-is-survival-mode",
     "purpose-cracks-you-open"
   ],
   "the-first-thing-the-client-says-is-the-kernel": [
@@ -19726,6 +20074,15 @@
   ],
   "dont-treat-coaching-videos-as-how-to-coach": [
     "coaches-foundation-self-awareness"
+  ],
+  "transformational-coaching-vs-performance-coaching": [
+    "coaches-never-stop-growing-and-need-supervision",
+    "dont-coach-if-you-have-a-choice",
+    "the-life-that-shows-up-beats-the-goal"
+  ],
+  "coaches-life-must-be-healthy-first": [
+    "coaches-never-stop-growing-and-need-supervision",
+    "dont-coach-if-you-have-a-choice"
   ],
   "keeping-cult-dynamics-conscious": [
     "community-over-teacher",
@@ -19795,7 +20152,8 @@
     "decisions-are-emotional",
     "good-decision-is-how-you-make-it-not-the-outcome",
     "if-you-think-youre-deciding-youre-in-fear",
-    "surrender-the-outcome-of-a-decision"
+    "surrender-the-outcome-of-a-decision",
+    "the-life-that-shows-up-beats-the-goal"
   ],
   "functional-vs-dysfunctional-relationship-configuration": [
     "defending-the-ideal-blocks-the-relating"
@@ -19817,8 +20175,20 @@
   "be-of-service-doesnt-require-the-moniker": [
     "dont-coach-if-you-have-a-choice"
   ],
-  "coaches-life-must-be-healthy-first": [
+  "joe-and-the-CEO-everyone-said-dont-let-in": [
+    "dont-coach-if-you-have-a-choice",
+    "recognition-feeling-balance-then-call-emerges",
+    "jerry-and-the-lawyer-who-cried"
+  ],
+  "jerry-and-the-lawyer-who-cried": [
     "dont-coach-if-you-have-a-choice"
+  ],
+  "recognition-feeling-balance-then-call-emerges": [
+    "dont-coach-if-you-have-a-choice",
+    "if-trust-cant-arrive-grief-isnt-complete",
+    "the-life-that-shows-up-beats-the-goal",
+    "jerry-and-the-lawyer-who-cried",
+    "joe-and-the-CEO-everyone-said-dont-let-in"
   ],
   "yes-dear-old-timers": [
     "dont-compromise-find-both-needs-met",
@@ -19922,6 +20292,7 @@
     "feeling-yourself-beats-going-to-plan",
     "first-iteration-is-irreplaceable",
     "carl-rogers-three-day-listening-experiment",
+    "forest-fire-as-system-reset",
     "training-coaches-and-facilitators"
   ],
   "welcoming-anxiety-as-aliveness": [
@@ -19963,6 +20334,15 @@
   "body-catches-it-better-than-list": [
     "gratitude-as-integration-mechanism"
   ],
+  "next-generation-institutions-create-healing": [
+    "grieving-in-groups-beats-grieving-solo"
+  ],
+  "community-grief-ceremony": [
+    "grieving-in-groups-beats-grieving-solo",
+    "next-generation-institutions-create-healing",
+    "your-issue-is-the-communitys-issue",
+    "finding-and-cultivating-community"
+  ],
   "helplessness-vs-surrender|surrender": [
     "helplessness-is-the-gateway"
   ],
@@ -19983,6 +20363,10 @@
     "identity-lags-behind-growth",
     "knowing-yourself-is-the-only-safety",
     "brett-cape-town-napkins"
+  ],
+  "grieving-in-groups-beats-grieving-solo": [
+    "if-trust-cant-arrive-grief-isnt-complete",
+    "next-generation-institutions-create-healing"
   ],
   "esme-step-by-step-project": [
     "if-you-dont-stand-into-authority-others-will-vie-for-it",
@@ -20053,6 +20437,10 @@
   ],
   "Humility": [
     "mind-wide-as-sky-action-fine-as-barley"
+  ],
+  "stress-burnout-depression-progression": [
+    "nervous-system-recovery-after-stress",
+    "optimize-for-downtime-not-productivity"
   ],
   "hot-crushy-feeling-as-sugar-high": [
     "nobody-wants-to-have-sex-with-a-kid"
@@ -20134,9 +20522,6 @@
     "purposelessness-is-freedom"
   ],
   "welcoming-vs-acceptance": [
-    "recognition-feeling-balance-then-call-emerges"
-  ],
-  "joe-and-the-CEO-everyone-said-dont-let-in": [
     "recognition-feeling-balance-then-call-emerges"
   ],
   "babysitter-apology": [
@@ -20285,10 +20670,6 @@
   "disdain-is-the-true-sign-of-a-dead-relationship": [
     "you-cant-chase-someone-into-loving-you",
     "three-things-to-save-a-marriage-from-disdain"
-  ],
-  "community-grief-ceremony": [
-    "your-issue-is-the-communitys-issue",
-    "finding-and-cultivating-community"
   ],
   "catastrophizing-vs-visualizing|catastrophizing": [
     "5-second-spice-check"
@@ -20462,9 +20843,6 @@
   "how-you-fight-not-how-often|count metric": [
     "joe-and-tara-retreat-prep-fight"
   ],
-  "recognition-feeling-balance-then-call-emerges": [
-    "joe-and-the-CEO-everyone-said-dont-let-in"
-  ],
   "esme-math-final": [
     "joe-mina-china-overwhelm"
   ],
@@ -20490,9 +20868,6 @@
   "hitchhiking-freedom": [
     "mandela-prison-freedom"
   ],
-  "parenting-as-the-most-effective-change-agent": [
-    "mangy-cat-eating-from-the-hand"
-  ],
   "us-vs-them": [
     "political-signs-steakhouse-story"
   ],
@@ -20507,6 +20882,9 @@
   ],
   "i-can't-feel-my-emotions": [
     "stone-face-baby-experiment"
+  ],
+  "give-without-needing-it-to-land": [
+    "the-cake-metaphor-for-deflected-compliments"
   ],
   "loving-the-resistance": [
     "the-fu-joe-handle"

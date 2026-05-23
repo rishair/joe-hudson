@@ -5,7 +5,7 @@ title: "Perfectionism"
 aliases: ["being a perfectionist", "critical parent's voice", "trying to be perfect", "perfection seeking", "rigidity from perfectionism", "measuring up", "the perfectionism that stops you from starting", "starting-perfectionism", "the kind of perfectionism that stops me from starting", "perfectionism that blocks engagement", "the perfectionism that prevents the first step"]
 tags: ["patterns", "shame", "productivity", "childhood", "rigidity", "voice in head"]
 related: ["connection-over-perfection", "shame-drives-behavior", "childhood-imprinting", "negative-self-reinforcement", "layered-resistance", "resistance", "impulse-to-should", "voice-in-the-head", "voice-creates-what-it-fears", "rehearsing-conversations"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-07-16_Who is the Voice in Your Head?", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-07-16_Who is the Voice in Your Head?", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)"]
 ---
 
 # Perfectionism
@@ -68,6 +68,16 @@ What looks like attention deficit can be perfectionist pessimism: "I'm never gon
 
 The label "attention deficit disorder" can be reframed: not a deficit in the capacity to pay attention, but a deficit in the attention that was paid to the person. A deficit of connection. The disconnection creates the pattern.
 
+## Perfectionism and the Overachiever-as-Survival-Mode Configuration
+
+A specific configuration: the perfectionist who is also producing constantly because the producing is itself the survival strategy. The perfectionist standard is one component of the broader engine. The producing-to-be-valued engine generates output; the perfectionist standard ensures the output is good enough to count as evidence of value.
+
+In this configuration, the perfectionism is downstream of [[overachieving-is-survival-mode|the producing-as-survival-mode]] structure. The perfectionist is producing because producing is the survival strategy; the perfectionist standard is what guarantees the produced output will demonstrate the value the system has been seeking. Removing the perfectionist standard without addressing the survival-engine underneath does not stop the producing — it just makes the producing less precise.
+
+A characteristic move of this configuration: the perfectionist will not show the steps of their work. "The overachieving perfectionist doesn't wanna show the process." The hiding-of-process is the perfectionist standard applied to the producing — only the polished output can be seen, the messy effort behind it must be invisible. The cost: the person feels misvalued for the output (which credits the wrong layer) while refusing to expose the underneath (which would let them be seen for the actual cost). The contradiction is structural; the perfectionist standard and the wanting-to-be-seen-for-the-effort cannot both be satisfied within the same configuration.
+
+The light reframe Joe sometimes offers in coaching: "For a perfectionist, you're really not being perfect at receiving compliments." The use of the client's own perfectionist identity to short-circuit the deflection of compliments. See [[reframe-the-trait-they-feel-stung-by-as-evidence-of-care]] for the broader move.
+
 ## When Someone Experiences This
 
 When stuck in a loop of planning but not executing. When the inner voice says "not good enough" before the work has begun. When iteration feels dangerous because each attempt could be judged. When procrastination is driven by "I won't get it right" rather than "I don't want to do it."
@@ -91,3 +101,4 @@ When stuck in a loop of planning but not executing. When the inner voice says "n
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
 - 2021-07-16_Who is the Voice in Your Head?
 - 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the distinction between "the kind of perfection where I'm not doing everything, redoing it and redoing it" and "the kind that stops me from starting"; perfectionism as the engine of side-project procrastination specifically; the relationship between importance-loading and the cannot-start state)
+- 2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson) (the perfectionism-as-component-of-the-overachiever-as-survival-mode configuration; the "perfectionist doesn't want to show the process" move and its structural cost — feeling misvalued for the output while refusing to expose the underneath; Joe's playful reframe "for a perfectionist, you're really not being perfect at receiving compliments" using the client's own perfectionist identity to short-circuit the deflection)

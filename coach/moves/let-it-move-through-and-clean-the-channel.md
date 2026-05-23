@@ -5,7 +5,7 @@ title: "Let It Move Through and Clean the Channel (Receive Compliments, Recognit
 aliases: ["let it move through", "let the compliment move through", "let it clean the channel", "the hollow bone move", "the Fools Crow hollow bone", "receive the compliment all the way through", "stop deflecting recognition", "let it land", "receive permeably", "compliment as ego cleaner", "the channel-cleaning move", "receiving as humility", "do not deflect the love", "let the recognition land", "the receiving move", "let it whack through you", "let the compliment whack through", "the deflection-is-the-defense move", "deflection compounds the smallness identity", "let it move through your body", "let the compliment land somatically", "receive the compliment in the body", "let the compliment tickle you", "let the compliment make you cry", "let it hit you over and over again", "the I let it in and it just hit me move", "receive until the hunger is fed", "receive until you need it less", "deflecting is calling them a liar", "the eating-without-digesting receiving move", "challenge the not-enough identity with the compliment", "let the evidence land", "the more you let it in the less you need it"]
 tags: ["move", "humility", "receiving", "compliments", "recognition", "ego", "channel", "permeability", "approval"]
 related: ["humility", "humility-vs-disempowerment", "receive-the-apology-permeably", "letting-it-in-vs-deflecting-the-welcome", "have-partner-state-the-welcome-aloud", "the-opposite-of-trying", "receive-the-projection-and-let-it-move-through", "dont-call-them-a-liar-with-deflection", "eating-but-not-digesting-the-food", "seeking-approval-pushes-people-away", "chase-your-own-approval", "how-do-i-stop-seeking-approval"]
-sources: ["2023-09-15_Humility", "2023-10-18_Humility", "2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility", "2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson)", "2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)"]
 ---
 
 # Let It Move Through and Clean the Channel
@@ -43,6 +43,44 @@ A compliment arrives. The body's first impulse is often to deflect: "oh no, no, 
 Instead, let the compliment land. Let it touch the part of the body where it would otherwise have been deflected. Notice what arises -- often discomfort, often the felt sense of being seen, often a small flash of the identity that wants to manage how it is being seen. Let all of that move through. Receive the compliment as fact, as something happening, as a real input to the system.
 
 The body sensation Joe describes is being touched repeatedly through the channel: "whack, whack, whack, whack." Each unblocked receiving is a touch. Each touch sands away a piece of the defending self.
+
+## Let It Tickle You / Shake Your Body (The Body-Movement Cues)
+
+A pair of specific somatic instructions for clients who have a body that has been refusing reception for years. The instructions ask the body to do small movements that interrupt the body's habitual closing-down response and create literal space for the receiving to land.
+
+"Let it tickle you. Breathe, breathe. Let it tickle you." — Joe Hudson, You're Deflecting What You Want Most
+
+"Yeah, shake your body a little bit. Let it in a little bit." — Joe Hudson, You're Deflecting What You Want Most
+
+The instructions are precise about scale. *A little bit* — not big movements, not dramatic catharsis. The point is to introduce small movement into a body that has been holding still as a defense. The tickling and the shaking are small enough that they don't activate the deeper defenses that bigger emotional expression would trigger.
+
+The mechanism: the body's default-mode for receiving has been constriction. Constriction is held through small sustained muscle tension. The tickle and the shake disrupt the small sustained tension without demanding a large emotional release. The constriction loosens slightly. The compliment has more room to land.
+
+Pair with breath ("Breathe, breathe") to amplify the loosening. Breath is the most basic movement the body has available. A few conscious breaths often produce the openness that the tickle and the shake then ride on.
+
+## This Is What You Wanted As a Kid (The Inner-Child Frame for the Receiving)
+
+A specific framing Joe uses when the client is in the middle of receiving and starts to back off or to brace against the inflow:
+
+"Yeah, yeah. Let yourself feel it. This is what you want. This is what you wanted as a kid." — Joe Hudson, You're Deflecting What You Want Most
+
+The framing links the present-moment receiving to the kid-self that did not get this kind of seeing. The kid-self is still in the body. The kid-self is the one who is going to receive what is being offered. The adult who has been deflecting compliments for decades is also the kid-self who needed someone to see them and did not get it.
+
+The frame is short and operational. It is not asking the client to do childhood-origin processing. It is naming, in the moment of receiving, that the receiving is for the kid-self who is finally getting what they always wanted. The naming often produces tears, often produces shaking, often produces the kind of receiving that has been blocked for years because the kid-self has been waiting.
+
+The frame pairs with the let-it-tickle-you and the shake-your-body cues. The tickling and the shaking are how the kid-self lets the recognition into their body. The adult's framing "this is what you wanted as a kid" gives the body permission to receive in the way the kid would have.
+
+In the source session, this framing arrived in the public-Q&A context where audience members were dropping compliments in the chat. Joe instructed the client to let the compliments tickle her and shake her body. The "this is what you wanted as a kid" lands at the moment when the client says "it's hard" or "I'm shaking right now" — the recognition that the receiving is significant and overwhelming. The frame normalizes the overwhelm as appropriate and links it to the unmet need.
+
+## Bring the Room Into the Receiving (Have Others in the Session Offer Compliments)
+
+A move adjacent to the receiving work in public Q&A sessions: instruct the audience to put genuine compliments in the chat, then have the client practice letting them in one by one.
+
+"Yeah, so anybody who has a genuine compliment or scene of [her] can you put it in the chat? Do them a little slowly if you can, and your job is to actually just let them in. Let it tickle you." — Joe Hudson, You're Deflecting What You Want Most
+
+The setup makes the receiving-practice external and live. The compliments arrive as real input from real people. The client has to let each one land somatically. The slowness ("do them a little slowly if you can") is what gives the body time to receive each one rather than swallowing them all at once without digesting any.
+
+The move is a public-coaching variant of the basic receiving practice. The audience becomes the partner in the work. The client gets to practice in volume, in real-time, with the coach watching for whether each compliment is landing or bouncing.
 
 ## The "Let It All the Way Down" Cue
 
@@ -167,3 +205,4 @@ The work is not to suppress the deflection (which would be another defense) but 
 - 2023-10-18_Humility (reaffirmation of the hollow-bone framing in the Q&A; the additional detail that the Grammy-acceptance deflection actively costs the people giving the recognition)
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the approval-seeking variant of the move, the eating-without-digesting metaphor for what the deflection produces, the explicit autobiographical account of receiving feeling like crying/laughing/tickling, the naming of the "I'm not enough" identity as what the compliment dissolves when received)
 - 2025-07-09_If You Can't Accept Compliments, Watch This (Coaching Session With Joe Hudson) (the "let it all the way down" cue for when the recognition has lodged in the heart and needs to settle deeper; the framing that the expansiveness arriving is "only 2% of what's coming your way" — the appropriate scale of the love that the receiving channel can open to; the live integration of the receiving move with the [[count-the-years-of-showing-up]] move where duration is the substance being received)
+- 2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson) (the "let it tickle you" and "shake your body a little bit" body-movement cues for clients whose default-mode for receiving has been constriction; the "this is what you wanted as a kid" inner-child frame that gives the body permission to receive in the way the kid-self would have; the bring-the-room-into-the-receiving move for public Q&A contexts where audience members offer compliments through chat and the client practices letting each one in slowly)

@@ -4,8 +4,8 @@ id: pleasure-capacity
 title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
-related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma", "measuring-transformation-across-three-brains", "head-heart-gut", "polyvagal-nervous-system-framing"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma", "measuring-transformation-across-three-brains", "head-heart-gut", "polyvagal-nervous-system-framing", "notice-sensations-as-pleasure-experiment", "quality-of-downtime-matters"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure", "2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-07-29_Why You're Exhausted (Even After Resting)"]
 ---
 
 # Pleasure Capacity
@@ -98,6 +98,21 @@ The point of the demonstration: enjoyment is not a thing you have to achieve or 
 
 This is also why "find better circumstances" is the wrong answer to "I can't enjoy my life." There are people in 3x3 cells, who haven't lain down in two years and two months and a day, who are training themselves to enjoy. The circumstance is not the variable. The capacity is the variable. The capacity can be trained anywhere.
 
+## Receiving as a Mode of Pleasure
+
+A specific stance the practice can take: rather than producing pleasure or generating sensation, the practitioner makes themselves available to receive what is already happening. The pleasure is being produced by the body all the time. The work is to relax into the receiving.
+
+"There's so much pleasure in receiving. It's just like really quiet. It's in the background, and you can just feel life and you can just receive it. Just receive that aliveness that you are feeling. So much pleasure in that receiving. It requires nothing of you. You can just relax and feel it coming in and moving through." -- Joe Hudson, Why You're Exhausted (Even After Resting)
+
+The receiving frame is structurally distinct from the noticing frame and the chase frame. Noticing is active attention; receiving is passive availability; chase is active production. The receiving mode is particularly useful for two cases:
+
+- The person who turns every practice into another should: the receiving frame eliminates the effort. There is nothing to do. There is no way to fail at receiving.
+- The person whose pleasure capacity is suppressed by a constant need to do, produce, achieve: the receiving frame is the structural antidote. The body has been generating pleasure that the system has been refusing to let in. Receiving is the practice of letting it in.
+
+The receiving frame also explains why the actually-down forms of downtime (see [[quality-of-downtime-matters]]) work where the active-stimulation forms do not. Receiving requires reduced stimulation. Scrolling and TV produce too much input to receive; the system is busy processing. The porch and the woods produce little input; the system can receive the background aliveness that was always there. Receiving is the operating mode of restorative downtime.
+
+This pairs with the no-hunger principle from the chase-pleasure failure mode below: hunger is the opposite of receiving. The hungry stance reaches for pleasure; the receiving stance accepts pleasure. The hungry stance produces transient body-states with anxiety underneath; the receiving stance produces ease with felt safety underneath. The receiving stance is what trains the capacity.
+
 ## The Five-Minute Diagnostic
 
 A specific test Joe offers for measuring the current capacity. Spend five uninterrupted minutes attending to the pleasure of breathing, or doing the dishes, or watching a flower. Notice what happens.
@@ -147,3 +162,4 @@ The story is the origin point for the broader framing: pleasure-capacity is trai
 - 2024-09-27_Pleasure (the developmental mechanism of punishment-while-feeling-good as the origin of low pleasure ceilings, sourced from [[punishment-when-good-stings-more]]; the chase-pleasure failure mode in which hunger-in-the-pleasure-getting prevents the capacity from stretching, sourced from [[chasing-pleasure-is-avoidance]]; the personal origin story of Joe and Thich Nhat Hanh's dishes as the discovery point for the pleasure-capacity teaching, sourced from [[joe-thich-nhat-hanh-dishes]]; the framing that the pleasure-source cannot be permanently disrupted because it is in the breath and body, which is part of how the capacity stretches over time as the body accumulates new evidence)
 - 2024-10-16_Pleasure (re-edited version of the same conversation; the capacity teaching is recounted identically)
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the compressed working definition of pleasure as "awareness of the sensations in your body moving" used as the entry-point definition for the basic pleasure-capacity practice; pleasure capacity positioned within the four-causes-of-stress framework as the diagnostic and intervention for the nervous-system layer of stress)
+- 2025-07-29_Why You're Exhausted (Even After Resting) (the receiving-as-pleasure framing: "so much pleasure in that receiving, it requires nothing of you, you can just relax and feel it coming in and moving through"; receiving as the structural antidote to the chase mode and the do-mode that suppress pleasure capacity)

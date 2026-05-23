@@ -4,8 +4,8 @@ id: notice-sensations-as-pleasure-experiment
 title: "Notice Sensations as Pleasure (And Amplify with Breath)"
 aliases: ["notice sensations as pleasure experiment", "the sensations-as-pleasure practice", "the pleasure-of-being-alive practice", "pleasure is awareness of sensations moving in your body", "the 5-minute pleasure practice", "the daily pleasure-sensation practice", "the amplify-pleasure-with-breath practice", "the breath-amplification of pleasure practice", "the listener experiment for pleasure", "the nervous-system pleasure experiment", "the pleasure-awareness experiment", "the small-pleasure-of-being-alive practice", "the pleasure-grounding experiment", "5 minutes a day noticing sensations as pleasure"]
 tags: ["practice", "pleasure", "sensations", "breath", "nervous system", "listener experiment", "5 minutes", "daily"]
-related: ["four-causes-of-stress", "pleasure-tells-system-its-safe", "pleasure-capacity", "tension-is-part-of-pleasure", "notice-pleasure-and-sensation-as-grounding", "enjoy-your-breath-for-five-minutes", "pleasure-is-letting-life-fully-hit-you"]
-sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)"]
+related: ["four-causes-of-stress", "pleasure-tells-system-its-safe", "pleasure-capacity", "tension-is-part-of-pleasure", "notice-pleasure-and-sensation-as-grounding", "enjoy-your-breath-for-five-minutes", "pleasure-is-letting-life-fully-hit-you", "resistance", "quality-of-downtime-matters", "optimize-for-downtime-not-productivity"]
+sources: ["2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)", "2025-07-29_Why You're Exhausted (Even After Resting)"]
 ---
 
 # Notice Sensations as Pleasure (And Amplify with Breath)
@@ -67,6 +67,26 @@ When people do this experiment, common observations:
 
 If the mind wanders, that is normal. Bring it back. The wandering itself is not the failure of the practice. The returning is the practice.
 
+## The Extended Version: Breath Sounds, Receiving, and Pleasure in the Resistance
+
+A second teaching expands the basic practice with three additional moves that deepen the experiment:
+
+**Play with the breath sounds.** Once the basic noticing of breath as pleasure is established, the instructions become more specific. How deep of an inhale is the most pleasurable inhale? How long is the most pleasurable exhale — most of the way, all the way, further than all the way? What sound on the inhale creates the most pleasure (silence, subtle, audible)? What sound on the exhale (ah, huh, mm)? The body has preferences. Let the body produce the breath shape that produces the most pleasure. Keep adjusting.
+
+The principle: the breath that the body finds most pleasurable is also the breath that produces the deepest settling. The pleasure is the navigation system. Follow it.
+
+**Receive as pleasure.** A specific stance the practice can take: rather than producing the pleasure, receive it. The pleasure is already happening. The work is to be present enough to take it in. "It's just like really quiet. It's in the background, and you can just feel life and you can just receive it. Just receive that aliveness that you are feeling. So much pleasure in that receiving. It requires nothing of you. You can just relax and feel it coming in and moving through." — Joe Hudson, Why You're Exhausted (Even After Resting)
+
+The receiving framing is structurally different from the noticing framing. Noticing is active: the practitioner directs attention. Receiving is passive: the practitioner makes themselves available. Both work. The receiving frame is particularly useful for people who turn every practice into another effort. There is no effort in receiving. The pleasure arrives because the body is already producing it.
+
+**Take pleasure in the resistance.** As the practice continues, resistance arrives — boredom, restlessness, "this is getting long," the urge to do something else. The instruction is not to push past the resistance or to drop the practice. The instruction is to take pleasure in the resistance itself. Breathe into it. Relax around it. Treat it the way you would treat a deep tissue massage — meet it, do not fight it.
+
+"You might notice a little resistance to the pleasure creeping in some way. Oh, it's getting long. Oh, this is kind of boring. And I want you to take pleasure in that resistance, that friction, that sensation. Just breathe into it the way you would breathe into a deep tissue massage. Relax around it." -- Joe Hudson, Why You're Exhausted (Even After Resting)
+
+This is the practice-level expression of [[resistance]]: if you cannot love the thing, love the resistance to the thing. The resistance to the pleasure is itself a sensation. The same instructions apply. Notice it. Take pleasure in it. The resistance often softens when met with pleasure rather than fight. The practice continues at a deeper level.
+
+These three additions extend the basic experiment into a more complete pleasure-as-aliveness practice. Each move can be added incrementally as the practitioner is ready. The basic noticing alone is sufficient to begin. The full practice — noticing, then breath-shape-finding, then receiving, then pleasure-in-the-resistance — produces a deeper settling that mirrors what optimal downtime is for: reducing stimulation enough that the body can drop into the parasympathetic state. See [[quality-of-downtime-matters]] for why this practice is what actually-down downtime tends to be.
+
 ## Variations
 
 The experiment can be extended:
@@ -120,3 +140,4 @@ Light, inviting. Joe delivers this as a small, accessible discovery — "just no
 ## Sources
 
 - 2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now) (the canonical introduction of this experiment as the nervous-system intervention in the four-causes-of-stress framework; the working definition of pleasure as "awareness of sensations in your body moving"; the breath-amplification instruction; the five-minutes-a-day-any-time framing; the companion experiment that surfaces tension-as-part-of-pleasure)
+- 2025-07-29_Why You're Exhausted (Even After Resting) (the extended version of the practice paired with the downtime teaching; the breath-shape-finding instruction to play with inhale/exhale depth and inhale/exhale sound until the breath produces maximum pleasure; the receiving-as-pleasure framing — "so much pleasure in that receiving, it requires nothing of you"; the take-pleasure-in-the-resistance move — "I want you to take pleasure in that resistance, that friction, that sensation, just breathe into it the way you would breathe into a deep tissue massage"; the lifestyle question that closes the practice — "Is this going to be an exercise or is this going to be a lifestyle?")
