@@ -242,17 +242,24 @@ Rules:
 
 ### `/wiki checkpoint`
 
-Triggered automatically every 10 completed tasks (experiments + research items). Also callable manually. This is the "are we doing the right things" moment.
+The single checkpoint operation. Does **operational** work every time it fires (git commit, agent health, status report) and **strategic** work conditionally (when ≥10 items have completed since the last strategic pass). Triggered automatically by the 30-min cron under `/wiki start`, and callable manually any time.
 
-**Strategic assessment:**
+**Operational pass (every fire):**
 
-1. **Survey**: Read the full index and all active goal pages. Understand the current state of the tree.
-2. **Assess progress**: For each active goal, what percentage of the path is understood? What are the biggest unknowns?
-3. **Evaluate direction**: Are current experiments converging on the goal, or are we in a rabbit hole? Are there abandoned branches that deserve another look? Are there obvious approaches nobody has tried?
-4. **Prune**: Mark stale or irrelevant experiments as abandoned with a note on why.
-5. **Replan**: Update goal pages with revised experiment priorities. Create new research or experiments if the checkpoint reveals gaps.
+1. **Git commit.** `git add -A meta/wiki/ coach/ eval/ coach-app/ web-app/` (limited to known work directories — never `git add .` blindly). `git commit -m "wiki: checkpoint <iso-timestamp>"`. Skip if nothing changed. Never `git push` without explicit user direction.
+2. **Agent health survey.** Read all currently-claimed pages' frontmatter. For each claim past its `claim_ttl` with no recent file modification, run `./wiki.sh unclaim <ID>` to free it. Run `./wiki.sh stale` for the canonical list.
+3. **Re-survey + fill slots** (only when running under `/wiki start`). If unblocked work exists and in-flight count < max-parallel, spawn `wiki-next` agents to fill open slots.
+4. **Status update — both chat AND mobile push.** Use the `PushNotification` tool for mobile; output the same summary to chat. Include: items completed since last checkpoint, items in flight (with claim age), items stuck/unclaimed-stale, any open user requests blocking forward motion, total project spend if trackable.
 
-**Quality audit** (pick the 3 most-recently-updated pages and ask each):
+**Strategic pass (conditional — only when ≥10 items have completed since the last strategic pass):**
+
+5. **Survey**: Read the full index and all active goal pages. Understand the current state of the tree.
+6. **Assess progress**: For each active goal, what percentage of the path is understood? What are the biggest unknowns?
+7. **Evaluate direction**: Are current experiments converging on the goal, or are we in a rabbit hole? Are there abandoned branches that deserve another look? Are there obvious approaches nobody has tried?
+8. **Prune**: Mark stale or irrelevant experiments as abandoned with a note on why.
+9. **Replan**: Update goal pages with revised experiment priorities. Create new research or experiments if the checkpoint reveals gaps.
+
+**Quality audit (during strategic pass)** — pick the 3 most-recently-updated pages and ask each:
 
 - Does it tell a coherent story, or is it a chronological dump of events?
 - Are sections organized by theme, not by date?
@@ -266,23 +273,32 @@ If any page reads like an event log, rewrite it.
 
 **Anti-thinning check:** Are there stub pages with <15 lines where 3+ entries reference the topic? Enrich them.
 
-6. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting both strategic assessment and quality audit findings.
+10. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting both strategic assessment and quality audit findings. Only written during a strategic pass, not on operational-only checkpoints.
 
-### `/wiki loop`
+### `/wiki start [max-parallel]`
 
-Start a continuous autonomous work loop with two schedules:
+Run an autonomous **parallel** work loop with periodic `/wiki checkpoint` calls. This is the runner for forward motion — orchestrates up to N parallel `wiki-next` agents from the main session and lets a 30-minute cron handle commits, health, and status. Use it when there's a backlog of unblocked work and you want it ground through.
 
-1. **Work loop** (`*/1 * * * *`): Runs `/wiki next` every minute. This is the main loop that picks up and executes work. Can be killed when all work is blocked to save context.
-2. **Heartbeat** (`*/30 * * * *`): Runs `/wiki next` every 30 minutes. This is a background check that never gets removed. When the heartbeat fires and finds actionable work, it should reinstate the 1-minute work loop via CronCreate.
+**Default parallelism**: 3. Override with `/wiki start 5` etc. Save the chosen cap to memory as a feedback item so future sessions default to it.
 
-**Setup** (use CronCreate twice):
-- `cron: "*/1 * * * *"`, `prompt: "/wiki next"`, `recurring: true` (the work loop)
-- `cron: "*/30 * * * *"`, `prompt: "/wiki next"`, `recurring: true` (the heartbeat -- never remove this)
+**Setup:**
 
-**Lifecycle**:
-- When the work loop returns BLOCKED for 3+ consecutive cycles, kill the 1-minute loop (CronDelete) but leave the heartbeat.
-- When the heartbeat fires and `./wiki.sh next` returns anything other than BLOCKED (i.e., there is actionable work), reinstate the 1-minute work loop with a new CronCreate call, then do the work.
-- This way the agent stays responsive without burning context on idle polling.
+1. **Survey unblocked work.** Run `./wiki.sh next` repeatedly (or read `meta/wiki/index.md`) to count unblocked items.
+2. **Spawn initial agents.** Launch `min(unblocked-count, max-parallel)` `wiki-next` agents via the Agent tool with `subagent_type: "wiki-next"` and `run_in_background: true`. Do NOT pass explicit item hints — each agent runs `./wiki.sh next` itself and claims the result. The wiki-next agent is responsible for being robust to claim races (see "Claim race robustness" in the wiki-next agent definition); the orchestrator just sets the parallelism level.
+3. **Set up the 30-minute cron** via `CronCreate`: `cron: "*/30 * * * *"`, `prompt: "/wiki checkpoint"`, `recurring: true`.
+
+**Replacement behavior:**
+
+When an agent emits a terminal completion notification (NOT a heartbeat — distinguish by `tool_uses > 0` and a substantive result body), immediately:
+
+1. Check unblocked count via `./wiki.sh next` (and a quick scan for additional unblocked items beyond the first one returned)
+2. If unblocked work exists AND in-flight count < max-parallel, spawn a replacement `wiki-next` agent (again, no explicit hint — let it claim what it picks)
+3. If nothing's unblocked, don't spawn. The next cron `/wiki checkpoint` will recheck.
+
+**Stopping and pausing:**
+
+- **`/wiki stop`**: Remove the cron via `CronDelete`. Let in-flight agents finish naturally. Useful at end of a work session.
+- **`/wiki pause`**: Leave the cron running (status updates continue) but suppress new spawns at checkpoint time. Useful for budget-aware pauses.
 
 ### `/wiki claim <page>`
 

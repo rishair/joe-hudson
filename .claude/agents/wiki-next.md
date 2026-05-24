@@ -47,6 +47,21 @@ Do not create requests speculatively during planning. Only create one when you h
 
 You cannot resolve requests yourself — skip them and work on other items.
 
+## Claim race robustness (CRITICAL when running under `/wiki start`)
+
+Under `/wiki start`, multiple `wiki-next` agents are spawned in parallel. Two or more may run `./wiki.sh next` near-simultaneously and receive the same item. The naive flow ("next" → "claim" → "work") races: both think they own the item; whichever writes its claim second silently overwrites the first.
+
+The flow you must follow:
+
+1. Run `./wiki.sh next` to get a candidate item ID and path.
+2. Immediately read the page (`Read`). If `claimed_by` is already set AND `claimed_at` is within the last 30 seconds AND `claimed_by` is not you, ABANDON this item — another agent just took it. Go back to step 1 and pick a different item.
+3. If the page is unclaimed (or its claim is stale per `claim_ttl`), run `./wiki.sh claim <ID> "wiki-next-agent"`.
+4. **Verify your claim landed**: re-read the page. If `claimed_by` is not you, you lost the race. Go back to step 1.
+5. If `./wiki.sh next` returns the same item three times in a row but you keep losing the race, sleep 10-30 seconds (let other agents finish their pick) and try once more before giving up and exiting.
+6. If `./wiki.sh next` returns IDLE or only BLOCKED items after multiple tries, exit — there's no work for you.
+
+This makes parallel `/wiki start` runs safe without requiring the orchestrator to hand out explicit item hints. The wiki claim system is the single source of truth for "who owns what."
+
 ## Standard flow
 
 ### 1. Build context before doing anything

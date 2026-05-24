@@ -90,8 +90,10 @@
     - [ ] E-042 Build wiki view: routing, rendering, internal wikilinks
     - [ ] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
     - [ ] E-044 Build resource-attribution modal split layout
+    - [ ] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
 
 ## Checkpoints
 
+- 2026-05-24-wiki-start-kickoff
 - 2026-05-20-153000
 - 2026-05-20-034500
