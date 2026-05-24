@@ -57,13 +57,20 @@ The implication: the same lever is available in any room. The leader at the meet
 
 See also [[listen-as-the-wisest-person]] — the two-day listening experiment — which is the more deliberate, more structured version of what Joe did on the train.
 
+## The Parallel: The Airplane Stranger
+
+This story is one of a pair Joe uses to demonstrate the same principle in bare conditions. The other is [[the-airplane-stranger-listening]] -- two questions on a flight, two hours of listening, a stranger who apologizes at the end for talking the whole time. The pair makes the principle hard to dismiss as a fluke. Both stories strip the conditions to the minimum (strangers, no shared history, no future contact required), both begin with one or two questions, and both end with a real connection the listener did not have to engineer. The horticulture story emphasizes the listener's discovery that the topic became interesting through the listening; the airplane story emphasizes the speaker's eventual realization that they had felt seen for two hours. See also [[we-like-people-who-are-interested-in-us]] for the principle both stories instance.
+
 ## Connected
 
 - [[listening]] -- the underlying capacity the story makes visible
 - [[active-vs-passive-listening]] -- the two forms, both at play in the story
 - [[the-question-asker-wins-not-the-presenter]] -- the principle the story instances
+- [[we-like-people-who-are-interested-in-us]] -- the bare-mechanism principle this story (with its airplane parallel) demonstrates
+- [[the-airplane-stranger-listening]] -- the parallel example
 - [[listening-shapes-the-reality-that-comes-back]] -- the structural reason the disclosures came forward
 - [[listen-as-the-wisest-person]] -- the more deliberate version of the listening experiment
+- [[how-do-i-get-people-to-like-me]] -- the concern this example, like the airplane story, most directly answers
 
 ## Sources
 

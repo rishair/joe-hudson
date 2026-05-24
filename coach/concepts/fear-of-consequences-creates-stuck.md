@@ -5,7 +5,7 @@ title: "Fear of Consequences Creates the Stuck-Feeling (The Surface-Level Mechan
 aliases: ["fear of consequences creates stuck", "fear of consequences is the engine of stuck", "the consequence-fear-as-stuck mechanism", "stuck is fear of consequences", "you feel stuck because you don't like the potential consequences", "the consequence calculation produces the stuck-feeling", "the I-don't-like-any-of-these-options stuck", "the stuck-as-consequence-aversion concept", "the surface-level diagnosis of stuck", "the cognitive entry point to stuck", "the why-do-I-feel-stuck answer", "stuck means you don't like the perceived consequences of the moves you see", "the conscious-cognitive layer of stuck", "the upstream-of-stuck question is what consequence you fear"]
 tags: ["concept", "stuck", "fear", "consequences", "cognition", "binary-thinking", "decision-making", "freeze", "diagnosis"]
 related: ["i-feel-stuck", "binary-thinking-signals-fear", "stuck-is-only-ever-stuck-with-thoughts", "safety-is-in-evolution-not-stagnation", "fear-vs-excitement", "two-words-for-fear", "feared-consequences-rarely-happen", "freedom-is-not-absence-of-consequences", "habenula", "iterative-mindset"]
-sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom"]
+sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom", "2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed"]
 ---
 
 # Fear of Consequences Creates the Stuck-Feeling
@@ -130,3 +130,4 @@ The diagnostic questions ("how often do you change your mind about somebody?") a
 ## Sources
 
 - 2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom (the central mechanism: stuck is the feeling produced by not liking the perceived consequences of the visible moves; the promotion example demonstrating how the binary frame ("ask my boss or not") hides the actual option-space ("ask in many different ways"); the false-end structure of fear-cognition: the mind freezes time at the worst moment and treats it as permanent; the change-your-mind-about-people observation that dissolves the false end; the safety-vs-risk inversion as the third distortion; the recommended in-the-moment practice of saying "I'm excited" 10-20 times about the specific stuck-action; the framing of the held excitement coming out as fear and anxiety when held)
+- 2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed (near-verbatim bite-sized re-release of the same teaching from 2025-09-25; same mechanism, same examples, same practice; functions as a duplicate source confirming the central concept)

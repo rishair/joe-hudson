@@ -5,7 +5,7 @@ title: "People Change Their Minds About Each Other All the Time (The Diagnostic 
 aliases: ["people change their minds about each other all the time", "how often do you change your mind about somebody", "the change-your-mind question", "the diagnostic question for the false end of fear", "people's opinions of each other are not static", "the boss's verdict is not the permanent verdict", "what your boss thinks the day after is not what they thought the day before", "the fear collapses the long arc to the bad moment", "people update on each other constantly", "the social-perception is not frozen at the worst moment", "the impression-people-form-is-fluid principle", "the verdict-shifts-over-time principle", "no one's opinion of you is fixed", "they don't think about you as much as you think they do", "the moving-target of social perception", "the never-permanent-verdict principle"]
 tags: ["principle", "fear", "false-end", "consequences", "social-perception", "vulnerability", "stuck", "boss", "judgment", "diagnostic-question"]
 related: ["binary-thinking-signals-fear", "fear-of-consequences-creates-stuck", "feared-consequences-rarely-happen", "i-feel-stuck", "stuck-is-only-ever-stuck-with-thoughts", "safety-is-in-evolution-not-stagnation", "freedom-is-not-absence-of-consequences"]
-sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom"]
+sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom", "2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed"]
 ---
 
 # People Change Their Minds About Each Other All the Time
@@ -98,3 +98,4 @@ The companion observation ("how often do you think, oh, that person's needy, and
 ## Sources
 
 - 2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom (the casual diagnostic question "how often do you change your mind about somebody?" delivered as the antidote to the false-end structure of fear-cognition; the companion observation "how often do you think, oh, that person's needy, and then you find out that they're not?" pointing at the symmetry of social perception both directions; the principle named as the specific intervention for the second of three cognitive distortions fear produces in stuckness)
+- 2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed (near-verbatim bite-sized re-release of the same teaching; same diagnostic question and same false-end framing; duplicate source)

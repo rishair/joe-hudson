@@ -5,7 +5,7 @@ title: "Limiting Belief"
 aliases: ["limiting beliefs", "what a limiting belief is", "limiting belief definition", "beliefs that limit you", "belief that limits", "the limiting belief", "limiting thought"]
 tags: ["limiting beliefs", "belief", "transformation", "freedom", "concept"]
 related: ["seven-limiting-beliefs", "three-kinds-of-limiting-beliefs", "limiting-belief-detection-signals", "aware-belief-vs-unseen-belief", "belief-integration-not-elimination", "latticework-of-limiting-beliefs", "three-keepers-of-stuck-beliefs", "constriction-not-truth-is-the-test", "spaciousness-is-the-mechanism-of-belief-dissolution", "comparative-mind", "untruth-in-every-thought", "binary-thinking-signals-fear", "wonder", "inherent-goodness", "holding-contrary-beliefs-as-development", "pep-talk-encodes-the-deficit", "despondency-as-first-reaction-to-no-self-definition", "every-identity-has-limits"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2022-10-28_How to See Through Limiting Beliefs", "2025-10-14_How To Break Free From Beliefs That Keep You Small"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2022-10-28_How to See Through Limiting Beliefs", "2025-10-14_How To Break Free From Beliefs That Keep You Small", "2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small"]
 ---
 
 # Limiting Belief
@@ -174,3 +174,4 @@ This matters because well-intentioned limiting-belief work can land the coachee 
 - 2022-10-26_Limiting Beliefs (a re-teaching of much of the same material with Brett)
 - 2022-10-28_How to See Through Limiting Beliefs
 - 2025-10-14_How To Break Free From Beliefs That Keep You Small (the one-sided-and-personal diagnostic: limiting beliefs are beliefs about you that you can only see one side of; the explicit teaching that both "I am smart" and "I am dumb" are limiting when held one-sidedly; the affirmation-as-limiting-belief corollary; the despondency-first warning about the felt landing of full dissolution; the four-example list of limiting self-beliefs: I am smart, I am dumb, I am only valuable if I accomplish, I should be further along at 40)
+- 2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small (bite-sized re-release of the same teaching; same one-sided-and-personal diagnostic; same four-example list of limiting self-beliefs delivered in identical sequence; same affirmation-encodes-deficit corollary; same despondency-first warning; duplicate source confirming the canonical limiting-belief teaching as a stable feature of the 2025-10-14 content packaged for standalone delivery)

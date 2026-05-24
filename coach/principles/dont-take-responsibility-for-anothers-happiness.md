@@ -4,7 +4,8 @@ id: dont-take-responsibility-for-anothers-happiness
 title: "Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)"
 aliases: ["nobody else is responsible for your happiness", "you can't make your partner happy", "don't take responsibility for happiness", "happiness is internal", "the responsibility-for-happiness principle", "stop trying to make them happy", "no one can make me happy", "responsibility for own happiness", "we're responsible for our own happiness"]
 tags: ["relationships", "happiness", "responsibility", "freedom", "autonomy", "boundaries", "codependence"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-07-26_Codependency： 3 signs it's not love", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
+related: ["youre-responsible-for-who-you-are-not-their-state", "i-love-that-you-want-that", "caring-vs-caretaking", "responsibility-stops-love"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-07-26_Codependency： 3 signs it's not love", "2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler)", "2026-01-16_There's A War Inside You (Here's How It Ends)"]
 ---
 
 # Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)
@@ -90,6 +91,32 @@ This is one of the places where Joe's [[meet-resistance-with-okay]] move comes i
 If you are in a relationship and unhappy, the question is not "what is my partner doing wrong?" The first question is: "Where am I waiting for them to provide what only I can provide?" Once that is seen, the next question is: "What do I actually need to provide for myself right now?"
 
 If you are in a relationship and exhausted by the work of keeping your partner okay, the question is not "why won't they let me help?" The first question is: "Where am I trying to provide what only they can provide for themselves?" Once that is seen, the next question is: "What would I do with all this energy if I stopped trying?"
+
+## The Clean Split: What You Are Responsible For Instead
+
+The principle's positive side names exactly what you are responsible for, which is sometimes more useful than the long list of what you are not. Joe's compression names the four operations inside your reach:
+
+"I'm responsible for who I am with my children and with my wife, but I'm not responsible for who they are. So I'm responsible for, am I showing up loving? I'm responsible for, do I own my triggers? I'm responsible for if I apologize, if I've not been the person that I wanna be, that's what I'm responsible for. But what I'm not responsible for is getting my wife in a good mood." -- Joe Hudson, Ending The War With Your Wants
+
+The four operations inside the line:
+- **Showing up loving** — am I bringing what I want to bring?
+- **Owning my triggers** — when something hits, I recognize it as mine rather than locating the cause in them
+- **Apologizing when I have missed the mark** — when I have not been who I want to be, the repair is mine to make
+- **Naming what I want** — saying what I want is part of taking care of me, and is information the relationship needs
+
+All four are operations on yourself, your conduct, your stance — inside your reach. The state of the other person is not on this list because it is not inside your reach. The clean split is what protects the caretaker from the impossible task: focus on the four operations that you can actually perform, let go of the operation you cannot.
+
+The parental version: "My job is to be with her sadness. It is not to take responsibility for her sadness." See [[youre-responsible-for-who-you-are-not-their-state]] for the dedicated principle.
+
+## The Receive-the-Want Move That Operationalizes This in Real Time
+
+A specific daily move that puts the principle into practice when a partner names a want: receive the wanting cleanly, separate from the question of whether you will give the thing. The partner's wanting is welcomed; the action is the listener's choice; the listener can choose freely because the wanting is no longer a demand requiring management. See [[i-love-that-you-want-that]].
+
+The default failure mode this move exits:
+
+"Well, I don't want to go to the movies, but they want to. And if they don't, then they're going to be resentful for me because I don't want to go to the movies. Okay, I'll go to the movies." -- Joe Hudson, Ending The War With Your Wants
+
+The above is the responsibility-for-their-happiness trap with the partner's wanting as the trigger. The move "I love that you want that" — combined with whatever the actual answer about the action is — is what allows the partner's wanting to be welcomed without becoming an obligation to fulfill it.
 
 ## When Someone Experiences This
 
@@ -253,3 +280,5 @@ The phrase "that's how we make decisions" is worth tracking. Emotions are not de
 - 2024-07-26_Codependency: 3 signs it's not love (the impossibility framing — you can't even control your own emotional experience; the disempowerment-as-sinking-feeling somatic signature; the parental origin in childhood and the two falsifications that adults need to surface)
 - 2025-02-12_Stop Fixing Your Partner - It's Killing the Relationship (the three specific feedback loops — managing anger produces anger, managing happiness produces withdrawal, managing fear produces resentment; the two-layer recognition of caretaking as self-protective manipulation; the "allow the chips to fall where they may" instruction across the full emotional valence; the "never take an emotion away" parallel to the addict-bottom principle)
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the flowers-thought-experiment that operationalizes the principle for the most common objection — "but I made her happy with flowers" met with "would she be happy if you brought her flowers every day?" — letting the speaker run the daily-recurrence test themselves and discover that the moment of happiness is not the same operation as making someone happy; see [[bringing-flowers-doesnt-make-her-happy]] for the dedicated example; the clean-vs-manipulative distinction for the same gift depending on whether the giver was reaching to engineer a state or to express their own thought-of-you; the reiteration of the three feedback loops and the "never take an emotion away" parallel)
+- 2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler) (the clean split that names the four operations inside your responsibility — showing up loving, owning triggers, apologizing, naming what you want — and contrasts them with the operation that is not inside your responsibility — producing the other person's state; the parental application "my job is to be with her sadness, not to take responsibility for her sadness"; the want-receiving move "I love that you want that" that operationalizes the principle in real time)
+- 2026-01-16_There's A War Inside You (Here's How It Ends) (same material under the alternative episode title)

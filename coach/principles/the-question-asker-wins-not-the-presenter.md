@@ -5,7 +5,7 @@ title: "The Question-Asker Wins, Not the Presenter (The CEO Who Asks, the Candid
 aliases: ["the question-asker wins not the presenter", "the question-asker wins", "the asker gets picked", "asking wins not presenting", "in pitches the asker wins", "the CEO who asked questions got the investment", "the candidate who asked more questions got hired", "the interview-flip principle", "the pitch-flip principle", "the question-asker is the engaged one", "the asking is the engagement", "presentations don't engage people questions do", "what engages people is being asked questions", "fit gets revealed by asking not pitching", "the asker reveals the fit", "active listening in business produces deals", "if you want the deal ask the questions", "the asker wins the deal", "in hiring the asker is the one to hire", "let me guess they asked you more questions than you asked them", "VC pitches the asker wins"]
 tags: ["principle", "listening", "leadership", "business", "sales", "hiring", "communication"]
 related: ["listening", "active-vs-passive-listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "hire-by-dream-job", "find-what-you-dont-know", "joes-extemporaneous-vc-speech", "the-horticulture-train-ride", "no-attachment-to-the-outcome", "view"]
-sources: ["2024-06-10_How To Listen Better"]
+sources: ["2024-06-10_How To Listen Better", "2026-01-13_Why Likeable People Rarely Talk"]
 ---
 
 # The Question-Asker Wins, Not the Presenter
@@ -70,6 +70,8 @@ The compressed form: ask, and the relationship builds; narrate, and the room sta
 
 See [[the-horticulture-train-ride]] for Joe's own demonstration: one question to a stranger on a train ("what are you passionate about?"), an hour of listening, and at the end he had a friend, a connection, and a body of unexpected knowledge about horticulture.
 
+See also [[the-airplane-stranger-listening]] for the parallel demonstration: two questions to a stranger on a flight, two hours of listening, and at the end the stranger apologized for talking the whole time -- the apology being the signature of someone who has registered, in retrospect, that they were with a person they wanted to keep being with. Both stories instance the broader principle [[we-like-people-who-are-interested-in-us]] -- the asking and listening produce the felt experience of liking in the speaker, with no display-of-self required from the asker.
+
 ## What the Coach Does With This
 
 When a coachee is preparing for a high-stakes meeting — a pitch, an interview, a hard conversation — and the entire prep is focused on what they will say, this principle is the intervention. The question is not "how do I make my presentation better?" The question is "what questions am I going to ask?"
@@ -103,6 +105,9 @@ See [[wonder-as-strategy]] for the full anti-pattern. The corrective: bring real
 - Toward [[wonder-as-strategy]] for the failure mode to guard against.
 - Toward [[no-attachment-to-the-outcome]] for the orientation that keeps the asking real.
 - Toward [[the-horticulture-train-ride]] for the demonstration outside business.
+- Toward [[the-airplane-stranger-listening]] for the parallel stranger-encounter demonstration in bare conditions.
+- Toward [[we-like-people-who-are-interested-in-us]] for the bare-mechanism principle that the same lever produces likability outside of business contexts.
+- Toward [[how-do-i-get-people-to-like-me]] when the coachee is framing the question as one of likability or social skill rather than business outcome.
 
 ## Tone
 
@@ -111,3 +116,4 @@ Reporting from observation. Joe states the venture-capital number (four or five 
 ## Sources
 
 - 2024-06-10_How To Listen Better
+- 2026-01-13_Why Likeable People Rarely Talk (the venture-capital pattern repeats: the founders who came in and asked what Joe and his partners wanted were the ones who got further; the airplane stranger as the social-context parallel to the business pattern; the explicit teaching that asking-from-real-care vs. asking-as-car-salesman-technique is what determines whether the asking wins or pushes the other person away)

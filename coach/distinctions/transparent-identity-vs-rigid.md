@@ -5,7 +5,7 @@ title: "Transparent Identity vs. Rigid Identity"
 aliases: ["transparent vs rigid identity", "fluid identity vs rigid identity", "tenderized identity", "flexibility of identity", "identity that softens vs identity that holds", "see-through identity", "identity becomes transparent", "the goal is flexibility not absence"]
 tags: ["identity", "distinction", "flexibility", "transformation", "ego"]
 related: ["identity", "every-identity-has-limits", "dont-fight-identity", "loving-all-parts", "expanding-sense-of-self", "improvement-vs-authenticity", "holding-contrary-beliefs-as-development", "pep-talk-encodes-the-deficit"]
-sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2025-10-14_How To Break Free From Beliefs That Keep You Small"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2025-10-14_How To Break Free From Beliefs That Keep You Small", "2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small"]
 ---
 
 # Transparent Identity vs. Rigid Identity
@@ -136,3 +136,4 @@ The question is not "who should I be?" The question is "can I hold who I am loos
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)
 - 2025-10-14_How To Break Free From Beliefs That Keep You Small (the ocean-versus-rock image for the operational difference between transparent and rigid identity; the sword-attacks-the-ocean-and-the-ocean-doesn't-care framing; the asshole-and-loving both-true demonstration of the non-defensive posture that the transparent side of the distinction produces in live conversation)
+- 2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small (bite-sized re-release of the same teaching; same ocean-versus-rock image and sword-doesn't-care framing for the transparent side; same asshole-and-loving both-true demonstration of non-defense; duplicate source confirming this distinction is a stable feature of the canonical 2025-10-14 teaching packaged for standalone delivery)

@@ -5,7 +5,7 @@ title: "The Initial Anger Release Wave (The Champagne Bottle Pop)"
 aliases: ["the champagne bottle metaphor", "the champagne pop of anger", "anger floods when you start releasing", "the initial release surge", "the early release wave", "the wave of anger that comes when you start", "I started releasing anger and now I'm angry at everything", "anger noticing surges when practice begins", "the discharge wave", "the held charge releasing in waves", "I'm noticing way more anger now that I started practicing", "the champagne bottle pop", "anger floods at the beginning", "the early-phase anger overflow", "the release-period flooding"]
 tags: ["pattern", "anger", "release", "practice", "expected phenomenon", "early-stage", "champagne bottle"]
 related: ["anger", "kinked-emotions", "get-angry-in-the-car", "free-write-the-anger", "three-things-that-go-wrong-when-releasing-anger", "dont-go-after-every-emotion-at-once", "daily-emotional-yoga", "fake-the-anger-to-let-it-move"]
-sources: ["2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2025-03-19_The Path To Healthy Fighting"]
+sources: ["2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2025-03-19_The Path To Healthy Fighting", "2026-01-27_The Physical Price of Emotional Control"]
 ---
 
 # The Initial Anger Release Wave (The Champagne Bottle Pop)
@@ -17,6 +17,12 @@ When a person starts releasing anger after a long stretch (months, years, decade
 "If you start expressing anger, especially if you haven't expressed any for a long time, it's like a lot of anger is going to possibly come up. So you're going to be noticing, oh my God, I'm getting angry at this, I'm getting angry at that, which just means you need to move more anger in a safe place." -- Joe Hudson, How Anger Works
 
 The pattern then resolves. As the held charge dissipates, the noticing returns to a normal baseline.
+
+The temporal shape — temporarily up, then over time down — is the key piece the teaching has to deliver in advance, because the person inside the wave is going to interpret "up" as failure if they have not been told to expect it.
+
+"If you haven't moved your anger in a long time, once you start moving it, it shows up a lot more for a while. And then over an extended period of time, you become a lot less angry. But in the short term, you might get a lot more angry for a while. But it's actually opening up that experience of letting the anger move. And the weird thing is, as you let it move, as you accept it, it changes." -- Joe Hudson, The Physical Price of Emotional Control
+
+The "it changes" piece is the secondary teaching the wave makes available. The increase is not just in volume; the quality of the anger transforms across the process. The early wave is closer to the kinked versions (irritation, displaced flare-ups, recycling of old grievances). The later baseline is the fluid version (clean clarity, brief discharges, boundary-as-action). The same channel is becoming unkinked across the wave. See [[kinked-emotions]] for what the fully unkinked anger looks like.
 
 ## The Metaphor
 
@@ -146,3 +152,4 @@ The pattern is presented with friendliness. The champagne metaphor itself carrie
 
 - 2024-05-20_How Anger Works (8-min Guide to Healthy Anger)
 - 2025-03-19_The Path To Healthy Fighting (Joe's first-person report of his own wave when he first started moving emotions early in his relationship with Tara — the surprise at being "a little quicker to anger generally," the self-doubt "shit, should I be doing this?", the resolution into recognizing the backlog mechanism, and the two-piece insight that the wave clears faster when the release is done without believing the story plus with sufficient quantity to clear the backlog)
+- 2026-01-27_The Physical Price of Emotional Control (the explicit "shows up a lot more for a while, then over an extended period of time you become a lot less angry" articulation of the wave shape, presented as the standard warning to give in advance so a person inside the wave does not misinterpret the temporary increase as failure; the additional teaching that the quality of the anger transforms across the wave — early waves carry the kinked-version textures (recycling, displacement, irritation) while the later baseline is the clean fluid version (clarity, boundary, brief discharge), as the unkinking happens across the wave rather than after it)

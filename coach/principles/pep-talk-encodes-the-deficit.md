@@ -5,7 +5,7 @@ title: "The Pep Talk Encodes the Deficit (If You Need to Tell Yourself You're Go
 aliases: ["pep talk encodes the deficit", "if you need a pep talk you're saying you don't believe it", "the affirmation reveals the disbelief", "the pep talk reveals what's missing", "positive thinking that confirms the negative", "telling yourself you're good enough means you don't think you are", "the affirmation that makes you smaller", "the don't-be-sad makes you small move", "the encouragement that diminishes", "the pep talk as proof of disbelief", "the I'm-a-good-person affirmation that proves you don't think so", "the pep talk that makes you small", "the affirmation that confirms the absence", "if you need it told you don't believe it", "the limiting belief inside the positive belief", "positive affirmations as limiting beliefs", "the encouragement that makes someone smaller"]
 tags: ["principle", "self-talk", "affirmation", "limiting beliefs", "encouragement", "pep talk"]
 related: ["limiting-belief", "pep-talk-cant-override-the-body", "every-identity-has-limits", "identity", "inherent-goodness", "untruth-in-every-thought", "voice-in-the-head", "meaning-change-vs-feeling-through"]
-sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small"]
+sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small", "2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small"]
 ---
 
 # The Pep Talk Encodes the Deficit (If You Need to Tell Yourself You're Good Enough, You're Telling Yourself You're Not)
@@ -131,3 +131,4 @@ Matter-of-fact, slightly counter-cultural. The principle runs against the standa
 ## Sources
 
 - 2025-10-14_How To Break Free From Beliefs That Keep You Small (the pep talk encodes the message that the speaker does not believe what is being said; the "don't be sad" / "you can do it" example of encouragement that makes the receiver smaller; the distinction between "you can do it" and "I know you've got this"; the explicit teaching that the pep talk is a form of limiting belief because of what it structurally communicates about what is missing)
+- 2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small (bite-sized re-release of the same teaching; same "if I tell you enough times that you're good enough, then you'll act like you're good enough, which is basically saying you don't think you're good enough" formulation; same "don't be sad" / "you can do it" example of the outside-encouragement that makes someone smaller; same acknowledgment that there is "some benefit" to positive thinking before naming the structural problem; duplicate source confirming this is the canonical pep-talk teaching packaged for standalone delivery)

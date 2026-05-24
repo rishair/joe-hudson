@@ -4,8 +4,8 @@ id: sublimated-wants-become-politics
 title: "Sublimated Wants Become Politics and Gossip"
 aliases: ["unspoken wants become politics", "wants come out sideways in groups", "the leak in organizations", "withheld wants leak as gossip", "the leak from unspoken wants", "sublimated wants leak", "wants you don't say come out as politics", "organizational version of unfelt emotion leaks"]
 tags: ["wants", "organizations", "politics", "gossip", "leadership", "groups", "sublimation", "teams"]
-related: ["the-want", "wants-vs-partiality", "unfelt-emotion-leaks", "structure-and-empowerment", "no-doctrine-leadership", "authenticity-in-business", "tell-them-like-an-asshole", "politics-from-unclear-standards", "functional-team"]
-sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_What Is Selfishness？"]
+related: ["the-want", "wants-vs-partiality", "unfelt-emotion-leaks", "structure-and-empowerment", "no-doctrine-leadership", "authenticity-in-business", "tell-them-like-an-asshole", "politics-from-unclear-standards", "functional-team", "asking-for-wants-sideways", "i-love-that-you-want-that"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_What Is Selfishness？", "2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler)", "2026-01-16_There's A War Inside You (Here's How It Ends)"]
 ---
 
 # Sublimated Wants Become Politics and Gossip
@@ -76,6 +76,19 @@ The collective caretaking produces collective dysfunction. The cost is paid by e
 
 See [[caring-vs-caretaking]] for the individual mechanism. The organizational dynamic is the same pattern playing out across many people simultaneously.
 
+## The Relational-Couple Analog
+
+The same mechanism that produces politics in organizations produces predictable distortions in couples and friendships. The channels are different but the operation is identical: unspoken wants do not disappear; they surface in whatever forms are socially available.
+
+In relationships, the available forms are:
+- **Asking through pleasing.** Manufacturing indebtedness so the wanted thing will be returned.
+- **Asking through assumption.** "They should know what I want." The want stays operationally invisible.
+- **Asking in distorted tone.** Meanness from accumulated charge, meekness from pre-withdrawal, or too-strong from the long suppression spilling out.
+
+"When they have the wants, they ask for the wants sideways. And so that creates a tremendous amount of disturbance in a relationship." -- Joe Hudson, Ending The War With Your Wants
+
+See [[asking-for-wants-sideways]] for the dedicated treatment. The relationship-level marker is operational: if a marriage is deteriorating, the wants have stopped being named directly. The wants are still operating, just through the sideways channels. The corrective is the same on both scales — own the want and ask cleanly; on the receiving side, receive the want cleanly (see [[i-love-that-you-want-that]] for the move).
+
 ## What Resolves It
 
 - Leaders model owning their wants, including unflattering ones. See [[tell-them-like-an-asshole]].
@@ -123,3 +136,5 @@ Without this moral inversion, the leader who tries to state wants more openly wi
 - 2022-10-26_Building A Functional Team
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler) (the relational-couple analog of the organizational principle — same mechanism, different channels; the three sideways forms when wants cannot be named directly to a partner)
+- 2026-01-16_There's A War Inside You (Here's How It Ends) (same material under the alternative episode title)

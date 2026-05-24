@@ -5,7 +5,7 @@ title: "Listening"
 aliases: ["deep listening", "attuned listening", "listening as attunement", "listening as receiving", "listening as allowing", "the quality of listening", "the caliber of listening", "whole-body listening", "embodied listening", "listening with the body", "always listening", "you're always listening", "non-management listening", "listening simultaneously to self and other", "listening through filters", "what listening is", "listening fundamentals", "listening sushi rice", "speaking from listening", "channeling through listening", "listening is presence", "listening through trauma filters", "trauma-filtered listening", "two people listening through different filters", "listening to a partner in a fight", "listening in conflict"]
 tags: ["listening", "receiving", "presence", "attunement", "core concept", "view", "connection", "communication", "fighting", "trauma", "filters"]
 related: ["view", "empathy", "vulnerability", "wonder", "impartiality", "opposite-of-trying", "staying-in-your-body", "listen-as-the-wisest-person", "head-heart-gut", "being-heard", "listening-to-impulse", "applied-self-awareness", "different-languages-of-love", "the-butler-metaphor", "faithing-faith-as-verb", "wait-for-someone-else-to-say-it", "cant-remember-what-i-said-in-flow", "dont-claim-the-wisdom-as-yours", "mirror-until-they-confirm", "most-disagreements-are-not-understanding-not-attack"]
-sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better", "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever"]
+sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better", "2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever", "2025-12-05_Charisma isn't learned", "2026-01-13_Why Likeable People Rarely Talk"]
 ---
 
 # Listening
@@ -295,6 +295,7 @@ After the conversation, the details may be hard to recall. Something deeper land
 - When a coachee is asking how to be more connected to themselves and others.
 - When [[applied-self-awareness]] is the frame and listening is the most accessible entry point.
 - When someone is preparing for a hard conversation by rehearsing what they will say.
+- When someone asks how to get people to like them, or how to be more likable in social situations. See [[how-do-i-get-people-to-like-me]].
 
 ## Downstream (Where This Leads)
 
@@ -316,6 +317,18 @@ After the conversation, the details may be hard to recall. Something deeper land
 - Toward [[wanting-others-to-listen-is-the-block]] when the concern is "they don't listen to me."
 - Toward [[you-cant-be-seen-when-youre-not-in-yourself]] for the principle that grounds the self-listening teaching.
 - Toward [[dont-make-listening-a-morality]] when the practice has been turned into a rule.
+- Toward [[we-like-people-who-are-interested-in-us]] for the social-mechanics principle that follows from the listening capacity.
+- Toward [[the-airplane-stranger-listening]] for the bare-conditions demonstration of how little speaking is required for the connection to form.
+
+## Listening Is What Produces Being-Liked
+
+The same mechanism that produces charisma produces likability in lower-stakes social contexts. When someone asks how to get other people to like them, the craft answer is the listening answer. We like people who are interested in us. The listener who brings real interest to another person produces in the other person the felt experience of being-seen, which the other person registers as "I like this person." The listener does not have to be smart, beautiful, valuable, or impressive. The interest is what is required. The interest comes through the listening.
+
+"We are interested in people who are interested in us... We don't have to add value. We don't have to be smart. We don't have to show off. We don't have to be beautiful. We just have to care about somebody." -- Joe Hudson, Why Likeable People Rarely Talk
+
+The two stranger-encounter demonstrations Joe uses make the point at bare conditions: [[the-horticulture-train-ride]] and [[the-airplane-stranger-listening]]. In each, the listener said almost nothing -- one or two questions -- and the speaker, over an hour or two hours, felt so seen that they spontaneously experienced the listener as someone they liked, sometimes apologizing at the end for talking so much (which is the social signature of having registered, in retrospect, that the time-balance was lopsided but the listening had been continuous and unburdened).
+
+See [[we-like-people-who-are-interested-in-us]] for the bare-mechanism principle, and [[how-do-i-get-people-to-like-me]] for the concern this addresses when held as a craft question (rather than as the deeper [[how-do-i-stop-seeking-approval]] question, which uses the same words but requires different work).
 
 ## Listening as the Charismatic Activator (The Missed Variable)
 
@@ -344,3 +357,4 @@ Plain, conversational, unhurried. The teaching is not delivered as a difficult i
 - 2024-06-10_How To Listen Better (the active vs. passive distinction; the specific signatures of judging-listening vs. fixing-listening vs. unconditional-acceptance listening; the daily-reps approach to building self-listening)
 - 2025-02-21_Give Me 5 Minutes And I'll Transform How You Listen Forever (the trauma-filter mechanism inside long relationships as the dominant filter on listening; the in-fight application of listening as a sage; the year-long mirroring practice as the operational way to surface and clear filter mismatches; the reframe from "attack" to "not-understanding" that follows from doing the filter-aware listening work)
 - 2025-12-05_Charisma isn't learned (Dr. K, Charisma on Command & Joe) -- Joe's framing of listening as the missed variable in charisma analysis; the Eleanor Roosevelt / two-prime-ministers story; the operational reframe of the preparation question from "what am I going to say?" to "how am I going to listen?"; the pairing with the broader charisma teaching that the listening-receiver is half of what makes a moment feel charismatic to the speaker
+- 2026-01-13_Why Likeable People Rarely Talk (the social-mechanics application of listening: listening from real interest is what produces being-liked; the airplane stranger story as the bare-conditions parallel to the horticulture train ride; the explicit teaching that we do not have to add value, be smart, be beautiful, or show off to be liked; the failure mode of listening deployed as a manipulation tactic which the other person reads and pulls back from)

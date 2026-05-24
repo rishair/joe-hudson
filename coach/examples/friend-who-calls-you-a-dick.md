@@ -2,10 +2,10 @@
 type: example
 id: friend-who-calls-you-a-dick
 title: "The Friend in Bodega Bay Who Called Joe a Dick"
-aliases: ["the friend who calls you a dick", "Joe's Bodega Bay friend", "you're a dick I love you the same story", "the Joe-is-a-dick friend story", "the openhearted-naming friend example", "Joe's friend at Bodega Bay", "the friend who named it without trying to change Joe", "the offer-without-demand naming example", "the I-love-you-the-same naming story"]
-tags: ["example", "elephant-in-the-room", "openheartedness", "non-defense", "friendship", "naming", "Joe's biography", "receiving-truth"]
-related: ["the-elephant-in-the-room", "speak-the-elephant-from-open-heart-not-fear", "non-defense-is-the-ocean", "view", "love-vs-nice", "makeup-artist-and-the-rock-star", "im-none-of-my-own-business", "letting-judgment-in"]
-sources: ["2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say"]
+aliases: ["the friend who calls you a dick", "Joe's Bodega Bay friend", "you're a dick I love you the same story", "the Joe-is-a-dick friend story", "the openhearted-naming friend example", "Joe's friend at Bodega Bay", "the friend who named it without trying to change Joe", "the offer-without-demand naming example", "the I-love-you-the-same naming story", "the I-stopped-doing-the-dick-things observation", "the Bodega Bay payoff", "Joe's payoff from owning he was a dick"]
+tags: ["example", "elephant-in-the-room", "openheartedness", "non-defense", "friendship", "naming", "Joe's biography", "receiving-truth", "trigger", "ownership", "welcoming-the-trait"]
+related: ["the-elephant-in-the-room", "speak-the-elephant-from-open-heart-not-fear", "non-defense-is-the-ocean", "view", "love-vs-nice", "makeup-artist-and-the-rock-star", "im-none-of-my-own-business", "letting-judgment-in", "welcoming-the-trait-stops-producing-it", "triggers-fire-when-words-rhyme-with-negative-self-talk", "triggers-reveal-your-own-beliefs", "trigger", "loving-all-parts"]
+sources: ["2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say", "2026-01-20_What To Do When You Get Triggered"]
 ---
 
 # The Friend in Bodega Bay Who Called Joe a Dick
@@ -63,6 +63,18 @@ A different friend, hearing Joe defend, might have backed off ("oh, sorry, I did
 
 The friend who delivers and stays is doing the work. The work is offering the observation with no demand and no retraction. The receiver can do with it what they will. The offering remains intact.
 
+## The Payoff: After Joe Owned It, He Stopped Doing the Dick Things
+
+In the later telling of the story (2026-01-20_What To Do When You Get Triggered), Joe describes what happened after he eventually admitted the friend was right. The admission was the operative move, not just for the relational dynamic in the moment, but for what shifted in Joe's own behavior afterward.
+
+"And so I owned it. I was like, 'Yeah, okay, I can totally see it.' And I guarantee you that all of us can see some way in which we are a dick, right? We're not nice. And so I looked at those places. I was like, 'Yeah, you know what? That's true.' I can totally see that. I can see how you would say that. Absolutely. And then what was weird was I noticed that I wasn't doing the things that made me be a dick as much." -- Joe Hudson, What To Do When You Get Triggered
+
+This is the principle [[welcoming-the-trait-stops-producing-it]] in its origin form. The behavior associated with being a dick reduced — not because Joe set out to change it, but because the disowning that was producing it had ended. The friction that the disowning had been generating released, and the behavior the friction was producing released with it.
+
+The story is therefore not just about the friend's posture of openhearted naming. It is also about what becomes available to the receiver when the naming is accepted. The payoff is operational: the behavior changes on its own. Joe presents this with mild surprise ("what was weird was I noticed") — the behavior change was not the goal. It was the byproduct of the admission.
+
+For the receiver-side use of this story in a coaching frame, see [[welcoming-the-trait-stops-producing-it]] for the principle, and [[triggers-fire-when-words-rhyme-with-negative-self-talk]] for the mechanism that explains why the friend's words had landed in Joe in the first place (Joe's inner voice was already running some version of the same observation; otherwise the comment would have landed flat).
+
 ## The Connection to "I'm None of My Own Business"
 
 The friend's posture overlaps with [[im-none-of-my-own-business]] — both the speaker and the listener stance. The friend is not in his own business about whether Joe accepts him. Joe, ideally, would not be in his own business about whether he is "the kind of person who is a dick." The lightness in the story is the lightness that comes from neither person being too invested in themselves as the subject.
@@ -106,3 +118,4 @@ Joe tells this story with affection. The friend is not named in the telling but 
 ## Sources
 
 - 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say
+- 2026-01-20_What To Do When You Get Triggered — the second-telling of the Bodega Bay story with the focus shifted from the friend's openhearted-naming posture to the receiver-side payoff: after Joe admitted he could see the trait, the behavior associated with the trait reduced on its own ("I noticed that I wasn't doing the things that made me be a dick as much"); positions the story as the origin example for [[welcoming-the-trait-stops-producing-it]] and as the live demonstration that [[triggers-fire-when-words-rhyme-with-negative-self-talk]] was operating (the friend's words landed because Joe's inner voice was already running the criticism)

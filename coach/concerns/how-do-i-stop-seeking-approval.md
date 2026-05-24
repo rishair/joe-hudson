@@ -179,6 +179,7 @@ The diagnostic question: "If you fully accepted this compliment, what would you 
 - It is not [[im-afraid-of-offending-people]] — the offending-people concern is approval-seeking expressed as conflict avoidance. The broader approval concern includes offending-avoidance but is not limited to it.
 - It is not [[im-burned-out]] — burnout is a downstream consequence of running the approval engine for years, but the approval concern can be present without burnout being the presenting symptom.
 - It is not [[i-need-a-scorecard]] — the scorecard is the approval engine made measurable. The approval concern is the underlying hunger; the scorecard is the costume.
+- It is not [[how-do-i-get-people-to-like-me]] when held as a craft question. The two can present with the same words. The disambiguator is the body and the urgency. If the person is asking the craft question (no desperation, no chronic chase, no panic about specific people not liking them), the answer is the direct craft answer in [[we-like-people-who-are-interested-in-us]] — be interested in them, listen well, ask how/what questions. If the person is asking the desperation question (the engine of approval-seeking is operating underneath), the craft answer cannot land cleanly because the listening will be converted into a performance for the desired outcome. In the desperation case, the work is the deeper work outlined above, not the craft answer. Both concerns share the same surface words and different undersides; the coach must read which one is active before choosing the path.
 
 ## Sources
 

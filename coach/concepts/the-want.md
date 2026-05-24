@@ -4,8 +4,8 @@ id: the-want
 title: "The Want"
 aliases: ["want as impulse", "want as emotion", "wanting as feeling", "the deep want", "want as longing", "longing", "desire as feeling"]
 tags: ["wants", "emotion", "impulse", "desire", "longing", "love"]
-related: ["wants-over-shoulds", "wanting-vs-craving", "feeling-the-want-as-emotion", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "feeling-the-unfelt-emotion", "kinked-emotions", "sublimated-wants-become-politics", "resentment-as-unspoken-want", "need-behind-the-want"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?", "2022-10-26_Want Over Should", "2022-10-26_What Is Selfishness？"]
+related: ["wants-over-shoulds", "wanting-vs-craving", "feeling-the-want-as-emotion", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "feeling-the-unfelt-emotion", "kinked-emotions", "sublimated-wants-become-politics", "resentment-as-unspoken-want", "need-behind-the-want", "wanting-is-aliveness", "dont-want-is-a-want", "owning-the-want-makes-you-less-manipulatable", "identity-must-shift-when-wants-are-owned", "asking-for-wants-sideways"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?", "2022-10-26_Want Over Should", "2022-10-26_What Is Selfishness？", "2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler)", "2026-01-16_There's A War Inside You (Here's How It Ends)"]
 ---
 
 # The Want
@@ -34,6 +34,20 @@ When the want is allowed as a feeling, without trying to figure out how to get t
 
 This is why mystic traditions across cultures speak of longing as a spiritual path. The Sufis and the tantric traditions are pointing at the same thing: when wanting is allowed as a pure feeling, it opens into love.
 
+## Wanting Is Aliveness
+
+The felt-texture observation has a structural twin: the wanting itself is what makes life feel alive. Strip out the wanting and the aliveness goes with it, even if the wanted thing remains technically available.
+
+The cleanest demonstration: imagine being told you can have sex for the rest of your life but you are not allowed to want it. The response is universally that this would be terrible. The having without the wanting is hollow. The wanting was carrying most of the life.
+
+"Wanting is aliveness." -- Joe Hudson and Alexa Kistler, Ending The War With Your Wants
+
+"If you don't get to want, you're pulling a lot of the joy out of life." -- Joe Hudson, Ending The War With Your Wants
+
+See [[wanting-is-aliveness]] for the dedicated principle. The thought experiment generalizes — food, connection, art, work — and the diagnostic implication for flatness or loss-of-aliveness is to check the want-state first. Most adult flatness is wanting suppression, not wanting absence.
+
+The actor-and-director parallel: directors learned that telling an actor "do it happier" never produces the performance, but telling the actor "what you want in this scene is X" does. The wanting generates the aliveness; the emotional state is downstream of the wanting. The principle applies past the stage.
+
 ## Wants Are Somatically Expansive
 
 A clean want feels expansive in the body. The shoulders soften, the chest opens, the breath deepens. A craving (see [[wanting-vs-craving]]) does the opposite: it contracts, tightens, grips.
@@ -56,12 +70,43 @@ Wants are intimate. They sit at the core. When a want is rejected -- when the pe
 
 The fear is rarely about not getting the thing. Most people have many wants that did not get met and survived just fine. The fear is about the exposure of having shown the want and being rejected for it.
 
+## The Deeper Vulnerability: Identity Has to Shift
+
+The exposure fear is the surface form of the want-vulnerability. The deeper form is that owning a want often requires becoming someone the current self is not yet. The want pulls on the identity. The current self does not survive the owning unchanged.
+
+"There's a vulnerability in allowing yourself to feel something that you don't normally let yourself feel... The wants are the evolutionary path. Evolution means that your identity changes. If there's any reason to feel like it's vulnerable to be in your wants, it's because you will be destroyed or evolve. You can call it whatever you wanna call it, but it's the same thing. Who you are won't be there, destroyed, evolved, and something new will be there." -- Joe Hudson, Ending The War With Your Wants
+
+The destruction-evolution compression names the two sides of the same operation. From inside the current self, the loss of that self is destruction. From outside, the arrival of the next self is evolution. Both are happening. This is why "you can do it, no one will judge you" reassurances do not always release the want-suppression — the reassurance is addressing the social-exposure vulnerability, but the deeper vulnerability is the identity-shift. See [[identity-must-shift-when-wants-are-owned]] for the dedicated principle and [[lottery-winners-go-bankrupt]] for the empirical pattern that confirms it.
+
 ## How to Work With It
 
 - **As impulse:** notice it, follow it before the should intercepts. See [[listening-to-impulse]].
 - **As emotion:** feel it fully, without rushing to satisfy or to suppress. See [[feeling-the-want-as-emotion]].
 - **As a sequence:** follow the want home; it deepens. The first want often opens onto a more accurate one underneath. See [[wants-deepen-as-you-follow-them]] and [[owning-the-want-dissolves-it]].
 - **As a need:** trace the surface want to the universal need it serves. See [[need-behind-the-want]].
+- **As an inverted form:** check whether the operating frame is don't-want. The "I don't want X" is structurally a want for the opposite or for what the don't-want is covering. See [[dont-want-is-a-want]] and the two-list practice.
+
+## The Three Sideways Forms in Relationships
+
+When a want cannot be owned and spoken directly to a partner, it surfaces in distorted forms. Joe identifies three: asking through pleasing (manufacturing indebtedness), asking through assumption ("they should know"), and asking in distorted tone (meanness from accumulated charge, meekness from pre-withdrawal, or too-strong from the long suppression spilling out).
+
+"When they have the wants, they ask for the wants sideways. And so that creates a tremendous amount of disturbance in a relationship." -- Joe Hudson, Ending The War With Your Wants
+
+See [[asking-for-wants-sideways]] for the dedicated treatment. The pattern is the relational analog of [[sublimated-wants-become-politics]]; the cure on both ends is the same — the asker owns the want and asks cleanly, and the listener receives the want cleanly (see [[i-love-that-you-want-that]]).
+
+## The Marriage Diagnostic
+
+A clean operational marker: if a marriage is deteriorating, neither partner has named what they want in the marriage recently.
+
+"If I see a marriage that's falling apart, one of the things I guarantee is that nobody has set forth recently what they want in the marriage. Like, this is what I want. They don't even have that conversation." -- Joe Hudson, Ending The War With Your Wants
+
+The wants are still operating — through the three sideways forms — but no one is naming them as wants. The relationship is being run on the distortions instead of on the wants.
+
+## Owning Protects Rather Than Exposes
+
+A common reason wants stay suppressed: "if they know what I want, they will exploit it." The principle [[owning-the-want-makes-you-less-manipulatable]] inverts the intuition. The owned want has no soft edge for manipulation to slip into. The unowned want — the want that operates through proxies the conscious mind will not admit are about the want — is what gets exploited. The lottery-ticket buyer is the person who has not owned wanting to be rich. The clear-eyed billionaire-aspirant cannot be sold a lottery ticket because the lottery ticket would have to compete with their actual evaluation.
+
+The same asymmetry operates on rejection. By not naming the want, the person has already rejected themselves for wanting it; the chronic certain self-rejection is usually a larger cost than the intermittent contingent social rejection that owning the want would risk.
 
 ## The Want at the Organizational Level
 
@@ -93,3 +138,5 @@ The leadership form of the principle: when the leader says exactly what they wan
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2026-01-16_Ending The War With Your Wants (Joe Hudson and Alexa Kistler) (the "wanting is aliveness" framing and the sex thought experiment; the actor-and-director parallel; the don't-want-is-a-want recognition that gives the two-list practice; the identity-shift destroyed-or-evolved compression for the deeper vulnerability of wanting; the three sideways forms when wants cannot be named directly; the marriage diagnostic; the protection-not-exposure inversion for the manipulation fear)
+- 2026-01-16_There's A War Inside You (Here's How It Ends) (same material under the alternative episode title)

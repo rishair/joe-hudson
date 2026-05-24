@@ -4,8 +4,8 @@ id: trigger
 title: "Trigger"
 aliases: ["triggered", "what a trigger is", "Joe's definition of trigger", "being triggered", "trigger as trauma activation", "in your trauma not yourself", "trigger as opportunity", "the trigger definition", "what does triggered mean", "the two definitions of trigger"]
 tags: ["trauma", "trigger", "relationships", "emotion", "presence", "self-awareness"]
-related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you", "projections", "five-triggers-projection-experiment", "go-down-one-level-to-find-projection", "capital-t-vs-small-t-trauma", "i-lose-myself-in-the-fight", "the-fight-is-asking-you-to-feel-what-you-couldnt", "hands-on-body-to-regulate-nervous-system"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-04-29_Triggered By Others？ Watch This", "2024-10-25_How To Fight And Win", "2025-01-10_The Real Reason You Lose Control In A Fight"]
+related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you", "projections", "five-triggers-projection-experiment", "go-down-one-level-to-find-projection", "capital-t-vs-small-t-trauma", "i-lose-myself-in-the-fight", "the-fight-is-asking-you-to-feel-what-you-couldnt", "hands-on-body-to-regulate-nervous-system", "triggers-fire-when-words-rhyme-with-negative-self-talk", "welcoming-the-trait-stops-producing-it"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-04-29_Triggered By Others？ Watch This", "2024-10-25_How To Fight And Win", "2025-01-10_The Real Reason You Lose Control In A Fight", "2026-01-20_What To Do When You Get Triggered"]
 ---
 
 # Trigger
@@ -78,6 +78,16 @@ This is why "love" and "trigger" are so often the same person. The body has wire
 
 The implication: triggers in long-term partnership are not a sign the relationship is failing. They are the precise reason this relationship and not another was chosen.
 
+## The Firing Mechanism: External Words Rhyme With Internal Self-Talk
+
+The trigger fires when external speech rhymes with the internal negative self-talk the person is already running about themselves. The external is the matchstick. The fuel is the self-talk. Without the inner fuel, the matchstick lights nothing.
+
+"We get triggered when somebody says something to us that rhymes with our negative self-talk." -- Joe Hudson, What To Do When You Get Triggered
+
+The mechanism explains why the same comment lands as a trigger in one person and as nothing in another. The sky-is-purple example: if you do not secretly think the sky is purple, "you think the sky is purple" lands flat. If you do secretly think the sky is purple and feel bad about it, the same words now produce a trigger. The diagnostic implication is exact — the presence of a trigger is positive evidence that the inner voice has been running some version of the criticism.
+
+See [[triggers-fire-when-words-rhyme-with-negative-self-talk]] for the dedicated treatment of this firing mechanism, including the three forms a trigger can take once the rhyme-condition is met (anger, shame, fear), the recursion in which being triggered by someone's judgmentalness is itself an enactment of judgmentalness, and the universality move that converts the surfaced trait into something re-includable.
+
 ## Triggers Reveal Your Own Beliefs
 
 The trigger is not produced by what the other person said. It is produced by the part of you that already believes a version of what they said. If you get defensive, you are agreeing on some level with the accusation; otherwise it would not move you. See [[triggers-reveal-your-own-beliefs]].
@@ -147,6 +157,8 @@ Without working triggers, the relationship either ossifies (cold marriage held t
 - Toward [[five-triggers-projection-experiment]] as a structured practice for systematically converting at-someone-else triggers into self-knowledge through upright apology
 - Toward [[go-down-one-level-to-find-projection]] when the literal version of the projection cannot be found and a structural analog is needed
 - Toward [[name-im-in-my-trauma-as-couple-language]] when the trigger is firing in a couple context and the in-the-moment move of naming it to the partner becomes available
+- Toward [[triggers-fire-when-words-rhyme-with-negative-self-talk]] when the question is the firing mechanism — why this comment lands as a trigger and another would not
+- Toward [[welcoming-the-trait-stops-producing-it]] when the trigger has surfaced a disowned trait and the question is what to do with the surfacing
 
 ## Tone
 
@@ -158,3 +170,4 @@ Joe holds the word with care. He explicitly distances himself from both the dism
 - 2022-10-26_Triggered!
 - 2024-04-29_Triggered By Others？ Watch This (the upset-at-someone-else sub-definition for projection work specifically; positions trigger work as an empowerment practice where the goal is your freedom, not the other person's behavior)
 - 2024-10-25_How To Fight And Win (the John-and-Nancy "two marriages" image -- one with the actual partner, one with the internalized parents that gets overlaid on the actual partner whenever the trigger fires; the Fallujah-to-Ohio compressed image for relational trauma; the both-partners-in-trauma-simultaneously structure of a relationship fight)
+- 2026-01-20_What To Do When You Get Triggered — the rhymes-with-negative-self-talk firing mechanism (the sky-is-purple test, the pills example) as the precondition that determines whether a comment lands as a trigger; the three forms a trigger can take given the firing condition (anger, shame, fear); the dissolution route via welcoming the surfaced trait, illustrated through the Bodega Bay payoff and the bad-mom example; feeds the dedicated firing-mechanism principle at [[triggers-fire-when-words-rhyme-with-negative-self-talk]] and the dissolution-route principle at [[welcoming-the-trait-stops-producing-it]]

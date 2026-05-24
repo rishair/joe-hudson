@@ -4,7 +4,7 @@ id: rebellion-or-submission-to-should
 title: "Rebellion or Submission to Should"
 aliases: ["two responses to should", "rebellion to should", "submission to should", "self-rebellion", "self-submission", "why bad habits stick", "the rebellion-submission loop"]
 tags: ["shoulds", "patterns", "rebellion", "submission", "habits", "self-relationship"]
-related: ["should-as-threat", "wants-over-shoulds", "shame-drives-behavior", "empowered-vs-power", "inherent-goodness", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement", "hidden-rebellion-under-the-habit", "should-i-stop-drinking", "do-i-stop-drinking-session"]
+related: ["should-as-threat", "wants-over-shoulds", "shame-drives-behavior", "empowered-vs-power", "inherent-goodness", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement", "hidden-rebellion-under-the-habit", "should-i-stop-drinking", "do-i-stop-drinking-session", "the-rebel-dilemma"]
 sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should", "2024-06-13_Do I Stop Drinking？", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)", "2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)"]
 ---
 
@@ -102,6 +102,7 @@ The variant connects to [[get-angry-in-the-car]] as the structural corrective: t
 - Toward [[wants-over-shoulds]]: the alternative to the threat-and-response model.
 - Toward [[empowered-vs-power]]: rebellion and submission are both disempowered stances.
 - Toward [[inherent-goodness]]: the foundational belief that makes the threat unnecessary.
+- Toward [[the-rebel-dilemma]]: the broader structural principle of which this pattern is the should-specific instance.
 
 ## Sources
 

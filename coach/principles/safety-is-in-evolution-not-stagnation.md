@@ -4,7 +4,7 @@ id: safety-is-in-evolution-not-stagnation
 title: "Safety Is in the Evolution, Not in the Stagnation (What You Think Is Risk Is Iteration; What You Think Is Safety Is Stagnation)"
 aliases: ["safety is in the evolution not the stagnation", "safety is iteration", "what you think is safety is stagnation", "what you think is risk is iteration", "stagnation is the actual risk", "iteration is the actual safety", "you can only fail if you stop trying", "the known is more dangerous than the adventure", "trading the known for an adventure", "we're not trading safety for risk we're trading the known for excitement", "the perception of safety is often stagnation", "the lifespan of a VP is shorter than the adventure", "safety is in evolution", "iteration is the safety", "the safe move is the iterative move", "there's no safety in staying", "stagnation is more dangerous than the unknown", "what looks like safety is the trap", "the stuck-feeling sells itself as safety", "we choose perceived safety over the risk that isn't actually riskier"]
 tags: ["principle", "safety", "stagnation", "iteration", "risk", "stuck", "evolution", "the-known", "the-unknown", "adventure", "reframing", "core-principle"]
-sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom"]
+sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom", "2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed"]
 ---
 
 # Safety Is in the Evolution, Not in the Stagnation
@@ -149,3 +149,4 @@ The VP example is delivered with the cadence of a coaching session being narrate
 ## Sources
 
 - 2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom (the central inversion: "what you think as safety is often stagnation, and what you think as risk is often iteration"; the "you can only fail if you actually stop trying" formulation; the questions about marriages, companies, and lives that stagnate vs. iterate; the VP example as the worked case; the explicit "safety is in the evolution, not in the stagnation" summary; the trading-the-known-for-an-adventure reframe of what the choice is actually about; the habenula connection that grounds the principle biologically; the "we just call that practice" framing for what iteration is when the failure-frame is removed)
+- 2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed (near-verbatim bite-sized re-release of the same teaching; same inversion, same VP example, same "we just call that practice" framing; duplicate source confirming the principle)

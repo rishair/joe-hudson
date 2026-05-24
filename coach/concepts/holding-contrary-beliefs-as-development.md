@@ -5,7 +5,7 @@ title: "Holding Contrary Beliefs Simultaneously (The Developmental Capacity That
 aliases: ["holding contrary beliefs simultaneously", "holding contradictory beliefs", "cognitive complexity as development", "both-and capacity", "both-and thinking", "both wisdoms thinking", "the capacity to hold both sides", "developmental cognitive capacity", "human development holding two truths", "wisdom on both sides", "the developmental answer to binary thinking", "binary thinking vs both-and thinking", "both views are true thinking", "the capacity that distinguishes freedom from fear cognitively", "more developed people hold contradictions", "evolution of cognition into paradox tolerance", "the cognitive shape of freedom", "the cognitive shape of fear"]
 tags: ["development", "cognition", "fear", "freedom", "identity", "concept", "paradox"]
 related: ["binary-thinking-signals-fear", "limiting-belief", "every-identity-has-limits", "transparent-identity-vs-rigid", "expanding-sense-of-self", "loving-all-parts", "view", "wonder", "find-the-comparable"]
-sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small"]
+sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small", "2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small"]
 ---
 
 # Holding Contrary Beliefs Simultaneously (The Developmental Capacity That Distinguishes Fear From Freedom)
@@ -139,3 +139,4 @@ Joe presents this with developmental matter-of-factness. The capacity is not a m
 ## Sources
 
 - 2025-10-14_How To Break Free From Beliefs That Keep You Small (the developmental capacity to hold contrary beliefs simultaneously; the diagnostic that inability to see the other side is the marker of constraint; the meeting room example of binary collapse under fear; the explicit teaching that limiting beliefs about self are beliefs you can only see one side of; the asshole-and-loving both-true response demonstrating non-defense; the ocean-versus-rock image for the cognitive posture that holds contraries; the wisdom-on-both-sides phrasing as the operational form)
+- 2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small (near-verbatim bite-sized re-release of the 2025-10-14 teaching as a standalone segment; same Republican/Democratic and marketing examples of holding two sets of wisdom simultaneously; same meeting-room collapse example with the wisdom-on-both-sides exit; same diagnostic that the belief you cannot see the other side of is what is holding back your freedom; same ocean-versus-rock image for the rigid-vs-flexible cognitive posture; duplicate source confirming this teaching is a stable feature of the canonical content packaged for standalone delivery)

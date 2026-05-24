@@ -5,7 +5,7 @@ title: "Despondency Is the Typical First Reaction When Self-Definition Drops (Fa
 aliases: ["despondency as first reaction", "the nihilistic stage before freedom", "fine then life is meaningless reaction", "the despondent landing", "the nihilism that precedes freedom", "first reaction to no self-definition", "what most people do first when belief drops", "the despair stage of seeing through identity", "the meaning-collapse reaction", "the why-do-anything reaction", "the falling-not-flying stage", "ground falls out and the person despairs first", "the despondent transition before flying", "the predictable despondent phase", "you crash before you fly", "the freedom that initially feels like despair"]
 tags: ["pattern", "identity dissolution", "despondency", "nihilism", "transition", "limiting beliefs"]
 related: ["limiting-belief", "holding-contrary-beliefs-as-development", "disorienting-middle-of-self-inquiry", "zen-sickness", "every-identity-has-limits", "expanding-sense-of-self", "self-realization", "inherent-goodness", "limiting-belief-meta-trap", "listlessness-after-awakening"]
-sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small"]
+sources: ["2025-10-14_How To Break Free From Beliefs That Keep You Small", "2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small"]
 ---
 
 # Despondency Is the Typical First Reaction When Self-Definition Drops (Falling Before Flying)
@@ -153,3 +153,4 @@ The coach holds this phase with steady warmth. The despondent person needs evide
 ## Sources
 
 - 2025-10-14_How To Break Free From Beliefs That Keep You Small (the explicit teaching that the typical first reaction to seeing through all self-definition is despondency; the "fine then, life is meaningless" reaction as the predictable first interpretation; the freedom on the other side; the falling-becomes-flying image as the transition; the no-ground sensation getting reinterpreted from falling to flying when the grasping for ground stops)
+- 2026-01-23_Bite-Sized Teaching Series- How To Break Free From Beliefs That Keep You Small (bite-sized re-release of the same teaching; same "wow, I can't fully believe any thought about myself / what am I? who am I?" formulation as the recognition that triggers the despondent phase; same "fine then, I could do anything, I guess. Why do anything? Life is meaningless" as the predictable first interpretation; same "I'm the guy who always solves the problem / always gets people to like me / always successful" examples of self-definitions whose dissolution triggers the falling sensation; same falling-becomes-flying transition; duplicate source confirming this pattern is stable across the canonical teaching's standalone re-releases)

@@ -5,7 +5,7 @@ title: "The VP Who Feared Starting Her Own Company (The Risk Calculation That Wa
 aliases: ["VP afraid to start her own company", "the VP-to-CEO calculation", "the vice president who thought failing as CEO was riskier than staying VP", "the lifespan-of-a-VP example", "the more-hireable-after-failing example", "the entrepreneurial-spirit-makes-you-more-hireable example", "the staying-VP-is-the-riskier-position example", "the failed-CEO-is-more-hireable-than-fired-VP example", "the worked example of safety-vs-iteration", "the VP-starting-company example", "Joe's series-of-questions for the VP", "Joe's risk-inversion questions for the VP"]
 tags: ["example", "story", "VP", "career", "entrepreneurship", "risk", "stuck", "safety", "iteration", "consequences"]
 related: ["safety-is-in-evolution-not-stagnation", "fear-of-consequences-creates-stuck", "i-feel-stuck", "feared-consequences-rarely-happen", "binary-thinking-signals-fear", "iterative-mindset", "habenula"]
-sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom"]
+sources: ["2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom", "2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed"]
 ---
 
 # The VP Who Feared Starting Her Own Company
@@ -108,3 +108,4 @@ The questions themselves are delivered as if Joe is recalling the conversation, 
 ## Sources
 
 - 2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom (the full retelling: a vice president worried about starting her own company; Joe's series of questions surfacing that failing as a CEO would leave her more hireable, that starting her own thing would also make her better in a future big-company role, that the lifespan of a VP in her company was three to four years and she had already been in it for two; the conclusion that the "risky" option was actually less risky than the "safe" one; the example offered as the worked case of the safety-is-iteration principle)
+- 2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed (near-verbatim bite-sized re-release of the same teaching; same VP story with the same series of questions and conclusion; duplicate source)

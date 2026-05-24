@@ -4,7 +4,7 @@ id: purpose-is-in-the-present-not-the-future
 title: "Purpose Is in the Present, Not the Future (Living-in-the-Future Is How You Push Purpose Away)"
 aliases: ["purpose is in the present not the future", "purpose lives in the present", "living in the future pushes purpose away", "the living-in-the-future block to purpose", "purpose is here in this moment", "purpose is not located in the future", "the future-living blocks purpose principle", "purpose is here always", "purpose is in this moment", "you can't find purpose in the future", "the now-purpose principle", "purpose-lives-now principle", "if you're living in the future you're not living in your purpose", "the moment-not-the-someday purpose principle", "your purpose is asking now", "purpose has nothing to do with what comes later", "the present-tense purpose", "purpose is path not destination because purpose lives now"]
 tags: ["purpose", "principle", "present", "future", "now", "in-the-moment", "futurity", "deferral"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-01-22_Her Need to ＂Find＂ Her Purpose Dissolved In 10 Minutes (Coaching with Joe)"]
 ---
 
 # Purpose Is in the Present, Not the Future
@@ -69,6 +69,21 @@ This principle is one of several in-the-present principles that operate across J
 
 The structural insight across all of these: the deferral to later is the wall. The present is where the thing is happening. The work is to inhabit the present.
 
+## The Stance-Reframe Form: "Ask the Question While Living Your Purpose"
+
+A specific operational form of the principle, drawn from the coaching session where Joe used the principle as a stance-reframe in the first beat with a seeker asking "how do I get to my purpose":
+
+"Hold on, stop all of that and give me your question again, but do it while living your purpose. Because if you're living your purpose, it's in the moment. It's not in the future. So this is the moment." -- Joe Hudson, Her Need to "Find" Her Purpose Dissolved In 10 Minutes
+
+The line collapses the futurity into the present in one move. "If you're living your purpose, it's in the moment. It's not in the future. So this is the moment." The argument has three steps:
+1. The premise the seeker is operating from: I am trying to get to my purpose.
+2. The principle: purpose lives in the present, not the future.
+3. The corollary delivered as instruction: therefore, if you were living your purpose, you would be living it right now.
+
+The instruction is to test the corollary by re-asking the original question from inside the corollary's frame. The re-asking is the principle made operational. See [[ask-the-question-as-you-live-your-purpose]] for the full account of the move.
+
+The stance-reframe form is useful when the seeker's futurity is the dominant feature of the concern. A seeker who is in a years-long search is in chronic futurity; the stance-reframe interrupts the chronicity by requiring an immediate present-stance shift. The interruption is what makes the principle visible — the seeker can feel the futurity in the original asking and feel its absence in the re-asking, which makes the principle land somatically rather than just conceptually.
+
 ## The Operational Move
 
 The operational move is the in-the-moment purpose-question. Several forms exist:
@@ -112,3 +127,4 @@ When someone resists ("but I have to know what I'm working toward"), the tone st
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the explicit naming — "the other thing that stops you from finding your purpose is that you're living in the future"; the six-or-seven-years-down-the-road description; the "deep sense of presence" as the alternative; the path-in-the-woods metaphor — you know where to go in 10 more steps and then you know where to go in 10 more steps)
+- 2026-01-22_Her Need to "Find" Her Purpose Dissolved In 10 Minutes (Coaching with Joe) (the stance-reframe form of the principle delivered as an in-session instruction; the principle compressed to "if you're living your purpose, it's in the moment. It's not in the future. So this is the moment"; the operational move [[ask-the-question-as-you-live-your-purpose]] which makes the principle visible somatically rather than just conceptually; the principle deployed in the first beat to interrupt a seeker whose chronic futurity was the dominant feature of the concern)
