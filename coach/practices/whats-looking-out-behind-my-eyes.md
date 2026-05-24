@@ -5,7 +5,7 @@ title: "What's Looking Out Behind My Eyes?"
 aliases: ["whats looking out behind my eyes", "what is looking out", "behind the eyes inquiry", "the eyes question", "shift to awareness practice", "who is looking out"]
 tags: ["voice in head", "practice", "self-inquiry", "awareness", "self-realization"]
 related: ["voice-in-the-head", "what-am-i", "self-realization", "wonder", "awareness-as-change-agent", "projections"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart", "2022-10-26_Who Is The Voice In Your Head"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart", "2022-10-26_Who Is The Voice In Your Head", "2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂"]
 ---
 
 # What's Looking Out Behind My Eyes?
@@ -102,6 +102,22 @@ The implication: this is not a state to be attained. It is a state that small ch
 
 This is also a useful frame when working with someone who feels they cannot access the inquiry. The instruction shifts from "produce this state" to "remember when this state was natural, and notice that you have not actually lost the capacity to enter it." The remembering can be the doorway.
 
+## The Practice as the Exit from Self-Sabotage and Self-Improvement
+
+A specific framing Joe uses to position this practice as the actual answer to a chronic problem people try to solve with willpower or self-improvement.
+
+The pattern: a person is trying to stop self-sabotaging. They have read the books, run the protocols, done the years of work. The sabotage persists in subtle forms. They want a stronger move.
+
+The move Joe points to is not a stronger improvement protocol. It is the question. The reasoning: self-sabotage and self-improvement are both attempts to escape the ego — see [[self-improvement-as-self-annihilation]]. As long as the identification with the voice is in place, both the sabotage and the improvement will keep operating to address what the voice is producing. The thing that actually ends the cycle is not better management of the voice but recognition of what is looking at the voice.
+
+"If you really want to stop the self-sabotage, find out what you really are. Find out what's actually there beyond all the sabotage, behind all of the self-improvement. The thing that's always been there, that is always going to be there, that no matter what, from infant to adulthood, has always been there. Find out what's looking out behind your eyes and the self-sabotage will end." -- Joe Hudson, Walk with a Master Coach
+
+The pointing-move embedded in the framing: the thing that has always been looking out is the answer. Not the construction of a better self. The recognition of the awareness that has been there the whole time, from the body of the infant to the body of the adult. The continuity of the awareness across all the identity-changes is the actual self. The self-sabotage runs on the small self. The recognition of the actual self is what makes the small self lose its claim to be running the show. The sabotage then ends as a byproduct, not as the target of effort.
+
+This is also how the practice unifies with [[loving-all-parts]] and [[love-causes-annihilation]]. The recognition does not require the small self to die. The small self continues to talk. But the identification with it loosens. From that loosening, the small self can finally be loved — because it is no longer claiming to be what you are. The annihilation the small self was fearing turns out to be the very thing that lets the small self be welcomed home rather than fought.
+
+When this framing lands, the person stops looking for the next improvement and starts asking the question. The asking is the actual work the self-sabotage was preventing them from doing.
+
 ## The Question as Joe's Integration Prompt
 
 Joe uses this question explicitly as a closing prompt at the end of episodes that touch the projection of I. In "Your World is a Projection," after describing the four kinds of projection, he offers it as the third integration question:
@@ -117,3 +133,4 @@ The instruction to not answer is important. The question is the practice. Trying
 - 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2026-01-06_Walk with a Master Coach: "Self-improvement is self-destruction" -- Joe pointing to this practice as the exit from chronic self-sabotage and self-improvement; the framing that finding what is looking out behind your eyes is what ends the sabotage loop; the framing of the awareness as the thing that has always been there from infant to adulthood

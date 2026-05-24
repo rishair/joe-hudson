@@ -4,7 +4,7 @@ id: if-you-couldnt-feel-this-whats-underneath
 title: "If You Couldn't Feel This, What Would Be Left to Feel?"
 aliases: ["if you couldn't feel the guilt what's underneath", "what's underneath the emotion question", "peel down through the emotion layers", "the underneath question", "assume you can't feel X what would be left", "the can't-feel-X what's-underneath move", "the layered emotion descent", "the emotion-stack descent move", "descend through the blocker emotions", "go underneath the current emotion", "if this emotion weren't there what would be", "removing the top layer to find the next one", "the each-layer descent", "if you couldn't have that reaction what would you feel or notice", "the if-you-couldnt-feel-it question for non-blocker emotions", "the question for finding what's under a strong reaction", "if you couldn't hate it what would you feel", "the hypothetical removal of the strong reaction", "if you couldn't have a should what would you have to feel", "if you couldn't feel the should what would be underneath", "the should-as-blocker variant", "if you couldn't feel the obligation what's there", "the give-me-a-specific should-variant", "what's the one specific thing you should yourself for"]
 tags: ["moves", "emotional inquiry", "blocker emotions", "feel-over-figure", "feeling sequence", "descent", "AOA", "Tara Howley"]
-sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2025-02-28_So You're Not Dead Yet- Lessons From Chemotherapy | Tara Howley with Guest Micha", "2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)", "2026-01-08_This is why you're so hard on yourself (Coaching with Joe)"]
 ---
 
 # If You Couldn't Feel This, What Would Be Left to Feel?
@@ -137,6 +137,33 @@ The variant is documented separately because:
 
 See [[im-judgmental-how-do-i-stop]] for the concern this variant most often serves and [[whats-wrong-with-this-moment]] for the present-moment question that often follows the silence-arrival.
 
+## Application to Self-Judgment as a Blocker (The "If You Couldn't Judge Yourself for X" Variant)
+
+The judgment-as-blocker variant has a sibling form when the judgment is aimed inward rather than at another person. The dedicated question article is [[what-would-you-have-to-feel-if-you-couldnt-judge-yourself-for-x]]; the structural notes here are the move-level features.
+
+The form Joe uses: "What would you have to feel if you couldn't judge yourself for [the specific thing]?"
+
+The variant has the same specificity-step as the other judgment variants: a generic self-judgment ("I judge myself for being bad") does not produce a clean descent. The work is to push the person to name a single concrete self-judgment first ("you judge yourself for what?") and then run the question on the concrete form.
+
+The variant has a distinctive iterative use: ask the question for three different specific self-judgments in succession. The set of answers across iterations reveals the system-level pattern. Often the first answer is sadness, the second is anxiety, and the third is "want to feel depressed" or shame — a sequence that maps the way the system has been routing the anger into multiple downstream forms.
+
+The canonical iterated sequence from the source session:
+
+- **Iteration 1:** "What would you have to feel if you couldn't judge yourself for not being good enough?" → "I think sadness."
+- **Iteration 2:** "What would you have to feel if you couldn't judge yourself for not living up to life?" → "I'm feeling anxious."
+- **Iteration 3:** "What would you have to feel if you couldn't think to yourself, 'I'm not being a good son to my parents'?" → "I want to feel depressed if I—"
+
+The third iteration is the diagnostic moment. The answer "want to feel depressed" is not the underneath-feeling itself; it is the downstream product of anger that was suppressed on arrival. The coach can see what the body did — produce anger, then invert it into the inward-pointed form — and can name the inversion: "what your body did was anger, and as soon as it showed up, you went to shame."
+
+The variant is documented separately because:
+
+- It requires the specificity-step that the blocker-emotion form does not, and that step usually has to be repeated for each iteration of the iterated use
+- The iterative-use protocol (three iterations to reveal the architecture) is distinctive and is not part of the standard blocker-emotion descent
+- The descent often does not arrive at a single clean underneath-feeling but at the [[anger-flips-to-shame-on-arrival]] read — the system is producing the underneath-feeling (anger) but inverting it on arrival, and the work is not to descend further but to name the inversion and run the [[one-minute-anger-with-eye-contact]] corrective
+- The bottom of the descent in many cases is the chronic self-judgment / chronic depression itself, which is the standing form of the inversion. The work is not to find a deeper layer but to interrupt the inversion at the moment it happens
+
+See [[my-inner-critic-wont-stop]] and [[how-do-i-love-myself]] for the concerns this variant most often serves, and [[anger-flips-to-shame-on-arrival]] for the read that often emerges from running this variant.
+
 ## Application Beyond Blocker Emotions: Strong Reactions in General
 
 The move was developed in the context of blocker emotions (guilt, shame, judgment) — the canonical case. The same structure works on any strong reaction that is functioning as a top layer, even when the reaction is not technically a blocker emotion. A strong "I hate this" or "I love this" or "fuck you" can be operating as a layer that holds something else off.
@@ -198,3 +225,4 @@ The blocker emotions are designed to keep the underneath material from surfacing
 - 2025-03-01_I'm Not Dead Yet： Life Lessons from Chemotherapy ｜ Tara Howley with Guest Michael Nagle (the expanded version of the same conversation; the full exchange showing Tara honoring the hate first -- "I totally, fully, 100% get -- I hate it" -- before deploying the hypothetical-removal question; the timing of the move after the validation as part of why it lands)
 - 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the should-as-blocker variant; the explicit specificity-step ("give me a specific. I want a specific. What's the one specific thing that you should yourself for?") before running the hypothetical removal; the multi-layer descent from should ("I should be more productive") through aimlessness through panic to existential dread; the bottom of the descent landing on freedom-territory rather than on heartbreak/love
 - 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the judgment-as-blocker variant; the specificity-step ("think back in your history of a time where that person was definitely doing it and you were definitely judging them"); the hypothetical-removal applied to the anchored moment ("imagine there is just no possible way on earth you could judge them. What would you have to feel?"); the descent landing on silence/nothingness rather than on another emotion; the silence as the territory the judgment-activity had been protecting against
+- 2026-01-08_This is why you're so hard on yourself (Coaching with Joe) — the self-judgment-as-blocker variant aimed inward (the question form "what would you have to feel if you couldn't judge yourself for X?"); the iterative-use protocol of asking the question across three different specific self-judgments to reveal the system-level pattern; the third-iteration revelation of [[anger-flips-to-shame-on-arrival]] when the answer is "want to feel depressed" rather than a clean underneath-feeling; the "just in one word" specification that prevents intellectualization; the "don't think, feel" interrupt; the descent often ending not in a deeper feeling-layer but at the inversion-pattern that needs the [[one-minute-anger-with-eye-contact]] corrective rather than further descent

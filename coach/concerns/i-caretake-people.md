@@ -4,7 +4,7 @@ id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
 aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form", "I'm trying to manage him into happiness", "I'm trying to save my partner", "I'm trying to fix my partner so I can love them again", "I'm trying to bring back the person I fell in love with"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-07-01_Should I Stay With My Ex？", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-07-01_Should I Stay With My Ex？", "2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson)", "2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -133,6 +133,30 @@ When this is the presentation, the work is not the decision. The decision is dow
 
 A specific strategy often surfaces underneath the stay-or-leave question: the caretaking is functioning as a way to bring back the partner the speaker fell in love with. "I'm managing him into happiness so I can get back the same man I fell in love with." Joe names this strategy as the love-killer: the management IS the love-loss, and the strategy is reaching for the love it is killing. See [[responsibility-stops-love]] for the principle and [[qa-trial-separation-client]] for the canonical example.
 
+## The Chronic-Indecision-And-Driving-Them-Crazy Form
+
+A specific shape of this concern presents when the caretaking has produced a stuck place in the relationship and the person frames the resulting symptom — their own chronic indecision — as the problem. "I am completely driving my boyfriend crazy. I've been stuck in this for like 2 years." The framing is not about the relationship as a deliberation (stay vs leave) and not about the caretaking as a recognized pattern; it is about the speaker's own freeze as the malfunction that is hurting the partner.
+
+The diagnostic markers specific to this shape:
+- The duration is named in years and the chronic-ness is part of the presentation.
+- The partner's pain is named explicitly as the harm being caused; the speaker's own suffering is offstage or subordinate.
+- The request is to *stop* a behavior (the indecision, the driving-them-crazy) rather than to feel something not yet felt.
+- The speaker often self-identifies as codependent and may already be doing some work on it; the label has not produced movement.
+- A history of acute earlier-life manifestations (sudden breakups with no notice, abrupt cutoffs) that have now turned into chronic forms (limbo, freeze, can't-go-forward-can't-leave).
+
+In this form, the configuration includes a specific measurement system Joe surfaces directly: the speaker uses the partner's anger as the signal that they themselves have done wrong. See [[dont-use-others-anger-as-the-signal-youve-done-wrong]]. The system was usually childhood-installed and is the engine of the chronic indecision — any move toward presence would risk producing partner-anger, which the system reads as evidence of speaker-wrongdoing, which keeps the management active.
+
+The work for this form has a specific shape:
+1. Name the framing as the diagnostic ([[what-made-you-phrase-it-around-them]]) so the configuration becomes visible in the first turns.
+2. Surface the avoided emotions ([[what-do-you-have-to-feel-when-they-re-pissed]]) — usually shame, anger-at-self, and anger-at-partner cycling.
+3. Name the trilemma ([[pleasing-is-leaving-just-like-anger]]) so the pleasing-as-right-answer is taken off the table.
+4. Install the new measurement system via role-play ([[apply-trauma-lens-during-role-play]]) so the body experiences staying-in-itself during partner-anger.
+5. Land the integrity binary ([[your-job-is-to-be-with-the-pain-or-leave]]) as the takeaway.
+
+This work can land in 9-10 minutes when the configuration is visible quickly. See [[im-stuck-in-indecision-and-driving-my-partner-crazy]] for the dedicated concern and the source session "Watch Her 2-year Relationship Paralysis Dissipate" for the canonical short-form demonstration.
+
+This form differs from [[should-i-stay-with-my-ex]] in that the person is not asking for help deciding — the decision-frame has metabolized into a felt symptom (the freeze) and the request is to fix the symptom. The first-move correction is therefore different: surfacing the framing rather than refusing to adjudicate.
+
 ## The Obsessive-Caretaking / Fix-Everything Form
 
 Some caretakers do not localize their caretaking to family or partner. They caretake everywhere: the partner, the kids, the colleagues, the strangers, the world's injustices. The pattern has expanded into a whole way of being. They describe themselves as people who always have to fix something, always have to stand up against unfairness, always have to make sure others are okay.
@@ -149,6 +173,7 @@ The descent for this form runs through judgment to silence rather than through g
 
 - [[why-am-i-always-trying-to-fix]]: the broader concern when the caretaking has generalized to a whole way of being, including self, others, and the world.
 - [[should-i-stay-with-my-ex]]: when the caretaking presents as a stay-or-leave question about a long relationship.
+- [[im-stuck-in-indecision-and-driving-my-partner-crazy]]: when the caretaking has produced chronic indecision and the speaker presents that indecision as the symptom, with the request framed around the partner's pain rather than around a decision to be made.
 - [[i-feel-trapped]]: the felt cage is often the caretaking dynamic.
 - [[i-have-to-sacrifice-to-succeed]]: a related framing in the work domain.
 - [[i-should-be-doing-this]]: the should layer that often holds caretaking in place.
@@ -163,3 +188,4 @@ The descent for this form runs through judgment to silence rather than through g
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the chronic-illness-partner form, where caretaking presents as exhaustion and unexpressed anger
 - 2024-07-01_Should I Stay With My Ex? -- Q&A session demonstrating caretaking presenting as a stay-or-leave question about a trial separation; the woman is managing her depressed husband into happiness to recover the man she fell in love with
 - 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the obsessive-caretaking / fix-everything form; the woman who self-labels "obsessive caretaking behavior" and describes fixing self, others, and the world's injustices as one generalized pattern; the demonstration that this form requires the broader fix-pattern work rather than the localized caretaking work
+- 2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe — the chronic-indecision-and-driving-them-crazy form: 9-minute coaching demonstration in which the caretaking presents as years-long stuck indecision with the partner; the work surfaces the using-partner's-anger-as-wrongness-signal measurement system, names the pleasing-as-leaving trilemma, installs the trauma-lens cognitive substitution via role-play, and lands the be-with-the-pain-or-leave integrity binary

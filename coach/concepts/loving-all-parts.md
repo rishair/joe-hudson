@@ -5,7 +5,7 @@ title: "Loving All Parts"
 aliases: ["loving all aspects of self", "learning to love every part", "loving the dark parts", "love her keep her", "loving the version of you that carried the pattern", "loving who you were"]
 tags: ["self-love", "parts", "integration", "core principle"]
 related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "honor-the-patterns-intent", "integration", "reclaiming-abandonment", "stacy-father-conversation", "love-the-aspect-through-someone-else", "self-forgiveness-as-spoken-move", "five-triggers-projection-experiment"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2024-04-15_Am I A Fake？", "2024-04-29_Triggered By Others？ Watch This"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2024-04-15_Am I A Fake？", "2024-04-29_Triggered By Others？ Watch This", "2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂"]
 ---
 
 # Loving All Parts
@@ -101,6 +101,22 @@ This is the same move Stacy Brown-Philpot made with "love her, keep her" — but
 
 See [[wanting-got-wired-to-unlovability]] for why the part the body refuses is so often connected to wanting, and why the reframe to "5-year-old version of the part" is so effective at unwiring it.
 
+## The Surfacing Mechanism (Why The Parts Reveal Themselves)
+
+A specific mechanism that operates whenever the loving-all-parts work is undertaken in a sustained way: the love itself surfaces the parts that need to be loved. The practitioner does not have to hunt for the parts. They surface on their own when love is the field they can surface into.
+
+"When you start loving and feeling gratitude, all the things that you don't feel grateful for, that you don't love, come to the surface to get loved." -- Joe Hudson, Walk with a Master Coach
+
+The mechanism is operational. A person doing the [[15-minutes-of-self-love-physical-therapy-for-the-heart]] practice reliably finds new parts surfacing as the practice continues. A person doing a gratitude practice reliably finds resentments and ungrateful parts coming up. A person opening their heart to a loved one reliably finds old grief or fear arriving. In each case, the love is the food, and the parts are the fish coming up to be fed.
+
+This connects loving-all-parts to two specific practical implications:
+
+1. **You don't have to find the parts.** The hunting-for-parts approach exhausts itself. The surfacing-via-love approach generates a continuous supply of material to work with, on the schedule the system can handle.
+
+2. **Difficult emotion during love-work is the work, not the interruption.** Sadness, anger, grief, shame that surface during the loving are the parts that are arriving to be loved. The instruction is to keep loving — to love the surfaced material too. Stopping the love practice when the difficult material arrives is throwing the food away when the fish come up.
+
+See [[love-surfaces-the-unloved]] for the dedicated treatment of this principle.
+
 ## Upstream (What Leads Here)
 
 - The foundation of all coaching work
@@ -121,3 +137,4 @@ See [[wanting-got-wired-to-unlovability]] for why the part the body refuses is s
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2024-04-15_Am I A Fake？ (the cunning-reframe example; loving the part the body refused to look at by universalizing it as the will of a 5-year-old)
 - 2024-04-29_Triggered By Others？ Watch This (the universalize-the-trait move — we've all been dishonest, we all have some perfectionist in us, we all think we know things we don't — as the structural step that makes loving the trait possible)
+- 2026-01-06_Walk with a Master Coach: "Self-improvement is self-destruction" -- the surfacing mechanism: when love and gratitude are turned on, all the unloved parts come to the surface to be loved (the feeding-fish image); the practical implication that the parts to be loved do not have to be hunted for but surface on their own when love is the field; the integration that difficult emotion during love-work is the work, not the interruption to it (see [[love-surfaces-the-unloved]] for the dedicated treatment)

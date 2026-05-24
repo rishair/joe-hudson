@@ -2,10 +2,10 @@
 type: example
 id: joe-7-years-of-reichian-breathwork
 title: "Joe's 7 Years of Weekly Reichian Breathwork (What Sustained Practice Actually Changes)"
-aliases: ["Joe 7 years breathwork", "Joe's seven years of Reichian breathwork", "Joe's hour-long breathwork sessions weekly", "Joe's weekly breathwork", "Joe's pure Reich breathwork lineage", "the last pure Reich practitioner Joe worked with", "Joe's breathwork teacher who died", "Joe's transformation through breathwork", "what 7 years of breathwork changes", "Joe's orgasm laugh armoring change", "Joe's musculature change from breathwork", "the slow eroding of armoring through breathwork", "Joe and Lowen lineage", "Joe and Reich breathwork", "what years of breath journeys do", "Joe's breathwork book this big", "Joe breathwork experiments from Indian book", "Joe's pre-breathwork ripeness", "the slow accumulation of breathwork change", "Joe's body changes through breathwork"]
-tags: ["example", "story", "breathwork", "Joe's biography", "Reichian", "Lowen", "sustained practice", "transformation", "armoring"]
-related: ["activation-release-rest-cycle", "polyvagal-nervous-system-framing", "breath-as-fertile-soil-vs-breath-as-control", "emotions-live-in-muscles", "the-work-as-three-levels-of-change", "integration", "epiphany-vs-transformation", "joes-pot-habit"]
-sources: ["2024-02-16_'WTF Is A Nervous System?' With Jonny Miller"]
+aliases: ["Joe 7 years breathwork", "Joe's seven years of Reichian breathwork", "Joe's hour-long breathwork sessions weekly", "Joe's weekly breathwork", "Joe's pure Reich breathwork lineage", "the last pure Reich practitioner Joe worked with", "Joe's breathwork teacher who died", "Joe's transformation through breathwork", "what 7 years of breathwork changes", "Joe's orgasm laugh armoring change", "Joe's musculature change from breathwork", "the slow eroding of armoring through breathwork", "Joe and Lowen lineage", "Joe and Reich breathwork", "what years of breath journeys do", "Joe's breathwork book this big", "Joe breathwork experiments from Indian book", "Joe's pre-breathwork ripeness", "the slow accumulation of breathwork change", "Joe's body changes through breathwork", "Michelle the breathwork teacher", "Joe and Michelle", "Tara as the entry into embodied work", "how Joe found embodiment", "sitting naked on a bed breathing while she pushed on muscles", "the vomit is release moment", "Joe's body was very unsafe before embodiment", "the bruises from breathwork", "the Lowen-influenced therapist Joe worked with", "every therapy session was a physical release"]
+tags: ["example", "story", "breathwork", "Joe's biography", "Reichian", "Lowen", "sustained practice", "transformation", "armoring", "embodiment", "Tara", "Michelle"]
+related: ["activation-release-rest-cycle", "polyvagal-nervous-system-framing", "breath-as-fertile-soil-vs-breath-as-control", "emotions-live-in-muscles", "the-work-as-three-levels-of-change", "integration", "epiphany-vs-transformation", "joes-pot-habit", "joes-experience-gathering-orientation", "joes-first-meditation-retreat"]
+sources: ["2024-02-16_'WTF Is A Nervous System?' With Jonny Miller", "2026-01-02_How I Learned To Stop Fighting Myself", "2026-01-02_What Happens When You Finally Feel Everything"]
 ---
 
 # Joe's 7 Years of Weekly Reichian Breathwork
@@ -83,6 +83,46 @@ Joe uses his own breathwork journey when:
 
 It's also one of Joe's rare moments of explicitly biographical disclosure — he's usually pointing at the work rather than himself. The example is offered because the question called for it, not as self-promotion.
 
+## How Joe Found the Embodied Work (Tara, Michelle, and the Lowen-Influenced Therapist)
+
+The route into the embodied work is its own important detail. Joe did not seek it out from a self-development reading list. He came to it through who he lived with and who he ran into.
+
+**Tara as the entry point.** After the meditation retreat at 26 where Joe had his first oneness experience, he had the immediate recognition that the "head awakening" was not an end. It was a beginning. The non-duality and meditation work he had been doing was very head-oriented. His body was, in his own words, "very unsafe" — he had been taught not to care about his body, not to listen to his feelings, not to cry. The head was his only access point.
+
+Then he happened to live with Tara. Tara was an actress and was already deeply into the embodied emotional work. The proximity made the territory visible to him. He knew "there was something over in that corner," even before he had a way in.
+
+"I happened to live with a woman who was highly into the embodied emotional thing because she was an actress, Tara, and like, so she learned all that stuff. So I was also exposed to it. I knew there was something over in that corner." -- Joe Hudson, How I Learned To Stop Fighting Myself
+
+**The entry move: noticing somebody who had changed.** The actual first step in was not through Tara directly. Joe describes a recurring pattern that introduced him to most of the modalities he eventually worked with: he would run into a person on the street and notice that something significant had changed in them since he had last seen them. He would walk up and ask: what the fuck happened to you? Whatever they were doing, he wanted to try.
+
+"The first thing that happened was I was in downtown one day and this person walked by and I was like, what the fuck happened to you? Which is where I found most of the modalities, was I saw a significant change in somebody and I went, what — whatever it is you're doing, tell me what it is, I'm just gonna go do that thing." -- Joe Hudson, How I Learned To Stop Fighting Myself
+
+The person he ran into that particular day had been working with Michelle.
+
+**Michelle as the teacher (now dead).** Michelle was the breathwork teacher Joe worked with for the seven years. The format: he sat naked on a bed and breathed. She watched his body for where the muscles were holding. She pushed on whatever was holding. The pushing was not gentle. Joe describes coming out bruised.
+
+The transmission was not only technical. Michelle had her own unusual quality as a human, which Joe names directly:
+
+"She had her own issues, but she was just like incredibly emotionally fluid. She had no — she said what she wanted to say. There was no filter in her world." -- Joe Hudson, How I Learned To Stop Fighting Myself
+
+The no-filter quality of the teacher is itself a teaching. The student is being shaped not only by the technique but by what kind of human is delivering the technique. Michelle's emotional fluidity was part of what made the work transmissible. The body in front of Joe was modeling, with every interaction, what was on the other side of the work.
+
+**The vomit-is-release moment.** Joe describes one specific scene that captures both the texture of the work and Michelle's quality. He was three or four years in. In a session, he vomited.
+
+"3 or 4 years in, I vomited. And she's like, 'good, you're almost releasing.' I'm like, 'I just vomited, Michelle, come on. Like, that's a release.' She's like — " -- Joe Hudson, How I Learned To Stop Fighting Myself
+
+The scene compresses what the work was. Michelle reading vomit as not-yet-release was both technically right (the deeper holding was still there) and characteristic of how she held the work: the body's available outputs were not the destination. There was more underneath. The teaching had built-in immunity to the student's wish to call it done before it was done.
+
+**The Lowen-influenced therapist running in parallel.** Concurrently with the Michelle work, Joe was seeing a therapist whose practice was heavily influenced by Alexander Lowen. Every session, every single one, was a physical release of some kind. Not insight-and-talk therapy with occasional bodywork. The talk and the body were not separated.
+
+"I also found a worker who was really into Lowen's work. And every therapy session — it was like a therapist, but it was — and every session was a physical release of some sort. And so that really helped me get embodied." -- Joe Hudson, How I Learned To Stop Fighting Myself
+
+The two practices ran in parallel. Michelle's pure Reich work was hour-long sessions of breathing-and-pushing-on-muscles. The Lowen-influenced therapy was sessions that combined talking with somatic release. Together they constituted the embodied work that ran alongside Joe's continued meditation practice.
+
+**Why this part of the story matters.** Joe describes himself as having been able to "access peace, but joy wasn't there." Peace was available through the head work. Joy required the body to come back online. The route from peace to joy was the route from head-work to embodied work. The route from head-work to embodied work was Tara, the stranger on the street who had changed, Michelle pushing on muscles for seven years, and the Lowen-influenced therapist doing somatic release every session.
+
+The biographical lesson, when Joe tells it, is not "go find a Michelle of your own." The lesson is structural: the head-awakening is not the end. The body has to come back online. The route in is usually through a person — someone you live with, someone you run into — who is already on the other side. The work itself takes years.
+
 ## What This Connects To
 
 This example sits at the intersection of several principles:
@@ -91,7 +131,11 @@ This example sits at the intersection of several principles:
 - **[[emotions-live-in-muscles]].** The "physical musculature armoring" Joe references is the muscular holding of unprocessed emotion. Years of breathwork unwound it.
 - **[[epiphany-vs-transformation]].** The ripeness phase is epiphany. The eroding phase is transformation. They're not the same.
 - **[[joes-pot-habit]].** Related biographical material about how sustained inner work eventually released addictions Joe was carrying.
+- **[[joes-first-meditation-retreat]].** The head-awakening at 26 that preceded and made necessary the body-work; the body-work is structurally the corrective to the head-only path.
+- **[[joes-experience-gathering-orientation]].** The pattern of asking strangers "what happened to you?" and following whatever they were doing is one expression of the broader experience-gathering orientation Joe ran in his twenties.
 
 ## Sources
 
-- 2024-02-16_'WTF Is A Nervous System?' With Jonny Miller
+- 2024-02-16_'WTF Is A Nervous System?' With Jonny Miller (the core 7-year story; the orgasm-laugh-armoring changes; the ripeness-then-erosion two-phase pattern; the "book this big" Indian breathwork experimentation; the lineage discussion with Jonny)
+- 2026-01-02_How I Learned To Stop Fighting Myself (the entry-point story: Tara as the actress girlfriend who exposed Joe to embodied work; the running-into-someone-on-the-street pattern as the route to most modalities; Michelle named for the first time; the bruises from the muscle-pushing; the vomit-is-not-yet-release scene; Michelle's no-filter quality as part of the transmission; the parallel Lowen-influenced therapist who did physical release every session; the framing that the head-awakening required the body-work as corrective; the peace-without-joy formulation that named what the body-work was for)
+- 2026-01-02_What Happens When You Finally Feel Everything (companion telling of the same story with minor variations)

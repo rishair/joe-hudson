@@ -104,6 +104,7 @@ The branching point depends on what is underneath the surface complaint.
 - [[i-need-to-improve-myself]]: the project the voice manages.
 - [[ill-become-lazy-without-shoulds]]: the fear that prevents releasing the voice.
 - [[im-so-stressed-out]]: the chronic-attack from the voice is often the upstream cause of the felt stress; the voice is one of the four causes of stress ([[four-causes-of-stress]]) and softening it is upstream of nervous-system rest ([[pleasure-tells-system-its-safe]]).
+- [[why-am-i-always-judging-myself]]: the why-question form of the same underlying mechanism; the inner-critic concern is about the voice's content and constancy, the why-am-I-judging concern is the diagnostic-question form that often opens onto anger-discharge work as the path through.
 
 ## Sources
 

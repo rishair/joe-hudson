@@ -186,8 +186,11 @@ Practical. Confident. Joe speaks about this with the certainty of someone who ha
 - Toward [[gratitude-rounds-before-meetings]]: the most-named operational practice.
 - Toward [[visualize-the-reality-of-leadership]]: the move that converts power into empowerment.
 - Toward [[material-problems-are-emotional-problems]]: the underlying recognition that the business problems and the emotional problems are the same problem.
+- Toward [[capitalism-can-be-force-for-healing]]: the principle that the apparent separation between consciousness work and business is artificial, as demonstrated by the same earlier collapse of the environmental-business separation.
+- Toward [[joes-transition-from-art-to-venture-capital]] and [[joes-bad-investor-realization-led-to-coaching]]: the biographical arc that produced Joe's particular form of the practice.
 
 ## Sources
 
 - 2023-08-18_Business as a Spiritual Practice
 - 2025-11-07_A Company Culture That Moves At The Pace of AI (the principle in action in a live case study at Ona: 2.5-3 years of work with Johannes Langgraf producing the AI-pivot, the company rename, the architectural change, the 30% layoff, all navigated through the embrace-intensity/connection/alignment frame; the company-as-fastest-self-development extension of the principle for founders specifically; the Open-the-Drawer operating principle as the company-vocabulary form of embrace-intensity)
+- 2026-01-02_How I Learned To Stop Fighting Myself (the biographical origin of Joe's particular form of the practice: the 12 years of running environmental VC and consciousness nonprofits in parallel; the recognition that the bottleneck in environmental work was human ego, not technology, which collapsed the two threads into one; the "capitalism has made me what I am today" framing; the lived demonstration that the consciousness-work-vs-business dichotomy is artificial; the cross-link to [[capitalism-can-be-force-for-healing]] as the principle the biography demonstrates)

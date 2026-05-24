@@ -132,6 +132,7 @@ The closing exchange:
 - [[how-do-i-stop-seeking-approval]] — often co-occurs because the dismissal of self is what makes approval from others the substitute
 - [[my-inner-critic-wont-stop]] — the self-criticism that organizes the dismissal pattern
 - [[i-keep-doing-things-i-dont-want-to-do]] — often co-occurs because the dismissed needs leak out as compulsive behaviors
+- [[why-am-i-always-judging-myself]] — the why-question form of the same underlying mechanism; this concern is framed as a request for instruction on self-love, the why-am-I-judging concern is framed as a diagnostic question about the source of the self-judgment
 
 ## Sources
 

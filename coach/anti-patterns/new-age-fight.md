@@ -5,7 +5,7 @@ title: "The New Age Fight (Weaponizing the Communication Tools You Just Learned)
 aliases: ["new age fight", "the new age fight", "weaponizing nonviolent communication", "weaponizing NVC", "weaponizing VIEW", "I really need you to stop right now as NVC", "the protocol-as-weapon trap", "the I-just-learned-the-tool trap", "fighting using nonviolent communication", "fighting with the communication tools", "the I-statement-as-weapon move", "the needs-language-as-weapon move", "the boundary-as-control-move", "the I-feel-when-you trap as weaponized", "the spiritual-fighting trap", "fighting with feelings-language as weapon", "the new-age tools used as fight gear"]
 tags: ["anti-pattern", "fighting", "couples", "communication", "VIEW", "NVC", "weaponization", "protocols"]
 related: ["view-as-technique", "loving-presence-as-defense", "loving-to-transform", "vulnerability-as-control", "every-fight-can-bring-you-closer", "speak-your-truth-with-open-heart", "verbal-abuse-as-controlling-with-anger", "dont-do-anger-at-your-partner", "weaponized-not-caretaking"]
-sources: ["2024-10-25_How To Fight Well"]
+sources: ["2024-10-25_How To Fight Well", "2025-12-30_I've Coached 1000s of Couples. They All Have This Fight"]
 ---
 
 # The New Age Fight
@@ -69,6 +69,18 @@ The honest version of the protocol: do the inner work that produces the state, t
 
 If the state is not available right now, the honest move is to name that. "I don't have it in me to do this cleanly right now. Can we come back to this in an hour?" is more aligned with the protocols than a forced deployment of the protocol-language from a state that contradicts the protocol's purpose.
 
+## How Fast the Form Collapses
+
+A specific feature of the new-age fight: the form collapses within seconds of the first activation. The couple opens with the protocol's surface ("It makes me feel sad when you are dishonest"). The first round of exchange is in the form. Within two or three turns, the form is gone and the original-fight content has returned — but now with the protocol-language used as cover for the insults.
+
+"Typically when somebody learns a communication technique, what they're learning is how to say something, but they're not learning where to come from when they say it. This is actually why we created the Connection Course, because what we saw was that all of the communication techniques that are taught, as soon as the mind goes, then the communication technique just becomes weaponized." -- Joe Hudson, I've Coached 1000s of Couples
+
+The micro-arc: the couple does NVC for the first exchange. The second exchange already has a smuggled insult ("it makes me sad when it's so easy to trick you into lying because you're such a lying shitbag"). By the third exchange, the protocol is being used as the structural skeleton for accusation. The mind has gone; the protocol has gone with it.
+
+The structural insight: the protocol provides no defense against the mind going. The protocol assumed the underlying state would hold. When the underlying state collapses (under the first wave of activation), the protocol becomes available as the new form for the same old fight. The protocol does not have the structural integrity to hold itself together when the state it depends on is gone.
+
+This is the load-bearing reason couples in the new-age fight need the state work, not just the protocol. The protocol is fine when the state is there. The state is what is missing. Doing more protocol does not produce the state. The state has to be built through the inner work the protocol is supposed to point at, not through more reps of the protocol's outer form.
+
 ## The Particularly Brutal Variant: I'm Trying to Use the Tools Right and You're Not
 
 A specific failure mode: the deploying partner becomes meta about the protocol use. "I'm trying to do this cleanly and you keep getting defensive." The meta-move makes the deploying partner the good-faith party and the receiving partner the obstacle. The framework has been weaponized at the second order: not just used as a fight move but used as evidence of the deployer's relative virtue.
@@ -112,3 +124,4 @@ The clean form: notice that the protocol is not landing. Take that as data about
 ## Sources
 
 - 2024-10-25_How To Fight Well (Joe's naming of "the new age fight"; the "I really need you to stop right now" as NVC-disguised-as-NVC-violation example; the framing that any protocol can be weaponized; the placement in the developmental arc as the techniques-being-co-opted stage)
+- 2025-12-30_I've Coached 1000s of Couples. They All Have This Fight (added the speed-of-collapse observation — the new-age fight collapses within two or three exchanges, with the protocol's form gone by the third turn while the language remains as cover; the This-Is-40 movie scene worked example of NVC collapsing into "It makes me feel sad when you're dishonest" → "I understand it makes you feel bad when I am dishonest with you. It hurts my feelings when you treat me with contempt" → "It makes me sad when it's so easy to trick you into lying because you're such a lying shitbag"; the structural insight that the protocol provides no defense against the underlying state collapsing — the protocol assumed the state would hold, and when the state goes the protocol becomes the new form for the same old fight; the implication that the work has to be at the level of building the state, not at the level of more reps of the protocol's outer form; the explicit mention of the Connection Course as Joe's response to this pattern)

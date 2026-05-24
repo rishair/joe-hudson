@@ -102,6 +102,7 @@ He does not let the partner's depression or anger or shame become the explanatio
 
 ## Related Concerns
 
+- [[im-stuck-in-indecision-and-driving-my-partner-crazy]] — the sibling concern where the same caretaking-dynamic presents as chronic indecision in a *current* relationship rather than as a stay-or-leave deliberation about an ex. The decision-frame has metabolized into a felt symptom (the freeze) and the request is to stop the symptom rather than to be helped decide. The work-shape is closely related but the first-move correction is different: surface the framing rather than refuse to adjudicate.
 - [[i-caretake-people]] — the underlying pattern that almost always shows up here.
 - [[we-have-built-up-resentment]] — the long-form story of the same dynamic.
 - [[i-should-be-doing-this]] — the should-language that often holds the deliberation in place ("I should know what to do," "I should be able to decide").

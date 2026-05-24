@@ -5,7 +5,7 @@ title: "Every Fight Can Bring You Closer (When You Know How to Fight Well)"
 aliases: ["every fight can bring you closer", "fights that heal", "fighting well", "fighting in a way that heals", "the trend line of fighting", "fights as openings", "I can't wait to have a fight", "fighting that brings personal growth", "fight as opening into more of yourself", "fights bring you closer", "fights bring growth", "what fighting well means", "fights as spiritual path", "the relationship as growth opportunity", "the fight as the way to become more yourself", "fall into non-defensiveness quickly", "the non-defensiveness move in fighting", "the practice of non-defensive recovery", "the move from no-that's-not to yeah-you're-right", "the I-see-how-that-reality-is-true-for-you move", "your reality is true for you and mine is true for me", "the rapid non-defensiveness move"]
 tags: ["principle", "relationships", "fighting", "marriage", "growth", "trauma", "closeness", "non-defensiveness"]
 related: ["power-dynamics-as-two-defenders", "trigger", "verbal-abuse-as-controlling-with-anger", "hold-back-from-relationship-is-what-needs-healing", "arc-of-fighting-maturation", "tara-fights-that-destroyed-joes-narcissism", "trauma-heals-in-relationship", "conflict-as-evolutionary-tension", "we-never-fight", "we-have-built-up-resentment", "you-can-only-fix-yourself-in-a-fight", "regression-in-the-fight-work-is-progress", "truth-is-perspective-with-context", "loving-presence-as-defense", "you-are-responsible-for-your-own-window-of-tolerance", "name-im-in-my-trauma-as-couple-language", "your-trauma-is-equally-matched-with-your-partner", "view-can-show-up-with-anger", "how-you-fight-not-how-often", "joe-and-tara-retreat-prep-fight", "fight-agreements-made-outside-the-fight", "repair-phrase-as-trauma-deactivator"]
-sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well", "2025-01-29_The Best Trick For Having Great Fights In Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)"]
+sources: ["2024-10-25_How To Fight And Win", "2024-10-25_How To Fight Well", "2025-01-29_The Best Trick For Having Great Fights In Relationship", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)", "2025-12-30_I've Coached 1000s of Couples. They All Have This Fight"]
 ---
 
 # Every Fight Can Bring You Closer
@@ -123,6 +123,36 @@ The three elements named:
 
 The reframe: "what used to look like, oh, I have to make a trade-off now just looks like, how do we have a conversation that allows us to see each other and be of support to each other?" The trade-off frame has been replaced by the seeing-and-support frame. The fight is no longer a zero-sum negotiation. It is a creative problem-solving session in which both partners get to participate.
 
+## The Real Engagement Move (vs. the Avoidance Re-Run)
+
+Inside a live fight, the moment that decides whether the fight will heal or recycle is usually a specific instant: the partner asks a real question or makes a real reach, and the other partner either meets it or avoids it. The meeting is the move that turns the fight. The avoiding is the move that resets the fight.
+
+Joe describes the meeting move in the context of the This-Is-40 scene, naming what the husband could have said when the wife asked the loaded real question ("Would we even still be together if I didn't get pregnant 14 years ago?"):
+
+"Instead of him actually engaging in that moment, which is the real way to turn that fight into a great relationship, is to say, I'm scared that that's not the case and I don't know what to do. And I want to be able to fix it, but I have no idea how to fix it. And there's a part of me that doesn't want to fix it because I'm scared that you're going to be yelling at me my whole life. Instead of having that like full and real conversation, not one part of it, but the whole thing, which is where the marriage can actually start to change when the truth is spoken." -- Joe Hudson, I've Coached 1000s of Couples
+
+The features of the real engagement move:
+
+1. **Name the fear of the answer being yes.** Not deflect the question, not minimize it, not redirect to the question's wrongness. Name the actual fear.
+2. **Name the not-knowing.** The "I don't know what to do" is a real disclosure. The not-knowing is the substrate of the fear, and naming it is part of what makes the disclosure honest.
+3. **Name the resistance.** "A part of me that doesn't want to fix it" — the disclosure includes the part that has been working against the fix. This is the kind of disclosure that is structurally impossible from the defensive position.
+4. **Name what the resistance is protecting against.** "Scared that you're going to be yelling at me my whole life." This names the avoider's actual structural fear in the relationship.
+5. **Keep all of it in the room at once.** Not the curated piece, not the diplomatically packaged version. The whole thing.
+
+The structural condition for the move: the full and real conversation, not one part of it but the whole thing. The partial truth is what fights cycle on. The whole truth is what fights heal on.
+
+The counter-move — the avoidance re-run — is what Joe sees actually happen in the scene. The husband avoids again. The wife reads the avoidance as "you're pulling away again, there's nothing I can do." The fight returns to its loop. The opportunity has passed. The next iteration of the fight will be a little worse, because the un-met real question now sits as additional evidence in the wife's body that engagement is unavailable.
+
+## The Boundary at the End That Could Have Healed It
+
+A specific late-fight observation: when one partner finally draws an actual boundary (not a yelled un-held boundary, not a demand, but a real held limit), the boundary can be the start of the relationship's healing — if the partners can then have the conversation the boundary creates space for.
+
+"He draws a boundary, which actually is probably a good start for healing that marriage if they actually could have the conversation." -- Joe Hudson, I've Coached 1000s of Couples
+
+The conditions Joe specifies: the boundary has to be a real held boundary, and the partners have to actually have the conversation it opens. The drawn boundary by itself is not the heal. It is the structural condition that creates the possibility of the heal. Without the conversation that follows, the boundary is just a wall.
+
+This is consistent with [[good-fights-require-great-boundaries]] — the boundary is the infrastructure inside which the productive fight can happen. The drawn boundary at the end of a long avoid-and-attack fight is the marker that the avoider has stopped avoiding. The next move (the actual conversation) is the marker that the relationship can move. Both are required.
+
 ## When Someone Experiences This
 
 - Looking back on a recent fight with peace and seeing the growth in it
@@ -172,3 +202,4 @@ Joe says this with the easy conviction of someone who has been through it. The "
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the destination orientation restated in the relationship-toolkit format; the high-powered-lawyer-and-VC couple story as the canonical example of a couple whose fights had become trivial coffee-maker fights and whose relationship transformed in 6-8 months once both committed to (1) fighting respectfully and (2) speaking their truth despite what it might do to the other; the "we judge it by how we fight" reframe; the Joe-and-Tara reaching the agreement "I recognize I'm not here right now, I'm in my trauma, I need to feel my stuff" and the fight-just-ending-into-being-held that follows)
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the explicit naming of what most fights are actually about: do-you-love-me / am-I-safe / who's-in-charge / interlocking-shame-and-feeling-unseen; the 3-years-of-absolute-hell + dual-commitment-to-own-transformation as the survival move; "most of the fighting stopped when we stopped trying to transform each other and just worked on ourselves" as the specific shift that ended the recursive damage; the constant-faith-that-both-needs-can-be-met as the live operational form inside the fighting practice; the "what used to look like, I have to make a trade-off now just looks like, how do we have a conversation that allows us to see each other and be of support to each other" reframe; the three elements named for the both-needs-met work — willingness to experiment, willingness to be wrong, non-defensiveness)
 - 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)
+- 2025-12-30_I've Coached 1000s of Couples. They All Have This Fight (added the real-engagement-move that turns the fight, named in five features: name the fear of the answer being yes, name the not-knowing, name the resistance, name what the resistance is protecting against, keep all of it in the room at once; the structural condition that the full and real conversation requires the whole thing, not the curated piece; the counter-form where the partner avoids the real question and the fight resets with the un-met question as additional evidence in the partner's body that engagement is unavailable; the late-fight boundary observation that a real drawn boundary at the end of an avoid-and-attack fight is the structural condition for healing if the partners can then have the conversation it opens)

@@ -4,7 +4,7 @@ id: become-the-authority-figure
 title: "Become the Authority Figure"
 aliases: ["role-play the authority", "I'll be your boss", "live role-play", "stand in for the trigger", "be the dad", "role-play move"]
 tags: ["live coaching", "role-play", "authority", "practice", "embodiment"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe"]
 ---
 
 # Become the Authority Figure
@@ -81,6 +81,23 @@ This variation is appropriate when:
 
 The mechanics are otherwise the same: flag the role-play, deliver in role without softening, return to own voice when the moment completes. Joe's brief acknowledgment in role -- "You have every right to be mad at me. Yeah, I know that's not what they would say." -- both honors what the person expressed and returns the frame to coaching.
 
+## Variation: Become the Angry Partner With a Specific Cognitive Instruction
+
+A third variation: Joe plays the partner getting angry — not to give the speaker practice with a new stance, and not to let them say words they never said, but to install a specific cognitive substitution in the live condition.
+
+The variation has a distinctive structure. Before delivering the role-played anger, Joe gives the speaker a single specific thought to think during the role-play and only that thought: *this is about their trauma, this isn't about me*. The role-play then delivers the partner's anger sharply enough to trigger the speaker's automatic measurement system (which has been using partner-anger as the signal of speaker-wrongdoing), and the cognitive substitution interrupts the automatic firing.
+
+"I'm going to get angry and you are going to look at me and you're going to think, and I'm going to say it, right? But you're going to look at, it's going to come from me, not from the boyfriend. You're going to look at me and you're going to literally have the thought process that is, oh, this is about his trauma. This isn't about me. That's all you're going to think." -- Joe Hudson, Watch Her 2-year Relationship Paralysis Dissipate
+
+The variation is appropriate when:
+- The speaker has surfaced that they use the partner's anger as the signal of their own wrongdoing ([[dont-use-others-anger-as-the-signal-youve-done-wrong]]).
+- The configuration is the caretaking trilemma ([[pleasing-is-leaving-just-like-anger]]) and the speaker needs a body-experience of staying in themselves during partner-anger.
+- The work needs to surface the underlying feeling (heartbreak about the partner's pain) that the management has been preventing.
+
+The variation differs from the standard authority-figure version: there the speaker is practicing a *new stance* they have already located somatically; here the speaker is applying a *single cognitive substitution* that interrupts the automatic measurement system. The standard version is practice; this version is installation.
+
+See [[apply-trauma-lens-during-role-play]] for the dedicated treatment of this variation.
+
 ## Related
 
 - [[upright-undefended-love]]: the stance the role-play is designed to test
@@ -90,9 +107,13 @@ The mechanics are otherwise the same: flag the role-play, deliver in role withou
 - [[voice-in-the-head]]: the parent-stand-in variation often surfaces the source of the voice
 - [[im-exhausted-holding-space-for-my-partner]]: the parent-stand-in variation often appears in this concern, where the should-toughen-up voice traces to a childhood figure
 - [[coach-demonstrates-via-reversed-role-play]]: the inverted variant where the client plays the trigger and the coach demonstrates the new stance — used when the client cannot picture the new stance being possible and needs to see it land before trying to embody it themselves
+- [[apply-trauma-lens-during-role-play]]: the partner-anger variation with the single-cognitive-substitution instruction
+- [[dont-use-others-anger-as-the-signal-youve-done-wrong]]: the anti-pattern the partner-anger variation addresses
+- [[im-stuck-in-indecision-and-driving-my-partner-crazy]]: the concern the partner-anger variation often serves
 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session where Joe used the parent-stand-in variation to let Sadie speak the words she had never said to her parents about being trained to caretake
+- 2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe -- the angry-partner-with-cognitive-instruction variation: Joe role-plays the partner's chronic angry monologue while instructing the speaker to apply the single thought "this is about his trauma, this isn't about me"; the role-play interrupts the automatic measurement-system firing and lets the underlying heartbreak about the partner's pain surface in the speaker's body

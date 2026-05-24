@@ -5,7 +5,7 @@ title: "Fake the Anger to Let It Move"
 aliases: ["fake it to make it for anger", "perform the anger before you feel it", "acting your way into anger", "the body needs the shape first", "rehearse the angry motion", "perform anger as practice", "play the angry five year old"]
 tags: ["practice", "anger", "fake it", "release", "embodiment", "performance"]
 related: ["anger", "joes-crying-story", "daily-emotional-yoga", "treat-yourself-as-actor-of-emotion", "three-childhood-origins-of-anger-repression", "observer-vs-immersion-by-anger-type", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson)", "2026-01-08_This is why you're so hard on yourself (Coaching with Joe)"]
 ---
 
 # Fake the Anger to Let It Move
@@ -135,6 +135,33 @@ This is the same mechanism as the fake-it practice run by the client on themselv
 
 The coach has to be willing and able to make the motion at full size. A coach who is themselves uncomfortable with the dominating-form cannot deliver a credible model, and the client's body will read the discomfort and decline to match. This is one reason coaches working with anger need to have done their own anger-work first.
 
+## The Compact In-Session Form (Fake-It as Live Demonstration)
+
+The practice has a compact in-session form deployed as a live demonstration of [[shame-is-anger-turned-inward]] when the client has just had the [[anger-flips-to-shame-on-arrival]] read named. The full protocol is documented as a separate move: [[one-minute-anger-with-eye-contact]]. The features of the practice that adapt for the in-session form are noted here.
+
+The compact form has three modifications from the standard solo practice:
+
+1. **The duration is bounded to one minute.** Long enough for the body to commit to the performance, short enough that the client can tolerate the unfamiliarity. The single minute is also the dose that produces a measurable change in the body's downstream symptom (depression, heaviness), which is the demonstration the in-session form is for.
+
+2. **Eye contact with the coach is added as a structural feature.** The standard solo practice is performed in privacy; the compact in-session form is performed in eye contact with the coach. The eye contact prevents the reinversion of the anger that would otherwise happen the moment the client looks down or away. See [[one-minute-anger-with-eye-contact]] for the full explanation of why eye contact is the load-bearing feature.
+
+3. **The script is pre-supplied as the "I don't have to" form.** Rather than letting the client find their own anger content, the coach provides a script that converts the specific shoulds the client named earlier in the session into "I don't have to" refusals. The pre-supplied script accelerates the entry into the performance (no time spent inventing content) and uses the body's existing relationship to the specific shoulds as the push-against material.
+
+The compact form is appropriate when:
+
+- The session has just surfaced [[anger-flips-to-shame-on-arrival]] and the client needs the demonstration that moving anger releases the inverted symptom
+- The client has presented with chronic self-judgment, depression, or "I'm always hard on myself" and has not previously felt anger move outward
+- The session is going to close with a take-home prescription ([[get-angry-in-the-car]], the standard solo form of this practice) and the in-session demonstration is needed to give the prescription felt-stakes
+- The setting permits brief raised-voice performance
+
+The compact form is NOT appropriate when:
+
+- The client has had significant trauma around being commanded to perform emotion (the acting frame can replay the trauma if the client is not regulated)
+- The client is in a public or thin-walled setting where the performance would be overheard
+- The session is in early rapport-building and the client does not yet trust the coach enough to maintain the eye contact
+
+The compact form is functionally the same mechanism as the solo practice, with the modifications above. The shared mechanism is: perform the motion before the felt state arrives; the body learns the motion; the felt state arrives partway through the performance; the held inventory of the corresponding inverted-direction emotion (shame, depression) is depleted.
+
 ## In Coaching
 
 When a person reports they cannot access anger:
@@ -177,3 +204,4 @@ Light. The practice is permissioned playfulness. The instruction "just fake it" 
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
 - 2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional (Brett's articulation of the sincerity distinction — that faking-with-sincerity creates an invitation the body can follow, while faking-as-a-trick-on-yourself produces resistance and nowhere-ness; Joe's confirmation of the distinction and the bridge from this practice to the "most convincing performance" framing of the actor stance)
 - 2025-11-13_50 Years of Numbness Dissolved in 15Mins of Rage (Coaching with Joe Hudson) — the coach-modeled-version subcase; when client's "fuck you, I'm not a train wreck" repeatedly arrived as convincing rather than dominating, Joe performed the dominating-form himself ("Fuck you, fuck you, I'm not a train wreck") at the actual energy-level the motion required, giving the client's body the felt-template to match; the modeling pre-condition that the coach has to be able to make the motion at full size for the client's body to read the model as credible
+- 2026-01-08_This is why you're so hard on yourself (Coaching with Joe) — the compact in-session form of the practice as a live demonstration of [[shame-is-anger-turned-inward]]; the one-minute bounded duration as the demonstration dose; the eye-contact-with-coach modification as the structural feature that prevents reinversion during the performance; the pre-supplied "I don't have to" script that converts the client's named shoulds into refusals; the measure-perform-remeasure protocol that gives the client felt-evidence of depression depleting in real time; the session uses the compact form to give the take-home solo practice its felt-stakes

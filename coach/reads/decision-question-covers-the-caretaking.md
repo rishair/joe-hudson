@@ -4,7 +4,7 @@ id: decision-question-covers-the-caretaking
 title: "The Stay-or-Leave Decision Question Covers the Caretaking Pattern"
 aliases: ["decision question covers the caretaking", "the stay-or-leave question is the caretaking question", "should-I-stay covers the caretaking", "asking whether to stay covers the management dynamic", "the relationship-decision frame covers the caretaking work", "the stay-leave fork is the caretaking pattern in disguise", "the divorce-decision covers the obligation pattern", "should-I-divorce covers the responsibility-for-them pattern", "presenting the relationship as a decision covers the caretaking", "decide-whether-to-stay as cover for managing them", "the stay-or-leave question often points underneath at caretaking", "the trial-separation deliberation covers the caretaking dynamic"]
 tags: ["read", "decisions", "stay-or-leave", "caretaking", "obligation", "relationships", "diagnostic"]
-sources: ["2024-07-01_Should I Stay With My Ex？", "2024-03-01_Love and Obligation", "2024-11-19_Why He's Afraid To Commit"]
+sources: ["2024-07-01_Should I Stay With My Ex？", "2024-03-01_Love and Obligation", "2024-11-19_Why He's Afraid To Commit", "2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe"]
 ---
 
 # The Stay-or-Leave Decision Question Covers the Caretaking Pattern
@@ -117,6 +117,20 @@ The decision-frame about future relationships is the cover. The caretaking with 
 
 Joe's move is the same as in the in-relationship variant: surface the caretaking, ask how the person abandons themselves in it, then reframe the work. See [[how-do-you-abandon-yourself]] for the question. See [[should-i-be-in-a-relationship-at-all]] for the concern. The recursive layer in this variant — the person is also abandoning themselves with the inner voice that wants a relationship — is captured in [[the-question-itself-is-the-abandonment]].
 
+## The Indecision-As-Presenting-Symptom Variant
+
+A specific shape of this read fires when the person is currently in the relationship and presents the *chronic indecision itself* as the symptom they want help with, rather than presenting the decision as a question to be answered. The framing is not "should I stay with him?" but "I am driving my boyfriend crazy with my indecision and I want to stop."
+
+The structural signature for this variant: a years-long stuck place in a current relationship, presented as a freeze or paralysis rather than as active deliberation. The person describes their indecision as the engine of the partner's pain. The shape of the request centers the partner ("I'm driving him crazy") rather than centering a decision to be made. The indecision is offered as the malfunction; the work being requested is to stop being indecisive.
+
+In this variant, the decision-frame has metabolized into a felt symptom. The person is no longer presenting a fork for the coach to help adjudicate. They are presenting a behavior (their own indecision) as the problem to be fixed. The cover is more sophisticated than in the standard variant: the person is not asking the coach to adjudicate, so the coach cannot refuse to adjudicate as the move. The new cover requires a different first move.
+
+The first-move correction for this variant is [[what-made-you-phrase-it-around-them]]: name that the person framed the concern around the partner's experience rather than around their own pain, and ask what made them frame it that way. The framing-naming surfaces the configuration (the caretaking, the using-the-partner's-anger-as-signal-of-wrongdoing, the chronic self-abandonment) in the first few turns. The reframe then becomes "maybe we work on that instead of the indecision because it seems like that's kind of the core" — moving the unit of work from the presented symptom to the configuration the framing revealed.
+
+The diagnostic for the AI coach when this variant is presenting: the person is describing a years-long stuck place in a current relationship, the request is to *stop* a behavior they identify as causing the partner's pain, and the request is framed around the partner's experience rather than the speaker's own felt pain. When all three are present, the read fires; the move is to surface the framing as the diagnostic, not to engage the surface request to help-stop-the-indecision.
+
+See [[im-stuck-in-indecision-and-driving-my-partner-crazy]] for the dedicated concern, [[presenting-the-other-persons-pain-instead-of-your-own]] for the supporting read, and the source session "Watch Her 2-year Relationship Paralysis Dissipate" for the 9-minute canonical demonstration.
+
 ## How This Read Differs From the Sibling Reads
 
 - [[treating-it-as-a-decision-when-its-an-emotion]]: the general parent read. Fires for any binary deliberation that covers an avoided feeling. This is the relationship-specific child read where the avoidance is specifically about the caretaking pattern.
@@ -128,3 +142,4 @@ Joe's move is the same as in the in-relationship variant: surface the caretaking
 - 2024-07-01_Should I Stay With My Ex？ (the canonical instance: trial separation Q&A; Joe pivots from decision-help to caretaking inquiry and self-love within minutes)
 - 2024-03-01_Love and Obligation (parallel: the divorce client's stuck divorce was the same dynamic in a different stage — the inability to finish was the caretaking refusing to release)
 - 2024-11-19_Why He's Afraid To Commit (the post-divorce single variant: the man is not in a current relationship, but the active caretaking with his ex (co-parenting around a 14-year-old daughter) is generating the "relationships are too much work" story he is then projecting onto the question of whether to be in a new relationship; Joe surfaces the caretaking with the ex AND the recursive caretaking with the inner voice)
+- 2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe (the indecision-as-presenting-symptom variant: woman currently in relationship presents "I'm driving my boyfriend crazy" rather than "should I stay or leave"; the chronic indecision is the surface, the caretaking and the using-partner's-anger-as-wrongness-signal is the configuration; first-move correction is surfacing the framing, not engaging the surface request to help-stop-the-indecision; 9-minute canonical demonstration of this variant)

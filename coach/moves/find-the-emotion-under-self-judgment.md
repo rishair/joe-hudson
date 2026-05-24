@@ -5,7 +5,7 @@ title: "Find the Emotion the Self-Judgment Is Protecting You From"
 aliases: ["emotion under self-judgment", "what emotion is the judgment of yourself protecting you from", "self-judgment is protecting a feeling", "feel the emotion under the judgment", "ostracization fear under self-judgment", "the self-judgment-as-defense move", "the protective function of self-judgment", "what does judging yourself prevent you from feeling", "find the feeling under the inner critic", "judgment of self is avoiding emotion", "judgment as emotional avoidance move"]
 tags: ["moves", "self-judgment", "voice in head", "emotions", "perfectionism", "feel-over-figure", "ostracization"]
 related: ["voice-in-the-head", "three-signals-of-unfelt-emotion", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "perfectionism", "feel-over-figure", "apply-view-to-the-voice", "shame-as-disconnection"]
-sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2026-01-08_This is why you're so hard on yourself (Coaching with Joe)"]
 ---
 
 # Find the Emotion the Self-Judgment Is Protecting You From
@@ -88,6 +88,26 @@ The first question is unanswerable in any useful way and produces more loops. Th
 
 The pivot is not a refusal to consider whether something could be done differently. It is a recognition that the rehearsing-of-it is not the path to learning. The path to learning is the feeling underneath. Once the feeling moves, what to do differently next time often becomes clear without effort.
 
+## The Compact In-Session Form (When the Underneath Is Anger)
+
+The move has a compact in-session form that is used when the underneath-emotion turns out to be anger that is being suppressed at the moment of arrival. The full protocol is documented in [[one-minute-anger-with-eye-contact]]; the move-level features here are how the descent leads into the corrective.
+
+The sequence:
+
+1. **Run the dedicated question across multiple iterations.** Use [[what-would-you-have-to-feel-if-you-couldnt-judge-yourself-for-x]] across three different specific self-judgments. The iteration is not redundancy; it is mapping. Each pass reveals which downstream form the system is using to receive the inverted anger (sadness, anxiety, "want to feel depressed").
+
+2. **Watch for the moment the inversion is visible.** Often by the third pass, the body produces a brief activation that the client does not register as anger, and the activation collapses into a softer downstream form. This is [[anger-flips-to-shame-on-arrival]] in real time.
+
+3. **Name what the body did.** "What your body did was anger, and as soon as it showed up, you went to shame." The naming is offered for the client to verify from their own felt experience, not delivered as a diagnosis. The verification ("yeah, yeah") is the entry to the corrective.
+
+4. **Run the one-minute experiment.** Move immediately to the [[one-minute-anger-with-eye-contact]] protocol. The descent has produced not a feeling to feel-through but a structural problem to interrupt. The interruption is the outward-performance of the anger that has been inverting on arrival.
+
+5. **Re-measure and name.** The client checks the felt state of the downstream symptom (depression, heaviness, shame) and notices it has dropped. The naming closes the loop: the chronic self-judgment is the standing form of this inversion, and the inversion is responsive to outward anger movement in real time.
+
+This compact form is distinct from the standard underneath-emotion descent. In the standard descent, the underneath-emotion is felt; in this compact form, the underneath-emotion is anger, and anger does not get "felt-through" the way grief or sadness does. Anger has to move outward through the body. The corrective is operational (move it now), not contemplative (feel it now).
+
+The discrimination: if the underneath-emotion is grief, heartbreak, fear, or another inward-direction emotion, the standard descent applies — feel it, stay with it, let it settle. If the underneath-emotion is anger or has the structure of anger that is being inverted, the compact in-session form applies — name the inversion, run the one-minute experiment, demonstrate the relief in the body.
+
 ## When to Use This Move
 
 - The person is stuck in self-judgment after an event and cannot move on
@@ -110,3 +130,4 @@ Curious and quiet. The move is not delivered as a confrontation with the person'
 ## Sources
 
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2026-01-08_This is why you're so hard on yourself (Coaching with Joe) — the compact in-session form of the move when the underneath-emotion is anger that is being inverted on arrival; the iterated [[what-would-you-have-to-feel-if-you-couldnt-judge-yourself-for-x]] question across three self-judgments as the descent technique; the third-iteration revelation of the [[anger-flips-to-shame-on-arrival]] read; the immediate transition to [[one-minute-anger-with-eye-contact]] as the corrective when the underneath turns out to be anger rather than a feel-through-able emotion; the discrimination between the standard descent (when the underneath is grief, fear, heartbreak) and the compact form (when the underneath is anger that needs outward movement, not contemplation)
