@@ -12,8 +12,12 @@ import {
 } from 'react';
 import type { UIMessage } from 'ai';
 import { useConversationState } from '@/app/lib/state/use-conversation-state';
+import { useResourceModal } from '@/app/lib/state/use-resource-modal';
 import type { ConversationMessage } from '@/app/lib/types/conversation';
+import type { CoachUIMessage } from '@/app/lib/coach/types';
 import { ChatScrollRestorer } from './components/chat-scroll-restorer';
+import { ResourceStrip } from './components/resource-strip';
+import { ResourceModal } from './components/resource-modal';
 
 // E-041 chat surface. Adds client-side SQLite persistence on top of E-040.
 //
@@ -203,9 +207,13 @@ function HydratedChat({
   persistedIds,
   hydrationError,
 }: HydratedChatProps): React.ReactElement {
-  const { messages, sendMessage, status, error } = useChat<UIMessage>({
-    messages: initialMessages,
-    onFinish: async ({ messages: settled }: { messages: UIMessage[] }) => {
+  // E-044: type the chat as CoachUIMessage so message.parts statically
+  // includes the data-resources part that E-043 emits. The persisted form
+  // in SQLite is the bare UIMessage shape (E-041); typing it up here is a
+  // contract refinement, not a schema change.
+  const { messages, sendMessage, status, error } = useChat<CoachUIMessage>({
+    messages: initialMessages as CoachUIMessage[],
+    onFinish: async ({ messages: settled }: { messages: CoachUIMessage[] }) => {
       // Persist any message we haven't persisted yet. Settled includes both
       // user and assistant messages by the time onFinish fires. We iterate
       // in order so position columns end up sequential per R-015 schema.
@@ -218,14 +226,19 @@ function HydratedChat({
           // eslint-disable-next-line no-console
           console.error('[chat] failed to persist message', m.id, err);
           // Don't remove from persistedIds — retrying on the next turn would
-          // race against the user typing. Surface via console for now;
-          // E-044/follow-up adds a UI affordance.
+          // race against the user typing.
         }
       }
     },
   });
 
   const [input, setInput] = useState('');
+
+  // E-044: open the resource modal from a per-message strip click. The
+  // hook lives here (not inside ResourceStrip) because Suspense + nuqs
+  // requires the URL state hook to be available at a stable component
+  // identity. Passing the open function down keeps the strip dumb.
+  const { open: openModal } = useResourceModal(messages);
 
   const onSubmit = useCallback(
     (e: FormEvent<HTMLFormElement>): void => {
@@ -238,14 +251,22 @@ function HydratedChat({
     [input, sendMessage],
   );
 
+  const onOpenStrip = useCallback(
+    (messageId: string, firstSlug: string): void => {
+      void openModal(messageId, firstSlug);
+    },
+    [openModal],
+  );
+
   const isStreaming = status === 'streaming' || status === 'submitted';
 
   return (
     <div style={pageStyles.chatColumn}>
       <header>
-        <h1 style={pageStyles.title}>Joe Hudson Coach (E-041)</h1>
+        <h1 style={pageStyles.title}>Joe Hudson Coach</h1>
         <p style={pageStyles.subtitle}>
-          Persistent chat. Conversations stored in browser SQLite (OPFS). Real coach lands in E-043.
+          Local-first chat. Conversations live in browser SQLite (OPFS); only the message body
+          leaves your machine, sent to OpenRouter for the coach reply.
         </p>
       </header>
 
@@ -277,6 +298,12 @@ function HydratedChat({
               part.type === 'text' ? (
                 <span key={i}>{part.text}</span>
               ) : null,
+            )}
+            {/* E-044: subtle resource strip on assistant messages only.
+                Renders null when there's no data-resources part or it's
+                empty (e.g., pre-retrieval intro messages). */}
+            {m.role === 'assistant' && (
+              <ResourceStrip message={m} onOpen={onOpenStrip} />
             )}
           </article>
         ))}
@@ -314,6 +341,11 @@ function HydratedChat({
           {isStreaming ? 'Sending...' : 'Send'}
         </button>
       </form>
+
+      {/* E-044: resource modal renders alongside chat. Reads same messages
+          array so it always reflects the current conversation. Returns null
+          when the URL has no ?resourceModal= state. */}
+      <ResourceModal messages={messages} />
     </div>
   );
 }

@@ -88,13 +88,17 @@
     - [x] E-040 Scaffold Next.js + AI SDK + OpenRouter minimal chat
     - [x] E-041 Add client-side SQLite for full-fidelity conversation persistence
     - [x] E-042 Build wiki view: routing, rendering, internal wikilinks
-    - [~] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
-    - [ ] E-044 Build resource-attribution modal split layout
+    - [x] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
+    - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
+    - [~] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
+- [ ] G-011 Maintain a regularly-updated OpenRouter model registry with eval/cost/throughput data
 
 ## Checkpoints
 
 - 2026-05-24-wiki-start-kickoff
+- 2026-05-24-strategic-1
+- 2026-05-24-checkpoint-3
 - 2026-05-24-checkpoint-2
 - 2026-05-20-153000
 - 2026-05-20-034500

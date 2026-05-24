@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "lint": "next lint",
     "ingest": "bun scripts/ingest-coach.ts",
-    "verify:e041": "bun scripts/verify-e041.ts"
+    "verify:e041": "bun scripts/verify-e041.ts",
+    "verify:e044": "bun scripts/verify-e044.ts"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.0",
@@ -18,6 +19,7 @@
     "@openrouter/ai-sdk-provider": "^2.9.0",
     "ai": "^6.0.0",
     "next": "^16.2.0",
+    "nuqs": "^2.8.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-markdown": "^10.1.0",

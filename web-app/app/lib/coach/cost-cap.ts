@@ -56,11 +56,14 @@ export function getRemainingUsd(): number {
  */
 export function checkBudget(): { allowed: true } | { allowed: false; reason: string } {
   if (STATE.spentUsd >= BUDGET_USD) {
+    // Format both sides at the same precision so 0.0001-budget tests don't
+    // render the cap as $0.00.
+    const precision = BUDGET_USD < 0.01 ? 6 : 4;
     return {
       allowed: false,
       reason:
         `Process-level OpenRouter spend cap reached ` +
-        `($${STATE.spentUsd.toFixed(4)} of $${BUDGET_USD.toFixed(2)}). ` +
+        `($${STATE.spentUsd.toFixed(precision)} of $${BUDGET_USD.toFixed(precision)}). ` +
         `Restart the server to reset.`,
     };
   }

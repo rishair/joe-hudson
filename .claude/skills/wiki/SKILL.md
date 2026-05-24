@@ -136,6 +136,39 @@ Contains:
 - **Boundary Conditions**: When does this NOT apply? What assumptions does it rest on? This is the most important section. A finding without boundaries is a trap.
 - **Links**: `[[wikilinks]]` to related findings, experiments, goals.
 
+### Backlog Page
+
+Location: `meta/wiki/backlog/<backlog-id>.md`
+
+```yaml
+---
+type: backlog
+id: B-<NNN>
+status: raw | fleshing-out | promoted | dropped
+parent_goal: <G-XXX or "root">
+created: YYYY-MM-DD
+promoted_to: <ID if promoted to goal/research/experiment, else empty>
+---
+```
+
+Contains:
+- **The idea**: A short pitch in plain English. What is this?
+- **Open questions worth fleshing out**: The decisions that would have to be made before this could become a real goal/research/experiment.
+- **Why this is backlog (not a current goal)**: Why we're parking it. What would make it ready.
+- **Related**: `[[wikilinks]]` to existing pages.
+
+**When to use a Backlog page:** when the user (or you mid-work) raises an idea worth not-losing but not worth working on now. Ideas that need more thought, ideas waiting on something else, ideas that might become a goal later. Examples: product directions to explore after v1 ships; refactors that might pay off; research questions the current goal can't address but a future one might.
+
+**Backlog pages are NOT claimable by agents.** `./wiki.sh next` will not surface them. They are inputs for human grooming — to be re-read at checkpoint time or when conversation needs context, and explicitly promoted to a goal/research/experiment when ripe.
+
+**Promotion**: when a backlog item is ready to become real work, create the new page (`./wiki.sh create goal|research|experiment ...`) and set the backlog's `status: promoted` + `promoted_to: <new-id>`. Don't delete the backlog page; the lineage is valuable.
+
+**Demotion**: if a backlog item turns out to be a non-starter, set `status: dropped` with a one-line note on why. Same anti-deletion: the dropped-with-reason record is useful.
+
+**Triage rhythm**: review the backlog directory during strategic checkpoints. Move things from `raw` → `fleshing-out` as the surrounding work clarifies questions. Promote when ready. Drop when stale.
+
+**Auto-generated index**: `./wiki.sh rebuild-index` writes `meta/wiki/backlog/index.md` from the backlog directory contents — grouped by `parent_goal`, ordered by status (raw → fleshing-out → promoted → dropped). Read that file for a quick survey of what's parked.
+
 ---
 
 ## Commands
@@ -249,7 +282,23 @@ The single checkpoint operation. Does **operational** work every time it fires (
 1. **Git commit.** `git add -A meta/wiki/ coach/ eval/ coach-app/ web-app/` (limited to known work directories — never `git add .` blindly). `git commit -m "wiki: checkpoint <iso-timestamp>"`. Skip if nothing changed. Never `git push` without explicit user direction.
 2. **Agent health survey.** Read all currently-claimed pages' frontmatter. For each claim past its `claim_ttl` with no recent file modification, run `./wiki.sh unclaim <ID>` to free it. Run `./wiki.sh stale` for the canonical list.
 3. **Re-survey + fill slots** (only when running under `/wiki start`). If unblocked work exists and in-flight count < max-parallel, spawn `wiki-next` agents to fill open slots.
-4. **Status update — both chat AND mobile push.** Use the `PushNotification` tool for mobile; output the same summary to chat. Include: items completed since last checkpoint, items in flight (with claim age), items stuck/unclaimed-stale, any open user requests blocking forward motion, total project spend if trackable.
+4. **Status update — both chat AND mobile push.** Use the `PushNotification` tool for mobile; output the same summary to chat. Structure the chat update as TWO blocks:
+
+   **a) Project overview (PM-style, every fire):**
+   - **Phase of the project**: which goal is active, what phase of that goal you're in, what % of the goal's exit criteria are met. Example: "G-010 web-app build, Phase 3 of 4, 8/11 exit criteria ticked."
+   - **Active goal trajectory**: 1-2 sentence read on momentum. Is the work converging or expanding? Are dependencies clearing? Are there hidden blockers emerging? Example: "Foundation and persistence layers shipped this window. Only the coach pipeline (E-043) and the modal that depends on it (E-044) stand between us and goal close."
+   - **All active goals**: one line each with status. Example: "G-007 (compendium) ABSORPTION COMPLETE, awaiting backfill from G-010 audits; G-010 (web app) at 8/11 exit criteria, on critical path."
+   - **Up next**: the 1-3 next meaningful unlocks. Example: "When E-043 lands, E-044 unblocks and G-010 closes. After that: REQ-001 (vibe-check) is yours to run."
+   - **Open user requests**: items the user must resolve themselves, with what's blocked behind them.
+   - **Cumulative spend** if trackable; flag if approaching budget cap.
+
+   **b) Operational details (this checkpoint window):**
+   - Items completed since last checkpoint (with names per the Reporting convention)
+   - Items in flight (with claim age)
+   - Items stuck or unclaimed-stale
+   - Anything operationally notable (failed agents, retries, surprises)
+
+   The push notification gets a one-line digest of the project overview, NOT the operational details. Mobile is for "should I look at the laptop" decisions; chat is for the full picture. Example push: "G-010 at 8/11. E-043 (coach pipeline) in flight, 38min/60min TTL. No blockers. Next milestone: goal close on E-043 land."
 
 **Strategic pass (conditional — only when ≥10 items have completed since the last strategic pass):**
 
@@ -286,9 +335,10 @@ Run an autonomous **parallel** work loop with periodic `/wiki checkpoint` calls.
 `/wiki start` is conversational at kickoff. Do not just dive into spawning.
 
 1. **Clean the lay of the land.** Run `./wiki.sh cleanup-stale` to bulk-unclaim every claim past its TTL. This is the single-command equivalent of looping `unclaim` over `./wiki.sh stale` output. Always do this first — agents shouldn't see leftover claim residue from past completed work.
-2. **Survey unblocked items.** Read `meta/wiki/index.md` and identify ALL currently-unblocked work — both research AND experiments whose dependencies are satisfied. `./wiki.sh next` returns one item at a time and prefers research; for the candidate list, look broader.
-3. **Surface the candidate list to the user.** Group by goal, note dependencies between candidates, and call out anything that conflicts with recent conversational decisions (e.g., "the audit said X is the priority, but `next` would pick Y first"). Ask the user to confirm or reorder.
-4. **Wait for the user's go-ahead** before spawning. The exception: if the user passed `--auto` (or said something like "just go" in the same turn), skip the wait and use the default candidate order.
+2. **Project overview (PM-style).** Before listing candidates, give the user the same overview shape that the checkpoint produces: which goal is active and what phase, what was recently shipped, momentum read, all active goals one-line status, what unblocks next, open user requests, cumulative spend. This grounds the kickoff conversation in the project's actual state rather than just dumping a candidate list.
+3. **Survey unblocked items.** Read `meta/wiki/index.md` and identify ALL currently-unblocked work — both research AND experiments whose dependencies are satisfied. `./wiki.sh next` returns one item at a time and prefers research; for the candidate list, look broader.
+4. **Surface the candidate list to the user (with names per the Reporting convention).** Group by goal, note dependencies between candidates, and call out anything that conflicts with recent conversational decisions (e.g., "the audit said X is the priority, but `next` would pick Y first"). Ask the user to confirm or reorder.
+5. **Wait for the user's go-ahead** before spawning. The exception: if the user passed `--auto` (or said something like "just go" in the same turn), skip the wait and use the default candidate order.
 
 Why: `./wiki.sh next` is mechanical (research before experiments, then dependency order). Conversational priorities (audit findings, recent user direction, what just got unblocked by a sibling completion) aren't visible to it. The orchestrator's job is to reconcile both views before committing agent slots.
 
@@ -309,6 +359,18 @@ When an agent emits a terminal completion notification (NOT a heartbeat — dist
 
 - **`/wiki stop`**: Remove the cron via `CronDelete`. Let in-flight agents finish naturally. Useful at end of a work session.
 - **`/wiki pause`**: Leave the cron running (status updates continue) but suppress new spawns at checkpoint time. Useful for budget-aware pauses.
+
+**Reporting convention (apply in all status updates, chat and push):**
+
+When mentioning a wiki work item by ID in any user-facing output, **always pair the ID with a short human-readable name**. The user can't track work just by ID.
+
+- **First mention in a session**: include a fuller descriptor. Example: `E-043 (coach pipeline — graph-walk retrieval + Sonnet walker, AI SDK v5 typed data-resources telemetry)`.
+- **Subsequent mentions**: short name + ID. Example: `E-043 (coach pipeline)` or `Coach pipeline (E-043)`. Pick a short name and use it consistently.
+- **Tables and lists**: include a name column, never bare IDs.
+- **Status updates**: never write "E-043 in flight" — write "E-043 (coach pipeline) in flight." Same for completions: "E-039 (ingestion script) done."
+- **Short-name derivation**: drop ceremonial framing ("Build", "Add", "Wire") from page titles. E.g. "Build repeatable ingestion script..." → "ingestion script"; "Wire v5b coach into chat route handler" → "coach pipeline".
+
+This applies to checkpoint status, push notifications, replacement-spawn narration, completion confirmations — every user-facing reference.
 
 ### `/wiki claim <page>`
 
