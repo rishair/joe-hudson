@@ -5,7 +5,7 @@ title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
 aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love", "the reflection inside is the reflection outside", "cutting off love internally cuts off love externally", "the same move done to yourself is done to others", "the mirror move of cutting off love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
 related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love", "outer-life-mirrors-relationship-with-self", "war-with-yourself"]
-sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-17_The Cure for Self-Help Fatigue", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)", "2025-07-17_The Art of Accomplishment： End The War With Yourself"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-06-17_The Cure for Self-Help Fatigue", "2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)", "2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast)", "2025-07-17_The Art of Accomplishment： End The War With Yourself", "2025-12-23_You only get the love you can let in"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -169,6 +169,23 @@ This is the live in-the-moment form of the capacity equation. The self-acceptanc
 
 See [[drop-the-shame-to-see-them]] for the move treated as its own coaching instrument.
 
+## The Receiving Direction (You Only Get the Love You Can Let In)
+
+The capacity equation has a third direction that is structurally important and often missed. The capacity to give love equals the capacity to love self equals the capacity to receive love. All three are one capacity. The receiving direction is the one most people skip.
+
+A person whose self-love is small can pour all the love they have at a partner, and the partner can be wide open and pour all their love back, and the felt experience of being loved will still be small -- because the person cannot receive what is being offered. The receiver is the gate. The receiving capacity is set by the same self-love that sets the giving capacity. Both are gated by the same internal architecture.
+
+"I was going to get into a relationship that I was capable of being in. I was going to accept the love that I was capable of accepting. I was going to love in the manner that I was capable of loving. And it didn't have anything to do with the other person." -- Joe Hudson, You Only Get the Love You Can Let In
+
+The three sentences map the three directions:
+- "I was going to get into a relationship that I was capable of being in" -- the partner-selection direction, gated by the capacity to be in relationship at all
+- "I was going to accept the love that I was capable of accepting" -- the receiving direction, gated by the receiving capacity
+- "I was going to love in the manner that I was capable of loving" -- the giving direction, gated by the giving capacity
+
+All three are the same capacity, expressed in three directions. The variable, in every direction, is the self. See [[you-only-get-the-love-you-can-let-in]] for the receive-direction principle treated separately. The receiving direction is structurally important to add to the capacity equation because the typical strategic move people make -- "I will work harder at giving" -- skips the receive direction. The skipped direction is often where the actual constraint lives.
+
+The operational implication for an AI coach: when a person is complaining that their partner is not loving them enough, the question is not "how can the partner love better" or even "how can you love them better." The question is "what is your receiving capacity, and what would expand it." The expansion of the receive capacity is the work, and it expands the give capacity as a byproduct because the two are one capacity.
+
 ## The Self-Connection Extension (Honesty, Connection, Love All Mirror)
 
 A specific extension of the capacity equation: the principle does not just hold for love. It holds for honesty, for connection, and for any other relational capacity the person has. The structure is the same: the capacity in any direction equals the capacity in the inward direction.
@@ -193,3 +210,4 @@ The principle generalizes beyond love and honesty. Every relational capacity —
 - 2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast) (the marital form of the principle as Joe's personal report -- "the only way I could actually make our marriage work was to learn how to love myself"; the "not what I expected marriage to be" tone marker; the in-the-moment operational form -- drop the shame first, then the heart comes online, then speech from the heart becomes possible -- as the live form of the capacity equation inside a single conversation)
 - 2025-06-21_Can Marriage Make You a Better Person？ (Modern Relationships Podcast) (the re-aired version of the same interview on Joe's own podcast feed; the content is identical across the two airings)
 - 2025-07-17_The Art of Accomplishment: End The War With Yourself (the self-connection extension of the capacity equation — the principle holds not just for love but for honesty, connection, and any relational capacity; the explicit triple framing "capacity to love myself is very highly correlated with my capacity to love you / capacity to be honest with myself / capacity to connect with myself"; the principle delivered as the third of three AOA shifts in the mission frame; the dissolution of "connection is about the other person" as the misframing that keeps people stuck)
+- 2025-12-23_You only get the love you can let in (the three-direction articulation of the capacity equation -- being-in / accepting / loving -- with the receiving direction added as the structurally important third leg; the "didn't have anything to do with the other person" frame that locates all three capacities in the self; see also [[you-only-get-the-love-you-can-let-in]] for the receive-direction principle as its own article)

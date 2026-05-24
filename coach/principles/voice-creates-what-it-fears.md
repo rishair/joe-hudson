@@ -5,7 +5,7 @@ title: "The Voice in the Head Creates the Reality It's Trying to Avoid"
 aliases: ["voice creates what it fears", "the voice produces what it warns against", "perfectionist voice prevents quality", "voice's self-defeating nature", "the voice causes the thing it's preventing"]
 tags: ["voice in head", "self-fulfilling", "perfectionism", "principle", "paradox"]
 related: ["voice-in-the-head", "perfectionism", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "rebellion-or-submission-to-should", "voice-as-care"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-12-29_Fear Of Overworking"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-12-29_Fear Of Overworking", "2025-12-19_Perfectionism"]
 ---
 
 # The Voice in the Head Creates the Reality It's Trying to Avoid
@@ -32,7 +32,9 @@ The relational case: the voice says "don't say anything that will make them leav
 
 The shame spiral case: the voice criticizes a past action to prevent it from happening again. The criticism produces shame. Shame is the actual mechanism that holds bad habits in place. The voice trying to prevent the bad habit has supplied the fuel that maintains it. See [[shame-drives-behavior]].
 
-The reversion-fear case: a person takes a bold action that breaks an old pattern (quits the overworking job, leaves the bad relationship, sets the boundary). Immediately the voice starts worrying: "what if I revert?" The worry is not separate from the pattern. The worry is the pattern. The overworker overworks because they live in future-anxiety. The voice now warning about future reversion is operating in the exact tense and the exact anxiety-mode that produced the overworking in the first place. The voice trying to prevent the relapse is doing the relapse live. See [[im-afraid-ill-revert-to-my-old-pattern]] and [[quit-hope-lose-cycle]]. The recognition that lands this is felt rather than intellectual:
+The reversion-fear case: a person takes a bold action that breaks an old pattern (quits the overworking job, leaves the bad relationship, sets the boundary). Immediately the voice starts worrying: "what if I revert?" The worry is not separate from the pattern. The worry is the pattern. The overworker overworks because they live in future-anxiety. The voice now warning about future reversion is operating in the exact tense and the exact anxiety-mode that produced the overworking in the first place. The voice trying to prevent the relapse is doing the relapse live. See [[im-afraid-ill-revert-to-my-old-pattern]] and [[quit-hope-lose-cycle]].
+
+The chaos-control case: the perfectionist voice trying to control chaos is also creating chaos. The internal experience of trying to be perfect is itself chaotic -- the mind is loud, the judgments oscillate, the standard is moving, the work feels exhausting. The voice that is asking for control of chaos is the chaos. See [[perfectionism]] for the full treatment of how this case operates at the level of the body and the team and the organization. The closing of the loop in this case has a particular signature: the person says they want calm, the voice they are using to produce calm is the source of the lack of calm, and the more they listen to the voice the louder it gets. The recognition that lands this is felt rather than intellectual:
 
 > "This pattern of worrying about your what you're going to do in the future — how much of that pattern is the thing that made you overwork?" -- Joe Hudson, Fear Of Overworking
 
@@ -93,3 +95,4 @@ Matter-of-fact, slightly ironic. The pattern is darkly funny once seen. Joe pres
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2025-12-19_Perfectionism (the chaos-control case of the principle: the perfectionist voice asking for control of chaos is structurally what is generating the chaos -- the internal experience of trying to be perfect is itself extremely chaotic; the closing of the loop where the voice meant to produce calm produces the loudness it was meant to dissolve)

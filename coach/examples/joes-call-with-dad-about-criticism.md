@@ -2,10 +2,10 @@
 type: example
 id: joes-call-with-dad-about-criticism
 title: "Joe Calls His Dad to End the Criticism (The External Half of the Inner Voice Work)"
-aliases: ["Joe calls his dad about criticism", "Joe's call with his father about criticism", "Joe's dad criticism boundary", "Joe stops going home for the criticism", "Joe asks his dad to stop criticizing", "Joe's call dad when you're ready story", "the call dad when you're ready story", "the boundary Joe drew with his father after softening the inner voice", "Joe's external boundary that followed the internal one", "the year-and-a-half before dad called back", "the dad-called-back-and-stopped-criticizing story", "the dad caught himself criticizing once and stopped", "Joe's specific example of how external relationship change follows internal relationship change", "the boundary that started with the inner work", "Joe's father guilt-trip-to-come-home pattern broken", "Joe ends the criticism cycle with his father"]
-tags: ["personal example", "parents", "criticism", "boundary", "self-talk", "voice in head", "Fritz Perls", "upper dog underdog", "self-aggression-permits-others", "inner-outer mirror"]
-related: ["self-aggression-permits-others-aggression", "voice-in-the-head", "experimenting-with-the-voice", "say-ouch-to-the-inner-critic", "boundaries", "parent-criticism-as-self-talk", "joes-abandonment-mapping", "boundary-as-self-teaching", "extend-the-no-asshole-rule-inward", "i-feel-guilty-for-cutting-off-family"]
-sources: ["2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)"]
+aliases: ["Joe calls his dad about criticism", "Joe's call with his father about criticism", "Joe's dad criticism boundary", "Joe stops going home for the criticism", "Joe asks his dad to stop criticizing", "Joe's call dad when you're ready story", "the call dad when you're ready story", "the boundary Joe drew with his father after softening the inner voice", "Joe's external boundary that followed the internal one", "the year-and-a-half before dad called back", "the dad-called-back-and-stopped-criticizing story", "the dad caught himself criticizing once and stopped", "Joe's specific example of how external relationship change follows internal relationship change", "the boundary that started with the inner work", "Joe's father guilt-trip-to-come-home pattern broken", "Joe ends the criticism cycle with his father", "I wouldn't hang out with anybody who does that to me", "the I-wouldn't-hang-out-with-anyone-who-does-that-to-me framing", "the asymmetry frame Joe used with his dad", "Joe's two-years-of-silence variant of the story", "the let-me-know-when-you're-prepared-to-hang-out-with-me phrasing", "I love you and I really want to hang out with you boundary", "the love-first then limit boundary with the dad"]
+tags: ["personal example", "parents", "criticism", "boundary", "self-talk", "voice in head", "Fritz Perls", "upper dog underdog", "self-aggression-permits-others", "inner-outer mirror", "family", "home"]
+related: ["self-aggression-permits-others-aggression", "voice-in-the-head", "experimenting-with-the-voice", "say-ouch-to-the-inner-critic", "boundaries", "parent-criticism-as-self-talk", "joes-abandonment-mapping", "boundary-as-self-teaching", "extend-the-no-asshole-rule-inward", "i-feel-guilty-for-cutting-off-family", "criticism-and-management-make-loved-ones-not-want-to-be-with-you", "i-dread-going-home", "joes-parents-criticism-boundary"]
+sources: ["2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix)", "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation"]
 ---
 
 # Joe Calls His Dad to End the Criticism
@@ -66,6 +66,20 @@ Joe uses this story specifically as the concrete example for the teaching that t
 
 The story is not a story about how to confront a parent. It is a story about how internal change produces the capacity for external change that then produces relational change. The confrontation with the father is the third event in the sequence; the inner-voice work is the first.
 
+## The Asymmetry Frame Joe Used: "I Wouldn't Hang Out With Anybody Who Does That To Me"
+
+When Joe tells the story in the 2025-12-16 context (framed as the home-doesn't-feel-like-home teaching), the specific phrasing of the boundary surfaces a structural argument worth holding separately. Joe did not call his dad and present the criticism as a personal failing. He pointed at the asymmetry:
+
+"I just, I saw it. I just recognized it. And I called up my dad and I said, 'You know, every time I come home, you criticize me. You tell me what I'm doing wrong. You tell me what I need to do to be good enough. And I wouldn't hang out with anybody who does that to me. So I'm just not going to hang out with you if you're going to do that. But I love you and I really want to hang out with you. So just let me know when you're prepared to hang out with me. And not judge me, not criticize me, not try to manage me.'" -- Joe Hudson, Some Families Feel Like Home & Others Feel Like an Obligation
+
+The asymmetry frame ("I wouldn't hang out with anybody who does that to me") is the structural lever. Most family relationships run on the assumption that the obligations of family override what would be obviously unacceptable behavior from anyone else. The frame names that exception and refuses to accept it. The dad is being asked to meet the same standard any non-family person would have to meet.
+
+The phrasing also keeps the love explicit ("I love you and I really want to hang out with you") and puts the next move in the dad's hands ("just let me know when you're prepared"). This is a clean version of the boundary structure: name what you will not do, name that you still want the relationship, leave the door for the other person to choose differently.
+
+## The Two-Years Variant of the Same Story
+
+Joe tells this story across multiple episodes with slight variation in the silence-duration figure. In the 2025-03-07 telling (see [[joes-parents-criticism-boundary]]), the silence was "like 18 months." In the 2025-12-16 telling, it was "one year passed, two years passed, but he finally called." The variation does not change the structural point — the boundary held across a long period of silence without Joe softening or relitigating. The "year, two years" framing emphasizes that the boundary holding was sustained across multiple years, not just months, and that the dad's eventual return required real time. Either telling makes the same point: boundaries are not levers for fast compliance, and the cost of holding them is the cost.
+
 ## When to Reach for This Story
 
 - When someone is asking how to stop accepting bad treatment from a specific person, and they have not yet looked at their internal relationship.
@@ -73,6 +87,8 @@ The story is not a story about how to confront a parent. It is a story about how
 - When the question of "how do I draw a boundary with my parent?" arrives without the prior question "how do I stop drawing that line on myself?"
 - When someone is afraid that drawing an external boundary will explode the relationship; the story shows that it can also close a chapter that has been open for decades.
 - When teaching the bidirectional principle of [[self-aggression-permits-others-aggression]] and a worked example is needed.
+- When someone is dreading family visits and asking what to do — see [[i-dread-going-home]] and [[criticism-and-management-make-loved-ones-not-want-to-be-with-you]].
+- When demonstrating the asymmetry frame ("I wouldn't accept this from anyone else") as the structural lever for family boundaries.
 
 ## What the Story Does Not Say
 
@@ -91,3 +107,4 @@ The proportion of the telling fits the proportion of the work. Most of the chang
 ## Sources
 
 - 2025-08-19_End Toxic Relationship Patterns (The Internal Voice Fix) (the canonical telling of the story in the sequence: Perls frame -> different response to the voice -> voice softens -> external boundary appears -> call to father -> year and a half of silence -> father calls and is ready -> single catch and end of pattern; the explicit framing of the story as the demonstration of the principle that ending toxic external relationships requires ending the toxic internal relationship first)
+- 2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation (the same story retold in the context of why some homes feel like home and others feel like an obligation; the specific phrasing of the asymmetry frame "I wouldn't hang out with anybody who does that to me"; the "let me know when you're prepared to hang out with me" formulation putting the next move in the dad's hands; the "year, two years" variant of the silence duration; the explicit pairing of the call with "I love you and I really want to hang out with you" so the boundary stays open-hearted; the framing of the boundary as the adult-child's structural response to [[criticism-and-management-make-loved-ones-not-want-to-be-with-you]])

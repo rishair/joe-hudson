@@ -4,7 +4,7 @@ id: relationships-as-personal-growth-path
 title: "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom"
 aliases: ["relationships are for personal freedom", "the relationship agreement", "we're here to grow not to make each other happy", "personal freedom as relationship purpose", "the freedom agreement", "we're here for our own growth", "use the relationship for your own freedom", "the founding agreement of a healthy relationship", "the purpose of a relationship", "is this the right person answer", "are you both willing to do the work", "the work never ends after you find the person", "the diagnostic for the right person"]
 tags: ["relationships", "partnership", "marriage", "agreement", "freedom", "growth", "core principle"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death", "2023-11-10_Finding a Romantic Partner", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-13_The Mindset Shift That Transforms Dead Relationships"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death", "2023-11-10_Finding a Romantic Partner", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2025-01-13_The Mindset Shift That Transforms Dead Relationships", "2025-12-23_You only get the love you can let in"]
 ---
 
 # The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom
@@ -178,6 +178,16 @@ The 4-keys version also names the diagnostic value of the friction more explicit
 
 The closing frame the 4-keys teaching adds: "The relationship you have with another is really best reflected in the relationship you have with yourself." See [[capacity-to-love-other-is-capacity-to-love-self]] for the principle that makes the "all about you" prescription structurally coherent. The work on the self IS the work on the relationship -- not by analogy but by structural fact.
 
+## The Reframe: The Work Stops Being Work
+
+Once the agreement is operating and the partner-change project has been dropped, the relationship friction undergoes a categorical reframe. What was experienced as "the cost of being in this relationship" becomes felt as "the path to my own freedom." The work is the same work. The frame is different. The frame is what determines whether the friction is experienced as cost or as freedom-data.
+
+"As I started working on myself, then it wasn't work. Then it was like freedom. It was a gift. It was just like a deep welcoming of any conflict that we had, because I knew each conflict that we had, if we focused on ourselves, eventually we would find freedom, we would be closer, we would grow together." -- Joe Hudson, You Only Get the Love You Can Let In
+
+The reframe arrives once enough conflicts have been worked successfully that the body has learned to trust the medium. From there, the next conflict is anticipated rather than dreaded. The structural cost-benefit accounting that operates in most marriages dissolves -- the cost column collapses because there is no cost to working what was always your work to work.
+
+See [[the-work-is-your-freedom]] for the full treatment of this reframe. The "agreement that makes a relationship work" is what makes the reframe available. The reframe is what the agreement is for.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
@@ -187,3 +197,4 @@ The closing frame the 4-keys teaching adds: "The relationship you have with anot
 - 2023-11-10_Finding a Romantic Partner (Joe's standard answer to "is this the right person" -- "are you both willing to do the work"; the work does not end when you find the person; the early-marriage bumpiness in Joe and Tara's own relationship as the work in action)
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the "make it all about you" compression as the fourth key in the [[4-keys-to-save-your-relationship]] framework; the diagnostic value of every impulse to compromise as a pointer to internal work; the principle delivered together with the never-compromise principle as one move)
 - 2025-01-13_The Mindset Shift That Transforms Dead Relationships (the explicit articulation of what solo work on a relationship can and cannot produce -- it's enormously valuable as personal growth and as preparation for subsequent relationships, but it cannot unilaterally produce relationship-level change; the "let them be them and you be you" framing as the eventual structural acceptance after the inviting-them-in window closes; the linking of the principle to the iteration-commitment question for whether to stay in a relationship where the partner does not want to iterate)
+- 2025-12-23_You only get the love you can let in (the "then it wasn't work, then it was like freedom" articulation of the reframe that arrives once the partner-change project has been dropped and the relationship is being used as freedom-container; the "deep welcoming of any conflict" as the felt-experience marker that the reframe has landed; the connection to [[the-work-is-your-freedom]] as the corollary principle this principle makes available)

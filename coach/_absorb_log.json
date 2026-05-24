@@ -9246,22 +9246,143 @@
     },
     {
       "folder": "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-23T23:57:23Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "criticism-and-management-make-loved-ones-not-want-to-be-with-you",
+        "i-dread-going-home",
+        "suffocating-kids-forces-rebellion-as-only-self-route",
+        "name-your-concern-rather-than-manage-them",
+        "catholic-dad-gay-son-story",
+        "pregnant-daughter-hidden-by-unmarried-mother",
+        "joe-and-daughters-on-nagging"
+      ],
+      "articles_updated": [
+        "joes-call-with-dad-about-criticism",
+        "joes-parents-criticism-boundary",
+        "dont-hate-your-kids-and-they-wont-hate-you",
+        "obligation-as-management",
+        "dont-micromanage-your-kid"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:13:53Z"
     },
     {
       "folder": "2025-12-19_Perfectionism",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T00:03:50Z",
+      "articles_created": [
+        "change-the-approach-not-the-target",
+        "perfectionism-is-arrogance",
+        "treat-as-threat-makes-it-threat",
+        "fear-narrows-visual-field",
+        "visualize-past-the-false-end",
+        "hopi-three-sisters-planting"
+      ],
+      "articles_updated": [
+        "perfectionism",
+        "voice-creates-what-it-fears",
+        "fear-of-joy",
+        "brain-creates-a-false-end-of-the-fear"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:24:27Z"
+    },
+    {
+      "folder": "2025-12-19_Perfectionism Creates the Chaos it's trying to Prevent",
+      "status": "complete",
+      "claimed_at": "2026-05-24T00:08:23Z",
+      "articles_created": [
+        "focus-on-leverage-principles-not-everything",
+        "bureaucracy-amplifies-perfectionism",
+        "the-empire-rules-curve",
+        "reed-hastings-induces-chaos",
+        "visualize-through-the-feared-outcome"
+      ],
+      "articles_updated": [
+        "fear-of-joy",
+        "binary-thinking-signals-fear",
+        "brain-creates-a-false-end-of-the-fear",
+        "connection-over-perfection",
+        "perfectionism"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:25:29Z"
+    },
+    {
+      "folder": "2025-12-23_You only get the love you can let in",
+      "status": "complete",
+      "claimed_at": "2026-05-24T00:14:32Z",
+      "articles_created": [
+        "you-only-get-the-love-you-can-let-in",
+        "the-work-is-your-freedom",
+        "even-the-resistant-partner-is-your-perfect-match",
+        "what-is-required-from-you-to-love-them-as-they-are"
+      ],
+      "articles_updated": [
+        "complementary-trauma-surfaces",
+        "relationships-as-personal-growth-path",
+        "capacity-to-love-other-is-capacity-to-love-self",
+        "inner-work-then-they-change"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:24:23Z"
+    },
+    {
+      "folder": "2025-12-25_The #1 Emotional Processing Technique For Anyone To Do",
+      "status": "complete",
+      "claimed_at": "2026-05-24T00:25:12Z",
+      "articles_created": [
+        "guided-emotional-inquiry-script"
+      ],
+      "articles_updated": [
+        "emotional-inquiry",
+        "can-you-look-forward-to-feeling-it"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:30:56Z"
+    },
+    {
+      "folder": "2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt",
+      "status": "complete",
+      "claimed_at": "2026-05-24T00:26:23Z",
+      "articles_created": [
+        "intellectual-vs-somatic-welcoming"
+      ],
+      "articles_updated": [
+        "doubt-is-protection-from-a-feeling",
+        "doubt-requires-closed-heart",
+        "successful-people-doubt-too",
+        "you-cannot-know-the-answer-before-you-do-the-thing",
+        "open-the-heart-to-the-doubt",
+        "two-trigger-points-of-doubt",
+        "disappointment-with-self-is-the-safe-bet",
+        "speak-the-welcoming-of-the-feared-state-aloud",
+        "fear-of-success-as-projected-failure",
+        "kinked-emotions",
+        "emotional-inquiry"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T00:36:52Z"
+    },
+    {
+      "folder": "2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate \uff5c 9mins of Coaching with Joe",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T00:26:23Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2025-12-19_Perfectionism Creates the Chaos it's trying to Prevent",
+      "folder": "2025-12-30_I've Coached 1000s of Couples. They All Have This Fight",
       "status": "in-progress",
-      "claimed_at": "2026-05-24T00:08:23Z",
+      "claimed_at": "2026-05-24T00:31:30Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2026-01-02_How I Learned To Stop Fighting Myself",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T00:37:34Z",
       "articles_created": [],
       "articles_updated": []
     }

@@ -2,9 +2,9 @@
 type: concept
 id: obligation-as-management
 title: "Obligation as a Form of Management (Pushes Things Away)"
-aliases: ["obligation is management", "obligation as management", "obligation pushes things away", "managing your partner's mood through obligation", "obligation toward money pushes money away", "obligation pushes away what it tries to secure", "managing for love is the push-away", "obligation as oppressive management", "obligation as the management of others", "obligation as control disguised as care", "obligation as the management of self", "the management nature of obligation", "obligation oppresses what it touches"]
-tags: ["obligation", "management", "control", "money", "relationships", "love", "push-pull"]
-sources: ["2024-03-01_Love and Obligation"]
+aliases: ["obligation is management", "obligation as management", "obligation pushes things away", "managing your partner's mood through obligation", "obligation toward money pushes money away", "obligation pushes away what it tries to secure", "managing for love is the push-away", "obligation as oppressive management", "obligation as the management of others", "obligation as control disguised as care", "obligation as the management of self", "the management nature of obligation", "obligation oppresses what it touches", "family-as-obligation when management drives the relationship", "visiting the parents out of obligation is the management pushing both ways"]
+tags: ["obligation", "management", "control", "money", "relationships", "love", "push-pull", "family"]
+sources: ["2024-03-01_Love and Obligation", "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation"]
 ---
 
 # Obligation as a Form of Management (Pushes Things Away)
@@ -46,6 +46,16 @@ Money is the cleanest case for showing the push-away. A person who feels obligat
 "If somebody feels like they have an obligation to make money, it doesn't allow you to love money... since you can't love the money, then like, why do you want it in your life? Like, if money is this oppressive obligation, like, that doesn't really motivate you to make it. Like, you might say, oh my God, I want money, I want money. But you're not going to actually make it if it's an oppressive obligation thing that cuts off your love. Like, what? Like, we're not wired to feel obligated and cut off from love. That's not like, that's not our wiring. So, yeah. So it's inadvertently pushing money away." -- Joe Hudson, Love and Obligation
 
 The push-away here is psychological, not magical. It operates through the everyday choices that follow from felt obligation: the avoidance, the procrastination, the half-effort, the resentment that makes you reject opportunities that come with strings. The aggregate effect is the thing not arriving. See [[expensive-to-be-poor]].
+
+## How It Manifests in Family-of-Origin Relationships
+
+The application to family relationships is one of the clearest demonstrations of the concept because the obligation register is most explicitly normalized in family contexts. "You should call your mom." "Family is family." "After everything they did for you." These framings transmit the obligation. Once the relationship is being conducted from obligation, both directions of the push-away start operating.
+
+The parent who manages the adult child — through criticism, through expectations, through visible disappointment about life choices — is doing the management half. The adult child who comes home out of obligation rather than want is on the receiving end of management and reciprocating with a kind of resentful participation that is also a form of management (managing their own presence carefully to minimize the fallout).
+
+The result: family interactions feel heavy. Visits are dreaded. The desire to be together has been replaced by the obligation to be together. The closeness has receded behind a wall of mutual management. See [[criticism-and-management-make-loved-ones-not-want-to-be-with-you]] for the dynamic when this is operating in the direction of parent managing the adult child, and [[i-dread-going-home]] for the receiving-end concern.
+
+The way out is the same as in other domains of the concept: not "stop being obligated" but notice what the obligation is producing. The obligation cannot be willed away. But when both sides see that the management is pushing each other away, the pressure can drop. See [[name-your-concern-rather-than-manage-them]] for the move on the parent's side; see [[joes-parents-criticism-boundary]] for the move on the adult child's side.
 
 ## How It Manifests Toward Work
 
@@ -118,3 +128,4 @@ Plain and observational. The phrase "things don't want to be managed" is deliver
 ## Sources
 
 - 2024-03-01_Love and Obligation (the framing of obligation as management; the manager analogy; the money, work, and relationship examples)
+- 2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation (the family-of-origin application; the framing that some families feel like home and others feel like an obligation, with management being the difference; the pregnant-daughter-hidden-by-unmarried-mother example as a specific instance of the parent managing the adult child by trying to control the child's existence to fit the parent's preferred narrative)

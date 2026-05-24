@@ -5,7 +5,7 @@ title: "Do Your Own Work, Stop Trying to Fix Them, Then They Change"
 aliases: ["inner work then they change", "do your work stop fixing then they change", "do your own work first", "stop trying to fix them and they change", "the three-step pattern with others", "the sequence with family change", "if people are going to change it's after you've stopped trying to change them", "stop focusing on them focus on yourself", "the ripple effect from doing your own work", "the family changes when you stop trying to change them", "the three-step sequence for relationship change", "do work stop fixing they shift", "they-change-when-you-stop pattern", "Eva's three steps for family change", "the work-stop-fix sequence", "the family changes after you focus on yourself", "if you focus on yourself they shift", "the focus-inward then everyone shifts pattern", "the work on self produces shift in others", "the three-step ripple", "you can't make them change you can stop trying", "the only path to others changing is your own work plus letting go"]
 tags: ["relationships", "family", "transformation", "integration", "fixing"]
 related: ["dont-try-to-change-your-partner", "fixing-people", "dont-evangelize-the-work", "every-trigger-with-your-kid-is-projection", "loving-all-parts", "you-cant-make-them-happy", "describable-vs-changed", "improvement-vs-authenticity", "capacity-to-love-other-is-capacity-to-love-self", "dropping-roles-makes-room"]
-sources: ["2024-05-03_What Changed After Master Class?"]
+sources: ["2024-05-03_What Changed After Master Class?", "2025-12-23_You only get the love you can let in"]
 ---
 
 # Do Your Own Work, Stop Trying to Fix Them, Then They Change
@@ -63,6 +63,8 @@ Three features of her account are diagnostic:
 ## What This Is Not
 
 **This is not "if you do the work, they will eventually change."** Sometimes they do not. Sometimes the inner work produces a different outcome: you become clearer about whether to stay in the relationship at all, you become less reactive to their unchanging behavior, you find that the relationship can continue with the pattern intact because you no longer need it to be different. The principle does not promise that all relationships shift. It describes the only path by which they sometimes do.
+
+The orientation Joe describes from his own marriage makes this concrete: the work proceeds whether or not the partner ever changes, and whether or not the relationship continues. "It's like, oh, she might never change. I might actually not want to end up being with her. But it didn't really matter because what I saw was that if I kept on using this relationship to heal myself, then I would find a great relationship either with her or with somebody else, because I was going to get into a relationship that I was capable of being in." -- Joe Hudson, You Only Get the Love You Can Let In. The work is portable. The upgrade travels with the person. The destination is not the point. This is what makes the inner-work sequence sustainable through the long middle phase, when there is no visible payoff yet -- the work is its own payoff regardless of whether the third step (they change) ever arrives.
 
 **This is not "withhold love until you have done the work."** The work and the loving are happening simultaneously. The principle does not gate loving them behind some milestone of inner work completion. The point is that the loving is not the same as the fixing. You can love them while doing the work and while not fixing them.
 
@@ -122,3 +124,4 @@ Joe's affirmation of this in the episode is direct and warm. "That was beautiful
 ## Sources
 
 - 2024-05-03_What Changed After Master Class? (Eva's account of the two-year arc with her family: see the pattern, bring it back to self, endure the suffering of not-fixing while continuing the inner work, and the eventual unraveling in her family; Joe's explicit naming of the three-step sequence and his affirmation that this is the only order by which others change in relation to one's inner work)
+- 2025-12-23_You only get the love you can let in (the "she might never change, I might not want to end up being with her, but it didn't really matter" stance that makes the inner-work sequence sustainable independent of whether the third step ever arrives; the portability of the work across whatever relationship the person ends up in; the upgrade-travels-with-the-person principle that makes the long middle phase tolerable)

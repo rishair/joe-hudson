@@ -4,7 +4,7 @@ id: successful-people-doubt-too
 title: "Successful People Doubt Too (The Difference Is What They Do With the Signal)"
 aliases: ["successful people doubt too", "successful people doubt", "the most successful people in Silicon Valley have doubt too", "doubt is universal among capable people", "doubt is not the problem", "the difference is what you do with the doubt", "the signal of doubt", "they listen to the signal of doubt and know what to do with it", "they don't let doubt stop them", "doubt isn't a sign you shouldn't act", "the doubt-signal interpretation principle", "you are not uniquely doubtful", "the universality-of-doubt principle", "the secret nobody tells you is they all have doubt", "the everybody-doubts normalization", "doubt is part of doing real things", "the doubt-as-companion principle", "doubt isn't disqualifying", "high-functioning people have doubt and act anyway", "what successful people know about doubt", "the doubt is not the differentiator", "the relationship to doubt is the differentiator"]
 tags: ["principle", "doubt", "ambition", "normalization", "signal", "universality", "executive coaching"]
-sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath"]
+sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath", "2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt"]
 ---
 
 # Successful People Doubt Too
@@ -104,3 +104,4 @@ There is also a slight executive-coach authority in the line about working with 
 ## Sources
 
 - 2025-10-07_Ambitious But Afraid? Here's What's Happening Beneath -- the canonical naming: "the secret nobody tells you is that there are very successful people— I work with some of the most successful people in Silicon Valley— and they all have doubt too. The only difference is that they listen to that signal, the signal of doubt, and they know what to do with it rather than to let it stop them." Placed in the teaching as the opening normalizing move that clears the cognitive defense ("I doubt therefore I am disqualified") so the rest of the teaching about doubt-as-protection can land
+- 2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt -- bite-sized re-airing of the same opening; reinforces both the "1,000 times in my career" baseline observation and the "the secret nobody tells you" reveal, and the "signal of doubt ... they know what to do with it" framing; positioned at the very top of the compressed teaching as the load-bearing normalizing move that lets every subsequent piece (doubt-is-protection, the welcoming-test, the heart-opening) land without the disqualification frame fighting for the floor

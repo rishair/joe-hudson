@@ -4,7 +4,7 @@ id: can-you-look-forward-to-feeling-it
 title: "Can you look forward to feeling it?"
 aliases: ["can you welcome it", "do you want to feel angry", "are you excited to feel sad", "the looking-forward test", "the welcoming diagnostic", "can you welcome the emotion like a returning child", "do you find yourself wanting to feel it"]
 tags: ["emotions", "welcoming", "diagnostic", "stages of development", "feeling", "core question"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2022-10-26_Stages Of Emotional Development"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2022-10-26_Stages Of Emotional Development", "2025-12-25_The #1 Emotional Processing Technique For Anyone To Do"]
 ---
 
 # Can you look forward to feeling it?
@@ -65,10 +65,20 @@ Brett's extension of the image: imagine you are preparing the house for all the 
 
 Gentle, curious, slightly playful. The question is offered as a check, not a test. The playful tone matters: a grave version would push the person toward producing the right answer, which would defeat the purpose of the question.
 
+## The Inquiry-Specific Form: You Get Excited Because You Get to Inquire More
+
+The same diagnostic, applied to the practice of [[emotional-inquiry]] specifically. The marker is not just "I welcome the emotion" but "I am glad the emotion arrived because now there is more material for the inquiry."
+
+"Pretty soon what you'll notice is that you'll be out in the world and this feeling will come up, and you'll be excited that the feelings come up because you get to inquire more, you get to learn more about it. And you get to play with it some more." -- Joe Hudson, The #1 Emotional Processing Technique
+
+This is a more specific test than the general welcoming test because it specifies what the welcoming is in service of: continued inquiry, continued learning, continued play with the felt sense. The excitement is the excitement of a researcher whose subject just walked into the room. The same threshold (genuine vs. performed welcoming) applies, but anchored to an active engagement rather than passive acceptance. See [[guided-emotional-inquiry-script]] for the scripted form of the inquiry the practitioner is being trained into.
+
 ## Connected Practices
 
 - [[daily-emotional-yoga]] — the regular practice that develops the welcoming capacity over time.
 - [[feeling-the-unfelt-emotion]] — the central practice the welcoming serves.
+- [[emotional-inquiry]] — the practice the inquiry-specific form of the diagnostic anchors to.
+- [[guided-emotional-inquiry-script]] — the scripted training form of the inquiry.
 
 ## Sources
 

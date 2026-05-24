@@ -5,7 +5,7 @@ title: "Complementary Trauma Surfaces"
 aliases: ["click pattern", "trauma click", "complementary surface area of traumas", "matching traumas", "the perfect match", "couples find each other through trauma", "the trauma fit", "perfectly matched traumas", "instinctual way of finding the person who can trigger us", "the trauma-matched partner", "we are wise in our trauma selection", "two patterns interlock kind of perfectly", "things that fire together wire together", "love wired to whatever happened in childhood", "marriage as two people trying to find out they're good enough"]
 tags: ["relationships", "partnership", "trauma", "attraction", "blame", "marriage", "trigger"]
 related: ["trauma-mapping", "childhood-imprinting", "projections", "engineering-heartbreak-to-avoid-heartbreak", "trauma-heals-in-relationship", "feeling-the-unfelt-emotion", "subconscious-partner-selection", "relationships-as-personal-growth-path", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "trigger", "anxious-avoidant-dynamic", "walking-on-eggshells", "there-is-no-the-one", "whatever-you-think-you-need-to-be-lovable-is-self-rejection"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner", "2025-12-23_You only get the love you can let in"]
 ---
 
 # Complementary Trauma Surfaces
@@ -47,6 +47,20 @@ The configuration each partner brings to the click was largely set in the first 
 "Love is associated with shame, or love is associated with authoritarianism, or love is associated with money, or love is associated with food. And that creates certain patterns, certain ways in which they're trying to get the love, certain ways in which they're scared of getting the rejection. And however that pattern gets set in or created, that's where you're going to find somebody in your romantic relationship that holds the other side of that pattern. That's why you hear so many people talk about things like, 'Oh my gosh, my husband is so much like my father. My wife is so much like my mother.'" -- Joe Hudson, How Relationships Reveal Us
 
 The "he's just like my father" recognition is the conscious mind catching up with what the body did long before the dating started. See [[childhood-imprinting]].
+
+## The "Just Enough Like" Calibration
+
+The precision of the match is not "identical to the parent." It is "just enough like the parent to trigger the trauma." The body does not need an exact replica. It needs a configuration that hits the trauma reliably enough to keep surfacing it. The "just enough" calibration is the body's tuning.
+
+"What I realized is that I was perfectly matched with my wife to trigger each other. Like, I was exactly in a way like her father, just enough to trigger her. She was exactly like my mother in just enough of a way to trigger me, that we were going through our childhood wounds with each other, that oftentimes I was listening to her, but I wasn't listening to her. I was listening to my mom or my dad. It wasn't her. I was just living in some old trauma. She was living in some old trauma, but we were perfectly matched to work this stuff out." -- Joe Hudson, You Only Get the Love You Can Let In
+
+Two structural pieces are made explicit in this telling:
+
+**The mutual surfacing.** The match is bidirectional. Joe surfaces Tara's father-material; Tara surfaces Joe's mother-material. Both partners are simultaneously the trauma-figure for the other and the recipient of trauma-projection from the other. The pattern works in both directions at once. This is the "I am holding my side, you are holding your side" structure that the blame-dissolution moment makes visible.
+
+**The "I am not listening to her, I am listening to my mom" phenomenology.** When the trigger fires, the partner is not actually being heard. The childhood trauma-figure is being heard in their place. The adult interaction is happening on top of the childhood interaction. See [[trauma-is-present-experienced-as-past]] for the broader frame. The implication: most of the worst fights in a long relationship are happening between two ghost-figures, not between the two people in the room. The work is to notice when the listening has shifted from the partner to the ghost, and to bring the listening back to the partner.
+
+The recognition of "I wasn't listening to her -- I was listening to my mom" is itself a key freedom-event. Once the person can catch the shift in real time, the trigger stops escalating. The conversation can return to the partner.
 
 ## The Symmetric Examples: Two People Meeting Jealousy
 
@@ -156,3 +170,4 @@ This is the same machinery that the rest of this article describes, viewed from 
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)
 - 2023-04-28_How Love Gets Confused (the two-people-meeting-jealousy pair as illustration of how the imprint determines the click; the criticism loop as a self-maintaining system; the somatic fear that arises when removing the wired-in pattern from self-treatment)
 - 2023-11-10_Finding a Romantic Partner (the working definition of marriage as "two people thinking they're not good enough coming together to try to find out that they're good enough"; the trauma-matched partner as the one ready to play the role for healing)
+- 2025-12-23_You only get the love you can let in (the "just enough like" calibration -- partners are exactly like the trauma-figure parent "just enough" to trigger; the bidirectional simultaneous form of the match -- "I was exactly in a way like her father, just enough to trigger her. She was exactly like my mother in just enough of a way to trigger me"; the phenomenology of "I was listening to her but I wasn't listening to her, I was listening to my mom or my dad" as the felt experience of the trauma-figure projection during conflict)

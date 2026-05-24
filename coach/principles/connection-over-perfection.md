@@ -5,7 +5,7 @@ title: "Connection Over Perfection"
 aliases: ["connection vs perfection", "prioritize connection", "iterate don't perfect", "connection produces better results", "perfection is the meditation killer", "perfect first date fails", "connection is the trick for great iteration", "stay connected to iterate well", "four channels of connection for iteration"]
 tags: ["connection", "productivity", "business", "relationships", "principle"]
 related: ["perfectionism", "view", "impartiality", "process-over-result", "resistance", "impulse-to-should", "spaghetti-tower-experiment", "seven-limiting-beliefs", "inherent-goodness", "connection", "connection-as-life-bottom-line"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-29_Connection- A State Beyond States", "2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)", "2022-10-26_Connection Over Perfection", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-29_Connection- A State Beyond States", "2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)", "2022-10-26_Connection Over Perfection", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_The Art of Accomplishment", "2025-12-19_Perfectionism Creates the Chaos it's trying to Prevent"]
 ---
 
 # Connection Over Perfection
@@ -48,6 +48,22 @@ The four channels of connection that make iteration generative:
 - **Connection with your team.** Notice what your collaborators actually know and feel about the work, not what the project status report says.
 
 Iteration without these four channels degenerates into mechanical iteration: changing variables and re-running the test without learning anything. The connection is what converts iteration from motion into progress.
+
+## Joe's Three-Variable Coaching-Video Example
+
+The most operationally explicit demonstration of the principle in Joe's own work: when making coaching videos, the variables he organizes around are not the standard production quality markers (audio, framing, pacing, scripting) but three specifically connection-related variables. The three are non-negotiable. Everything else falls out of getting them right.
+
+"For instance, like when I'm doing coaching videos, I'm focused on, is my heart open? Am I following them? Am I making sure I'm not trying to get them anywhere? If I do those three things, everything else works out. Everything else becomes automatic. And yes, I improve as a coach over time and all those little things improve, but because I am not trying to get it perfect and I'm focused on those three things, I actually get to iterate more, which actually gets me to higher and higher windows of tolerance over time." -- Joe Hudson, Perfectionism Creates the Chaos it's trying to Prevent
+
+The structure is the principle in operation. Three load-bearing variables, all connection-oriented:
+
+- **Is my heart open?** Connection with self.
+- **Am I following them?** Connection with the person being coached.
+- **Am I making sure I'm not trying to get them anywhere?** The non-imposition of an outcome -- another form of connection rather than agenda.
+
+The three variables produce everything else as a downstream effect. The video quality improves. The coaching gets sharper. The window of tolerance widens over time. None of these are direct targets. They are emergent properties of getting the three variables right.
+
+The contrast with the perfectionist approach: a perfectionist making coaching videos would attempt to optimize every variable simultaneously -- the framing, the lighting, the audio, the script, the timing, the prep, the editing. The cognitive load is enormous and the iteration is impossible because every iteration would have to fix multiple dimensions at once. The perfectionist video gets fewer made and fewer improved. Joe's three-variable approach produces more videos, faster iteration, and the compounding improvement that comes from iteration. See [[focus-on-leverage-principles-not-everything]] for the broader principle the three-variable example illustrates.
 
 ## Connection as Bottom Line
 

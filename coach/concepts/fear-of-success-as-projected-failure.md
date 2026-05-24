@@ -2,10 +2,10 @@
 type: concept
 id: fear-of-success-as-projected-failure
 title: "Fear of Success Is Projected Future Fear of Failure (and Fear of the Expansive Feeling)"
-aliases: ["fear of success", "fear of success as projected fear of failure", "the fear-of-success structure", "what fear of success actually is", "the projected-failure interpretation of fear of success", "two roots of fear of success", "fear of the expansive feeling", "fear of positive emotion as part of fear of success", "the two-part fear of success", "succeeding bigger means failing on a bigger stage", "the bigger-stage fear", "self-sabotage as fear of failure projected forward"]
+aliases: ["fear of success", "fear of success as projected fear of failure", "the fear-of-success structure", "what fear of success actually is", "the projected-failure interpretation of fear of success", "two roots of fear of success", "fear of the expansive feeling", "fear of positive emotion as part of fear of success", "the two-part fear of success", "succeeding bigger means failing on a bigger stage", "the bigger-stage fear", "self-sabotage as fear of failure projected forward", "the identity-loss sub-root of fear of success", "will I lose my ambition if I'm winning", "will I lose the people who love me if I win", "fear of being the tall poppy that gets cut", "the person who is struggling won't be that person anymore", "the loss of the struggling-self at the moment of arrival", "the three sub-component fears of success", "losing the people who love the struggling version"]
 tags: ["concept", "fear", "success", "failure", "self-sabotage", "positive emotions", "pleasure", "iteration"]
 related: ["failure-is-an-idea", "iterative-mindset", "im-a-failure", "fear-vs-excitement", "the-emotional-experience-decides-the-channel", "pleasure-is-scary", "bracing-as-control-of-emotional-experience", "what-we-fear-we-invite"]
-sources: ["2024-07-19_Failure", "2024-07-19_How Reframing Failure Changes Your Life"]
+sources: ["2024-07-19_Failure", "2024-07-19_How Reframing Failure Changes Your Life", "2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath", "2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt"]
 ---
 
 # Fear of Success Is Projected Future Fear of Failure (and Fear of the Expansive Feeling)
@@ -47,6 +47,22 @@ The other root is more bodily. The felt experience of success -- winning, being 
 The point is wider than fear of success. Pleasure itself is structurally avoided. The reason most people are not experiencing the available pleasure is that the felt experience would be too much. The body braces. The pleasure stays at the edge of awareness but is not allowed in.
 
 Fear of success is the same dynamic applied to the larger pleasure that success would produce. If small pleasure is already being bracketed by the body, the big pleasure of winning is producing an even larger brace. The brace shows up as self-sabotage, hesitation, last-minute back-out, or the various forms of declining to receive what was being pursued.
+
+## The Identity-Loss Sub-Root (The Person You Won't Be Anymore)
+
+A specific sub-root within the second category, surfaced when the doubt context is the operating frame ([[doubt-is-protection-from-a-feeling]]). The "expansive feeling" the body braces against is not only the raw intensity of positive emotion — it is also the loss of the identity that has been organized around struggle. The person who has been the-one-who-is-struggling, who has been the-one-with-ambition-not-yet-realized, will not be that person after the win. Some part of the system has been built around the not-having-yet, and that part senses its own dissolution at the moment of arrival.
+
+"Or I might succeed. And then the person who I think I am, the person who's struggling, I won't be that person anymore. I'll be the person who's actually winning. And though a big part of my system wants it, there's also a part of me that's scared. Like, will I lose my ambition if I'm winning? Will I lose the people who love me? Will I be the tall poppy that gets cut if I'm winning?" -- Joe Hudson, Ambitious But Afraid
+
+The sub-root has three component fears that often operate together:
+
+- **"I will lose my ambition if I'm winning."** The drive that has been organized around getting-to-the-thing will not have the same structure once the thing has been gotten. The body senses the loss of the drive-engine itself.
+- **"I will lose the people who love me."** The relationships that formed around the struggling-version may not survive the winning-version. Friends who bonded over commiseration may not know how to relate to the post-win self. The body forecasts the relational loss.
+- **"I will be the tall poppy that gets cut."** The cultural pattern of cutting down the one who stands out. The wiring is often installed by a parent who could not tolerate the child's joy or visibility (see [[shame-after-spaciousness]]). The success activates the install: the body forecasts the cutting.
+
+These sub-roots are sometimes the operative material when the simpler fear-of-the-expansive-feeling framing does not land. The person who reports they are not bracing against the pleasure may still be bracing against the identity-loss, the relational-loss, or the tall-poppy cutting. The diagnostic is whether the welcoming move dissolves the doubt — if it does not, one of these sub-roots is probably the actual material.
+
+The welcoming sentence Joe uses in the doubt context — "I can't wait to feel that massive success" — addresses the bundled package: the expansive feeling, the identity dissolution, the relational restructuring, and the tall-poppy visibility all welcomed together. See [[speak-the-welcoming-of-the-feared-state-aloud]] for the operational form.
 
 ## Why the Two Roots Reinforce Each Other
 
@@ -112,3 +128,5 @@ Joe delivers this concept with directness and a slight matter-of-fact quality. T
 
 - 2024-07-19_Failure (Joe's articulation of the two roots of fear of success: the projected fear of failure on a bigger stage, and the fear of the expansive feeling of the positive emotion; the connection to the iterative mindset as the structural intervention on the first root; the broader observation that pleasure itself is structurally avoided by most people because the felt experience is too much)
 - 2024-07-19_How Reframing Failure Changes Your Life (parallel articulation of the two-root structure; Brett's framing of fear of success as "a projected future fear of failure" — "what if my art ends up in galleries and then I'm judged?"; Joe's confirmation that this is a huge part of it, and the additional naming that the "oh my God, I'm winning, I feel good" expansive emotional experience is the other major piece)
+- 2025-10-07_Ambitious But Afraid? Here's What's Happening Beneath (the doubt-context articulation of the second root with three explicit sub-component fears: "will I lose my ambition if I'm winning, will I lose the people who love me, will I be the tall poppy that gets cut if I'm winning"; the framing of fear of success as the loss of the struggling-self identity in addition to the loss of pleasure-tolerance; the placement of fear of success as one specific feeling the doubt-mechanism is protecting against, alongside fear of failure and fear of criticism)
+- 2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt (bite-sized re-airing of the same doubt-context articulation; preserves the three sub-component fears word-for-word; reinforces the placement of fear of success within the doubt-is-protection framework rather than as a standalone concept)

@@ -4,7 +4,7 @@ id: disappointment-with-self-is-the-safe-bet
 title: "Disappointment With Yourself Is the Safe Bet (The Familiar Low-Grade Emotion the Doubt-Loop Pays For)"
 aliases: ["disappointment with self is the safe bet", "disappointment with yourself is the safe bet", "self-disappointment is the safe bet", "chronic self-disappointment is the trade the doubt makes", "the doubt-loop pays for itself in chronic self-disappointment", "the safe-bet trade", "the familiar low-grade emotion strategy", "trading high-intensity unknown emotion for low-grade familiar emotion", "you're used to feeling disappointment with yourself", "the safe bet of self-disappointment", "the body chooses the familiar disappointment", "the body's preferred trade in doubt", "doubt is the strategy that trades up-to-the-known disappointment", "the years-of-self-disappointment make it the safe choice", "you've been feeling it for years so that's the safe bet", "the only thing you have to feel is disappointment with yourself", "why the doubt-loop is structurally preferred", "the familiar suffering strategy", "the chronic low-grade preferred over the acute unknown"]
 tags: ["principle", "doubt", "self-disappointment", "familiar over safe", "trade", "emotional avoidance", "ambition", "stuckness"]
-sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath"]
+sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath", "2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt"]
 ---
 
 # Disappointment With Yourself Is the Safe Bet
@@ -96,3 +96,4 @@ There is also a small wryness in "that's the safe bet." The phrase treats the bo
 ## Sources
 
 - 2025-10-07_Ambitious But Afraid? Here's What's Happening Beneath -- the canonical naming of the principle as the trade the doubt-loop makes: the high-intensity unknown emotion (criticism / failure / success) is exchanged for the low-grade familiar emotion (chronic self-disappointment); the years of experience with the self-disappointment make it the safe bet; the doubt-loop persists because the trade keeps being worth it from the body's risk-evaluation
+- 2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt -- bite-sized re-airing of the principle with the exact "safe bet" language preserved; reinforces that the disappointment-with-self is what the doubter trades for the avoidance of the higher-intensity feeling; positioned in the compressed teaching as the closing piece of the "why this stays in place" account before the intervention sequence begins

@@ -2,10 +2,10 @@
 type: example
 id: joes-parents-criticism-boundary
 title: "Joe's Parents and the Criticism Boundary (The 18 Months of Silence)"
-aliases: ["Joe's parents criticism boundary", "the parents criticism story", "Joe's mom and dad criticism", "the 18-month silence", "Joe drew a boundary with his parents about criticism", "criticism boundary with parents", "I'm not coming over if you keep criticizing me", "Joe's boundary about being criticized at home", "the family criticism boundary", "drawing a boundary against passive-aggressive criticism", "Joe's parents passive-aggressive criticism story"]
-tags: ["boundaries", "family", "passive-aggression", "criticism", "parents", "behavior-based boundary", "example"]
-related: ["boundaries", "passive-aggressive-vs-aggressive-aggressive", "boundary-with-vs-boundary-against", "joes-dad-drinking-boundary", "dont-meet-aggression-with-aggression", "say-ouch", "move-the-anger-then-draw-the-boundary"]
-sources: ["2025-03-07_Passive Aggression： How To Identify & Respond"]
+aliases: ["Joe's parents criticism boundary", "the parents criticism story", "Joe's mom and dad criticism", "the 18-month silence", "Joe drew a boundary with his parents about criticism", "criticism boundary with parents", "I'm not coming over if you keep criticizing me", "Joe's boundary about being criticized at home", "the family criticism boundary", "drawing a boundary against passive-aggressive criticism", "Joe's parents passive-aggressive criticism story", "Joe's two-year silence variant", "the year-or-two-of-silence with his dad", "I wouldn't sign up to be criticized for that long from anyone"]
+tags: ["boundaries", "family", "passive-aggression", "criticism", "parents", "behavior-based boundary", "example", "home"]
+related: ["boundaries", "passive-aggressive-vs-aggressive-aggressive", "boundary-with-vs-boundary-against", "joes-dad-drinking-boundary", "dont-meet-aggression-with-aggression", "say-ouch", "move-the-anger-then-draw-the-boundary", "joes-call-with-dad-about-criticism", "criticism-and-management-make-loved-ones-not-want-to-be-with-you", "i-dread-going-home"]
+sources: ["2025-03-07_Passive Aggression： How To Identify & Respond", "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation"]
 ---
 
 # Joe's Parents and the Criticism Boundary
@@ -70,6 +70,15 @@ What the parents did during the 18 months is also part of the teaching. They did
 
 This is consistent with the broader principle that boundaries are not about producing a desired behavior change in the other party. The parents could have not called for 30 years. The boundary still would have been the right move. The fact that they eventually came back is a happy outcome, not the point of the boundary. The point of the boundary was that Joe was no longer organizing his life around being criticized.
 
+## The 2025-12-16 Retelling: The Boundary as Structural Response to the Home-Doesn't-Feel-Like-Home Pattern
+
+In the 2025-12-16 telling, Joe places the same boundary in the broader context of why some families feel like home and others feel like an obligation. The boundary is reframed not as a response to passive aggression specifically but as a response to criticism and management more broadly — see [[criticism-and-management-make-loved-ones-not-want-to-be-with-you]] for the principle the boundary operates on.
+
+In that telling, Joe also gives a slightly different duration figure ("one year passed, two years passed") and emphasizes the explicit invitation back: "let me know when you're prepared to hang out with me. And not judge me, not criticize me, not try to manage me." The "not try to manage me" addition broadens the scope of the boundary from the criticism specifically to the whole field of management-as-relationship-dynamic.
+
+The 2025-12-16 retelling makes explicit that this boundary is one available response to [[i-dread-going-home]] — the adult-child concern that the family home has become a place that produces dread because of the ongoing criticism and management. See [[joes-call-with-dad-about-criticism]] for the same boundary framed through the lens of inner-voice work and self-aggression-permits-others-aggression. The two retellings emphasize different aspects of the same boundary; both are useful depending on what the person is asking about.
+
 ## Sources
 
 - 2025-03-07_Passive Aggression: How To Identify & Respond
+- 2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation (the same boundary retold in the broader frame of why some families feel like home and others feel like an obligation; the "year, two years" variant of the silence duration; the broadening of the boundary scope from criticism to "not judge me, not criticize me, not try to manage me"; the framing of the boundary as one available response when the adult child has realized they are organizing visits around dread of being managed)

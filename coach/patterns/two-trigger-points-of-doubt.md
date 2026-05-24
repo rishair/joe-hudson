@@ -4,7 +4,7 @@ id: two-trigger-points-of-doubt
 title: "The Two Trigger Points of Doubt (Living Into the Project; Receiving a Reaction You Didn't Want)"
 aliases: ["two trigger points of doubt", "the two places doubt arises", "where doubt fires in a project", "two trigger points of self-doubt", "doubt at the start or doubt after the response", "doubt during ideation or doubt after presenting", "the two doubt-firing moments", "the project doubt and the reaction doubt", "doubt when you sit with the idea or doubt when you show it", "the two doubt-trigger moments", "doubt at the imagining stage or doubt at the receiving stage", "the start-of-project doubt", "the post-reception doubt", "the two doubt-fire signatures in ambition arcs", "doubt at the beginning or doubt after the first response"]
 tags: ["pattern", "doubt", "trigger", "ambition", "project arc", "feedback", "criticism"]
-sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath"]
+sources: ["2025-10-07_Ambitious But Afraid？ Here's What's Happening Beneath", "2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt"]
 ---
 
 # The Two Trigger Points of Doubt
@@ -108,3 +108,4 @@ Joe names this pattern as background teaching, not as a dramatic frame. The two 
 ## Sources
 
 - 2025-10-07_Ambitious But Afraid? Here's What's Happening Beneath -- the canonical articulation: "these are the two places typically where the doubt arises. One is just when you're thinking about living into it, and the other one is when you get a reaction that you don't particularly want." The two triggers are described with their typical contents (sitting with the idea; the boss/investor/husband whose response isn't full buy-in) and located within the broader teaching that doubt is protection from a feeling
+- 2025-12-26_Bite-Sized Teaching Series- Ambition and Doubt -- bite-sized re-airing of the same two-trigger structure; preserves the same examples (handed a project; making a presentation to a boss/investor/husband who isn't completely bought in); positioned identically in the compressed teaching arc as the structural setup that prepares the listener to recognize where their own doubt is firing
