@@ -2,9 +2,9 @@
 type: concern
 id: i-get-anxious-in-relationships
 title: "I get anxious in relationships / I don't like being seen / I put on a mask or run away"
-aliases: ["I get anxious in relationships", "I get super anxious very quickly", "when I'm in a relationship I get super anxious very quickly", "I don't know why I get anxious", "I don't know what to do about my relationship anxiety", "I have social anxiety", "social anxiety presenting", "social anxiety in a coaching session", "I don't like being seen", "I like to hide myself", "I'm either putting on a mask or running away from people", "the mask-or-run pattern", "I hide myself in public", "I'm anxious around people", "I get anxious when people see me", "relationship anxiety presenting", "the anxiety around being seen", "social anxiety in dating", "I get anxious around the person I'm dating", "I get anxious in intimate relationships", "I get anxious at the start of a relationship", "I get anxious quickly when I meet someone", "the I-get-anxious-in-relationships concern", "the social-anxiety-in-coaching-Q&A presentation", "I get called on and I freak out", "I didn't expect to get called on", "I get put on the spot and I freeze", "I have a lot of questions but they're all the same question", "the same-question-different-shapes presentation"]
-tags: ["concerns", "anxiety", "social anxiety", "being seen", "relationships", "mask", "hiding", "shame", "vulnerability"]
-sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)"]
+aliases: ["I get anxious in relationships", "I get super anxious very quickly", "when I'm in a relationship I get super anxious very quickly", "I don't know why I get anxious", "I don't know what to do about my relationship anxiety", "I have social anxiety", "social anxiety presenting", "social anxiety in a coaching session", "I don't like being seen", "I like to hide myself", "I'm either putting on a mask or running away from people", "the mask-or-run pattern", "I hide myself in public", "I'm anxious around people", "I get anxious when people see me", "relationship anxiety presenting", "the anxiety around being seen", "social anxiety in dating", "I get anxious around the person I'm dating", "I get anxious in intimate relationships", "I get anxious at the start of a relationship", "I get anxious quickly when I meet someone", "the I-get-anxious-in-relationships concern", "the social-anxiety-in-coaching-Q&A presentation", "I get called on and I freak out", "I didn't expect to get called on", "I get put on the spot and I freeze", "I have a lot of questions but they're all the same question", "the same-question-different-shapes presentation", "I freeze in meetings", "my throat clenches", "I sweat and dissociate when called on", "I'm physically in the room but no one remembers I was there", "I disappear in meetings", "I can't speak when the spotlight's on me", "I have full-blown panic attacks in social situations", "I have a panic attack at the office", "I have a panic attack when I have to be seen", "my limbic system mostly shuts down", "I get hot when I'm seen", "I have charge in my system when I'm seen", "I freeze or I please everyone", "I just say whatever makes everyone happy then move on", "I want a concrete take-home for the next-time-I-freeze moment", "what do I do when this is happening to me now"]
+tags: ["concerns", "anxiety", "social anxiety", "being seen", "relationships", "mask", "hiding", "shame", "vulnerability", "freeze", "panic attack", "Eye of Sauron"]
+sources: ["2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson)", "2026-05-08_The Fear of Being Seen and the Strange Way Out"]
 ---
 
 # I get anxious in relationships / I don't like being seen
@@ -79,6 +79,36 @@ The typical sequence from this concern is short and structurally clean:
 
 The whole sequence can land in five minutes when the person is already on the verge of the descent.
 
+## Two Categories of the Presenting Concern
+
+The concern arrives in two distinct configurations. See [[the-desire-to-be-seen]] for the full treatment. The brief form for diagnostic purposes:
+
+**Acute form (clinical-feeling social anxiety):** the person disappears in meetings, has freezes that look like panic attacks from outside, has a long history of being unable to function in public situations. Often traces to a specific childhood installation where being seen was actually dangerous (a parent who repeatedly said "don't be too big, don't be too much, don't stand out" — sometimes for reasons that were valid in the original environment). This form requires more titration in the work; the body has a deep installation to undo.
+
+**Universal form (the rapid-fire-coaching nervousness):** everyone has some version of this. Nobody walks into a high-stakes public moment without some version of "if they see me they'll see what's wrong with me." This form often does not register as "social anxiety" because it is not as intense as the acute form. The person who presents with this form often says some version of "I'm fine in most situations, but in [X high-stakes context] I freeze." The work here can move faster because the installation is shallower.
+
+Both forms have the same architecture: [[the-eye-of-sauron]] firing in some configuration of head, heart, and nervous system. Both respond to the same fundamental moves: [[open-the-heart-to-the-other-person]] in the moment, [[open-the-heart-to-yourself]] as the structural practice, [[show-up-in-small-ways-every-day]] as the daily exposure.
+
+## The Three-Layer Diagnostic for the Freeze
+
+When the person is in the freeze and asking "why is my throat clenching, why am I sweating, why did the whole meeting happen without me even recognizing what was occurring," the diagnostic tracks three layers simultaneously:
+
+- **The head** is running content-attack ("you said it wrong, why didn't you say it that way") or attack-on-the-freezing ("why am I not just speaking?"). The second form fires when the first is offline — when the system is already too frozen for content-thinking.
+- **The emotional center** is running fear-plus-shame. Fear of being seen plus the shame that "if they see me they'll find out I'm broken." The combination is what locks the system.
+- **The nervous system** is running fight, flight, freeze — or "please" (say whatever makes everyone happy and then move on). The nervous-system charge is what produces the physical signs: hot, sweating, throat clenched, dissociation.
+
+The diagnostic question is not "which layer is the problem" — usually all three are firing — but "which layer is the entry point to the work." The fastest entry point is usually the nervous system: the heart-opening moves ([[open-the-heart-to-the-other-person]], [[open-the-heart-to-yourself]]) work directly on the nervous-system response and pull the head and emotional layers along.
+
+## The Take-Home for the Next-Time-I-Freeze Moment
+
+When the person asks "what do I actually do next time" — and they will ask, because the freeze itself is what they want a tool for — the take-home is concrete: open your heart to the other person.
+
+> "Open your heart to that person. So stop objectifying them. Recognize that you've already cut yourself off from them." -- Joe Hudson, The Fear of Being Seen and the Strange Way Out
+
+The move is structured as one specific thing the person can do when the limbic system is mostly offline and only "a little tiny part" can still hear an instruction. See [[open-the-heart-to-the-other-person]] for the full treatment of the move, [[objectifying-them-is-what-you-fear-they-do-to-you]] for the principle that makes the move land, and [[the-eye-of-sauron]] for the underlying pattern the move dissolves.
+
+The other take-home, for moments when the person is alone or organizing their life around the imagined audience: ask "what do I need?" See [[open-the-heart-to-yourself]]. The two moves are alternatives, not opposites.
+
 ## Related Concerns
 
 - [[i-want-to-be-authentic-on-stage]] — the performance version of the same structure. A stand-up comic asking how to be authentic on stage is asking the relational-anxiety question scaled up. The mask-or-run pattern there is "perform-or-freeze." The shame layer is the same. The work is structurally identical: bring the live moment into the room, name what is being hidden (almost always emotion), restore connection. The on-stage version has more concentrated exposure and a fixed-length window; the relational version has more time and intimacy.
@@ -88,3 +118,4 @@ The whole sequence can land in five minutes when the person is already on the ve
 ## Sources
 
 - 2025-03-25_Social Anxiety Breakthrough (Coaching Session With Joe Hudson) — the man who got called on in a public Q&A, said he gets anxious in relationships, that he doesn't like being seen, that he puts on a mask or runs; the live demonstration of the pattern (being anxious about being called on while presenting the problem of being anxious); the breakthrough that what he was hiding was his emotions
+- 2026-05-08_The Fear of Being Seen and the Strange Way Out — the dedicated teaching episode on the broader pattern; the two-categories distinction (acute clinical-feeling vs. universal existential); the three-layer diagnostic for the freeze (head, heart, nervous system) and the "or please" addition to the fight-flight-freeze options; the Eye of Sauron architecture as the structural form of the freeze; the take-home moves (open the heart to the other person and open the heart to yourself); the in-love-relationship cost framing (eggshells, not sharing, accumulated resentment from the partner not being able to read your mind)

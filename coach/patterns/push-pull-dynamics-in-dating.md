@@ -4,8 +4,8 @@ id: push-pull-dynamics-in-dating
 title: "Push-Pull Dynamics in Dating (All the Ways We Reach for Love While Pushing It Away)"
 aliases: ["push pull dynamics in dating", "the push and pull in dating", "consciously seeking love subconsciously pushing it away", "the various forms of pushing love away", "beckoning for love while pushing it away", "I want it I want it I want it / no go away", "the various flavors of relational defense", "the family of pushing-away strategies", "the dating push-pull configurations", "jealousy neediness independence transactionality as same family", "push-pull as the master pattern in dating", "love-rejection structure in dating", "all the ways we set up the not-finding"]
 tags: ["relationships", "dating", "attachment", "defense", "intimacy", "pattern"]
-related: ["fear-of-losing-yourself-in-love", "i-cant-find-love", "anxious-avoidant-dynamic", "i-keep-chasing-emotionally-unavailable-people", "craving-is-the-pushing-away", "what-we-fear-we-invite", "transactional-relationships-as-defense", "self-reliance-pushes-people-away", "love-misconceptions-inherited-from-childhood", "engineering-heartbreak-to-avoid-heartbreak"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+related: ["fear-of-losing-yourself-in-love", "i-cant-find-love", "anxious-avoidant-dynamic", "i-keep-chasing-emotionally-unavailable-people", "craving-is-the-pushing-away", "what-we-fear-we-invite", "transactional-relationships-as-defense", "self-reliance-pushes-people-away", "love-misconceptions-inherited-from-childhood", "engineering-heartbreak-to-avoid-heartbreak", "three-ways-we-push-love-away", "convincing-ourselves-were-not-pushing-love-away", "boundary-against-the-wired-pattern", "negative-self-talk-reveals-love-imprint"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2026-05-19_You're Pushing Away What You Want Most"]
 ---
 
 # Push-Pull Dynamics in Dating
@@ -19,6 +19,16 @@ The whole family of dating problems -- not just the anxious-avoidant dance -- ha
 The pattern is governed by [[fear-of-losing-yourself-in-love]]. The push-away is the protective half of a configuration that is trying to get closeness without crossing the threshold where the feared self-loss would happen. The push-away usually succeeds at its actual job. The relationship does not arrive, or arrives in a form that cannot deepen, or arrives and then collapses before the threshold is crossed.
 
 This is the same structural mechanism as [[craving-is-the-pushing-away]] applied to romantic partnership specifically. The wanting and the not-wanting are the same move.
+
+## The Three Structural Categories
+
+The full inventory of forms (below) compresses to three structural postures. Every specific costume collapses into one of these three:
+
+1. **Chase.** Reach for love, perform for it, work for it, beg for it.
+2. **Avoid.** Pull away from love, refuse it, brace against it.
+3. **Fight.** Defend against love, battle it, power-struggle with it.
+
+See [[three-ways-we-push-love-away]] for the developed three-category analysis. Each category has its specific costumes — chase shows up as neediness, jealousy, looking for praise, performing; avoid shows up as hyper-independence, smothering-protection, transactionality, the checklist; fight shows up as constant arguments, the defensive posture, power struggles. The specific costume is the surface; the category is the structural posture; the wiring underneath both is the [[love-misconceptions-inherited-from-childhood|childhood love-imprint]] that paired love with a specific companion.
 
 ## The Family of Forms
 
@@ -64,6 +74,16 @@ Most people running the pattern run multiple forms at once. The chasing-of-the-u
 
 The coaching implication: do not address one form at a time. Address the structure. Once the person sees that all of these are the same machinery, the work moves from "fix the jealousy" or "fix the checklist" to "see what the pattern is keeping you safe from."
 
+## The Two Self-Deceptions That Keep the Pattern Invisible
+
+A person who is running one of these forms has to explain to themselves why love keeps not arriving despite the conscious wanting. Two specific self-deceptions do that job. See [[convincing-ourselves-were-not-pushing-love-away]] for the developed treatment.
+
+**The wrong-person deception.** "I just haven't found the right person yet." The selection mechanism is reliably producing partners who cannot land — significantly younger, already attached, geographically deferred, in a different life stage — and the conscious story attributes the absence of love to the partners rather than to the selection. See [[the-35-year-old-dating-younger-women]] for the worked example of this deception being surfaced.
+
+**The blame deception.** "I can't get the love I want because [they don't open up / they're always fighting with me / they don't see me]" or, in the inward form, "because [I yell / I'm avoidant / I'm too damaged]." Each specific blame-story is technically true. The recurrence of blameable behaviors across many relationships is what the deception keeps hidden.
+
+Both deceptions function as covers. Both let the push-away continue without being seen. The coaching move that breaks them is the structural question: not "what was wrong with that person?" but "what was the same about all of these relationships?" The structural question forces the recognition that the same person, with different partners and different specific behaviors, is producing the same outcome — and is therefore producing the outcome.
+
 ## The Subconscious Grin
 
 The subconscious grin is the diagnostic moment. When a person who has been running one of these forms is asked directly -- "why are you pushing this person away with your jealousy / your neediness / your self-reliance / your transactionality?" -- the conscious story falters and the body responds with the recognition. A small smile. A "busted" feeling. The body has known the whole time.
@@ -95,6 +115,8 @@ The work is the same as in dating. The configuration is the configuration. The f
 
 ## Downstream (Where This Leads)
 
+- Toward [[three-ways-we-push-love-away]]: the three-category structural collapse of all the forms
+- Toward [[convincing-ourselves-were-not-pushing-love-away]]: the two self-deceptions that keep the pattern invisible
 - Toward [[fear-of-losing-yourself-in-love]]: the underlying motivator for the whole family of forms
 - Toward [[anxious-avoidant-dynamic]]: the most-developed treatment of one of the forms
 - Toward [[transactional-relationships-as-defense]]: the form specific to the dealmaker pattern
@@ -104,6 +126,8 @@ The work is the same as in dating. The configuration is the configuration. The f
 - Toward [[craving-is-the-pushing-away]]: the underlying principle the whole family enacts
 - Toward [[what-we-fear-we-invite]]: the same mechanism viewed from a different angle
 - Toward [[love-misconceptions-inherited-from-childhood]]: the source of which specific form a given person runs
+- Toward [[negative-self-talk-reveals-love-imprint]]: the diagnostic that uses self-talk to surface which posture is being run
+- Toward [[boundary-against-the-wired-pattern]]: the operational boundary move that addresses the form
 - Toward [[from-looking-for-love-to-being-love]]: the intention shift that follows seeing the pattern
 
 ## Tone
@@ -113,3 +137,4 @@ Joe is direct about this. He names the structure without softening it. The direc
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2026-05-19_You're Pushing Away What You Want Most (the three-category structural collapse — chase/avoid/fight — of all push-pull forms; the two self-deceptions that keep the push-pull invisible — wrong-person and blame; the worked example of the 35-year-old dating significantly younger women as the wrong-person deception in operation; the boundary statement form "I love you, I want your love, but I'm not willing to [companion] for your love" as the operational move that addresses the form)

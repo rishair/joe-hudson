@@ -104,6 +104,7 @@ Joe delivers this principle without urgency or insistence. It is one of three mo
 - Toward [[asking-with-shame-invites-refusal]]: how to ask cleanly so the external answer is more likely to be yes and so the internal release is more complete
 - Toward [[boundaries]]: the related move when the want is for the other person to do or not do something
 - Toward [[admire-what-you-crave]]: the parallel move for envy-form resentment
+- Toward [[the-only-way-to-not-be-rejected-is-to-reject-yourself-first]]: the related inversion for the not-asking case; when the client cannot ask, the not-asking is preemptive self-rejection — and the asking releases not only the resentment but also the self-rejection that has been preventing the ask
 
 ## Sources
 

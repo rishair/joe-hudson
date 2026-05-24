@@ -4,8 +4,8 @@ id: joes-parents-criticism-boundary
 title: "Joe's Parents and the Criticism Boundary (The 18 Months of Silence)"
 aliases: ["Joe's parents criticism boundary", "the parents criticism story", "Joe's mom and dad criticism", "the 18-month silence", "Joe drew a boundary with his parents about criticism", "criticism boundary with parents", "I'm not coming over if you keep criticizing me", "Joe's boundary about being criticized at home", "the family criticism boundary", "drawing a boundary against passive-aggressive criticism", "Joe's parents passive-aggressive criticism story", "Joe's two-year silence variant", "the year-or-two-of-silence with his dad", "I wouldn't sign up to be criticized for that long from anyone"]
 tags: ["boundaries", "family", "passive-aggression", "criticism", "parents", "behavior-based boundary", "example", "home"]
-related: ["boundaries", "passive-aggressive-vs-aggressive-aggressive", "boundary-with-vs-boundary-against", "joes-dad-drinking-boundary", "dont-meet-aggression-with-aggression", "say-ouch", "move-the-anger-then-draw-the-boundary", "joes-call-with-dad-about-criticism", "criticism-and-management-make-loved-ones-not-want-to-be-with-you", "i-dread-going-home"]
-sources: ["2025-03-07_Passive Aggression： How To Identify & Respond", "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation"]
+related: ["boundaries", "passive-aggressive-vs-aggressive-aggressive", "boundary-with-vs-boundary-against", "joes-dad-drinking-boundary", "dont-meet-aggression-with-aggression", "say-ouch", "move-the-anger-then-draw-the-boundary", "joes-call-with-dad-about-criticism", "criticism-and-management-make-loved-ones-not-want-to-be-with-you", "i-dread-going-home", "boundary-against-the-wired-pattern", "what-was-wired-with-love-needs-untying", "three-ways-we-push-love-away", "love-misconceptions-inherited-from-childhood"]
+sources: ["2025-03-07_Passive Aggression： How To Identify & Respond", "2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation", "2026-05-19_You're Pushing Away What You Want Most"]
 ---
 
 # Joe's Parents and the Criticism Boundary
@@ -70,6 +70,28 @@ What the parents did during the 18 months is also part of the teaching. They did
 
 This is consistent with the broader principle that boundaries are not about producing a desired behavior change in the other party. The parents could have not called for 30 years. The boundary still would have been the right move. The fact that they eventually came back is a happy outcome, not the point of the boundary. The point of the boundary was that Joe was no longer organizing his life around being criticized.
 
+## The 2026-05-19 Retelling: The Boundary as the Operational Form of "I Can Have Love Without Criticism"
+
+In the 2026-05-19 telling, Joe places the same boundary inside the broader teaching on pushing love away. He gives a slightly different age figure ("I wasn't a kid, I was 20-something years old") and frames the call as the spoken form of the recognition that love does not have to come with the wired-in companion.
+
+"I called up my parents and I was like, hey, I love you. I want to hang out. I want to be your son. But every time I come over, you just criticize me nonstop. And nobody wants to be criticized. I don't want to come over if I'm criticized. So I'm happy to come over if you can stop criticizing me." -- Joe Hudson, You're Pushing Away What You Want Most
+
+The 2026-05-19 telling is the canonical worked example of [[boundary-against-the-wired-pattern]] — the boundary statement that separates love from the companion (criticism) it got wired with in childhood. The structure is the three-component form: the love ("I love you. I want to hang out. I want to be your son"), the want (implicit in wanting to come over), and the limit ("I'm not coming over if I'm criticized").
+
+Joe also adds two new specific framings in this retelling that the earlier sources do not:
+
+**The scariness of the boundary as faith in a love the body has not yet experienced.** "Today I laugh at it because I'm like, of course I could draw that boundary. But then it was like life-changing. It was, it was the scariest thing, one of the scariest things I'd ever done. But what I was doing is I was making a stand saying, hey, I won't accept love in this variety anymore. I will only have love that comes without criticism. But the reason it was scary in me is because I was thinking I was saying I might not ever get love again. Because the only love I knew was with criticism." -- Joe Hudson, You're Pushing Away What You Want Most
+
+The retelling makes explicit that the boundary required holding faith in a kind of love the body had no experiential memory of. The wiring had paired love with criticism so completely that refusing the criticism felt to the body like refusing love itself. The boundary was the structural action that allowed a different kind of love to become possible — but at the moment of taking it, the action looked indistinguishable from refusing love.
+
+**What the body learned through the holding.** "In that process, I learned, oh, I can have love without criticism. And now, once I did that, I don't need to push love away as much anymore. Why do I need to push it away? Because it's actually safe." -- Joe Hudson, You're Pushing Away What You Want Most
+
+The teaching here is the downstream effect: the boundary did not just change the parents' behavior. It changed Joe's body's wiring. The body learned, experientially, that love does not require criticism. Once that learning happened, the push-away strategies the body had been using to manage criticism-loaded love stopped being needed. The need to push love away decreased because love became safe.
+
+This connects the example directly to [[three-ways-we-push-love-away]]: the strategies of chase, avoid, and fight are all responses to a love-imprint that paired love with something dangerous. When the boundary work updates the imprint, the push-away strategies lose their function. The mechanism is not willpower; it is the body's new evidence that the wired companion is not required for love to land.
+
+The 18-month duration in the 2026-05-19 retelling is "almost a year and a half," consistent with the 2025-03-07 telling.
+
 ## The 2025-12-16 Retelling: The Boundary as Structural Response to the Home-Doesn't-Feel-Like-Home Pattern
 
 In the 2025-12-16 telling, Joe places the same boundary in the broader context of why some families feel like home and others feel like an obligation. The boundary is reframed not as a response to passive aggression specifically but as a response to criticism and management more broadly — see [[criticism-and-management-make-loved-ones-not-want-to-be-with-you]] for the principle the boundary operates on.
@@ -82,3 +104,4 @@ The 2025-12-16 retelling makes explicit that this boundary is one available resp
 
 - 2025-03-07_Passive Aggression: How To Identify & Respond
 - 2025-12-16_Some Families Feel Like Home & Others Feel Like an Obligation (the same boundary retold in the broader frame of why some families feel like home and others feel like an obligation; the "year, two years" variant of the silence duration; the broadening of the boundary scope from criticism to "not judge me, not criticize me, not try to manage me"; the framing of the boundary as one available response when the adult child has realized they are organizing visits around dread of being managed)
+- 2026-05-19_You're Pushing Away What You Want Most (the boundary framed as the operational form of "I can have love without criticism"; the explicit scariness of the boundary as faith in a love the body has not yet experienced; the downstream body-learning effect: "I learned, oh, I can have love without criticism. And now, once I did that, I don't need to push love away as much anymore. Why do I need to push it away? Because it's actually safe"; the connection to [[three-ways-we-push-love-away]] — once the imprint updates the push-away strategies lose their function; the 20-something age framing and "almost a year and a half" duration)

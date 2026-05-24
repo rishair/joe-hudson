@@ -4,8 +4,8 @@ id: what-was-wired-with-love-needs-untying
 title: "Untie What Was Wired With Love (Separate Love From Guilt, Criticism, Withdrawal, Etc.)"
 aliases: ["what was wired with love needs untying", "untie what was wired with love", "separate love from guilt", "separate love from criticism", "separate love from withdrawal", "separate love from the thing it got wired to", "the untying-from-love practice", "unwire love from the imprint", "separate love from the wired pattern", "the practice of separating love from what got wired with it", "the love-untying work", "separating love from the imprint behaviors", "the fourth move in being love"]
 tags: ["love", "imprinting", "untying", "wiring", "practice", "self-relationship"]
-related: ["love-misconceptions-inherited-from-childhood", "from-looking-for-love-to-being-love", "childhood-imprinting", "complementary-trauma-surfaces", "take-contrary-action", "i-cant-find-love", "feeling-the-unfelt-emotion"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+related: ["love-misconceptions-inherited-from-childhood", "from-looking-for-love-to-being-love", "childhood-imprinting", "complementary-trauma-surfaces", "take-contrary-action", "i-cant-find-love", "feeling-the-unfelt-emotion", "boundary-against-the-wired-pattern", "three-ways-we-push-love-away", "negative-self-talk-reveals-love-imprint", "joes-parents-criticism-boundary"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2026-05-19_You're Pushing Away What You Want Most"]
 ---
 
 # Untie What Was Wired With Love
@@ -65,6 +65,12 @@ The untying is not a single move. It has stages:
 
 **6. Taking contrary action.** When the wired-in version reasserts itself, the move is to act against it. See [[take-contrary-action]]. The body needs repeated demonstrations that love does not require the companion to be present.
 
+## The Operational Boundary Move
+
+The untying work is not only felt and internal. It has an operational external form: the boundary that asserts love can come without the companion. The boundary statement structure: "I love you. I want your love. But I am not willing to [the companion] for your love."
+
+The boundary is what changes the body's experiential evidence about what love requires. The internal untying makes the boundary possible; the external boundary creates the conditions for the body to actually receive love-without-the-companion. The two work together. See [[boundary-against-the-wired-pattern]] for the developed treatment of the boundary move, and [[joes-parents-criticism-boundary]] for the canonical worked example: Joe drew the boundary with his parents about criticism, held it through 18 months of silence, and the body learned "I can have love without criticism."
+
 ## The Permission It Requires
 
 The work requires a specific permission the person often has not given themselves. Joe states it:
@@ -122,3 +128,4 @@ Patient. The practice does not have a fast version. Joe describes it as the "mos
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2026-05-19_You're Pushing Away What You Want Most (the operational external form of the untying work — the boundary statement that asserts love can come without the companion; the worked example of Joe drawing the boundary with his parents about criticism and the body learning experientially through holding the boundary; the framing of self-version-first as the sequencing rule — internal untying before external boundary; the self-talk-as-diagnostic for the imprint that the untying is addressing)

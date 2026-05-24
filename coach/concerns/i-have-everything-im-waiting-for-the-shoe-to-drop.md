@@ -4,7 +4,7 @@ id: i-have-everything-im-waiting-for-the-shoe-to-drop
 title: "I have everything and I'm waiting for the shoe to drop / I'm anxious about losing what I have / I have the good life and I can't enjoy it"
 aliases: ["I have everything and I'm waiting for the shoe to drop", "I'm anxious about losing what I have", "I have the good life and I can't enjoy it", "I have my dream life and I'm scared", "I'm scared something bad is going to happen", "everything is good and I'm anxious", "I have it all and I'm anxious", "I'm waiting for the other shoe to drop", "I don't deserve this and something will take it", "I have everything and I can't feel the good", "I'm with my family and I'm missing it", "I'm in my dream and I can't be in it", "the good-life anxiety concern", "the shoe-drop anxiety", "the I-don't-deserve-this anxiety", "the dream-life anxiety", "the I-can't-enjoy-the-good-thing concern", "the can't-receive-the-good-life concern", "the I-have-it-all-but concern", "I have a great husband and three healthy kids and I'm anxious", "I built my dream and I can't be in it", "the gratitude-with-anxiety configuration", "the I-keep-throwing-myself-into-the-to-do-list-so-I-don't-feel concern", "the I-keep-busy-because-I-have-the-good-life concern", "the I'm-with-my-family-and-feel-like-I'm-missing-it concern", "the can't-enjoy-the-good-thing-I-built concern", "I'm in my family and I feel like I'm not there", "the survivor-guilt anxiety", "the why-me-when-others-don't anxiety", "the not-deserving-the-good-life anxiety"]
 tags: ["concerns", "anxiety", "presenting concern", "front door", "deserving", "shoe-drop", "good life", "gratitude", "fear of loss"]
-sources: ["2026-03-10_Watch her Lifelong Anxiety Shift in Real Time ｜ Coaching with Joe"]
+sources: ["2026-03-10_Watch her Lifelong Anxiety Shift in Real Time ｜ Coaching with Joe", "2026-05-12_Anxiety Explained In A Way That Finally Makes Sense"]
 ---
 
 # I have everything and I'm waiting for the shoe to drop
@@ -110,6 +110,17 @@ This reframe often lands quickly in the body when the [[say-im-excited-ten-times
 
 The deeper reframe: the inability to feel the good life is downstream of the trained constriction against excitement. The good life keeps being there. The body keeps running the training. The work is on the training, not on producing more good life.
 
+## The Bigger-Room Frame
+
+This concern is one of the cleanest presentations of the second source of anxiety in [[two-sources-of-anxiety]]. The person has stepped into the bigger room -- the dream life, the loving family, the home they worked for -- and they are not letting themselves fill it. The body is producing the activation that matches the size of the room. The person is holding their felt-self small inside the activation. The mismatch is what reads as the chronic anxiety.
+
+"It also comes from that moment when we are doing the thing that we know we're meant to do, stepping into that bigger room, and we're not feeling it all the way." -- Joe Hudson, Anxiety Explained In A Way That Finally Makes Sense
+
+The reframe matters because it moves the concern out of the deservingness language ("I don't deserve this") and into the structural language ("the room is bigger than I have been letting myself fill"). The structural language gives the body something to do. The deservingness language is a dead end.
+
+The somatic move that addresses this directly is [[fill-the-room]]: let the felt-self expand to occupy the actual size of the life you are now in. The verbal complement is [[say-im-excited-ten-times]]. Both convert the held activation into accessible excitement. The combination is often the live-in-the-room intervention.
+
 ## Sources
 
 - 2026-03-10_Watch her Lifelong Anxiety Shift in Real Time | Coaching with Joe (the canonical session for this concern: Kelly Levesque presents the anxiety about her good life — three healthy children, married to her best friend, the dream-life she worked for — and Joe identifies the anxiety as repressed excitement; the live demonstration of [[say-im-excited-ten-times]] applied to her family-presence anxiety produces the somatic shift in the session; the connections to childhood "calm down" training, the project-stance toward the husband, the to-do-list avoidance, the survivor-guilt deservingness language all surface in the session; the coaching path of converting the anxiety to excitement and then addressing the underlying constrictions becomes the throughline)
+- 2026-05-12_Anxiety Explained In A Way That Finally Makes Sense -- the bigger-room frame for this concern: "it also comes from that moment when we are doing the thing that we know we're meant to do, stepping into that bigger room, and we're not feeling it all the way"; the structural language for the concern that replaces the deservingness language; the somatic move [[fill-the-room]] as the live-in-the-room intervention; the two-source framing in [[two-sources-of-anxiety]] that locates this concern as the canonical source-2 case

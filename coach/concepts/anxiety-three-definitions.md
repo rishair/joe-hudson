@@ -4,8 +4,8 @@ id: anxiety-three-definitions
 title: "Anxiety Defined Through Three Brains"
 aliases: ["three brains definition of anxiety", "head heart gut anxiety", "anxiety from head heart gut perspective", "what is anxiety", "anxiety as preparing for attack and unmet needs and life force constriction", "three definitions of anxiety", "the head heart gut framing of anxiety", "anxiety from three intelligences"]
 tags: ["anxiety", "definitions", "head", "heart", "gut", "three brains", "framework"]
-related: ["head-heart-gut", "fear-vs-anxiety", "anxiety-as-unarticulated-need", "anxiety-as-constricted-life-force", "fear-as-signal-of-care", "identity-extension-expands-fear"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
+related: ["head-heart-gut", "fear-vs-anxiety", "anxiety-as-unarticulated-need", "anxiety-as-constricted-life-force", "fear-as-signal-of-care", "identity-extension-expands-fear", "two-sources-of-anxiety", "regulate-the-body-before-doing-anxiety-work", "fill-the-room", "compare-short-term-to-long-term-consequences"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes", "2026-05-12_Anxiety Explained In A Way That Finally Makes Sense"]
 ---
 
 # Anxiety Defined Through Three Brains
@@ -81,6 +81,29 @@ The "thing that needs doing" can be:
 
 This four-form action step is the operational complement to the three-brain definition. The three-brain frame (head: preparing for attack; heart: unmet needs; gut: constricted life force) tells you what anxiety is across the three layers. The four-form action step tells you what to actually do when anxiety arrives. The "specific thing not being done" formulation is the single-sentence summary that points at all four forms at once.
 
+## The Two-Source Compression (Action Not Taken and Bigger Room Not Filled)
+
+A further compression of the teaching, delivered as a YouTube-style standalone video, sorts every chronic anxiety into one of two sources:
+
+"Most of the anxiety in our life comes from not doing the thing that we know that we want to be doing, but it also comes from that moment when we are doing the thing that we know we're meant to do, stepping into that bigger room, and we're not feeling it all the way." -- Joe Hudson, Anxiety Explained In A Way That Finally Makes Sense
+
+The two sources:
+
+1. **The action you know to take but are not taking.** External action, suppressed emotion, authentic expression, or blocked positive state. The four forms named above all sort into this first source.
+2. **The bigger room you are in but not filling.** You have already started doing the thing -- new job, new relationship, new way of being. The body is producing the activation that matches the size of the room. You are holding your felt-self small inside that activation. The mismatch is what reads as anxiety.
+
+See [[two-sources-of-anxiety]] for the full treatment. The two-source compression is useful because it separates the response: source 1 asks for action; source 2 asks for feeling the expansion. Both often run at the same time -- the doubled case is most common in [[i-have-everything-im-waiting-for-the-shoe-to-drop]] and produces the chronic-anxiety-with-the-good-life configuration.
+
+The two-source frame and the three-brain frame complement each other. The two-source frame is the diagnostic for what to do; the three-brain frame is the diagnostic for what layer is reporting. A person whose heart is signaling unmet needs is usually working source 1 (an unmade ask). A person whose gut is signaling constriction of life force is often working source 2 (the bigger room not filled). The somatic move for source 2 is [[fill-the-room]]; the cognitive move for source 1 when it is held by fear of interpersonal cost is [[compare-short-term-to-long-term-consequences]].
+
+## The Body-Regulation Prerequisite
+
+The three-brain definition does not foreground this, but the two-source compression makes it explicit: none of the anxiety work lands cleanly if the body is dysregulated. The system has to be regulated enough to receive the lessons of anxiety. See [[regulate-the-body-before-doing-anxiety-work]] for the prerequisite principle.
+
+The order of work: first regulate the body (walks, breath, nature, massage, gentle movement), then run the inquiry (sort which source, address the specific cause). A contracted system cannot learn the lessons that the anxiety is trying to deliver. Regulation creates the conditions; inquiry does the work; both run in parallel over the long horizon.
+
+The two-source compression also makes a structural point about anxiety treatment time. Anxiety is not a short-term play. The body-level regulation is ongoing training; the source-level work happens whenever a specific source surfaces. The pop-culture frame of "take some deep breaths and the anxiety will go away" is not what is being taught. The frame is: anxiety is information about something specific (the action not taken or the expansion not felt); find what it is pointing to; address it; the anxiety releases.
+
 ## The Immediate-Action Advantage of the Heart View
 
 The heart definition (unmet needs) is highlighted as particularly important because it is the most immediately actionable. Asking "what need is this signaling?" gives the person something specific to do. The head definition (vigilance) tends to amplify itself if engaged head-on. The gut definition (life force constriction) requires somatic attention that takes practice.
@@ -119,3 +142,4 @@ Matter-of-fact. The three definitions are offered as tools, not as a hierarchy. 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
 - 2026-04-07_The 11 Human Emotions Explained in 7 Minutes -- the source for the compressed inversion form ("anxiety isn't that you have too much to do, it's that there's something you know needs doing and you're not doing it"); the four-form action step expansion covering external action, suppressed emotion, authentic expression, and blocked positive states
+- 2026-05-12_Anxiety Explained In A Way That Finally Makes Sense -- the two-source compression of the anxiety teaching as the YouTube-style standalone framing ("most of the anxiety in our life comes from not doing the thing that we know that we want to be doing, but it also comes from that moment when we are doing the thing that we know we're meant to do, stepping into that bigger room, and we're not feeling it all the way"); the explicit prerequisite of body regulation before any of the psychological inquiry can land; the long-game framing that anxiety is not a short-term play and that the body-level regulation is the ongoing training the work depends on

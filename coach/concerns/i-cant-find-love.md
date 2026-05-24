@@ -4,7 +4,7 @@ id: i-cant-find-love
 title: "I can't find love / I want to find the right person / Why isn't it working out?"
 aliases: ["I can't find love", "I want to find the right person", "I'm looking for love", "I want to find love", "I'm searching for the right partner", "why isn't it working out", "the spark never happens", "I've been on a thousand dates", "I keep going on dates and nothing clicks", "I'm always single", "I keep meeting people but it never works", "they're never quite right", "I'm having trouble finding a partner", "where is my person", "when will I meet the right person", "I'm tired of dating", "I'm a great catch and I'm still single", "I have everything together but I can't find a partner", "I'm fifty and I haven't met the one", "all my friends are partnered and I'm not", "looking for love presenting", "I can't seem to manifest a partner", "I keep being attracted to the wrong people", "the dating numbers game"]
 tags: ["relationships", "dating", "partnership", "loneliness", "search", "concern"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)", "2026-05-19_You're Pushing Away What You Want Most"]
 ---
 
 # I can't find love / I want to find the right person
@@ -84,6 +84,12 @@ The same presenting concern can go in different directions based on which form t
 
 - **If the person describes a parental pattern they did not want to repeat:** the avoidance of partnership may be a refusal to repeat the parental version of love. Whatever the parents' love looked like is wired as "love" in the body, and the body is staying away from anything resembling that. The work is to surface the inherited definition. See [[love-misconceptions-inherited-from-childhood]] and [[childhood-imprinting]].
 
+- **If the person is in the "I just haven't found the right one yet" frame:** the wrong-person deception is operating. The body's selection mechanism is reliably producing partners who cannot land — significantly younger, already attached, in another life stage. The diagnostic move is to ask for the data ("what happened with the past relationships you said were good?") and the structural question ("how much are you actually attracted to people who are unavailable?"). See [[convincing-ourselves-were-not-pushing-love-away]] and the worked example in [[the-35-year-old-dating-younger-women]].
+
+- **If the person blames past partners or themselves for specific behaviors that caused the relationships to fail:** the blame deception is operating. Each specific blame-story is technically true; the recurrence of blameable behaviors across many relationships is what the deception hides. The structural question: "if this same dynamic has happened with three different people, who is the common factor?" See [[convincing-ourselves-were-not-pushing-love-away]].
+
+- **If the person can name their relational pattern but the diagnostic of the childhood imprint is hard to access:** use the self-talk back-door. The negative self-talk is the present-tense version of the love-imprint. Self-criticism → love-was-criticism. Self-guilt-tripping → love-was-guilt-tripping. The diagnostic does not require access to the childhood. See [[negative-self-talk-reveals-love-imprint]].
+
 ## What Joe Does Not Do
 
 He does not collude with the search frame. He does not help the person optimize their dating profile, refine their criteria, or work the apps better. The frame itself is the problem; doing it more skillfully does not address the structure that is producing the absence.
@@ -96,7 +102,7 @@ He does not push past the fear. The fear of losing oneself is real and was usual
 
 ## Coaching Path
 
-1. **Identify the form of push-pull.** Which version is this person doing? Jealousy, neediness, hyper-independence, transactionality, the checklist, the "not enough" frame, or the parental-pattern avoidance. The naming begins the conversation. See [[push-pull-dynamics-in-dating]].
+1. **Identify the form of push-pull.** Which version is this person doing? Jealousy, neediness, hyper-independence, transactionality, the checklist, the "not enough" frame, or the parental-pattern avoidance. The naming begins the conversation. See [[push-pull-dynamics-in-dating]]. The structural compression of the forms to three categories — chase, avoid, fight — often produces faster recognition than the form-by-form analysis. See [[three-ways-we-push-love-away]].
 
 2. **Surface the fear of losing oneself.** The push form is downstream of this fear. The fear can be approached directly. What would you lose if you really committed? What did love mean for the people who first showed you what love was? See [[fear-of-losing-yourself-in-love]].
 
@@ -113,3 +119,4 @@ He does not push past the fear. The fear of losing oneself is real and was usual
 - 2023-11-10_Finding a Romantic Partner
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson) -- the "if I am put together enough" specific form of the not-enough conditional; the never-ending more pattern made explicit; the use of the client's own theological framework to mirror back the self-rejection; the explicit naming that "we don't find the right person" and that love arrives at the place of dissolved control; the heartbreak-as-self-betrayal-antidote mechanism
 - 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title
+- 2026-05-19_You're Pushing Away What You Want Most (the three-category structural compression of push-pull forms — chase/avoid/fight — as a faster diagnostic than the form-by-form analysis; the two self-deceptions that keep the push-pull invisible — wrong-person and blame — as reads to surface in the conversation; the self-talk back-door diagnostic for clients whose childhood imprint is hard to access directly; the worked example of the 35-year-old dating significantly younger women as the wrong-person deception being surfaced through the structural question)

@@ -4,8 +4,8 @@ id: love-misconceptions-inherited-from-childhood
 title: "Love Is Whatever Your Childhood Role Models Modeled As Love"
 aliases: ["misconceptions of love come from childhood", "love is whatever they showed you", "your love definition is inherited", "what you think love is comes from childhood", "the imprinted definition of love", "you learned what love is from your parents", "love conditioning", "the childhood definition of love", "if love meant being hit then love is painful", "if love meant being nice then love is nice", "your specific misconception about love", "intellectual vs somatic belief about love", "the body's definition of love", "what was wired to love", "love wired with guilt", "love wired with guilt-tripping"]
 tags: ["love", "childhood", "imprinting", "definitions", "core concept", "somatic"]
-related: ["love-as-deep-welcoming", "childhood-imprinting", "love-vs-nice", "love-requires-empowerment", "boundary-with-vs-boundary-against", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "love-is-the-best-change-agent", "complementary-trauma-surfaces", "subconscious-partner-selection", "take-contrary-action", "different-languages-of-love", "conditional-clauses-of-heart-closure", "fear-of-losing-yourself-in-love", "from-looking-for-love-to-being-love", "i-cant-find-love"]
-sources: ["2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner"]
+related: ["love-as-deep-welcoming", "childhood-imprinting", "love-vs-nice", "love-requires-empowerment", "boundary-with-vs-boundary-against", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "love-is-the-best-change-agent", "complementary-trauma-surfaces", "subconscious-partner-selection", "take-contrary-action", "different-languages-of-love", "conditional-clauses-of-heart-closure", "fear-of-losing-yourself-in-love", "from-looking-for-love-to-being-love", "i-cant-find-love", "negative-self-talk-reveals-love-imprint", "three-ways-we-push-love-away", "boundary-against-the-wired-pattern"]
+sources: ["2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner", "2026-05-19_You're Pushing Away What You Want Most"]
 ---
 
 # Love Is Whatever Your Childhood Role Models Modeled As Love
@@ -108,6 +108,16 @@ The answers usually contain the specific shape of the adult misconception. Once 
 
 The cognitive replacement does not work. "Love is actually X" cannot dislodge "Love is Y" at the deep level. What dislodges it is felt experience of X repeated enough times that the body learns what love actually feels like.
 
+## The Self-Talk Back Door
+
+When the person cannot easily articulate the childhood love-imprint — the memories are hazy, the parents are idealized, the access is blocked — the self-talk gives an alternative diagnostic path. The way the person speaks to themselves in the head is a direct readout of the love-imprint, because the inner voice is the introject of the original caregiver delivering "love" in the form it learned.
+
+"The way you can find out exactly the way that you push love away, if it's not obvious to you, is you just pay attention to the negative self-talk that you have in your head. How you speak to yourself, to some degree, is like the way that you were taught love was. So if you're constantly criticizing yourself in your head, then you know that's what you were taught that love was, was criticism. If you're abusing yourself, then that's what you were taught. If you're guilt-tripping yourself, that's what you were taught love was." -- Joe Hudson, You're Pushing Away What You Want Most
+
+The mapping is direct: self-criticism → love-was-criticism; self-abuse → love-was-abuse; self-guilt-tripping → love-was-guilt-tripping; self-shaming → love-was-shaming. The diagnostic does not require access to the childhood; the self-talk is happening right now and is the present-tense version of the same wiring.
+
+See [[negative-self-talk-reveals-love-imprint]] for the developed treatment of this diagnostic. The principle is operationally useful for the coach who needs to identify the imprint quickly without lengthy archeology of the childhood. It also explains why the self-work and the relational work are the same work: the self-talk and the relational pattern are the same wiring operating in two directions.
+
 ## The Common Cultural Misconceptions
 
 In addition to the family-specific imprints, there are widespread cultural misconceptions about love that show up across many backgrounds. These are not strictly individual; they are inherited from the culture rather than the family. The biggest three:
@@ -198,3 +208,4 @@ The [[from-looking-for-love-to-being-love]] practice rests on the work of untyin
 - 2022-10-26_Love Over Defense
 - 2023-04-28_How Love Gets Confused (the intellectual-vs-somatic-belief distinction; the "I turned out fine" marker; the three practical implications: attraction, what we do for love, when we close the heart; the criticism-as-love example expanded; the heartbreak as the way out)
 - 2023-11-10_Finding a Romantic Partner (the guilt-tripping imprint as worked example; how the imprint produces avoidance of partnership; the emotion-as-strategy misreading; the boundary work as separation of love from the wired pattern; the connection to finding a partner)
+- 2026-05-19_You're Pushing Away What You Want Most (the self-talk back-door diagnostic for the love-imprint — how you speak to yourself reveals what was taught to you as love; the explicit mappings from self-talk content to love-imprint texture: self-criticism / love-was-criticism, self-abuse / love-was-abuse, self-guilt-tripping / love-was-guilt-tripping; the diagnostic is operationally useful when the childhood is hard to access directly)

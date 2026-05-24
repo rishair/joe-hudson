@@ -146,6 +146,7 @@ It does not mean lovability is fully internal. Other people's responses are not 
 - Toward [[what-do-you-lose-if-this-belief-goes-away]] when the not-enoughness story persists and the next move is to surface the protection it has been providing
 - Toward [[loss-of-control-and-loss-of-self-are-the-same]] when the protection turns out to be control
 - Toward [[love-arrives-when-youre-not-scared-of-losing-yourself]] when the work moves from the lovability gating belief to the structural mechanism by which partnership has been kept at bay
+- Toward [[the-only-way-to-not-be-rejected-is-to-reject-yourself-first]] when the lovability-condition is operating as the gate that prevents the person from going for what they want (the asking, the going-all-in, the putting-themselves-out-there); the lovability-condition IS the self-rejection that produces the not-going-for-it
 - Toward the historical work on the conditional love of the original environment
 
 ## Tone

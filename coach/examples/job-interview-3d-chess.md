@@ -4,7 +4,7 @@ id: job-interview-3d-chess
 title: "The Job Interview 3D Chess Story (Trying to Be Whoever They Want)"
 aliases: ["job interview 3D chess story", "the job interview rejection story", "the job interviews where I tried to game it", "the 3D chess of job interviews", "the early 30s job-search rejection story", "the rejecting-myself-first story", "I rejected myself first the job interview story", "the unwinnable game of guessing what they want", "the patsy or the capable or the subservient story", "the I don't know what they want story", "the 3D chess of trying to be what they want", "what they want might be determined by how much coffee they had that day", "the job hunt where I kept trying to game it", "the rejection that hurt because I rejected myself first", "the I keep getting rejected job-search story", "the early-career job search story", "the if-I-can-figure-out-what-they-want-I-can-be-it story", "the interview-game story", "Joe's job-interview story", "the interview-prep self-betrayal story"]
 tags: ["example", "story", "job interview", "rejection", "approval", "self-rejection", "people-pleasing", "unwinnable", "doing-to-be-valuable", "early career"]
-related: ["value-is-intrinsic-not-earned", "doing-things-for-love-is-prostitution", "reputation-control-is-unwinnable", "speaking-truth-cures-approval-seeking", "how-do-i-stop-seeking-approval", "you-cannot-make-people-happy", "im-so-stressed-out", "self-rejection-precedes-others-rejection"]
+related: ["value-is-intrinsic-not-earned", "doing-things-for-love-is-prostitution", "reputation-control-is-unwinnable", "speaking-truth-cures-approval-seeking", "how-do-i-stop-seeking-approval", "you-cannot-make-people-happy", "im-so-stressed-out", "the-only-way-to-not-be-rejected-is-to-reject-yourself-first"]
 sources: ["2025-08-12_You're Not Giving People the Chance to Love You"]
 ---
 
@@ -23,6 +23,8 @@ Every rejection hurt. But as he stayed with the hurt, he noticed it was actually
 **The third reason (he later identified): the unwinnable game.** He was trying to game something he had no idea how to game. He would look at the interviewer and try to be what they wanted. But he did not know what they wanted. They might want a patsy. They might want a super capable person. They might want someone subservient. They might want something that depended on what kind of mood they were in that day, on how much coffee they had had. He was trying to play 3D chess against an unknowable opponent in an unknowable game.
 
 The compound stress: he was stressed because he was rejecting himself, and stressed because he was trying to play a game he could not win.
+
+This is the developmental version of [[the-only-way-to-not-be-rejected-is-to-reject-yourself-first]]. The job-interview story is where the principle was felt before it was articulated as a structural law. The later, more compressed form of the same insight: external rejection cannot dent self-rejection, and the self-rejection is the more painful rejection.
 
 ## Joe's Words
 
@@ -88,3 +90,4 @@ The 3D-chess image is delivered with a slight wry energy. The absurdity of the s
 ## Sources
 
 - 2025-08-12_You're Not Giving People the Chance to Love You (the canonical telling of the early-30s job-search story; the two-pain analysis — self-rejection plus external rejection; the third pain of trying to play the unwinnable game; the 3D-chess metaphor for the unknowable target; the coffee-as-determinant detail for the unknowability of what they want)
+- 2026-05-14_Why You Can't Ask for What You Want ｜ 15mins Coaching with Joe (the compressed live-coaching form of the same insight; Joe delivers the principle as the structural inversion to a client struggling to ask for what he wants; "the only way in life to not get rejected is to make sure you reject yourself first" — the principle the job-interview story made him feel before he could state it; confirms that the job-interview discovery generalized into the live-coaching toolkit)

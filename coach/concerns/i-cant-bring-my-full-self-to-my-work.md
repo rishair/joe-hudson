@@ -124,6 +124,7 @@ The path Joe followed in the source session, generalized.
 - [[i-caretake-people]] — the adult version of the parentified-child wiring this concern often sits on top of
 - [[i-dont-want-to-take-responsibility]] — adjacent when the responsibility-fatigue is itself the consequence of years of being responsible for everyone's emotions
 - [[i-cant-feel-my-emotions]] — distinct; that concern is for when the wires from body to awareness have been dimmed. This concern is for when the wires work and the expression is being actively contained at the output.
+- [[i-have-a-hard-time-going-all-in]] — adjacent when the holding-back at work is specifically about the asking moment (the pitch, the sale, the request) rather than the moment-to-moment expression inside the work; the going-all-in concern centers on the resistance to the act of asking, this concern centers on the held-back self-expression once the work is in motion
 
 ## Sources
 
