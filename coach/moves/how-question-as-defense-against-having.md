@@ -4,7 +4,7 @@ id: how-question-as-defense-against-having
 title: "Catch the 'How Do I?' Question as a Wall (You Already Just Did It)"
 aliases: ["how question as defense against having", "how do I question as the wall", "the how-to question is another wall", "how-do-I-receive is a defense", "catch the how-question after the recognition", "how did you just receive", "you already just did it move", "the how-question as the next wall", "the how-to as the reinstall of search", "the how-question catches the receive and turns it back into search", "you've already done it now you ask how", "the how-question as I-don't-want-to-have-that", "block the how-to escape", "the post-recognition how-question move", "the you-just-did-it-twice catch", "the now-you-tell-me-you-don't-know-how catch"]
 tags: ["moves", "questions", "wall", "defense", "receiving", "search-state", "post-recognition", "catch"]
-sources: ["2024-08-20_How Do I Find My Purpose？"]
+sources: ["2024-08-20_How Do I Find My Purpose？", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Catch the 'How Do I?' Question as a Wall
@@ -63,6 +63,19 @@ After Joe had run the somatic A/B and the person had felt the receive-state, int
 
 The catch is made twice in this exchange. First, when the original how-question arrives. Second, when the person produces a "I feel like I don't know how" even after the first catch. The second catch is more direct: the person has done it twice in the same minute. The "I don't know how" is treated as data about the system's resistance, not as a truthful report.
 
+The same structure applies after the loving-instruction has just been completed by the body:
+
+- **Joe:** "Let's go back again to feeling the part of you that is most in pain. Your job is to love it the way you wanted to be loved by your parents."
+- **Person:** "I always — I mean, I tried to do it earlier, but I've always had confusion when you said love, how to do that. I don't know how to do it though."
+- **Joe:** "You did it."
+- **Person:** "I did it. So literally just put my attention there?"
+- **Joe:** "No. And then you loved it. You didn't ask me how to do it the first time, so I'm not gonna buy that you don't know how to do it. I saw you do it. You didn't ask."
+- *(Source: This is How To Love Yourself)*
+
+The structural form is identical to the receiving variant but applied to the act of loving. The person has just demonstrably loved the part (the body softened, the felt-state shifted) and is now asking "how do I do that?" — converting the live competence into a thing-to-figure-out. Joe refuses the conversion: "I'm not gonna buy that you don't know how to do it. I saw you do it." The refusal is the same catch. The competence being protected is loving rather than receiving, but the move is the same.
+
+The phrasing "I'm not gonna buy that" is operationally important. It is not "you're wrong" or "you're avoiding." It is a friendly refusal of a transaction the person is offering. The transaction is "let me reset to not-knowing so you can teach me again." The refusal preserves the recognition that the person has just done the thing without making them feel caught or attacked.
+
 ## What Joe Does With the Response
 
 - **If the person stays in the recognition:** the work is done. The receive-state has been demonstrated and the next wall has been caught. Anchor the felt state in the body. See [[let-your-body-remember-this-moment]].
@@ -115,3 +128,4 @@ The naming "this is another wall, this is you saying, oh no, I don't want to act
 ## Sources
 
 - 2024-08-20_How Do I Find My Purpose? (the canonical exchange in which the how-question arrives immediately after the receive-state and Joe refuses to answer it; the catch made twice in the same minute, the second time after the person says "I feel like I don't know how"; the structural naming "this is another wall, this is you saying, oh no, I don't want to actually have that level of fulfillment")
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the same catch applied to the act of loving rather than receiving. After the person has demonstrably loved the worst-feeling part (the body softened, the felt-state shifted) and then says "I don't know how to do it though," Joe refuses: "You didn't ask me how to do it the first time, so I'm not gonna buy that you don't know how to do it. I saw you do it." The variant demonstrates that the catch is the same structural move whether the competence being protected is receiving, loving, or any other felt-act the person has just performed.

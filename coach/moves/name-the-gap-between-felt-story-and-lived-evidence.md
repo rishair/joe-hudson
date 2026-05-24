@@ -4,7 +4,7 @@ id: name-the-gap-between-felt-story-and-lived-evidence
 title: "Name the Gap Between the Felt Story and the Lived Evidence (Where Does the Story End and the Truth Begin?)"
 aliases: ["name the gap between felt story and lived evidence", "where does the story end and the truth begin", "the lived-evidence move", "use the person's own life as counter-data", "the story-vs-life-evidence move", "the contradiction-with-the-actual-life move", "you always have enough but you always feel unsafe", "name what the life shows against what the body claims", "the somatic-story vs the lived-life gap", "use the person's continuous safety as counter-data to felt unsafety", "you're safe enough to come here and have this conversation", "the live-evidence counter to the felt story", "the always-have-enough-always-feel-unsafe contradiction", "you figure out how to be safe move", "the truth about your safety question", "where's the story end and the truth begin in this", "what's the truth about your X question", "the truth-vs-story diagnostic", "the felt-story versus lived-life contradiction", "name the contradiction between the body's claim and the body's history"]
 tags: ["move", "story", "truth", "evidence", "contradiction", "live coaching", "money", "safety", "limiting beliefs"]
-sources: ["2025-04-22_Why Am I Money Blocked？ (Coaching Session With Master Coach)"]
+sources: ["2025-04-22_Why Am I Money Blocked？ (Coaching Session With Master Coach)", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Name the Gap Between the Felt Story and the Lived Evidence
@@ -92,6 +92,21 @@ The lightness is essential. If the observations are delivered with weight, the p
 
 The question "where's the story end and the truth begin?" carries genuine inquiry. Joe does not know exactly where the seam is in this person's life. The question is real. The genuineness is what allows the person to look.
 
+## The Moment-to-Moment Variation
+
+The move generalizes from "felt-story vs. life-history-evidence" to "identity-story vs. the moment-just-passed." A specific compressed version: the person identifies as unhappy/depressed/anxious as a fixed condition, and a moment of relief just passed without being registered. The gap to name is between the persistent identity claim and the single moment of felt-data the person just produced.
+
+The canonical demonstration: an 18-year-old depressed person, after Joe's loving-instruction, was suddenly happy and smiling. Joe stopped and walked the loop:
+
+- **Joe:** "Let's just look at the thing. What just happened is you hung out, you loved this aspect of yourself. Before, you weren't happy. Now you're happy."
+- **Person:** "Uh, wow. Oh my goodness. You are right. You're absolutely right."
+- **Joe:** "So there's also something happening. You have this story in your head about how you're unhappy that persists even if you're happy and on a moment-to-moment basis. So there's moments where you're happy, but you're like, no, I'm unhappy. I'm an unhappy person. This is what I do. I'm unhappy. But then you don't, you're not noticing the actual moments of happiness."
+- *(Source: This is How To Love Yourself)*
+
+The structural pattern is the same as the life-history variant — chronic felt-state on one side, contradicting evidence on the other, gap to be located. But the timescale is compressed: the evidence is not a continuous life-pattern; it is the single moment that just occurred and was overridden by the identity claim. The instruction "you're not noticing the actual moments of happiness" is the gap-naming applied to the moment-by-moment time scale.
+
+This variation is particularly useful with [[im-depressed|depression-presenting clients]] who treat depression as a fixed identity and unconsciously override the felt-data of moments of relief. The move makes the identity-override visible. The person can then watch the override happen in real time and choose differently. See [[story-of-suffering-persists-over-moments-of-relief]] for the read this variation responds to.
+
 ## Variations
 
 The move generalizes wherever a chronic felt-state coexists with a continuous life-evidence contradiction:
@@ -132,3 +147,4 @@ The structure is the same: list the chronic felt-claim, list multiple pieces of 
 ## Sources
 
 - 2025-04-22_Why Am I Money Blocked? (Coaching Session With Master Coach) — the canonical demonstration: the person presents "how can I deal with money and not freeze up?", admits to not feeling deserving, then to feeling unsafe. Joe lays out three observations from the person's life that contradict the felt-unsafety ("you freeze around money but you always have enough of it / you always feel unsafe but you always figure out how to be safe / you're safe enough to come here in front of all these folks") and asks "where's the story end and the truth begin in this?" The person's fragmented response ("that feels like it's part of the problem") is the signal that the both-and has been newly opened; Joe pivots to the next move, asking the truth-question from inside the felt-unsafety.
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the moment-to-moment compressed variation: with an 18-year-old who claims "I haven't felt good in years" but has just smiled and reported being happy, Joe walks the loop ("before you weren't happy, now you're happy") and then names the gap between the persistent identity-story and the unnoticed felt-moment ("you have this story in your head about how you're unhappy that persists even if you're happy on a moment-to-moment basis... you're not noticing the actual moments of happiness"). The variant demonstrates the same gap-naming structure applied at the second-by-second timescale where the evidence is the moment that just passed rather than the life that has been continuously lived.

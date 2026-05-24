@@ -117,6 +117,14 @@ The question is asked from genuine wonder, not from technique. The voice tends t
 - The Connection Course exercise on triggers
 - A person has done body-level trigger work and needs the verbal move
 
+## The Specific Application to Receiving Criticism
+
+A narrower but very common application of the move: responding to criticism, judgment, or disappointment directed at you with questions rather than defense. The criticism-case is treated separately in [[ask-the-criticizer-what-they-mean]] because it generalizes differently than the trigger-case for many people — criticism feels content-laden in a way that generic triggers do not, and learners often fail to apply the trigger-move to the criticism-receiving case unless it is explicitly authorized.
+
+The specific operational questions for criticism: "What do you mean by that? What's going on? What am I missing? What would you have me do?" These are the criticism-specific instantiations of the open-ended-non-judgmental-question principle.
+
+The underlying mechanism is identical: respond to the threat-stimulus with genuine wonder, the threat-dynamic dissolves, the substrate need (being-seen) gets met. The narrower scope of [[ask-the-criticizer-what-they-mean]] makes the application explicit for the case where the threat-stimulus is a content-laden criticism.
+
 ## Downstream (Where This Leads)
 
 - Toward [[triggers-reveal-your-own-beliefs]] for the self-knowledge extraction after the moment
@@ -125,6 +133,7 @@ The question is asked from genuine wonder, not from technique. The voice tends t
 - Toward [[name-your-trigger-as-vulnerability]] when the trigger is too big for the question move
 - Toward [[being-heard]] for the partner-side mechanism that makes the move work
 - Toward [[say-the-thing-youre-not-saying]] for the upstream version (what to do when there is no trigger to respond to yet)
+- Toward [[ask-the-criticizer-what-they-mean]] for the specific application to receiving criticism
 
 ## Sources
 

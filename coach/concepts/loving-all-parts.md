@@ -5,7 +5,7 @@ title: "Loving All Parts"
 aliases: ["loving all aspects of self", "learning to love every part", "loving the dark parts", "love her keep her", "loving the version of you that carried the pattern", "loving who you were"]
 tags: ["self-love", "parts", "integration", "core principle"]
 related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "honor-the-patterns-intent", "integration", "reclaiming-abandonment", "stacy-father-conversation", "love-the-aspect-through-someone-else", "self-forgiveness-as-spoken-move", "five-triggers-projection-experiment"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2024-04-15_Am I A Fake？", "2024-04-29_Triggered By Others？ Watch This", "2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2024-04-15_Am I A Fake？", "2024-04-29_Triggered By Others？ Watch This", "2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Loving All Parts
@@ -74,6 +74,25 @@ The universalization is not minimization. It does not say "your dishonesty is fi
 
 This is the structural form of two hacks Joe offers: [[love-the-aspect-through-someone-else]] (find someone you love with this trait, channel that love back) and the cunningness reframe ("can you imagine a 5-year-old girl who is cunning?"). Both work by universalizing the trait so the impossible-to-love version becomes the perfectly-lovable version.
 
+## The Reference Standard for How to Love a Part
+
+The instruction "love this part" is often too abstract. A person who has been hating a part of themselves for decades does not have a felt template for what loving it would look like. Joe gives a specific reference standard that the body knows how to access: love the part the way you wanted love from your mom and dad.
+
+The reference works because every person has a felt picture of how they wanted to be loved as a child. That picture contains all the relevant qualities: patience, presence, not needing the child to change, full attention without conditions, staying when the child is in pain. The picture is precise. Pointing the body at "love this part the way you wanted love from your parents" supplies the precision the abstract instruction "love it" was missing.
+
+The sequence Joe uses in live coaching:
+
+1. **Find the worst-feeling part of the body.** Not the whole body. The specific part that feels the worst. "I don't want you to feel your whole body. I just want you to look into your body to the part of yourself that feels the worst." — Joe Hudson, *This is How To Love Yourself*
+2. **Spend time with it.** Put attention on it without doing anything. "Just hang out with that part. Just spend time with it for a minute."
+3. **Ask what they wanted from their parents.** "What do you want from, say, your mom and your dad right now? Not just generally, what do you want from your mom and dad?" The answer is usually one word: love.
+4. **Direct that love at the part.** "I want you to love that thing. Go back to it, pay attention to it, and I want you to love it exactly the way that you want love from your mom and dad. All the patience. Not needing it to change."
+
+The "not needing it to change" is the specific quality the body has to access. The parental love the person wanted was love without an agenda for the child to be different. Loving the part of self this way means letting the part stay exactly as it is while the love is given. This is the operational form of [[loving-without-trying-to-change]] applied to a specific body location.
+
+The reference standard makes the move accessible to people who do not know how to love themselves but who do know what kind of love they wished they had received. The wished-for love is the template. The self-loving is its delivery.
+
+See [[love-the-worst-feeling-part-like-your-parents-should-have]] for the dedicated move article.
+
 ## Loving Without Trying to Change
 
 A specific instruction that prevents the most common failure mode: do not love the part in order to change it. See [[love-is-the-best-change-agent]] for the mechanism, and the anti-pattern [[loving-to-transform]] for what happens when this is violated.
@@ -138,3 +157,4 @@ See [[love-surfaces-the-unloved]] for the dedicated treatment of this principle.
 - 2024-04-15_Am I A Fake？ (the cunning-reframe example; loving the part the body refused to look at by universalizing it as the will of a 5-year-old)
 - 2024-04-29_Triggered By Others？ Watch This (the universalize-the-trait move — we've all been dishonest, we all have some perfectionist in us, we all think we know things we don't — as the structural step that makes loving the trait possible)
 - 2026-01-06_Walk with a Master Coach: "Self-improvement is self-destruction" -- the surfacing mechanism: when love and gratitude are turned on, all the unloved parts come to the surface to be loved (the feeding-fish image); the practical implication that the parts to be loved do not have to be hunted for but surface on their own when love is the field; the integration that difficult emotion during love-work is the work, not the interruption to it (see [[love-surfaces-the-unloved]] for the dedicated treatment)
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the canonical demonstration of the "love the part the way you wanted love from your mom and dad" instruction with an 18-year-old presenting as overwhelmed by sensations. Joe walks the person through: locate the worst-feeling part, ask what they wanted from their parents (answer: love), then love the part with exactly that quality — all the patience, not needing it to change. The session demonstrates the parental-love-as-template reference standard that makes self-love operationally available for someone who does not know how to love themselves but knows how they wanted to be loved.

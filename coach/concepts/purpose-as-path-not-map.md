@@ -4,7 +4,7 @@ id: purpose-as-path-not-map
 title: "Purpose as Path, Not Map (You Know the Next Ten Steps, Then You Know the Next Ten Steps)"
 aliases: ["purpose as path not map", "the path not the map of purpose", "purpose is a path not a map", "you know where to go in 10 more steps", "the path-in-the-woods metaphor for purpose", "the no-map purpose principle", "you don't get a map you get a path", "purpose has no 6-step manual", "purpose unfolds one stretch at a time", "the next-ten-steps reveal the next-ten-steps", "the woods-path purpose metaphor", "purpose without a map", "purpose as walking the path not reading the map", "navigation by next-step not by destination", "purpose-navigation principle", "the ten-steps-then-ten-steps principle", "you walk ten more steps and then you can see ten more steps", "purpose is following not finding", "you are not finding it you are following it", "purpose is path not destination because navigation is incremental"]
 tags: ["concept", "purpose", "navigation", "presence", "path", "following", "incremental", "no-map"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # Purpose as Path, Not Map
@@ -129,3 +129,4 @@ When the person resists ("but I need to know where I'm going"), the tone stays s
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical statement of the path-frame — "if you're walking on a path in the woods and you don't have a map, which is the way purpose works"; the explicit denial of the 6-step manual; "you know where to go when you take 10 more steps, and then you know where to go where you take 10 more steps"; the following-not-finding verb shift — "you're not finding it, you're following it"; the retrospect-recognition that the path becomes visible looking back)
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the same teaching; same path-frame and same retrospect-recognition; no new content beyond the canonical 2025-10-28 absorption)

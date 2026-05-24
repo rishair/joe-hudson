@@ -4,8 +4,8 @@ id: expanding-sense-of-self
 title: "Expanding Sense of Self"
 aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal", "many ways to dissolve the self", "dissolution of self has many paths", "relational practice for dissolving self"]
 tags: ["development", "identity", "oneness", "collaboration"]
-related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts", "awakening-as-natural-development", "view", "joes-bathroom-realization", "sense-of-time-expansion", "measuring-transformation-across-three-brains", "there-is-no-better-person-on-the-other-side"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation"]
+related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts", "awakening-as-natural-development", "view", "joes-bathroom-realization", "sense-of-time-expansion", "measuring-transformation-across-three-brains", "there-is-no-better-person-on-the-other-side", "three-paths-of-awakening", "the-relational-path-to-self-dissolution", "inherent-safety-as-gut-awakening", "if-mind-can-think-it-it-isnt-it"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It"]
 ---
 
 # Expanding Sense of Self
@@ -82,6 +82,18 @@ This is why even the universal identifications eventually need their own softeni
 
 The mechanism that drives the expansion is the same as the mechanism that drives transparency: loving all the parts of self that have been excluded. Each part that is loved is no longer something the self has to defend against. The self that does not have to defend against itself becomes naturally larger. See [[loving-all-parts]].
 
+## Three Channels: Head, Heart, Gut
+
+The dissolution can land through any of three channels. These are not three different dissolutions. The underlying movement is one. What differs is which center is the primary access point for the loosening to propagate through.
+
+- **Head channel:** disidentification with thought. The thinker as locatable self is seen through.
+- **Heart channel:** disidentification with emotion. The emoter as bounded self is seen through. Often arrives through deep love (which dissolves the boundary between lover and loved) or through relational practice (which reveals that emotions migrate across people).
+- **Gut channel:** disidentification with the body-as-threatened. The "me against the world" organization at the nervous-system level releases. Inherent safety becomes the underlying recognition.
+
+See [[three-paths-of-awakening]] for the full framework, including what produces each channel and the specific risks of each. Different people come through different doors based on constitution and history. A person can have a primary opening through one channel and still need integration work on the other two — the recognition does not transfer across channels automatically.
+
+The relational form of the heart channel is operationally distinct and worth naming separately. The recognition that emotions and thoughts are not particularly one's own — that they migrate across people in groups, couples, and offices — produces the heart-channel dissolution through interpersonal observation rather than through inquiry or somatic practice. See [[the-relational-path-to-self-dissolution]] for the principle and the office-and-couples examples that ground it.
+
 ## Many Paths Loosen the Self
 
 Because the expansion is the natural movement of human development, anything that loosens identifications counts as a path. There is no single technique that the work requires. Meditation works because it weakens the sense of being just-this-body-just-this-mind. Emotional work works because held emotions create rigid identity. Working with the critical voice works because the voice is a major load-bearing structure of the self. Dropping roles works because roles are how the self constructs itself in the social world. Group work works because the boundary between self and other is one of the largest identifications available.
@@ -135,3 +147,4 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the many-paths principle: lots of ways to dissolve the self; the relational form of the practice and why "you can't fool yourself" in a relationship; the report that VIEW feels like meditating in a conversation; the implicit teaching method woven through all of Joe's work)
 - 2024-02-26_How To Measure Your Progress In Personal Development & Transformation (the explicit stage sequence me → family → community → tribe → nation → humanity → ecosystem → everything; the take-care-of-yourself-as-the-boundary-of-self diagnostic; the implosion phrasing "everything is you, and you are everything and/or nothing"; the framing of this expansion as the head-level marker of transformation alongside the parallel expansion of sense of time)
+- 2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It (the three-channel framing — head, heart, gut as three different doors the same dissolution can land through; the relational form of the heart channel as a distinct operational mechanism; the structural insight that recognition through one channel does not transfer to the other two automatically)

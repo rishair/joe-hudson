@@ -4,7 +4,7 @@ id: purpose-checkin-alarm-practice
 title: "The Purpose-Checkin Alarm Practice (Set an Alarm 2-3 Times a Day for a Week)"
 aliases: ["purpose checkin alarm practice", "the purpose alarm practice", "set an alarm 2 or 3 times a day for a week", "set an alarm to ask what is my purpose asking", "the daily purpose checkin", "the multiple-times-a-day purpose checkin", "ask yourself what purpose is asking three times a day", "the week-long purpose-asking practice", "set alarms to check in with purpose", "the alarm-prompted purpose question", "the daily purpose experiment", "the two-or-three-times-a-day purpose practice", "Joe's purpose alarm practice", "the seven-day purpose-prompt practice", "the purpose-emergence practice", "the practice that makes purpose appear", "the makes-purpose-come-out-of-the-background practice"]
 tags: ["practice", "purpose", "in-the-moment", "experiment", "alarms", "daily practice", "operational"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # The Purpose-Checkin Alarm Practice
@@ -90,3 +90,4 @@ Practical, light, operational. The practice is offered as something the person c
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical statement of the practice — "set an alarm 2 or 3 times a day for a week, ask yourself in this moment, what would living my purpose look like"; the promised outcome — "you'll start noticing your purpose appears, it like comes out of the background and it starts showing up and you realize, oh, it's here with me always")
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the canonical 2025-10-28 teaching; same practice prescription and same promised outcome; no new content beyond the canonical absorption)

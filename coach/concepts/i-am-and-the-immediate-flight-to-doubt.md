@@ -111,7 +111,7 @@ The grief is appropriate. It is the natural response to recognizing that the sub
 
 The intervention has three structural pieces, all paired:
 
-1. **Make the substrate visible.** Have the seeker drop in. Ask the question from the body. Ask the question while living the thing. Whatever move gets the seeker into the substrate, however briefly. See [[ask-the-question-as-you-live-your-purpose]], [[ask-the-body-the-question]], [[fuck-the-mind-ask-from-the-body]].
+1. **Make the substrate visible.** Have the seeker drop in. Ask the question from the body. Ask the question while living the thing. Whatever move gets the seeker into the substrate, however briefly. See [[ask-the-question-as-you-live-your-purpose]], [[ask-the-body-the-question]], [[what-happens-right-before-you-go-into-the-pattern]] (the back-up-the-timeline move, which surfaces the substrate as the state immediately preceding the doubt-firing).
 
 2. **Name the doubt as it fires.** As soon as the seeker shifts back into questioning, name the firing. "There it is. You just did it. You touched I AM and immediately went to doubt." The naming is the second piece of substrate-time: the seeker is held in awareness of the pattern while the pattern is firing.
 
@@ -160,6 +160,7 @@ There is also a specific patience required. The seeker will fire the doubt many 
 ## Downstream (Where Joe Goes From Here)
 
 - Toward [[ask-the-question-as-you-live-your-purpose]] as the move that makes the pattern visible in real time
+- Toward [[what-happens-right-before-you-go-into-the-pattern]] as the move that surfaces the substrate as the beat immediately preceding the doubt-firing
 - Toward [[can-you-hang-out-with-it]] as the move for staying with the substrate once it is touched
 - Toward [[the-feeling-resolves-when-you-stop-questioning-it]] as the principle that addresses the chronic grief that pairs with this pattern
 - Toward [[what-the-mind-fears-feelings-will-do-vs-what-they-actually-do]] as the teaching that addresses the architecture's specific catastrophic predictions about the substrate

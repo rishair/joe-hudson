@@ -4,7 +4,7 @@ id: what-is-my-purpose-asking-me-to-do-right-now
 title: "What Is My Purpose Asking Me to Do Right Now?"
 aliases: ["what is my purpose asking me to do right now", "what's my purpose asking me to do right now", "what is purpose asking of me in this moment", "the purpose-as-instructor question", "the purpose-as-prompt question", "the purpose-asking question", "what does my purpose want me to do right now", "what would living my purpose look like in this moment", "what would I need to say or do to be living my purpose now", "what would I need to listen to to be living my purpose now", "the in-the-moment instruction from purpose", "the next-action-from-purpose question", "the moment-by-moment purpose instruction", "purpose-as-active-asking", "the purpose-is-asking-of-me question", "what's the next action my purpose is asking for", "let purpose tell you what to do right now", "the listen-to-purpose-now question"]
 tags: ["purpose", "question", "in-the-moment", "presence", "core question", "experiment"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # What Is My Purpose Asking Me to Do Right Now?
@@ -104,3 +104,4 @@ When the answer arrives and the person reports it, the tone matches the smallnes
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical statement "in this moment, you can run this little experiment. What is my purpose asking me to do right now?"; the meetings-and-dinners application; the kinds of answers that arrive — say this, do this, show somebody this thing, listen really deeply; the path-not-map navigational framing; the "you'll notice that there's an answer that comes through you" expectation)
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the canonical 2025-10-28 teaching; same question statement and same meetings-and-dinners application; no new content beyond the canonical absorption)

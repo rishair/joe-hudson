@@ -4,7 +4,7 @@ id: mental-models-cant-tell-you-what-experience-feels-like
 title: "Mental Models Can't Tell You What an Experience Feels Like (Only the Experience Can)"
 aliases: ["mental models can't tell you what an experience feels like", "the mental-model problem", "you only have a thought of what it would be like", "you don't know what it feels like to do the thing", "thoughts about the thing are not the thing", "running mental model after mental model", "the model-vs-experience principle", "the search-by-thinking failure", "you can't think your way to knowing the felt-sense", "the thought of being an artist is not being an artist", "the mental model of the job is not the job", "investigating the thing reveals the outcome", "you have to get in the pool", "the five-year-olds-can't-tell-you-who-will-be-the-champion principle", "the swimmers analogy", "until they get in the pool", "experimenting reveals what mental modeling cannot", "thinking about it is not doing it", "the model is not the territory of purpose", "you don't know until you've been there", "the do-the-thing-to-know-the-thing principle", "you can't intellect your way to purpose", "the experiential-knowledge-only principle for purpose"]
 tags: ["purpose", "principle", "mental models", "experience", "experimentation", "felt-sense", "knowing", "embodiment"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # Mental Models Can't Tell You What an Experience Feels Like
@@ -104,3 +104,4 @@ Practical, light. The principle is delivered as a structural correction, not as 
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical statement on running mental model after mental model; the five-year-old swimmers analogy delivered to Joe's daughter; the seven-years-toward-art-only-to-find-it-was-the-thing-I-was-running-from arc; "you only have a thought of what it would be like to do the thing, you don't actually know what it feels like to do the thing")
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the canonical 2025-10-28 teaching; same swimmers analogy and same seven-year arc; no new content beyond the canonical absorption)

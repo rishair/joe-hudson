@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-identify-as-awakened
 title: "Don't Identify as Awakened (Or as Part of the Awakened-People Club)"
-aliases: ["don't identify as awakened", "the awakened identity trap", "I'm one of the awakened ones trap", "putting yourself above others through awakening", "the awakened-people club", "the awakening identity", "spiritual identification as superiority", "I'm an awakened person identity", "the people-who-had-the-experience club", "subtle spiritual superiority", "the awakening identity rut"]
+aliases: ["don't identify as awakened", "the awakened identity trap", "I'm one of the awakened ones trap", "putting yourself above others through awakening", "the awakened-people club", "the awakening identity", "spiritual identification as superiority", "I'm an awakened person identity", "the people-who-had-the-experience club", "subtle spiritual superiority", "the awakening identity rut", "the I'm-the-awakened-guy trap", "constantly accessing the peace like a drug", "gurus who started cults from accessed non-duality"]
 tags: ["awakening", "identity", "spiritual bypass", "anti-pattern", "superiority", "non-duality"]
-related: ["dont-fight-identity", "spiritual-narcissism", "epiphany-becomes-rut", "every-identity-has-limits", "self-realization", "state-seeking", "expanding-sense-of-self", "joes-bathroom-realization", "awakening-as-natural-development"]
-sources: ["2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
+related: ["dont-fight-identity", "spiritual-narcissism", "epiphany-becomes-rut", "every-identity-has-limits", "self-realization", "state-seeking", "expanding-sense-of-self", "joes-bathroom-realization", "awakening-as-natural-development", "awakening-is-received-not-achieved", "three-paths-of-awakening", "awakening-can-make-emotional-healing-harder", "awakening-is-stateless-state"]
+sources: ["2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It"]
 ---
 
 # Don't Identify as Awakened
@@ -82,6 +82,24 @@ The relationship to evolution helps. "The evolution never ends" landed in Joe's 
 
 "Then there was like this whole world of people that opened up that were in that thing of like, oh, we are people who are — have had this awakening experience, or, you know, and which is in itself ridiculous." -- Joe Hudson, 8 Seconds of Oneness
 
+## The Peace-as-Drug Variant
+
+A specific operational form of the identity trap: the person who has the recognition uses access to peace as a state they keep returning to. The peace becomes a substance. The recognition becomes the gateway to the substance. The identity is the user of the substance.
+
+"I've seen people wake up and then get stuck in this, 'Oh, I can access this peace anytime that I want.' And so they just constantly access the peace like a drug. And then they identify with it, even though they're non-dual, they're like, 'I'm the awakened guy,' or 'I'm the awakened woman.'" -- Joe Hudson, Awakening: Why We Waited 150 Episodes
+
+The compound is the dangerous part. The peace itself is fine. Access to peace is a real capacity that the recognition opens. But using the peace as a drug — running to it whenever discomfort arises, organizing one's life around the access, treating the user-of-the-peace as one's identity — converts the capacity into a trap. The recognition that was supposed to dissolve identity becomes the supplier of a new and especially adhesive identity.
+
+The combination is also what produces the [[awakening-can-make-emotional-healing-harder]] failure mode. The person uses the peace to skip the emotional work, the emotional work stays undone, and the unaddressed material accumulates while the access-to-peace gets stronger.
+
+## The Cult-Leader Form
+
+The most extreme version of the identity trap: gurus who have genuine access to non-duality but no integration in the other layers, building cults around the access. The non-duality is real. The dysfunction in the emotional, interpersonal, and nervous-system layers is also real. The cult is what happens when the access is used as a credential without the integration that would prevent its weaponization.
+
+"You see a lot of actually like gurus who started cults this way where they have this access to this non-duality. But they like haven't handled their emotional crap. They haven't handled their interpersonal stuff. They haven't handled their nervous system stuff. And so they're constantly seeking safety or control." -- Joe Hudson, Awakening: Why We Waited 150 Episodes
+
+The structural lesson: awakening through one channel does not automatically integrate the other channels. See [[three-paths-of-awakening]]. A guru with head awakening and no heart or gut integration can produce a community organized around the head-awakening transmission while continuing to act out the unaddressed interpersonal and nervous-system material — often through the very community they have gathered. The identity trap and the integration gap combine to produce the cult dynamic.
+
 ## Connection to Related Anti-Patterns
 
 - [[dont-fight-identity]]: The fight against identity is one form of post-awakening identity. The awakened-identity is another. Both preserve the structure they appear to dismantle.
@@ -92,3 +110,4 @@ The relationship to evolution helps. "The evolution never ends" landed in Joe's 
 ## Sources
 
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)
+- 2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It (the peace-as-drug variant of the identity trap — using accessible peace like a substance and identifying as the user of the substance; the cult-leader form — gurus with non-dual access and no integration in the other channels, producing communities organized around the transmission while acting out unaddressed interpersonal material; the structural connection between the awakened-identity trap and dysfunction at other layers of integration)

@@ -4,7 +4,7 @@ id: running-toward-the-thing-youre-running-from
 title: "Running Toward the Thing You're Running From (Mental-Model Chasing Delivers You to the Structural Duplicate)"
 aliases: ["running toward the thing you're running from", "running toward what you were running away from", "chasing the thing you fled", "the mental-model-recreates-the-misery pattern", "the structural-duplicate trap", "ending up where you started", "the same misery in different clothes", "the seven-year arc to the same place", "the chase-delivers-the-original pattern", "the artist who became investment banking in art form", "the escape that lands you in the structure you escaped", "the disguised return to the avoided structure", "the form changes the structure stays", "you ran for years and arrived at the original", "the relief that turned out to be the same misery", "the mental-model destination is the original in costume", "running away as the engine of running toward", "the avoidance produces the recreation", "the unfelt produces the recurrence", "the running-toward-an-idea trap", "the chase-the-image trap"]
 tags: ["pattern", "purpose", "mental models", "avoidance", "recreation", "chasing", "career", "self-deception"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # Running Toward the Thing You're Running From
@@ -127,3 +127,4 @@ When the recognition is fresh — when the person has just arrived at the destin
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical naming of the pattern — "I was running towards the thing I was running away from"; the investment-banking-to-TV-directing arc as the demonstration; the seven-year chase ending at the structural duplicate; the operational reorientation to saying yes to what is presented)
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the canonical 2025-10-28 teaching; same naming and same seven-year arc; no new content beyond the canonical absorption)

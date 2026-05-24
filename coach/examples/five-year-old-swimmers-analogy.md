@@ -4,7 +4,7 @@ id: five-year-old-swimmers-analogy
 title: "The Five-Year-Old Swimmers Analogy (You Can't Know Until They Get in the Pool)"
 aliases: ["the five-year-old swimmers analogy", "the swimmers analogy", "the world-champion swimmer analogy", "the 10 five-year-old boys analogy", "the get-in-the-pool analogy", "you can't know until they get in the pool", "Joe's daughter and the swimmers", "the world-champion-swimmer thought experiment", "the swimmers thought experiment", "the swimmers example for purpose", "the pool-vs-deck analogy", "you have to investigate the thing to know the outcome", "until they have a drive until you see how they swim", "the 5-year-olds-on-the-deck analogy", "the swimmers-as-purpose-models example", "the analogy Joe gave his 15-year-old daughter"]
 tags: ["example", "purpose", "mental models", "experimentation", "Joe's daughter", "experiential knowledge", "analogy"]
-sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This"]
+sources: ["2025-10-28_Finding Your Purpose is Hard Until You Understand This", "2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand Th"]
 ---
 
 # The Five-Year-Old Swimmers Analogy
@@ -79,3 +79,4 @@ When delivered to an adult, the tone shifts only slightly — still light, still
 ## Sources
 
 - 2025-10-28_Finding Your Purpose is Hard Until You Understand This (the canonical telling — Joe's 15-year-old daughter, her search method described, the swimmers analogy delivered to her, the variables that become visible in the pool and not before)
+- 2026-02-06_Bite-Sized Teaching Series- Finding Your Purpose is Hard Until You Understand This (the bite-sized clip of the canonical 2025-10-28 teaching; same analogy and same setup with Joe's 15-year-old daughter searching for the "special thing" that would get her into a great college; no new content beyond the canonical absorption)

@@ -5,7 +5,7 @@ title: "Love Surfaces the Unloved (When You Start Loving, Everything That Isn't 
 aliases: ["love brings unloved parts to surface", "love surfaces the unloved", "when you love yourself unloved parts come up", "the feeding-fish metaphor", "fish in the pond come to the surface to be fed", "loving brings up the anger and grief", "love surfaces grief", "love produces tears", "love produces anger", "loving yourself surfaces what's not loved", "when love arrives the unloved parts come for love too", "everything unloved wants to be loved", "love is the magnet for the unloved", "the surfacing principle when love arrives", "love calls the unloved parts to the table", "gratitude surfaces the ungrateful parts", "the unloved parts respond to love by showing up", "loving produces surfacing", "the love-surfaces-the-unloved principle", "loving yourself brings up everything you haven't loved"]
 tags: ["principle", "self-love", "loving", "surfacing", "unloved parts", "feeding fish metaphor", "grief", "anger", "tears", "welcoming", "gratitude", "PT for the heart"]
 related: ["loving-all-parts", "15-minutes-of-self-love-physical-therapy-for-the-heart", "fear-of-joy", "joy-as-matriarch", "feeling-the-unfelt-emotion", "love-is-the-best-change-agent", "love-the-anxiety-not-just-with-it", "loving-to-transform", "love-as-deep-welcoming"]
-sources: ["2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂"]
+sources: ["2026-01-06_Walk with a Master Coach： ＂Self-improvement is self-destruction＂", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Love Surfaces the Unloved
@@ -72,6 +72,20 @@ The principle interrupts the cycle at step 3. The accurate read of "I started lo
 
 This is why the PT-for-the-heart framing matters ([[15-minutes-of-self-love-physical-therapy-for-the-heart]]): the practice has to be daily and committed precisely because the surfacing is part of the work. A one-off attempt that gets abandoned at the first wave of grief never gets to the loving-the-grief phase, which is where the actual transformation happens.
 
+## Deliver the Principle as Preparation for the Practice
+
+When the principle is taught at the moment the person is about to begin loving themselves, the framing is forward-looking and slightly casual. The teaching is "here is what will happen, so you don't get confused when it does." The person needs the principle in advance so the inevitable surfacing does not get interpreted as failure.
+
+The two-part version Joe delivered to an 18-year-old who had just done the first round of loving the worst-feeling body part:
+
+"There's two concepts that are really helpful. The first is when you start to love yourself, all the unloved parts come up to be loved. And so you're like, wait, I'm loving myself and now this is here? Now, oh my God, I thought everything was great and now this thing has shown up. That's because it's coming up to be loved." — Joe Hudson, *This is How To Love Yourself*
+
+The first concept is the principle itself. The second concept Joe pairs with it: there is no rush, the parts will be available to be loved for a long time, the practice can move at the most enjoyable pace.
+
+The two together function as a kit for the person about to do the work alone. The first concept reframes any difficult emotion that arises in the practice as part of the work. The second concept gives the person permission to pace the work by their own enjoyment rather than by an imagined urgency. With both concepts in hand, the practice can be sustained — the surfacing is anticipated, and the pacing is internal.
+
+The person in this session immediately recognized the first concept: "This is the fish example, right? Cuttlefish." (They had heard Joe's teaching of this principle on the podcast.) The recognition is one of the clearest examples of how the teaching, once internalized, becomes self-recognizing — the person had already understood the structural fact and could name it the moment Joe gestured at it. The recognition does not replace the experiential work, but it does shorten the time the person spends interpreting the surfacing as failure.
+
 ## The Coaching Implication
 
 When a coachee reports that their attempt to love themselves "isn't working" because of what surfaced, the coaching move is to reframe the surfacing as the work. Not to comfort the discomfort. Not to switch to a different practice. To say: yes, that's the love working. The grief is what wanted to be loved next.
@@ -118,3 +132,4 @@ Matter-of-fact and warm. The principle is delivered as a structural fact, not as
 ## Sources
 
 - 2026-01-06_Walk with a Master Coach: "Self-improvement is self-destruction" -- Joe explicitly articulating the principle with the feeding-fish metaphor; the framing that when love and gratitude show up, the unloved parts come to the surface to be loved too; the corrective instruction to love the grief rather than try to get rid of it; the noticing that there is love in grief once the grief is welcomed
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the principle delivered as preparation just after the 18-year-old has done the first round of loving the worst-feeling body part. Joe pairs it with the no-rush instruction as a two-concept kit for the person about to continue the practice alone. The session also demonstrates how the principle, once internalized from podcast listening, becomes self-recognizing — the person identifies the teaching by name ("the cuttlefish example") before Joe finishes the framing.

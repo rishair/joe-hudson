@@ -4,7 +4,7 @@ id: im-depressed
 title: "I'm depressed / I think I might be depressed"
 aliases: ["I'm depressed", "I think I'm depressed", "I'm in depression", "I feel depressed", "I think I might be depressed", "I've been depressed for years", "depression presenting", "I have depression", "what do I do about my depression", "how do I get out of my depression", "I can't get out of this depression", "depression won't lift", "I've tried everything for my depression", "nothing has worked for my depression", "I'm always negative", "I'm flat", "everything feels heavy", "I have no motivation", "I'm constantly tired and unmotivated", "I feel pessimistic about everything", "I've lost my drive", "I can't get out of bed"]
 tags: ["concern", "depression", "voice in head", "anger", "isolation", "pessimism", "self-attack", "presenting concern"]
-sources: ["2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+sources: ["2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # I'm depressed / I think I might be depressed
@@ -76,6 +76,12 @@ The branching point. The same depression presentation goes different ways based 
 
 - **If a friend or partner is depressed:** the coaching shifts to [[someone-i-love-has-mental-health-issues]] and the move is [[send-the-message-that-youre-whole]]. Trying to fix them sends the message they are broken, which deepens the depression.
 
+- **If the person is using mindfulness/awareness as the only tool and is overwhelmed by sensations:** they have an awareness practice but no loving practice. They can put attention on the worst-feeling part but they cannot love it. The work is not more awareness — it is to direct love at what awareness has found. Move toward [[love-the-worst-feeling-part-like-your-parents-should-have]]. The instruction is to love the worst-feeling part the way the person wanted to be loved by their parents.
+
+- **If the person says "I have nothing to lose" or "I'm not scared of anything because I'm depressed":** do not commiserate with the loss-and-hopelessness frame. Reframe it: nothing to lose is freedom. See [[nothing-to-lose-is-freedom]]. The depression has stripped away conditional fears; what remains is the unconditional freedom most people are still chasing. Naming this can produce a felt shift inside the session — the person discovers freedom was already present, mistaken for hopelessness.
+
+- **If the person reports being unhappy as an identity while moments of happiness pass through unnoticed:** the depression is partly identity persistence over felt-data. See [[story-of-suffering-persists-over-moments-of-relief]]. Joe will name the gap directly: "you're kind of perpetually giving me a happy face while telling me you don't feel good." The work is to bring attention to the unnoticed moments of relief so the identity has to make room for them.
+
 ## What Joe Hears About Difficulty
 
 The person almost always reports that depression is hard to get out of. Joe contradicts this directly. The reason it appears hard is that they have been treating symptoms or operating from "I need to be fixed." When they address the root causes (negative self-talk, repressed anger, depleted nervous system, isolation), the depression often lifts much faster than they expect.
@@ -119,3 +125,4 @@ The frame is operational: depression is a multi-layered pattern that can be work
 
 - 2023-06-23_Exploring Depression in the Head, Heart, and Gut
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — an 18-year-old presents as overwhelmed by bodily sensations, using mindfulness, "I haven't felt good in years," "I literally have depression." Joe bypasses the mindfulness frame and gives a different instruction: find the worst-feeling part of the body, love it the way you wanted love from your mom and dad. The session demonstrates: the "I have nothing to lose" frame reframed as freedom; the perpetual happy-face contradiction named in the moment; the story of unhappiness persisting through actual moments of happiness; the cuttlefish/love-surfaces-the-unloved teaching as a teaching the person can already recognize from podcasts; the closing instruction that for a person whose nature is to investigate, enjoyment is the pacer (slow down when it stops being enjoyable).

@@ -5,7 +5,7 @@ title: "Effective Exercises Engage Voice, Body, and Emotion Together"
 aliases: ["exercises need body voice emotion", "the three-component exercise design", "verbal physical emotional", "bypass the intellect", "exercises that work versus exercises that don't", "intellect-dominant exercises fail", "the three components of effective practice", "you can't bypass the intellect but you can't let it dominate"]
 tags: ["principle", "coaching-methodology", "exercise-design", "embodiment", "experiential-learning", "intellect"]
 related: ["should-vs-want-body-check", "feel-over-figure", "staying-in-your-body", "emotions-live-in-muscles", "logic-vs-emotional-movement", "address-the-blocker-not-the-symptom", "observe-vs-move-emotion", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2026-02-03_How I Have Life-Changing Conversations (What Every Great Coach Does)"]
 ---
 
 # Effective Exercises Engage Voice, Body, and Emotion Together
@@ -78,6 +78,24 @@ This principle also informs how Joe iterates the exercises themselves. The itera
 
 The iteration optimizes for whole-system engagement, not for elegance of design. An ugly exercise that recruits body and emotion is more effective than a beautiful exercise that the intellect can think through.
 
+## The Connection Course as a Worked Example of the Iteration
+
+The clearest worked example of how this iteration actually works is the design of the Connection Course. Joe and the team spent years running live weekend workshops -- called "Ty Turners" at the time -- in cities around the country. Each workshop tested the same body of exercises with new groups of people. After years of iteration, only the top 25% of exercises survived.
+
+"I think out of the, you know, lots and lots of hours of exercises, we only kept 25% of them. We only kept the very best exercises, the ones that weren't boring, the ones that immediately turned somebody's lights on so they could see something that they couldn't have seen before. So they could really feel, viscerally get the somatic experience of what it was to be in VIEW." -- Joe Hudson, How I Have Life-Changing Conversations
+
+The selection criteria operationalize the principle:
+
+- **Not boring.** Boredom is the symptom of an intellect-only exercise; the body and emotions disengage and the participant waits for it to end. The kept exercises engaged the whole system, which is incompatible with boredom.
+- **Immediately turned the lights on.** The exercise produced a recognition that the participant could not have arrived at by thinking. Insight that arrived in the body, fast.
+- **Viscerally got the somatic experience.** Not "understood VIEW intellectually" but "felt what VIEW is in the body." The exercise had to deliver the somatic anchor, not the concept.
+
+The 75% that did not survive failed by the same principle in different forms: they were intellectually interesting but did not move the body. They produced understanding without recognition. They left the participant the same person they were before the exercise. The principle the surviving exercises share is the one this article is about: the three-channel design that recruits body, voice, and emotion alongside the intellect.
+
+The COVID pivot to online delivery tested the same principle again. The team took the best exercises and re-tested whether they would work over Zoom. Some did. Some did not. The ones that did not were modified, replaced, or dropped. The criterion was the same: did the participant viscerally experience VIEW, or did they just think about it? The format changed; the principle did not.
+
+This is why the iteration story matters as evidence for the principle. The principle was not derived from theory and then exercises designed around it. The exercises were tested against participants, the ones that worked were kept, the ones that did not were dropped, and the resulting pattern -- what the survivors had in common -- was the three-channel design. The principle is what was true about the exercises that actually produced change.
+
 ## Boundary Conditions
 
 The principle does not say every coaching move has to be a three-channel exercise. A direct observation, a question, a distinction, or a story can be effective on its own. The principle is specifically about exercises -- structured interventions designed to produce a shift. For those, the three-channel design is what produces the shift.
@@ -104,3 +122,4 @@ The principle also does not say emotion has to be dramatic. The "emotional compo
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
 - 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
+- 2026-02-03_How I Have Life-Changing Conversations (What Every Great Coach Does) (the Connection Course iteration story as a worked example of the principle: years of live "Ty Turners" workshops producing 25% survivor exercises selected on the criteria of "not boring," "immediately turned the lights on," and "viscerally got the somatic experience of VIEW"; the COVID pivot to Zoom re-testing the same principle against a new format)

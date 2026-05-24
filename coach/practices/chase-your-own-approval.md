@@ -4,7 +4,7 @@ id: chase-your-own-approval
 title: "Chase Your Own Approval (Ask 'Do I Approve?' as the Central Question)"
 aliases: ["chase your own approval", "chasing your own approval", "approve of yourself", "self-approval as the central question", "do I approve of that", "do I approve", "does that make me feel good", "is this how I wanna be", "ask yourself if you approve", "the do-I-approve question", "the central question inversion", "from do they approve to do I approve", "asking for your own approval instead of theirs", "the self-approval inversion", "make do-I-approve the central question", "the I-approve practice", "approval inversion practice", "approve of your own life", "be your own approver", "chasing your own approval practice", "the approval inversion move", "asking yourself what you think", "self-approval over external approval", "the I-approve question", "stop asking what they think start asking what you think")]
 tags: ["approval", "practice", "self-listening", "self-trust", "freedom", "inversion"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval", "2025-10-21_Connection Is Hard Until You Face Your Aloneness", "2025-11-18_You're Pushing Away What You Most Want"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2025-03-14_How To Stop Seeking Approval", "2025-10-21_Connection Is Hard Until You Face Your Aloneness", "2025-11-18_You're Pushing Away What You Most Want", "2026-02-10_Why Self-Possessed People Get Everything They Want"]
 ---
 
 # Chase Your Own Approval
@@ -98,6 +98,23 @@ The wanting that the external chase has been pointing at has been the internal w
 
 For the structural reason why other-given recognition cannot increase self-esteem the way demonstrated competence can, see [[compliments-dont-build-self-esteem-competence-does]].
 
+## The Present-Moment Variant: "Be Good With Yourself Right Now"
+
+A specific in-the-moment instantiation of the practice that bypasses the cognitive question and goes directly to the felt-sense. The question shifts from "do I approve?" to "what do I need to do to be good with myself right now?" The two questions are doing the same work — relocating the verdict to the self — but the present-moment variant has a different on-ramp.
+
+See [[what-do-you-need-to-be-good-with-yourself-right-now]] for the full treatment. The variant is included here because it is the operational form of the practice that requires no prior conceptual setup. A person can be asked the present-moment question without having heard the principle of self-approval. The felt-sense answer arrives directly, and the principle can be installed retroactively from the felt-sense.
+
+The structural observation that authorizes this variant: the feeling chased through external approval is identical to the feeling produced by being-good-with-self-right-now. See [[what-you-seek-from-approval-is-self-presence]] for the principle. The "right now" constraint in the question is what closes the future-and-past routes the approval-mind would normally take, and the closing of those routes is what reveals the always-available internal substrate.
+
+The variant is particularly useful for:
+
+- People who get stuck in the conceptual "do I approve?" question (they can't quite tell what "approve" means in the abstract — the present-moment question is more concrete)
+- People who are mid-chase and need an immediate re-grounding (the present-moment question can be asked silently in a tense moment in a way "do I approve?" cannot)
+- People who have done the conceptual work and need the somatic reinforcement
+- People who have not yet been introduced to the practice at all (the present-moment question is the gentlest possible entry)
+
+The two forms can be alternated. The conceptual question is useful when there is time to consider. The present-moment question is useful when the chase is firing and there is no time for consideration.
+
 ## Connection to Speaking Your Truth
 
 The do-I-approve question can be asked silently as a check at the threshold of any decision. But it has a more potent operational form: speaking your truth out loud. See [[speaking-truth-cures-approval-seeking]] and [[speak-truth-twice-a-day]].
@@ -150,3 +167,4 @@ The delivery is also slightly hopeful. The promise of the practice is not modest
 - 2025-03-14_How To Stop Seeking Approval (the speaking-truth operational form of self-approval: voicing the perception is the act of approving it; the inversion that speaking-truth is the cure for approval-seeking; the daughter's two-week report on how speaking truth stopped the approval-seeking automatically)
 - 2025-10-21_Connection Is Hard Until You Face Your Aloneness (the practice's role as the dynamic-1 corrective in the [[three-dynamics-of-feeling-alone-in-the-room]] framework; Joe's phrasing "Is this something that I approve of? Am I acting right now in a way that feels great to me?" with the inverted question of what to do if not — "what do I do to act in a way right now that feels great to me despite what the people who haven't had enough coffee or the people who've had bad upbringings or the people who are paranoid think?"; the structural argument that without this inversion, the person cannot be themselves and therefore cannot be seen — "if you want to feel seen, you have to be yourself")
 - 2025-11-18_You're Pushing Away What You Most Want (the thousand-people-beautiful test as the crispest formulation of why external approval cannot substitute for self-approval — the filter that rejects internal self-approval rejects external approval through the same mechanism; the explicit naming that "underneath all of this deep wanting for appreciation is this deep wanting for your own appreciation" — the misdirection of the chase clarified as the want for self-seeing that was always available only from the inside)
+- 2026-02-10_Why Self-Possessed People Get Everything They Want (the present-moment variant of the practice: the explicit question "what do you need to do to be good with yourself right now?" as the somatic on-ramp that bypasses the conceptual "do I approve?" question and arrives at the same felt-sense directly; the structural observation that the chased feeling is identical to the feeling produced by being-good-with-self-right-now and is always available; the use of the variant for in-the-moment re-grounding when the chase is firing and there is no time for conceptual consideration)

@@ -5,7 +5,7 @@ title: "Don't Go After Every Emotion At Once (The Type A Pitfall)"
 aliases: ["don't go after every emotion at once", "the Type A emotional inquiry pitfall", "transformation too fast becomes ungroundedness", "the type A pitfall in emotional work", "embracing emotions as an in-it-to-win-it project", "the self-reliant pitfall in emotional work", "going after every emotion produces ungroundedness", "the speed pitfall of emotional inquiry", "don't push yourself to embrace faster", "pushing to get there is another form of avoidance", "take care of your nervous system during intensive emotional work", "rest and massage and hot baths during intensive practice", "the nervous system care prerequisite", "no rush to emotional work", "your pain will still be there"]
 tags: ["anti-pattern", "emotional inquiry", "Type A", "ungroundedness", "pace", "pitfall", "nervous system", "integration"]
 related: ["emotional-inquiry", "embrace-intensity", "trying-to-get-rid-of-the-emotion", "no-finish-line", "manufacturing-the-feeling", "embracing-vs-creating-intensity", "wonder", "gentleness-not-trying-to-be-patient", "nervous-system-recovery-after-stress", "three-stages-of-emotional-inquiry-maturity", "nervous-system-support-during-intense-inquiry"]
-sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14"]
+sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-01-19_Emotional Inquiry - Emotion Series #14", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Don't Go After Every Emotion At Once (The Type A Pitfall)
@@ -71,6 +71,25 @@ The principle applies to anyone, but the pattern shows up most clearly in Type A
 
 The transfer is automatic and usually unexamined. The person treats the inner work like the outer work. The result is a sophisticated performance of welcoming with the original avoidance intact underneath.
 
+## Use Enjoyment as the Pacer (For People Whose Nature is to Investigate)
+
+A specific instruction Joe gives to the person whose constitution is to go into the feeling: enjoyment is the gauge. The person does not need to ration their inquiry by clock or by quota. They can trust their own sense of enjoyment to tell them when to stop.
+
+The instruction goes to a specific question the Type-A inquirer reliably asks: "How do I know when it's too overwhelming versus when I should go deeper?" The question itself is searching for an external rule — a clock, a counter, a checklist. The instruction refuses the external rule and supplies an internal one.
+
+"Your nature is to go into the thing, so your job is to just make sure you're enjoying going into the thing. If it becomes unenjoyable, take a break. You can trust your sense of enjoyment because you have the tendency to investigate." — Joe Hudson, *This is How To Love Yourself*
+
+The reasoning embedded in the instruction:
+
+- **The person whose constitution is investigation does not need permission to investigate.** They will investigate regardless. The risk is not too little inquiry; the risk is inquiry that has stopped being nourishing and has become extractive.
+- **Enjoyment is the body's report on whether the inquiry is still nourishing.** When the inquiry stops feeling good, the body has reached its current metabolic capacity. The unenjoyableness is not a failure of dedication; it is a signal of saturation.
+- **The break is not abandoning the work.** "Go take a walk, hang out with friends, and then when you got a little space, it feels good, then start loving yourself again." The break is part of the work. The work continues when the body has integrated the previous round.
+- **Trust the gauge.** The Type-A inquirer often distrusts pleasure-based signals because pleasure has historically been the thing they overrode in service of achievement. The instruction explicitly grants permission to use enjoyment as the regulator, precisely because the constitution does not need the achievement pressure on top of inquiry.
+
+The corollary that closes the loop with the broader pitfall: the unenjoyableness arriving in the middle of inquiry is not "going too fast." It is "the body needs space now." The pacer is not a target rate; it is a moment-by-moment felt gauge. The instruction transfers the regulation authority from external prescription ("twice a day, no big deal") to internal recognition ("when it stops being enjoyable, take a break").
+
+See [[enjoyment-is-the-pacer-for-emotional-inquiry]] for the dedicated principle article.
+
 ## Connection to Adjacent Pitfalls
 
 This pitfall sits inside a family of related ways the practice gets corrupted:
@@ -96,3 +115,4 @@ Joe describes this pitfall with affection -- "super Type A people who are like i
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the explicit naming of the Type A pitfall; the ungroundedness signal; the "pushing is itself avoidance" frame; the wonder-failure diagnostic)
 - 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (the explicit nervous-system care prescription -- rest, grounding, massage, hot baths -- as infrastructure for intensive practice; the "no rush, your pain will still be there" framing as counter-instruction to Type A urgency)
 - 2024-01-19_Emotional Inquiry - Emotion Series #14 (parallel transcription of the same conversation)
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the enjoyment-as-pacer instruction delivered to a person whose nature is to investigate ("you can trust your sense of enjoyment because you have the tendency to investigate"). The instruction is the felt-gauge form of the no-rush principle: rather than a fixed daily quota, the person uses the moment-by-moment loss of enjoyableness as the signal to take a break. The instruction handles the Type-A reliable question "how do I know when it's too overwhelming?" by refusing the external rule and naming the internal one.

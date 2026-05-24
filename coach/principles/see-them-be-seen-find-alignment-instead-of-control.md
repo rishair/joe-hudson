@@ -5,7 +5,7 @@ title: "See Them, Be Seen, Find Alignment (The Alternative to Control)"
 aliases: ["see them be seen find alignment", "the alternative to control", "the four moves instead of control", "see them understand them be seen find alignment", "the positive alternative to emotional control", "what to do instead of controlling", "the alignment frame", "find their truth find where they want to move", "the non-control orientation in fights", "what fighting well looks like instead of control", "the structural replacement for control", "alignment instead of control", "see them not control them", "be seen when they're ready to see you", "find a solution that works for both", "the four-move alternative to control"]
 tags: ["control", "alignment", "relationships", "fighting", "presence", "principle"]
 related: ["dont-do-emotion-at-people", "verbal-abuse-as-controlling-with-anger", "management-required-to-launch-predicts-management-required-forever", "every-fight-can-bring-you-closer", "love-as-deep-welcoming", "vulnerability", "enjoy-over-manage"]
-sources: ["2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method"]
+sources: ["2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship", "2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method", "2026-02-10_Why Self-Possessed People Get Everything They Want"]
 ---
 
 # See Them, Be Seen, Find Alignment (The Alternative to Control)
@@ -100,6 +100,20 @@ This compresses the four-move frame to a single operational instruction: see the
 
 The unilateral nature of the exit is the key practical claim. The fight does not require both partners to agree to the four-move frame. It requires one partner to enact it. The other partner's response is, almost by reflex, to reciprocate.
 
+## Years-Old Problems Falling Away in the Connection Course
+
+A specific data point about the speed of the principle when both parties commit to the seeing work: in the Connection Course, family members or business partners who genuinely sit and see each other regularly see problems that have been brewing for years collapse on contact.
+
+"This is something that we see dozens of times, like a week in the Connection Course. You'll see family members do the Connection Course, or you'll see business partners do the Connection Course. And if they actually just sit and see each other, problems that have been brewing for years, judgments, disappointments, guilt trips that have been years and years in the making just fall away. As soon as they get that connection, as soon as they feel seen, because it's what we actually want, right? Do I wanna be right or do I want to feel connected and intimate and seen by you? What's the true want there?" -- Joe Hudson, Why Self-Possessed People Get Everything They Want
+
+The structural claim: most of what makes long-running interpersonal problems persistent is not the surface content but the accumulated unseenness. Once the seeing arrives, the content often turns out to have been the vehicle for the unmet need rather than the substantive issue itself. The fall-away is not slow because the substrate was always the seeing; once the seeing is present, the surface conflicts have no engine.
+
+The corollary diagnostic question Joe deploys at the moment of the choice: "Do I wanna be right or do I want to feel connected and intimate and seen by you? What's the true want there?" This question makes visible the false binary that the courtroom frame imposes (you must choose to win or lose). The actual want — connection — is structurally different from the want the fight is being conducted in pursuit of (being right). Naming the true want often dissolves the fight because the fight was a structurally-doomed strategy for getting connection.
+
+"Do I want to be judging you or do I want to feel like, oh, we have a relationship that's important? And as soon as you get that, all that other stuff just drops away." -- Joe Hudson, Why Self-Possessed People Get Everything They Want
+
+This makes the Connection Course observation operational. The teaching is not just "in the Course, problems dissolve." It is: the dissolution mechanism is the asking of the want-question that reveals the surface fight was the wrong vehicle for the underlying want. The asking can happen outside the Course too.
+
 ## When Someone Experiences This
 
 - Recognizing, after a conversation, that you spent the whole time trying to make the other person agree
@@ -137,3 +151,4 @@ Steady, instructive. The frame is offered as a description of what the alternati
 
 - 2025-01-27_How To Know If You Are In An Emotionally Abusive Relationship (the four-move structure as the explicit alternative to control in a fight; the alignment-vs-compliance frame and the structural argument that alignment produces movement that maintains itself while control produces compliance that has to be maintained; the "finding what their truth is, finding where they want to move, finding how that aligns with you" formulation)
 - 2025-02-24_Stop Relationship Fights in 10 Minutes — 'See Me' Method (the day-to-ten-minutes compression as the proof-of-concept; the courtroom frame Joe and Tara developed as the in-the-moment exit phrase; the generalization that under most fights both partners want to be seen and are throwing shame at each other to get there; the asymmetric exit mechanism where one partner seeing first produces the other partner almost immediately wanting to see back; the LA-show-fight as the canonical illustrative story; the operational compression of the four-move frame into "see their truth, connect with where they're at")
+- 2026-02-10_Why Self-Possessed People Get Everything They Want (the Connection Course data point that family members and business partners who sit and see each other have years-old problems fall away on contact; the want-question Joe deploys at the moment of the choice — "do I want to be right or do I want to feel connected and intimate and seen by you? What's the true want there?" — as the structural move that dissolves the false binary the fight is being conducted under; the corollary "do I want to be judging you or do I want to feel like we have a relationship that's important?" as the further-refined version of the want-question)

@@ -5,7 +5,7 @@ title: "Do Self-Love and Compassion First, Then the Thing You Want Comes Easier 
 aliases: ["do self-love before pursuing the thing", "do the self-love first then the thing is easier", "self-love is the first domino", "the order of operations on self-love and outcomes", "the two-domino sequence", "self-love first then money", "self-love first then freedom", "self-love first then results", "two dominoes order matters", "the order matters domino principle", "you can have both but the order is weird", "you've been doing the order of operations weird", "make the money then do self-love is less efficient than do self-love then money is easier", "the less-efficient and more-efficient orders for the same outcomes", "self-love first compounds everything", "do self-love and the thing it does not but a couple days", "self-compassion is the upstream domino", "the love-and-compassion-first principle", "the order-of-operations principle for self-love and outcomes", "the order matters principle for inner and outer work", "the self-love first order produces the outer result"]
 tags: ["principle", "self-love", "self-compassion", "order-of-operations", "sequence", "money", "freedom", "upstream", "downstream"]
 related: ["inner-critic-prevents-rest-and-integration", "capacity-to-love-other-is-capacity-to-love-self", "self-aggression-permits-others-aggression", "money-as-surrogate", "nothing-is-required-for-freedom", "chase-your-own-approval", "say-ouch-to-the-inner-critic", "youll-never-get-the-confirmation-from-others"]
-sources: ["2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)"]
+sources: ["2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)", "2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
 ---
 
 # Do Self-Love and Compassion First, Then the Thing You Want Comes Easier (The Order of Operations)
@@ -65,6 +65,25 @@ The client in the session: "Of course the previous, but can't I have both?"
 The question forces the person to choose between the two dominoes in their full form: the outer thing without the self-love, or the self-love without the outer thing. Almost no one picks the outer thing. The choice reveals what the person actually values, which is almost always the self-compassion. Once that is named out loud, the order-of-operations correction becomes obvious. The person has been pursuing the second-priority outcome first.
 
 The question is also a diagnostic for whether the engine has been visible. The person who chooses the outer thing is in a different stage of the work — they have not yet seen that the outer thing without the self-love is the configuration they have been trying to escape. The person who chooses the self-compassion has seen the trap; they just have not yet reorganized their pursuit-order.
+
+## The In-the-Moment Choice Form
+
+A compressed variant of the order-of-operations question, deployable in the middle of a coaching exchange while the person is in contact with a feeling: "Which do you want more, to feel good or to love yourself?"
+
+The question is a real-time forced choice between the two dominoes. The person is in the room with both options live in their body. They cannot intellectualize their way out of it; they have to feel which they pick. The choice surfaces immediately.
+
+In the canonical session, an 18-year-old who had been doing mindfulness practice to "feel everything" was given the parental-love instruction (love the worst-feeling part the way you wanted love from your mom and dad). Joe then dropped the question into the live moment: "Which do you want more, to feel good or to love yourself?"
+
+The person picked "love yourself" and smiled. The smile was what Joe followed next. The smile was the evidence that the choice had been made not by the head but by the body — the body had recognized what it actually wanted underneath the surface presentation of wanting to feel good.
+
+The question form has several operational properties that the abstract domino discussion does not:
+
+- **It is a now-question.** Not "in your life, which would you rather pursue?" but "right now, which do you want more?" The now-framing prevents the head from deferring the choice with strategies.
+- **It is a feel-question.** The choice has to be made from felt-priority, not from reasoning. The body picks one of the two. The head can confirm or contradict but the felt-pick is the data.
+- **It forces the surrogate to show itself.** If the person picks "feel good," the surrogate structure is visible: they are still trying to use love as a route to feeling good. If the person picks "love yourself," they have momentarily stepped out of the surrogate.
+- **The smile is the confirmation.** When the person picks "love yourself" from inside the feeling, the body often produces a small smile. The smile is not the head saying yes; it is the body recognizing relief. The choice has reorganized the relationship to the feeling that was previously the problem.
+
+The question is also gentle. It is not "stop trying to feel good" or "you should want to love yourself more." It is an offer of two options the person already has, with a real openness to either answer. The lack of pressure is what allows the genuine felt-pick.
 
 ## The Witness Layer
 
@@ -127,3 +146,4 @@ The "the good news is the self-love and compassion doesn't take but a couple day
 ## Sources
 
 - 2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson) — the canonical statement: a client who has spent years pursuing money receives the order-of-operations correction (do the self-love first, then the money comes easier) framed as a domino-order observation; the speed claim ("a couple days") that positions the self-love as a near-term project rather than a multi-year one; the choose-between-them question that surfaces the client's actual valuation; the witnessing-posture move that produces the immediate self-compassion; the recognition of freedom as already-here once the inner conditions soften.
+- 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the compressed in-the-moment form of the choice question: "Which do you want more, to feel good or to love yourself?" delivered while the 18-year-old is in contact with the body part and the loving instruction. The person picks "love yourself" and smiles; the smile is the body's recognition that the choice has reorganized the relationship to the difficult feeling. The session shows the question as a real-time forced choice deployable mid-exchange rather than as an abstract framing of life-pursuit order.

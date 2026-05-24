@@ -4,7 +4,7 @@ id: who-do-you-have-to-be-in-your-job-to-be-happy-with-your-job
 title: "Who do you have to be in your job to be happy with your job? (Not Whether to Stay or Leave)"
 aliases: ["who do you have to be in your job to be happy with your job", "who do you have to be in your job", "the redirect from stay-or-leave to who-do-you-have-to-be", "the should-I-quit redirect", "the wrong question is should I quit the right question is who do I have to be", "the job version of who-do-you-have-to-be", "the should-I-stay-or-go redirect", "the redirect from outer decision to inner stance", "the question that replaces should-I-leave", "the job-decision redirect question", "the not-the-question reframe for stay-or-leave", "the inner stance question for jobs", "the stay-or-leave question is not the question", "I don't think that's the question", "the next-job-will-accommodate-who-you-are observation", "the redirect-the-quitting-question", "the alignment question for jobs", "the who-do-I-have-to-be reframe", "the be-yourself-in-the-job question", "the job version of just-be-yourself-and-see-what-happens"]
 tags: ["question", "work", "stay-or-leave", "decision", "alignment", "authenticity", "redirect", "career"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # Who do you have to be in your job to be happy with your job?
