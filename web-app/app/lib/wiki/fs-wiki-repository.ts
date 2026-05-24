@@ -1,8 +1,11 @@
-// Filesystem-backed WikiRepository. SERVER-ONLY.
+// WikiRepository backed by `readWikiAsset()` (runtime-agnostic — local fs
+// on Node, ASSETS binding on Cloudflare Workers). SERVER-ONLY.
 //
-// Reads from web-app/content/wiki/ (produced by E-039's ingestion script).
-// The ingest manifest at .ingest-manifest.json carries the slug→category
-// map and the broken-link inventory; we read it once and cache in memory.
+// Reads from web-app/content/wiki/ (produced by E-039's ingestion script
+// and, on Cloudflare, copied into the assets bundle by E-046's
+// scripts/prebuild-cf.ts). The ingest manifest at .ingest-manifest.json
+// carries the slug→category map and the broken-link inventory; we read
+// it once and cache in memory.
 //
 // Page bodies are read lazily on demand. The corpus is 2,376 files and
 // stays under a few MB compressed, but eagerly reading every file at boot
@@ -11,8 +14,6 @@
 // resolution touches it) and is loaded once.
 
 import 'server-only';
-import { promises as fs } from 'node:fs';
-import path from 'node:path';
 import type {
   FindWikiCriteria,
   IngestManifest,
@@ -23,6 +24,7 @@ import type {
   WikiRepository,
 } from './types';
 import { parseFrontmatter } from './frontmatter';
+import { readWikiAsset } from '../runtime/wiki-asset-reader';
 
 const VALID_CATEGORIES: ReadonlySet<WikiCategory> = new Set<WikiCategory>([
   'anti-patterns',
@@ -49,9 +51,14 @@ export class FsWikiRepository implements WikiRepository {
   private slugIndexPromise: Promise<SlugIndex> | null = null;
   private brokenLinksPromise: Promise<Set<string>> | null = null;
 
-  // contentRoot is configurable for tests; defaults to the canonical path
-  // relative to the Next.js project root (process.cwd() during runtime).
-  constructor(private readonly contentRoot: string) {}
+  // contentRoot is now informational only — the actual reads go through
+  // `readWikiAsset()` which handles Node-vs-Cloudflare runtime detection.
+  // Kept in the constructor signature for backwards compat with the
+  // container that wires it; tests can still pass a custom root via the
+  // WIKI_ROOT env var rather than the constructor argument.
+  constructor(private readonly contentRoot: string) {
+    void this.contentRoot; // suppress unused-warning while keeping the arg
+  }
 
   async find(criteria: FindWikiCriteria = {}): Promise<WikiPage[]> {
     // Singleton lookup is the hot path (every wiki route render). Short-
@@ -147,11 +154,12 @@ export class FsWikiRepository implements WikiRepository {
   private async getManifest(): Promise<IngestManifest> {
     if (this.manifestPromise) return this.manifestPromise;
     this.manifestPromise = (async () => {
-      const manifestPath = path.join(
-        this.contentRoot,
-        '.ingest-manifest.json',
-      );
-      const raw = await fs.readFile(manifestPath, 'utf-8');
+      const raw = await readWikiAsset('.ingest-manifest.json');
+      if (raw === null) {
+        throw new Error(
+          '.ingest-manifest.json not found; run `bun run ingest` (or, on Cloudflare, ensure prebuild-cf copied content/wiki into the assets bundle).',
+        );
+      }
       return JSON.parse(raw) as IngestManifest;
     })();
     return this.manifestPromise;
@@ -164,17 +172,11 @@ export class FsWikiRepository implements WikiRepository {
     const idx = await this.getSlugIndex();
     const entry = idx.get(slug);
     if (!entry) return null;
-    const filePath = path.join(
-      this.contentRoot,
-      entry.category,
-      `${slug}.md`,
-    );
-    let raw: string;
-    try {
-      raw = await fs.readFile(filePath, 'utf-8');
-    } catch {
-      // File listed in manifest but missing on disk. Treat as not-found
-      // rather than throwing; the route handler will render a 404.
+    const raw = await readWikiAsset(`${entry.category}/${slug}.md`);
+    if (raw === null) {
+      // File listed in manifest but missing on disk / in assets. Treat as
+      // not-found rather than throwing; the route handler will render a
+      // 404.
       return null;
     }
     const parsed = parseFrontmatter(raw);

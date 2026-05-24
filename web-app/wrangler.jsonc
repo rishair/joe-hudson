@@ -1,0 +1,79 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Worker name — visible in the Cloudflare dashboard and used as the
+  // default public hostname (joe-hudson-coach.<account-subdomain>.workers.dev).
+  // Pick something stable; renaming creates a new Worker.
+  "name": "joe-hudson-coach",
+  "main": ".open-next/worker.js",
+
+  // Compatibility date 2025-09-01 gets us:
+  //   - nodejs_compat fully populated (the @ai-sdk/* packages, sqlocal,
+  //     and our coach pipeline all use node: imports)
+  //   - process.env auto-populated from wrangler `vars` (this was a
+  //     post-2025-04-01 behavior — older dates require manual binding)
+  //   - Workers VFS for node:fs against /bundle (we don't rely on this
+  //     for content/wiki — that goes via the ASSETS binding — but the
+  //     compat is useful for any node-package internals that touch fs)
+  // Keep this conservative; bumping later is cheap, rolling back is painful.
+  "compatibility_date": "2025-09-01",
+  "compatibility_flags": [
+    "nodejs_compat",
+    // Required by @opennextjs/cloudflare. Prevents internal-fetch tricks
+    // that would otherwise let private services be reached from inside
+    // the Worker. Safe for us — we only fetch OpenRouter, Anthropic, and
+    // env.ASSETS.fetch which uses a sentinel local hostname.
+    "global_fetch_strictly_public"
+  ],
+
+  // Static assets directory produced by `opennextjs-cloudflare build`.
+  // The OpenNext build packs Next.js's static output AND any files under
+  // public/ into this directory; we add content/wiki/ to it via the
+  // prebuild-cf.ts script (which copies content/wiki/ → public/content/wiki/
+  // before next build runs).
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+
+  // OpenNext recommends a self-reference service binding for some
+  // multi-worker patterns (e.g., revalidation calls). Harmless if unused.
+  // Worker name must match `name` above.
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "joe-hudson-coach"
+    }
+  ],
+
+  // Cloudflare Images binding for next/image optimization. The default
+  // OpenNext config wires this through; we don't use next/image yet
+  // (the welcome flow + chat are text-only) but leaving it in costs
+  // nothing and unblocks future image use.
+  "images": {
+    "binding": "IMAGES"
+  },
+
+  // OPENROUTER_API_KEY and ANTHROPIC_API_KEY are runtime secrets, NOT
+  // vars. Set them with `wrangler secret put` (one-time, per environment)
+  // or via the Cloudflare dashboard (Workers & Pages → joe-hudson-coach →
+  // Settings → Variables and Secrets). They appear in process.env at
+  // runtime (compatibility_date >= 2025-04-01 makes this automatic).
+  // We intentionally do NOT list them in `vars` because vars are
+  // plaintext-visible in the wrangler config and dashboard.
+
+  // OPENROUTER_DAILY_CAP is a non-sensitive runtime config. Default in
+  // app/lib/coach/cost-cap.ts is $5; override here if a different cap
+  // is wanted for the deployed environment without a code change.
+  "vars": {
+    "OPENROUTER_DAILY_CAP": "5",
+    "APP_URL": "https://joe-hudson-coach.workers.dev"
+  },
+
+  // Cloudflare's observability stack — enables logs and request metrics
+  // in the dashboard. Free for the first 200k requests/day; if we
+  // outgrow that we'll either disable it or move to a paid analytics
+  // sink.
+  "observability": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,159 @@
+#!/usr/bin/env bun
+// Cloudflare-safe Next.js build wrapper.
+//
+// THIS SOLVES A SECURITY-CRITICAL ISSUE: Next.js's standalone build (which
+// @opennextjs/cloudflare consumes) bundles values from `.env.local` into
+// the server function bundle. On Cloudflare that bundle is the Worker code,
+// uploaded as-is to Cloudflare's edge. Without this guard, a developer's
+// local API key in .env.local would be embedded in the deployed Worker —
+// readable by anyone who downloads the deploy artifact or sees the wrangler
+// dry-run output. This script ensures the build runs without those env vars
+// in scope, so the runtime reads happen against Cloudflare secrets instead.
+//
+// Discovered during E-046 verification: `wrangler deploy --dry-run` showed
+// the OPENROUTER_API_KEY string baked into the worker.js as a literal,
+// inside a `var production = {...}` block Next emits when it sees secrets
+// in process.env during build.
+//
+// The fix: spawn `opennextjs-cloudflare build` with a sanitized env.
+// Allowlist is small and explicit; everything else is dropped.
+//
+// At RUNTIME, the Worker reads OPENROUTER_API_KEY from process.env which
+// Cloudflare populates from `wrangler secret put OPENROUTER_API_KEY`. The
+// secret never appears in the build artifact.
+
+import { spawnSync } from 'node:child_process';
+
+// Allowlist: env vars that ARE safe to leak into the build artifact AND
+// are needed for `next build` to succeed.
+const SAFE_BUILD_VARS = new Set([
+  // System / tooling — required for any node/bun process.
+  'PATH',
+  'HOME',
+  'USER',
+  'SHELL',
+  'TERM',
+  'LANG',
+  'LC_ALL',
+  'TMPDIR',
+  'TEMP',
+  'TMP',
+  'CI',
+  'GITHUB_ACTIONS',
+  'GITHUB_WORKFLOW',
+  'GITHUB_RUN_ID',
+  'NODE_OPTIONS',
+  'NODE_ENV',
+  'NEXTJS_ENV',
+  'NEXT_TELEMETRY_DISABLED',
+  // OpenNext build internals.
+  'OPEN_NEXT_DEBUG',
+  // Bun internals.
+  'BUN_INSTALL',
+  'BUN_RUNTIME_TRANSPILER_CACHE_PATH',
+]);
+
+// Anything starting with these prefixes is also safe (build-time config,
+// not secrets). NEXT_PUBLIC_* by definition reaches the client bundle, so
+// callers must already have decided those are safe to publish.
+const SAFE_PREFIXES = ['NEXT_PUBLIC_', 'TURBOPACK_', 'GH_', 'GITHUB_'];
+
+// Explicit deny list — even if a future maintainer adds these to the
+// allowlist by accident, they get stripped. The build NEVER needs these.
+const HARD_DENY = new Set([
+  'OPENROUTER_API_KEY',
+  'ANTHROPIC_API_KEY',
+  'HF_TOKEN',
+  'CLOUDFLARE_API_TOKEN',
+  'CLOUDFLARE_ACCOUNT_ID',
+  'GITHUB_TOKEN',
+  'GH_TOKEN',
+  'NPM_TOKEN',
+]);
+
+function buildSanitizedEnv(): NodeJS.ProcessEnv {
+  const out: NodeJS.ProcessEnv = {};
+  for (const [key, value] of Object.entries(process.env)) {
+    if (value === undefined) continue;
+    if (HARD_DENY.has(key)) continue;
+    if (SAFE_BUILD_VARS.has(key)) {
+      out[key] = value;
+      continue;
+    }
+    if (SAFE_PREFIXES.some((p) => key.startsWith(p))) {
+      out[key] = value;
+      continue;
+    }
+    // Drop everything else. This is the safe default: opt-in to keeping
+    // an env var by adding it to SAFE_BUILD_VARS or a SAFE_PREFIX.
+  }
+  // Force production for the build itself.
+  out.NODE_ENV = 'production';
+  out.NEXTJS_ENV = 'production';
+  // Disable Next telemetry to keep CI logs clean.
+  out.NEXT_TELEMETRY_DISABLED = '1';
+  return out;
+}
+
+function main(): void {
+  const env = buildSanitizedEnv();
+  const droppedSecrets: string[] = [];
+  for (const key of HARD_DENY) {
+    if (process.env[key]) droppedSecrets.push(key);
+  }
+  if (droppedSecrets.length > 0) {
+    console.log(`cf-build: dropping ${droppedSecrets.length} secrets from build env: ${droppedSecrets.join(', ')}`);
+    console.log('cf-build: these will be read at runtime from Cloudflare secrets, NOT embedded in the bundle.');
+  }
+  const result = spawnSync('bunx', ['opennextjs-cloudflare', 'build'], {
+    env,
+    stdio: 'inherit',
+  });
+  if (result.status !== 0) {
+    process.exit(result.status ?? 1);
+  }
+  console.log('cf-build: build complete; verifying no secret strings leaked into the worker bundle...');
+  // Self-test: read worker.js + middleware/handler.mjs + main bundles and
+  // grep for known secret patterns. If any hit, fail loudly.
+  const fs = require('node:fs') as typeof import('node:fs');
+  const path = require('node:path') as typeof import('node:path');
+  const ROOT = path.join(import.meta.dir, '..');
+  const filesToCheck: string[] = [];
+  function walkDir(dir: string) {
+    if (!fs.existsSync(dir)) return;
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) walkDir(full);
+      else if (entry.name.endsWith('.js') || entry.name.endsWith('.mjs') || entry.name.endsWith('.cjs')) {
+        filesToCheck.push(full);
+      }
+    }
+  }
+  walkDir(path.join(ROOT, '.open-next'));
+  // Secret patterns to scan for. Be specific — generic "key" strings
+  // appear naturally in compiled JS. Match the actual prefix shapes.
+  const patterns: { name: string; re: RegExp }[] = [
+    { name: 'OpenRouter v1 key', re: /sk-or-v1-[a-f0-9]{30,}/ },
+    { name: 'Anthropic API key', re: /sk-ant-[a-zA-Z0-9_-]{20,}/ },
+    { name: 'HuggingFace token', re: /hf_[a-zA-Z0-9]{20,}/ },
+    { name: 'Cloudflare API token (40+char hex/alphanum)', re: /\b[a-zA-Z0-9_-]{40,}\.[a-zA-Z0-9_-]{20,}\b/ },
+  ];
+  let leaks = 0;
+  for (const file of filesToCheck) {
+    const src = fs.readFileSync(file, 'utf-8');
+    for (const { name, re } of patterns) {
+      if (re.test(src)) {
+        leaks += 1;
+        console.error(`cf-build: SECURITY LEAK — ${name} found in ${file.replace(ROOT + '/', '')}`);
+      }
+    }
+  }
+  if (leaks > 0) {
+    console.error(`cf-build: ${leaks} secret leak(s) detected in build output. ABORTING.`);
+    console.error('cf-build: review which env var is being inlined; add it to HARD_DENY and rebuild.');
+    process.exit(2);
+  }
+  console.log(`cf-build: clean. Scanned ${filesToCheck.length} JS files; 0 secret leaks.`);
+}
+
+main();

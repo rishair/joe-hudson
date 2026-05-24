@@ -52,7 +52,7 @@ export async function runRetrieval(args: {
     maxEdgesPerStep: V5B_CONFIG.maxEdgesPerStep,
   });
 
-  const compendium = loadCompendium();
+  const compendium = await loadCompendium();
   const attribution: ResourceAttribution = {
     resources: result.telemetry.bundle_ids.map((id, idx) => {
       const entry = compendium.catalog.get(id);

@@ -20,27 +20,22 @@
  * from cache hits across turns.
  */
 
-import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { generateText, tool } from 'ai';
 import { createAnthropic } from '@ai-sdk/anthropic';
 import { z } from 'zod';
+import { readWikiAsset } from '../runtime/wiki-asset-reader';
 
-// Where the ingested wiki lives. `process.cwd()` at runtime is the Next.js
-// project root (web-app/). Override with WIKI_ROOT env var for tests or when
-// the server is started from a different directory.
+// All disk reads now go through `readWikiAsset()` (runtime-agnostic — Node
+// fs locally, Cloudflare ASSETS binding in production deploys). Per the
+// E-046 deploy work, the wiki content (~38 MiB) is too large to fit in
+// the 10 MiB compressed Worker bundle, so on Cloudflare it lives in the
+// static-assets directory and is fetched on demand via env.ASSETS.fetch.
 //
-// The `turbopackIgnore` comment tells Next.js's file tracer NOT to bundle
-// every file rooted at process.cwd() into the route's static bundle — the
-// wiki has 2.4k+ markdown files that we want to keep on disk and read at
-// runtime, not bundle. Without this hint the build emits a "matches 14350
-// files" warning and bloats the deployable significantly.
-function getWikiRoot(): string {
-  return (
-    process.env.WIKI_ROOT ??
-    join(/* turbopackIgnore: true */ process.cwd(), 'content', 'wiki')
-  );
-}
+// `join` from node:path is still used for string-level path construction
+// (e.g., building catalog `path` fields from category+slug). It does NOT
+// touch the filesystem; the node:path module is pure-string and is
+// available in Cloudflare Workers via nodejs_compat.
 
 const INDEX_FILENAME = '_index.md';
 const BACKLINKS_FILENAME = '_backlinks.json';
@@ -151,18 +146,18 @@ function parseIndex(indexText: string): Map<string, SeedCatalogEntry> {
   return catalog;
 }
 
-function parseForwardRelated(
+async function parseForwardRelated(
   entry: SeedCatalogEntry,
   fileBodies: Map<string, string>,
-): string[] {
+): Promise<string[]> {
   let body = fileBodies.get(entry.id);
   if (body === undefined) {
-    const abs = join(getWikiRoot(), entry.path);
-    if (!existsSync(abs)) {
+    const raw = await readWikiAsset(entry.path);
+    if (raw === null) {
       fileBodies.set(entry.id, '');
       return [];
     }
-    body = readFileSync(abs, 'utf8');
+    body = raw;
     fileBodies.set(entry.id, body);
   }
   if (!body) return [];
@@ -236,40 +231,45 @@ function buildSeedIndex(indexText: string): string {
   return out.join('\n');
 }
 
-export function loadCompendium(): CompendiumState {
+// In-flight promise dedup: many concurrent first-requests would otherwise
+// each kick off a separate ASSETS.fetch for _index.md. Cache the promise,
+// then memoize the resolved state into CACHED_STATE.
+let LOAD_PROMISE: Promise<CompendiumState> | null = null;
+
+export async function loadCompendium(): Promise<CompendiumState> {
   if (CACHED_STATE) return CACHED_STATE;
-  const root = getWikiRoot();
-  const indexPath = join(root, INDEX_FILENAME);
-  const backlinksPath = join(root, BACKLINKS_FILENAME);
-  if (!existsSync(indexPath)) {
-    throw new Error(`wiki index not found at ${indexPath}`);
-  }
-  if (!existsSync(backlinksPath)) {
-    throw new Error(`wiki backlinks not found at ${backlinksPath}`);
-  }
-  const indexMd = readFileSync(indexPath, 'utf8');
-  const seedIndexMd = buildSeedIndex(indexMd);
-  const catalog = parseIndex(indexMd);
-  const backlinksRaw = JSON.parse(readFileSync(backlinksPath, 'utf8')) as Record<
-    string,
-    string[]
-  >;
-  const backlinks = new Map<string, string[]>();
-  const indegree = new Map<string, number>();
-  for (const [target, sources] of Object.entries(backlinksRaw)) {
-    backlinks.set(target, sources);
-    indegree.set(target, sources.length);
-  }
-  CACHED_STATE = {
-    catalog,
-    backlinks,
-    indegree,
-    forwardRelated: new Map(),
-    fileBodies: new Map(),
-    indexMd,
-    seedIndexMd,
-  };
-  return CACHED_STATE;
+  if (LOAD_PROMISE) return LOAD_PROMISE;
+  LOAD_PROMISE = (async () => {
+    const indexMd = await readWikiAsset(INDEX_FILENAME);
+    if (indexMd === null) {
+      throw new Error(`wiki index not found: ${INDEX_FILENAME}`);
+    }
+    const backlinksRaw = await readWikiAsset(BACKLINKS_FILENAME);
+    if (backlinksRaw === null) {
+      throw new Error(`wiki backlinks not found: ${BACKLINKS_FILENAME}`);
+    }
+    const seedIndexMd = buildSeedIndex(indexMd);
+    const catalog = parseIndex(indexMd);
+    const backlinksParsed = JSON.parse(backlinksRaw) as Record<string, string[]>;
+    const backlinks = new Map<string, string[]>();
+    const indegree = new Map<string, number>();
+    for (const [target, sources] of Object.entries(backlinksParsed)) {
+      backlinks.set(target, sources);
+      indegree.set(target, sources.length);
+    }
+    const state: CompendiumState = {
+      catalog,
+      backlinks,
+      indegree,
+      forwardRelated: new Map(),
+      fileBodies: new Map(),
+      indexMd,
+      seedIndexMd,
+    };
+    CACHED_STATE = state;
+    return state;
+  })();
+  return LOAD_PROMISE;
 }
 
 // ---------------- Seed detection (Haiku tool call) ----------------
@@ -335,7 +335,7 @@ export async function detectSeeds(
   if (!apiKey || !apiKey.trim()) {
     throw new Error('ANTHROPIC_API_KEY not set');
   }
-  const compendium = loadCompendium();
+  const compendium = await loadCompendium();
   const model = args.model ?? 'claude-haiku-4-5';
   const anthropic = createAnthropic({ apiKey });
 
@@ -515,9 +515,11 @@ export async function detectSeeds(
 
 /**
  * Read the full markdown body of a file by id. Returns "" if missing.
+ * Async because on Cloudflare the read goes through the ASSETS binding
+ * (env.ASSETS.fetch). The fileBodies cache makes repeat reads sync-fast.
  */
-export function readFileBody(id: string): string {
-  const compendium = loadCompendium();
+export async function readFileBody(id: string): Promise<string> {
+  const compendium = await loadCompendium();
   const cached = compendium.fileBodies.get(id);
   if (cached !== undefined) return cached;
   const entry = compendium.catalog.get(id);
@@ -525,12 +527,11 @@ export function readFileBody(id: string): string {
     compendium.fileBodies.set(id, '');
     return '';
   }
-  const abs = join(getWikiRoot(), entry.path);
-  if (!existsSync(abs)) {
+  const raw = await readWikiAsset(entry.path);
+  if (raw === null) {
     compendium.fileBodies.set(id, '');
     return '';
   }
-  const body = readFileSync(abs, 'utf8');
-  compendium.fileBodies.set(id, body);
-  return body;
+  compendium.fileBodies.set(id, raw);
+  return raw;
 }

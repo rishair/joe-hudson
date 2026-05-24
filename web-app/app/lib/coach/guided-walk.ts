@@ -454,7 +454,7 @@ export async function retrieveByGuidedWalk(
     apiKey: args.apiKey,
   });
 
-  const compendium = loadCompendium();
+  const compendium = await loadCompendium();
 
   if (seedResult.seeds.length === 0) {
     return {
@@ -525,7 +525,7 @@ export async function retrieveByGuidedWalk(
     if (!entry) {
       continue;
     }
-    const body = readFileBody(nextId);
+    const body = await readFileBody(nextId);
     if (!body) {
       continue;
     }
@@ -625,7 +625,7 @@ export async function retrieveByGuidedWalk(
     for (const b of bundle) {
       const e = compendium.catalog.get(b.id);
       const path = e?.path ?? `unknown/${b.id}.md`;
-      const body = readFileBody(b.id);
+      const body = await readFileBody(b.id);
       if (!body) continue;
       lines.push(`--- ${path} (walker_reason: ${b.reason}) ---`);
       lines.push(body.trim());
