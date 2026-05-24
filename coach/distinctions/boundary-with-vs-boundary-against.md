@@ -5,7 +5,7 @@ title: "Boundary With vs. Boundary Against"
 aliases: ["boundary with not against", "drawing boundary with", "boundary as connection not separation", "loving boundary", "boundary as gift", "open-hearted boundary"]
 tags: ["boundaries", "love", "vulnerability", "connection"]
 related: ["boundaries", "love-as-deep-welcoming", "defense", "caring-vs-caretaking", "vulnerability", "dont-do-emotion-at-people", "does-saying-it-increase-your-love", "dont-use-boundaries-as-ultimatums"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_Love Over Defense"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_Love Over Defense", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong"]
 ---
 
 # Boundary With vs. Boundary Against
@@ -92,6 +92,20 @@ The resolution: separation can be loving. Separation that protects both parties,
 
 Anything actually compassionate for you turns out to be compassionate for everyone in the situation. If it is compassionate for you but not for them, look again; the apparent compassion may be self-justification.
 
+## The Return as the Anti-Against Marker (For the Anger-Specific Case)
+
+A specific operational form of the "with" boundary appears in the case of leaving when the other person is yelling. The boundary-with version has the return built into the leaving:
+
+"Hey, if you're gonna be angry, I'm gonna leave. Happy to come back in 20 minutes. And we can talk when you're not yelling at me." -- Joe Hudson, If Others' Anger Makes You Feel You Did Something Wrong
+
+The structural marker of the "with" version: the explicit return. The boundary-against version of the same situation would be "I'm leaving" with no return — which lands as abandonment. The boundary-with version is "I'm leaving and coming back" — which lands as protection of the conditions for the relationship.
+
+The return is what differentiates the protective boundary from the punitive one. The leaving says "this behavior is not okay for me to be around." The return says "you are not too much for me." Both messages have to land for the boundary to function as connection-preserving.
+
+"I'm not abandoning you. I'm here for you. I'm just not willing to be yelled at." -- Joe Hudson, If Others' Anger Makes You Feel You Did Something Wrong
+
+This is the same internal-state distinction (heart open vs. heart closed) operationalized at the level of behavior. See [[come-back-in-20-minutes]] for the full move and its mechanics.
+
 ## Boundaries as Love's Infrastructure
 
 The "with" framing is not a softening of the boundary. It is the recognition that boundaries are required for love to survive.
@@ -133,3 +147,4 @@ A boundary drawn with [[vulnerability]] (here is what is true for me), [[imparti
 - 2022-03-18_What's So Scary About Boundaries?
 - 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)
+- 2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong -- the come-back-in-20-minutes formulation as the operational form of "with" in the anger-leaving case; the explicit return as the structural marker that distinguishes the boundary-with from the boundary-against; the "I'm not abandoning you, I'm here for you, I'm just not willing to be yelled at" composite message that the boundary delivers

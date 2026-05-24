@@ -5,7 +5,7 @@ title: "Anger"
 aliases: ["the emotion of anger", "anger as energy", "anger as care", "beautiful energy of anger", "loving your anger", "what anger is", "healthy anger", "anger's three indicators", "the wisdom of anger"]
 tags: ["anger", "emotions", "care", "boundaries", "fear", "trauma", "energy", "empowerment"]
 related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story", "three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger-as-cover-for-deeper-emotion", "anger-is-love"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong"]
 ---
 
 # Anger
@@ -158,9 +158,12 @@ When a person reports they "do not get angry," the most likely diagnosis is supp
 
 When a person reports chronic depression or low-grade flatness, anger work is one of the first paths to test. See [[get-angry-in-the-car]] as the entry-level practice.
 
-When a person describes someone else's anger as the problem, the path may go in two directions:
+When a person describes someone else's anger as the problem, the path may go in several directions:
 - If they are doing emotional caretaking with the angry person, the path is [[welcoming-the-others-emotion]] or boundary work.
 - If they fear all anger because of past abuse, the path begins by separating anger-the-emotion from anger-at-someone, then building capacity to feel their own.
+- If they treat the angry person's anger as evidence of their own wrongness, the path goes through [[their-anger-makes-me-feel-i-did-something-wrong]] and [[dont-use-others-anger-as-the-signal-youve-done-wrong]] to install a different measurement system.
+- If they are highly empathic and absorbing the angry person's underlying fear, the read is [[picking-up-their-fear-and-thinking-its-yours]] and the corrective is the recognition itself plus the basic boundary at [[come-back-in-20-minutes]].
+- If they need an active move beyond welcoming or boundary, [[name-the-vision-then-name-the-block]] gives the worked structure.
 
 When a person reports that anger work "is not working" and the same anger keeps coming back, run two diagnostics:
 1. Is the release being done cleanly or is it dysregulating? See [[three-things-that-go-wrong-when-releasing-anger]] and [[dysregulated-vs-released-into-freedom]].
@@ -189,6 +192,16 @@ The first indicator (something is cared about) has a compressed restatement that
 "I see anger itself as love. We don't get angry at anything that we don't have a deep care for." -- Joe Hudson, The Plight Of Perfection
 
 The corollary paired with the compressed form: the surface target of the anger is rarely the real source. The coffee machine that the anger arrives at is not what the anger is about; what the anger is about is the deeper care that the trigger touched. Reading the surface target as the source resolves nothing; reading the anger as a pointer to the real care turns the anger into information.
+
+## Anger as Vulnerability (The Other Compressed Form)
+
+A second compressed reframe operates on what the angry person is doing relationally: anger is an act of vulnerability. The angry person feels out of control, scared, and alone. The yelling is the form their fear is taking. What they want is engagement — the same thing they would want if they were sad or scared.
+
+"His anger is just his vulnerability. It means that he feels out of control and he's scared." -- Joe Hudson (relaying his wife's therapist), If Others' Anger Makes You Feel You Did Something Wrong
+
+This reframe was the one that changed Joe's relationship to his own anger. Once he saw the anger as evidence of being scared rather than as evidence of being a bad person, compassion for himself became available, and the anger started to dissipate. The reframe is the bridge between the angry person's experience and the receiver's response.
+
+The "anger is love" frame and the "anger is vulnerability" frame are complementary: anger-is-love describes what the angry person is showing (care, investment, what matters). Anger-is-vulnerability describes what the angry person is asking for (engagement, presence, being met in the difficulty). The full picture of anger requires both halves. See [[anger-is-an-act-of-vulnerability]] for the dedicated treatment of the second half.
 
 ## Tone
 
@@ -226,3 +239,4 @@ Joe speaks of anger with affection. It is "beautiful," "amazing energy." When te
 - 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (Joe delivering the compressed reframe "I see anger itself as love. We don't get angry at anything that we don't have a deep care for"; the coffee machine corollary that the surface target is not the real source of the anger; Stephanie's immediate recognition that the reframe would have been freeing for her at the time)
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (alternate version of the same conversation with the same compressed teaching)
 - 2024-05-20_How Anger Works (8-min Guide to Healthy Anger) -- compressed public-facing teaching that produced the symptom-map shortcut ("feeling stuck, depression, self-criticism, and raging at people are all forms of repressed anger") and the champagne-bottle framing of the early-phase release wave
+- 2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong -- the compressed teaching on receiving others' anger; the source for the anger-as-vulnerability second compressed form (paired with anger-is-love); Joe's own discovery story (the therapist who told his wife "his anger is just his vulnerability"); the personal-history mechanism by which the vulnerability reframe produced self-compassion which produced the anger's dissipation

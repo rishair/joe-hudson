@@ -2,9 +2,9 @@
 type: read
 id: the-cry-laugh-at-the-edge
 title: "The Cry-Laugh at the Edge (Held Emotion Visibly Pressing at the Boundary of Containment)"
-aliases: ["the cry-laugh at the edge", "the cry-laugh read", "the laugh-cry at the edge of consciousness", "emotion at the edge of consciousness", "the edge-of-expression read", "held emotion pressing at the boundary", "the laugh-cry containment read", "the right-at-the-edge read", "the I-could-cry-and-laugh-at-the-same-time read", "the bursting-against-rigidity read", "bursting against your own rigidity", "the held-back expression read", "the visibly-contained expression read", "the actively-held-back emotion read", "the leak-at-the-edge read", "the smile-at-the-edge-of-tears read", "the laugh-that-was-almost-a-cry read", "the contained-laugh-cry read", "emotion right there at the edge being pressed back", "the I-could-actually-cry-and-laugh-at-you read"]
+aliases: ["the cry-laugh at the edge", "the cry-laugh read", "the laugh-cry at the edge of consciousness", "emotion at the edge of consciousness", "the edge-of-expression read", "held emotion pressing at the boundary", "the laugh-cry containment read", "the right-at-the-edge read", "the I-could-cry-and-laugh-at-the-same-time read", "the bursting-against-rigidity read", "bursting against your own rigidity", "the held-back expression read", "the visibly-contained expression read", "the actively-held-back emotion read", "the leak-at-the-edge read", "the smile-at-the-edge-of-tears read", "the laugh-that-was-almost-a-cry read", "the contained-laugh-cry read", "emotion right there at the edge being pressed back", "the I-could-actually-cry-and-laugh-at-you read", "the ripe grape read", "the verge of bursting read", "the about-to-pop read", "the held-pressure-at-the-skin read"]
 tags: ["read", "containment", "emotion-at-the-edge", "visible-suppression", "live diagnostic", "expression boundary", "edge-of-consciousness", "in-the-room"]
-sources: ["2025-11-27_＂I'm Not Responsible For How You Feel＂ (Coaching with Joe)"]
+sources: ["2025-11-27_＂I'm Not Responsible For How You Feel＂ (Coaching with Joe)", "2026-03-19_What Happens When the 'Calm One' stops Holding Back ｜ Coaching with Joe"]
 ---
 
 # The Cry-Laugh at the Edge
@@ -25,6 +25,20 @@ The specific signals:
 This read is distinct from [[disassociating-in-the-coaching-room]]. In dissociation, the person is leaving. In the cry-laugh at the edge, the person is here and the emotion is here and the apparatus is holding them apart from each other. The energy is present and is being actively bounded, not absent.
 
 This read is also distinct from [[emotional-leak-mistaken-for-emotional-excess]]. There, the person reports flooding and the diagnostic is that the flooding is actually leak. Here, the person reports being unable to express, and the diagnostic is that the expression is right there, fully formed, being held back by an apparatus the person built years ago and that is now operating without their consent.
+
+## The Ripe Grape Variant
+
+A specific somatic manifestation of this read is the ripe-grape-about-to-burst posture. The person's body looks visibly pressurized. Heart racing. Pressure building at the surface. The skin held taut. The person reports being "on the verge of bursting" and "popping every now and then" — the popping is the channel briefly opening and a lot coming through at once, then re-closing.
+
+Joe's naming of this in a session:
+
+"You feel like you want to burst is what you look like. You look like, like a really ripe grape." -- Joe Hudson, What Happens When the 'Calm One' stops Holding Back
+
+The client's response confirmed the read with felt accuracy: "That's my general posture, just on the verge of bursting. And then I pop every now and then."
+
+The ripe grape variant is the chronic-state version of the cry-laugh-at-the-edge: the held material is so abundant and the containment so practiced that the body looks visibly stretched against its own skin. The cry-laugh-at-the-edge can arrive in a moment; the ripe-grape posture is the long-term configuration the person is living inside.
+
+The naming is precise: the body image makes the structural fact visible. The person can see what they look like from the outside. The popping pattern is named as the channel doing its work imperfectly because the channel has been kept closed too long. The work is not to manage the popping but to let the channel run continuously. See [[composing-yourself-as-self-suppression]] for the chronic version and [[holding-back-power-is-holding-back-joy]] for the principle that the held material is broader than the person has been labeling it.
 
 ## What This Implies
 
@@ -100,3 +114,4 @@ The naming is often paired with a small smile or a small expression of awe at wh
 ## Sources
 
 - 2025-11-27_"I'm Not Responsible For How You Feel" (Coaching with Joe) — the woman who opens with a work-question about bringing her full expression and almost immediately delivers "I could actually cry and laugh at you at the same time"; Joe names the cry-laugh at the edge of consciousness as a "story you have to contain"; later in the session names the live containment directly ("I can see you holding it back right now actually") and the bursting-against-rigidity quality ("you were like bursting against your own rigidity")
+- 2026-03-19_What Happens When the 'Calm One' stops Holding Back | Coaching with Joe — the ripe-grape variant of the read; Joe names the man's chronic posture: "you feel like you want to burst is what you look like. You look like, like a really ripe grape"; the man confirms the read with the popping-every-now-and-then language; the chronic-state version of the cry-laugh-at-the-edge where the held material has been accumulating against the containment for years

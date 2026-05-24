@@ -5,7 +5,7 @@ title: "Read Anger and Over-Helpfulness as Fear"
 aliases: ["read anger as fear", "read help as fear", "see the fear underneath the anger", "see the fear underneath the helpfulness", "oh they're scared", "they're afraid not malicious", "compassion through fear-recognition", "the fear-under-behavior read", "when someone is angry they're scared", "the over-helper is scared", "compassion via fear", "the angry boss is afraid", "the over-helpful colleague is afraid", "fear masquerading as anger", "fear masquerading as helpfulness", "the under-emotion read", "read the underlying fear"]
 tags: ["move", "fear", "anger", "compassion", "diagnosis", "reading-people", "coaching", "interpersonal", "relational"]
 related: ["fear-hot-potato", "anger-as-cover-for-deeper-emotion", "fear-as-signal-of-care", "fear-in-body-vs-fear-in-head", "i-caretake-people", "fixing-people", "every-trigger-with-your-kid-is-projection", "what-is-truly-compassionate", "wisdom-of-each-emotion", "stop-taking-away-my-empowerment"]
-sources: ["2024-02-02_A Workshop for Welcoming Fear"]
+sources: ["2024-02-02_A Workshop for Welcoming Fear", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong"]
 ---
 
 # Read Anger and Over-Helpfulness as Fear
@@ -128,7 +128,11 @@ The tone is also slightly amused. "Oh, they're scared" lands as recognition, not
 - Toward [[what-is-truly-compassionate]]: the broader principle that compassion for self and other are the same act
 - Toward [[every-trigger-with-your-kid-is-projection]]: the parenting application, where the angry parent is the scared parent
 - Toward [[guilt-as-passive-fear]]: a specific variant of the read for the chronically guilt-tripping parent — the guilt is the fear taking the passive route because the active route (anger) was taken by another family member
+- Toward [[anger-is-an-act-of-vulnerability]]: the principle that explains why the read works — the angry person is in a vulnerable state and is reaching, in a form that doesn't look like reaching
+- Toward [[picking-up-their-fear-and-thinking-its-yours]]: the specific variant of this read for the highly empathic receiver who is absorbing the angry person's fear and miscategorizing it as their own
+- Toward [[name-the-vision-then-name-the-block]]: the active move that follows the read in workplace and goal-oriented situations
 
 ## Sources
 
 - 2024-02-02_A Workshop for Welcoming Fear (Joe's explicit observation that seeing fear underneath anger or over-helpfulness produces compassion and a different relational stance)
+- 2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong -- the deeper structural treatment of the read in the anger-specific case; the angry person is "feeling out of control" and "scared" and "alone" and "needs to get some sort of control"; the recognition is also delivered with a caveat about the empathic receiver who picks up the fear and mistakes it for their own (treated at [[picking-up-their-fear-and-thinking-its-yours]])

@@ -2,10 +2,10 @@
 type: move
 id: pucker-and-still-say-it
 title: "Pucker and Still Say It (Risk the Attack to Say the Freeing Thing)"
-aliases: ["pucker and still say it", "say the uncomfortable thing", "risk the attack for their freedom", "the puckering coach", "the I-pucker-when-I-say-this move", "saying things that might get you attacked", "the freedom-is-on-the-line move", "the deeply fucking uncomfortable thing move", "rapid-fire coaching honesty", "follow the call into discomfort in coaching", "shake-the-nervous-system move"]
+aliases: ["pucker and still say it", "say the uncomfortable thing", "risk the attack for their freedom", "the puckering coach", "the I-pucker-when-I-say-this move", "saying things that might get you attacked", "the freedom-is-on-the-line move", "the deeply fucking uncomfortable thing move", "rapid-fire coaching honesty", "follow the call into discomfort in coaching", "shake-the-nervous-system move", "what percentage of your questions make you pucker", "the I-pucker-and-act-anyway teaching", "the coach's pucker as the model for the client"]
 tags: ["move", "coaching", "humility", "courage", "calling", "facilitation", "risk"]
-related: ["humility", "enjoyment-as-surrender", "love-vs-nice", "say-the-thing-youre-not-saying", "conflict-avoidance-prevents-healing", "i-dont-buy-your-story", "receive-the-projection-and-let-it-move-through", "agree-when-challenged-on-the-teaching", "listening-to-impulse", "rapid-fire-coaching-impulse-check", "training-coaches-and-facilitators"]
-sources: ["2023-10-18_Humility", "2024-01-09_Coaching As A Practice"]
+related: ["humility", "enjoyment-as-surrender", "love-vs-nice", "say-the-thing-youre-not-saying", "conflict-avoidance-prevents-healing", "i-dont-buy-your-story", "receive-the-projection-and-let-it-move-through", "agree-when-challenged-on-the-teaching", "listening-to-impulse", "rapid-fire-coaching-impulse-check", "training-coaches-and-facilitators", "find-me-one-moment-of-zero-internal-conflict", "i-hold-back-because-it-feels-aggressive"]
+sources: ["2023-10-18_Humility", "2024-01-09_Coaching As A Practice", "2026-03-19_What Happens When the 'Calm One' stops Holding Back ｜ Coaching with Joe"]
 ---
 
 # Pucker and Still Say It
@@ -109,6 +109,32 @@ The same pucker shows up outside coaching. See [[pucker-before-truth]] for the e
 
 The coaching move is the rare-context application. The everyday version is the daily practice. Both rest on the same body datum.
 
+## Using the Coach's Pucker as the Teaching for the Client
+
+A specific application: when a client is operating with a rule that says "I shouldn't act unless I feel internally clear" or "I shouldn't say anything unless I'm free of internal conflict," the coach can use their own puckering practice as the lived counter-example.
+
+Joe's form of the move, from a coaching session with a client who was holding back because expressing felt internally aggressive:
+
+"What percentage of the questions that I asked you think make me pucker? Make me go, oh my God, am I going to ask that question?" -- Joe Hudson, What Happens When the 'Calm One' stops Holding Back
+
+The client smiles and recognizes the structural fact: the coach has been puckering throughout the session and saying things anyway. The internal conflict is not the green light or the red light. The pucker is data; the action is the choice.
+
+The move is implicit teaching by lived example. The client has been operating with a rule ("internal conflict means don't act") that the coach has just falsified in the session itself, simply by acting. The naming of the puckering makes the falsification explicit. The client sees: I have been watching someone do the thing I have told myself can't be done.
+
+The structure of the move:
+1. The client has surfaced the rule (often via [[find-me-one-moment-of-zero-internal-conflict]] or similar).
+2. The coach asks the client to notice the coach's own puckering: "what percentage of my questions do you think make me pucker?"
+3. The client recognizes the puckering is constant.
+4. The client sees that the rule they have been operating with is not how the coach has been operating in the session they have just been in.
+
+The move is closely related to [[find-me-one-moment-of-zero-internal-conflict]] — that move falsifies the rule via the client's own data; this move falsifies the rule via the coach's lived practice. The two moves often run together.
+
+## The Coach's Pucker as Permission
+
+The naming of the coach's pucker has a second effect: it gives the client permission to feel their own pucker and act anyway. The client has been treating their pucker as a stop sign. The coach naming theirs as the routine condition of saying anything important resets the meaning. The pucker can now be experienced as the body marking that something important is about to happen, not as the signal to retreat.
+
+This is the inverse of approval-seeking: the coach who feels the pucker and acts anyway models self-approval through truthful action. The client who has been seeking external approval through composure can recognize, in real time, that the coach is operating with the opposite mechanism. See [[speaking-truth-cures-approval-seeking]] for the principle the modeling is enacting.
+
 ## Upstream (What Leads Here)
 
 - When a coach is asking how to coach more freely
@@ -134,3 +160,4 @@ The coaching move is the rare-context application. The everyday version is the d
 
 - 2023-10-18_Humility (the explicit framing: "I will say some deeply fucking uncomfortable things to people because it's their potential freedom that's on the line... I often pucker when I say those things")
 - 2024-01-09_Coaching As A Practice (the "holy shit, am I about to say that" cognitive signature; "usually those are some of the best things to say"; framed in the context of one of the four foundational ingredients for coaches in training: listening to the internal call moment-to-moment)
+- 2026-03-19_What Happens When the 'Calm One' stops Holding Back | Coaching with Joe — the coach's-pucker-as-teaching-for-the-client variant; Joe asks the client "what percentage of the questions I asked you think make me pucker?"; uses his own puckering practice as the falsification of the client's rule that internal conflict means don't act; the implicit teaching that the pucker is the routine condition of saying anything important, not a stop sign

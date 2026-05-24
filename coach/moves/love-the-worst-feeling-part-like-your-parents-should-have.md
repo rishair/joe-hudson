@@ -4,7 +4,7 @@ id: love-the-worst-feeling-part-like-your-parents-should-have
 title: "Love the Worst-Feeling Part the Way You Wanted Love From Your Parents"
 aliases: ["love the worst-feeling part like your parents should have", "love it the way you wanted love from your mom and dad", "the parental-love reference standard for self-love", "love the part the way you wanted to be loved", "use the wanted-parental-love as the felt template", "love the body part with the love you wanted from your parents", "give the part the love you wanted from your parents", "love the worst part the way you wanted to be loved", "the body-part loving sequence", "find the worst part love it like you wanted parental love", "the parental-love template self-love move", "love this thing exactly the way you wanted love from your mom and dad", "all the patience not needing it to change love instruction", "the love-it-like-your-parents-should-have move", "the wanted-love-from-parents template move", "treat the part the way you wanted your parents to treat you in pain", "the body-locate-then-parental-love sequence", "the four-step love-the-part sequence"]
 tags: ["move", "self-love", "loving-all-parts", "body", "parents", "template", "depression", "overwhelm", "live coaching", "parts work"]
-sources: ["2026-02-05_This is How To Love Yourself (Coaching with Joe)"]
+sources: ["2026-02-05_This is How To Love Yourself (Coaching with Joe)", "2026-03-13_\"This Is How You Love Yourself\" (Coaching Session Breakdown)"]
 ---
 
 # Love the Worst-Feeling Part the Way You Wanted Love From Your Parents
@@ -81,7 +81,19 @@ Direct, specific, warm. The instructions are concrete ("look into your body," "s
 
 The "don't forget to breathe" carried at the end of the loving instruction is functional. The person concentrating on loving a body part will often hold their breath. The reminder to breathe lets the body stay open while the loving happens.
 
-The tone shifts to lighter when the loving lands and the felt-shift arrives. "Fuck your neighbors" (in the canonical session, when the person says they are holding back the expression because the neighbors might hear) is delivered playfully. The lightness signals that the breakthrough is allowed and not an emergency. The body can stay open and the loving can continue.
+The tone shifts to lighter when the loving lands and the felt-shift arrives. "Fuck your neighbors" (in the canonical session, when the person says they are holding back the expression because the neighbors might hear) is delivered playfully — see [[permission-the-loud-expression-fuck-the-constraint]] for the full move. The lightness signals that the breakthrough is allowed and not an emergency. The body can stay open and the loving can continue.
+
+## What Joe's Commentary Adds About Why It Lands
+
+In the breakdown of the canonical session, Joe explicitly identifies what allowed the move to land so quickly for the 18-year-old. The key factor: the client did not bypass.
+
+"He's not doing the thing that a lot of people do when they're meditating, which is to bypass. So he actually said, oh, to do the thing that Eckhart Tolle said, and then he actually sits with it, and there's a little bit of a bypass, and then I'm like, oh, what is it to love it? And all of a sudden, whatever that bypass is, is gone, which means that it's not like a deeply set-in pattern in his system. And it tells you how emotionally and energetically sensitive he is." — Joe Hudson, *"This Is How You Love Yourself" Coaching Session Breakdown*
+
+The implication for using this move: the move lands fast when the person's system has not hardened into a meditation-as-bypass pattern. If the person has been doing years of awareness practice without loving, the awareness has become its own avoidance, and the move has to first interrupt the bypass before the loving can land. The first sign that the move is working: the person briefly bypasses, the coach redirects ("what is it to love it?"), and the bypass dissolves rather than reasserting itself.
+
+Joe also notes the kid was "still holding something back" even after the initial round of loving. The commentary surfaces the move's natural follow-up: when the loving has begun but the person is still partially holding, the next move is to name the resistance and permission its release. In this session that took the form of "I notice you're resisting this thing. You don't need to resist it. It's not going to destroy you" followed by the [[permission-the-loud-expression-fuck-the-constraint|fuck-your-neighbors]] permissioning when the holding-back was traced to a small external constraint.
+
+The structural point: the loving-the-part move is rarely a single delivery that completes. It is usually a delivery, an initial felt-shift, a noticing of what is still held back, a permissioning of the held-back element, and then a fuller landing. Each step can be the move's natural extension.
 
 ## Upstream (What Leads Here)
 
@@ -112,3 +124,4 @@ The tone shifts to lighter when the loving lands and the felt-shift arrives. "Fu
 ## Sources
 
 - 2026-02-05_This is How To Love Yourself (Coaching with Joe) — the canonical demonstration with an 18-year-old presenting depression and overwhelm from bodily sensations. Joe walks the full four-step sequence (locate worst part, hang out with it, ask what they wanted from parents, love it that way) in under two minutes. The person reports almost immediate relief: "this is what I've been looking for. So good to love myself unconditionally." The session demonstrates the move's operational accessibility for someone who has been doing mindfulness without loving, the use of the wanted-parental-love as the felt template, and the closing qualifier "not needing it to change."
+- 2026-03-13_"This Is How You Love Yourself" (Coaching Session Breakdown) — Joe's commentary on the canonical session identifies what allowed the move to land so quickly (the kid didn't bypass when redirected from awareness-only to loving), names the typical extension when the person is still partially holding back (name the resistance, permission its release), and locates the [[permission-the-loud-expression-fuck-the-constraint|fuck-your-neighbors]] permissioning as the precise pivot from constrained loving to full embodied self-love. The breakdown also surfaces the structural point that the move is rarely a single delivery; it is usually a delivery, an initial shift, a noticing of what is still held back, and a permissioning of the held-back element.

@@ -5,7 +5,7 @@ title: "Welcoming the Other's Difficult Emotion"
 aliases: ["tell me how angry you are", "I can accept your anger", "I welcome your sadness", "the anti-caretaking welcoming move", "yeah baby give me your anger", "let them have it"]
 tags: ["caretaking", "anger", "welcoming", "boundaries", "emotions", "move"]
 related: ["caring-vs-caretaking", "love-as-deep-welcoming", "empathy", "boundary-with-vs-boundary-against", "feeling-the-unfelt-emotion", "embrace-intensity", "anger", "invite-the-aggression-out", "dont-should-yourself-to-welcome-anger", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong"]
 ---
 
 # Welcoming the Other's Difficult Emotion
@@ -127,6 +127,32 @@ This move requires real capacity. Trying to perform the welcoming when the syste
 
 The capacity to welcome others' anger develops as the byproduct of loving your own anger, not as a skill applied through will. See [[dont-should-yourself-to-welcome-anger]] for the full anti-pattern, and [[get-angry-in-the-car]] for the underlying practice that builds the capacity.
 
+## The Step-In, Not Step-Away Framing
+
+A specific framing of the welcoming move that operates particularly with angry people: the move is to step in, not step away. The instinct is to back away from the anger; the move is to lean toward the angry person.
+
+"In being with that, what I'm gonna do is I'm gonna step in, I'm not gonna step away." -- Joe Hudson, If Others' Anger Makes You Feel You Did Something Wrong
+
+The mechanism: the angry person is feeling alone. Stepping away confirms the aloneness. Stepping in disconfirms it. The shift in physical and emotional orientation is part of what allows the welcoming to land. Without the step-in, the welcoming words can read as performance or distance; with the step-in, the words are delivered from a place that says "I am here with you."
+
+The step-in is not the same as taking the anger on. The receiver is not absorbing the anger or agreeing with whatever the angry person is saying. The receiver is bringing their own presence forward instead of withdrawing it. The angry person experiences the move as "this person is staying with me in this hard place" rather than as "this person is fighting back" or "this person is leaving."
+
+This framing pairs with [[anger-is-an-act-of-vulnerability]] — the angry person's vulnerability is the reason stepping in is the right move. They are reaching; the step-in is what allows the reach to land. The step-in is the operational form of "I see you, I'm not afraid of you, I'm here."
+
+When the capacity for stepping in is not present, the move is not welcoming-with-distance. The move is the basic boundary at [[come-back-in-20-minutes]]. Half-welcoming (stating the welcome from a backed-away position) is what produces the freeze pattern named in [[dont-should-yourself-to-welcome-anger]].
+
+## The "I See That You're Scared" Sub-Caveat
+
+A specific operational caveat from the same source: when the angry person is in fact scared underneath (which is most of the time), do not name the fear out loud.
+
+"Typically you don't wanna say, I see that you're scared. I'm not fucking scared, is like, is gonna be the immediate reaction. But the heart is open and you're seeing it and you're saying, oh, I see that there's something that's really important and I really wanna understand it." -- Joe Hudson, If Others' Anger Makes You Feel You Did Something Wrong
+
+The read is internal; the response speaks to what the read shows up *as*. The angry person experiences themselves as concerned about something important; that is what gets named ("I see this matters to you, I want to understand it"). The angry person does not experience themselves as scared; naming the fear directly violates their self-experience and the system rejects the move.
+
+This is the operational difference between welcoming the anger and analyzing it. Welcoming meets the angry person where they are. Analysis tells them where they really are. The first produces opening; the second produces defense.
+
+The specific worked example of this welcoming-without-naming-the-fear is [[name-the-vision-then-name-the-block]] — the four-part move where the underlying state (fear, vulnerability) is responded to via naming what the angry person seems to be reaching for, rather than via naming the emotion itself.
+
 ## Specific Applications in Couples Coaching
 
 Two specific variations show up when the welcoming move is applied within a coaching session with both partners present:
@@ -143,3 +169,4 @@ Both variations are instances of this broader pattern. The structural move -- st
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- live couples session demonstrating welcoming variations: partner voicing welcome aloud, and agreeing with the depression rather than fighting it
+- 2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong -- the step-in-not-step-away framing of the welcoming move; the "I see that you're scared" caveat (do not name the underlying fear out loud, even though it is the read driving the response); the pairing of the welcome with explicit non-naming of what the welcome is responding to

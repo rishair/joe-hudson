@@ -80,7 +80,7 @@ What does not happen: the anxiety does not always immediately stop. The reframe 
 - [[anxiety-as-constricted-life-force]] — anxiety is life force clamped down. The devotion is one form of what gets clamped. The clamping happens because the life force is moving toward something that matters.
 - [[love-the-worst-feeling-part-like-your-parents-should-have]] — when the worry has located itself in a body part, the loving-the-part move metabolizes the worry by giving the devotion the direct channel it has been missing.
 - [[self-reliance-emotional-signature]] — chronic worry is one signature of the active self-reliance configuration. The devotion underneath is the devotion to whatever the person has been carrying alone.
-- [[care-vs-caretaking]] — devotion is the care. Caretaking is the worry-form of devotion getting confused with action. The principle is upstream of the distinction.
+- [[caring-vs-caretaking]] — devotion is the care. Caretaking is the worry-form of devotion getting confused with action. The principle is upstream of the distinction.
 
 ## When Someone Experiences This
 
@@ -108,7 +108,7 @@ Warm, slightly amused, gentle. Joe delivers the reframe as if revealing somethin
 ## Downstream (Where This Leads)
 
 - Toward [[love-the-worst-feeling-part-like-your-parents-should-have]] when the worry has located in a body part and needs direct loving
-- Toward [[care-vs-caretaking]] when the worry has been converted into excessive action for others
+- Toward [[caring-vs-caretaking]] when the worry has been converted into excessive action for others
 - Toward [[anxiety-as-constricted-life-force]] when the deeper work is on the energy itself
 - Toward the direct expression of the devotion the worry has been the indirect surface of
 - Toward [[self-reliance-emotional-signature]] for the broader configuration when worry is one of its signatures
