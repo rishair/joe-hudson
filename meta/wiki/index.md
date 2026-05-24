@@ -89,6 +89,7 @@
     - [x] E-041 Add client-side SQLite for full-fidelity conversation persistence
     - [x] E-042 Build wiki view: routing, rendering, internal wikilinks
     - [x] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
+      - [ ] Q-001 QA: QA: Coach web-app: chat E2E, persistence, modal, mobile, streaming
     - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
     - [x] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline

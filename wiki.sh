@@ -267,6 +267,64 @@ EOF
   echo "$file"
 }
 
+create_qa_page() {
+  local id="$1" scope="$2" experiment="$3" brief="${4:-}"
+  local file="$WIKI_DIR/qa/${id}.md"
+  cat > "$file" <<EOF
+---
+type: qa
+id: $id
+status: pending
+parent_experiment: $experiment
+depends_on:
+claim_ttl: 30
+claimed_by:
+claimed_at:
+created: $(date +%Y-%m-%d)
+---
+
+# QA: $scope
+
+## Scope
+
+$scope
+
+## Test plan
+
+${brief:-FILL IN: Specific scenarios to walk through. Golden path first, then named edge cases. Be concrete: \"Send message X, observe Y; click button Z, observe W.\" Avoid vague \"test the UI\" prose.}
+
+## Pre-conditions
+
+FILL IN: What state must the system be in? Deployed where (local dev / staging / prod URL)? Any data seeded? Any auth state required?
+
+## Tools
+
+FILL IN: Which browser/script stack. Where the scripts live (e.g., \`/tmp/pw-qa/qa.mjs\`). Any flags or env vars needed. See [[qa-frontend]] playbook for the canonical setup.
+
+## Results per scenario
+
+(pending)
+
+## Issues found
+
+(pending — each entry should include severity \`blocker\` / \`important\` / \`minor\`, repro steps, recommended fix)
+
+## Verdict
+
+(pending — \`passed\` or \`needs-fix\`)
+
+## Spawned fixes
+
+(none yet — list any \`E-XXX\` sub-experiments created to address \`blocker\` or \`important\` issues here)
+
+## Links
+
+- Parent experiment: [[$experiment]]
+- Playbook: [[qa-frontend]]
+EOF
+  echo "$file"
+}
+
 create_finding_page() {
   local id="$1" claim="$2" experiment="$3" domain="$4"
   local file="$WIKI_DIR/findings/${id}.md"
@@ -372,7 +430,7 @@ do_unclaim() {
 find_page() {
   local id="$1"
   local f
-  for dir in goals research experiments findings; do
+  for dir in goals research experiments qa findings; do
     f="$WIKI_DIR/$dir/${id}.md"
     if [[ -f "$f" ]]; then
       echo "$f"
@@ -390,7 +448,7 @@ do_status() {
   # Count pages by type. Skip directories that don't exist so `set -e`
   # plus pipefail don't blow up the whole command on a missing optional
   # type like `findings`.
-  for type in goals research experiments findings; do
+  for type in goals research experiments qa findings; do
     local count=0
     if [[ -d "$WIKI_DIR/$type" ]]; then
       count=$(find "$WIKI_DIR/$type" -name "*.md" 2>/dev/null | wc -l | tr -d ' ')
@@ -552,6 +610,26 @@ case "$cmd" in
         echo "Created experiment $id: $file"
         do_rebuild_index
         ;;
+      qa)
+        scope="${1:?Usage: wiki.sh create qa \"scope description\" --experiment E-XXX [--brief \"test plan\"]}"
+        shift || true
+        experiment=""
+        brief=""
+        while [[ $# -gt 0 ]]; do
+          case "$1" in
+            --experiment) experiment="$2"; shift 2 ;;
+            --brief) brief="$2"; shift 2 ;;
+            *) shift ;;
+          esac
+        done
+        [[ -z "$experiment" ]] && { echo "ERROR: --experiment is required" >&2; exit 1; }
+        mkdir -p "$WIKI_DIR/qa"
+        id=$(next_id "Q" "$WIKI_DIR/qa")
+        file=$(create_qa_page "$id" "$scope" "$experiment" "$brief")
+        release_lock "id_Q"
+        echo "Created QA $id: $file"
+        do_rebuild_index
+        ;;
       finding)
         claim="${1:?Usage: wiki.sh create finding \"claim\" --experiment E-XXX --domain \"description\"}"
         shift || true
@@ -573,7 +651,7 @@ case "$cmd" in
         do_rebuild_index
         ;;
       *)
-        echo "Usage: wiki.sh create {goal|research|experiment|finding} ..."
+        echo "Usage: wiki.sh create {goal|research|experiment|qa|finding} ..."
         exit 1
         ;;
     esac
@@ -693,7 +771,7 @@ case "$cmd" in
     is_resolved() {
       local dep_id="$1"
       local dep_file=""
-      for d in "$WIKI_DIR"/goals "$WIKI_DIR"/research "$WIKI_DIR"/experiments "$WIKI_DIR"/findings; do
+      for d in "$WIKI_DIR"/goals "$WIKI_DIR"/research "$WIKI_DIR"/experiments "$WIKI_DIR"/qa "$WIKI_DIR"/findings; do
         if [[ -f "$d/${dep_id}.md" ]]; then
           dep_file="$d/${dep_id}.md"
           break
@@ -724,7 +802,23 @@ case "$cmd" in
       echo "$count"
     }
 
-    # Priority 3: Pending research with deps resolved (unblocks experiments)
+    # Priority 3: Pending QA with deps resolved (blocks goal closure — highest non-research priority)
+    if [[ -d "$WIKI_DIR/qa" ]]; then
+      for f in "$WIKI_DIR"/qa/*.md; do
+        [[ -f "$f" ]] || continue
+        status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
+        [[ "$status_val" == "pending" || "$status_val" == "claimed" ]] || continue
+        is_available "$f" || continue
+        [[ $(unresolved_dep_count "$f") -eq 0 ]] || continue
+        id=$(grep '^id:' "$f" | sed 's/^id: *//')
+        parent_exp=$(grep '^parent_experiment:' "$f" | sed 's/^parent_experiment: *//')
+        echo "QA $id $parent_exp $f"
+        echo "Pending QA. Claim it, walk the test plan, record results + verdict."
+        exit 0
+      done
+    fi
+
+    # Priority 4: Pending research with deps resolved (unblocks experiments)
     for f in "$WIKI_DIR"/research/*.md; do
       [[ -f "$f" ]] || continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
@@ -738,7 +832,7 @@ case "$cmd" in
       exit 0
     done
 
-    # Priority 4: Pending experiments with deps resolved
+    # Priority 5: Pending experiments with deps resolved
     for f in "$WIKI_DIR"/experiments/*.md; do
       [[ -f "$f" ]] || continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
@@ -752,10 +846,12 @@ case "$cmd" in
       exit 0
     done
 
-    # Priority 5: Blocked items (fewest unresolved deps first) — self-healing fallback
+    # Priority 6: Blocked items (fewest unresolved deps first) — self-healing fallback
     best_blocked_file=""
     best_blocked_count=999
-    for f in "$WIKI_DIR"/research/*.md "$WIKI_DIR"/experiments/*.md; do
+    blocked_glob=("$WIKI_DIR"/research/*.md "$WIKI_DIR"/experiments/*.md)
+    [[ -d "$WIKI_DIR/qa" ]] && blocked_glob+=("$WIKI_DIR"/qa/*.md)
+    for f in "${blocked_glob[@]}"; do
       [[ -f "$f" ]] || continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
       [[ "$status_val" == "pending" || "$status_val" == "claimed" ]] || continue
@@ -792,6 +888,7 @@ Commands:
   create goal "name" [--parent G-XXX]
   create research "question" --goal G-XXX
   create experiment "hypothesis" --goal G-XXX [--parent-exp E-XXX]
+  create qa "scope description" --experiment E-XXX [--brief "test plan"]
   create finding "claim" --experiment E-XXX --domain "description"
   claim <PAGE-ID> [agent-name]
   unclaim <PAGE-ID>

@@ -68,7 +68,7 @@ def status_marker(status: str) -> str:
 def main():
     # Collect all pages
     pages = {}  # id -> {type, status, parent, title, path, ...}
-    for subdir in ["goals", "research", "experiments", "findings"]:
+    for subdir in ["goals", "research", "experiments", "qa", "findings"]:
         dirpath = WIKI_DIR / subdir
         if not dirpath.exists():
             continue
@@ -88,7 +88,7 @@ def main():
 
     # Build backlinks
     backlinks = {}  # target -> [source_ids]
-    for subdir in ["goals", "research", "experiments", "findings"]:
+    for subdir in ["goals", "research", "experiments", "qa", "findings"]:
         dirpath = WIKI_DIR / subdir
         if not dirpath.exists():
             continue
@@ -109,6 +109,7 @@ def main():
     goals = {pid: p for pid, p in pages.items() if p["type"] == "goal"}
     research = {pid: p for pid, p in pages.items() if p["type"] == "research"}
     experiments = {pid: p for pid, p in pages.items() if p["type"] == "experiment"}
+    qa_pages = {pid: p for pid, p in pages.items() if p["type"] == "qa"}
     findings = {pid: p for pid, p in pages.items() if p["type"] == "finding"}
 
     # Build tree lines
@@ -154,13 +155,22 @@ def main():
                 render_experiment(e["id"], indent + 2)
 
     def render_experiment(exp_id, indent):
-        """Render an experiment and its sub-experiments."""
+        """Render an experiment, its QA pages, and its sub-experiments."""
         e = experiments.get(exp_id)
         if not e:
             return
         prefix = "  " * indent
         m = status_marker(e["status"])
         lines.append(f"{prefix}- {m} {exp_id} {e['title']}{also_str(e)}")
+
+        # QA pages targeting this experiment
+        exp_qa = [
+            p for p in qa_pages.values()
+            if p.get("parent_experiment") == exp_id
+        ]
+        for q in sorted(exp_qa, key=lambda x: x["id"]):
+            qm = status_marker(q["status"])
+            lines.append(f"{prefix}  - {qm} {q['id']} QA: {q['title']}")
 
         # Sub-experiments
         sub_exps = [

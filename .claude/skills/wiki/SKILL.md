@@ -169,6 +169,50 @@ Contains:
 
 **Auto-generated index**: `./wiki.sh rebuild-index` writes `meta/wiki/backlog/index.md` from the backlog directory contents — grouped by `parent_goal`, ordered by status (raw → fleshing-out → promoted → dropped). Read that file for a quick survey of what's parked.
 
+### QA Page
+
+Location: `meta/wiki/qa/<qa-id>.md`
+
+```yaml
+---
+type: qa
+id: Q-<NNN>
+status: pending | claimed | in-progress | passed | failed
+parent_experiment: <E-XXX>      # required — QA is always tied to an experiment
+depends_on: <comma-separated list of page IDs, or empty>
+claim_ttl: 30
+claimed_by: <agent-description or empty>
+claimed_at: <ISO timestamp or empty>
+created: YYYY-MM-DD
+---
+```
+
+Contains:
+- **Scope**: Which feature(s) of the parent experiment this QA covers.
+- **Test plan**: Specific scenarios to walk through — golden path first, then named edge cases. Concrete user-facing actions ("send message X, observe Y"), not vague "test the UI" prose.
+- **Pre-conditions**: System state assumed — deployed where (local / staging / prod URL), data seeded, auth state.
+- **Tools**: Which browser/script stack and where the scripts live. See the [[qa-frontend]] playbook for the canonical setup.
+- **Results per scenario**: pass/fail per scenario + screenshots + console errors observed.
+- **Issues found**: Each with severity (`blocker` / `important` / `minor`), repro steps, recommended fix.
+- **Verdict**: `passed` or `needs-fix`.
+- **Spawned fixes**: List of sub-experiments created to address `blocker` or `important` issues.
+
+**When to create a QA page**: any experiment that touches a user-facing surface — frontend UI, public API responses, CLI output a human reads. Backend-only experiments (a script that generates data, a refactor with no observable surface) don't need QA. When in doubt: if a human will look at the output, it needs QA.
+
+**Lifecycle rules**:
+- A frontend-touching experiment **must** list a `Q-XXX` in its Next Steps before being marked `succeeded`. The experiment ships code; the QA blesses it.
+- The parent goal's exit criterion only ticks when **both** the experiment passes (build/deploy succeeded) **and** its QA passes (verdict is `passed`). QA blocks goal closure, not just experiment closure.
+- `failed` QA triages by severity:
+  - `blocker` → spawn a fix sub-experiment; QA stays failed until the fix lands and a re-run passes
+  - `important` → spawn a fix OR park as backlog with explicit note on why; QA stays failed
+  - `minor` → log on parent experiment's "future improvements"; QA can be marked `passed` with caveats noted
+- `wiki.sh next` priority: QA `pending` > research `pending` > experiment `pending`. QA outranks because it blocks goal closure.
+- QA is claimable by `wiki-next` agents the same as research or experiments.
+
+**Triage discipline**: QA agents do NOT auto-spawn fix experiments. The QA agent's job is to find and document issues with recommended fixes; the orchestrator (or a follow-up `wiki-next` cycle) decides whether each `blocker`/`important` issue becomes a real experiment vs. a backlog item vs. a known-future-improvement. This keeps QA cheap to run repeatedly and prevents the wiki from filling with low-value fix experiments.
+
+**Re-runnable**: unlike research and experiments (which are usually one-shot), QA is re-runnable after every deploy. The same Q-XXX page accumulates a per-run result history. When a deploy might have broken something, re-claiming and re-running the existing QA is cheaper than writing a new one.
+
 ---
 
 ## Commands
@@ -223,7 +267,8 @@ After the goal page is complete:
 3. Based on that research (and any relevant playbook guidance), propose 3-5 experiments worth trying
 4. Rank those experiments by expected impact and feasibility
 5. Create pages for each experiment in `pending` status
-6. **Spawn a `wiki-audit` agent** to audit the goal in a fresh context: use the Agent tool with `subagent_type: "wiki-audit"` and `prompt: "Audit goal G-XXX"`. The audit findings will be picked up by the next `wiki-next` cycle.
+6. **For each frontend-touching experiment, create a paired QA page** via `./wiki.sh create qa "scope" --experiment E-XXX`. The QA blocks goal closure even after the experiment ships. Skip this only for backend-only experiments with no human-visible output. See the [[qa-frontend]] playbook for what a good test plan looks like.
+7. **Spawn a `wiki-audit` agent** to audit the goal in a fresh context: use the Agent tool with `subagent_type: "wiki-audit"` and `prompt: "Audit goal G-XXX"`. The audit findings will be picked up by the next `wiki-next` cycle.
 
 For each research and experiment page created, fill in the full context: the question and why it matters (research), or the hypothesis, method, and success criteria (experiment). Use `--brief` to seed the page, then edit to flesh it out.
 
@@ -471,12 +516,13 @@ When deciding what to do next, follow this priority order:
 
 1. **In-progress items you previously claimed** that are unfinished. Finish what you started.
 2. **Items with all dependencies resolved** over items with unresolved dependencies.
-3. **Research items blocking multiple experiments.** Unblock the most work. Check `_backlinks.json` for research pages referenced by many pending experiments.
-4. **Experiments whose parent research is complete.** Research informs experiments; don't experiment blind.
-5. **Sub-experiments spawned from recent results.** Follow the thread while context is fresh.
-6. **Checkpoint** if 10+ tasks have completed since the last one.
-7. **Re-evaluate abandoned branches** if nothing else is pressing.
-8. **Blocked items** if nothing unblocked is available. Before working on a blocked item, ask yourself: am I *actually* blocked, or is there other useful work I haven't noticed? Re-read the goal tree. Check sibling goals. Look for research gaps. Only if there is genuinely nothing else should you work on the blocked item — and then resolve or remove the dependency before doing the work itself. **Do not create spurious work just to fill time.** It is fine to be idle if all meaningful work is blocked or in progress.
+3. **QA pages with deps resolved.** QA blocks goal closure — the parent experiment can be `succeeded` but the goal won't close until QA passes. Highest priority of the unblock-the-next-thing class.
+4. **Research items blocking multiple experiments.** Unblock the most work. Check `_backlinks.json` for research pages referenced by many pending experiments.
+5. **Experiments whose parent research is complete.** Research informs experiments; don't experiment blind.
+6. **Sub-experiments spawned from recent results.** Follow the thread while context is fresh.
+7. **Checkpoint** if 10+ tasks have completed since the last one.
+8. **Re-evaluate abandoned branches** if nothing else is pressing.
+9. **Blocked items** if nothing unblocked is available. Before working on a blocked item, ask yourself: am I *actually* blocked, or is there other useful work I haven't noticed? Re-read the goal tree. Check sibling goals. Look for research gaps. Only if there is genuinely nothing else should you work on the blocked item — and then resolve or remove the dependency before doing the work itself. **Do not create spurious work just to fill time.** It is fine to be idle if all meaningful work is blocked or in progress.
 
 When multiple items are equal priority, prefer the one closest to the root goal. Breadth before depth unless depth is clearly more valuable.
 
