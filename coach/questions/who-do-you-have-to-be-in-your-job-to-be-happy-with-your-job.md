@@ -95,3 +95,4 @@ The redirect-without-reassurance is part of the move. The person is asked to ste
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the question as Joe's response to a high-up executive considering quitting; the implicit promise that the next job will accommodate; the reframe from external decision to inner stance)
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same redirect verbatim; "I don't think that's the question. You know, I think the question is, who do you have to be in your job to be happy with your job?" — confirms this is the line Joe reaches for in this situation)

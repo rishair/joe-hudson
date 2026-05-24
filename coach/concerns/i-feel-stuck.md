@@ -163,6 +163,7 @@ After the work has been done across the layers, the recognition that becomes pla
 - [[i-have-to-X-to-be-free]]: a different shape of the same avoidance — the person believes freedom requires a precondition rather than facing what they have made the precondition stand in for.
 - [[my-inner-critic-wont-stop]]: the ongoing activity that often keeps the stuckness in place; the inner critic produces the stories about the abyss.
 - [[parts-work-made-things-worse]]: a related stuckness where the meta-awareness of parts has become its own paralysis.
+- [[i-want-help-and-i-dont-want-help]]: the specific form of multi-year stuckness driven by the asking-for-help-and-resisting-help configuration; when the stuck-presentation includes a documented history of hired helpers who did not deliver and a parent (often the father) the person resisted, this concern is the structural engine.
 
 ## When the Avoidance is Specifically Love
 

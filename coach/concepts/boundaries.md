@@ -4,7 +4,7 @@ id: boundaries
 title: "Boundaries"
 aliases: ["what a boundary is", "setting boundaries", "drawing boundaries", "boundary", "Joe's definition of boundaries", "the boundary teaching", "how Joe defines boundaries", "good boundaries", "effective boundaries", "loving boundaries"]
 tags: ["boundaries", "love", "empowerment", "vulnerability", "relationships", "fear"]
-related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner", "good-fights-require-great-boundaries", "new-boundary-always-feels-not-okay", "boundary-as-self-teaching", "defended-boundary-invites-the-fight"]
+related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner", "good-fights-require-great-boundaries", "new-boundary-always-feels-not-okay", "boundary-as-self-teaching", "defended-boundary-invites-the-fight", "resentment-takes-the-place-of-boundaries", "forgiveness-three-steps-heart-head-gut", "forgiveness-as-self-care"]
 sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries", "2025-02-10_Boundaries Aren't What You Think They Are", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
 ---
 
@@ -129,7 +129,7 @@ This is why boundaries are one of the most effective tools for change. They dire
 
 When you find yourself rehearsing a conversation, calculating how to get someone to change, hedging your truth so they will not leave, you are in the territory boundaries are for. The fear of stating what you will do, the inability to say it without making it about controlling them, the avoidance of the conversation entirely. All of these point to the boundary that has not yet been drawn.
 
-When you find yourself resentful, see [[resentment-as-unspoken-want]]. Resentment is often a boundary not yet drawn (though not always: the boundary "bazooka" is often heavier than what the situation needs).
+When you find yourself resentful, see [[resentment-as-unspoken-want]]. Resentment is often a boundary not yet drawn (though not always: the boundary "bazooka" is often heavier than what the situation needs). When the resentment is specifically refusing to release because it is "protecting against the situation repeating," see [[resentment-takes-the-place-of-boundaries]]: the held charge is doing the protection job that an actual boundary should do, and once the boundary is in place, the charge can release.
 
 When you find yourself caretaking, the boundary you are not drawing is the one that would stop the caretaking. See [[caring-vs-caretaking]].
 

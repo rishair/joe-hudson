@@ -4,7 +4,7 @@ id: belonging-is-the-wrong-question
 title: "Belonging Is the Wrong Question (There Is No Perfect Belonging; The Real Question Is Alignment With Self)"
 aliases: ["belonging is the wrong question", "the wrong question is whether I belong", "there is no perfect belonging", "no place where somebody can know us completely", "no perfect match exists", "the search for perfect belonging is structurally impossible", "the belonging-question replaced by the alignment-question", "the question replacement move", "the deeper question than belonging", "you don't get to perfect belonging by searching for it", "the perfect-belonging is a fantasy", "perfect belonging doesn't exist anywhere", "even in deep meditation no perfect belonging", "even with a partner of 20 years no perfect belonging", "even in self-knowledge no perfect belonging", "we don't perfectly belong anywhere", "no one can know us completely not even ourselves", "the belonging-search is unfindable", "belonging or lack of belonging evaporates when you ask the alignment question", "the whole thing evaporates when you speak your truth", "the way the belonging-question dissolves", "the only question left is am I in alignment", "the only question that remains is am I in alignment with me", "the question that fades", "what replaces the belonging question", "the native reward for being yourself is the belonging-question fading"]
 tags: ["concept", "belonging", "alignment", "self", "truth", "question reframe", "approval", "essential self"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # Belonging Is the Wrong Question
@@ -73,6 +73,16 @@ The reorganization is not the goal. The alignment is. The reorganization is what
 
 The result is not perfect belonging — the original question still has no answer — but the question stops mattering because the felt-need that drove it has been replaced.
 
+## Evidence Will Always Be Findable
+
+A specific corollary worth naming: the not-belonging signal will always have evidence available, regardless of how favorable the environment becomes. This is a feature of how the felt-pattern works, not a property of any particular situation.
+
+"There's always evidence that we don't belong." -- Joe Hudson, "Do I Belong?" Is the Wrong Question
+
+The point: trying to disprove the not-belonging by collecting counter-evidence fails because the counter-evidence will not stay counted. The pattern is configured to find the not-belonging-evidence; it does not stop finding it when the room contains evidence of belonging. The exit is not better evidence; the exit is the operating-question shift.
+
+The corollary makes the case for the question-replacement more precise. The person is not being asked to ignore real social signals or to suppress accurate reads; they are being told that the specific belonging-or-not search will keep producing the same answer in every environment, and the way out is to be running a different search.
+
 ## When Someone Experiences This
 
 When you notice that the belonging-question keeps recurring no matter how good your life looks, you are ready for this teaching. The recurrence is the diagnostic. If the felt-need persists across very different life-situations, the felt-need is not about the situations.
@@ -119,3 +129,4 @@ The teaching is not delivered as bad news. The unfindability of perfect belongin
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the impossibility argument across meditation, marriage, and self-knowledge; the "only question left is am I acting in alignment" line; the native-reward framing; the "eventually the world starts arranging itself" downstream observation)
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same teaching with the same impossibility argument and the same question-replacement; adds the "there's always evidence that we don't belong" corollary that names why counter-evidence fails to dissolve the felt-pattern; reinforces that the operating-question is "if you're being yourself and that's what you're checking in with, you're listening to yourself and saying, this is how I wanna be")

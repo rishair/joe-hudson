@@ -131,6 +131,12 @@ The variant differs from the standard form in that the block is not about design
 - [[im-afraid-of-stagnating]]: the fear that often drives the next chase to be designed too quickly from the wrong engine.
 - [[ive-lost-my-joy]]: the deeper variant when the post-achievement window has been filled with another chase and the underlying joy has stopped arriving.
 
+## Related Reads and Moves
+
+- [[seen-through-the-disguise-of-success]]: the read on the person who has publicly recognized the achievement doesn't fulfill but is still chasing. This is the live diagnostic for what stage the person is in.
+- [[fall-in-love-with-the-empty-space]]: the move that follows the recognition. Instead of designing the next chase, redirect the filling-energy toward getting interested in the empty space itself.
+- [[kings-become-enlightened-not-holy-men]]: the principle that contextualizes the post-achievement recognition stage in a millennia-old pattern. Useful for clients who feel alone in noticing the pattern.
+
 ## Sources
 
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)

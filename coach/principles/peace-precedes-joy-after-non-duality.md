@@ -2,10 +2,10 @@
 type: principle
 id: peace-precedes-joy-after-non-duality
 title: "Peace Precedes Joy After Non-Duality (Sometimes for a Decade)"
-aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase", "awakening becomes background", "awakening is like hair color eventually"]
+aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase", "awakening becomes background", "awakening is like hair color eventually", "the heart channel equivalent of the peace phase", "Disney phase as heart-channel parallel"]
 tags: ["non-duality", "joy", "peace", "development", "stages", "self-realization"]
-related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away", "awakening-as-natural-development", "joes-bathroom-realization", "dont-identify-as-awakened", "awakening-can-make-emotional-healing-harder", "awakening-makes-you-more-sensitive-not-less-human", "awakening-is-stateless-state", "three-paths-of-awakening"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It"]
+related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away", "awakening-as-natural-development", "joes-bathroom-realization", "dont-identify-as-awakened", "awakening-can-make-emotional-healing-harder", "awakening-makes-you-more-sensitive-not-less-human", "awakening-is-stateless-state", "three-paths-of-awakening", "heart-awakening-disney-phase", "integration"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It", "2026-02-13_The Handbook for Accidental Awakening"]
 ---
 
 # Peace Precedes Joy After Non-Duality (Sometimes for a Decade)
@@ -65,6 +65,25 @@ A common misreading from inside the peace phase: the person worries they no long
 The framing Joe offers: the listlessness is the experience of looking at the parts of the self that no longer want to exist. They are correct — those parts are not coming back. But the next move is finding the parts that are ready to emerge and evolve, and the passion is right there waiting. The longer the person stays in the fear that something is wrong, the harder it is to find the new thing.
 
 "Their listlessness or the lack of passion is when they're looking at the parts of themselves that no longer want to exist. And, and then when they find the parts of themselves that are ready to emerge and evolve, that the passion is always right there. But obviously, the longer they stay in that fear, the the harder it is to find the thing that does move them now." -- Joe Hudson, Sam Altman
+
+## The Heart-Channel Parallel: The Disney Phase
+
+The structure described above (a sustained phase that feels like the new permanent baseline, eventually moving into a different developmental phase) is most clearly observed when the awakening lands through the head channel. The peace is what shows up first; joy arrives later.
+
+The same structural pattern shows up in heart-channel openings as a different-looking phase: 3-7 months of near-saturating love. The world is loved; the person feels loved by the world; ordinary moments are suffused. See [[heart-awakening-disney-phase]] for the full pattern.
+
+The structural parallel is the key. Both phases share several features:
+
+- Sustained duration (months to years).
+- The texture of every moment carries the new capacity.
+- The person inside the phase often reads it as the new permanent baseline.
+- The phase ends -- abruptly for the heart-channel Disney phase, gradually for the head-channel peace phase -- and the next developmental movement begins.
+- The base capacity that the phase established remains; the saturation does not.
+- The mistake during the phase is the same: building public identity, teaching practice, or claiming the recognition as final, on top of the assumption that the saturation is the new permanent state.
+
+The two phases are not the same phase. They are parallel structures the system can produce after openings through different channels. Knowing about both helps the coach identify what is happening when a person presents with either.
+
+The unifying principle: the post-recognition system goes through a sustained phase in which the new capacity is the dominant feature of experience, before that phase resolves into the longer arc where the capacity becomes baseline rather than texture. The phase is not the destination. The phase ending is not failure. The next movement, when it comes, is the continuation of the same arc.
 
 ## The Phase After Joy: Background
 
@@ -128,3 +147,4 @@ Joe delivers this conversationally, almost casually. He does not make a big deal
 - 2024-03-15_Joy (the depressed-monk variant: the failure mode where equanimity arrives without emotional fluidity and produces sustained depression; the diagnostic between developmental phase and failure mode based on whether the emotional channel is open or closed; Joe's lineage note that meditation in Adyashanti's tradition produced significant emotional movement, distinguishing it from suppressive forms)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; same depressed-monk variant, Adyashanti lineage note, and equanimity-vs-joy distinction)
 - 2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It (the dragging-monks-back-into-hell teacher framing — the structural reason post-awakening emotional work feels like descent and why the territory turns out to be heaven; the explicit naming that "there's quite a few people I know who have had this awakening that are depressed" and that this depression often comes from meditation that doubled as emotional management)
+- 2026-02-13_The Handbook for Accidental Awakening (the heart-channel parallel to the peace phase — a sustained 3-7 month Disney-love phase that ends abruptly; the structural parallel between the two phases as the same shape produced by different channels, and the unifying principle that the post-recognition system goes through a sustained phase in which the new capacity is the dominant feature before resolving into the longer arc where the capacity becomes baseline rather than texture)

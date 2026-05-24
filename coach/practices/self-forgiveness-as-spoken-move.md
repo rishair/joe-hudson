@@ -4,7 +4,7 @@ id: self-forgiveness-as-spoken-move
 title: "Self-Forgiveness as a Spoken Move ('I Forgive Myself for...')"
 aliases: ["self-forgiveness practice", "forgive yourself", "I forgive myself for", "literally give yourself forgiveness", "the self-forgiveness spoken move", "close your eyes and forgive yourself", "give yourself forgiveness for X", "the verbal self-forgiveness practice", "saying I forgive myself", "the eyes-closed forgiveness practice"]
 tags: ["practice", "self-forgiveness", "shame", "projection", "self-love", "spoken practice", "somatic"]
-related: ["loving-all-parts", "love-the-aspect-through-someone-else", "five-triggers-projection-experiment", "upright-apology", "forgiveness-as-stop-making-them-monster", "shame-as-disconnection", "triggers-reveal-your-own-beliefs", "shame-drives-behavior"]
+related: ["loving-all-parts", "love-the-aspect-through-someone-else", "five-triggers-projection-experiment", "upright-apology", "forgiveness-as-stop-making-them-monster", "shame-as-disconnection", "triggers-reveal-your-own-beliefs", "shame-drives-behavior", "forgiveness-as-self-care", "forgiveness-three-steps-heart-head-gut", "track-forgiveness-somatically"]
 sources: ["2024-04-29_Triggered By Others？ Watch This"]
 ---
 
@@ -81,7 +81,7 @@ Not a substitute for repair. If the trait has caused harm to others, the upright
 
 Not a one-time event. Patterns surface repeatedly. Self-forgiveness can be repeated as often as needed. Joe positions it as a practice you can return to, not a graduation.
 
-Not the same as the practice of forgiving others. See [[forgiveness-as-stop-making-them-monster]] for that. The mechanism is related but the move is different. Self-forgiveness is given to yourself by yourself. Forgiveness of others involves stopping the making-them-a-monster in your own perception.
+Not the same as the practice of forgiving others. See [[forgiveness-as-stop-making-them-monster]] for that, or [[forgiveness-as-self-care]] for the sibling framing. The mechanism is related but the move is different. Self-forgiveness is given to yourself by yourself. Forgiveness of others involves stopping the making-them-a-monster in your own perception and doing the [[forgiveness-three-steps-heart-head-gut]] work that produces an open heart toward them.
 
 ## The Position in the Trigger-Projection Sequence
 

@@ -4,8 +4,8 @@ id: joy-of-accomplishment-is-the-absence-of-wants
 title: "The Joy of Accomplishment Is the Brief Absence of the Next Want"
 aliases: ["joy of accomplishment is the absence of wants", "the post-accomplishment moment", "the brief revel after achievement", "the gap before the next want spins up", "achievement joy is the gap", "the joy isn't the achievement", "the joy is the temporary no-want state", "the moment you can just revel in being alive", "the achieving misreads the source of its own joy", "the joy is in the absence of the next chase", "what the achievement actually delivered", "what success actually feels like", "the few days of relief after a goal lands", "the post-goal peace"]
 tags: ["accomplishment", "achievement", "wanting", "joy", "concept", "freedom", "desire"]
-related: ["the-want", "wanting-itself-not-what-you-want", "wants-deepen-as-you-follow-them", "no-finish-line", "nothing-is-required-for-freedom", "art-of-accomplishment", "same-scarcity-story-regardless-of-wealth", "owning-the-want-dissolves-it"]
-sources: ["2023-12-07_What We're Afraid to Lose", "2025-05-09_Why Your Goals Are Making You Miserable"]
+related: ["the-want", "wanting-itself-not-what-you-want", "wants-deepen-as-you-follow-them", "no-finish-line", "nothing-is-required-for-freedom", "art-of-accomplishment", "same-scarcity-story-regardless-of-wealth", "owning-the-want-dissolves-it", "scottie-scheffler-on-winning", "seen-through-the-disguise-of-success", "kings-become-enlightened-not-holy-men", "fall-in-love-with-the-empty-space"]
+sources: ["2023-12-07_What We're Afraid to Lose", "2025-05-09_Why Your Goals Are Making You Miserable", "2026-02-24_I've Coached 100s of Top Performers. This is the Moment I Look For"]
 ---
 
 # The Joy of Accomplishment Is the Brief Absence of the Next Want
@@ -27,6 +27,14 @@ The misreading produces a particular kind of suffering. The person experiences t
 If the misreading is corrected, the entire architecture changes. If the joy is the absence-of-want state, then the joy is potentially available at any time. The accomplishment is not required to access it. What is required is the dropping of the want, which can happen for reasons other than the want being fulfilled.
 
 This is the structural argument for inner work as a route to the joy people are chasing through outer accomplishment. The outer accomplishment is a slow, expensive, intermittent way to produce a few days of absence-of-want. The inner work addresses the want directly and produces longer, more reliable access to the same state.
+
+## The Two-Minute Form at the Top
+
+The window's brevity is most visible at the top of a profession, where the chase has been maximally long and the achievement maximally significant. Scottie Scheffler, world number one in golf, names the duration directly on a press-conference camera: "It feels like you work your whole life to celebrate winning a tournament for like a few minutes. It only lasts a few minutes, that kind of euphoric feeling." -- via Joe's reaction-video teaching on the principle.
+
+The "two minutes" is not hyperbole. It is the reported lived duration. The architecture of the chase is such that the achievement-joy has barely landed before the press is asking about the next tournament, the system is preparing for the next chase, and the body is already orienting toward the next future-located reward. The joy-window is collapsed by the reorganization that has been waiting in the wings the entire time. See [[scottie-scheffler-on-winning]] for the example article and the use of this quote as the destabilizing public-figure demonstration.
+
+The two-minute form also shows what most clients try to argue against by appealing to scale. "Maybe my goal is too small to produce real joy; if I had a bigger goal, the joy would be longer." The Scheffler example forecloses this argument. The goal does not get bigger than world number one in a professional sport. The joy still only lasts two minutes. The brevity is a feature of the joy's source, not of the size of the achievement.
 
 ## The Mechanism of the Spin-Up
 
@@ -114,3 +122,4 @@ Observational, slightly amused. The concept is delivered as a noticing, not as a
 
 - 2023-12-07_What We're Afraid to Lose
 - 2025-05-09_Why Your Goals Are Making You Miserable (the building-joy as the structurally different alternative to achievement-joy; the natural-impulse-to-play frame; the Lego answer as the demonstration of a drive that produces continuous engagement rather than chase-and-gap intermittence; cross-link to [[intrinsic-drive-to-build]])
+- 2026-02-24_I've Coached 100s of Top Performers. This is the Moment I Look For (the Scottie Scheffler press-conference quote as the public-figure demonstration of the two-minute window at the top of a profession; the use of the world-number-one's own report as the destabilizing example that forecloses the "maybe a bigger goal would produce more joy" cope; Joe's pairing of the principle with Eckhart Tolle's structurally identical framing: "the reason that winning feels so good is because for 1 or 2 minutes or 1 or 2 days, you're not thinking about what you have to do next"; the post-recognition redirect toward entering the empty space the chase has been trying to fill rather than designing the next chase)

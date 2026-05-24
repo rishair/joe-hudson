@@ -4,7 +4,7 @@ id: mirror-the-clients-own-framework-back
 title: "Mirror the Client's Own Framework Back at Their Self-Rejection"
 aliases: ["mirror the client's own framework back", "mirror the clients own framework back", "mirror their own theology back", "use the client's theology against the self-rejection", "use the client's framework to expose the contradiction", "the framework-mirror move", "the client-theology mirror", "the everybody-but-you move", "everybody but you", "your God loves everyone except you", "the everyone-but-you mirror", "apply the client's own framework to themselves", "use the client's belief system to expose the gap", "the client's framework excludes themselves", "the in-your-own-framework contradiction", "the contradiction-with-your-own-belief move", "the your-own-framework-says-otherwise move", "the contradiction-in-your-own-terms move", "use the client's spirituality to expose self-rejection", "the framework-applied-to-self move", "use what they believe about everyone else and apply it to them", "the their-own-framework move", "the client's-own-words-mirror", "the not-yourself contradiction"]
 tags: ["self-rejection", "theology", "spirituality", "contradiction", "self-love", "move", "framework", "mirror"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)", "2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe"]
 ---
 
 # Mirror the Client's Own Framework Back at Their Self-Rejection
@@ -67,6 +67,18 @@ The form is provocative and slightly humorous. It exposes the absurdity of the c
 
 The form names that the client is unconsciously taking on the framework's role themselves -- attempting to be the source of unconditional love for another person, which their framework says is not their job. The contradiction is between the framework's stated theology and the client's lived behavior.
 
+**The use-the-framework-as-the-corrective-receiving-source variant.** When the client's pattern is structured around resistance to receiving (often from a parent who could not give what was needed), and the client has a spiritual framework that contains a model of receiving from a benevolent source, invoke the framework as the corrective. The framework can deliver what the parent could not because the framework is trusted, and the framework is not the parent.
+
+In the source session with a man who had resisted help from his father his whole life and was now resisting help from the coach, the marketers he had hired, and the universe more broadly, Joe used a Quranic image the client already trusted: "Isn't in the Quran they talk about the bird that goes and finds the food, it gets provisions? You know what I'm talking about?" The client confirmed. "How does the bird stop resisting?" The client answered: "It goes, searches for food, and God provides. It has to go out and search for food." Joe: "That's right."
+
+The exchange routes the question "how do I stop resisting?" through a framework the client already trusts that contains the answer ("the bird flies out and God provides"). The answer is not Joe's answer (which the client would have resisted as the parent's answer); it is the client's own scripture answering the client. The framework delivers what the parent could not — a model of going out and being received that the resistance cannot block because the resistance was structured against the parent, not against God or the scripture.
+
+The variant is particularly useful when the client is in a configuration where direct teaching from the coach is being received-and-resisted (see [[wants-help-resists-help-in-real-time]] and [[refuse-the-answer-because-it-will-be-resisted]]). The coach cannot give the answer; the framework can. The coach's job is to remember enough of the client's framework to know what image to point at, and to point at it cleanly so the client can do the recognition themselves.
+
+The follow-up in the source session converts the framework-image into present-tense receiving: "See if God will play that game with you. Can God see you? Can God love you right now?" The questions move from the framework-as-content to the framework-as-live-experience. The receiving the parent could not deliver becomes available in the room, mediated by the framework the client trusts.
+
+The variant differs from the everybody-but-you variant in that it does not surface a contradiction inside the framework; it uses the framework's positive content directly. Both variants rely on the framework being something the client actively organizes their life around. Both variants are inert if the framework is a belief the client is inspecting rather than living inside.
+
 ## What This Move Is Not
 
 It is not an attack on the framework. The framework is honored. The framework is what makes the move work. A coach who dismisses the framework cannot do this move.
@@ -95,7 +107,13 @@ The move misfires when the contradiction the coach is naming is not actually pre
 
 "In the -- back to God for a second -- that idea is that God loves you as you are doesn't mean that God puts up with it." -- Joe Hudson, I've Done The Work. Why Am I Still Single
 
+"How do you stop resisting the help that the universe wants? Isn't in the Quran they talk about the bird that goes and finds the food, it gets provisions? You know what I'm talking about? ... How does the bird stop resisting?" -- Joe Hudson, She's Been Stuck for 10 Years
+
+"Can God see you? ... Can God love you right now? Right now, can God love you?" -- Joe Hudson, She's Been Stuck for 10 Years
+
 The "I'm confused" is a recurring frame Joe uses to deliver the mirror. The mock-confusion presumes the contradiction is the client's contradiction to resolve, not an error the coach is correcting. The framing shifts the responsibility for noticing the gap to the client.
+
+The Quran-bird invocation is the corrective-receiving-source variant in its bare form. Joe knows enough of the client's framework to point at the specific image that addresses the configuration the client is in (asking-and-resisting). The question "how does the bird stop resisting?" lets the client answer with their own framework's content. The follow-up questions ("Can God see you? Can God love you right now?") move the framework's content from concept to live in-room experience.
 
 ## Tone
 
@@ -110,6 +128,8 @@ The directness lands as care, not as attack, because the framework is honored th
 - When [[whatever-you-think-you-need-to-be-lovable-is-self-rejection]] has been named and the next move is to surface the specific way the self-rejection contradicts what the client believes about others
 - When the client has invoked their framework as authority and the framework's actual content has not been applied to them
 - When the client is trying to think their way out of the self-rejection and a structural move is needed that the thinking cannot bypass
+- When the client is in the [[wants-help-resists-help-in-real-time]] configuration and the coach's direct teaching cannot land — the framework can deliver what the coach cannot because the framework is not the projected-parent
+- After [[refuse-the-answer-because-it-will-be-resisted]] has opened the space — the framework variant is often the move that fills the space the refusal opened
 
 ## Downstream (Where Joe Goes From Here)
 
@@ -123,3 +143,4 @@ The directness lands as care, not as attack, because the framework is honored th
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
 - 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title
+- 2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe — the use-the-framework-as-the-corrective-receiving-source variant; client with a Quranic worldview has been resisting help from his father his whole life, currently resisting help from marketers and the coach; Joe invokes the Quranic image of the bird that flies out and is provisioned by God; "How does the bird stop resisting?" lets the client answer with their own framework; the follow-up move ("Can God see you? Can God love you right now?") converts the framework-image into present-tense receiving; the framework delivers what the parent could not because the framework is not the projected-parent

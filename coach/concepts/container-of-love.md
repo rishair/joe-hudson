@@ -4,8 +4,8 @@ id: container-of-love
 title: "Container of Love"
 aliases: ["container", "held in love", "environment of love", "shame dissolves in a loving witness", "loved in the action you're ashamed of", "the AA principle", "12-step container", "bringing shame into the light"]
 tags: ["healing", "safety", "group work", "relationships", "spiritual", "shame"]
-related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher", "helplessness-is-the-gateway", "reclaiming-abandonment", "shame-as-disconnection", "shame-stagnates-emotion", "welcome-the-shame-without-extracting"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2022-10-26_The Anatomy Of Shame", "2022-12-26_Joe And His Daughter Discuss Fatherhood"]
+related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher", "helplessness-is-the-gateway", "reclaiming-abandonment", "shame-as-disconnection", "shame-stagnates-emotion", "welcome-the-shame-without-extracting", "transformation-requires-a-trustworthy-container", "engaging-the-work-as-a-scaffolded-ladder"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2022-10-26_The Anatomy Of Shame", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2026-03-03_Head, Heart, and Nervous System： The Formula for Change"]
 ---
 
 # Container of Love
@@ -87,6 +87,18 @@ When someone enters deep trauma material without a loving container, the trauma 
 
 Joe specifically warns against unskilled practitioners who know exercises that can move trauma but do not know how to hold the space. Moving trauma requires someone experienced in holding it. See [[integration]] for the broader context of what can go wrong during transformation.
 
+## The Container as Holding Through Destabilization
+
+The container's function expands when transformation is happening across all three layers (intellectual, emotional, nervous system) at once. Fast three-layer transformation destabilizes the system — the previous equilibrium dissolves before the new one stabilizes — and the destabilization itself requires holding.
+
+"Oftentimes when you're transforming on all three levels, that transformation can happen quite quickly. And then that can feel a little destabilizing. So you want to make sure that you're being held in a really good container full of people who really understand what they're doing." -- Joe Hudson, Head, Heart, and Nervous System: The Formula for Change
+
+The container in this sense is not just about allowing previously avoided emotions to be felt. It is about giving the person a stable relational ground while their own internal ground is in flux. The container becomes the temporary external scaffolding that holds the person in place while their previous self loosens and the new one forms.
+
+This is one of the structural reasons Joe scaffolds engagement with the work (see [[engaging-the-work-as-a-scaffolded-ladder]] and [[transformation-requires-a-trustworthy-container]]). The trust required for the container to actually hold the person through destabilization is built over time. By the time the person enters the deepest work, the container has been tested at lower stakes and is real for them.
+
+The "people who really understand what they're doing" qualifier matters here. A well-meaning container that cannot stay regulated when the person dysregulates does not hold the destabilization; it amplifies it. The skill of holding is what makes the container actually function during the most volatile phases of transformation.
+
 ## Downstream (Where This Leads)
 
 - Enables [[feeling-the-unfelt-emotion]]
@@ -105,3 +117,4 @@ Joe specifically warns against unskilled practitioners who know exercises that c
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (the "creating an environment where a whole bunch of people can accept all the love that I want to give" framing of why Joe builds his cohort program)
+- 2026-03-03_Head, Heart, and Nervous System: The Formula for Change (the destabilization-during-three-layer-transformation framing for why the container is required for fast change)

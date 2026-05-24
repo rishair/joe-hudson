@@ -4,7 +4,7 @@ id: the-woman-fired-for-being-herself
 title: "The Woman Fired For Being Herself (To Be Fired For Being Myself Is the Best Possible Way To Be Fired)"
 aliases: ["the woman fired for being herself", "the executive who got fired for being herself", "the high-up-not-CEO woman who got fired", "the fired-and-said-it-was-great example", "to be fired for being myself is the best possible way to be fired", "Joe's client who got fired and said it was great", "the 20-percent case where being yourself gets you fired", "the 20-percent worked example", "the courage-with-defense-then-without-defense example", "the started-defensive-then-dropped-the-defense example", "the example of the experiment going badly and the person being delighted", "the I-was-fired-being-myself-is-the-best example", "the just-be-yourself-and-the-firing-still-worked example", "the canonical worked example for who-do-you-have-to-be-in-your-job", "the canonical worked example for the world reorganizing", "Joe's example of the fired-and-fine outcome", "the fired-executive-who-was-stoked story", "the worked example for being-yourself-despite-consequences in a job"]
 tags: ["example", "work", "be-yourself", "consequences", "alignment", "being fired", "world reorganizes", "authenticity", "stay-or-leave"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # The Woman Fired For Being Herself
@@ -112,3 +112,4 @@ The tone is direct and grounded. Joe does not romanticize the firing. He notes t
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the full story of the woman who got fired for being herself, including the two phases of the being-herself move, the "to be fired for being myself is the best possible way to be fired" line, and Joe's surprise at both the firing and the response)
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same story with the same beats; confirms the canonical line "to be fired for being myself is the best possible way to be fired" is the one Joe reaches for when re-presenting the story; the 80/20 split and the two-phase observation are both preserved in the bite-sized version)

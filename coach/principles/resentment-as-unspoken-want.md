@@ -4,7 +4,7 @@ id: resentment-as-unspoken-want
 title: "Resentment Means You Are Not Following Your Wants"
 aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic", "resentment is built when there's anger that's unexpressed", "resentment as unexpressed anger", "the three sources of resentment", "the three corresponding moves for resentment", "boundaries asking admiration as the three moves for resentment", "resentment is repressed anger pointing at a boundary", "anger underneath resentment is pointing at a boundary", "the anger is pointing at how I want to interact with you", "the boundary defines the wanted interaction", "you hold the resentment because you can't draw the boundary", "if you could draw the boundary you wouldn't have to hold the resentment"]
 tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment", "admiration", "envy"]
-related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love", "resentment-saturates-other-fights", "move-the-anger-then-draw-the-boundary", "joe-and-tara-the-fridge-resentment"]
+related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love", "resentment-saturates-other-fights", "move-the-anger-then-draw-the-boundary", "joe-and-tara-the-fridge-resentment", "resentment-takes-the-place-of-boundaries"]
 sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful", "2025-03-10_What Causes Resentment in Relationships？ (+ What to Do About It)", "2025-03-19_The Path To Healthy Fighting"]
 ---
 
@@ -35,6 +35,10 @@ The resentment-in-the-other surfaces when their unowned wants conflict with your
 ## How This Sits Alongside the Caretaking Diagnostic
 
 [[resentment-as-caretaking-diagnostic]] is a specific case of this broader principle. Caretaking produces resentment because caretaking is one of the most common ways people refuse to follow their own wants and refuse to set their own boundaries. The caretaker is paying with truth-suppression and self-abandonment. The unspoken want underneath the caretaking is the source of the resentment.
+
+## How This Sits Alongside the Forgiveness Diagnostic
+
+[[resentment-takes-the-place-of-boundaries]] is another specific case: when the held resentment is doing the specific job of preventing the harmful situation from repeating. The body holds the charge because no actual boundary has been drawn that would do the protection job structurally. In that specific case the resentment is not pointing at an unfollowed daily want; it is pointing at an un-drawn protective boundary. The move is the same — draw the boundary and the charge releases.
 
 But the broader principle covers cases beyond caretaking:
 

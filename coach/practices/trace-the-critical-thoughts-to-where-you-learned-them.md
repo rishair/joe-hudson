@@ -4,8 +4,8 @@ id: trace-the-critical-thoughts-to-where-you-learned-them
 title: "Trace Each Critical Thought to Where You Learned It (The Introject-Mapping Practice)"
 aliases: ["trace the critical thoughts to where you learned them", "trace each critical thought to its origin", "the introject-mapping practice", "write down where you learned each criticism", "the source-tracing practice for the inner critic", "where did you learn that you weren't pretty enough", "write next to each critical thought who gave it to you", "the where-did-you-learn-it practice", "the inner-critic source-attribution practice", "map each critical thought to its original speaker", "the introject-tracing exercise", "the trace-the-voice-to-its-origin practice", "writing down the introjects", "the voice-as-borrowed-tape mapping", "next to each one write where you learned it"]
 tags: ["practice", "voice in head", "inner critic", "introject", "source-tracing", "self-talk", "voice", "parent-criticism", "childhood-imprint"]
-related: ["narrate-every-thought-out-loud", "say-ouch-to-the-inner-critic", "voice-in-the-head", "menu-of-responses-to-the-self-critical-voice", "parent-criticism-as-self-talk", "what-was-done-to-you-youre-now-doing-to-yourself", "experimenting-with-the-voice", "my-inner-critic-wont-stop", "excavating-the-inner-critic-in-group"]
-sources: ["2025-09-02_How To End 60,000 Negative Thoughts a Day"]
+related: ["narrate-every-thought-out-loud", "say-ouch-to-the-inner-critic", "voice-in-the-head", "menu-of-responses-to-the-self-critical-voice", "parent-criticism-as-self-talk", "what-was-done-to-you-youre-now-doing-to-yourself", "experimenting-with-the-voice", "my-inner-critic-wont-stop", "excavating-the-inner-critic-in-group", "joes-daughter-locates-the-voice"]
+sources: ["2025-09-02_How To End 60,000 Negative Thoughts a Day", "2026-02-17_1 Word That Changes Your Inner Critic (Full Guide)"]
 ---
 
 # Trace Each Critical Thought to Where You Learned It
@@ -66,6 +66,34 @@ The sequence:
 
 The two practices are operationally linked. The narration produces the data; the tracing locates the data's origin. Together they constitute the full introject-mapping work for a single session.
 
+## The 30-Minute Compressed Variant (Pen and Paper, No Recording)
+
+A simpler form of the practice that does not require recording or transcription. Joe describes this version in the YouTube teaching format:
+
+"So if you really want to like figure out where yours came from, just like one day sit down and write everything it says to you for like 30 minutes and then say, 'Whoa, who said that to me as a kid?' And that'll give you a pretty good flavor of where it came from, which means you're listening to the voice in your head thinking that it's you talking to you, but it's not you talking to you. It's somebody else talking to you. It's like an old tape of somebody talking to you." -- Joe Hudson, 1 Word That Changes Your Inner Critic
+
+The compressed form has three steps:
+
+1. **Sit down for 30 minutes.** A contained window. Not the whole day, not 5 minutes — long enough to get past the surface noise and into the actual recurring content.
+2. **Write everything the voice says.** Pen and paper, plain capture. Do not edit.
+3. **Then ask of each item: "Whoa, who said that to me as a kid?"** The retroactive identification, after the writing is done.
+
+The differences from the full narration-then-tracing sequence:
+
+- **No recording required.** The writing is the capture, the writing is the surface, and the recognition happens on the same page that produced the data.
+- **30 minutes vs. 5 minutes plus transcription time.** The compressed version is a single sitting; the full version is a session that produces material to work with later.
+- **The tracing happens in the same window as the capture.** In the full version, the tracing is its own session after the recording has been processed. In the compressed version, the tracing is the second half of the same 30 minutes.
+
+Both versions produce the same recognition: the voice is "somebody else talking to you... an old tape of somebody talking to you." The full version produces more granular and more accurate tracing because the recording catches what the writing would smooth. The compressed version is the more accessible on-ramp.
+
+The 30-minute variant is also the form that Joe's 9-year-old daughter did spontaneously, without any technique at all — see [[joes-daughter-locates-the-voice]]. The recognition that the voice came from grandma and the teacher arrived from listening, not from writing. The 30-minute version is the adult-with-introjects-already-fused version of the same recognition; the daughter's instant version is the early-stage version where the fusion has not yet happened.
+
+The variant choice depends on the coachee:
+
+- For a coachee who has not yet done any voice work: the 30-minute compressed version is the right starting point. It is the lower-friction on-ramp that produces the first taste of the recognition.
+- For a coachee who has done some voice work and is ready for granular tracing: the full narrate-then-trace sequence captures more subtle introjects and more specific tonal signatures than the writing-based version can.
+- For a coachee who is doing the work as ongoing practice: alternating between the two — periodic 30-minute writing sessions for the broad sweep, occasional full narration sessions for the deeper layers — produces both kinds of data.
+
 ## What to Do With the Map
 
 Once the map exists, several next moves:
@@ -123,3 +151,4 @@ A common failure mode: the person uses the practice to assemble evidence against
 ## Sources
 
 - 2025-09-02_How To End 60,000 Negative Thoughts a Day (the canonical articulation of the practice as the second-stage extension of the [[narrate-every-thought-out-loud]] practice: speak every thought aloud, record it, write it up, then next to each critical thought write where you learned it; the explicit framing as the introject-mapping work — "you're just going to write down who gave you this critical voice in the head"; the focus on critical thoughts as the priority for tracing; the example questions: "where did you learn that you weren't pretty enough? where did you learn that you needed to work harder? where did you learn that you messed up at the last conversation?")
+- 2026-02-17_1 Word That Changes Your Inner Critic (Full Guide) — the 30-minute compressed variant of the practice (sit down, write everything the voice says for 30 minutes, then ask of each item "whoa, who said that to me as a kid?"); the framing of what the practice produces — "it's not you talking to you, it's somebody else talking to you, it's like an old tape of somebody talking to you"; the practice paired in the same teaching with Joe's daughter's spontaneous identification of her voice as her grandmother's and her teacher's (see [[joes-daughter-locates-the-voice]]) — the daughter's instant version demonstrates that the recognition the practice produces is immediately available when the listener actually looks; the variant positioned as the lower-friction on-ramp to the introject-mapping work, complementary to the full narrate-then-trace sequence

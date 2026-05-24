@@ -4,7 +4,7 @@ id: am-i-in-alignment-with-me-right-now
 title: "Am I in alignment with me right now? (And if not, what do I have to do to get into alignment?)"
 aliases: ["am I in alignment with me right now", "am I in alignment", "am I acting in alignment right now", "what do I have to do to get into alignment", "the alignment question", "the self-alignment question", "the in-alignment-with-self question", "the operating question that replaces the belonging question", "the only question that's left when belonging fades", "the alignment-check question", "the alignment-check-in", "am I in alignment with me question", "the question that fills the space left when the belonging-search drops", "the inner-orientation question", "the question that replaces approval-seeking", "the in-this-moment alignment check", "self-alignment as the operating question", "the alignment-and-correction question", "the self-alignment two-part question", "am I aligned and if not what would alignment look like"]
 tags: ["question", "alignment", "self", "truth", "belonging", "approval", "operating question", "core question"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # Am I in alignment with me right now?
@@ -109,3 +109,4 @@ The family is intentional. Each question installs an inward operating-question t
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the question as the replacement for the belonging-question after the belonging-search dissolves; the two-part structure "am I in alignment and if not what do I have to do to get into alignment")
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same two-part question; adds the listening-version framing: "if you're being yourself and that's what you're checking in with, you're listening to yourself and saying, this is how I wanna be" — the alignment-check is operationally a listening-to-self move, not just an intellectual evaluation)

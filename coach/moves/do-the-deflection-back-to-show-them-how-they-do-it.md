@@ -4,7 +4,7 @@ id: do-the-deflection-back-to-show-them-how-they-do-it
 title: "Do the Deflection Back to Show Them How They Do It (I'm Doing That Because I'm Showing You How You Do It)"
 aliases: ["do the deflection back to show them how they do it", "the I'm-doing-that-to-show-you move", "mirror the deflection back at them", "demonstrate their deflection so they can see it", "do their move back at them as the live mirror", "the in-session demonstration of the deflection move", "the I'm-showing-you-how-you-do-it move", "the live-mirror-of-the-deflection move", "the do-the-thing-back move", "perform their deflection in front of them", "the not-because-I-agree-because-I'm-showing-you move", "the behavioral mirror move", "show them their move by doing it at them", "the live-mirror move for deflection", "the I-just-did-what-you-do move", "mm-hmm them back to show them the mm-hmm"]
 tags: ["move", "live coaching", "deflection", "compliments", "demonstration", "in-session mirror", "receiving", "modeling-by-doing"]
-sources: ["2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)"]
+sources: ["2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson)", "2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe"]
 ---
 
 # Do the Deflection Back to Show Them How They Do It
@@ -81,6 +81,20 @@ After the client said "I don't trust enough" and Joe offered a compliment that t
 
 The exchange shows the move's full arc: the imitation, the client's flash of confusion ("Oh, I don't mean to do that"), the clarification ("I'm showing you how you do it"), and the bridge to the body-level observation that follows. The move took about 15 seconds. The recognition that resulted ("that's so true") set up the rest of the session.
 
+## The Mimicking-Resistance Variant
+
+The move generalizes from compliment-deflection to the broader case of any pattern firing in the room that the client cannot see from inside. A specific variant: the client is in the [[wants-help-resists-help-in-real-time]] configuration, asking for help and resisting what the coach is offering. The coach mimics the resistance back at the client and names the imitation as the demonstration.
+
+From the source session, after the client kept saying "I don't get the question" and "I'm trying to grasp" in response to clear offers from the coach:
+
+"This thing that you're dealing with in this moment is the thing to be addressed. It's not, how do I move my life forward? It's like, what's creating this? I'm mimicking you right now, so you know what's creating that." -- Joe Hudson, She's Been Stuck for 10 Years
+
+The clarifying sentence is structurally identical to the compliment-deflection version: "I'm mimicking you right now" (the move), "so you know what's creating that" (the explanation that this is demonstration, not agreement or accusation). The move converts the client's experience-from-inside (sincere effort to understand) into experience-from-outside (watching the same operation being performed at them) so the operation becomes visible.
+
+The variant differs from the compliment-deflection variant in that the imitation is not of a specific verbal tic (the "mm-hmm") but of the broader configuration — the trying-to-grasp, the asking-question-form, the not-quite-landing. The coach performs the configuration at the client by responding to the client's questions with the same kind of confusion the client has been generating, or by re-asking the client's own questions back at them in the same trying-to-grasp register.
+
+The variant is most useful when the client is articulate and self-presents as cooperative. The articulation and the cooperativeness mean direct naming of the resistance ("you're resisting me") will be denied — the client genuinely experiences themselves as cooperating. The behavioral mirror sidesteps the denial by making the configuration audible without naming it. The client's recognition arrives in their body before it arrives in their cognition.
+
 ## What This Move Is Not
 
 - **It is not mockery.** The imitation has to be clean, observational, without ridicule. Mockery would shame the client into more deflection.
@@ -112,6 +126,8 @@ The body-level observation that often follows ("your lips tighten and you go mm-
 - When the coach has rapport sufficient for the imitation to be metabolized as data rather than as attack
 - When [[letting-it-in-vs-deflecting-the-welcome]] has surfaced the deflection but the client cannot feel it from inside
 - When [[i-feel-misvalued-as-an-overachiever]] is the concern and the producing-to-be-seen / refusing-to-be-seen contradiction needs to become visible
+- When the client is in the [[wants-help-resists-help-in-real-time]] configuration and the asking-and-resisting pattern is firing in the room
+- When [[the-trying-is-the-pattern-firing-now]] has been observed in the trying-to-grasp variant and the client is denying the resistance
 
 ## Downstream (Where This Leads)
 
@@ -124,3 +140,4 @@ The body-level observation that often follows ("your lips tighten and you go mm-
 ## Sources
 
 - 2025-07-24_You're Deflecting What You Want Most (Coaching With Joe Hudson) — the canonical use; Joe does the client's "mm-hmm" back at the client, the client says "oh I don't mean to do that," Joe clarifies "I'm doing that because I'm showing you how you do it," and then bridges directly to the body-level observation about the lips tightening; the precise clarifying sentence that distinguishes the move from agreement or rejection
+- 2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe — the mimicking-resistance variant; Joe uses the same structural form ("I'm mimicking you right now, so you know what's creating that") with a client who has been asking-and-resisting in the room for the first several minutes; the variant generalizes the move from compliment-deflection to any pattern firing in the room that the client cannot see from inside; the variant is particularly useful when the client is articulate and self-presents as cooperative, because direct naming of the resistance would be denied while the behavioral mirror sidesteps the denial

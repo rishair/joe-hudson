@@ -4,7 +4,7 @@ id: three-strategies-of-not-belonging
 title: "Three Strategies of Not-Belonging (Provoke, Hide, Go Superior)"
 aliases: ["three strategies of not-belonging", "the three not-belonging strategies", "the three outsider strategies", "provoke hide superior", "annoy hide better-than", "the three forms of producing not-belonging", "ways people prove they don't belong", "the three forms of the outsider identity", "outsider as provocateur", "outsider as hider", "outsider as superior", "the will-you-love-me-if-I-do-this strategy", "the nobody-sees-me strategy", "the I-know-better-than-them strategy", "the green-mohawk strategy", "the invisible strategy", "the I'm-better strategy", "the three behavioral signatures of not-belonging", "the three operational forms of the outsider identity", "annoy to prove not-belonging", "disappear to prove not-belonging", "judge to prove not-belonging", "the provoker hider superior triad", "the three-way categorization of not-belonging strategy"]
 tags: ["pattern", "belonging", "outsider", "rejection", "essential self", "identity", "strategy", "behavioral signature", "approval", "superiority"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # Three Strategies of Not-Belonging
@@ -114,3 +114,4 @@ The tone is also slightly playful — the three-strategy taxonomy has the satisf
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the three-strategy taxonomy in Joe's own words; the green-mohawk illustration of strategy 1; the "disappear / see, nobody sees me" illustration of strategy 2; the "I'm a little bit better" with critical-parents developmental note for strategy 3; the diagnostic that strategy 3 doubles down under attack)
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same three-strategy taxonomy verbatim; reinforces that Joe consistently presents these in the same order — provoke, hide, superior — and uses the same self-illustration for strategy 1 and the same critical-parents developmental marker for strategy 3)

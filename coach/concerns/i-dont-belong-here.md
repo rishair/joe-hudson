@@ -4,7 +4,7 @@ id: i-dont-belong-here
 title: "I don't belong here / I'm an outsider / Nobody gets me"
 aliases: ["I don't belong", "I don't belong here", "I'm on the outside", "I'm an outsider", "I'm always the outsider", "I never fit in", "I don't fit in", "I don't belong anywhere", "nobody gets me", "nobody really sees me", "I feel like I don't belong", "I've never felt like I belonged", "I don't belong in my family", "I don't belong at work", "I don't belong with my partner", "I don't belong with my own kids", "I don't belong even with the people I love", "I feel like an outsider in my own life", "I'm always on the outside looking in", "the not-belonging concern", "the outsider-identity concern", "the I'm-on-the-outside concern", "I'm different and not in a good way", "everyone else seems to fit and I don't", "I've defined myself as an outsider", "I've always been the weird one", "I've always been on the outside", "I have one place I belong but not anywhere else", "I belong nowhere", "I belong with no one", "I have a new family and I still don't belong", "I belong less and less the more I have", "I feel lonely even when I'm surrounded", "I'm always finding evidence I don't belong", "I'm proving I don't belong", "I'm the odd one out", "I don't fit in here", "I don't fit in anywhere", "I'm scared to leave because I won't belong anywhere else", "I'm scared to stay because I don't belong here", "the not-fitting-in concern", "the I-don't-belong-anywhere concern"]
 tags: ["concern", "belonging", "outsider", "identity", "loneliness", "rejection", "essential self", "approval"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # I don't belong here
@@ -85,4 +85,5 @@ The typical flow follows the meta-frame in [[belonging-is-the-wrong-question]]:
 
 ## Sources
 
-- 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question
+- 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the original full-length teaching with all three strategies, the impossibility argument, the question-replacement, the woman-fired example)
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation of the same teaching; confirms Joe re-uses the same framing and language verbatim across appearances; notes the additional framing "there's always evidence that we don't belong" — meaning the not-belonging algorithm will always find what it looks for, and the only exit is the operating-question replacement)

@@ -4,7 +4,7 @@ id: belonging-is-trained-not-true
 title: "Belonging Is Trained, Not True (The Felt-Sense of Not-Belonging Is a Pattern From the Past Applied to the Present)"
 aliases: ["belonging is trained not true", "not-belonging is training", "the feeling of not belonging is a training", "you've just been trained that you're not going to be accepted here", "the not-belonging feeling has nothing to do with where they are today", "the not-belonging feeling is historic", "you've defined yourself as an outsider", "people defined as outsiders find evidence in every situation", "not-belonging as identity", "the not-belonging identity", "the outsider identity as protection", "the I-don't-belong identity as protection from rejection", "if I think I don't belong then I don't have to feel your rejection", "outsider as advance-rejection-avoidance", "the function of the outsider identity", "you've been trained to not be accepted here", "the rejection that we received when we were young", "the essential-rejection trauma underneath not-belonging", "what they were essentially was not good enough", "the original rejection of essence", "we're avoiding the original rejection by proving we don't belong", "the avoidance-of-essential-rejection mechanism", "not-belonging avoids the essential-rejection feeling", "constantly proving we don't belong", "you go around finding the not-belonging you trained into", "no way in today's world that you can't find a sense of belonging", "the not-belonging is in the reader not the situation"]
 tags: ["concept", "belonging", "outsider", "identity", "rejection", "essential self", "training", "trauma mapping", "childhood imprint"]
-sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question"]
 ---
 
 # Belonging Is Trained, Not True
@@ -102,3 +102,4 @@ Direct and slightly bemused. Joe says this with the matter-of-factness of someon
 ## Sources
 
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question
+- 2026-02-20_Bite-Sized Teaching Series- "Do I Belong?" Is the Wrong Question (the bite-sized re-presentation; the "they will feel that feeling of not belonging no matter where they are" diagnostic; the "weird when you think about it" framing — Joe notes the structural strangeness of finding not-belonging in environments that contain no evidence of it; reinforces the "it's just a training" naming as the first move)

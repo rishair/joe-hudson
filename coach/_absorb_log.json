@@ -9781,22 +9781,175 @@
     },
     {
       "folder": "2026-02-13_The Handbook for Accidental Awakening",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T01:57:38Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "something-weird-is-happening-to-me",
+        "my-partner-is-going-through-something",
+        "fog-walker-vs-belt-over-the-head",
+        "awakening-once-tasted-becomes-inevitable",
+        "contact-with-greatness-shows-whats-possible",
+        "heart-awakening-disney-phase",
+        "normalize-the-experience-its-happened-to-others",
+        "be-with-them-without-trying-to-fix-or-diagnose",
+        "ground-the-body-during-awakening",
+        "resisting-vs-allowing-the-experience"
+      ],
+      "articles_updated": [
+        "dont-identify-as-awakened",
+        "integration",
+        "three-paths-of-awakening",
+        "zen-sickness",
+        "peace-precedes-joy-after-non-duality"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:16:19Z"
     },
     {
       "folder": "2026-02-17_1 Word That Changes Your Inner Critic (Full Guide)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T02:03:21Z",
+      "articles_created": [
+        "wizard-of-oz-voice",
+        "joes-daughter-locates-the-voice",
+        "speaking-the-voice-out-loud-engages-the-whole-brain",
+        "comedy-as-the-relationship-with-the-voice"
+      ],
+      "articles_updated": [
+        "voice-in-the-head",
+        "say-ouch-to-the-inner-critic",
+        "experimenting-with-the-voice",
+        "trace-the-critical-thoughts-to-where-you-learned-them"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:14:56Z"
+    },
+    {
+      "folder": "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:05:21Z",
+      "articles_created": [],
+      "articles_updated": [
+        "i-dont-belong-here",
+        "belonging-is-the-wrong-question",
+        "belonging-is-trained-not-true",
+        "three-strategies-of-not-belonging",
+        "am-i-in-alignment-with-me-right-now",
+        "be-yourself-despite-consequences-undoes-stuckness",
+        "the-woman-fired-for-being-herself",
+        "world-reorganizes-around-self-possession",
+        "who-do-you-have-to-be-in-your-job-to-be-happy-with-your-job"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:09:32Z"
+    },
+    {
+      "folder": "2026-02-24_I've Coached 100s of Top Performers. This is the Moment I Look For",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:10:04Z",
+      "articles_created": [
+        "scottie-scheffler-on-winning",
+        "seen-through-the-disguise-of-success",
+        "kings-become-enlightened-not-holy-men",
+        "fall-in-love-with-the-empty-space"
+      ],
+      "articles_updated": [
+        "joy-of-accomplishment-is-the-absence-of-wants",
+        "the-aloneness-is-the-quickest-route-to-freedom",
+        "whats-next-after-i-reached-my-big-goal"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:19:50Z"
+    },
+    {
+      "folder": "2026-02-27_The Boundary that Can Change Your Hardest Relationship",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:15:50Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:16:55Z"
+    },
+    {
+      "folder": "2026-02-27_\u201cI Learned Forgiveness by Refusing to Forgive\u201d with Tara Howley and Alexa Kistle",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:17:10Z",
+      "articles_created": [
+        "forgiveness-as-self-care",
+        "forgiveness-three-steps-heart-head-gut",
+        "resentment-takes-the-place-of-boundaries",
+        "dont-coerce-forgiveness",
+        "not-forgiving-doesnt-actually-protect-anyone",
+        "forgiveness-invites-different-reality",
+        "whats-right-vs-what-feels-clean",
+        "track-forgiveness-somatically",
+        "i-cant-forgive-them",
+        "forgiveness-changes-identity"
+      ],
+      "articles_updated": [
+        "forgiveness-as-stop-making-them-monster",
+        "boundaries",
+        "resentment-as-unspoken-want",
+        "self-forgiveness-as-spoken-move"
+      ],
+      "type": "guest-interview",
+      "absorbed_at": "2026-05-24T02:32:48Z",
+      "note": "Joe Hudson does not speak in this episode. It is an Alexa Anderson/Kissler + Tara Howley AOA episode where the AOA methodology of forgiveness is being articulated by Tara Howley (an AOA coach). Per the precedent set by 2024-08-16_The Desire To Be Seen with Tara Howley and 2025-02-28_So You're Not Dead Yet, full extraction of AOA teaching content is appropriate even when Joe Hudson does not personally speak \u2014 Tara is articulating canonical AOA methodology that is novel and complementary to Joe's existing teaching on forgiveness (his forgiveness-as-stop-making-them-monster framing). The new framework is the three-step heart-head-gut process (emotions, curiosity, boundaries) with forgiveness as inevitable byproduct. The new framing is forgiveness as self-care rather than as moral obligation. Speaker labels in the transcript are diarization errors: 'Joe Hudson' is actually Alexa Kissler ('I'm Alexa Kissler, and I'm here with Tara Howley' on line 9), 'Guest 1' is Tara Howley. Quotes attributed in articles distinguish Tara (the source of the teaching) from Alexa (who frequently reflects back the teaching in clean restatements that Tara affirms \u2014 those restatements are sometimes the cleanest articulations and are attributed to Alexa)."
+    },
+    {
+      "folder": "2026-03-03_Head, Heart, and Nervous System\uff1a The Formula for Change",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:17:31Z",
+      "articles_created": [
+        "engaging-the-work-as-a-scaffolded-ladder",
+        "transformation-requires-a-trustworthy-container",
+        "reading-about-vs-playing-the-game"
+      ],
+      "articles_updated": [
+        "the-work-as-three-levels-of-change",
+        "container-of-love"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T02:23:42Z"
+    },
+    {
+      "folder": "2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts \uff5c Coaching with Joe",
+      "status": "complete",
+      "claimed_at": "2026-05-24T02:20:35Z",
+      "articles_created": [
+        "i-want-help-and-i-dont-want-help",
+        "wants-help-resists-help-in-real-time",
+        "refuse-the-answer-because-it-will-be-resisted"
+      ],
+      "articles_updated": [
+        "mirror-the-clients-own-framework-back",
+        "trauma-is-present-experienced-as-past",
+        "the-trying-is-the-pattern-firing-now",
+        "do-the-deflection-back-to-show-them-how-they-do-it",
+        "i-have-to-do-it-all-myself",
+        "i-feel-stuck"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T02:33:14Z"
+    },
+    {
+      "folder": "2026-03-10_Watch her Lifelong Anxiety Shift in Real Time \uff5c Coaching with Joe",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T02:24:18Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2026-02-20_Bite-Sized Teaching Series- \"Do I Belong?\" Is the Wrong Question",
+      "folder": "2026-03-13_\u201cThis Is How You Love Yourself\" (Coaching Session Breakdown)",
       "status": "in-progress",
-      "claimed_at": "2026-05-24T02:05:21Z",
+      "claimed_at": "2026-05-24T02:34:03Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2026-03-17_I've Coached 1000s of People. They All Avoid the Same Thing",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T02:34:21Z",
       "articles_created": [],
       "articles_updated": []
     }

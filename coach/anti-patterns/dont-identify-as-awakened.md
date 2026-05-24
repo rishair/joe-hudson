@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-identify-as-awakened
 title: "Don't Identify as Awakened (Or as Part of the Awakened-People Club)"
-aliases: ["don't identify as awakened", "the awakened identity trap", "I'm one of the awakened ones trap", "putting yourself above others through awakening", "the awakened-people club", "the awakening identity", "spiritual identification as superiority", "I'm an awakened person identity", "the people-who-had-the-experience club", "subtle spiritual superiority", "the awakening identity rut", "the I'm-the-awakened-guy trap", "constantly accessing the peace like a drug", "gurus who started cults from accessed non-duality"]
+aliases: ["don't identify as awakened", "the awakened identity trap", "I'm one of the awakened ones trap", "putting yourself above others through awakening", "the awakened-people club", "the awakening identity", "spiritual identification as superiority", "I'm an awakened person identity", "the people-who-had-the-experience club", "subtle spiritual superiority", "the awakening identity rut", "the I'm-the-awakened-guy trap", "constantly accessing the peace like a drug", "gurus who started cults from accessed non-duality", "the put-the-old-suit-back-on instruction", "Adyashanti getting back in the old suit", "the spacious-awareness-as-happy-place trap", "the dissociate-into-awareness-and-call-it-arriving trap", "the get-back-in-the-old-suit teaching"]
 tags: ["awakening", "identity", "spiritual bypass", "anti-pattern", "superiority", "non-duality"]
-related: ["dont-fight-identity", "spiritual-narcissism", "epiphany-becomes-rut", "every-identity-has-limits", "self-realization", "state-seeking", "expanding-sense-of-self", "joes-bathroom-realization", "awakening-as-natural-development", "awakening-is-received-not-achieved", "three-paths-of-awakening", "awakening-can-make-emotional-healing-harder", "awakening-is-stateless-state"]
-sources: ["2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It"]
+related: ["dont-fight-identity", "spiritual-narcissism", "epiphany-becomes-rut", "every-identity-has-limits", "self-realization", "state-seeking", "expanding-sense-of-self", "joes-bathroom-realization", "awakening-as-natural-development", "awakening-is-received-not-achieved", "three-paths-of-awakening", "awakening-can-make-emotional-healing-harder", "awakening-is-stateless-state", "heart-awakening-disney-phase"]
+sources: ["2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It", "2026-02-13_The Handbook for Accidental Awakening"]
 ---
 
 # Don't Identify as Awakened
@@ -92,6 +92,26 @@ The compound is the dangerous part. The peace itself is fine. Access to peace is
 
 The combination is also what produces the [[awakening-can-make-emotional-healing-harder]] failure mode. The person uses the peace to skip the emotional work, the emotional work stays undone, and the unaddressed material accumulates while the access-to-peace gets stronger.
 
+## The Adyashanti "Get Back in the Old Suit" Teaching
+
+A specific operational reframe Joe credits to Adyashanti for the same trap. There is a period after the head awakening when the person can dissociate from the world by identifying with the spacious awareness. The awareness becomes a happy place that the person can retreat to whenever they want. Identifying with the awareness, treating it as the new home, is the trap.
+
+The corrective: get back in the old suit and go interact with life. You need an identity to operate in the world. The recognition that you are not the identity does not exempt you from putting the identity back on to do the things life asks. The recognition is what changes how you wear the identity, not what releases you from wearing it.
+
+"Adyashanti talks about this. He said, there's this time where you can identify with the oneness, the awareness, and you can kind of dissociate from the world at large and always find your happy place. He -- spacious awareness, I think, is what he called it, but I'll call it your happy place. And you could always do that. You can identify that as that. But at some point, the way he describes it, he was like, at some point you just -- you're gonna get like, yeah, I understand that I'm not this person, I'm not this identity, but I'm gonna just get into that old suit and I'm going to go live. I'm going to go interact with life. Because you need an identity to interact with life, right? So you just see through it. You're just like, this isn't real, but I'm going to like be in this identity and I'm going to go, you know, fine, I'll play the role of the teacher. Fine, I'll play the role of the CEO. Fine, I'll play the role of the store clerk. I'm happy to do it because this allows me to have the full experience of living." -- Joe Hudson, The Handbook for Accidental Awakening (paraphrasing Adyashanti)
+
+The instruction has two parts. First, see through the identity -- the recognition is real, the identity is not the actual you. Second, put it back on -- not as the actual you, but as the costume needed to operate in the world. The combination is what allows the person to have the full experience of living rather than withdrawing into the awareness as a happy place.
+
+The duration of the identification-as-awakened phase varies wildly. Some people pass through it in minutes. Others spend ten years in it.
+
+"Sometimes for some of those people that lasts 10 years of identifying as the awakened person, and for some people it lasts 2 minutes." -- Joe Hudson, The Handbook for Accidental Awakening
+
+What seems to predict the duration: how much trauma has been resolved. People with more trauma still active tend to use the awareness-as-escape longer because there is more to escape from. People with more trauma worked through tend to recognize sooner that the recognition is not the end and not a destination to live inside.
+
+"I seem to notice that the people who have more trauma relieved recognize sooner that this isn't an end state, that awakening is not some conclusion, it is just a part of the journey. And the people who have been solely focused on awakening or hit the tripwire somehow and it happens because of depression or whatever it is, or because of the way that they've been looking at physics for a decade, but their trauma isn't resolved, those people seem to be more in the place of, 'I'm just gonna go into that spacious awareness to avoid my trauma.' There's more to run from." -- Joe Hudson, The Handbook for Accidental Awakening
+
+The teaching is structural: integration in the other layers (emotional, somatic, relational) is what prevents the recognition from becoming a hiding place. Without that integration, the awareness becomes the escape. With it, the awareness becomes the ground from which the person re-enters life.
+
 ## The Cult-Leader Form
 
 The most extreme version of the identity trap: gurus who have genuine access to non-duality but no integration in the other layers, building cults around the access. The non-duality is real. The dysfunction in the emotional, interpersonal, and nervous-system layers is also real. The cult is what happens when the access is used as a credential without the integration that would prevent its weaponization.
@@ -111,3 +131,4 @@ The structural lesson: awakening through one channel does not automatically inte
 
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)
 - 2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It (the peace-as-drug variant of the identity trap — using accessible peace like a substance and identifying as the user of the substance; the cult-leader form — gurus with non-dual access and no integration in the other channels, producing communities organized around the transmission while acting out unaddressed interpersonal material; the structural connection between the awakened-identity trap and dysfunction at other layers of integration)
+- 2026-02-13_The Handbook for Accidental Awakening (the Adyashanti get-back-in-the-old-suit teaching — the spacious awareness becomes a happy place to dissociate into, and the corrective is to put the identity back on as costume in order to interact with life; the wide-ranging duration of the identification phase, anywhere from minutes to ten years; the trauma-relief predictor — people with more trauma worked through recognize sooner that the recognition is not a destination, and people with more trauma still active use the awareness as escape longer)

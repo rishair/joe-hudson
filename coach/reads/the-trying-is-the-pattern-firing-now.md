@@ -4,7 +4,7 @@ id: the-trying-is-the-pattern-firing-now
 title: "The Trying Is the Pattern Firing Now (When 'I'm Trying' Is the Live Demonstration)"
 aliases: ["the trying is the pattern firing now", "I'm trying is the pattern firing now", "the trying is the dissociation", "the trying is the resistance", "the trying is happening right now", "the I'm-trying disclosure as the live evidence", "trying as the live form of the pattern", "the trying is what's preventing it", "the effort to stop is the doing of the thing", "when someone says I'm trying they're showing you the pattern", "the trying is the disconnection in real time", "the work of stopping is the doing of it", "what makes you try is the pattern", "trying-to-stop is the same gear as doing-it", "trying-to-ask-the-right-question is the pattern", "the trying-to-craft-the-right-question read", "trying-to-perform-the-coaching-session is the pattern", "the trying-to-get-it-right read in coaching", "the trying to ask the right question is the trying", "performing the session is the trying", "trying-to-make-it-easy is the making-it-hard", "trying-to-have-fun is the not-having-fun", "the trying-to-create is the not-creating", "pushing-yourself-to-an-answer-in-session", "the push-to-the-answer in-session pattern", "the pushing-into-not-pushing recursion", "trying-to-stop-trying is the same as trying", "you can't push yourself into not pushing yourself"]
 tags: ["read", "live coaching", "trying", "dissociation", "pattern recognition", "present-moment", "resistance"]
-sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-10-02_Why Can't I Get My Business Off The Ground"]
+sources: ["2025-04-18_Watch him learn to feel his emotions in real-time ｜ Coaching with Joe", "2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Husdon)", "2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe)", "2025-10-02_Why Can't I Get My Business Off The Ground", "2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe"]
 ---
 
 # The Trying Is the Pattern Firing Now
@@ -126,6 +126,31 @@ From a coaching session with a fitness coach trying to push himself toward an an
 
 The exchange shows the read deployed for the recursion variant. The naming ("you can't push yourself into not pushing yourself") interrupts the loop. The directive ("just right now, let's not do it") provides the brief non-pushing window. The binary choice question lets the client locate their preference for the new mode. The pushing-engine is bypassed by the entire sequence.
 
+## The Trying-to-Grasp / Trying-to-Understand Variant (Resistance in Question-Form)
+
+A specific variant that appears when the underlying pattern is resistance rather than dissociation: the trying takes the form of "I'm trying to understand" or "I'm trying to grasp" when the coach has just said something clear. The phrase is delivered as an expression of effort and sincerity. It is also the resistance configuration firing in question-form. The trying-to-understand is the configuration's mechanism for staying in the asking-question position rather than letting what was offered actually land.
+
+Signals:
+
+- The coach has just said something clear and the client says "I'm trying to grasp" or "I'm trying to understand" rather than responding to what was said
+- The client says "I don't get the question" when the question was answerable
+- The trying-to-understand is paired with the client's body still looking like they are receiving (eye contact, leaning in, attentive face)
+- The trying-to-understand produces another iteration of the same exchange — the coach re-explains, the client tries to grasp again, no movement happens
+- The client may explicitly deny they are resisting ("I don't feel like I'm resisting you, I'm trying to grasp") while continuing to demonstrate the configuration
+- Often paired with the [[wants-help-resists-help-in-real-time]] read
+
+The structural fact: the trying-to-grasp is doing the work of resistance while looking like the opposite of resistance. The configuration cannot be straightforwardly named as resistance because the client experiences themselves as cooperatively trying. The denial-while-doing-it is part of the configuration's protection. The configuration has been developed to look like sincere effort precisely because direct refusal would have been confronted by the original parent; sincere-effort-that-does-not-receive bypasses the confrontation.
+
+The corrective move pairs the naming with a structural re-frame. From the source session, after the client said "I don't feel like I'm resisting you though, I'm trying to grasp":
+
+"You were trying to get your dad's love the whole time too. That's how it works. That's the pattern. The pattern is I'm resisting, though I'm trying to get your love. I'm trying to get it, but I'm resisting it. That's the friction I was talking about." -- Joe Hudson, She's Been Stuck for 10 Years
+
+The naming locates the trying-to-grasp in the configuration's history. The trying-to-grasp is what the client did with the father — sincerely tried to receive what the father was offering while structurally preventing it from landing. The current trying-to-grasp is the same operation directed at the coach.
+
+The follow-up after the naming is usually [[refuse-the-answer-because-it-will-be-resisted]] — the structural refusal that does not feed the configuration. The configuration's trying-to-grasp is sustained by the coach continuing to offer things to grasp. The refusal stops the supply.
+
+The variant differs from the trying-to-ask-the-right-question variant in that the trying here is not in service of crafting a polished question; it is in service of staying in the asking-position. The trying-to-grasp client is not trying to please the coach; the trying-to-grasp client is trying to remain in the position where they are sincerely asking and not actually receiving. The variant is most often paired with the [[wants-help-resists-help-in-real-time]] read and shows up in the early stages of work with the asking-and-resisting configuration.
+
 ## The Trying-to-Make-It-Easy Variant
 
 A specific form of this read that appears in creative-block work: the person says they want it to be easy and is producing hardness in the same conversation. The trying-to-make-it-easy is itself the making-it-hard. The artist in [[i-cant-enter-my-creative-work]] reports she wants creating to be "fun and happy and beautiful" and is in the middle of producing a hard, complicated coaching session. The trying-to-have-fun is the not-having-fun.
@@ -169,6 +194,7 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 - [[how-do-i-love-myself-and-express-my-emotions]] — the variant where the person identifies the pattern and is trying to change it
 - [[i-cant-enter-my-creative-work]] — the trying-to-make-it-easy variant; the artist who says she wants fun and is making the conversation hard
 - [[i-cant-get-my-business-off-the-ground]] — the pushing-into-not-pushing variant; the entrepreneur trying to push himself toward an answer about how to stop pushing his clients away
+- [[i-want-help-and-i-dont-want-help]] — the trying-to-grasp variant; the client who has been stuck for years and is sincerely trying to grasp what the coach is offering while structurally preventing it from landing
 
 ## Sources
 
@@ -176,3 +202,4 @@ The naming is short. Joe does not lecture. "You're isolated right now, bro." Six
 - 2025-06-10_Why You Can't Stop Trying So Hard (Coaching Session With Joe Hudson) — the trying-to-ask-the-right-question variant; the client opens with a polished question ("how do I let in the fear?") that is itself the artifact of the trying; Joe names it ("there's still a trying. What's the trying?") and the client answers "trying to ask the right question"; the corrective move pairs with [[come-to-me-without-contradiction]] and [[what-makes-you-push-yourself]]; the session also demonstrates that this read frequently co-occurs with [[body-contradicts-the-words]] — the smiling face delivering the question is part of the same pattern firing
 - 2025-09-04_15 Years of Creative Block Unravelled In 13 Minutes (Coaching With Joe) — the trying-to-make-it-easy variant; the artist who reports she wants creating to be "fun and happy and beautiful" while producing hardness in the coaching session; the variant where the trying hides under softer language ("I want it to be") rather than the literal "I'm trying"; the pairing with [[said-want-without-felt-want]] and [[name-the-pattern-firing-now-as-the-art-being-made]] as the corrective move
 - 2025-10-02_Why Can't I Get My Business Off The Ground — the pushing-into-not-pushing recursion variant; the fitness-coach entrepreneur recognized he was pushing himself in the session and immediately tried to push himself out of pushing; Joe named the recursion explicitly ("you can't push yourself into not pushing yourself, that's not how it works") and bypassed the engine with the binary-choice question [[who-do-you-want-to-be-with-more]]; this is also the source for the parallel between in-session pushing and client-facing pushing, captured in [[proving-instead-of-connecting]]
+- 2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe — the trying-to-grasp / trying-to-understand variant; the client who has been stuck for 10 years says "I'm trying to grasp" and "I don't get the question" repeatedly throughout the early exchange, while explicitly denying he is resisting ("I don't feel like I'm resisting you though, I'm trying to grasp"); Joe names the trying-to-grasp as the same operation the client performed with his father ("you were trying to get your dad's love the whole time too... the pattern is I'm resisting, though I'm trying to get your love"); the variant pairs with the [[wants-help-resists-help-in-real-time]] read and is most often the precursor to the [[refuse-the-answer-because-it-will-be-resisted]] move

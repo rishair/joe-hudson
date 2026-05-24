@@ -5,7 +5,7 @@ title: "Trauma Is the Present Experienced as the Past"
 aliases: ["trauma is present as past", "trauma is experiencing the present as the past", "trauma is when you experience the present as the past", "the definition of trauma", "Joe's definition of trauma", "trauma defined as time-confusion", "trauma is mistaking the present for the past", "the present-as-past definition", "the time-collapse definition of trauma", "the time-misregistration definition of trauma", "treating your husband as your father", "treating your wife as your mother", "the car backfires as bomb example", "the Afghanistan veteran example", "the IED example", "trauma is not the event it's the re-experiencing", "trauma is the pattern that lives in the present", "the soldier-in-Ohio example", "you're not hearing your partner you're hearing your brother", "trauma is being somewhere else while here", "trauma keeps the past alive in the present", "the working definition of trauma in the AoA frame", "trauma as time-bleed", "the pattern you keep repeating is the trauma", "treating partner like parent definition", "the I-got-to-stop-yelling-at-my-X pattern is the trauma"]
 tags: ["principle", "trauma", "definition", "present moment", "patterns", "veterans", "PTSD", "projection", "time"]
 related: ["trauma-mapping", "capital-t-vs-small-t-trauma", "managing-vs-healing-trauma", "trauma-heals-in-relationship", "downregulate-to-interrupt-the-trauma-loop", "coming-to-your-senses", "nervous-system-codes-threats-as-real", "projections", "complementary-trauma-surfaces", "presence-is-pleasure-not-trying", "pleasure-tells-system-its-safe"]
-sources: ["2025-09-16_Pleasure Is What Makes Healing Possible"]
+sources: ["2025-09-16_Pleasure Is What Makes Healing Possible", "2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe"]
 ---
 
 # Trauma Is the Present Experienced as the Past
@@ -68,6 +68,22 @@ The interrupt move is most reliable when the body has access to pleasure. Pleasu
 
 This is also why pleasure-capacity work is upstream of much trauma work. Without the capacity to feel the present-tense pleasure of being alive, the system has no door back from the past. Building the capacity is building the available route home. See [[notice-sensations-as-pleasure-experiment]].
 
+## The Configuration Form: One Original Figure Projected Onto Multiple Present Figures
+
+A specific shape worth naming: the past-as-present operation does not always run as a single pattern firing in a single relationship. It often runs as one original figure being projected simultaneously onto multiple present figures, with the same response-pattern firing toward all of them. The client who resisted their father is not just relating-as-past with one current authority figure; they are projecting the father onto every person currently offering help, and resisting all of them with the same configuration.
+
+In the source session, a man who had been stuck for 10 years had been hiring marketers to grow his business and had been resisting their help. The configuration was firing toward the marketers, toward the coach in the session, and toward God (whom the client had told he was "done" with). Joe named the structure plainly:
+
+"So your marketers are your dad. I'm your dad right now. And you're resisting our help. You see it? You constantly resisted your dad and that relationship didn't develop. Now you've switched dad to life and you're constantly resisting that and it's not developing." -- Joe Hudson, She's Been Stuck for 10 Years
+
+The phrase "switched dad to life" is the compression of the principle at the configuration scale. The original parent-relationship was the template. Every subsequent helper-relationship has been the parent re-projected. The 10 years of stuckness are the cost of running the projection unconsciously across multiple helpers, multiple domains, multiple years.
+
+The diagnostic move that makes the configuration visible: locate the original figure ("do you have parents who constantly were trying to help you get to where they wanted you to go and you constantly resisted them?"), then name the projection explicitly ("so your marketers are your dad. I'm your dad right now"). The naming converts the unconscious projection into conscious material. The client can now see that what feels like a relationship with marketers, a relationship with the coach, a relationship with God, is in each case the parent-relationship being re-enacted.
+
+The configuration form is structurally related to [[trauma-mapping]] but specifically emphasizes the in-the-moment recognition of the same projection running across multiple current figures. The implication for the coaching work: a single in-room demonstration of the projection (with the coach as the projected-parent figure) can produce recognition that generalizes across all the other figures. The client does not need to do separate work on each helper-relationship; the projection is one structure, and naming it once is naming it everywhere.
+
+For the connected practice: when the projection is named in the room and the client sees it, the immediate work is to interrupt the projection on the present figure who can be seen. The coach in the room is not the father. The current marketers are not the father. The framework the client trusts (often a spiritual framework — see [[mirror-the-clients-own-framework-back]]) can deliver what the parent could not, because the framework is also not the father. Each interruption of the projection on a present figure loosens the configuration's hold across all the figures it has been projected onto.
+
 ## How This Sits Alongside Trauma Mapping
 
 The principle is the moment-by-moment operational description of what [[trauma-mapping]] generates structurally. Trauma mapping is the body's tendency to attract, perceive, and provoke the original wound across an entire life. Trauma-as-present-experienced-as-past is what is happening inside each individual firing.
@@ -107,3 +123,4 @@ Direct, definitional. The principle is delivered as a working definition, not as
 ## Sources
 
 - 2025-09-16_Pleasure Is What Makes Healing Possible (the explicit working definition "trauma is when you are experiencing the present as the past"; the Afghanistan-veteran-and-car-backfire example as the clear case; the everyday extension — treating husbands and wives like mothers and fathers, hearing partner's words as the brother who made fun of you; the pairing with downregulation as the in-the-moment intervention; the framing of recurring relational patterns — "I got to stop yelling at my X" — as the verbal trace of trauma operating in the present)
+- 2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts ｜ Coaching with Joe (the configuration form of the principle: one original figure projected onto multiple present figures; "your marketers are your dad, I'm your dad right now... you switched dad to life"; the 10-year stuckness as the cost of running the projection unconsciously across multiple helpers; the live in-room naming of the projection as the move that generalizes across all the projected figures at once)
