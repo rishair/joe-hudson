@@ -104,7 +104,7 @@
   - Research
     - [x] R-020 Status dashboard stack: Next.js per playbook vs simpler Bun-HTTP for a 4-section read-only view
   - Experiments
-    - [~] E-050 Build dashboard v1: pending-on-you, wiki state, agent activity, recent commits, checkpoints, backlog — Hono+Bun+JSX, fetch-polling
+    - [x] E-050 Build dashboard v1: pending-on-you, wiki state, agent activity, recent commits, checkpoints, backlog — Hono+Bun+JSX, fetch-polling
     - [ ] E-051 Deploy dashboard via G-012 PaaS at status.play.ris.hair with Cloudflare Access auth (CLOSES G-012 AND G-013)
 
 ## Checkpoints
