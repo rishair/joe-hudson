@@ -79,13 +79,13 @@
     - [x] E-038 Coach v5b: model-guided graph navigation with Sonnet walker
 - [ ] G-010 Build web app exposing coach chat and wiki
   - Research
-    - [ ] R-015 What's the best browser-side SQLite approach for full-fidelity AI SDK message persistence?
-    - [ ] R-016 How should the G-009 retrieval pipeline be adapted from coach-app to the web app?
-    - [ ] R-017 What's the canonical pattern for resource-attribution UX in chat (subtle in-flow + modal deep-dive)?
-    - [ ] R-018 What link conventions exist in the current coach directory and what normalization is needed?
+    - [x] R-015 What's the best browser-side SQLite approach for full-fidelity AI SDK message persistence?
+    - [x] R-016 How should the G-009 retrieval pipeline be adapted from coach-app to the web app?
+    - [x] R-017 What's the canonical pattern for resource-attribution UX in chat (subtle in-flow + modal deep-dive)?
+    - [x] R-018 What link conventions exist in the current coach directory and what normalization is needed?
   - Experiments
     - [ ] E-039 Build repeatable ingestion script copying coach to web app content dir with link normalization
-    - [ ] E-040 Scaffold Next.js + AI SDK + OpenRouter minimal chat
+    - [~] E-040 Scaffold Next.js + AI SDK + OpenRouter minimal chat
     - [ ] E-041 Add client-side SQLite for full-fidelity conversation persistence
     - [ ] E-042 Build wiki view: routing, rendering, internal wikilinks
     - [ ] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler

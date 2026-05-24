@@ -472,6 +472,7 @@
   "coding-architecture": [
     "G-010",
     "R-015",
+    "R-018",
     "E-039",
     "E-040",
     "E-041",
@@ -497,15 +498,31 @@
   ],
   "R-016": [
     "G-010",
-    "E-043"
+    "R-015",
+    "R-017",
+    "E-043",
+    "E-044"
   ],
   "R-017": [
     "G-010",
+    "R-015",
+    "E-042",
     "E-044"
   ],
   "R-018": [
     "G-010",
-    "E-039"
+    "E-039",
+    "E-042"
+  ],
+  "slug": [
+    "G-010",
+    "R-018",
+    "E-042"
+  ],
+  "slug|display": [
+    "G-010",
+    "R-018",
+    "E-042"
   ],
   "E-039": [
     "G-010",
@@ -521,17 +538,20 @@
   ],
   "E-041": [
     "G-010",
-    "R-015"
+    "R-015",
+    "R-017"
   ],
   "E-042": [
     "G-010",
     "R-017",
+    "R-018",
     "E-039",
     "E-044"
   ],
   "E-043": [
     "G-010",
     "R-016",
+    "R-017",
     "E-039",
     "E-041",
     "E-044"
@@ -545,7 +565,14 @@
   "G-010-audit": [
     "G-010"
   ],
-  "slug|display": [
+  "bare-slug": [
+    "G-010"
+  ],
+  "VIEW": [
+    "G-010",
+    "R-018"
+  ],
+  "Why-questions": [
     "G-010",
     "R-018"
   ],
@@ -627,10 +654,89 @@
     "E-044",
     "E-045"
   ],
+  "some-slug": [
+    "R-018"
+  ],
+  "shame-drives-behavior": [
+    "R-018"
+  ],
+  "slug\\|display text": [
+    "R-018"
+  ],
+  "boundary-with-vs-boundary-against\\|a boundary with, not a boundary against": [
+    "R-018"
+  ],
+  "category/slug": [
+    "R-018"
+  ],
+  "concepts/blocker-emotions": [
+    "R-018"
+  ],
+  "Slug": [
+    "R-018"
+  ],
+  "slug with spaces": [
+    "R-018"
+  ],
+  "5-Star Meetings": [
+    "R-018"
+  ],
+  "slug#heading": [
+    "R-018"
+  ],
+  "fear-of-joy#impermanence-is-what-makes-the-thing-sweet": [
+    "R-018"
+  ],
+  "slug\\|display": [
+    "R-018"
+  ],
+  "loving-all-parts#Universalize the Trait\\|universalize-the-trait": [
+    "R-018"
+  ],
+  "slug with spaces\\|display": [
+    "R-018"
+  ],
+  "see-me-dont-see-me push-pull\\|see-me / don't-see-me push-pull": [
+    "R-018"
+  ],
+  "the-pucker-as-the-truth-marker": [
+    "R-018"
+  ],
+  "reads": [
+    "R-018"
+  ],
+  "essence": [
+    "R-018"
+  ],
+  "gaslighting": [
+    "R-018"
+  ],
+  "solitude": [
+    "R-018"
+  ],
+  "should": [
+    "R-018"
+  ],
   "slug|display text": [
     "R-018"
   ],
-  "slug": [
+  "...": [
+    "R-018",
+    "E-044"
+  ],
+  "false dichotomy": [
+    "R-018"
+  ],
+  "slug#anchor": [
+    "R-018"
+  ],
+  "slug#anchor|display": [
+    "R-018"
+  ],
+  "slug|text": [
+    "R-018"
+  ],
+  "essence-as-undefended-self": [
     "R-018"
   ],
   "G-005": [
@@ -645,9 +751,13 @@
     "E-027"
   ],
   "...slug": [
-    "E-042"
+    "E-042",
+    "E-044"
   ],
   "wikilink": [
+    "E-042"
+  ],
+  "broken-slug": [
     "E-042"
   ]
 }

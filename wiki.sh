@@ -613,6 +613,29 @@ case "$cmd" in
     done
     $found || echo "No stale claims."
     ;;
+  cleanup-stale)
+    # Bulk-unclaim every page whose claim is past its claim_ttl.
+    # Use before /wiki start to clean the lay-of-the-land in one shot.
+    now=$(date +%s)
+    cleaned=0
+    for f in "$WIKI_DIR"/research/*.md "$WIKI_DIR"/experiments/*.md; do
+      [[ -f "$f" ]] || continue
+      claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
+      [[ -z "$claimed_at" ]] && continue
+      mod_time=$(file_mtime "$f")
+      ttl=$(get_ttl_seconds "$f")
+      if (( now - mod_time > ttl )); then
+        id=$(grep '^id:' "$f" | sed 's/^id: *//')
+        do_unclaim "$id"
+        cleaned=$((cleaned + 1))
+      fi
+    done
+    if (( cleaned == 0 )); then
+      echo "No stale claims to clean."
+    else
+      echo "Cleaned $cleaned stale claim(s)."
+    fi
+    ;;
   next)
     # Output the next best thing to work on, following the priority order from the skill.
     # Designed to be read by an agent that will then execute the work.
@@ -774,6 +797,7 @@ Commands:
   unclaim <PAGE-ID>
   status
   stale
+  cleanup-stale                     # Bulk-unclaim every page whose claim is past its TTL
   next                              # What should an agent work on next?
   rebuild-index
   help

@@ -275,25 +275,35 @@ If any page reads like an event log, rewrite it.
 
 10. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting both strategic assessment and quality audit findings. Only written during a strategic pass, not on operational-only checkpoints.
 
-### `/wiki start [max-parallel]`
+### `/wiki start [max-parallel] [--auto]`
 
 Run an autonomous **parallel** work loop with periodic `/wiki checkpoint` calls. This is the runner for forward motion — orchestrates up to N parallel `wiki-next` agents from the main session and lets a 30-minute cron handle commits, health, and status. Use it when there's a backlog of unblocked work and you want it ground through.
 
 **Default parallelism**: 3. Override with `/wiki start 5` etc. Save the chosen cap to memory as a feedback item so future sessions default to it.
 
-**Setup:**
+**Grooming (always — before any agents are spawned):**
 
-1. **Survey unblocked work.** Run `./wiki.sh next` repeatedly (or read `meta/wiki/index.md`) to count unblocked items.
-2. **Spawn initial agents.** Launch `min(unblocked-count, max-parallel)` `wiki-next` agents via the Agent tool with `subagent_type: "wiki-next"` and `run_in_background: true`. Do NOT pass explicit item hints — each agent runs `./wiki.sh next` itself and claims the result. The wiki-next agent is responsible for being robust to claim races (see "Claim race robustness" in the wiki-next agent definition); the orchestrator just sets the parallelism level.
-3. **Set up the 30-minute cron** via `CronCreate`: `cron: "*/30 * * * *"`, `prompt: "/wiki checkpoint"`, `recurring: true`.
+`/wiki start` is conversational at kickoff. Do not just dive into spawning.
 
-**Replacement behavior:**
+1. **Clean the lay of the land.** Run `./wiki.sh cleanup-stale` to bulk-unclaim every claim past its TTL. This is the single-command equivalent of looping `unclaim` over `./wiki.sh stale` output. Always do this first — agents shouldn't see leftover claim residue from past completed work.
+2. **Survey unblocked items.** Read `meta/wiki/index.md` and identify ALL currently-unblocked work — both research AND experiments whose dependencies are satisfied. `./wiki.sh next` returns one item at a time and prefers research; for the candidate list, look broader.
+3. **Surface the candidate list to the user.** Group by goal, note dependencies between candidates, and call out anything that conflicts with recent conversational decisions (e.g., "the audit said X is the priority, but `next` would pick Y first"). Ask the user to confirm or reorder.
+4. **Wait for the user's go-ahead** before spawning. The exception: if the user passed `--auto` (or said something like "just go" in the same turn), skip the wait and use the default candidate order.
+
+Why: `./wiki.sh next` is mechanical (research before experiments, then dependency order). Conversational priorities (audit findings, recent user direction, what just got unblocked by a sibling completion) aren't visible to it. The orchestrator's job is to reconcile both views before committing agent slots.
+
+**Setup (after grooming is confirmed):**
+
+1. **Spawn initial agents.** Launch `min(candidates, max-parallel)` `wiki-next` agents via the Agent tool with `subagent_type: "wiki-next"` and `run_in_background: true`. Do NOT pass explicit item hints — each agent runs `./wiki.sh next` itself and claims the result. The wiki-next agent is responsible for being robust to claim races (see "Claim race robustness" in the wiki-next agent definition); the orchestrator just sets the parallelism level.
+2. **Set up the 30-minute cron** via `CronCreate`: `cron: "7,37 * * * *"`, `prompt: "/wiki checkpoint"`, `recurring: true`. (Use `7,37` not `*/30` — `*/30` lands on `:00`/`:30` along with every other fleet-default cron; off-minute scheduling avoids the API pile-up. See CronCreate docs.)
+
+**Replacement behavior (after spawn):**
 
 When an agent emits a terminal completion notification (NOT a heartbeat — distinguish by `tool_uses > 0` and a substantive result body), immediately:
 
-1. Check unblocked count via `./wiki.sh next` (and a quick scan for additional unblocked items beyond the first one returned)
-2. If unblocked work exists AND in-flight count < max-parallel, spawn a replacement `wiki-next` agent (again, no explicit hint — let it claim what it picks)
-3. If nothing's unblocked, don't spawn. The next cron `/wiki checkpoint` will recheck.
+1. **Re-groom briefly.** Check unblocked count via `./wiki.sh next` and a broader scan. If priorities have shifted (e.g., the agent's completion unblocked a high-priority experiment that wasn't on the original candidate list), surface that to the user before spawning.
+2. **Spawn replacement.** If unblocked work exists AND in-flight count < max-parallel, spawn a replacement `wiki-next` agent (again, no explicit hint).
+3. **Idle if nothing's unblocked.** Don't spawn. The next cron `/wiki checkpoint` will recheck.
 
 **Stopping and pausing:**
 
