@@ -5,7 +5,7 @@ title: "Kids Shouldn't Caretake the Parent (Caretaking Should Only Flow Downward
 aliases: ["kids shouldn't caretake the parent", "caretaking should flow downward not upward", "the caretaking-inversion in childhood", "child caretaking parent causes adult pain", "child caretaking parent damages adult self-attunement", "the kid who caretook mom or dad", "the parentified child", "parentification", "the kid who managed their parent", "the kid as parent's emotional regulator", "I did X so mom would be happy", "the kid who took care of dad's depression", "child as parent's emotion-manager", "caretaking goes the wrong way installs self-abandonment", "kids supposed to receive parents supposed to give"]
 tags: ["principle", "parenting", "caretaking", "childhood imprinting", "self-attunement", "parentification", "development"]
 related: ["caring-vs-caretaking", "weaponized-not-caretaking", "performing-for-love-becomes-savior-career", "wanting-got-wired-to-unlovability", "childhood-imprinting", "parenting-as-coaching-domain", "take-care-of-yourself-then-marriage-then-kids", "esme-just-need-to-be-sad", "i-caretake-people", "model-emotional-movement-for-your-kids", "decision-question-covers-the-caretaking"]
-sources: ["2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch"]
+sources: ["2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch", "2025-11-27_＂I'm Not Responsible For How You Feel＂ (Coaching with Joe)"]
 ---
 
 # Kids Shouldn't Caretake the Parent
@@ -91,6 +91,24 @@ The principle requires the parent to have a place to put their own emotions othe
 
 The principle also asks the parent to develop the in-the-moment capacity to feel their own state, recognize when the kid is trying to caretake, and decline without making the kid feel rejected for trying. This is a skill that builds over time. The parent who can do this is interrupting a generational pattern that may have been running for centuries.
 
+## The Choleric-Parent Variant: Kids Become Responsible for the Parent's Emotional Reactions
+
+A particularly common shape of the inversion: the parent is choleric (or otherwise emotionally dysregulated — depressive, anxious, raging, withdrawn). The parent's emotions take up the room. The child, whose nervous system reads the dysregulation as both threat and emergency, learns that the way to survive is to be responsible for the parent's emotional state — to keep the parent from getting angry, to keep the parent from sliding into depression, to keep the parent's emotions inside a range the child can survive in.
+
+The wiring installs at the level of "I am responsible for the emotions of the people around me, especially when I express myself." Because the child's own expression often triggered the parent's dysregulation, the wiring fuses self-expression with responsibility-for-the-other's-reaction. The two cannot be separated in the adult. Every act of self-expression carries the load of the imagined other's reaction. Every imagined reaction carries the load of "and I am responsible for it."
+
+The adult version of the wiring shows up as:
+
+- Containment of self-expression in any context where someone might react (which is essentially every context).
+- A specific kind of fatigue around being around other people, because the apparatus is always running.
+- Difficulty bringing the full self to work, creative practice, relationships, or any context that asks for relational presence.
+- Anticipatory self-management before any expressive act (rehearsing sentences, smoothing edges, removing the parts that might land badly).
+- A specific internal voice after expressive acts that audits how the expression landed and assigns blame for any negative reaction.
+
+The empathy-guess for surfacing this wiring is the structural leap: "in that state, oftentimes kids are learned that they're responsible for the emotions of the parent. That's like a very common thing." See [[empathy-guess-to-childhood-pattern]]. The structural leap is offered as a hypothesis the body can confirm. When confirmed, the wiring becomes workable.
+
+The counter-practice for this variant is the spoken declaration. See [[say-im-not-responsible-for-how-you-feel-aloud]]. The wiring was installed relationally and embodied; the counter has to be installed relationally and embodied. Said with the whole body, to a real present person, then to a group, the counter-statement begins to install the alternative wiring. The practice is portable; the person can repeat it in life.
+
 ## When Someone Experiences This
 
 - An adult realizing they have always taken care of their parents' emotions
@@ -129,3 +147,4 @@ Direct and a little serious. The principle names a real form of damage. Joe deli
 ## Sources
 
 - 2025-03-28_How to Be a Parent (Without Messing Everything Up) | Joe Hudson and Nathan Basch (Joe surfaces the principle via his wife's reading on family dynamics: parent caretakes kid, kid is not supposed to caretake parent; names that "a lot of the pain that adults have is because they caretake their parents"; identifies the specific adult cost as preventing self-attunement and self-connection)
+- 2025-11-27_"I'm Not Responsible For How You Feel" (Coaching with Joe) — the choleric-parent variant; the adult woman comes to coaching with a work-question about bringing her full expression to her work; the wiring "all emotions had to be cut off because my father was very choleric and had lots of emotions that hurt me" surfaces; Joe makes the empathy-guess "in that state oftentimes kids are learned that they're responsible for the emotions of the parent"; the adult version is operating as containment of self-expression and 80% internal cost (self-talk after expression); the spoken-declaration practice "I'm not responsible for how you feel, Joe" is installed as the embodied counter

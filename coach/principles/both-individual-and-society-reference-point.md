@@ -5,7 +5,7 @@ title: "Hold Both the Individual and the Society as Reference Points (Why Pure S
 aliases: ["both individual and society reference point", "hold both individual and society", "the both-and of self and society", "personal and societal reference points together", "why pure self-focus produces fear", "why pure collective-focus produces unworkable concepts", "the communism critique", "communism failed at the individual level", "if it doesn't work for the individual it's just a concept", "the both-and of personal and collective", "you need both reference points for effective action", "the individual-and-society dual frame", "the practical-and-larger reference frame", "Joe's both-and on self and society"]
 tags: ["principle", "stance", "uncertainty", "transformation", "individualism", "collectivism", "leadership", "ideology"]
 related: ["transformation-happens-in-uncertainty", "uncertainty", "how-do-you-want-to-be-in-this-uncertainty", "take-the-adventure-stance", "parenting-as-the-most-effective-change-agent", "shift-the-environment-not-the-actor"]
-sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You"]
+sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You", "2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory)"]
 ---
 
 # Hold Both the Individual and the Society as Reference Points
@@ -112,3 +112,4 @@ Direct and slightly didactic. The principle is delivered with the clarity of a s
 ## Sources
 
 - 2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You (the "if you're really only focused on yourself, then you're far more prone to fear" claim; the "thinking about it in a bigger way... allows it to not be personal" mechanism; the "if it doesn't apply to you, then most likely you're going to think about a concept that is just a concept" critique; the communism example as the worked failure case of pure-collective-focus; the both-and as the requirement for effective action in a chaotic time)
+- 2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory) (the bite-sized restatement of the same dual-reference-point principle with the same communism example as the worked failure case; same framing of pure self-focus as fear-producing and pure collective-focus as concept-producing)

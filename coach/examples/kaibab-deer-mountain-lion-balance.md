@@ -5,7 +5,7 @@ title: "The Kaibab Plateau Deer (How Killing the Predators 'To Save the Deer' Cr
 aliases: ["the Kaibab story", "the Kaibab plateau deer", "the deer and mountain lion story", "the Leopold mountain lion example", "Aldo Leopold deer story", "shooting the mountain lions to save the deer", "the natural-balance example", "30000 to 100000 to 300000 to 600 deer", "the deer population crash", "the predator-prey balance", "the wolf has wisdom example", "the mountain lion's wisdom example", "killing the predator collapses the prey", "the well-intentioned conservation that destroyed the deer", "the early environmentalist who killed the deer he was trying to save"]
 tags: ["example", "metaphor", "balance", "systems", "intervention", "conservation", "ecology", "unintended-consequences", "complementarity"]
 related: ["forest-fire-as-system-reset", "shift-the-environment-not-the-actor", "transformation-happens-in-uncertainty", "black-swan-small-collapses-prevent-big-ones", "honor-the-patterns-intent"]
-sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You"]
+sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You", "2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory)"]
 ---
 
 # The Kaibab Plateau Deer (How Killing the Predators "To Save the Deer" Crashed the Deer)
@@ -108,3 +108,4 @@ The story is told with quiet matter-of-factness. Joe does not editorialize. The 
 ## Sources
 
 - 2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You (the Kaibab Plateau story; the Leopold attribution; the 30,000 to 100,000 to 300,000 to 600 numerical arc; the "natural balance was with the deer and the mountain lion" framing; the "all of them are holding wisdom" extension; the role of the story as the second natural-systems example alongside the forest fire)
+- 2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory) (the bite-sized restatement of the same Kaibab story with the same numerical arc and the same "all of them are holding wisdom" framing; documents the story's role as a load-bearing illustration in the chaos-as-opportunity teaching across multiple cuts of the material)

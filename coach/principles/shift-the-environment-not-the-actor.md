@@ -5,7 +5,7 @@ title: "Shift the Environment, Not the Actor (Don't Attack the Wolf)"
 aliases: ["shift the environment not the actor", "don't attack the wolf", "the wolf is not bad", "leverage is in environment shift", "change the conditions not the behavior", "shift the environment not the pattern", "don't attack the symptom", "the leverage point is the environment", "stop attacking and start shifting conditions", "the opportunity is in shifting the environment", "the environment allows for the wolf", "the environment allows for the pattern", "environment-shift over actor-attack", "stop blaming actors start shifting environments", "the environmental leverage principle"]
 tags: ["principle", "systems", "leverage", "intervention", "blame", "compassion", "environment", "transformation"]
 related: ["forest-fire-as-system-reset", "kaibab-deer-mountain-lion-balance", "honor-the-patterns-intent", "transformation-happens-in-uncertainty", "fault-vs-responsibility", "culture-outside-mirrors-culture-inside"]
-sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You"]
+sources: ["2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You", "2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory)"]
 ---
 
 # Shift the Environment, Not the Actor
@@ -106,3 +106,4 @@ Direct and quietly insistent. The principle is delivered as a structural observa
 ## Sources
 
 - 2025-07-22_The Forest Fire Theory of Personal Growth - Why Chaos Is Good For You (the "opportunity is in shifting the environment, not in attacking the wolf" formulation; the "all of them are holding wisdom -- the wolf, the deer, the forest fire" framing; the explicit positioning of environment-shift as the leverage point in any chaotic period; the implicit linkage to the Kaibab story as the cautionary tale of actor-attack)
+- 2025-12-12_Bite-Sized Teaching Series- Why Chaos Is Good For You (The Forest Fire Theory) (the bite-sized restatement of the same environment-shift principle: "the opportunity is in shifting the environment. It's not in attacking the wolf and saying the wolf is bad"; same framing of all participants as holding wisdom and the environment as what allows for each)

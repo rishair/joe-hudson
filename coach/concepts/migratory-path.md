@@ -5,7 +5,7 @@ title: "The Migratory Path (You Know How You're Supposed to Develop)"
 aliases: ["migratory path", "the migratory path", "internal migratory path", "the bird's migratory path", "we know how we're supposed to evolve", "we know our developmental path", "the developmental knowing", "the body knows what's next", "the next experiment is on the path", "trust your developmental migratory path", "the right experiment is on your migratory path", "where you're drawn is the path", "follow the pull not the should", "the migratory knowing", "the next thing to learn is already known"]
 tags: ["development", "trust", "experiment", "self-knowing", "concept", "intuition", "pull"]
 related: ["iterative-mindset", "wonder", "where-you-are-is-the-lesson", "enjoyment-as-surrender", "wants-over-shoulds", "trust-the-awareness-dont-add-effort", "dont-take-my-word-for-it", "follow-the-call", "discipline-starts-engine-then-let-gravity", "embrace-intensity"]
-sources: ["2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
+sources: ["2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life", "2025-12-05_Slimy vs. Authentic Charisma — Joe and Dr. K on Charisma on Command"]
 ---
 
 # The Migratory Path (You Know How You're Supposed to Develop)
@@ -62,6 +62,20 @@ Over years of running experiments, the relationship to the migratory path mature
 
 This is the third stage of the evolution-of-experimenter arc (rebellion -> internalization -> surrender). The migratory path was always operating; the person learns, over time, how to follow it more cleanly. See [[evolution-of-the-experimenter]].
 
+## The Coach Also Follows the Client's Migratory Path
+
+A second application of the concept that Joe surfaces in the Charisma conversation: the coach who is working with a client is, in the best case, following the client's migratory path rather than imposing their own. The client knows where they need to go next better than the coach does. The coach's job is to help the client listen to their own pull, not to design the path for them.
+
+"My assumption is this is their birthright. That there's work to be done. But let's start with the assumption that this is your birthright. This isn't something that you have to achieve... I'm definitely — pattern recognition is happening. But what the other thing that's happening is I'm really letting them lead because somehow or another what I've noticed is, and it might not be the most efficient path, but it is a more efficient path than the other ones I've run across, which is to — that person knows where they need to go next better than I do." -- Joe Hudson, Slimy vs. Authentic Charisma
+
+The coaching application extends the metaphor: Joe adds the salmon and the tree alongside the bird.
+
+"We have this innate migratory path in us, meaning that the way that a salmon knows how to get back to — we have this thing that pulls us into our own development. The way a tree knows how to extend towards the sun, we have our way of knowing how to extend towards the sun. And so generally what I'm trying to do is I'm trying to — I'm following that in the person." -- Joe Hudson, Slimy vs. Authentic Charisma
+
+Three metaphors for the same structural feature: the salmon knows the route home; the bird knows the migration; the tree knows how to extend toward the sun. Each is an example of an organism with an internal navigator that does not need external instruction to find what it needs. The human migratory path is the same kind of navigator. The coach's work, when working with someone else, is to attend to *their* navigator, not to provide one.
+
+This is also the structural reason for [[coach-as-sonar-ping-and-listen-for-where-theyre-ready]]. The pinging and listening is the operational form of following someone else's migratory path. The bounces from the pings tell the coach where the client is currently being pulled. The coach designs the next ping in service to that pull, not in service to a destination the coach has chosen.
+
 ## When Joe Reaches For This
 
 - When a coachee is asking what they should do next and Joe wants to redirect them to their own pull
@@ -69,6 +83,7 @@ This is the third stage of the evolution-of-experimenter arc (rebellion -> inter
 - When a coachee is afraid that without external guidance they will go in the wrong direction
 - When a coachee is following a should rather than a want and the experiment they are designing is not theirs
 - When the question is "how do I know what to work on next?" and the answer is the migratory path is already telling them
+- When training other coaches who are tempted to design destinations for their clients rather than attending to where the clients are being pulled
 
 ## Tone
 
@@ -95,3 +110,4 @@ Joe describes this concept with quiet conviction. The metaphor (a bird's migrato
 
 - 2024-10-11_How Experiments Will Change Your Life (the migratory-path concept named directly; the bird metaphor; the kid-knows-to-walk parallel; the explanation that the right experiment is always on the path; the surrender stage where experiments become like gurus)
 - 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; reinforces the same teaching with identical phrasing)
+- 2025-12-05_Slimy vs. Authentic Charisma — Joe and Dr. K on Charisma on Command (the salmon and tree metaphors added to the bird, all pointing at the same structural feature; the explicit application to coaching where the coach follows the client's migratory path rather than imposing their own; the "this person knows where they need to go next better than I do" framing as the operational stance the metaphor produces; the connection to the trauma-slows-it-down observation explaining why some adults appear developmentally stuck while others move freely)

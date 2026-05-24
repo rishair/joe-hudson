@@ -64,6 +64,20 @@ This is the actual mechanism of the substrate work. Not "I will meditate hard en
 
 The bigger experiences started happening again on their own, but Joe was no longer organizing his life around them. They were just things that happened. The 8 years of work had moved him from "I have to get back to that state" to "another big experience, who cares."
 
+## The Marriage Condition and the Experimenter Stance That Followed
+
+In a later retelling of the same arc (conversation with Dr. K and Charlie Hooper), Joe gives additional context on how he ended up at the retreat in the first place: it was one of three conditions Tara set as preconditions to marriage. She would marry him if they could survive doing therapy together, doing a 10-day meditation retreat together, and backpacking through Southeast Asia together. The three were the test: could the two of them survive these three things together. The retreat was the second test.
+
+The same retelling makes explicit the authority-resistance that organized everything Joe did after. He had what he calls "massive authority issues" and would not simply listen to teachers. He needed their information but would not take it on faith. So he started experimenting: hearing a teaching, designing an experiment to test it in his own body, running the experiment, noticing what was true.
+
+"I started this experimental process of, oh, so the Buddha says this about grief, how, let's see how true that is. Like, what's the experiment I can concoct that will teach me a felt sense of it? And in that process, I also just did every possible thing I could find. Hoffman Process, different forms of therapy." -- Joe Hudson, Charisma isn't learned
+
+The experimentation stance Joe later built into [[everything-is-already-an-experiment]] and [[iterative-mindset]] originated in this period for this reason. It was not an aspirational methodology. It was the only way Joe could integrate teaching from people he could not bring himself to follow on authority.
+
+Joe also names in the later retelling the magnitude of the meditation hours during the years of chasing: about 7 hours a day at peak, in a room by himself, with worrying about money as his other pastime. The Vipassana technique he started with collapsed as the trusted method when he asked a question and the instructor and his wife disagreed about whether what was happening in Joe's practice was okay. The disagreement was enough for Joe to lose trust and start reading meditation books and improvising his own practice. The improvising eventually collapsed into "I was just trying to manipulate myself and manage myself. I wasn't actually being with what was." After that, the practice turned into enjoyment: just sitting and enjoying himself.
+
+The question "what am I?" (which Joe credits to Papaji, a Ramana Maharshi descendant) popped up about 10 times a day across the years. There was no discipline to it. It just kept arriving. Joe wrestled with it for a decade before the resolution in the bathroom (see [[joes-bathroom-realization]]).
+
 ## How the Chase Ended
 
 The chase ended not with a dramatic resolution but with the gradual emergence of the recognition the chase had been after. Around year 7 or 8, at a meditation retreat, the answer to "what am I?" landed -- in the bathroom, while peeing. See [[joes-bathroom-realization]] for the full telling of the resolution arc.
@@ -102,3 +116,4 @@ Reflective, slightly amused at his younger self, instructive. Joe is not mournfu
 - 2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I)
 - 2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I) (republished version of the same conversation; same content with minor transcription variations)
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the resolution of the chase: how meditation filed down the fight, how the eventual recognition arrived in a bathroom while peeing, how Joe did not even notice the voice in his head had quieted until three months later, and how the recognition that awakening had happened arrived in a conversation with Case)
+- 2025-12-05_Charisma isn't learned (Dr. K, Charisma on Command & Joe) (the marriage-condition context: the 10-day retreat as one of three preconditions Tara set; the authority-resistance origin of the experimenter stance Joe later formalized; the magnitude of the chasing-period meditation hours; the loss-of-trust-with-the-Vipassana-instructor moment that turned Joe toward reading and improvising practice; the gradual collapse of the management orientation into pure enjoyment; the 10-times-a-day spontaneous arrival of the what-am-I question for a decade before resolution)

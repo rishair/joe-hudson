@@ -84,6 +84,14 @@ The reframed view: "How do I want to be in this decision? What's the action that
 
 The standard frame produces anxiety, polling, pro-con lists, attempts to predict an unpredictable future. The reframed view produces present-tense action consistent with the deciding-self.
 
+## The Regret-Side Articulation
+
+The same structural insight appears in the regret-frame: regret is the felt consequence of evaluating one's behavior by the outcome rather than by the quality of the being-in-the-moment. See [[regret-dissolved-by-pride-in-how-you-behaved]]. The two principles share the underlying claim (outcomes are not the measure of how you acted) and differ in the felt territory they address.
+
+This principle is the architectural version used for evaluating decisions across time. The regret-version is the in-the-moment, per-conversation version about how to walk away from any specific interaction without regret. The regret-version makes the per-instance stakes vivid; this principle makes the cumulative pattern recognizable. They reinforce each other.
+
+The regret-version also extends the architectural insight into the temporal-cascade dimension: not just "this decision was made well" but "if I made decisions this way across my life, the life that results has no regret-residue." See [[regret-as-fractal-conversation-day-year-life]].
+
 ## Upstream (What Leads Here)
 
 - A person beating themselves up over a decision that turned out badly

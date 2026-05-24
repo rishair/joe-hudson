@@ -4,7 +4,7 @@ id: world-reorganizes-around-self-possession
 title: "The World Reorganizes to Meet You (When You Become Self-Possessed, the World Treats You As Such)"
 aliases: ["world reorganizes around self-possession", "the world moves to meet you", "the world moves itself to meet you", "the world creates something that supports your truth", "the world treats you as you treat yourself", "self-possession reshapes the world around you", "loving yourself surrounds you with people who love you", "the world reorganizes around what you become", "you become self-possessed the world treats you as such", "the world reacts to how we are", "the world will create something that supports your truth", "it's not magic it's how people react", "treat a dog one way it reacts one way", "the social field reorganizes around your truth", "what you become attracts what you experience", "your truth recruits a world that supports it", "the world starts arranging itself around you", "the people who don't like who you are leave the people who do come", "you don't have to manage yourself anymore", "the world aligns to meet you where you are", "the world arrangement that follows alignment-with-self", "eventually the world starts arranging itself around you"]
 tags: ["principle", "self-possession", "truth", "social field", "identity", "leadership", "approval", "belonging", "authenticity"]
-sources: ["2025-03-14_How To Stop Seeking Approval", "2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question"]
+sources: ["2025-03-14_How To Stop Seeking Approval", "2025-11-11_\"I Don't Belong Here\" - Belonging Is The Wrong Question", "2025-12-09_Be yourself and watch your life rearrange"]
 ---
 
 # The World Reorganizes to Meet You
@@ -54,6 +54,18 @@ She made the decision to just speak her truth. To stop performing. To let the ch
 A few weeks later, the world had reorganized. Some friends had drifted away (those whose connection to her depended on the performance). Some friends had deepened (those who had been able to see past the performance and were now meeting the real person). The painful chasing-and-monitoring had stopped because the signal that required it was gone. The world had reorganized around the new signal: "I am self-possessed."
 
 See [[joes-daughter-speaks-her-truth]] for the full account.
+
+## You Design a Life by Being Yourself
+
+The same mechanism is stated in design-of-life terms in a separate teaching: when you stop contorting yourself for outcomes and instead behave in a way you are proud of, the people, opportunities, and money that arrive are aligned with the actual self, not the contorted version.
+
+"If we are ourselves, then the things that say yes to us are the things that are saying yes to us, not the contorted version of ourselves. The people who give us money for our job, the people who like us, or the people who like us for us, who we're proud of, not like us for the contorted sense of self that we did to try to please them. And so we actually design a life by being ourselves. We design a life of people who like us for us, who -- people who want to support us for us, the people who believe in us for who we are. And that's a life that is appealing, that feels good." -- Joe Hudson, Be yourself and watch your life rearrange
+
+The framing "we design a life by being ourselves" is structurally the same mechanism as the reorganization but turned active. The world's reorganization is the passive description; the design is the active description. The person is not passively waiting for the world to come around -- the person is, by being themselves, doing the design work in real time. Each proud-behavior is a design move. Each contortion is a design move in the other direction (designing a life around the contorted self, populated by people who liked the contortion).
+
+The alternative is also named directly: the life of contortion produces a life of regret. See [[dying-woman-what-a-waste]] for the canonical illustration -- the dying woman whose "what a waste" was the verdict on a life designed around the contorted-because-something-is-wrong-with-me version of herself.
+
+The connection between this design-of-life teaching and the regret-fractal teaching is structural. The per-conversation operation (be yourself, do not contort) is the design move. The aggregate design is the life that shows up. See [[regret-dissolved-by-pride-in-how-you-behaved]] and [[regret-as-fractal-conversation-day-year-life]] for the regret-side framing of the same mechanism.
 
 ## The Reverse: Why Approval-Seeking Recruits Approval-Withholders
 
@@ -128,3 +140,4 @@ Joe says this with a quiet certainty that comes from having watched it happen re
 
 - 2025-03-14_How To Stop Seeking Approval (the source teaching: "the world will move itself to meet me"; the daughter example; the "it's not magic, and it's not magical thinking" qualifier; the dog and friend-group comparison)
 - 2025-11-11_"I Don't Belong Here" - Belonging Is The Wrong Question (the woman-fired-for-being-herself adult-work example; the "eventually the world starts arranging itself around you" framing tied to the alignment-with-self operating-question; the "you don't have to manage yourself" felt-result; the explicit named possibility-set of outcomes from the reorganization including firing, raise, promotion, geographic change)
+- 2025-12-09_Be yourself and watch your life rearrange (the design-of-life framing: "we actually design a life by being ourselves"; the explicit chain from being-yourself to the people-who-say-yes being the people who say yes to the actual self; the contrast with the contorted-version life that is populated by people responding to the contortion; the connection to the regret-fractal: a designed-by-being-yourself life is also a no-regret life)

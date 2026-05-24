@@ -5,7 +5,7 @@ title: "The Island Experiment (12 People Who Unconditionally Love You)"
 aliases: ["island experiment", "the 12 saints on an island", "dropped on an island with 12 loving people", "the decade on the island thought experiment", "who would you be after 10 years of unconditional love", "the unconditional-love island", "Joe's island experiment", "the saint island", "the 12 people who love you experiment", "the unconditional love island", "the 12 saints island", "the desert island love thought experiment", "the island of love thought experiment", "the love-island Joe uses", "the thought experiment about community", "the thought experiment about why community matters", "the island Joe uses to point at community", "12 saints on an island close your eyes version", "the support-system version of the island experiment", "the run-it-with-the-whole-audience version", "the close-your-eyes island variant", "imagine you're on an island stuck with 12 saints"]
 tags: ["community", "thought experiment", "unconditional love", "container of love", "identity", "support system"]
 related: ["community", "support-system", "container-of-love", "connection", "loving-all-parts", "send-the-message-that-youre-whole", "i-feel-lonely-i-cant-find-real-community", "boundary-with-vs-boundary-against", "view", "a-support-system-creates-you", "shared-purpose-not-shared-proximity"]
-sources: ["2023-09-29_Finding Community", "2023-10-04_Finding Community", "2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122"]
+sources: ["2023-09-29_Finding Community", "2023-10-04_Finding Community", "2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122", "2025-12-05_Slimy vs. Authentic Charisma — Joe and Dr. K on Charisma on Command"]
 ---
 
 # The Island Experiment (12 People Who Unconditionally Love You)
@@ -62,8 +62,21 @@ A useful second turn of the experiment, after the person has felt into who they 
 
 The third turn: the experiment also functions as a mirror for what conditions the person is currently providing for others in their life. If 12 people on the island loved you unconditionally and drew clean boundaries with you, are you doing that for anyone? The asymmetry between what one wants from others and what one is offering tends to become visible. That visibility is often where the actual community-building starts: by becoming a node such an island can form around. See [[view]] as a way of life and [[community]]'s "How to Cultivate It Where You Are" section.
 
+## The Saint-Behavior Inversion (When Encountering Someone You Cannot Stand)
+
+A fourth turn of the experiment, surfaced in a different context: the experiment also inverts. If you walked off the island as a saint, and saints unconditionally love while drawing boundaries, then the test of where you actually are is what you do when you encounter someone in the world you cannot stand. The encounter is the inverse of the island. You can feel exactly how far you are from being one of those saints by noticing what you do when someone shows up who triggers you.
+
+"And yet when we see something out in the world that we don't like, the very last thing we think to do is behave like a saint." -- Joe Hudson, Slimy vs. Authentic Charisma
+
+The diagnostic moves the experiment from a thought-piece about community into a live test. When Joe gives this in the context of a conversation about polarizing public figures (Trump, Tate), the move is operational: the impulse to fight them, condemn them, hate them is the diagnostic of how far you are from the saint stance. The saint position is unconditional love plus boundaries — not approval, not agreement, not abdication of discernment. Just the position of someone who is not destabilized by what they encounter.
+
+The implication for the AI coach: when a person describes being unable to be in a room with someone they find toxic, the island experiment in its inverted form is one available frame. Not as moralism (you should be a saint). As diagnostic (the friction is information about where the work is). The work is the work — saint behavior is not a performance to put on; it is the natural state of a person who has done enough of their own work that they are not destabilized by what they encounter.
+
+This also explains why the original island experiment lands so universally. We can imagine being met by saints because we know what it would feel like. We almost never imagine being the saint because we have not done the work that makes the saint state available. The two halves of the experiment are connected: the work the saints would do for us over a decade is the same work we have to do ourselves to become someone capable of saint-behavior in the world.
+
 ## Sources
 
 - 2023-09-29_Finding Community
 - 2023-10-04_Finding Community
 - 2024-11-22_How To Build A Great Support System ｜ Art Of Accomplishment Podcast #122 (the close-your-eyes live-audience variant; the "I would be like them" punchline; the saints as fully human with boundaries)
+- 2025-12-05_Slimy vs. Authentic Charisma — Joe and Dr. K on Charisma on Command (the inverted form of the experiment as a diagnostic for encountering polarizing figures: "when we see something out in the world that we don't like, the very last thing we think to do is behave like a saint"; the saint stance as unconditional love plus boundaries, used as the structural counter to the reactive impulse to condemn or fight what triggers us; the connection between the work the saints would do for us and the work we have to do to become capable of saint-behavior ourselves)
