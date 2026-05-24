@@ -110,6 +110,7 @@
 ## Checkpoints
 
 - 2026-05-24-wiki-start-kickoff
+- 2026-05-24-strategic-2
 - 2026-05-24-strategic-1
 - 2026-05-24-checkpoint-3
 - 2026-05-24-checkpoint-2
