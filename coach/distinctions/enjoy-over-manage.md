@@ -5,7 +5,7 @@ title: "Enjoying vs. Managing"
 aliases: ["enjoy over manage", "enjoyment vs management", "managing life", "self-management trap", "stop managing start enjoying", "fighting the river", "management is fighting the river", "the river metaphor"]
 tags: ["enjoyment", "management", "freedom", "efficiency", "control", "flow"]
 related: ["impartiality", "process-over-result", "resistance", "inherent-goodness", "listening-to-impulse", "pleasure-capacity", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "efficiency-as-enjoyment", "art-of-accomplishment", "whats-the-case-against-it", "give-parameters-of-winning", "hire-by-dream-job", "valve-handbook-desks-on-wheels", "management-required-to-launch-predicts-management-required-forever", "address-the-blocker-not-the-symptom", "flow-vs-managing-reality", "pulling-the-brakes", "running-toward-yourself", "apply-enjoy-to-whats-here"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Enjoying vs. Managing
@@ -122,6 +122,50 @@ The same dynamic operates with customers. The salesperson trying to manage the c
 
 "It's the same thing in our love life. When we are trying to manage the other person's mood, there is less love. When we are trying to manage the other person's reaction, there is less love, there's less enjoyment in the relationship." -- Joe Hudson, Enjoy Over Manage
 
+## Managing Reality vs. Enjoying Reality (The Fuel-Quality Framing)
+
+A specific later framing of the same distinction that re-states it at the level of a person's entire life rather than at the level of an individual moment or relationship. The teaching: people who manage their reality (try to engineer outcomes through control) are running on a different fuel than people who enjoy their reality. The fuel determines what they actually arrive at, regardless of what the achievement looks like from outside.
+
+"They try to manage their reality rather than enjoy their reality... The fuel that you've been using has been dirty fuel. It's been a fuel of, oh, I'm not enough, rather than a clean fuel of enjoyment." -- Joe Hudson, After 14 Years of Coaching
+
+The canonical demonstration is the Stanford-CEO-VC client with the $30 million house and the miserable marriage. The achievement engine ran on not-enough fuel for two decades. The achievements arrived. The emotional outcome the achievements were proxies for did not arrive, because the fuel that ran the engine is also the fuel that reads the arrival. See [[30-million-dollar-house-miserable]] and the dedicated principle [[dirty-fuel-vs-clean-fuel]].
+
+The fuel framing makes the distinction operational at the lifetime scale. The in-the-moment version (am I managing this conversation or enjoying it?) becomes the over-decades version (am I managing my reality or enjoying it?). The same teaching applied at the longer time-horizon.
+
+## The Friend Analogy for Why Management Repels People
+
+A compressed teaching device for showing why management does not work in any relationship. Imagine a friend who is trying to manipulate you to get their way. The body response is immediate: "ugh." Even if you put up with it, the response is unmistakable. Now imagine a friend who is just enjoying you, who you can tell wants to spend time with you. The body response is also immediate: you want to spend time with them.
+
+"If you have a friend who you can just tell is enjoying you, is just like, 'Oh, I really like spending time with you,' then you wanna spend time with them." -- Joe Hudson, After 14 Years of Coaching
+
+The teaching: people in enjoyment over management are attractors. People in management over enjoyment are repellers. Look at the people in your life who are constantly manipulating to get their way. Are they happy? Some of them get what they want — the smart ones, sometimes. But are they happy? Are they people you want to be? Everyone, when asked, says no.
+
+The reason: management is felt by the receiver. The receiver's nervous system reads "this person is trying to do something to me" and produces the recoil response. The recoil is universal because the read is universal. No amount of skill at hiding the management changes the body-level transmission.
+
+This is why the enjoy-over-manage move is not only about your internal experience. It is about what gets attracted to you and what stays away. The clean fuel of enjoyment produces relationships. The dirty fuel of management produces resentment, distance, and eventually the isolation that high-achievement-on-dirty-fuel produces. See [[enjoyment-attracts]] for the dedicated treatment.
+
+## The 10%-More-Enjoyable Move
+
+A specific in-the-moment intervention Joe offers as the doable form of the principle. The instruction: take any current moment and find what would make it 10% more enjoyable. Then do that.
+
+"Right now you're having a moment. I'm having a moment. I am going to show you how to enjoy myself 10% more. That's it. That's all it took. You could do it too. Take a moment. What do you have to do right now to enjoy yourself just 10% more? And that will give you energy, that will give you perspective, that will give you presence, that will make you more aligned with who you are." -- Joe Hudson, After 14 Years of Coaching
+
+The 10% number is chosen carefully. 100% is unreachable in any given moment for most people in most circumstances. 1% is too small to be felt and too easily dismissed. 10% is the sweet spot: large enough to register as a real shift, small enough to be findable in any moment without requiring a change in circumstance.
+
+The compounding effect is the load-bearing teaching. A 10% shift applied moment to moment, across a day, across a week, across a year, rewrites the fuel quality of the entire operating system. The achievements continue (or improve, because clean-fuel achievement is more efficient). The internal experience changes from manage-and-be-exhausted to enjoy-and-be-energized. See [[apply-enjoy-to-whats-here]] for the related practice.
+
+The move is also a useful contrast to teachings that propose dropping the work, taking a sabbatical, or reorganizing the entire life. None of that is required. The work continues. The fuel changes.
+
+## Enjoy Two Things, Not One
+
+A subtle but important refinement of what enjoyment means in this principle. Enjoyment is not "I will only do things I like." That would be a re-installation of management (engineering circumstances to produce enjoyment). Enjoyment is two things: doing things you enjoy, AND learning to enjoy the things you are doing.
+
+"It does not just mean I enjoy being at the beach, so I'm always going to be at the beach. Enjoyment means I'm going to do the things I enjoy, but it's also learning how to enjoy the thing that you're doing." -- Joe Hudson, After 14 Years of Coaching
+
+The second clause is where most of the work lives. The first is obvious and easy to apply when conditions allow. The second is the capacity that lets the principle scale to a life that includes taxes, difficult conversations, hard work, illness, and the parts of any path that no one would choose to do for enjoyment alone.
+
+The capacity to enjoy what is here is also what makes the person an attractor (see "The Friend Analogy" above). Someone who can only be enjoyed when conditions are right is someone whose enjoyment is fragile. Someone who can enjoy whatever is here is a stable presence that other people want to be near.
+
 ## Inherent Goodness Is the Foundation
 
 The reason management feels necessary is the belief that without it, the person (self or other) will not do the right thing. Children will be wild. Employees will slack. The self will be lazy and gluttonous. Drop the assumption and most of the management becomes unnecessary.
@@ -161,3 +205,4 @@ The recursive irony of the example: a sales team trying to introduce question-ba
 - 2022-10-26_Enjoy Over Manage
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the extension of enjoy-over-manage to positive states; the distinction between letting go and doing nothing)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the lifetime-scale framing of the distinction as "managing reality vs. enjoying reality" delivered through the dirty-fuel-vs-clean-fuel principle; the Stanford-CEO-VC client with $30M house as the canonical example of a life run on dirty fuel; the friend analogy ("ugh" to the manipulator, "yes" to the friend who is enjoying you) as the somatic teaching for why management repels and enjoyment attracts; the 10%-more-enjoyable-right-now move as the in-the-moment intervention that compounds into a fuel-quality change at scale; the two-clause refinement of enjoyment ("do the things you enjoy AND learn to enjoy what you're doing") that prevents the principle from collapsing into circumstance-engineering; the positioning of management-over-enjoyment as the second of the seven patterns Joe sees holding people back

@@ -4,8 +4,8 @@ id: sorry-from-shame-vs-sorry-as-solidarity
 title: "Sorry From Shame vs. Sorry as Solidarity"
 aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it", "I'm sorry you're having a hard day", "solidarity apology", "the not-responsible apology", "sorry as presence not responsibility"]
 tags: ["distinction", "apology", "shame", "vulnerability", "language"]
-related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves", "2025-03-17_How to Apologize in A Way That Transforms You", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
+related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology", "dont-make-the-endurer-feel-small-with-sympathy", "frame-the-endurer-with-strength-not-sympathy"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves", "2025-03-17_How to Apologize in A Way That Transforms You", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2026-04-28_I've Coached 1000s in Pain. 'I'm Sorry' Isn't What They Need"]
 ---
 
 # Sorry From Shame vs. Sorry as Solidarity
@@ -96,11 +96,18 @@ The solidarity sorry reveals that the speaker can hold their own ground while ca
 
 Joe coaches this with warmth and precision. The point is not to eliminate apology but to give the person back their agency over what they are saying when they apologize. The distinction is offered as a gift.
 
+## Even the Solidarity Sorry Can Fail With an Endurer Sharing Trauma
+
+A specific failure mode that the solidarity sorry has: with someone sharing trauma from an endurer configuration, even the clean solidarity sorry can land as the wrong register. The endurer cannot accept anything that positions them as the one being comforted, even with the geometry kept level. The "I'm sorry that happened to you" can still register as smallness-making, because the implicit content is "I am the one who is intact and you are the one who has been hurt." For endurers in the middle of trauma processing, the right move is the strength frame — "I am proud of you for feeling this, I am right here" — rather than the sorry of any kind.
+
+See [[dont-make-the-endurer-feel-small-with-sympathy]] for the developed anti-pattern. See [[frame-the-endurer-with-strength-not-sympathy]] for the alternative move. The distinction Joe draws in the Sean clip analysis is that for the endurer, almost any version of "I'm sorry" — even the clean solidarity version — slides into the wrong geometry under the pressure of trauma sharing. The clean solidarity sorry works in many contexts; trauma sharing with an endurer is one of the contexts where it does not.
+
 ## Anti-Patterns
 
 - Do not interpret "don't buy into the shame" as "don't apologize." Apologies remain useful and often necessary. The question is what kind.
 - Do not weaponize the distinction. Saying "you're doing shame sorry, not solidarity sorry" to someone mid-apology is unhelpful. Use it as a self-diagnostic, not a critique.
 - Do not collapse the distinction into "good sorry vs. bad sorry." Both can be appropriate in different contexts. The shame sorry has a place when actual harm was done.
+- Do not assume the solidarity sorry is universal. With an endurer sharing trauma, neither sorry works. See above.
 
 ## Related Articles
 
@@ -117,3 +124,4 @@ Joe coaches this with warmth and precision. The point is not to eliminate apolog
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
 - 2025-03-17_How to Apologize in A Way That Transforms You
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the solidarity sorry described alongside the upright apology as a second clean form Joe and Tara experimented with — "hey, I'm sorry that you're feeling disconnected right now" or "I'm sorry that you've had a hard day" delivered with the explicit framing that it is not an I-am-responsible sorry but an acknowledgment that "I'm right here with you" and "I acknowledge that that's yours, it's not for me to take care of"; Joe's reflection that he and Tara use this form less now but it was very useful for a while)
+- 2026-04-28_I've Coached 1000s in Pain. 'I'm Sorry' Isn't What They Need (the specific failure mode where even the solidarity sorry slides into the wrong register with an endurer sharing trauma — "I'm sorry, buddy" lands as smallness-making because the implicit content positions the listener as intact and the speaker as hurt; the explicit alternative move for endurers is the strength frame rather than any version of sorry)

@@ -5,7 +5,7 @@ title: "Mandela: Empowerment Through Imprisonment"
 aliases: ["Mandela story", "Mandela crushing rocks", "empowerment Mandela", "Nelson Mandela empowered", "Mandela in prison", "Mandela had the exact opposite of freedom", "Mandela proves freedom requires nothing", "Mandela as proof of conditional freedom being false"]
 tags: ["empowerment", "example", "Mandela", "power", "freedom"]
 related: ["empowered-vs-power", "helplessness-is-the-gateway", "principles-free-you", "art-of-accomplishment", "subway-kid", "victim-stance-invites-abuse", "i-dont-have-time-for-this", "nothing-is-required-for-freedom", "external-freedom-vs-internal-freedom", "knowing-yourself-is-the-only-safety"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Empower Over Power", "2022-10-26_The Art of Accomplishment", "2023-12-07_What We're Afraid to Lose"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Empower Over Power", "2022-10-26_The Art of Accomplishment", "2023-12-07_What We're Afraid to Lose", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Mandela: Empowerment Through Imprisonment
@@ -62,6 +62,14 @@ This makes Mandela the canonical reference for [[nothing-is-required-for-freedom
 
 The complementary teaching: Joe notes that there are people who have come into the same freedom without even needing the time with themselves that Mandela had. Mandela took the long route under extreme conditions. Other people get there by other routes. The point is not that the imprisonment is required. The point is that nothing on the conventional list is required.
 
+## Used Compressed in the Seven-Patterns Framework
+
+The shortest form Joe uses for Mandela in the "After 14 Years of Coaching" video: "You can put me in a prison and you can have me bang rocks for a living, and you cannot feed me enough food, and I can still be Nelson Mandela. I can be completely empowered and it can't be taken away from me." -- Joe Hudson, After 14 Years of Coaching
+
+The compression is doing a specific job in the seven-patterns context. The pattern being taught is power-over-empowerment (the sixth of the seven). Mandela is the proof that empowerment exists and is uncollapsible. The brevity of the reference works because most listeners already have Mandela as a public figure they associate with strength-under-imprisonment. The teaching just attaches the specific name "empowerment" to the already-recognized quality.
+
+The pairing with the Berlin-bombing observation in the same delivery is structural. Berlin-bombing demonstrates the negative (the powerful did not risk themselves, the self-possessed did). Mandela demonstrates the positive (the self-possessed remained self-possessed even when everything was taken). Both observations point at the same distinction. The pair makes the principle visible from two directions.
+
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
@@ -69,3 +77,4 @@ The complementary teaching: Joe notes that there are people who have come into t
 - 2022-10-26_Empower Over Power
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2023-12-07_What We're Afraid to Lose (Mandela as the empirical disproof of the conditions people place on freedom; freedom does not require diet, exercise, power, privilege, or wealth)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the compressed first-person form of the Mandela reference ("you can put me in a prison and you can have me bang rocks for a living, and you cannot feed me enough food, and I can still be Nelson Mandela") used in the seven-patterns video as the canonical proof of empowerment for the power-over-empowerment pattern; paired with the Berlin-bombing observation from Joe's college professor to demonstrate the distinction from both directions (the powerful didn't risk themselves; the self-possessed remained self-possessed even when everything was taken)

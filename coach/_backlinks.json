@@ -32,6 +32,7 @@
     "cant-take-the-victim-role-away",
     "dont-use-safety-as-control",
     "verbal-abuse-as-controlling-with-anger",
+    "victim-or-abuser-cycle",
     "empathize-with-fear-under-constricted-boundary",
     "say-ouch",
     "dont-do-emotion-at-people",
@@ -204,6 +205,7 @@
     "three-layers-of-the-work",
     "trigger",
     "verbal-abuse-as-controlling-with-anger",
+    "victim-or-abuser-cycle",
     "complementary-trauma-surfaces",
     "feared-stage-of-relationship-deepening-can-feel-like-things-getting-worse",
     "stages-of-couple-anger-work-maturation",
@@ -214,13 +216,16 @@
     "repair-phrase-as-trauma-deactivator",
     "capital-t-vs-small-t-trauma",
     "disagreement-that-heals-vs-retraumatizes",
+    "ancillary-trauma-needs-processing-too",
     "coach-as-follower-not-director",
     "every-fight-can-bring-you-closer",
     "hold-back-from-relationship-is-what-needs-healing",
     "nervous-system-codes-threats-as-real",
     "regression-in-the-fight-work-is-progress",
     "relationships-as-personal-growth-path",
+    "sharing-trauma-tests-the-listener",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "the-work-is-your-freedom",
     "transformation-requires-a-trustworthy-container",
     "triggers-reveal-your-own-beliefs",
@@ -228,6 +233,7 @@
     "you-can-only-fix-yourself-in-a-fight",
     "hands-on-body-to-regulate-nervous-system",
     "save-your-relationship-three-moves",
+    "stages-of-trauma-processing",
     "esme-basketball-teammate-attention-seeking",
     "joes-friend-yuma-grief-drives",
     "tara-fights-that-destroyed-joes-narcissism",
@@ -415,6 +421,7 @@
     "swap-roles-with-the-younger-self",
     "what-was-really-more-important-than-you",
     "capital-t-vs-small-t-trauma",
+    "feel-over-figure",
     "attempt-over-success-in-parenting",
     "attunement-strategy-becomes-the-adult-relational-pattern",
     "become-unnecessary",
@@ -448,6 +455,7 @@
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-daughter-locates-the-voice",
+    "joes-photo-album-cried-14-years",
     "joes-pleasing-dad-money-story",
     "stone-face-baby-experiment",
     "romantic-relationships",
@@ -881,6 +889,7 @@
     "joes-26-year-old-list",
     "joes-daughter-silent-retreat",
     "joes-godson-vape-pen",
+    "joes-mill-valley-list",
     "joes-stinky-house-experiment",
     "led-by-the-slower-pace-backpacking"
   ],
@@ -1415,6 +1424,7 @@
   ],
   "no-finish-line": [
     "how-do-i-be-happy",
+    "i-achieved-everything-and-im-miserable",
     "i-keep-crashing-and-burning",
     "i-keep-postponing-enjoyment",
     "desire-for-resolution",
@@ -1440,6 +1450,7 @@
     "awakening-as-natural-development",
     "connection-as-life-bottom-line",
     "craving-is-the-pushing-away",
+    "dirty-fuel-vs-clean-fuel",
     "enjoyment-is-the-pacer-for-emotional-inquiry",
     "good-decision-is-how-you-make-it-not-the-outcome",
     "improvement-mindset-vs-maintenance-mindset",
@@ -1455,6 +1466,7 @@
     "notice-and-be-grateful-for-connection",
     "red-flags-of-a-teacher-or-path",
     "seven-limiting-beliefs",
+    "30-million-dollar-house-miserable",
     "joes-first-meditation-retreat",
     "lottery-winners-vs-accident-survivors"
   ],
@@ -1528,6 +1540,7 @@
     "visualize-the-reality-of-leadership",
     "write-the-email-from-empowered",
     "conviction-vs-hardheadedness",
+    "defense-vs-love",
     "fault-vs-responsibility",
     "passive-aggressive-vs-aggressive-aggressive",
     "resources-vs-resourcefulness",
@@ -1550,6 +1563,7 @@
     "feel-love-and-empowerment-as-the-same",
     "5-ways-to-stay-unhappy",
     "fear-triangle",
+    "seven-limiting-beliefs",
     "12-step-helplessness-admission",
     "baboon-leadership-study",
     "joes-hr-call-firing",
@@ -2104,6 +2118,7 @@
   ],
   "name-the-appreciation-arriving-in-the-moment": [
     "how-do-i-create-wealth-and-financial-stability",
+    "dont-institutionalize-appreciation-as-the-cheesecake",
     "when-experiments-become-management",
     "unsafety-as-aliveness-vehicle"
   ],
@@ -2166,6 +2181,7 @@
     "criticism-and-management-make-loved-ones-not-want-to-be-with-you",
     "guilt-cuts-off-natural-compassion",
     "guilt-is-aggression-not-poor-me",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "compassion-as-of-the-guts"
   ],
   "view-as-technique": [
@@ -2188,6 +2204,7 @@
     "apply-view-to-the-voice",
     "fall-in-love-with-the-feared-state-by-modeling-it",
     "name-the-vision-then-name-the-block",
+    "open-your-heart-to-the-other-person",
     "embodied-love-vs-vacuous-presence",
     "contain-the-narcissist",
     "good-and-corruption-cycle",
@@ -2403,6 +2420,7 @@
     "drop-the-hot-potato",
     "enter-inquiry-with-soft-sense-of-self",
     "go-down-the-rabbit-hole-in-your-kids-world",
+    "open-your-heart-to-the-other-person",
     "say-of-course-i-just-want-to-be-seen-here",
     "speak-your-own-elephant-to-surface-theirs",
     "embodied-love-vs-vacuous-presence",
@@ -2685,6 +2703,7 @@
     "awakening-makes-you-more-sensitive-not-less-human",
     "body-lies-as-much-as-mind",
     "conflict-avoidance-prevents-healing",
+    "dirty-fuel-vs-clean-fuel",
     "dont-take-responsibility-for-anothers-happiness",
     "embrace-intensity",
     "embracing-changes-unconscious-decisions",
@@ -2703,8 +2722,11 @@
     "patient-on-the-table",
     "four-tactical-ways-to-feel-your-emotions",
     "head-heart-gut",
+    "seven-limiting-beliefs",
     "stages-of-emotional-development",
     "the-three-games-outer-inner-team",
+    "30-million-dollar-house-miserable",
+    "joes-photo-album-cried-14-years",
     "body-awareness-in-meetings"
   ],
   "company-as-fastest-self-development": [
@@ -3031,6 +3053,7 @@
     "i-want-to-be-authentic-on-stage",
     "im-not-comfortable-sharing-my-story",
     "im-stuck-in-indecision-and-driving-my-partner-crazy",
+    "acute-invisibility-the-magic-trick",
     "body-contradicts-the-words",
     "cutting-off-your-own-authenticity-in-real-time",
     "interrupting-your-own-descent",
@@ -3038,6 +3061,7 @@
     "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "dont-suppress-emotion-to-perform",
     "false-front",
+    "the-eye-of-sauron",
     "ask-whats-wrong-with-you-into-the-shame",
     "bring-the-presenting-problem-into-the-room-now"
   ],
@@ -3119,6 +3143,8 @@
   ],
   "body-cues-of-shame-about-being-seen": [
     "how-do-i-love-myself",
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
     "linguistic-caveat",
     "the-hedge-as-internal-dichotomy-tell",
     "live-naming-the-physical-constriction-of-non-reception",
@@ -3127,6 +3153,8 @@
   ],
   "two-layers-of-shame-about-being-seen": [
     "how-do-i-love-myself",
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
     "body-cues-of-shame-about-being-seen",
     "linguistic-caveat",
     "play-with-not-hedging"
@@ -3478,6 +3506,7 @@
     "go-down-the-rabbit-hole-in-your-kids-world",
     "leader-receives-criticism-with-curiosity",
     "name-your-trigger-as-vulnerability",
+    "open-your-heart-to-the-other-person",
     "push-past-the-protective-frame",
     "take-the-adventure-stance",
     "the-elevator-descent-to-source",
@@ -3582,6 +3611,7 @@
     "how-do-i-navigate-this-uncertain-time",
     "i-have-a-terminal-diagnosis",
     "im-afraid-ill-waste-my-life",
+    "body-language-of-someone-sharing-trauma",
     "psychedelic-of-mortality",
     "ask-from-each-of-the-three-centers"
   ],
@@ -3655,6 +3685,7 @@
     "grief-as-gateway-to-self-love",
     "grief-as-identity-dismantling",
     "helplessness-distinguishes-death-grief",
+    "the-dead-as-conduit-to-non-personal-love",
     "accepting-the-end-empowers-the-yes",
     "cant-chase-someone-into-loving-you",
     "cant-rebuild-trust-without-grieving-the-loss",
@@ -3700,6 +3731,7 @@
     "letting-judgment-in",
     "love-as-deep-welcoming",
     "parenting-as-deep-tissue-massage",
+    "the-dead-as-conduit-to-non-personal-love",
     "apply-trauma-lens-during-role-play",
     "be-intimate-with-the-feeling",
     "claim-the-disowned-identity-aloud-ten-times",
@@ -3855,13 +3887,17 @@
     "someone-i-love-is-dying",
     "self-blame-as-tether-to-the-lost",
     "shame-blocks-connection-in-real-time",
+    "death-as-rip-in-reality",
+    "the-dead-as-conduit-to-non-personal-love",
+    "challenge-the-premise-in-the-framing",
     "give-me-the-sound-of-the-emotion",
     "use-the-live-group-as-love-field",
     "good-decision-is-how-you-make-it-not-the-outcome",
     "if-trust-cant-arrive-grief-isnt-complete",
     "host-a-grief-ceremony-as-community",
     "how-to-release-anger-out-loud",
-    "joes-friend-mourning-the-breakup-flagstaff-to-yuma"
+    "joes-friend-mourning-the-breakup-flagstaff-to-yuma",
+    "the-widow-with-his-photos-still-up"
   ],
   "how-do-i-trust-myself": [
     "how-do-i-stay-open-after-narcissistic-abuse",
@@ -3883,6 +3919,7 @@
     "i-am-and-the-immediate-flight-to-doubt",
     "three-blocks-to-speaking-truth",
     "trust-as-multifaceted",
+    "victim-or-abuser-cycle",
     "what-did-i-do-wrong-response-to-aggression",
     "ask-the-question-as-you-live-your-purpose",
     "demonstrate-the-already-trained-detection",
@@ -3893,6 +3930,7 @@
     "doubt-requires-closed-heart",
     "if-you-think-youre-deciding-youre-in-fear",
     "speaking-truth-cures-approval-seeking",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "what-we-fear-we-invite",
     "chase-your-own-approval"
   ],
@@ -5323,6 +5361,110 @@
     "visualize-through-the-feared-outcome",
     "would-you-sell-your-ability-to-connect"
   ],
+  "i-have-everything-im-waiting-for-the-shoe-to-drop": [
+    "i-achieved-everything-and-im-miserable",
+    "what-makes-it-that-x-became-obligation-instead-of-gift"
+  ],
+  "dirty-fuel-vs-clean-fuel": [
+    "i-achieved-everything-and-im-miserable",
+    "enjoy-over-manage"
+  ],
+  "overachieving-is-survival-mode": [
+    "i-achieved-everything-and-im-miserable",
+    "i-feel-alone-in-rooms-despite-success",
+    "i-feel-misvalued-as-an-overachiever",
+    "which-came-first",
+    "dont-keep-yourself-busy-to-avoid-the-aloneness",
+    "the-desire-to-be-seen",
+    "dirty-fuel-vs-clean-fuel",
+    "of-course-you-had-to-be-numb",
+    "proving-yourself-is-agreeing-youre-not-valuable",
+    "30-million-dollar-house-miserable"
+  ],
+  "30-million-dollar-house-miserable": [
+    "i-achieved-everything-and-im-miserable",
+    "enjoy-over-manage",
+    "dirty-fuel-vs-clean-fuel",
+    "seven-limiting-beliefs"
+  ],
+  "feel-over-figure": [
+    "i-achieved-everything-and-im-miserable",
+    "should-we-have-kids",
+    "dont-jump-to-compassion-before-anger",
+    "emotions-and-stories-dance",
+    "emotions-as-road-signs",
+    "fear-as-signal-of-care",
+    "fear-in-body-vs-fear-in-head",
+    "feel-your-way-to-freedom",
+    "feeling-the-unfelt-emotion",
+    "i-cant-trust-my-thoughts-right-now",
+    "logic-vs-emotional-movement",
+    "unfelt-emotion-leaks",
+    "athletes-unlocking-body-intelligence-in-business",
+    "binary-thinking-signals-fear",
+    "three-signals-of-unfelt-emotion",
+    "ask-the-body-the-question",
+    "the-elevator-descent-to-source",
+    "treat-yourself-as-actor-of-emotion",
+    "what-does-your-heart-say",
+    "intellectual-vs-somatic-welcoming",
+    "judgment-vs-discernment",
+    "reading-about-vs-playing-the-game",
+    "approach-the-pink-elephant",
+    "body-lies-as-much-as-mind",
+    "decisions-are-emotional",
+    "describable-vs-changed",
+    "dont-do-emotion-at-people",
+    "emotional-movement-unsticks-stuckness",
+    "every-no-contains-a-better-answer",
+    "exercises-need-body-voice-emotion",
+    "experiential-before-intellectual",
+    "feeling-changes-story",
+    "identity-changes-on-three-levels",
+    "material-problems-are-emotional-problems",
+    "perceived-certainty-not-actual-certainty",
+    "recognition-feeling-balance-then-call-emerges",
+    "self-judgment-protects-from-emotion",
+    "welcoming-is-somatic-not-verbal",
+    "ask-from-slowness-not-intellect",
+    "daily-emotional-yoga",
+    "emotional-inquiry",
+    "four-hour-emotional-repression-experiment",
+    "gut-impulse-as-direction",
+    "head-heart-gut",
+    "seven-limiting-beliefs",
+    "joes-photo-album-cried-14-years"
+  ],
+  "decisions-from-feeling-state-produce-that-state": [
+    "i-achieved-everything-and-im-miserable",
+    "dirty-fuel-vs-clean-fuel"
+  ],
+  "seven-limiting-beliefs": [
+    "i-achieved-everything-and-im-miserable",
+    "i-have-to-sacrifice-to-succeed",
+    "i-need-to-improve-myself",
+    "art-of-accomplishment",
+    "layers-of-unallowed-self",
+    "limiting-belief",
+    "three-keepers-of-stuck-beliefs",
+    "undoing-not-doing",
+    "belief-you-cant-have-both-a-great-career-and-a-great-marriage",
+    "defense-vs-love",
+    "improvement-vs-authenticity",
+    "address-the-blocker-not-the-symptom",
+    "connection-over-perfection",
+    "dirty-fuel-vs-clean-fuel",
+    "inherent-goodness",
+    "self-improvement-is-shame-inducing",
+    "wants-over-shoulds",
+    "the-change-or-no-change-visualization",
+    "three-month-inherent-goodness-experiment",
+    "four-causes-of-stress",
+    "three-kinds-of-limiting-beliefs",
+    "30-million-dollar-house-miserable",
+    "asshole-at-bodega-bay",
+    "champion-swimmer-belief"
+  ],
   "leadership-is-for-everyone": [
     "i-am-not-a-leader",
     "avoiding-leadership-still-leaves-you-as-the-leader",
@@ -5930,7 +6072,8 @@
     "wants-over-shoulds",
     "hold-stress-tightly-vs-gently-experiment",
     "should-vs-want-body-check",
-    "four-causes-of-stress"
+    "four-causes-of-stress",
+    "joes-mill-valley-list"
   ],
   "collapse-the-special-activity-into-the-ordinary-moment": [
     "i-cant-enter-my-creative-work",
@@ -6476,6 +6619,7 @@
     "im-afraid-i-wont-get-anything-done",
     "im-exhausted-holding-space-for-my-partner",
     "the-more-i-grow-the-more-alone-i-feel",
+    "body-language-of-someone-sharing-trauma",
     "credentialing-as-hedge",
     "im-wrong-youre-right-self-correction",
     "letting-it-in-vs-deflecting-the-welcome",
@@ -6510,6 +6654,7 @@
     "intra-dependent-vs-codependent",
     "loneliness-vs-feeling-alone",
     "a-support-system-creates-you",
+    "ancillary-trauma-needs-processing-too",
     "asking-with-shame-invites-refusal",
     "gratitude-as-acknowledgment-of-greater-force",
     "helplessness-is-the-gateway",
@@ -6764,6 +6909,7 @@
     "contorting-into-someone-elses-framework",
     "purpose-as-approval-seeking-in-disguise",
     "the-answer-is-already-known",
+    "whats-the-gift",
     "apologize-for-contorting-into-frameworks",
     "go-to-your-heart-not-your-brain",
     "purpose-is-how-not-what",
@@ -6882,11 +7028,13 @@
   ],
   "challenge-the-premise-in-the-framing": [
     "i-cant-find-my-purpose",
+    "i-cant-get-over-this-loss",
     "im-not-comfortable-sharing-my-story",
     "seeking-as-the-wall",
     "trying-to-be-comfortable-instead-of-being-uncomfortable",
     "wild-goose-chase-when-the-answer-is-known",
     "feel-the-searching-then-feel-the-opposite",
+    "move-from-story-into-the-body",
     "walk-into-the-discomfort-and-speak-from-there"
   ],
   "fighting-to-be-received": [
@@ -7101,6 +7249,7 @@
   "look-for-friction-not-the-answer": [
     "i-cant-find-my-purpose",
     "how-do-you-want-to-be",
+    "whats-the-gift",
     "purpose-is-an-unfolding-not-a-destination",
     "purpose-asks-you-to-be-scary-then-effortless",
     "purpose-is-recognized-not-found"
@@ -7149,6 +7298,7 @@
     "feel-the-searching-then-feel-the-opposite",
     "go-to-your-heart-not-your-brain",
     "how-question-as-defense-against-having",
+    "move-from-story-into-the-body",
     "improvement-vs-authenticity",
     "am-i-falling-or-flying",
     "describable-vs-changed",
@@ -7552,6 +7702,47 @@
     "how-is-it-not-your-fault-that-its-always-your-fault",
     "breakup-self-blame-session"
   ],
+  "death-is-not-the-end-of-the-relationship": [
+    "i-cant-get-over-this-loss",
+    "someone-i-love-is-dying",
+    "death-as-rip-in-reality",
+    "finite-love-is-precious-love",
+    "the-dead-as-conduit-to-non-personal-love",
+    "acknowledging-death-compresses-life",
+    "say-goodbye-like-its-the-last-time",
+    "bretts-brother-scott",
+    "case-the-consultant",
+    "joes-funeral-poem-for-kase",
+    "the-widow-with-his-photos-still-up"
+  ],
+  "the-widow-with-his-photos-still-up": [
+    "i-cant-get-over-this-loss",
+    "the-dead-as-conduit-to-non-personal-love",
+    "death-is-not-the-end-of-the-relationship"
+  ],
+  "death-as-rip-in-reality": [
+    "i-cant-get-over-this-loss",
+    "the-dead-as-conduit-to-non-personal-love",
+    "move-from-story-into-the-body",
+    "death-is-not-the-end-of-the-relationship",
+    "the-widow-with-his-photos-still-up"
+  ],
+  "the-dead-as-conduit-to-non-personal-love": [
+    "i-cant-get-over-this-loss",
+    "whats-the-gift",
+    "death-as-rip-in-reality",
+    "love-as-deep-welcoming",
+    "challenge-the-premise-in-the-framing",
+    "move-from-story-into-the-body",
+    "death-is-not-the-end-of-the-relationship",
+    "the-widow-with-his-photos-still-up"
+  ],
+  "move-from-story-into-the-body": [
+    "i-cant-get-over-this-loss",
+    "death-as-rip-in-reality",
+    "love-as-deep-welcoming",
+    "the-dead-as-conduit-to-non-personal-love"
+  ],
   "embodied-stages-of-grief-ritual": [
     "i-cant-get-over-this-loss",
     "grief-is-many-emotions-not-just-sadness"
@@ -7696,6 +7887,7 @@
     "turn-the-love-on-yourself-what-did-you-do",
     "seven-limiting-beliefs",
     "team-as-scientific-method",
+    "asshole-at-bodega-bay",
     "hand-in-hand-parenting",
     "musk-deer-parable",
     "the-sensitive-businesswoman-whose-loneliness-died"
@@ -7813,6 +8005,7 @@
     "self-improvement-as-self-annihilation",
     "should-as-threat",
     "soul-dysmorphia",
+    "the-eye-of-sauron",
     "the-inner-board",
     "the-work-as-three-levels-of-change",
     "thoughts-as-management",
@@ -8746,6 +8939,7 @@
   ],
   "fixing-as-avoidance-of-presence": [
     "i-caretake-people",
+    "sharing-trauma-tests-the-listener",
     "what-we-avoid-looking-at-is-where-the-healing-is",
     "fix-everything-woman-anthill-presence-session"
   ],
@@ -9247,6 +9441,7 @@
     "stuck-is-only-ever-stuck-with-thoughts",
     "victim-stance-invites-abuse",
     "where-you-are-is-the-lesson",
+    "seven-limiting-beliefs",
     "subway-kid"
   ],
   "efficiency-as-enjoyment": [
@@ -9257,6 +9452,7 @@
     "lack-of-enjoyment-as-diagnostic",
     "approach-matters-as-much-as-hours",
     "be-a-good-boss-to-yourself",
+    "dirty-fuel-vs-clean-fuel",
     "energy-management-over-time-management",
     "enjoyment-as-path",
     "enjoyment-as-surrender",
@@ -9271,6 +9467,7 @@
     "enjoy-this-just-a-little-bit-more",
     "fifteen-fun-iterations-on-the-stuck-goal",
     "three-stages-of-negotiation",
+    "30-million-dollar-house-miserable",
     "butchers-blade",
     "buurtzorg-nursing",
     "joes-executive-three-things-shift",
@@ -9413,6 +9610,7 @@
     "welcome-the-hurt-the-way-you-wanted-as-a-kid",
     "criticism-and-management-make-loved-ones-not-want-to-be-with-you",
     "guilt-is-aggression-not-poor-me",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "triggers-dissolve-when-you-can-feel-the-emotion-others-fear"
   ],
   "dont-micromanage-your-kid": [
@@ -9514,15 +9712,6 @@
     "three-dynamics-of-feeling-alone-in-the-room",
     "joes-friend-mourning-the-breakup-flagstaff-to-yuma",
     "scottie-scheffler-on-winning"
-  ],
-  "overachieving-is-survival-mode": [
-    "i-feel-alone-in-rooms-despite-success",
-    "i-feel-misvalued-as-an-overachiever",
-    "which-came-first",
-    "dont-keep-yourself-busy-to-avoid-the-aloneness",
-    "the-desire-to-be-seen",
-    "of-course-you-had-to-be-numb",
-    "proving-yourself-is-agreeing-youre-not-valuable"
   ],
   "the-joy-of-accomplishment-is-the-absence-of-wants": [
     "i-feel-alone-in-rooms-despite-success",
@@ -10263,6 +10452,7 @@
     "helplessness-as-cayenne-pepper-of-fear",
     "helplessness-distinguishes-death-grief",
     "self-reliance-pushes-people-away",
+    "victim-or-abuser-cycle",
     "what-emerges-when-self-reliance-drops",
     "one-team-member-holds-the-helplessness",
     "quit-hope-lose-cycle",
@@ -10327,6 +10517,7 @@
   "i-freeze-around-authority": [
     "i-feel-trapped",
     "im-afraid-of-offending-people",
+    "acute-invisibility-the-magic-trick",
     "body-cues-of-shame-about-being-seen",
     "disassociating-in-the-coaching-room",
     "fight-or-roll-over-binary",
@@ -10421,6 +10612,8 @@
   "in-the-story-im-not-being-seen": [
     "i-freeze-around-authority",
     "i-keep-feeling-misunderstood",
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
     "body-cues-of-shame-about-being-seen",
     "chin-up-as-emotion-block",
     "desire-for-resolution",
@@ -10440,6 +10633,7 @@
     "calibrate-the-threshold",
     "give-the-thing-the-game-is-trying-to-win",
     "mirror-the-judgment",
+    "open-your-heart-to-the-other-person",
     "say-of-course-i-just-want-to-be-seen-here",
     "say-the-forbidden-want-out-loud",
     "if-im-not-feeling-seen-im-also-not-seeing"
@@ -10521,12 +10715,15 @@
   "the-desire-to-be-seen": [
     "i-get-anxious-in-relationships",
     "i-want-connection-with-people-im-afraid-will-judge-me",
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
     "body-cues-of-shame-about-being-seen",
     "deflecting-by-pivoting-to-helping-others",
     "in-the-story-im-not-being-seen",
     "whats-the-game",
     "being-heard",
     "false-front",
+    "the-eye-of-sauron",
     "pointers-to-unseen-parts",
     "three-strategies-of-not-belonging",
     "we-make-it-hard-to-be-seen-when-in-our-trauma",
@@ -10534,6 +10731,7 @@
     "i-dont-need-to-be-seen-right-now",
     "i-love-your-frustration",
     "make-everyone-feel-seen-when-things-go-wrong",
+    "open-your-heart-to-the-other-person",
     "say-of-course-i-just-want-to-be-seen-here",
     "wanting-from-lack-vs-wanting-from-wholeness",
     "caring-what-others-think-is-the-burnout-engine",
@@ -10548,6 +10746,7 @@
   ],
   "false-front": [
     "i-get-anxious-in-relationships",
+    "im-scared-to-be-seen",
     "in-the-story-im-not-being-seen",
     "you-cant-get-everyones-approval-anywhere-anytime",
     "grieving-the-self-editor",
@@ -10561,10 +10760,12 @@
   ],
   "you-cant-be-seen-when-youre-not-in-yourself": [
     "i-get-anxious-in-relationships",
+    "im-scared-to-be-seen",
     "abandoning-self-while-speaking",
     "being-heard",
     "listening",
     "the-desire-to-be-seen",
+    "the-eye-of-sauron",
     "two-levels-of-hurt-in-being-misunderstood",
     "bring-the-presenting-problem-into-the-room-now",
     "have-them-receive-your-listening",
@@ -10592,6 +10793,7 @@
     "whats-wrong-with-this-moment",
     "dont-presume-the-person-is-broken",
     "the-desire-to-be-seen",
+    "the-eye-of-sauron",
     "bring-the-presenting-problem-into-the-room-now",
     "feel-into-it-vs-think-about-it",
     "everything-i-touch-fails-drives-fixing",
@@ -10936,6 +11138,7 @@
     "whats-looking-out-behind-my-eyes",
     "four-causes-of-stress",
     "am-i-a-fake-coaching-session",
+    "asshole-at-bodega-bay",
     "island-experiment",
     "mangy-cat-eating-from-the-hand"
   ],
@@ -10981,6 +11184,7 @@
     "grief-is-many-emotions-not-just-sadness",
     "layers-of-unallowed-self",
     "self-reliance-pushes-people-away",
+    "victim-or-abuser-cycle",
     "visceral-clarity-from-anger",
     "endurer-pattern",
     "initial-anger-release-wave",
@@ -10995,8 +11199,11 @@
     "anger-is-love",
     "annihilation-reveals-what-is-real",
     "exhaustion-is-unexpressed-anger",
+    "inherent-longing-for-parent-love-survives-any-abuse",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "the-minds-stories-about-emotions",
     "two-paths-of-trauma-response",
+    "what-cracks-you-open-shows-whats-processable-now",
     "what-we-avoid-looking-at-is-where-the-healing-is",
     "get-angry-in-the-car",
     "emile-three-relationships-with-fear",
@@ -11356,6 +11563,7 @@
     "i-have-imposter-syndrome",
     "does-your-heart-care",
     "how-do-i-do-this-with-an-open-heart",
+    "the-eye-of-sauron",
     "open-hearted-service-vs-codependent-service",
     "doubt-is-self-focus-arrogance-is-self-focus",
     "everyone-doing-something-real-is-an-imposter",
@@ -11510,6 +11718,7 @@
     "unsafety-as-aliveness-vehicle",
     "fall-in-love-with-the-empty-space",
     "name-the-gap-between-felt-story-and-lived-evidence",
+    "empowered-vs-power",
     "external-freedom-vs-internal-freedom",
     "intimate-with-vs-giving-in-to-feeling",
     "knowing-yourself-vs-domesticating-yourself",
@@ -11619,6 +11828,7 @@
     "subconscious-partner-selection",
     "the-matrix",
     "trappedness-feeling",
+    "victim-or-abuser-cycle",
     "believing-the-convenient-lie",
     "complementary-trauma-surfaces",
     "identity-reproduces-childhood-stress-levels",
@@ -11642,11 +11852,13 @@
     "every-trigger-with-your-kid-is-projection",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "identity-shapes-who-is-around-you",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "inner-work-as-generational-repair",
     "mourn-the-breakup-fully",
     "relationships-as-personal-growth-path",
     "self-abandonment-to-manage-the-other",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "trauma-is-present-experienced-as-past",
     "two-paths-of-trauma-response",
     "wanting-got-wired-to-unlovability",
@@ -11921,28 +12133,6 @@
     "authenticity-in-business",
     "business-as-spiritual-practice",
     "corporate-stack-of-mutual-misreading"
-  ],
-  "seven-limiting-beliefs": [
-    "i-have-to-sacrifice-to-succeed",
-    "i-need-to-improve-myself",
-    "art-of-accomplishment",
-    "layers-of-unallowed-self",
-    "limiting-belief",
-    "three-keepers-of-stuck-beliefs",
-    "undoing-not-doing",
-    "belief-you-cant-have-both-a-great-career-and-a-great-marriage",
-    "defense-vs-love",
-    "improvement-vs-authenticity",
-    "address-the-blocker-not-the-symptom",
-    "connection-over-perfection",
-    "inherent-goodness",
-    "self-improvement-is-shame-inducing",
-    "wants-over-shoulds",
-    "the-change-or-no-change-visualization",
-    "three-month-inherent-goodness-experiment",
-    "four-causes-of-stress",
-    "three-kinds-of-limiting-beliefs",
-    "champion-swimmer-belief"
   ],
   "holding-back-power-is-holding-back-joy": [
     "i-hold-back-because-it-feels-aggressive",
@@ -12343,6 +12533,7 @@
     "trigger",
     "unfelt-emotion-leaks",
     "upright-apology",
+    "victim-or-abuser-cycle",
     "visceral-clarity-from-anger",
     "voice-as-guide-to-unhealed-places",
     "walking-around-thinking-im-no-good-is-the-stress",
@@ -12408,6 +12599,7 @@
     "recognition-driven-vs-should-driven-change",
     "suffering-vs-pain",
     "welcoming-vs-acceptance",
+    "ancillary-trauma-needs-processing-too",
     "approach-the-pink-elephant",
     "awareness-of-pain-stops-the-behavior",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
@@ -12439,6 +12631,8 @@
     "honor-the-patterns-intent",
     "identity-changes-on-three-levels",
     "if-trust-cant-arrive-grief-isnt-complete",
+    "inherent-longing-for-parent-love-survives-any-abuse",
+    "joking-about-trauma-is-a-processing-stage",
     "looking-for-a-fight-means-self-disconnection",
     "love-surfaces-the-unloved",
     "management-is-for-shame-love-needs-no-management",
@@ -12458,6 +12652,7 @@
     "sustained-fear-requires-post-hoc-processing",
     "tears-dont-disturb-the-refuge",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "the-pattern-is-not-personal",
     "three-stages-of-the-blame-path",
     "trauma-is-present-experienced-as-past",
@@ -12466,6 +12661,7 @@
     "two-paths-of-trauma-response",
     "unprocessed-grief-creates-conflict",
     "unwelcomed-emotions-return-until-felt",
+    "what-cracks-you-open-shows-whats-processable-now",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
     "you-cant-let-go-of-emotions-only-thoughts",
@@ -12508,11 +12704,13 @@
     "four-causes-of-stress",
     "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
+    "stages-of-trauma-processing",
     "three-kinds-of-limiting-beliefs",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-friend-yuma-grief-drives",
+    "joes-photo-album-cried-14-years",
     "joes-pot-habit",
     "joes-rental-house-anger",
     "target-fixation",
@@ -12656,6 +12854,7 @@
     "be-a-good-boss-to-yourself",
     "change-the-approach-not-the-target",
     "consciousness-is-the-product",
+    "dirty-fuel-vs-clean-fuel",
     "efficiency-as-enjoyment",
     "enjoyment-as-path",
     "inherent-goodness",
@@ -12666,6 +12865,8 @@
     "speak-to-the-problem-without-solving-it",
     "stress-from-not-doing-the-thing",
     "listening-to-impulse",
+    "seven-limiting-beliefs",
+    "30-million-dollar-house-miserable",
     "butchers-blade",
     "creative-career-story",
     "joes-stinky-house-experiment",
@@ -12846,6 +13047,7 @@
     "whats-the-thing-you-dont-know-how-to-do",
     "interrupt-the-abstract-with-a-specific",
     "just-go-do-the-thing-stop-asking-permission",
+    "move-from-story-into-the-body",
     "reject-all-the-stories"
   ],
   "complicating-it-as-the-distraction": [
@@ -13281,9 +13483,11 @@
   ],
   "what-do-i-really-need-right-now": [
     "i-keep-picking-fights-with-my-partner",
+    "im-scared-to-be-seen",
     "everything-i-say-they-contradict",
     "what-am-i-not-feeling-right-now",
     "go-to-separate-rooms-and-yell",
+    "open-your-heart-to-the-other-person",
     "kids-release-emotions-where-they-feel-safe",
     "looking-for-a-fight-means-self-disconnection",
     "the-contradict-myself-test"
@@ -13317,6 +13521,7 @@
     "soul-dysmorphia",
     "trappedness-feeling",
     "unfelt-emotion-leaks",
+    "victim-or-abuser-cycle",
     "doubt-driven-urgency-as-fake-confidence",
     "endurer-pattern",
     "initial-anger-release-wave",
@@ -13355,6 +13560,7 @@
     "emotions-are-neutral-bad-because-of-use",
     "exercises-need-body-voice-emotion",
     "exhaustion-is-unexpressed-anger",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "kids-release-emotions-where-they-feel-safe",
     "kids-respond-to-emotional-presence-not-words",
     "looking-for-a-fight-means-self-disconnection",
@@ -13467,6 +13673,8 @@
     "redirect-from-stay-or-leave-to-self-love",
     "treat-them-like-an-adult",
     "use-your-strength-on-the-real-work",
+    "enjoy-over-manage",
+    "dirty-fuel-vs-clean-fuel",
     "endurance-blocks-transformation",
     "enjoyment-as-path",
     "enjoyment-attracts",
@@ -13507,6 +13715,7 @@
     "the-shame-avoidance-loop",
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "drop-the-hot-potato",
+    "open-your-heart-to-the-other-person",
     "state-no-wish-for-their-shame",
     "welcome-the-shame-without-extracting",
     "natural-shame-vs-installed-shame",
@@ -13522,6 +13731,7 @@
     "shame-drives-behavior",
     "shame-is-anger-turned-inward",
     "superiority-and-shame-erode-together",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "wanting-got-wired-to-unlovability",
     "15-minutes-of-self-love-physical-therapy-for-the-heart",
     "list-the-shames-you-avoided",
@@ -13887,7 +14097,8 @@
     "the-protector-sibling-staying-out-of-the-line-of-fire",
     "repair-phrase-as-trauma-deactivator",
     "the-fight-is-asking-you-to-feel-what-you-couldnt",
-    "trauma-is-present-experienced-as-past"
+    "trauma-is-present-experienced-as-past",
+    "stages-of-trauma-processing"
   ],
   "the-fight-is-asking-you-to-feel-what-you-couldnt": [
     "i-lose-myself-in-the-fight",
@@ -14077,13 +14288,15 @@
     "attunement-strategy-becomes-the-adult-relational-pattern",
     "dont-coach-if-you-have-a-choice",
     "imposter-syndrome-only-attaches-to-performance-identities",
+    "joking-about-trauma-is-a-processing-stage",
     "kids-shouldnt-caretake-the-parent",
     "wanting-got-wired-to-unlovability",
     "comedian-to-coach-money-shame-session",
     "jerry-and-the-lawyer-who-cried"
   ],
   "comedian-to-coach-money-shame-session": [
-    "i-make-money-only-when-i-hate-what-im-doing"
+    "i-make-money-only-when-i-hate-what-im-doing",
+    "joking-about-trauma-is-a-processing-stage"
   ],
   "joes-pleasing-dad-money-story": [
     "i-make-money-only-when-i-hate-what-im-doing",
@@ -14974,14 +15187,17 @@
     "allow-mistakes-as-the-cost-of-real-delegation",
     "excuses-lower-confidence-falling-down-raises-it",
     "it-just-isnt-a-match",
-    "leader-doesnt-take-care-of-everybody"
+    "leader-doesnt-take-care-of-everybody",
+    "team-accountability-not-coach-accountability"
   ],
   "leader-doesnt-take-care-of-everybody": [
     "i-want-to-delegate-better",
+    "dont-institutionalize-appreciation-as-the-cheesecake",
     "allow-mistakes-as-the-cost-of-real-delegation",
     "excuses-lower-confidence-falling-down-raises-it",
     "hire-people-who-can-do-the-job-better-than-you",
-    "it-just-isnt-a-match"
+    "it-just-isnt-a-match",
+    "team-accountability-not-coach-accountability"
   ],
   "hire-people-who-can-do-the-job-better-than-you": [
     "i-want-to-delegate-better",
@@ -15001,6 +15217,7 @@
     "i-want-to-delegate-better",
     "ask-how-do-i-change-this-so-it-never-happens-again",
     "design-the-interactions-and-the-productivity-takes-care-of-itself",
+    "spit-at-the-top-is-a-waterfall-at-the-bottom",
     "block-calendar-time-for-hard-conversations",
     "open-the-drawer-as-shared-verb",
     "require-an-action-at-the-end-of-every-email"
@@ -15021,6 +15238,7 @@
   ],
   "block-calendar-time-for-hard-conversations": [
     "i-want-to-delegate-better",
+    "dont-institutionalize-appreciation-as-the-cheesecake",
     "ask-the-three-accountability-questions",
     "leader-doesnt-take-care-of-everybody"
   ],
@@ -15047,6 +15265,7 @@
     "i-want-to-reconnect-with-estranged-parents-but-im-scared",
     "heartbreak-is-the-love-underneath-the-blockers",
     "coach-demonstrates-via-reversed-role-play",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "love-the-emotion-and-be-boundaried-with-it",
     "parent-criticism-as-self-talk"
   ],
@@ -15584,6 +15803,7 @@
     "imagine-you-are-not-responsible-thought-experiment",
     "let-the-body-catch-up",
     "mark-it-and-return-later",
+    "move-from-story-into-the-body",
     "name-the-shift-everyone-felt",
     "point-at-the-present-evidence",
     "pour-the-love-at-the-threat",
@@ -15800,6 +16020,8 @@
     "humility",
     "the-hollowing-out-process",
     "leadership-requires-closed-heart-inheritance",
+    "defense-vs-love",
+    "empowered-vs-power",
     "humility-vs-disempowerment",
     "improvement-vs-authenticity",
     "love-requires-empowerment",
@@ -15979,9 +16201,13 @@
   ],
   "soul-dysmorphia": [
     "im-depressed",
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
     "self-criticism-kicks-in-when-invited-to-see-yourself",
     "depression-four-levels",
+    "the-eye-of-sauron",
     "symptoms-of-depression",
+    "open-your-heart-to-the-other-person",
     "redirect-from-being-seen-by-them-to-seeing-yourself",
     "symptoms-vs-root-causes-of-depression"
   ],
@@ -16085,6 +16311,7 @@
     "loving-all-parts",
     "permission-the-loud-expression-fuck-the-constraint",
     "enjoyment-is-the-pacer-for-emotional-inquiry",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "worry-is-a-sign-of-devotion"
   ],
   "nothing-to-lose-is-freedom": [
@@ -16669,6 +16896,84 @@
     "stress-as-rejection-of-stress",
     "esme-math-final"
   ],
+  "eastern-european-tall-poppy-client": [
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick"
+  ],
+  "acute-invisibility-the-magic-trick": [
+    "im-scared-to-be-seen",
+    "open-your-heart-to-the-other-person"
+  ],
+  "exposure-as-cure-for-shame-around-being-seen": [
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick",
+    "open-your-heart-to-the-other-person"
+  ],
+  "deflection-onto-others-needs": [
+    "im-scared-to-be-seen"
+  ],
+  "eye-of-sauron-turned-inward": [
+    "im-scared-to-be-seen"
+  ],
+  "head-heart-gut": [
+    "im-scared-to-be-seen",
+    "anxiety-three-definitions",
+    "depression-four-levels",
+    "energetic-system-as-fourth-layer",
+    "fear-in-body-vs-fear-in-head",
+    "helplessness-as-cayenne-pepper-of-fear",
+    "listening",
+    "measuring-transformation-across-three-brains",
+    "polyvagal-nervous-system-framing",
+    "sense-of-time-expansion",
+    "story",
+    "the-work-as-three-levels-of-change",
+    "three-layers-of-the-work",
+    "athletes-unlocking-body-intelligence-in-business",
+    "highly-logical-more-inconsistent",
+    "intellectual-emotional-polarization-in-couples",
+    "ask-from-each-of-the-three-centers",
+    "ask-the-body-the-question",
+    "what-does-your-heart-say",
+    "intuition-vs-conditioning",
+    "body-as-hack-to-presence",
+    "body-lies-as-much-as-mind",
+    "identity-changes-on-three-levels",
+    "kids-respond-to-emotional-presence-not-words",
+    "self-connection-catches-meeting-friction",
+    "take-access-points-wherever-you-can-get-them",
+    "ask-from-slowness-not-intellect",
+    "gut-impulse-as-direction",
+    "progressive-somatic-awareness-build",
+    "staying-in-your-body",
+    "view-as-meditation-pointer",
+    "three-paths-of-awakening",
+    "body-awareness-in-meetings"
+  ],
+  "dont-should-yourself-into-being-seen": [
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick"
+  ],
+  "ask-how-do-i-want-to-behave-to-be-proud": [
+    "im-scared-to-be-seen",
+    "open-your-heart-to-the-other-person"
+  ],
+  "vulnerable-truth-vs-rehearsed-truth": [
+    "im-scared-to-be-seen"
+  ],
+  "direct-attention-to-counter-evidence-the-pucker-as-truth-detector": [
+    "im-scared-to-be-seen"
+  ],
+  "open-your-heart-to-the-other-person": [
+    "im-scared-to-be-seen",
+    "acute-invisibility-the-magic-trick"
+  ],
+  "loneliness-cured-by-showing-up-as-yourself-fast": [
+    "im-scared-to-be-seen"
+  ],
+  "recognizing-self-treatment-produces-grief": [
+    "im-scared-to-be-seen"
+  ],
   "stress-as-rejection-of-stress": [
     "im-so-stressed-out",
     "dont-love-stress-to-make-it-go-away",
@@ -17011,8 +17316,10 @@
     "should-as-threat",
     "walking-around-thinking-im-no-good-is-the-stress",
     "shame-drives-behavior",
+    "wants-over-shoulds",
     "notice-where-you-shame-yourself-be-gentle",
-    "joes-26-year-old-list"
+    "joes-26-year-old-list",
+    "joes-mill-valley-list"
   ],
   "reframe-the-question-to-the-blocker-emotion": [
     "ive-been-trying-to-change-this-for-years",
@@ -17286,6 +17593,7 @@
   "dont-fight-the-voice": [
     "my-inner-critic-wont-stop",
     "passive-aggression-toward-self",
+    "the-eye-of-sauron",
     "the-work-as-three-levels-of-change",
     "voice-as-care",
     "voice-as-guide-to-unhealed-places",
@@ -17488,7 +17796,9 @@
     "my-partner-is-going-through-something",
     "normalize-the-experience-its-happened-to-others",
     "contact-with-greatness-shows-whats-possible",
-    "ground-the-body-during-awakening"
+    "sharing-trauma-tests-the-listener",
+    "ground-the-body-during-awakening",
+    "stages-of-trauma-processing"
   ],
   "stories-are-developmental-scaffolding": [
     "parts-work-made-things-worse",
@@ -17544,6 +17854,7 @@
     "relationships-as-test-of-endurance",
     "treating-it-as-a-decision-when-its-an-emotion",
     "endurer-pattern",
+    "frame-the-endurer-with-strength-not-sympathy",
     "surface-the-spectrum-of-presence-in-real-time",
     "endurance-blocks-transformation"
   ],
@@ -17553,6 +17864,7 @@
     "apply-enjoy-to-whats-here",
     "lack-of-enjoyment-as-diagnostic",
     "use-your-strength-on-the-real-work",
+    "enjoy-over-manage",
     "approach-matters-as-much-as-hours",
     "consciousness-is-the-product",
     "endurance-blocks-transformation",
@@ -17650,51 +17962,6 @@
     "enjoyment-as-path",
     "joes-calling-to-have-kids"
   ],
-  "feel-over-figure": [
-    "should-we-have-kids",
-    "dont-jump-to-compassion-before-anger",
-    "emotions-and-stories-dance",
-    "emotions-as-road-signs",
-    "fear-as-signal-of-care",
-    "fear-in-body-vs-fear-in-head",
-    "feel-your-way-to-freedom",
-    "feeling-the-unfelt-emotion",
-    "i-cant-trust-my-thoughts-right-now",
-    "logic-vs-emotional-movement",
-    "unfelt-emotion-leaks",
-    "athletes-unlocking-body-intelligence-in-business",
-    "binary-thinking-signals-fear",
-    "three-signals-of-unfelt-emotion",
-    "ask-the-body-the-question",
-    "the-elevator-descent-to-source",
-    "treat-yourself-as-actor-of-emotion",
-    "what-does-your-heart-say",
-    "intellectual-vs-somatic-welcoming",
-    "judgment-vs-discernment",
-    "reading-about-vs-playing-the-game",
-    "approach-the-pink-elephant",
-    "body-lies-as-much-as-mind",
-    "decisions-are-emotional",
-    "describable-vs-changed",
-    "dont-do-emotion-at-people",
-    "emotional-movement-unsticks-stuckness",
-    "every-no-contains-a-better-answer",
-    "exercises-need-body-voice-emotion",
-    "experiential-before-intellectual",
-    "feeling-changes-story",
-    "identity-changes-on-three-levels",
-    "material-problems-are-emotional-problems",
-    "perceived-certainty-not-actual-certainty",
-    "recognition-feeling-balance-then-call-emerges",
-    "self-judgment-protects-from-emotion",
-    "welcoming-is-somatic-not-verbal",
-    "ask-from-slowness-not-intellect",
-    "daily-emotional-yoga",
-    "emotional-inquiry",
-    "four-hour-emotional-repression-experiment",
-    "gut-impulse-as-direction",
-    "head-heart-gut"
-  ],
   "losing-yourself-in-others": [
     "someone-i-love-has-mental-health-issues",
     "view-as-technique",
@@ -17748,15 +18015,6 @@
     "transformation-happens-in-uncertainty",
     "say-goodbye-like-its-the-last-time",
     "joes-covid-creative-explosion"
-  ],
-  "death-is-not-the-end-of-the-relationship": [
-    "someone-i-love-is-dying",
-    "finite-love-is-precious-love",
-    "acknowledging-death-compresses-life",
-    "say-goodbye-like-its-the-last-time",
-    "bretts-brother-scott",
-    "case-the-consultant",
-    "joes-funeral-poem-for-kase"
   ],
   "say-goodbye-like-its-the-last-time": [
     "someone-i-love-is-dying"
@@ -18246,11 +18504,13 @@
     "we-have-built-up-resentment",
     "hiding-as-control-of-partner-emotion",
     "parenting-as-real-world-test-of-inner-work",
+    "how-to-receive-someones-trauma-sharing",
     "send-the-message-that-youre-whole",
     "caring-vs-caretaking",
     "being-with-without-needing-change-as-highest-generosity",
     "coach-as-follower-not-director",
-    "do-the-work-thats-harder-for-you"
+    "do-the-work-thats-harder-for-you",
+    "sharing-trauma-tests-the-listener"
   ],
   "weekly-tension-inventory": [
     "we-have-built-up-resentment",
@@ -18818,10 +19078,15 @@
     "what-happens-right-before-you-go-into-the-pattern",
     "putting-someone-above-blocks-emotion",
     "the-feeling-resolves-when-you-stop-questioning-it",
+    "what-cracks-you-open-shows-whats-processable-now",
     "what-the-mind-fears-feelings-will-do-vs-what-they-actually-do"
   ],
   "indulge-vs-welcoming": [
     "acceptance-without-love"
+  ],
+  "im-scared-to-be-seen": [
+    "acute-invisibility-the-magic-trick",
+    "open-your-heart-to-the-other-person"
   ],
   "name-the-pattern-as-its-happening": [
     "body-contradicts-the-words",
@@ -18846,13 +19111,51 @@
     "im-wrong-youre-right-self-correction",
     "reading-from-notes-or-script",
     "seeking-the-young-help-by-having-a-problem",
-    "story-of-suffering-persists-over-moments-of-relief"
+    "story-of-suffering-persists-over-moments-of-relief",
+    "move-from-story-into-the-body"
   ],
   "name-the-look-down": [
     "body-cues-of-shame-about-being-seen"
   ],
   "i-want-to-be-seen-but-i-hide": [
     "body-cues-of-shame-about-being-seen"
+  ],
+  "sharing-trauma-tests-the-listener": [
+    "body-language-of-someone-sharing-trauma"
+  ],
+  "what-cracks-you-open-shows-whats-processable-now": [
+    "body-language-of-someone-sharing-trauma",
+    "inherent-longing-for-parent-love-survives-any-abuse",
+    "stages-of-trauma-processing"
+  ],
+  "ancillary-trauma-needs-processing-too": [
+    "body-language-of-someone-sharing-trauma",
+    "what-cracks-you-open-shows-whats-processable-now",
+    "stages-of-trauma-processing"
+  ],
+  "my-partner-is-going-through-something": [
+    "body-language-of-someone-sharing-trauma",
+    "resisting-vs-allowing-the-experience",
+    "surrogate-of-care-instead-of-real-care",
+    "normalize-the-experience-its-happened-to-others"
+  ],
+  "stages-of-trauma-processing": [
+    "body-language-of-someone-sharing-trauma",
+    "ancillary-trauma-needs-processing-too",
+    "inherent-longing-for-parent-love-survives-any-abuse",
+    "joking-about-trauma-is-a-processing-stage",
+    "sharing-trauma-tests-the-listener",
+    "what-cracks-you-open-shows-whats-processable-now"
+  ],
+  "how-to-receive-someones-trauma-sharing": [
+    "body-language-of-someone-sharing-trauma",
+    "victim-or-abuser-cycle",
+    "frame-the-endurer-with-strength-not-sympathy",
+    "ancillary-trauma-needs-processing-too",
+    "joking-about-trauma-is-a-processing-stage",
+    "sharing-trauma-tests-the-listener",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
+    "stages-of-trauma-processing"
   ],
   "knowing-yourself-vs-domesticating-yourself": [
     "breath-to-self-regulate-instead-of-feel",
@@ -18910,18 +19213,25 @@
   "endurer-pattern": [
     "cant-receive-too-good-love",
     "speed-bumping",
+    "trauma-mapping",
+    "victim-or-abuser-cycle",
     "keep-the-heart-open-and-repeat-the-truth",
+    "ancillary-trauma-needs-processing-too",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "love-pattern-mimics-childhood-love-pattern",
     "shame-is-anger-turned-inward",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
     "trust-building-before-exposure",
     "two-paths-of-trauma-response",
     "what-we-avoid-looking-at-is-where-the-healing-is",
+    "stages-of-trauma-processing",
     "good-will-hunting-its-not-your-fault"
   ],
   "speed-bumping": [
     "cant-receive-too-good-love",
     "endurer-pattern",
     "keep-the-heart-open-and-repeat-the-truth",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "good-will-hunting-its-not-your-fault"
   ],
   "say-ouch": [
@@ -19443,6 +19753,7 @@
   "follow-wonder-flag-the-deflection": [
     "intellectualizing-as-the-form-of-control",
     "mark-it-and-return-later",
+    "open-your-heart-to-the-other-person",
     "surface-the-assumed-dichotomy",
     "coach-as-follower-not-director",
     "follow-where-the-client-points",
@@ -19773,11 +20084,6 @@
     "awakening-can-make-emotional-healing-harder",
     "awakening-is-stateless-state"
   ],
-  "my-partner-is-going-through-something": [
-    "resisting-vs-allowing-the-experience",
-    "surrogate-of-care-instead-of-real-care",
-    "normalize-the-experience-its-happened-to-others"
-  ],
   "defensiveness-as-identity-signal": [
     "scorecard-keeping-as-identity-structure",
     "what-do-you-lose-if-this-belief-goes-away",
@@ -20076,6 +20382,7 @@
     "two-ways-leaders-hold-uncertainty",
     "fear-as-signal-of-care",
     "helplessness-as-cayenne-pepper-of-fear",
+    "the-eye-of-sauron",
     "two-words-for-fear",
     "binary-thinking-signals-fear",
     "read-anger-and-help-as-fear",
@@ -20296,7 +20603,8 @@
     "improvement-vs-authenticity",
     "play-to-win-not-to-not-lose",
     "dissolution-not-behavior-control",
-    "wanting-is-aliveness"
+    "wanting-is-aliveness",
+    "wants-over-shoulds"
   ],
   "the-universe-would-fuck-you-hard": [
     "how-joyful-is-that-search"
@@ -20414,6 +20722,7 @@
   ],
   "expanding-sense-of-self": [
     "what-do-you-lose-if-this-belief-goes-away",
+    "death-as-rip-in-reality",
     "grief-as-identity-dismantling",
     "holding-contrary-beliefs-as-development",
     "identity-extension-expands-fear",
@@ -20422,6 +20731,7 @@
     "parenting-as-deep-tissue-massage",
     "self-realization",
     "sense-of-time-expansion",
+    "the-dead-as-conduit-to-non-personal-love",
     "despondency-as-first-reaction-to-no-self-definition",
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "aloneness-vs-loneliness",
@@ -20505,9 +20815,6 @@
     "visualizing-feared-outcomes",
     "brett-wingsuit-girlfriend-thought"
   ],
-  "i-have-everything-im-waiting-for-the-shoe-to-drop": [
-    "what-makes-it-that-x-became-obligation-instead-of-gift"
-  ],
   "dont-make-it-your-job-to-prevent-their-triggers": [
     "what-makes-you-care-about-their-emotional-state",
     "creating-safety-suppresses-self",
@@ -20571,7 +20878,11 @@
     "functional-team",
     "set-solution-criteria-have-the-team-solve-within-them",
     "all-disagreements-come-from-two-questions",
-    "leaders-wants-are-the-organizations-wants"
+    "leaders-wants-are-the-organizations-wants",
+    "team-accountability-not-coach-accountability"
+  ],
+  "what-makes-it-that-x-became-obligation-instead-of-gift": [
+    "whats-the-gift"
   ],
   "whats-the-scariest-question-to-ask": [
     "whats-the-question"
@@ -21188,6 +21499,7 @@
     "meditation-as-welcoming-not-management",
     "open-the-heart-to-the-doubt",
     "welcome-the-pattern-by-naming-its-brilliance",
+    "defense-vs-love",
     "embrace-vs-brace",
     "love-the-anxiety-not-just-with-it",
     "acceptance-as-change-strategy",
@@ -21203,6 +21515,7 @@
     "welcoming-the-trait-stops-producing-it",
     "daily-gratitude-for-your-own-transformation",
     "notice-where-you-shame-yourself-be-gentle",
+    "asshole-at-bodega-bay",
     "romantic-relationships"
   ],
   "layered-resistance": [
@@ -21259,6 +21572,57 @@
   ],
   "dont-dismiss-exercise-before-doing-it": [
     "dont-half-ass-the-experiment"
+  ],
+  "leaders-wants-are-the-organizations-wants": [
+    "dont-institutionalize-appreciation-as-the-cheesecake",
+    "dont-reflect-your-patterns-as-culture",
+    "functional-team",
+    "sublimated-wants-become-politics",
+    "trust-as-multifaceted",
+    "chameleon-leadership",
+    "everyone-is-pretending",
+    "ask-for-help-with-specifics",
+    "listen-to-objections-before-deciding",
+    "set-solution-criteria-have-the-team-solve-within-them",
+    "visualize-the-reality-of-leadership",
+    "write-to-your-team-like-a-marketing-email",
+    "all-disagreements-come-from-two-questions",
+    "asking-with-shame-invites-refusal",
+    "everybody-wants-the-same-kind-of-team",
+    "focus-on-the-first-domino",
+    "if-you-dont-stand-into-authority-others-will-vie-for-it",
+    "leader-doesnt-take-care-of-everybody",
+    "leaders-calm-becomes-the-teams-calm",
+    "owning-your-wants-is-better-care",
+    "responsibility-and-authority-go-together",
+    "speak-to-the-problem-without-solving-it",
+    "spit-at-the-top-is-a-waterfall-at-the-bottom",
+    "we-follow-leadership-not-blame",
+    "block-calendar-time-for-hard-conversations",
+    "require-an-action-at-the-end-of-every-email",
+    "rollout-principles-in-organization",
+    "save-leadership-framework",
+    "aristotle-project",
+    "healthcare-ceo-turnaround",
+    "family-as-team",
+    "reducing-overwhelm-in-organizations",
+    "vulnerability-in-the-workplace"
+  ],
+  "dont-reflect-your-patterns-as-culture": [
+    "dont-institutionalize-appreciation-as-the-cheesecake",
+    "identity",
+    "toxic-niceness",
+    "ask-how-do-i-change-this-so-it-never-happens-again",
+    "culture-outside-mirrors-culture-inside",
+    "identity-shapes-who-is-around-you",
+    "leaders-calm-becomes-the-teams-calm",
+    "spit-at-the-top-is-a-waterfall-at-the-bottom",
+    "unconscious-principles-run-your-life",
+    "wrestle-with-your-principles",
+    "gratitude-rounds-before-meetings",
+    "rollout-principles-in-organization",
+    "team-as-scientific-method",
+    "reducing-overwhelm-in-organizations"
   ],
   "convert-thought-to-time-bounded-listening": [
     "dont-jump-to-compassion-before-anger",
@@ -21373,6 +21737,7 @@
     "meditation-as-welcoming-not-management",
     "resistance",
     "shame-stagnates-emotion",
+    "the-dead-as-conduit-to-non-personal-love",
     "three-layers-of-the-work",
     "voice-as-care",
     "wisdom-of-each-emotion",
@@ -21381,6 +21746,7 @@
     "have-partner-state-the-welcome-aloud",
     "its-okay-to-run-no-judgment",
     "love-the-worst-feeling-part-like-your-parents-should-have",
+    "move-from-story-into-the-body",
     "send-the-message-that-youre-whole",
     "take-contrary-action",
     "transfer-the-receiving-from-them-to-yourself",
@@ -21474,6 +21840,23 @@
     "endurance-blocks-transformation",
     "base-jumping-broken-hand-gratitude",
     "teeth-cleaning-metaphor"
+  ],
+  "frame-the-endurer-with-strength-not-sympathy": [
+    "dont-make-the-endurer-feel-small-with-sympathy",
+    "endurer-pattern",
+    "how-to-receive-someones-trauma-sharing",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "sharing-trauma-tests-the-listener",
+    "two-paths-of-trauma-response"
+  ],
+  "sorry-from-shame-vs-sorry-as-solidarity": [
+    "dont-make-the-endurer-feel-small-with-sympathy",
+    "upright-apology",
+    "forms-of-dysfunctional-apology",
+    "apologize-for-trying-to-control",
+    "apologize-to-exit-a-fight",
+    "fault-vs-responsibility",
+    "dont-use-you-in-an-apology"
   ],
   "kids-respond-to-emotional-presence-not-words": [
     "dont-manage-your-kids-into-moving-emotion",
@@ -21797,40 +22180,6 @@
     "family-as-team",
     "reducing-overwhelm-in-organizations"
   ],
-  "leaders-wants-are-the-organizations-wants": [
-    "dont-reflect-your-patterns-as-culture",
-    "functional-team",
-    "sublimated-wants-become-politics",
-    "trust-as-multifaceted",
-    "chameleon-leadership",
-    "everyone-is-pretending",
-    "ask-for-help-with-specifics",
-    "listen-to-objections-before-deciding",
-    "set-solution-criteria-have-the-team-solve-within-them",
-    "visualize-the-reality-of-leadership",
-    "write-to-your-team-like-a-marketing-email",
-    "all-disagreements-come-from-two-questions",
-    "asking-with-shame-invites-refusal",
-    "everybody-wants-the-same-kind-of-team",
-    "focus-on-the-first-domino",
-    "if-you-dont-stand-into-authority-others-will-vie-for-it",
-    "leader-doesnt-take-care-of-everybody",
-    "leaders-calm-becomes-the-teams-calm",
-    "owning-your-wants-is-better-care",
-    "responsibility-and-authority-go-together",
-    "speak-to-the-problem-without-solving-it",
-    "spit-at-the-top-is-a-waterfall-at-the-bottom",
-    "we-follow-leadership-not-blame",
-    "block-calendar-time-for-hard-conversations",
-    "require-an-action-at-the-end-of-every-email",
-    "rollout-principles-in-organization",
-    "save-leadership-framework",
-    "aristotle-project",
-    "healthcare-ceo-turnaround",
-    "family-as-team",
-    "reducing-overwhelm-in-organizations",
-    "vulnerability-in-the-workplace"
-  ],
   "structure-and-empowerment": [
     "dont-reflect-your-patterns-as-culture",
     "functional-team",
@@ -21966,6 +22315,7 @@
     "coach-personality-determines-style",
     "no-attachment-to-the-outcome",
     "cant-remember-what-i-said-in-flow",
+    "how-to-receive-someones-trauma-sharing",
     "coach-as-follower-not-director",
     "coaches-foundation-self-awareness",
     "contact-with-greatness-shows-whats-possible",
@@ -22163,7 +22513,8 @@
     "echo-chamber-of-the-single-support-group",
     "support-system",
     "shared-purpose-not-shared-proximity",
-    "teach-to-integrate"
+    "teach-to-integrate",
+    "team-accountability-not-coach-accountability"
   ],
   "identity-shapes-who-is-around-you": [
     "echo-chamber-of-the-single-support-group",
@@ -22535,40 +22886,6 @@
     "shame-hot-potato",
     "get-angry-in-the-car"
   ],
-  "head-heart-gut": [
-    "anxiety-three-definitions",
-    "depression-four-levels",
-    "energetic-system-as-fourth-layer",
-    "fear-in-body-vs-fear-in-head",
-    "helplessness-as-cayenne-pepper-of-fear",
-    "listening",
-    "measuring-transformation-across-three-brains",
-    "polyvagal-nervous-system-framing",
-    "sense-of-time-expansion",
-    "story",
-    "the-work-as-three-levels-of-change",
-    "three-layers-of-the-work",
-    "athletes-unlocking-body-intelligence-in-business",
-    "highly-logical-more-inconsistent",
-    "intellectual-emotional-polarization-in-couples",
-    "ask-from-each-of-the-three-centers",
-    "ask-the-body-the-question",
-    "what-does-your-heart-say",
-    "intuition-vs-conditioning",
-    "body-as-hack-to-presence",
-    "body-lies-as-much-as-mind",
-    "identity-changes-on-three-levels",
-    "kids-respond-to-emotional-presence-not-words",
-    "self-connection-catches-meeting-friction",
-    "take-access-points-wherever-you-can-get-them",
-    "ask-from-slowness-not-intellect",
-    "gut-impulse-as-direction",
-    "progressive-somatic-awareness-build",
-    "staying-in-your-body",
-    "view-as-meditation-pointer",
-    "three-paths-of-awakening",
-    "body-awareness-in-meetings"
-  ],
   "two-forms-of-ego-good-and-bad|The deflated form of ego": [
     "anxious-avoidant-dynamic"
   ],
@@ -22780,6 +23097,7 @@
     "every-no-contains-a-better-answer",
     "excuses-lower-confidence-falling-down-raises-it",
     "if-you-dont-stand-into-authority-others-will-vie-for-it",
+    "team-accountability-not-coach-accountability",
     "approach-and-say-no-with-group-honoring",
     "block-calendar-time-for-hard-conversations",
     "whats-the-scary-thing-youre-not-saying",
@@ -22975,6 +23293,7 @@
     "a-support-system-creates-you",
     "anger-first-then-fear-out-of-stuck",
     "helplessness-is-the-gateway",
+    "sharing-trauma-tests-the-listener",
     "subjugation-prevents-healing",
     "transformation-requires-a-trustworthy-container",
     "trauma-heals-in-relationship",
@@ -23312,7 +23631,8 @@
     "every-no-contains-a-better-answer",
     "hardening-means-personal",
     "inherent-goodness",
-    "seven-limiting-beliefs"
+    "seven-limiting-beliefs",
+    "asshole-at-bodega-bay"
   ],
   "safety-vs-defensiveness": [
     "defense",
@@ -23421,6 +23741,7 @@
   ],
   "the-relational-path-to-self-dissolution": [
     "expanding-sense-of-self",
+    "the-dead-as-conduit-to-non-personal-love",
     "heart-awakening-disney-phase",
     "contact-with-greatness-shows-whats-possible",
     "three-paths-of-awakening"
@@ -23699,7 +24020,8 @@
     "heartbreak-as-capacity-expansion"
   ],
   "care-vs-caretaking": [
-    "heartbreak-is-the-love-underneath-the-blockers"
+    "heartbreak-is-the-love-underneath-the-blockers",
+    "open-your-heart-to-the-other-person"
   ],
   "compassion-as-of-the-guts": [
     "heartbreak-is-the-love-underneath-the-blockers",
@@ -23830,20 +24152,6 @@
   "what-the-mind-fears-feelings-will-do-vs-what-they-actually-do": [
     "i-am-and-the-immediate-flight-to-doubt",
     "the-feeling-resolves-when-you-stop-questioning-it"
-  ],
-  "dont-reflect-your-patterns-as-culture": [
-    "identity",
-    "toxic-niceness",
-    "ask-how-do-i-change-this-so-it-never-happens-again",
-    "culture-outside-mirrors-culture-inside",
-    "identity-shapes-who-is-around-you",
-    "leaders-calm-becomes-the-teams-calm",
-    "unconscious-principles-run-your-life",
-    "wrestle-with-your-principles",
-    "gratitude-rounds-before-meetings",
-    "rollout-principles-in-organization",
-    "team-as-scientific-method",
-    "reducing-overwhelm-in-organizations"
   ],
   "owning-your-partiality": [
     "impartiality",
@@ -24074,8 +24382,10 @@
   ],
   "scottie-scheffler-on-winning": [
     "joy-of-accomplishment-is-the-absence-of-wants",
+    "dirty-fuel-vs-clean-fuel",
     "kings-become-enlightened-not-holy-men",
-    "the-aloneness-is-the-quickest-route-to-freedom"
+    "the-aloneness-is-the-quickest-route-to-freedom",
+    "30-million-dollar-house-miserable"
   ],
   "joes-pancake-anger-story": [
     "kinked-emotions",
@@ -24124,6 +24434,7 @@
     "transparent-identity-vs-rigid",
     "every-epiphany-is-a-rut-waiting-to-happen",
     "every-identity-has-limits",
+    "inherent-longing-for-parent-love-survives-any-abuse",
     "pep-talk-encodes-the-deficit",
     "hopi-three-sisters-planting"
   ],
@@ -24235,6 +24546,7 @@
   "welcoming-is-somatic-not-verbal": [
     "love-as-deep-welcoming",
     "meditation-as-welcoming-not-management",
+    "move-from-story-into-the-body",
     "transfer-the-receiving-from-them-to-yourself",
     "turn-the-love-toward-the-self-conscious-part",
     "welcome-yourself-in-the-conversation",
@@ -24738,6 +25050,26 @@
     "boeing-ford-bad-news",
     "no-doctrine-leadership"
   ],
+  "open-the-heart-to-the-other-person": [
+    "the-eye-of-sauron"
+  ],
+  "open-the-heart-to-yourself": [
+    "the-eye-of-sauron"
+  ],
+  "dont-list-whats-wrong-with-you": [
+    "the-eye-of-sauron",
+    "satirical-anti-advice-as-teaching",
+    "joes-doomscrolling-story"
+  ],
+  "ask-yourself-what-do-i-need": [
+    "the-eye-of-sauron"
+  ],
+  "drop-the-shame-to-see-them": [
+    "the-eye-of-sauron",
+    "see-the-person-as-beautiful-while-they-see-themselves-as-broken",
+    "capacity-to-love-other-is-capacity-to-love-self",
+    "if-im-not-feeling-seen-im-also-not-seeing"
+  ],
   "shoulds-as-self-abuse": [
     "the-inner-board"
   ],
@@ -24750,7 +25082,8 @@
     "the-want",
     "stories-that-block-want-naming",
     "play-to-win-not-to-not-lose",
-    "contained-excitement-is-the-built-architecture"
+    "contained-excitement-is-the-built-architecture",
+    "wants-over-shoulds"
   ],
   "identity-must-shift-when-wants-are-owned": [
     "the-want",
@@ -24820,6 +25153,19 @@
     "rest-that-satisfies-produces-inspiration",
     "fourteen-day-time-experiment",
     "ceo-who-rode-horses-to-quiet-the-voice"
+  ],
+  "victim-or-abuser-cycle": [
+    "trauma-mapping",
+    "endurer-pattern",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative",
+    "two-paths-of-trauma-response"
+  ],
+  "two-paths-of-trauma-response": [
+    "trauma-mapping",
+    "victim-or-abuser-cycle",
+    "endurer-pattern",
+    "inherent-longing-for-parent-love-survives-any-abuse",
+    "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative"
   ],
   "negative-bias-of-trauma-imprinting": [
     "trauma-mapping",
@@ -24908,14 +25254,6 @@
   "believing-the-convenient-lie": [
     "untruth-in-every-thought"
   ],
-  "sorry-from-shame-vs-sorry-as-solidarity": [
-    "upright-apology",
-    "forms-of-dysfunctional-apology",
-    "apologize-for-trying-to-control",
-    "apologize-to-exit-a-fight",
-    "fault-vs-responsibility",
-    "dont-use-you-in-an-apology"
-  ],
   "dont-extract-apologies": [
     "upright-apology",
     "forms-of-dysfunctional-apology",
@@ -24945,6 +25283,15 @@
     "withdrawal-with-vs-without-a-timeline",
     "nervous-system-codes-threats-as-real",
     "fight-agreements-made-outside-the-fight"
+  ],
+  "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative": [
+    "victim-or-abuser-cycle"
+  ],
+  "inherent-longing-for-parent-love-survives-any-abuse": [
+    "victim-or-abuser-cycle",
+    "endurer-pattern",
+    "ancillary-trauma-needs-processing-too",
+    "two-paths-of-trauma-response"
   ],
   "repetitive-vs-inspirational-voice": [
     "voice-as-guide-to-unhealed-places",
@@ -25146,6 +25493,14 @@
     "teach-to-integrate",
     "surround-yourself-with-people-who-make-fun-of-you",
     "red-flags-of-a-teacher-or-path"
+  ],
+  "dont-make-the-endurer-feel-small-with-sympathy": [
+    "endurer-pattern",
+    "frame-the-endurer-with-strength-not-sympathy",
+    "how-to-receive-someones-trauma-sharing",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "sharing-trauma-tests-the-listener",
+    "two-paths-of-trauma-response"
   ],
   "the-gold-lies-beyond-the-afraid": [
     "epiphany-becomes-task",
@@ -25711,6 +26066,7 @@
     "ask-how-do-i-change-this-so-it-never-happens-again",
     "direct-intervention-vs-structural-change",
     "all-disagreements-come-from-two-questions",
+    "team-accountability-not-coach-accountability",
     "block-calendar-time-for-hard-conversations"
   ],
   "name-your-trigger-as-vulnerability": [
@@ -25739,6 +26095,7 @@
   ],
   "it-just-isnt-a-match": [
     "ask-the-three-accountability-questions",
+    "everybody-wants-the-same-kind-of-team",
     "leader-doesnt-take-care-of-everybody"
   ],
   "team-accountability-not-coach-accountability": [
@@ -25752,7 +26109,8 @@
     "excuses-lower-confidence-falling-down-raises-it",
     "focus-on-the-first-domino",
     "hire-people-who-can-do-the-job-better-than-you",
-    "leader-doesnt-take-care-of-everybody"
+    "leader-doesnt-take-care-of-everybody",
+    "leaders-wants-are-the-organizations-wants"
   ],
   "nail-in-the-head-metaphor": [
     "ask-what-they-want-before-responding",
@@ -26014,6 +26372,16 @@
   "trust-with-authority-has-to-be-rebuilt-with-the-formerly-punished|formerly-punished hires": [
     "hire-by-dream-job"
   ],
+  "joking-about-trauma-is-a-processing-stage": [
+    "how-to-receive-someones-trauma-sharing",
+    "two-paths-of-trauma-response",
+    "stages-of-trauma-processing"
+  ],
+  "body-language-of-someone-sharing-trauma": [
+    "how-to-receive-someones-trauma-sharing",
+    "sharing-trauma-tests-the-listener",
+    "what-cracks-you-open-shows-whats-processable-now"
+  ],
   "asking-dissolves-the-not-okay-to-want": [
     "i-love-that-you-want-that",
     "make-demands-of-me-experiment",
@@ -26250,10 +26618,6 @@
   "announce-the-steps-then-run-them": [
     "run-the-compliment-deconstruction-protocol"
   ],
-  "dont-list-whats-wrong-with-you": [
-    "satirical-anti-advice-as-teaching",
-    "joes-doomscrolling-story"
-  ],
   "laughter-as-emotional-release": [
     "satirical-anti-advice-as-teaching",
     "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken"
@@ -26295,11 +26659,6 @@
   ],
   "essential-self": [
     "see-the-person-as-beautiful-while-they-see-themselves-as-broken"
-  ],
-  "drop-the-shame-to-see-them": [
-    "see-the-person-as-beautiful-while-they-see-themselves-as-broken",
-    "capacity-to-love-other-is-capacity-to-love-self",
-    "if-im-not-feeling-seen-im-also-not-seeing"
   ],
   "whats-the-case-against-it": [
     "set-solution-criteria-have-the-team-solve-within-them",
@@ -26445,13 +26804,18 @@
   "needing-to-be-right": [
     "conviction-vs-hardheadedness"
   ],
+  "asshole-at-bodega-bay": [
+    "defense-vs-love",
+    "love-is-the-best-change-agent"
+  ],
   "ask-how-do-i-change-this-so-it-never-happens-again": [
     "direct-intervention-vs-structural-change",
     "focus-on-the-first-domino",
     "require-an-action-at-the-end-of-every-email"
   ],
   "dont-use-loving-presence-as-disassociation": [
-    "embodied-love-vs-vacuous-presence"
+    "embodied-love-vs-vacuous-presence",
+    "sharing-trauma-tests-the-listener"
   ],
   "joes-hr-call-firing": [
     "empowered-vs-power",
@@ -26465,6 +26829,11 @@
     "empathy-makes-you-better-at-hard-jobs",
     "ceo-pajama-house-study",
     "will-chesney-seal-collapse-and-return"
+  ],
+  "joes-photo-album-cried-14-years": [
+    "feel-over-figure",
+    "seven-limiting-beliefs",
+    "joes-mill-valley-list"
   ],
   "false-end": [
     "forward-fear-vs-backward-grief-of-time"
@@ -26492,6 +26861,9 @@
     "improvement-vs-authenticity",
     "nature-improves-itself",
     "buurtzorg-nursing"
+  ],
+  "enlightenment-porn-for-perfectionists": [
+    "improvement-vs-authenticity"
   ],
   "performance-of-impartiality": [
     "intellectual-vs-somatic-welcoming"
@@ -26948,6 +27320,9 @@
     "parenting-as-coaching-domain"
   ],
   "focus-on-leverage-principles-not-everything": [
+    "connection-over-perfection"
+  ],
+  "ali-abdaal-coaching-on-connection": [
     "connection-over-perfection"
   ],
   "marketing-as-the-beginning": [
@@ -27664,21 +28039,6 @@
   "ceo-vulnerability-builds-team-alignment": [
     "trying-to-be-someone-other-than-yourself-is-the-actual-imposter-act"
   ],
-  "joking-about-trauma-is-a-processing-stage": [
-    "two-paths-of-trauma-response"
-  ],
-  "dont-make-the-endurer-feel-small-with-sympathy": [
-    "two-paths-of-trauma-response"
-  ],
-  "frame-the-endurer-with-strength-not-sympathy": [
-    "two-paths-of-trauma-response"
-  ],
-  "inherent-longing-for-parent-love-survives-any-abuse": [
-    "two-paths-of-trauma-response"
-  ],
-  "victim-or-abuser-cycle": [
-    "two-paths-of-trauma-response"
-  ],
   "truth-and-reconciliation-south-africa": [
     "unprocessed-grief-creates-conflict"
   ],
@@ -27699,9 +28059,17 @@
   "wanting-vs-craving|craving": [
     "wants-change-as-you-change"
   ],
+  "joes-mill-valley-list": [
+    "wants-over-shoulds",
+    "joes-photo-album-cried-14-years"
+  ],
   "acceptance-is-not-love": [
     "welcoming-is-somatic-not-verbal",
     "divorce-client-love-vs-obligation-demo"
+  ],
+  "body-as-hack-to-presence": [
+    "what-cracks-you-open-shows-whats-processable-now",
+    "progressive-somatic-awareness-build"
   ],
   "do-the-thing-you-fear": [
     "what-the-mind-fears-feelings-will-do-vs-what-they-actually-do"
@@ -27808,9 +28176,6 @@
   ],
   "i-cant-ask-for-what-i-want": [
     "play-with-not-hedging"
-  ],
-  "body-as-hack-to-presence": [
-    "progressive-somatic-awareness-build"
   ],
   "belief-integration-not-elimination|integrated, transparent, optional": [
     "questioning-assumptions"

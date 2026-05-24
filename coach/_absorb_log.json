@@ -10290,22 +10290,124 @@
     },
     {
       "folder": "2026-04-24_\uff02I Block 3 hours a Month for Hard Conversations\uff02",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T03:51:38Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "block-calendar-time-for-hard-conversations",
+        "set-solution-criteria-have-the-team-solve-within-them",
+        "i-want-to-delegate-better",
+        "focus-on-the-first-domino",
+        "ask-the-three-accountability-questions",
+        "excuses-lower-confidence-falling-down-raises-it",
+        "hire-people-who-can-do-the-job-better-than-you",
+        "allow-mistakes-as-the-cost-of-real-delegation",
+        "leader-doesnt-take-care-of-everybody",
+        "it-just-isnt-a-match",
+        "dont-institutionalize-appreciation-as-the-cheesecake",
+        "team-accountability-not-coach-accountability"
+      ],
+      "articles_updated": [
+        "everybody-wants-the-same-kind-of-team",
+        "spit-at-the-top-is-a-waterfall-at-the-bottom",
+        "direct-intervention-vs-structural-change",
+        "require-an-action-at-the-end-of-every-email",
+        "leaders-wants-are-the-organizations-wants"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T04:12:43Z"
     },
     {
       "folder": "2026-04-28_I've Coached 1000s in Pain. 'I'm Sorry' Isn't What They Need",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T04:02:48Z",
+      "articles_created": [
+        "two-paths-of-trauma-response",
+        "stages-of-trauma-processing",
+        "sharing-trauma-tests-the-listener",
+        "how-to-receive-someones-trauma-sharing",
+        "dont-make-the-endurer-feel-small-with-sympathy",
+        "frame-the-endurer-with-strength-not-sympathy",
+        "body-language-of-someone-sharing-trauma",
+        "joking-about-trauma-is-a-processing-stage",
+        "ancillary-trauma-needs-processing-too",
+        "what-cracks-you-open-shows-whats-processable-now",
+        "inherent-longing-for-parent-love-survives-any-abuse",
+        "victim-or-abuser-cycle",
+        "the-im-bad-for-feeling-it-loop-confirms-the-abuse-narrative"
+      ],
+      "articles_updated": [
+        "endurer-pattern",
+        "trauma-mapping",
+        "sorry-from-shame-vs-sorry-as-solidarity"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T04:25:10Z"
+    },
+    {
+      "folder": "2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End \uff5c Coaching with Joe",
+      "status": "complete",
+      "claimed_at": "2026-05-24T04:08:32Z",
+      "articles_created": [
+        "the-dead-as-conduit-to-non-personal-love",
+        "death-as-rip-in-reality",
+        "move-from-story-into-the-body",
+        "whats-the-gift",
+        "the-widow-with-his-photos-still-up"
+      ],
+      "articles_updated": [
+        "i-cant-get-over-this-loss",
+        "death-is-not-the-end-of-the-relationship",
+        "challenge-the-premise-in-the-framing",
+        "love-as-deep-welcoming"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T04:25:07Z"
+    },
+    {
+      "folder": "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back",
+      "status": "complete",
+      "claimed_at": "2026-05-24T04:13:24Z",
+      "articles_created": [
+        "joes-photo-album-cried-14-years",
+        "joes-mill-valley-list",
+        "asshole-at-bodega-bay",
+        "30-million-dollar-house-miserable",
+        "dirty-fuel-vs-clean-fuel",
+        "i-achieved-everything-and-im-miserable"
+      ],
+      "articles_updated": [
+        "seven-limiting-beliefs",
+        "connection-over-perfection",
+        "enjoy-over-manage",
+        "feel-over-figure",
+        "wants-over-shoulds",
+        "improvement-vs-authenticity",
+        "empowered-vs-power",
+        "defense-vs-love",
+        "love-is-the-best-change-agent",
+        "mandela-empowerment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T04:33:27Z"
+    },
+    {
+      "folder": "2026-05-08_Fear of Being Seen",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T04:26:01Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End \uff5c Coaching with Joe",
+      "folder": "2026-05-08_The Fear of Being Seen and the Strange Way Out",
       "status": "in-progress",
-      "claimed_at": "2026-05-24T04:08:32Z",
+      "claimed_at": "2026-05-24T04:26:13Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2026-05-08_The Fear of Being Seen- Overcoming Shame, Invisibility, and Social Anxiety",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T04:34:51Z",
       "articles_created": [],
       "articles_updated": []
     }

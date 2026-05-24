@@ -5,7 +5,7 @@ title: "Love as Deep Welcoming"
 aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract", "the feeling-toward-the-pet directed at yourself", "the reversal of the flow of love", "love as a direction of feeling not words", "find the feeling you have toward a dog and give it to yourself", "the somatic direction of welcoming"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
 related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer", "welcoming-is-somatic-not-verbal", "meditation-as-welcoming-not-management", "love-as-container-for-attachment-healing", "wisdom-of-each-emotion", "11-emotions-explained"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes", "2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End ｜ Coaching with Joe"]
 ---
 
 # Love as Deep Welcoming
@@ -138,6 +138,18 @@ A related operational definition of love that pairs with the welcoming definitio
 
 The two definitions operate together. The welcoming is the internal posture each partner brings; the container is what their welcoming together creates. The relationship becomes the field inside which the old material can surface and be felt rather than continuing to organize the partners from below the surface. See [[love-as-container-for-attachment-healing]] for the dedicated treatment, including the setup-agreement action step ("our shit's gonna come up here and we're gonna use it as ways to heal").
 
+## Welcoming Directed Non-Personally (The Conduit Move After Grief)
+
+A specific live application in the late-grief context: the welcoming that has been directed at one specific person who is now dead can be redirected as a non-personal welcoming aimed at everything. The body that learned to welcome a beloved has the capacity to welcome. The capacity does not disappear when the recipient does. The recipient was the door through which the welcoming was trained. The welcoming, once trained, can be aimed at the world.
+
+The body instruction Joe uses in this case: "Make the love that you have for him non-personal. Have it be for everything and everyone. See the world the way he saw you. Attune to the world the way he attuned to you."
+
+The welcoming has direction. In the personal form, it has one target. In the non-personal form, it has all targets. The same somatic feeling, the same softening and opening of the body, the same warm direction — but aimed diffusely rather than narrowly.
+
+The teaching is distinct from "love everyone" as an injunction. The injunction asks the body to generate something. The conduit teaching uses a welcoming the body already knows how to do and asks the body to redirect it. The redirection is operationally available in a way that the generation is not.
+
+See [[the-dead-as-conduit-to-non-personal-love]] for the dedicated treatment in the grief context, and [[move-from-story-into-the-body]] for the move that delivers the body instruction.
+
 ## Welcoming the Opposing View (Without Becoming It)
 
 A specific live application: welcoming a worldview, opinion, or stance you actively disagree with — including in someone close to you, including in yourself.
@@ -201,3 +213,4 @@ The implication for the AI coach: never let "love is the answer" become a genera
 - 2024-03-11_How Do I Love The "No"? (the "love the anti-capitalist in you, your wife, and this woman" framing as the case-application for welcoming an opposing view without abandoning your own; hypervigilance dissolving as the somatic confirmation of welcoming)
 - 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown (the pet/child/crush reference as the operational access point for the felt direction of welcoming; the reversal-of-the-flow framing; the explicit "how do you love yourself is paramount to the question of how do you feel" articulation distinguishing the somatic mechanism from any verbal substitute)
 - 2026-04-07_The 11 Human Emotions Explained in 7 Minutes -- the source for the relational-function definition of love as the safety-container for attachment healing; the setup-agreement action step ("our shit's gonna come up here and we're gonna use it as ways to heal"); the structural pairing with welcoming as the internal posture and the container as what welcoming creates relationally; the dedicated treatment moved to [[love-as-container-for-attachment-healing]]
+- 2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End ｜ Coaching with Joe — the non-personal direction application: the welcoming the body learned to do for a specific beloved who is now dead can be redirected as a non-personal welcoming for everything; the body instruction "make the love non-personal, have it be for everything and everyone, see the world the way he saw you, attune to the world the way he attuned to you" as the operational form of the redirect; the dedicated treatment is at [[the-dead-as-conduit-to-non-personal-love]]

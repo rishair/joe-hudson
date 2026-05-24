@@ -5,7 +5,7 @@ title: "Defense vs. Love"
 aliases: ["defending vs loving", "defense before love", "receiving with love instead of defending", "the defensive impulse"]
 tags: ["defense", "love", "feedback", "vulnerability", "shame", "distinction"]
 related: ["seven-limiting-beliefs", "inherent-goodness", "vulnerability", "letting-judgment-in", "safety-vs-defensiveness", "defense", "love-as-deep-welcoming", "boundary-with-vs-boundary-against", "every-no-contains-a-better-answer", "name-the-body-defense-in-real-time"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_The Art of Accomplishment", "2024-03-11_How Do I Love The ＂No＂？"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_The Art of Accomplishment", "2024-03-11_How Do I Love The ＂No＂？", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Defense vs. Love
@@ -70,6 +70,42 @@ The same dynamic operates in every meeting, every conversation with a partner, e
 
 See [[every-no-contains-a-better-answer]] for the inner posture that makes love the more available choice when the no arrives: treating every no as containing a refinement rather than as an attack to be repelled.
 
+## The Bodega Bay Worked Example (Joe's Asshole Moment)
+
+The cleanest worked example of the distinction in operation. Joe is sitting at Bodega Bay, looking at the orange tide. His friend looks at him and says "God, Joe, you're an asshole."
+
+Joe's first response is the defensive one: "No, I'm not. Why would you call me that? What are you doing?"
+
+The friend stays calm: "Just relax, Joe. I still love you. You don't have to be upset that you're an asshole. You're just an asshole. Are you trying to tell me you're not an asshole ever?"
+
+Joe describes what happened: "Oh, and this moment happened where I realized, oh yeah, of course I'm an asshole. Everybody is an asshole at some point. And I can love that part of myself. I don't have to be ashamed of that part of myself. I don't have to defend that part of myself. I can just love that part of myself." -- Joe Hudson, After 14 Years of Coaching
+
+The behavioral result, over the next three months: "The more that I loved that part of myself, the less I was that. That thing that I was resisting in myself continued, insisted that it existed because I was resisting it. And as I started to be gentle with it, as I started to love it, it transformed, it changed."
+
+The story is the personal demonstration of both this distinction and the [[love-is-the-best-change-agent]] principle. Defense was keeping the asshole part frozen. Love unfroze it, which let it move. See [[asshole-at-bodega-bay]] for the full worked example with the structural points the story demonstrates.
+
+## Love Over Defense (Pattern-Form in the Seven)
+
+Joe positions this distinction as the seventh and "most profound" of the seven patterns that hold people back. The pattern form: people put defense over love rather than love over defense.
+
+"Every time that we defend ourselves, it's because we think there's something wrong with us. There's nothing to defend if we don't think there's anything wrong with us." -- Joe Hudson, After 14 Years of Coaching
+
+The structural argument the seven-patterns delivery makes: defense is always agreement with the world that there is something wrong with you. The defense is the evidence of the half-belief. The more capable you are of loving all parts of yourself unconditionally, the less you need to defend, and the more you can love others — because the same capacity that lets you love your asshole part lets you love someone else's.
+
+The common objection: "If I don't defend myself, I'll be stepped on. If I'm loving and open-hearted, I'll be taken advantage of." Joe's response in this delivery is to name the canonical examples: Gandhi, Martin Luther King, Mother Teresa, any great mother. Deeply loving people are not weak. They are deeply empowered. The capacity to love without defense rests on the empowerment that knows what cannot be destroyed. See [[empowered-vs-power]] for the pair-principle and [[feel-love-and-empowerment-as-the-same]] for the practice that makes the two felt as one.
+
+This is also why love-over-defense is positioned as the most profound of the seven. The other six all operate on the assumption of an internal self that needs protection, improvement, control, or proof. Love-over-defense is the operational dissolution of that assumption. When there is no self that needs defending, the other six patterns lose their substrate. The full release is structurally the seventh, because it is the one that makes the previous six unnecessary rather than just well-managed.
+
+## Loving the Part Is What Changes It
+
+A specific principle the asshole story demonstrates that is worth lifting out: the change love produces happens by removing the resistance that was sustaining the resisted thing. The asshole part of Joe was insisting on itself because Joe was resisting it. The resistance was the energy that kept the part active. When the resistance dropped, the part stopped needing to assert.
+
+"It's the only thing. It is the thing that consistently creates the most change in people." -- Joe Hudson, After 14 Years of Coaching
+
+The teaching value of saying it this strongly: most people have spent years trying to change patterns through effort, will, technique, and various forms of self-improvement. The strong claim is that none of those work as well as loving the part that does the pattern. The empirical evidence Joe is drawing on is 14 years of coaching plus his own life. See [[love-is-the-best-change-agent]] for the dedicated principle treatment.
+
+The corollary: loving the part is also why VIEW works in the connection course. VIEW is the operational form of a loving state of mind toward people. The same principle that makes VIEW effective with others makes self-love effective with self.
+
 ## Upstream (What Leads Here)
 
 - When someone consistently produces reasons why criticism is unfair.
@@ -90,3 +126,4 @@ See [[every-no-contains-a-better-answer]] for the inner posture that makes love 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2024-03-11_How Do I Love The "No"? (the "I notice all the defense in that" live naming; the heart-hardening signature inside a single sentence; the connection to the [[every-no-contains-a-better-answer]] principle)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the Bodega Bay asshole story as the canonical worked example of love-over-defense in operation, including the friend's specific framing ("just relax, I still love you, you're just an asshole") that models how to deliver hard feedback to someone in defense; the three-month-behavioral-change timeframe for the post-recognition unwinding; the positioning of love-over-defense as the seventh and "most profound" of the seven patterns Joe sees holding people back; the structural argument that the other six patterns rest on the assumption of an internal self that needs protection, and love-over-defense is the operational dissolution of that assumption; the canonical examples list (Gandhi, Martin Luther King, Mother Teresa, any great mother) as the answer to the common objection that loving without defense means being taken advantage of

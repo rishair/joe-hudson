@@ -5,7 +5,7 @@ title: "Love Is the Best Change Agent"
 aliases: ["love changes things", "loving moves things", "love as transformation", "the mechanism of love", "welcoming allows movement", "love unfreezes"]
 tags: ["love", "change", "transformation", "core principle"]
 related: ["love-as-deep-welcoming", "loving-to-transform", "tools-to-change-not-love", "awareness-as-change-agent", "loving-all-parts", "resistance", "love-the-anxiety-not-just-with-it"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Love Is the Best Change Agent
@@ -61,6 +61,28 @@ Love does not have these failure modes because love does not contain a direction
 
 This is why the broader principle [[awareness-as-change-agent]] also functions. Awareness, like love, is non-coercive. The awareness illuminates without pushing. The seeing is itself sufficient.
 
+## The Asshole-at-Bodega-Bay Worked Example
+
+The cleanest demonstrated case of the principle in Joe's own life. A friend called Joe an asshole. Joe defended. The friend pressed: "Just relax, Joe. I still love you. You don't have to be upset that you're an asshole. You're just an asshole. Are you trying to tell me you're not an asshole ever?" Joe stopped defending and saw the part of himself the defense was trying to protect.
+
+"And the crazy thing that happened over the next 3 months is the more that I loved that part of myself, the less I was that. Like that thing that I was resisting in myself continued, insisted that it existed because I was resisting it. And as I started to be gentle with it, as I started to love it, it transformed, it changed." -- Joe Hudson, After 14 Years of Coaching
+
+The story is the empirical evidence for the principle. The mechanism: the resistance was the energy keeping the part frozen and active. Removing the resistance (by loving the part) let it move. The behavior reduced not because Joe tried to stop being an asshole but because the part stopped needing to insist on itself once it was no longer being rejected.
+
+The timeframe matters as a coaching teaching: three months. The recognition is the inflection. The behavioral unwinding takes weeks to months as the loved part stops needing to assert itself. The work during the unwinding is to not re-attack the part — which would re-install the resistance that was driving the behavior.
+
+See [[asshole-at-bodega-bay]] for the full worked example.
+
+## The Strong Claim: This Is the Thing That Consistently Creates Change
+
+Joe states the principle in its strongest form in the 14-years summary:
+
+"It's the only thing. It is the thing that consistently creates the most change in people." -- Joe Hudson, After 14 Years of Coaching
+
+The strength of the claim is worth keeping. After 14 years of coaching thousands of people, the consistent finding is that loving the resisted thing is what produces change. Effort doesn't. Will doesn't. Better technique doesn't. Sustained welcoming of what was being rejected does.
+
+This is also why VIEW (vulnerability, impartiality, empathy, wonder) works in the Connection Course. VIEW is the operational form of a loving state of mind toward people. The same principle that makes loving a part of yourself transform that part is the principle that makes VIEW transform interactions with others. The loving state is the change agent regardless of whether the recipient is internal or external.
+
 ## How This Shows Up in Coaching
 
 When someone is trying to change a habit, a partner, a child, or a feeling, the typical pattern is escalating force followed by frustration. The work is to invert: drop the force, add welcoming, and observe what moves on its own.
@@ -107,3 +129,4 @@ When someone has just started loving a long-rejected part of themselves and is s
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the Bodega Bay asshole story as the empirical worked example of love-is-the-best-change-agent in Joe's own life, with the three-month-behavioral-change timeframe; the strongest-form statement of the principle ("it's the only thing — it is the thing that consistently creates the most change in people") after 14 years of coaching thousands of people; the explicit connection between the principle and VIEW as the operational form of a loving state of mind, which is why VIEW works in the Connection Course

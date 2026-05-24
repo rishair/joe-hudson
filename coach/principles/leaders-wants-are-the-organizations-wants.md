@@ -5,7 +5,7 @@ title: "A Leader's Wants Are the Organization's Wants"
 aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information", "the CEO who hides fear destroys trust", "leader hiding feelings is leader hiding wants", "the leader's wants are the most aligned to the organization's wants", "leader-wants are the best-aligned wants in the organization", "say what you want as a leader", "leader-wants as the only wants that see the whole organization", "the leader's wants matter most because they see the whole picture", "ask cleanly for what you want as a leader", "clean asking by leaders builds loyalty", "the leader who asks cleanly gets the loyal team", "the cleanly-said want as the loyalty engine", "the leader who hid fear is destroying trust", "why uncommunicated leader-wants make team members feel unsafe", "uncommunicated leader-wants generate the who's-running-this-feeling"]
 tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability", "trust", "loyalty", "alignment"]
 related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want", "trust-as-multifaceted", "welcoming-fear-in-leadership", "functional-team", "everybody-wants-the-same-kind-of-team", "asking-with-shame-invites-refusal", "speak-to-the-problem-without-solving-it"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2024-08-23_How To Lead Without Managing"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2024-08-23_How To Lead Without Managing", "2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂"]
 ---
 
 # A Leader's Wants Are the Organization's Wants
@@ -92,6 +92,24 @@ This inverts the morality of want-suppression. Most leaders have been trained th
 
 See [[sublimated-wants-become-politics]] for the mechanism by which suppressed wants surface sideways. The principle here is the moral inversion: stating wants is not selfishness; it is service.
 
+## The Team-Wins-When-Leader-Wins Framing
+
+Another angle on the same principle: the leader's wants getting met is the highest-probability route to the team's wants getting met. If the leader's wants get met, the team's wants are most likely to get met. If one team member's wants get met, the rest may or may not get met. The leader's position makes their wants the most aligned to the team's collective wants.
+
+"As a leader, your wants are the wants that are most aligned with the company's wants. If your wants get met as the leader, then your team's wants get met or most likely to get met. If one person in your team's wants get met, then maybe your team's wants get met, but probably not. So there's something that happens where once you recognize that the whole team wants to win and that your wants getting met are what's going to allow the team to win, then there's this like a natural flow that happens that requires — that, that, that is less control, less force, less management, and like a natural alignment can happen if everybody also feels listened to." -- Joe Hudson, "I Block 3 hours a Month for Hard Conversations"
+
+The framing has a specific consequence for how the leader engages the team. The leader is not in competition with the team's wants. The leader's wants are the team's wants' best representative. When the leader names them clearly and gets them met, the team's wants are met by the same motion. The naming-the-leader's-wants work is also the meeting-the-team's-wants work.
+
+This is why suppression of the leader's wants is so costly. The leader who hides their wants is hiding the wants most aligned to what the team needs. The team then has to operate without the data that would let them succeed. The leader's "modesty" about their own wants is actually depriving the team of orientation.
+
+## The Connection to Less-Management Through More-Wanting
+
+A further consequence: when the leader's wants are clear and met, the natural alignment that emerges in the team reduces the need for management. The team is oriented around the actual want; they do not need to be controlled or forced or managed into the alignment because the alignment is already there.
+
+This is one of the operational reasons that wants-clarity reduces management overhead. The leader who has done the wants-naming work has less management to do because the team is already aligned. The leader who has not has more management to do because the team is constantly trying to figure out what the leader actually wanted. The wants-clarity is upstream of the management load.
+
+See [[i-want-to-delegate-better]] for the related concern this connects to. The leader who wants to delegate better often has not done the wants-naming work; once they do, the delegation problem partially dissolves because the criteria for what they want become available.
+
 ## The Bodily Diagnostic Implication
 
 The principle extends to bodily discomfort. If something in the leader's system is resistant or in friction, that is information about a thing the organization needs to address. The body is not generating noise. The body is reading the field.
@@ -168,3 +186,4 @@ Direct and serious. The reframe is a significant inversion of how most leaders h
 - 2022-10-26_Building A Functional Team
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
 - 2024-08-23_How To Lead Without Managing (the structural reason leader-wants are most aligned to organizational wants; the safety-failure-for-the-team angle; the cleanly-said want as the loyalty engine; the worked-without-pay example)
+- 2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂ (the team-wins-when-leader-wins framing — leader's wants getting met is the highest-probability route to team's wants getting met; the natural-alignment-reduces-management-overhead implication; the connection between wants-clarity and reduced management load)

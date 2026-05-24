@@ -5,7 +5,7 @@ title: "Wants Over Shoulds"
 aliases: ["follow your wants", "shoulds slow transformation", "wants accelerate transformation", "should is control", "wants vs shoulds", "0 to 7 no shoulds", "shoulds slow development", "should is a bad management technique", "the should kills motivation"]
 tags: ["transformation", "wants", "shoulds", "freedom", "motivation"]
 related: ["wants-vs-partiality", "wanting-vs-craving", "the-want", "resistance", "selfishness-is-the-engine-of-unity", "enjoyment-as-path", "shame-drives-behavior", "seven-limiting-beliefs", "inherent-goodness", "impulse-to-should", "should-as-threat", "rebellion-or-submission-to-should", "find-the-want-behind-the-should", "ill-become-lazy-without-shoulds", "i-should-be-doing-this", "owning-the-want-dissolves-it", "joes-pleasing-dad-money-story", "joes-26-year-old-list"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Wants Over Shoulds
@@ -83,6 +83,50 @@ What takes years is the meta-version: telling yourself you should stop using sho
 
 "For me, turning off the shoulds in my -- in the voice in my head was very quick. It didn't take a tremendous amount of time once I really just understood. If you start telling yourself you should stop using shoulds, yeah, it could take years." -- Joe Hudson, Want over Should
 
+## The Mill Valley List: Joe's Personal Discovery
+
+The empirical seed of this principle in Joe's own life. As a young man living in a shared house in Mill Valley, Joe was on a deliberate self-development push. He wrote down every single thing he did not like about himself — an unflinching list of every fault he could identify. He folded it up, put it away, and forgot about it.
+
+Six to eight months later he found the list. He read through it. He noticed the asymmetry:
+
+"Every single thing on that list that had changed was not something that I told myself I should do. It just naturally changed. Everything I told myself I should do on that list hadn't changed at all." -- Joe Hudson, After 14 Years of Coaching
+
+The list was effectively a controlled experiment — many items, same person, same time period, single variable (whether Joe attached a should to it). The items he should-ed at did not move. The items he let alone moved on their own.
+
+The story is the personal proof-of-concept the principle is built on. See [[joes-mill-valley-list]] for the full worked example, including the conditions that made the honesty of the list possible (the empty room, the closet bed, the deliberate solitude).
+
+## The Years-Long List Diagnostic
+
+The exercise that derives from the Mill Valley discovery, generalizable as a coaching move. Ask the person to list anything they have been trying to change for the last 5 or 10 years that has not changed. The instruction to apply to the list: ask of each item, "is this something I keep telling myself I should do?"
+
+"Look at anything that you've wanted to change for the last 10 years that hasn't changed, and 10, 5 years, and ask yourself, is that something you're telling yourself you should do? And the answer almost always is yes." -- Joe Hudson, After 14 Years of Coaching
+
+The exercise's leverage: the persistence of the unchanged item across years is itself the evidence that the should is keeping it stuck. The client expects to be told they need to try harder. The diagnostic reveals that the trying is what is preventing the change. The intervention is to drop the should, not to increase the effort.
+
+See [[list-things-trying-to-change-for-4-years]] for the dedicated practice article.
+
+## Wanting Carries the Fear of Getting
+
+A subtle clarification of why people convert wants into shoulds. Wanting itself is a feeling that activates the possibility of not getting. The fear of not getting then activates avoidance of the want. The person reaches for the should as a way to motivate themselves without having to feel the wanting.
+
+"Wanting is an emotion that makes us feel like, oh, we might not get it. So there's a fear that comes up. And there's also the thing about wanting is it's going to redefine us. If we get what we want, that's going to be a different person." -- Joe Hudson, After 14 Years of Coaching
+
+The double-bind: wanting carries the fear of not getting AND the fear of getting (which would redefine the person). Both fears push the person to convert the want into a should. The should has the appearance of motivation without the felt vulnerability of actual wanting.
+
+The corrective is to feel the wanting itself as the entry. The wanting includes the fear; staying with the wanting includes staying with the fear. The capacity for the wanting is what makes the want sustainable. See [[wanting-itself-not-what-you-want]] and [[wanting-is-aliveness]].
+
+## The Want Beneath the Want
+
+A specific clarification for the common objection "but what I want is bad." When a client identifies a want and immediately judges it as wrong (I want to eat bonbons all day, I want to lie in bed forever, I want X that I should not want), the move is to ask what is underneath that want.
+
+"There's a want beneath the want. So, okay, what's behind that want? Oh, that want is to feel at peace. Okay, is that a good want? Yeah, of course that's a good one. Of course we want to feel peace. So if you find a want that you think is corrupted somehow, say, what's the want behind that? What's the real want?" -- Joe Hudson, After 14 Years of Coaching
+
+The surface want is usually a strategy. The strategy is often poorly chosen. Underneath the strategy is the actual want, which is almost always something defensible: peace, connection, rest, recognition, freedom. The want-beneath move uncovers the actual want, which can then be honored without the person having to commit to the corrupted-looking strategy.
+
+This is the answer to the "but won't I just be lazy / gluttonous / asshole" fear. The strategy is what looks corrupted. The want underneath the strategy is not. Following the actual want, when uncovered, produces good action because the underlying want was always pointing at something coherent.
+
+See [[find-the-want-behind-the-should]] for the practice and [[wanting-vs-craving]] for the related distinction.
+
 ## Upstream (What Leads Here)
 
 - When someone is grinding through self-improvement with obligation
@@ -109,3 +153,4 @@ What takes years is the meta-version: telling yourself you should stop using sho
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the personal Mill Valley list story as the empirical seed of the principle: Joe wrote down every fault he could identify, found the list 6-8 months later, observed that everything he should-ed at had not changed and everything he had not should-ed at had changed on its own; the years-long list diagnostic as the coaching exercise that derives from the Mill Valley discovery; the framing that wanting carries the fear of getting (both the fear of not getting AND the fear of being redefined by getting), which is what drives the conversion of wants into shoulds; the want-beneath-the-want move for the "but what I want is bad" objection — the corrupted-looking surface want is a strategy; the actual want underneath the strategy is almost always defensible (peace, connection, rest); the positioning of wants-over-shoulds as the fourth of the seven patterns Joe sees holding people back

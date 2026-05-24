@@ -5,7 +5,7 @@ title: "Spit at the Top Is a Waterfall at the Bottom"
 aliases: ["spit at the top is a waterfall at the bottom", "the spit and the waterfall", "small CEO actions become massive org changes", "leader small action becomes org change", "leader's small criticism cascades", "leverage at the top", "amplification through the org", "the $100k video principle"]
 tags: ["leadership", "CEO", "organizational dynamics", "leverage", "principle", "authority"]
 related: ["authority-issues", "the-four-authority-positions", "100k-video-for-the-ceo", "visualize-the-reality-of-leadership", "leaders-calm-becomes-the-teams-calm", "leaders-wants-are-the-organizations-wants", "only-work-with-the-leader", "structure-and-empowerment", "spit-at-the-top-is-a-waterfall-at-the-bottom"]
-sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson", "2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂"]
 ---
 
 # Spit at the Top Is a Waterfall at the Bottom
@@ -64,6 +64,18 @@ This is why an organization with empowered, self-listening employees does not ha
 
 The cascade is not a feature of leadership per se. It is a feature of leadership combined with widespread authority issues. The same leader in two different organizations will produce different cascades depending on how much authority projection is present in the field.
 
+## The Consciousness-of-Leadership Reflection
+
+Another face of the principle: the leader's own consciousness — their psychological patterns, their fears, their growth edges, their strengths — is reflected in the company. The cascade is not just about specific actions; it is about the underlying state.
+
+"Consciousness of the leadership is usually reflected in the organization. So especially if the leader's been there for a while. So I look at the our company as a reflection of who I am. Like, I can see myself in the company. I can see my shortfalls in the company. I can see my strengths in the company. So on some level, just your consciousness, taking care of your own consciousness, will affect the culture of the company. Like I said earlier, it's like a spit at the top is a waterfall at the bottom." -- Joe Hudson, "I Block 3 hours a Month for Hard Conversations"
+
+The implication: working on the leader's own consciousness is one of the highest-leverage cultural interventions available. The leader who is working on their own perfectionism is also (slowly) shifting the company's relationship to perfectionism. The leader who is doing their own work on caretaking is reducing the caretaking patterns in the team. The internal work shows up externally because the leader's state is being amplified through the cascade.
+
+This is why structural interventions, while powerful, are not enough on their own. The leader who installs the structures but does not work on their own consciousness still leaks the unworked patterns through the same cascade. The structures help but cannot substitute for the leader's internal state.
+
+The leader who is in the work on themselves is, by that fact alone, doing work on the company. The two are not separate. See [[dont-reflect-your-patterns-as-culture]] for the anti-pattern this principle points at and [[direct-intervention-vs-structural-change]] for the third leverage point this principle adds beyond direct and structural interventions: consciousness work on the leader themselves.
+
 ## When This Comes Up in Coaching
 
 - A CEO is frustrated that their team over-prepares for meetings, over-polishes deliverables, and over-rotates on minor preferences
@@ -96,3 +108,4 @@ Joe describes this principle as an operational fact that leaders need to absorb.
 
 - 2024-09-13_Authority Issues (the principle stated directly: "a little bit of a criticism of a CEO can create million-dollar changes at the bottom of the company"; the $100k video example; the principle of refusing to work through layers; the leader-and-culture-as-dance framing)
 - 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)
+- 2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂ (the consciousness-of-leadership reflection — leader's strengths and shortfalls visible in the company; the implication that working on the leader's own consciousness is a high-leverage cultural intervention; the principle stated directly again as "spit at the top is a waterfall at the bottom" in connection to consciousness work)

@@ -2,9 +2,9 @@
 type: move
 id: challenge-the-premise-in-the-framing
 title: "Challenge the Premise in the Framing ('Wait, What Makes It a Struggle?')"
-aliases: ["challenge the premise in the framing", "wait what makes it a struggle", "interrupt the embedded premise", "the no-no-no I'm asking what makes it move", "challenge the framing word", "the wait-wait-wait interrupt", "the embedded-premise interrupt", "I'm not asking what you tried I'm asking what makes it a struggle", "what makes that the framing", "destabilize the noun-that-isn't-questioned", "the framing-word challenge", "challenge the framing not the content", "what makes that word the right word", "I don't know what I'll say next but it's not a struggle", "interrupt and surface the embedded assumption"]
+aliases: ["challenge the premise in the framing", "wait what makes it a struggle", "interrupt the embedded premise", "the no-no-no I'm asking what makes it move", "challenge the framing word", "the wait-wait-wait interrupt", "the embedded-premise interrupt", "I'm not asking what you tried I'm asking what makes it a struggle", "what makes that the framing", "destabilize the noun-that-isn't-questioned", "the framing-word challenge", "challenge the framing not the content", "what makes that word the right word", "I don't know what I'll say next but it's not a struggle", "interrupt and surface the embedded assumption", "what makes it need to be about you", "what makes it that it has to be about you", "challenge the let-go premise", "challenge the it-has-to-change-to-this premise", "what makes it need to change", "what if you just kept doing it the same way", "the what-if-you-just-kept-doing-it-this-way interrupt"]
 tags: ["moves", "interrupt", "framing", "premise", "language", "reframe", "destabilizing"]
-sources: ["2024-08-20_How Do I Find My Purpose？"]
+sources: ["2024-08-20_How Do I Find My Purpose？", "2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End ｜ Coaching with Joe"]
 ---
 
 # Challenge the Premise in the Framing
@@ -77,8 +77,35 @@ The same move applies to any framing word that contains an embedded premise. Exa
 - "I'm a failure." — "What makes that the framing?"
 - "I'm stuck." — "What makes you call it stuck?"
 - "I've been suffering." — "What makes it suffering?"
+- "How do I let go a little more?" — "What makes it need to be about you? / What if you just kept doing it the same way?"
+- "My life has to become about me now." — "What makes it need to be about you?"
+- "I have to figure out how to move on." — "What makes you need to move on?"
 
 The move is the same in each case: refuse the framing word, ask what makes it the framing, do not accept content as the answer. Each framing word is a chosen interpretation; the move makes the choice visible.
+
+## The Late-Grief Application ("What Makes It Need to Be About You?")
+
+A specific application that surfaces in coaching with a bereaved person in the late-grief phase. The bereaved presents with a framing built around the necessity of "letting go" or transitioning from "us" thinking to "me" thinking. The framing word that contains the embedded premise is sometimes "let go" and sometimes "about me" — both contain the assumption that a change must happen for the next phase to be available.
+
+The form in the source session, with a widow about a year and a half past her husband's death:
+
+- **Widow:** "How do I let go a little more of this mindset of my life is about us and we?"
+- **Joe** (rather than asking what she has tried to let go of): "If your story changed a little bit and you're still doing it for us, what happens?"
+- **Widow** (confused by the unexpected angle): "Say that again."
+- **Joe** (restating): "You said, like, I used to think about it as doing it for us, but now it's me. What if you just continued saying this is for us? What would you be doing?"
+- **Widow** (now answering the unexpected question): "Oh, well, gosh, create stories, tell stories, find passion projects, do things that make me feel excited to give this love that I have."
+- **Joe** (closing the loop): "Great. So what makes it need to be about you?"
+- **Widow:** "Um, nothing. There's nothing that — like, I guess it doesn't matter, does it? No, no, I can still have that and continue."
+
+The move has the same structure as the "what makes it a struggle?" version. The widow used "let go" as the framing word. Joe declined to engage with what she has tried to let go of or how let-go work might be done. He challenged the premise that letting go was necessary at all by asking what would happen if she did the opposite — kept doing it for us indefinitely. The widow's discovery that nothing required it to be about her is the structural answer to the question.
+
+The variant phrasing for this application: "What makes it need to be about you?" The question presupposes that it does not need to be about her unless something specifically requires it. The presupposition does the work. The widow is now in the position of explaining what would require the transition, and the answer turns out to be nothing.
+
+This variant is distinct from the "what makes it a struggle?" variant in one respect. The struggle version asks the person to examine why they are using a particular interpretive word. The "what makes it need to be about you?" version asks the person to examine why they think a particular change is required. Both are forms of premise-challenge. The first targets a framing word; the second targets an assumed-necessary action. Both refuse to engage the content the person has been organizing inside the premise.
+
+The application is particularly useful when the person has done significant work already and is now stuck at a threshold organized by the let-go premise. See [[i-cant-get-over-this-loss]] (the ready-but-stuck widow variant) and [[the-dead-as-conduit-to-non-personal-love]] for the full coaching arc this move sets up.
+
+*(Source: She Came Asking to Let Go, She Left with a Love That Doesn't End)*
 
 ## What This Move Is Not
 
@@ -134,3 +161,4 @@ When the structural answer arrives ("I live the things and that causes me pain")
 ## Sources
 
 - 2024-08-20_How Do I Find My Purpose? (the canonical exchange in which the framing word "struggle" is challenged three times in the opening seconds of the session; the "I don't know what I'm going to say to you next, but it's not a struggle" framing that signals the conversation will happen outside the frame; the move clears space for the somatic work that follows)
+- 2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End ｜ Coaching with Joe — the late-grief application of the move: the widow presents with "how do I let go a little more"; Joe declines to engage with what she has tried to let go of or how let-go work might be done; he challenges the premise by asking what would happen if she kept doing it for us; the widow discovers nothing requires it to be about her; the "what makes it need to be about you?" variant of the move that targets an assumed-necessary action rather than a framing word; sets up the conduit teaching for the rest of the session

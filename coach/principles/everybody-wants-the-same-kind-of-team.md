@@ -4,8 +4,8 @@ id: everybody-wants-the-same-kind-of-team
 title: "Everybody Wants the Same Kind of Team (Own Your Wants Without Hesitation)"
 aliases: ["everybody wants the same kind of team", "everyone wants the same team", "owning your wants for the team", "the same-team-wants principle", "nobody wants a backstabbing team", "no one wants a political team", "everyone wants trust", "the universal team wants", "different actions same kind of team"]
 tags: ["wants", "teams", "leadership", "trust", "vulnerability", "politics", "ownership"]
-related: ["leaders-wants-are-the-organizations-wants", "sublimated-wants-become-politics", "state-the-want-not-the-action", "wants-vs-partiality", "trust-as-multifaceted", "functional-team", "diagnose-the-meeting-live"]
-sources: ["2022-10-26_Building A Functional Team", "2025-01-03_The Secret to Thriving Company Culture"]
+related: ["leaders-wants-are-the-organizations-wants", "sublimated-wants-become-politics", "state-the-want-not-the-action", "wants-vs-partiality", "trust-as-multifaceted", "functional-team", "diagnose-the-meeting-live", "leader-doesnt-take-care-of-everybody", "it-just-isnt-a-match"]
+sources: ["2022-10-26_Building A Functional Team", "2025-01-03_The Secret to Thriving Company Culture", "2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂"]
 ---
 
 # Everybody Wants the Same Kind of Team (Own Your Wants Without Hesitation)
@@ -43,6 +43,30 @@ The negative test makes the principle vivid. List the things people supposedly w
 "There's nobody's like, you know what? No, I want a fucking political team. I want a team where I don't feel safe and I have this backstabbing and there's no support. Like, nobody feels that way." -- Joe Hudson, Building A Functional Team
 
 No one says "I want a team I can't trust." No one says "I want a team where wants are hidden." No one says "I want a team that operates by politics rather than performance." The dysfunctional team is what people end up in by default, not what they wanted.
+
+## The Three-Teams Bet
+
+A simple way to test the principle: imagine you have to bet on one of three teams. Which one wins?
+
+"If you were going to bet on 3 teams, one of the teams was everybody's in it for themselves, the other team is that everybody's in it to help the other people, and the other one is everybody's is in it for the team to win? Like, which one are you betting on? It's pretty obvious. You're gonna bet on the one where everybody's focused on the team, helping the team, making the team win." -- Joe Hudson, "I Block 3 hours a Month for Hard Conversations"
+
+The bet collapses to the same answer every time. Nobody bets on the in-it-for-themselves team. Almost nobody bets on the help-individuals team. Everybody bets on the team-wins team. The unanimity of the bet is the same as the unanimity of the want. Everybody knows which kind of team they want to be on.
+
+The variation between "help the individuals" and "for the team to win" is also important. Team-care prioritizes the team's actual outcome, not just the well-being of each individual. The team-wins frame includes individual flourishing inside it (the people who play for the team win individually too) but does not invert the priorities. Help-each-individual produces a different team than win-as-a-team, even though both look kind.
+
+"Yeah, but it's the priority is important. Like, oh, am I doing this to help the team win or am I doing this so that I personally can get ahead?" -- Joe Hudson
+
+## The 30% Who Sabotage What They Want
+
+A specific observation about the principle: a substantial fraction of people, when given the team they say they want, will sabotage it. They report wanting a trusting team, and then when they get one, they behave in ways that erode the trust.
+
+"Everybody would raise their hand and probably 30% of them would sabotage it the moment they had it." -- Brett Kistler / the dialogue
+
+The observation is important because it explains why dysfunctional teams persist despite everyone wanting the opposite. The sabotage is unconscious, defensive, learned. The people doing the sabotaging would still report wanting the trusting team. The discrepancy between the wanting and the doing is one of the central problems of team-building.
+
+Joe agrees: "Yeah, it's true. And they would not be a match for our team."
+
+The principle is not that everyone is capable of operating inside the team they want. The principle is that everyone wants the team. Operating inside it requires capacities not everyone has developed yet. The leader's job is to identify and either develop or release the people whose behavior would sabotage the team they say they want. See [[it-just-isnt-a-match]] for the frame around release.
 
 ## The Defensive Variation Is Not the Same
 
@@ -136,3 +160,4 @@ Joe says this with quiet conviction. He has tested it many times and observed th
 
 - 2022-10-26_Building A Functional Team
 - 2025-01-03_The Secret to Thriving Company Culture (the universal-want-to-do-great-work as a parallel observation; the empirical regularity that across dozens of companies, nobody ever says they don't want a supportive team; the reframe of management from manufacturing-the-want to removing-the-blocks; the natural-pull observation about teams' impulse to do great work being as natural as a kid's impulse to walk)
+- 2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂ (the three-teams bet as the operational form of the principle; the 30%-will-sabotage observation as the explanation for why dysfunctional teams persist; the team-wins-vs-help-individuals distinction; the priority-of-the-team-wins framing)

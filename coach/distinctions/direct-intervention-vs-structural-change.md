@@ -5,7 +5,7 @@ title: "Direct Intervention vs. Structural Change (The Two Forms of Culture Work
 aliases: ["direct intervention vs structural change", "the two forms of culture work", "direct vs structural in organizations", "structural change beats direct intervention", "the two leverage points for culture", "intervene vs design", "the structural lever vs the direct lever", "hiring firing coaching vs how-we-do-things", "the two forms of leadership leverage", "structural change as the high-leverage move"]
 tags: ["distinction", "leadership", "culture", "organizations", "leverage", "intervention", "structure"]
 related: ["structure-and-empowerment", "require-an-action-at-the-end-of-every-email", "ask-how-do-i-change-this-so-it-never-happens-again", "rollout-principles-in-organization", "make-everyone-feel-seen-when-things-go-wrong", "team-as-scientific-method", "dont-reflect-your-patterns-as-culture", "spit-at-the-top-is-a-waterfall-at-the-bottom"]
-sources: ["2025-01-03_The Secret to Thriving Company Culture"]
+sources: ["2025-01-03_The Secret to Thriving Company Culture", "2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂"]
 ---
 
 # Direct Intervention vs. Structural Change
@@ -83,6 +83,34 @@ In practice, the two forms work in sequence. A direct intervention happens becau
 
 This sequence is the leader's daily discipline. Every direct intervention is a candidate for a structural follow-up. Most do not get one, which is why most leaders are perpetually intervening directly on patterns they have already addressed multiple times.
 
+## The Measurement Precondition for Large-Scale Cultural Change
+
+At the scale of large organizations (Joe references companies of 100,000 people, or even countries), the principle has a precondition that smaller organizations can sometimes skip: you have to be able to measure the culture and measure your experiments on it. Without measurement, structural change at scale is unverifiable, and most attempts fail without the leader knowing why.
+
+"You have to have a way to measure the culture. You have to have a way to run experiments on the culture and measure the results of that experiment so you know if you're having any impact. So typically, people will do a cultural thing where they'll say, okay, we're going to do this new perf, which is a performance review, or a new KPI format, and we'll whatever, we'll do bonuses a different way and it'll change the culture. But they don't know if it actually did. Like they're just kind of listening to the ground. And so you need some way to measure what's gonna happen." -- Joe Hudson, "I Block 3 hours a Month for Hard Conversations"
+
+The pattern Joe describes: large-organization cultural interventions (new performance reviews, new KPI formats, new bonus structures) are launched without measurement infrastructure. The leader does the experiment, listens to the ground, and forms an opinion about whether it worked. The opinion is mostly noise, because the underlying measurement does not exist.
+
+The structural-change discipline at scale requires the discipline of measurement at scale. The leader who wants to change a large culture has to first build the apparatus to measure whether the changes are working. The apparatus is itself a structural intervention — measurement-as-a-system, rather than measurement as a one-time exercise.
+
+"As far as the tools, there's literally hundreds of tools that you can experiment with. But if you don't have a way to measure your experiments, it's never going to work." -- Joe Hudson
+
+The measurement-of-experiments principle is the broader form. At smaller scale, the leader can sometimes see the effect of a structural change directly (the faffing-stopped example was visible without formal measurement). At larger scale, the effect becomes invisible without instrumentation. The leader has to invest in the instrumentation first, then the structural changes become legible.
+
+## The Three Levers at Large Scale
+
+The principle, at large-organization scale, expands from two levers (direct intervention, structural change) to three:
+
+1. **Direct intervention** — addressing the specific situation
+2. **Structural change** — addressing the category of situation through institutional design
+3. **Consciousness work on the leader** — addressing the cascade through the leader's own state
+
+The third lever is most explicit at large scale. "Consciousness of the leadership is usually reflected in the organization. So especially if the leader's been there for a while. ... So on some level, just your consciousness, taking care of your own consciousness, will affect the culture of the company." -- Joe Hudson, "I Block 3 hours a Month for Hard Conversations"
+
+The leader's own internal work is a culture intervention, separate from any specific action they take. The leader who is doing their own consciousness work is by that fact alone shifting the company. See [[spit-at-the-top-is-a-waterfall-at-the-bottom]] for the mechanism.
+
+The three levers operate together. The leader who relies on only one — only direct interventions, only structural changes, or only their own consciousness work — leaves the other two on the table. The leader who runs all three (with measurement to verify the work) has the full apparatus for cultural change at scale.
+
 ## What This Maps to in Personal Work
 
 The same distinction applies inside one person. The direct version is "I'll try not to do that next time." The structural version is "I'll redesign the situation so the choice doesn't appear in the same form." See [[avoid-the-decision-by-design]] for the personal version of the same principle.
@@ -120,3 +148,4 @@ Joe describes this distinction matter-of-factly, almost diagnostically. He is no
 ## Sources
 
 - 2025-01-03_The Secret to Thriving Company Culture
+- 2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂ (the measurement precondition at large-organization scale — "if you don't have a way to measure your experiments, it's never going to work"; the three levers at large scale — direct intervention, structural change, consciousness work; the pattern of large-organization cultural interventions being launched without measurement infrastructure)

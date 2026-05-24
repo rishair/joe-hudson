@@ -5,7 +5,7 @@ title: "Empowered vs. Power"
 aliases: ["power vs empowered", "empowerment vs power", "real power vs control", "external power vs internal empowerment"]
 tags: ["empowerment", "power", "fear", "freedom", "authenticity"]
 related: ["vulnerability", "fear-triangle", "helplessness-is-the-gateway", "principles-free-you", "acting-as-if-already-true", "feared-consequences-rarely-happen", "joes-hr-call-firing", "power-dynamics-as-two-defenders", "visualize-the-reality-of-leadership", "business-as-spiritual-practice"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_The Power Dynamics Of Fear"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_The Power Dynamics Of Fear", "2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back"]
 ---
 
 # Empowered vs. Power
@@ -120,6 +120,54 @@ The power play dissolves because there is no fear of loss to leverage. The contr
 
 See [[joes-hr-call-firing]] for the extended version.
 
+## The Berlin Bombing Observation (Self-Possession Predicts Risk-Taking, Power Does Not)
+
+A canonical reference Joe uses to ground the distinction in lived observation. The story comes from a college professor of Joe's — a German who had been in Berlin as a child during the Allied bombing, watching the fires and the people in them.
+
+The observation: "In the war, one of the things that he realized was it wasn't the people who were super powerful who were willing to risk themselves for others. It was the people who were far more self-possessed, knew who they were, that they were able to risk themselves for others." -- Joe Hudson, After 14 Years of Coaching
+
+The structural point: power and the willingness to risk for others are not correlated. Self-possession and the willingness to risk are. The wartime example is extreme, but the principle is general. The CEO with hundreds of millions of dollars who is constantly worried about the company failing — even though financial security is assured for generations — is the everyday version of the same observation. Power was present. Self-possession was not. The protection of the power consumed the person who had it.
+
+The mechanism: power is something other people believe you have. Money has power in society because there is collective agreement that it does. The same is true of position, fame, influence. All of them can be taken because they exist by collective agreement, and the agreement can shift. The person whose stance rests on power is structurally scared, because they know the power can be taken.
+
+Empowerment is internal and uncollapsible. The person whose stance rests on knowing-who-they-are is not afraid of losing the external markers, because the markers were not what they were standing on. This is what makes them available to risk themselves for others. The risk of loss does not register the same way it does for the power-person, because the loss does not collapse the foundation.
+
+## Power Over Empowerment (Pattern-Form in the Seven)
+
+Joe positions this distinction as the sixth of the seven patterns that hold people back. The pattern form: people build their lives on power (control over others, money, fame, status, position) rather than on empowerment.
+
+The cleanest articulation Joe gives in this framing: "Power at its essence is something that people believe you have. Like, money has power in our society because we all agree money has power. This is how power works. You have to have an agreement that you have power for you to actually have power. And that means it can be taken away from you. It can be taken away from you with a gun. It can be taken away from you with loss of money. It can be taken away from you because people don't like you on YouTube anymore, but it can be taken away from you." -- Joe Hudson, After 14 Years of Coaching
+
+The empowerment side: "Empowerment basically is an expression of knowing deeply who you are. It means that, oh, I recognize that I don't have anything to defend, that I'm going to be okay whether you like me or you don't like me. I'm going to be okay whether you decide I need to be fired, or you decide that I need a raise, that I have choice, I have sovereignty, I can do what's required for me to be somebody that I respect." -- Joe Hudson, After 14 Years of Coaching
+
+## The Superman/Superwoman Felt Sense
+
+A specific somatic image Joe uses to make the felt-experience of empowerment available in the body. The image: being Superman or Superwoman with no kryptonite in the world. "I don't have to worry about what's next. I know that what I am essentially will take care of that thing." -- Joe Hudson, After 14 Years of Coaching
+
+The image is doing specific work. It is not promising omnipotence. It is pointing at the felt-experience of having nothing to defend, nothing to prepare for, nothing to fear. The world remains the world (people will die, pain will arrive, heartbreak will come, judgment will land, most of it in the next week). The image is not about removing the world. The image is about a stance toward the world that does not require anything to change in the world for the person to feel okay.
+
+This is also a useful pointer for the related practice [[feel-love-and-empowerment-as-the-same]]. The Superman image is one of the two phases of that visualization. The discovery that the Superman feeling and the unconditional-love feeling are the same in the body is what the practice surfaces.
+
+## The Relationship Power Struggle Example
+
+A specific applied example Joe uses for how power-vs-empowerment plays out in everyday romantic relationships. The scenario: your partner does something you think is embarrassing — something that will make your friends judge you, or that will make you ashamed to be associated with them.
+
+The common response is a power struggle: "I need you to not do that, but I wanna do that. You can't tell me what to do, I'm gonna do—" The fight ensues. Both people are reaching for power because both feel disempowered by the other.
+
+The empowerment alternative is a different question entirely: "What is required for me to be fully in myself right now, to be the person that I respect?" That question does not require the other person to do anything. It returns sovereignty to the asker. The asker is no longer trying to control the partner's behavior. The asker is asking what their own behavior would have to be for them to remain themselves regardless of what the partner does.
+
+"That question allows you to be what other people want to be rather than to be the thing that everybody's scared of." -- Joe Hudson, After 14 Years of Coaching
+
+The implication for coaching: when someone is in a relationship power struggle, the move is not to coach them in better negotiation tactics. The move is to flip the question. Stop asking what they need to get the partner to do. Start asking what they need to be to remain themselves regardless of what the partner does. The struggle dissolves because the asker is no longer participating in the power frame.
+
+## Safety Through Self-Knowledge (The Only Available Safety)
+
+A specific compressed teaching about why empowerment is structurally more durable than power. The world does not provide safety. "We are all going to die. We are all going to feel pain. We are all going to have heartbreak. We are all going to be judged. We're all going to be told that we're wrong. We're all going to have somebody get mad at us. And most of that is going to happen in the next week." -- Joe Hudson, After 14 Years of Coaching
+
+Given that the world will not be safe, the only available safety is through a deep sense of knowing who you are and trusting that what you are cannot be destroyed by anybody. This is also what [[knowing-yourself-is-the-only-safety]] articulates. The power-seeking strategy is structurally trying to make the world safe, which is impossible. The empowerment strategy is recognizing the world will not be safe and finding the only internal location that does not require the world's safety to function.
+
+This is also why the [[fear-triangle]] is a disempowerment signature. Each role (victim, savior, bully) is a strategy to obtain power in a world that the person has registered as unsafe. The empowerment alternative is not to acquire enough power to make the world safe. The empowerment alternative is to discover the internal location where the world's unsafeness no longer threatens the self that is operating in it.
+
 ## Empowerment and Love
 
 Empowerment and unconditional love are two sides of the same mountain. You cannot reach the peak from either side without the other.
@@ -152,3 +200,4 @@ The people seen as beacons of love (Mandela, King) all share a deep sense of emp
 - 2022-10-26_Empower Over Power
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)
+- 2026-05-05_After 14 Years of Coaching, This Is What I See Hold Most People Back — the framing of power-over-empowerment as the sixth of the seven patterns Joe sees holding people back; the Berlin-bombing observation from Joe's college professor that the people who risked themselves for others were the self-possessed, not the powerful; the explicit articulation that power exists only by collective agreement and can therefore always be taken (with a gun, with loss of money, with the YouTube audience deciding they don't like you); the Superman/Superwoman felt-sense image as a somatic pointer to the empowerment state ("no kryptonite in the world, I don't have to worry about what's next"); the relationship power-struggle example with the partner-embarrassment scenario and the empowerment-flip question ("what is required for me to be fully in myself right now, to be the person that I respect?"); the safety-through-self-knowledge framing as the only available safety given that the world will not provide safety ("we are all going to die, feel pain, have heartbreak, be judged, and most of it is going to happen in the next week")
