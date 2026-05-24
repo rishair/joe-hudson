@@ -9,8 +9,17 @@
 # Per https://developers.cloudflare.com/workers/static-assets/headers/
 
 # Next.js's hashed build assets are immutable — long-cache them.
+# CORP is required for all subresources because pages set
+# Cross-Origin-Embedder-Policy: require-corp (needed for OPFS-SQLite via
+# sqlocal). COEP must ALSO be set on the chunks themselves because turbopack
+# spawns Web Workers from these chunks — and the spec requires Worker scripts
+# loaded from a COEP page to themselves have COEP. Without these headers the
+# browser silently blocks the Worker with ERR_BLOCKED_BY_RESPONSE and SQLite
+# init never completes, leaving the UI stuck on "Loading conversations..."
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
 
 # Wiki content is mostly stable but can change on re-ingest. 10-minute
 # browser cache + 1-hour edge cache via stale-while-revalidate. The Worker
@@ -18,6 +27,7 @@
 # code path; that fetch hits the same cache.
 /content/wiki/*
   Cache-Control: public, max-age=600, s-maxage=3600, stale-while-revalidate=86400
+  Cross-Origin-Resource-Policy: same-origin
 
 # Internal asset for the wiki-asset-reader. Don't serve it to browsers
 # (it's a JSON manifest with no XSS risk, but no public reason to
