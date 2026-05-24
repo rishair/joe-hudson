@@ -77,7 +77,7 @@
     - [x] E-036 Coach v4: graph-walk retrieval over related: links in coach/
     - [x] E-037 Coach v5a: model-guided graph navigation with Haiku walker
     - [x] E-038 Coach v5b: model-guided graph navigation with Sonnet walker
-- [ ] G-010 Build web app exposing coach chat and wiki
+- [x] G-010 Build web app exposing coach chat and wiki
   - Research
     - [x] R-015 What's the best browser-side SQLite approach for full-fidelity AI SDK message persistence?
     - [x] R-016 How should the G-009 retrieval pipeline be adapted from coach-app to the web app?
@@ -91,7 +91,7 @@
     - [x] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
     - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
-    - [ ] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
+    - [x] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
 - [ ] G-011 Maintain a regularly-updated OpenRouter model registry with eval/cost/throughput data
 - [ ] G-012 Hetzner personal-PaaS: project.play.ris.hair routing via Cloudflare Tunnel with Cloudflare Access
   - Research

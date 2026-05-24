@@ -36,7 +36,18 @@ export function getOpenRouter(): OpenRouterProvider {
 
 // Backwards-compat: existing callers do `import { openrouter } from '...'`.
 // The Proxy defers construction until a model is actually requested.
-export const openrouter: OpenRouterProvider = new Proxy({} as OpenRouterProvider, {
+//
+// IMPORTANT: the Proxy target MUST be a function for the `apply` trap to
+// fire — `new Proxy({}, { apply })` produces a non-callable proxy and
+// `openrouter('model-id')` throws "openrouter is not a function" at runtime.
+// This was discovered on the first live Cloudflare deploy (E-046 Phase C):
+// the minified worker bundle showed `let yX=new Proxy({},{...})` and
+// `gt({model:yX(yQ),...})` then threw `TypeError: yX is not a function`.
+// Locally with NODE_ENV=development the same bundle wasn't tree-shaken the
+// same way and the call path was different; the production OpenNext bundle
+// surfaced the issue. Fix: use a stub function as the target.
+const _stub = (() => {}) as unknown as OpenRouterProvider;
+export const openrouter: OpenRouterProvider = new Proxy(_stub, {
   get(_target, prop, _receiver) {
     const inst = getOpenRouter() as unknown as Record<string | symbol, unknown>;
     const value = inst[prop];
