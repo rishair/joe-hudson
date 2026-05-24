@@ -2,10 +2,10 @@
 type: move
 id: hire-by-dream-job
 title: "Hire by Asking 'What's Your Dream Job?'"
-aliases: ["hire by dream job", "ask their dream job", "dream job hiring question", "the dream-job hiring move", "what's your dream job hiring", "fit by dream job", "the management-prevention hire", "hiring to avoid management", "ask what they want to do, not convince them"]
-tags: ["hiring", "leadership", "fit", "management", "delegation", "live move", "wants", "investing"]
-related: ["enjoy-over-manage", "follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "inherent-goodness", "give-parameters-of-winning", "the-want", "wants-over-shoulds", "seeing-others-clearly-requires-not-looking-for-yourself"]
-sources: ["2022-10-26_Enjoy Over Manage", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
+aliases: ["hire by dream job", "ask their dream job", "dream job hiring question", "the dream-job hiring move", "what's your dream job hiring", "fit by dream job", "the management-prevention hire", "hiring to avoid management", "ask what they want to do, not convince them", "your job is to pick people who can work inside your environment", "it's not your job to heal people inside your environment", "the pick-don't-heal hiring principle", "hire for fit don't hire to rebuild"]
+tags: ["hiring", "leadership", "fit", "management", "delegation", "live move", "wants", "investing", "environment"]
+related: ["enjoy-over-manage", "follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "inherent-goodness", "give-parameters-of-winning", "the-want", "wants-over-shoulds", "seeing-others-clearly-requires-not-looking-for-yourself", "trust-with-authority-has-to-be-rebuilt-with-the-formerly-punished", "tolerating-underperformance-is-always-personal", "feeling-responsible-for-them-disempowers-them"]
+sources: ["2022-10-26_Enjoy Over Manage", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2026-04-24_How to Delegate Without Micromanaging"]
 ---
 
 # Hire by Asking 'What's Your Dream Job?'
@@ -110,7 +110,32 @@ This is [[dropping-roles-makes-room]] applied to hiring authority. The CEO who o
 - Toward [[management-required-to-launch-predicts-management-required-forever]]: the principle this move operationalizes.
 - Toward [[inherent-goodness]] applied to team-building: trust that the right people exist; find them rather than convince others to be them.
 
+## The Companion Principle: Pick People Who Can Work In Your Environment; Don't Heal Them Inside It
+
+A specific extension of the move that surfaces in delegation work: the leader's hiring job is to select for fit with the environment, not to take on the project of healing or rebuilding the person inside the environment. The distinction is what keeps the leader's energy spent on the work rather than spent on the rebuild.
+
+"Your job is to pick people who can work inside of your environment. It's not your job to heal people inside of your environment." -- Joe Hudson (echoing his coach), How to Delegate Without Micromanaging
+
+The principle is operationally significant because most hiring frameworks subtly invite the opposite. The leader who has built a kind, supportive, growth-oriented environment can start to see the environment itself as a service to people, and start hiring people who would benefit from the environment rather than people who can deliver inside it. The drift is gradual. The cost compounds over time as the team becomes more about healing and less about delivering.
+
+This is not a license for cruelty in hiring. The leader can be deeply humane in how they say no to a candidate. The principle is about the structural role: the leader is responsible for the environment producing what it is supposed to produce, and the hiring decisions are the primary lever for that. A candidate whose dream job matches the role AND who can work inside the environment as it is, is the hire. A candidate whose dream job matches but who needs the environment to transform into something else for them to thrive, is not the hire.
+
+The principle pairs with [[trust-with-authority-has-to-be-rebuilt-with-the-formerly-punished]] — there is real trust-rebuilding work that some hires require, and the environment can hold some amount of that work, but the leader has to be honest about how many such hires the team can absorb simultaneously. Too many and the team's overall delivery capacity drops.
+
+The principle also pairs with [[feeling-responsible-for-them-disempowers-them]]. The leader who feels responsible for the team member's growth, healing, or development is treating the team member as not the author of those things. The leader's role is the environment; the team member's role is what they do with it. Both responsibilities are clean and separate.
+
+## The Becoming-A-Better-Person Diagnostic
+
+A specific question Joe references that operationalizes the fit principle from the team member's side: do people feel they become better people by working here?
+
+"You know that one of the things we do in AOA is we ask everybody if they feel like they become better people by working here. Yeah, really important to us because one, if everybody feels like they're better people for working here, they stay. And if we've hired good people, we want them to stay. The other is that it just makes life more satisfying. It makes being here more satisfying, and that's all great." -- Joe Hudson (quoting his coach), How to Delegate Without Micromanaging
+
+The question doubles as a retention measure and a culture diagnostic. People who feel they are becoming better through their work tend not to leave. The pattern of answers also reveals what the environment is actually producing for the people inside it. If most team members report no felt-development, the environment is producing output without producing growth — a sustainable arrangement for transactional work but not for the kind of team that holds together through difficult phases.
+
+The question is also a hiring filter. A candidate who is uninterested in becoming a better person through their work is signaling they want a different kind of relationship to the job than this environment offers. The mismatch is information, not a verdict on the candidate. Other environments may suit them better.
+
 ## Sources
 
 - 2022-10-26_Enjoy Over Manage
 - 2022-10-26_Jaime Waydo | Putting My Needs First
+- 2026-04-24_How to Delegate Without Micromanaging — Joe (as the client) names the companion principle to dream-job hiring: the leader's job is to pick people who can work inside the environment, not to heal them inside it; the becoming-a-better-person diagnostic as both a retention measure and a culture-fit filter; the framing that the environment can hold some trust-rebuilding work for [[trust-with-authority-has-to-be-rebuilt-with-the-formerly-punished|formerly-punished hires]] but cannot be primarily organized around the rebuilding

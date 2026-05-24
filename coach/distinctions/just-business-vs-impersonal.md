@@ -64,7 +64,14 @@ This connects to [[defense]] and [[boundary-with-vs-boundary-against]]. The clea
 
 When a coachee uses "it's just business" or similar phrases ("it's not personal," "this is just how things work," "I have to be objective here"), the read is that the personal charge is present and the speaker is pushing it down. The coaching move is to invite the underlying feeling. What would it be to actually feel guilty for firing this person? What would it be to actually want what you are afraid to ask for? Once the emotion is felt, the conversation can be conducted without the defensive frame.
 
+## The Tolerating-Underperformance Inversion
+
+A specific application of the distinction that emerges in business-delegation contexts: the phrase "it's not personal, it's just business" gets the structure backwards when applied to tolerating an underperforming employee. The clean impersonal business move is to address the gap — name the situation matter-of-factly, hold the standard, make the change. If the leader is *not* making the clean move, something is personal — caretaking, fear of conflict, identity protection, over-responsibility. See [[tolerating-underperformance-is-always-personal]] for the dedicated treatment of this inversion.
+
+The distinction's general teaching applies: if the leader had to harden up to be "just professional" about the underperformance, they were taking it personally and pushing it down. If the leader can name the situation plainly and stay open, they have actually arrived at the impersonal stance — and the decision becomes available.
+
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
 - 2022-10-26_Money Can't Oppress You (rebroadcast)
+- 2026-04-24_How to Delegate Without Micromanaging — cross-referenced for the [[tolerating-underperformance-is-always-personal]] application of this distinction to the business-decision domain

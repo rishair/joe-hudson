@@ -4,7 +4,7 @@ id: anxiety-when-confronting-what-you-want
 title: "Anxiety When Confronting What You Want (Wants Trigger Anxiety, Not Excitement)"
 aliases: ["anxiety when confronting what you want", "wants trigger anxiety", "the wants-produce-anxiety read", "every time you touch what you want anxiety arrives", "the anxiety around wanting read", "confronting wants triggers anxiety", "anxiety as the response to desire", "want-anxiety", "the anxious-when-asked-what-they-want read", "the I-don't-have-time-because-anxiety read", "anxiety produced by exploring", "anxiety when given permission to explore", "the wanting-produces-anxiety read"]
 tags: ["anxiety", "wants", "reads", "fear", "desire", "freedom"]
-sources: ["2024-04-22_How Do I Live Up To My Potential？"]
+sources: ["2024-04-22_How Do I Live Up To My Potential？", "2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe"]
 ---
 
 # Anxiety When Confronting What You Want
@@ -58,12 +58,31 @@ Direct, matter-of-fact, slightly amused. The naming is delivered as an observati
 
 The lightness matters. If delivered heavily, the naming becomes another reason for the person to feel bad about themselves, which would be the anxiety pattern eating the intervention.
 
+## The Anxiety Is the Contained Excitement
+
+When the wants-trigger-anxiety pattern is worked at the felt level — usually through [[breathe-into-the-emotion-to-enjoy-it-not-to-get-rid-of-it]] — the anxiety frequently reveals itself as excitement that has been compressed. The diagnostic moment is the body's response to breathing into the anxiety without removal-agenda. The anxiety transforms into warmth, smile, opening — the somatic signature of excitement.
+
+In a session with a woman trying to start her own business, after the structural work had located the avoided action and exposed the should-as-shame mechanism, she surfaced "but why does that feel so hard?" Joe took her through breathing into the anxiety. The exchange that exposed the underlying excitement:
+
+- **Joe:** "What is that feeling? What is excitement? I mean, sorry, what is anxiety when you breathe into it? What's the feel—"
+- **Client:** "yeah, you answered it."
+- **Joe:** "That's what you're doing, you're avoiding your excitement."
+
+*(Source: Getting Out of Your Own Way)*
+
+Joe's near-slip — almost saying "excitement" instead of "anxiety" — was the diagnostic. The anxiety the client had been managing was the excitement she had been organized to contain. The pattern of "I can't be excited about this thing I want" was operating exactly as described in this read, but the operating mechanism was visible: every time the want is touched, the system converts the underlying excitement into anxiety, which is then managed via avoidance, complication, distraction, and self-analysis.
+
+The implication: when this read is operating, the work is to surface the contained excitement underneath. The anxiety is not the actual feeling. The actual feeling is the excitement that the anxiety has been the protective surface form of. See [[contained-excitement-is-the-built-architecture]] for the deeper pattern this implies — the architecture of self-sabotage as the excitement-containment system.
+
+This also adds a specific signal to the read's diagnostic: phrases like "I have to settle my heart down" or "I have to stop being excited" said in the opening minutes of a session. These phrases are the architecture announcing itself directly. The person reports needing to settle the excitement before they can do the thing they want, which is the pattern in its most undisguised form.
+
 ## Connected Concerns
 
 - [[im-not-living-up-to-my-potential]]: the most common presenting concern that surfaces this read.
 - [[i-dont-have-time-for-this]]: the time-scarcity framing is often this pattern in disguise.
 - [[i-feel-stuck]]: the stuckness frequently comes from this conversion of want into anxiety.
 - [[how-do-i-be-happy]]: when the person cannot say what would make them happy because the question itself triggers anxiety.
+- [[i-keep-getting-in-my-own-way]]: the architectural form of this read; the entire pattern of getting-in-own-way is often the operationalized version of wants-trigger-anxiety, with the anxiety further converted into distraction and complication so it never has to be felt directly.
 
 ## Connected Moves
 
@@ -81,3 +100,4 @@ The lightness matters. If delivered heavily, the naming becomes another reason f
 ## Sources
 
 - 2024-04-22_How Do I Live Up To My Potential?
+- 2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe — the operational form of the read showing the anxiety as the contained excitement; client opens with "how do I get out of my own way?" and reports needing to "settle my heart down, stop being excited"; the structural work surfaces the wanted action (starting a business as interior decorator); the felt phase has client breathing into the anxiety; Joe's near-slip ("what is excitement... sorry, what is anxiety when you breathe into it?") exposes the underlying excitement; Joe names directly "that's what you're doing, you're avoiding your excitement"; the entire getting-in-own-way pattern read as the architecture of excitement-containment via wants-trigger-anxiety conversion

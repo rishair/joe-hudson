@@ -10196,22 +10196,116 @@
     },
     {
       "folder": "2026-04-14_I started listening to my body and cried for 10 days",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T03:31:06Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "body-as-hack-to-presence",
+        "progressive-somatic-awareness-build",
+        "make-the-practice-juicy",
+        "gut-impulse-as-direction",
+        "one-to-one-grief-and-self-care",
+        "you-are-the-wisdom-holder-of-your-body"
+      ],
+      "articles_updated": [
+        "i-cant-feel-my-emotions",
+        "attention-is-feeling",
+        "daily-emotional-yoga",
+        "joes-crying-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:46:13Z"
     },
     {
       "folder": "2026-04-16_Getting Out of Your Own Way \uff5c Coaching with Joe",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T03:34:38Z",
+      "articles_created": [
+        "i-keep-getting-in-my-own-way",
+        "abstract-framing-as-defense",
+        "complicating-it-as-the-distraction",
+        "reject-all-the-stories",
+        "run-the-experiment-of-saying-i-want-instead-of-i-should",
+        "whats-the-thing-you-dont-know-how-to-do",
+        "just-go-do-the-thing-stop-asking-permission",
+        "now-were-at-the-real-thing",
+        "breathe-into-the-emotion-to-enjoy-it-not-to-get-rid-of-it",
+        "contained-excitement-is-the-built-architecture",
+        "everything-goes-away-anyway",
+        "interrupt-the-abstract-with-a-specific"
+      ],
+      "articles_updated": [
+        "love-the-anxiety-not-just-with-it",
+        "anxiety-when-confronting-what-you-want",
+        "find-the-want-behind-the-should",
+        "should-as-threat"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T04:01:32Z"
+    },
+    {
+      "folder": "2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:35:26Z",
+      "articles_created": [
+        "uninvited-help-hands-them-your-fear",
+        "the-helper-trap",
+        "why-does-everybody-resent-me-when-all-i-do-is-help",
+        "uninvited-help-erodes-trust",
+        "the-helper-repair-conversation",
+        "get-the-minimal-information-you-need-to-feel-safe",
+        "surrogate-of-care-instead-of-real-care"
+      ],
+      "articles_updated": [
+        "caring-vs-caretaking",
+        "resentment-as-caretaking-diagnostic",
+        "read-anger-and-help-as-fear",
+        "i-caretake-people",
+        "over-control-vs-hands-off-oscillation",
+        "kids-shouldnt-caretake-the-parent",
+        "fear-hot-potato",
+        "feeling-responsible-for-them-disempowers-them"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:50:45Z"
+    },
+    {
+      "folder": "2026-04-24_How to Delegate Without Micromanaging",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:47:07Z",
+      "articles_created": [
+        "dont-try-to-replicate-yourself-across-the-team",
+        "tolerating-underperformance-is-always-personal",
+        "trust-with-authority-has-to-be-rebuilt-with-the-formerly-punished"
+      ],
+      "articles_updated": [
+        "give-parameters-of-winning",
+        "leadership-is-what-you-tolerate",
+        "hire-by-dream-job",
+        "culture-outside-mirrors-culture-inside",
+        "just-business-vs-impersonal",
+        "i-want-to-delegate-better"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T04:07:26Z"
+    },
+    {
+      "folder": "2026-04-24_\uff02I Block 3 hours a Month for Hard Conversations\uff02",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T03:51:38Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear",
+      "folder": "2026-04-28_I've Coached 1000s in Pain. 'I'm Sorry' Isn't What They Need",
       "status": "in-progress",
-      "claimed_at": "2026-05-24T03:35:26Z",
+      "claimed_at": "2026-05-24T04:02:48Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2026-04-30_She Came Asking to Let Go, She Left with a Love That Doesn't End \uff5c Coaching with Joe",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T04:08:32Z",
       "articles_created": [],
       "articles_updated": []
     }

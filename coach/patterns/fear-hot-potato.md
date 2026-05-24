@@ -42,6 +42,8 @@ The fear is thrown through several channels:
 
 **The reverse throw: false reassurance.** "It's going to be fine." This is the throw used by the reassurer who cannot feel the anxious person's fear. The reassurance lands on the anxious person as a demand to stop feeling, which produces more fear, which the reassurer now has to manage with more reassurance. The throw is in both directions in this dynamic: the original anxious person throws by being anxious; the reassurer throws back by demanding the anxiety stop.
 
+**Helping uninvited as throw.** A specific channel worth naming separately because it does not look like a throw on the surface. The helper feels anxious about an outcome; the helper acts on the anxiety by stepping into someone else's domain to do the thing for them or alongside them; the helper feels relief; the receiver now has the helper's anxiety operating in their space, plus the original task. The throw was the help itself. The disguise is generosity. See [[uninvited-help-hands-them-your-fear]] for the dedicated principle treatment and [[the-helper-trap]] for the full pattern with both sides.
+
 ## The Setup That Prevents the Throw
 
 The retreat context Brett and Joe discuss provides the structural alternative. The setup that prevents the fear hot potato in a group: make the fear table stakes. Everyone is there to feel fear. No one is allowed to claim they are not afraid. The shared activation removes the throw-target. There is no one to hand the fear to because everyone is already holding their own.
@@ -134,3 +136,4 @@ Joe names this with a kind of plain recognition. The framing is structural rathe
 ## Sources
 
 - 2024-02-02_A Workshop for Welcoming Fear (Joe's explicit "fear hot potato" framing, with the family anxiety-carrier example and the compassion-of-seeing-fear-underneath observation)
+- 2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear — the helping-as-throw channel; the doubling-the-credit-card-debt structural picture for the help-form of the hot potato; the receiver's-part-as-surrogate-care framing that maps the hot-potato dynamic onto the helper-trap configuration

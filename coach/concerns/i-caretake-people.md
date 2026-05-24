@@ -169,8 +169,22 @@ The work for this form is the work for the broader fix-everything concern. The c
 
 The descent for this form runs through judgment to silence rather than through grief of feared loss. The fixer judges what needs fixing; the judgment is the activator; the silence underneath the judgment is what the activity has been holding off. See [[im-judgmental-how-do-i-stop]] for the judgment-descent and [[fix-everything-woman-anthill-presence-session]] for the canonical example of the whole arc.
 
+## The Helper-Trap Sibling Form
+
+A structurally adjacent concern with a different presenting voice: the chronic helper who is bewildered by the resentment they receive despite all their giving. Where the caretaker presents as "I'm exhausted from managing everyone's emotions," the helper-trapper presents as "all I do is help and everyone resents me." Same root configuration (childhood-installed safety strategy of managing others to avoid trouble), different surface expression (uninvited action rather than emotional management).
+
+The two forms often interlace in the same person. A coachee may present as one and reveal the other in the same session. The distinguishing markers:
+
+- **Caretaker presentation:** centered on managing emotional states. "I tiptoe around her moods." "I sacrifice myself for them every day." Stories full of others' emotional experience.
+- **Helper-trap presentation:** centered on doing tasks uninvited. "I'm doing all the work in this marriage." "Why am I at this thing all alone?" Stories full of others' incapacity or failure to step up.
+
+When the helper-trap form is the dominant presentation, the dedicated concern article is [[why-does-everybody-resent-me-when-all-i-do-is-help]]. The full pattern is described in [[the-helper-trap]]. The mechanism principles are [[uninvited-help-hands-them-your-fear]] and [[uninvited-help-erodes-trust]]. The exit conversation is [[the-helper-repair-conversation]], with the leadership-specific structural fix at [[get-the-minimal-information-you-need-to-feel-safe]]. The receiver-side complement is [[surrogate-of-care-instead-of-real-care]].
+
+The work for the helper-trap form is structurally parallel to the caretaking work but emphasizes the action layer rather than the emotional layer. The fear underneath ("I'll get in trouble if I don't help") often surfaces more quickly than the avoided feeling in the emotional-caretaking form, because the action is concrete and the consequence is named. The childhood origin Joe describes — "your job was to help them emotionally to avoid trouble" — is the same origin for both forms; the adult expression differs by domain.
+
 ## Related Concerns
 
+- [[why-does-everybody-resent-me-when-all-i-do-is-help]]: the helper-trap sibling form when the caretaking has expressed primarily as uninvited action in marriages, workplaces, or parent-teenager relationships.
 - [[why-am-i-always-trying-to-fix]]: the broader concern when the caretaking has generalized to a whole way of being, including self, others, and the world.
 - [[should-i-stay-with-my-ex]]: when the caretaking presents as a stay-or-leave question about a long relationship.
 - [[im-stuck-in-indecision-and-driving-my-partner-crazy]]: when the caretaking has produced chronic indecision and the speaker presents that indecision as the symptom, with the request framed around the partner's pain rather than around a decision to be made.
@@ -189,3 +203,4 @@ The descent for this form runs through judgment to silence rather than through g
 - 2024-07-01_Should I Stay With My Ex? -- Q&A session demonstrating caretaking presenting as a stay-or-leave question about a trial separation; the woman is managing her depressed husband into happiness to recover the man she fell in love with
 - 2025-07-01_Why Am I Always Trying To Fix Myself & Others？ (Coaching Session With Joe Hudson) — the obsessive-caretaking / fix-everything form; the woman who self-labels "obsessive caretaking behavior" and describes fixing self, others, and the world's injustices as one generalized pattern; the demonstration that this form requires the broader fix-pattern work rather than the localized caretaking work
 - 2025-12-26_Watch Her 2-year Relationship Paralysis Dissipate ｜ 9mins of Coaching with Joe — the chronic-indecision-and-driving-them-crazy form: 9-minute coaching demonstration in which the caretaking presents as years-long stuck indecision with the partner; the work surfaces the using-partner's-anger-as-wrongness-signal measurement system, names the pleasing-as-leaving trilemma, installs the trauma-lens cognitive substitution via role-play, and lands the be-with-the-pain-or-leave integrity binary
+- 2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear — the helper-trap sibling form, where the caretaking expresses primarily through uninvited action in marriages, workplaces, and parent-teenager relationships; the dedicated treatment lives at [[the-helper-trap]] and [[why-does-everybody-resent-me-when-all-i-do-is-help]]

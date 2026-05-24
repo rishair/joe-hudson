@@ -5,7 +5,7 @@ title: "Require an Action at the End of Every Internal Message (The Mutual-Deleg
 aliases: ["assign an action to anyone in your team", "the end-of-email action rule", "mutual delegation practice", "anyone can delegate to anyone practice", "the delegation-upward practice", "junior assistants can assign the CEO", "no one is unassignable", "the action-at-the-end practice", "structural practice against authority distortion"]
 tags: ["practice", "leadership", "team", "delegation", "authority", "structure", "culture", "communication", "hierarchy", "company-design"]
 related: ["authority-issues", "the-four-authority-positions", "structure-and-empowerment", "surround-yourself-with-people-who-make-fun-of-you", "spit-at-the-top-is-a-waterfall-at-the-bottom", "leaders-wants-are-the-organizations-wants", "make-everyone-feel-seen-when-things-go-wrong"]
-sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson", "2025-01-03_The Secret to Thriving Company Culture"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson", "2025-01-03_The Secret to Thriving Company Culture", "2026-04-24_＂I Block 3 hours a Month for Hard Conversations＂"]
 ---
 
 # Require an Action at the End of Every Internal Message
@@ -68,6 +68,16 @@ The practice originated as the structural response to a specific pattern Joe not
 The 90% number is the leverage statement. A direct intervention on each faffing instance would have addressed each instance and missed the rest. The structural change reduced the entire category by an order of magnitude with one design decision. See [[direct-intervention-vs-structural-change]] for the underlying distinction this exemplifies, and [[ask-how-do-i-change-this-so-it-never-happens-again]] for the question Joe asked that generated this design.
 
 The explicit format Joe uses: "action needed:" followed by what the action is, who is supposed to do it, when they're supposed to do it by. The action recipient can be anyone -- the part-time assistant assigning the CEO, the CEO assigning the assistant. The reciprocity (anyone can assign anyone) and the specificity (what, who, when) together produce the result.
+
+## The "I Hated It at First" Diagnostic
+
+A specific report from someone who joined a team running the practice and encountered it for the first time:
+
+"I hated that at first. I knew the moment I hated it, I was like, oh, this is exactly what we need." -- a leader-coachee describing his own first encounter with the practice, "I Block 3 hours a Month for Hard Conversations"
+
+The diagnostic is informative. The practice produces an immediate negative reaction in many people new to it. The reaction is itself the signal of why the practice is needed. The person hated being asked to specify an action because the specificity exposed the hedging they had been doing. The hedging was the pattern; the specification interrupted it; the interruption felt uncomfortable; the discomfort was the cost of breaking the pattern.
+
+This is useful information for leaders installing the practice: expect initial resistance, expect the resistance to come from the people for whom the practice is most needed, and expect the resistance to soften as the people who recognize the diagnostic value of their own reaction work through it. The leader who treats the initial discomfort as a sign the practice is wrong will reverse the install. The leader who treats the discomfort as a sign the practice is doing its job will hold the install through the adjustment period.
 
 ## What This Produces
 

@@ -5,7 +5,7 @@ title: "Should as Threat"
 aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management", "shoulding yourself is also trigger", "self-shoulding as trigger", "feel the contraction of the should in your body", "the body-contraction signature of the self-should", "you can feel the should in your body"]
 tags: ["shoulds", "shame", "control", "threat", "nervous system", "voice in head", "trigger"]
 related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice", "trigger", "walking-around-thinking-im-no-good-is-the-stress", "list-things-trying-to-change-for-4-years", "notice-where-you-shame-yourself-be-gentle", "ive-been-trying-to-change-this-for-years"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Triggered!", "2022-10-26_Want Over Should", "2025-11-25_Why You Can't Change"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Triggered!", "2022-10-26_Want Over Should", "2025-11-25_Why You Can't Change", "2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe"]
 ---
 
 # Should as Threat
@@ -89,6 +89,21 @@ Joe's own discovery of this happened through Fritz Perls's Gestalt frame of "upp
 
 The should requires the person to believe they are bad. To see the should clearly, the premise of badness has to drop. Because it does not drop, the should stays invisible to the person running it on themselves -- even while they can see it instantly when another person runs it on someone else. See [[wants-over-shoulds]] for the war metaphor.
 
+## The Compressed Form: Should Is Shame, Shame Stops Behavior
+
+A specific compressed delivery Joe uses in fast coaching contexts:
+
+"The should is usually a good way to stop things. Should is a shame. Shame is a way that you stop behavior, right? I shame you to get you to stop. Should is shame. Shame stops behavior typically." -- Joe Hudson, Getting Out of Your Own Way
+
+The compression has three moves stacked:
+1. "Should is shame" — names the equation directly.
+2. "Shame stops behavior" — names the mechanism.
+3. "I shame you to get you to stop" — names the original interpersonal use that the self-shaming is patterning on.
+
+Each move is short enough to land in seconds. The compression is useful when the client has just had a felt experience of the should slowing them down (often after [[run-the-experiment-of-saying-i-want-instead-of-i-should]] has produced the direct body comparison) and the teaching is being delivered on the predicate of the experience. The brevity matches the felt-experience moment — extended teaching would override the body's recognition with more conceptual content.
+
+The compression also fires before the next loop has a chance to start. Joe often delivers it immediately followed by an anticipatory naming: "Okay, so we remove shame from the equation, but now you have another thing to do that'll distract you from actually doing the business. Now you'll come to me in two weeks and you'll be like, how do I get rid of my shame so I can start my business? I see you coming." The anticipation preempts the should-about-the-should loop where the client converts the insight into a new should ("I should stop shoulding").
+
 ## Shoulding Yourself Is Itself a Trigger
 
 Alexa Hudson named a corollary in the Triggered! episode that sharpens the concept: any time you are shoulding yourself, you are in a trigger. The energetic, neurological, and emotional registers that classify a should as a threat also classify it as a trigger response. The self-should is not a benign motivational tactic that occasionally goes wrong. It is itself the system being in trauma rather than in itself.
@@ -121,3 +136,4 @@ The corollary also points back to what the should is hiding. Shoulds usually ari
 - 2022-10-26_Triggered!
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
 - 2025-11-25_Why You Can't Change — the body-contraction test ("you can just feel your whole body contract when you're saying it to yourself") as the in-real-time embodied diagnostic of the threat; the loop-form structure (should → didn't → self-beating → should again) as the compounding mechanism that turns the single threat-event into a chronic stress condition; the framing that the loop is itself stressful in addition to each individual should being stressful
+- 2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe — the compressed three-move delivery ("should is shame, shame stops behavior, I shame you to get you to stop") used after a live should-to-want substitution has produced felt evidence; the anticipatory naming of the should-about-the-should loop that immediately follows the compression ("now you'll come to me in two weeks and ask how to get rid of shame to start your business — I see you coming") to preempt the conversion of the insight into a new self-improvement project

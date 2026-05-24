@@ -5,7 +5,7 @@ title: "Find the Want Behind the Should"
 aliases: ["locate the want under the should", "what do you actually want here", "translate the should", "the want behind it"]
 tags: ["moves", "shoulds", "wants", "coaching", "translation"]
 related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should", "say-the-forbidden-want-out-loud", "money-as-surrogate", "joes-stinky-house-experiment", "enjoyment-as-path"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should", "2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should", "2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-27_＂I Should Be More Productive＂ Is Killing You (Coaching Session With Master Coach)", "2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe"]
 ---
 
 # Find the Want Behind the Should
@@ -93,6 +93,30 @@ A more active variant of this move is the substitution dialogue: instead of loca
 
 The find-the-want and the say-it-out-loud versions are not in competition. The find-the-want translation is faster and lighter, useful for shoulds that are not heavily shame-loaded. The say-it-out-loud version is more potent for wants that have been forbidden, where the body needs to hear itself voice the want for the dissolution to land.
 
+## The Direct Swap (Catch the Should and Run the Experiment)
+
+The simplest live form of the move is the direct verb-swap: catch the should as it arrives, have the person say the same sentence with "I want" instead, then ask which feels better. This form does not require translating to an underlying want — it just swaps the verb. The body's response to the two versions of the same sentence is the diagnostic.
+
+The full form Joe uses, with a client who said "I should be doing my business":
+
+- **Joe:** "Well, there's a good thing that will stop you right there."
+- **Client:** "Saying I should."
+- **Joe:** "Uh-huh."
+- **Joe:** "Yeah. Well, so let's just, let's just run the experiment. You should do what?"
+- **Client:** "I should go stock my shelf."
+- **Joe:** "Okay, cool. Now say I want to go stock my shelf."
+- **Client:** "I want to go stock my shelf."
+- **Joe:** "Yeah. Which feels better?"
+- **Client:** "Like I want to."
+
+*(Source: Getting Out of Your Own Way)*
+
+The direct-swap form is faster than the translation form and produces an immediate felt difference. The body does the comparison work; the question "which feels better?" forces the body's report. The client's report is the predicate for the teaching that often follows ("the should is shame, shame stops behavior").
+
+When to use the direct swap versus the translation: the direct swap is for shoulds attached to actions the client actually wants to take but is being slowed down by the framing. The translation is for shoulds that are covering a different underlying want than the surface action. The two forms can also be chained — direct swap first to establish the felt difference, then translation to find the deeper want if the surface want is itself in service of something else.
+
+See [[run-the-experiment-of-saying-i-want-instead-of-i-should]] for the dedicated move article on this form.
+
 ## Tone
 
 Curious, light. Not corrective. The frame is not "you're using the wrong word." It is "what's underneath that? what do you actually want here?" The question opens the field rather than narrowing it.
@@ -104,3 +128,4 @@ Curious, light. Not corrective. The frame is not "you're using the wrong word." 
 - 2022-10-26_Want Over Should
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the trash-can canonical telling of the move; the explicit formulation "It's not I have to take out the trash, it's I want to take out the trash"; the teaching that mundane wants — the want for the stink to be gone — are sufficient to reorient action)
 - 2025-05-27_"I Should Be More Productive" Is Killing You (Coaching Session With Master Coach) — the specificity-first preliminary step for diffuse should-spirals; the example-prompting form ("you should stop smoking, you should—") that gives the client the shape of answer being requested; the demonstration that the client's first abstract answer ("trying to be different in some way") must be refused before the concrete should can surface ("I should be more productive")
+- 2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe — the direct-swap live form of the move; client says "today I should be doing my business" in response to "what would stop you if you started today?"; Joe catches the should immediately ("well, there's a good thing that will stop you right there"); frames the substitution as an experiment ("let's just run the experiment, you should do what?"); client gives the specific should ("I should go stock my shelf"); Joe asks for the want-form ("now say I want to go stock my shelf"); Joe asks "which feels better?"; client reports "like I want to"; Joe immediately teaches the mechanism on the predicate the body just established ("should is shame, shame stops behavior")

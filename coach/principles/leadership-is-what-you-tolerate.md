@@ -2,10 +2,10 @@
 type: principle
 id: leadership-is-what-you-tolerate
 title: "Leadership Is What You Put Up With (And What You Don't)"
-aliases: ["leadership is what you tolerate", "leadership is what you put up with", "what you allow is your leadership", "the leadership is in what you tolerate", "I will not put up with defensiveness", "I will not put up with this", "this doesn't work for me I'm going down", "the cliff version of leadership", "leadership is internal integrity", "the integrity-as-leadership principle", "leaders make the line by what they will not accept", "the moral compass as leadership marker", "this isn't right I'm walking away is leadership", "two interpretations of what-you-allow", "leadership by what you refuse"]
-tags: ["leadership", "integrity", "principle", "tolerance", "boundaries", "moral-compass", "values"]
-related: ["leadership-is-for-everyone", "leadership-is-following-your-conviction", "lead-and-follow", "principles-free-you", "save-leadership-framework", "integrity-as-money-compass", "wants-over-shoulds", "blame-is-the-abandonment-of-leadership"]
-sources: ["2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone"]
+aliases: ["leadership is what you tolerate", "leadership is what you put up with", "what you allow is your leadership", "the leadership is in what you tolerate", "I will not put up with defensiveness", "I will not put up with this", "this doesn't work for me I'm going down", "the cliff version of leadership", "leadership is internal integrity", "the integrity-as-leadership principle", "leaders make the line by what they will not accept", "the moral compass as leadership marker", "this isn't right I'm walking away is leadership", "two interpretations of what-you-allow", "leadership by what you refuse", "the diversity-of-non-defensiveness principle", "our team is diverse but not in defensiveness", "be really clear on what you accept and what you don't", "the team-curation-as-leadership principle"]
+tags: ["leadership", "integrity", "principle", "tolerance", "boundaries", "moral-compass", "values", "team", "hiring"]
+related: ["leadership-is-for-everyone", "leadership-is-following-your-conviction", "lead-and-follow", "principles-free-you", "save-leadership-framework", "integrity-as-money-compass", "wants-over-shoulds", "blame-is-the-abandonment-of-leadership", "tolerating-underperformance-is-always-personal", "hire-by-dream-job"]
+sources: ["2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone", "2026-04-24_How to Delegate Without Micromanaging"]
 ---
 
 # Leadership Is What You Put Up With (And What You Don't)
@@ -96,6 +96,29 @@ The clarification work is upstream of clean tolerance-based leadership. See [[pr
 
 Joe delivers this with steady recognition. The two-readings discussion has the texture of two people working out something live — the second reading is offered by Brett as the new angle, and Joe takes it in: "When I thought about that, that just kind of blew my mind." The tone is collaborative discovery rather than doctrinal teaching. The principle lands as something both speakers are arriving at together.
 
+## The $200K Diagnostic: What ROI Failure Reveals
+
+A specific operational form of the principle that surfaces in business contexts: if a high-cost employee is not producing the return their cost implies, the toleration is itself the leadership move. The principle is structurally the same as the broader reading — what is being tolerated is the leadership — but the financial specificity of the example gives the principle teeth that the abstract version doesn't have.
+
+The clean stance the principle produces:
+
+"Hey, I wanna know what makes that, that it's not, that doesn't get done, and, I gotta say, if I'm paying you $200,000 a year, my expectation is that that gets done. Like, that's way too much of an investment for me to have to track this or follow up on this." -- Joe Hudson (echoing his coach), How to Delegate Without Micromanaging
+
+The leader who can name this cleanly is not being harsh; they are being clear about the structural arrangement. The investment is real. The expected return is real. The gap between them is real. Naming the gap is the leadership move. Tolerating the gap silently is also a leadership move — a different one, with different consequences. The principle asks: which leadership are you doing?
+
+The principle pairs with [[tolerating-underperformance-is-always-personal]]: if the leader is tolerating the gap despite the clean case, the toleration is being held in place by personal material in the leader. The two principles together give the leader both the lens (this toleration is your leadership) and the diagnostic (the reason you can't address it is personal). Together they free the action.
+
+## The Curated-Diversity Variant
+
+Another operational form: the leader's leadership shows up in what kind of diversity they will and won't have on the team. A team can be highly diverse in many dimensions (background, perspective, working style) while being deliberately undiverse in others (defensiveness, dishonesty, refusal to engage with hard things). The undiverse dimensions are the leader's standards made structural.
+
+"We're not defensive. We're not a defensive team. We're not a dumb team. There's some diversity that we just don't have. And one of those things that we do are not diverse in, and this is, I think, really important for managing and delegating, is to be really clear on what you are willing to accept and what you are not willing to accept." -- Joe Hudson (echoing his coach), How to Delegate Without Micromanaging
+
+The reframe is useful because it sidesteps the moralized version of standards. The leader is not saying "people who are defensive are bad people." The leader is saying "this team is curated not to include defensiveness, the same way it's curated not to include dishonesty." The not-including is a structural decision about what kind of team this is. It is neither punishment nor judgment of those not included; it is the cumulative selection that produces the team's character.
+
+The clarity is what makes the move clean. The leader who can name "we are not diverse in defensiveness" can act on it without the action becoming a moral judgment. The team member who is defensive can be released without the release carrying contempt — they are simply not a match for the curated set of qualities the team is built around. See [[just-business-vs-impersonal]] for the related tonal distinction.
+
 ## Sources
 
 - 2025-10-10_Are You Avoiding Your Own Power？ Leadership Is For Everyone (the "what you put up with is the quality of your leadership" framing for the formal-leader reading; the cliff-walker example that opens the second reading; the internal-integrity-as-leadership connection; the research about moral compass as predictor of leadership effectiveness; the Brett-Joe collaborative arrival at the two-readings integration)
+- 2026-04-24_How to Delegate Without Micromanaging — the $200K ROI diagnostic as the operational form of the principle (the leader names what the investment requires and what gap is not workable, plainly, without it becoming punitive); the curated-diversity variant (the team is diverse in many dimensions but deliberately not diverse in defensiveness — this is leadership through the structural shape of what is and isn't accepted); the framing that being clear on what you accept and what you don't is "really important for managing and delegating"

@@ -109,6 +109,7 @@ The reframe: the team led themselves to follow you. Their following is itself a 
 - Toward [[avoiding-leadership-still-leaves-you-as-the-leader]] for the related failure mode of under-responsibility
 - Toward [[leadership-is-for-everyone]] for the underlying frame that they are leading too
 - Toward [[coaches-foundation-self-awareness]] for the disposition that supports the bounded stance
+- Toward [[uninvited-help-erodes-trust]] for the action-level mechanism of the disempowerment — the felt sense of "I let you down" tends to express in uninvited helping that delivers the three implicit messages of incapacity
 
 ## Tone
 

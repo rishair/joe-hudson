@@ -4,7 +4,7 @@ id: gut-impulse-as-direction
 title: "Listen to the Gut Impulse for Direction You Don't Yet Know You Want"
 aliases: ["gut impulse as direction", "the gut impulse practice", "listen to the gut for what you want", "the body points toward what you want", "the body knows what you want before your head does", "the arrr practice", "Tara's arrr story", "the wanting-to-be-bigger gut signal", "the body wanting to be bigger", "the body wanting to hold groups", "pre-verbal direction from the body", "the body's pre-verbal wanting", "the body points to the next move", "the body knows the next move", "gut wisdom as direction", "the body as compass for what you want", "wisdom of the body points you where you want to go", "let the gut speak", "hang out with the gut signal", "give the gut signal time to articulate itself", "the body's pre-verbal pointing", "the arrr that turned out to be wanting to work with groups", "the body's signal that you want more or you want different", "the body points you toward the new path", "the body is ahead of the head about what you want", "the body wisdom as direction-finding", "wanting that arrives somatically before it arrives intellectually"]
 tags: ["practice", "body", "wanting", "direction", "intuition", "gut", "somatic", "AOA", "Tara Hawley", "pre-verbal", "vocation"]
-related: ["body-as-hack-to-presence", "progressive-somatic-awareness-build", "head-heart-gut", "intuition-vs-conditioning", "wants-as-compass", "feel-over-figure", "what-do-you-want", "the-body-knows", "staying-in-your-body"]
+related: ["body-as-hack-to-presence", "progressive-somatic-awareness-build", "head-heart-gut", "intuition-vs-conditioning", "wants-over-shoulds", "wants-deepen-as-you-follow-them", "feel-over-figure", "staying-in-your-body"]
 sources: ["2026-04-14_I started listening to my body and cried for 10 days"]
 ---
 
@@ -30,7 +30,7 @@ For the person who lives in the head and ignores the body, these signals are pro
 
 For the person with body access, the signal is heard in the early stages — when it is still a pre-verbal "arrr" — and can be followed before it has to escalate into a crisis to be noticed.
 
-This is the same teaching as [[wants-as-compass]] applied at the somatic level. The wants the head can articulate are the surface of a deeper signal the body has already received. The body is ahead of the head on direction.
+This is the same teaching as [[wants-over-shoulds]] applied at the somatic level. The wants the head can articulate are the surface of a deeper signal the body has already received. The body is ahead of the head on direction.
 
 ## The Practice in Detail
 
@@ -94,12 +94,12 @@ Tara delivers this with the lightness of someone who lived the example. The "arr
 - When a client describes restlessness, stagnation, or wrongness without being able to name what.
 - When a client is contemplating a bigger move but cannot quite commit.
 - When a client has done significant body-awareness work and is ready to use the body for direction-finding.
-- When [[wants-as-compass]] is the operating frame and the question is "how do I access the deeper wants?"
+- When [[wants-over-shoulds]] is the operating frame and the question is "how do I access the deeper wants?"
 - When [[head-heart-gut]] has been taught and the question is "how do I let the gut speak?"
 
 ## Downstream (Where Joe Goes From Here)
 
-- Toward [[wants-as-compass]] when the gut signal articulates itself and the want becomes the working frame.
+- Toward [[wants-over-shoulds]] when the gut signal articulates itself and the want becomes the working frame.
 - Toward [[intuition-vs-conditioning]] when the question becomes "how do I know this signal is wise and not patterning?"
 - Toward [[feel-over-figure]] when the head wants to override the body's signal with analysis.
 - Toward [[staying-in-your-body]] as the ongoing practice that makes body signals available continuously rather than only when the body has to shout.

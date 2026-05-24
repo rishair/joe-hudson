@@ -138,6 +138,8 @@ The counter-practice for this variant is the spoken declaration. See [[say-im-no
 - Toward [[inner-work-as-generational-repair]]: the generational frame within which the parent's work matters
 - Toward [[esme-just-need-to-be-sad]]: the example of a kid declining the parent's reverse-caretaking
 - Toward [[i-caretake-people]]: the adult concern downstream of the childhood pattern
+- Toward [[the-helper-trap]]: the work/leadership-form of the adult pattern, where the childhood-installed safety strategy expresses through uninvited helping rather than through emotional management
+- Toward [[uninvited-help-hands-them-your-fear]]: the principle that connects the childhood "if I don't help I'll get in trouble" install to the adult mechanism of uninvited help as fear-transfer
 - Toward [[parenting-as-coaching-domain]]: the broader application
 
 ## Tone

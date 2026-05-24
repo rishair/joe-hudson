@@ -4,8 +4,8 @@ id: give-parameters-of-winning
 title: "Give the Parameters of Winning, Not the Method"
 aliases: ["state the parameters of winning", "tell them how to win not how to do it", "parameters of a good job", "car-cleaning gradient", "the intermediate step between micromanagement and laissez-faire", "let them discover how", "the constraints not the steps", "the win conditions"]
 tags: ["leadership", "delegation", "management", "autonomy", "wants", "live move", "workplace", "business"]
-related: ["enjoy-over-manage", "state-the-want-not-the-action", "follow-the-demand", "structure-and-empowerment", "valve-handbook-desks-on-wheels", "tell-them-like-an-asshole", "no-doctrine-leadership", "inherent-goodness"]
-sources: ["2022-10-26_Enjoy Over Manage"]
+related: ["enjoy-over-manage", "state-the-want-not-the-action", "follow-the-demand", "structure-and-empowerment", "valve-handbook-desks-on-wheels", "tell-them-like-an-asshole", "no-doctrine-leadership", "inherent-goodness", "dont-try-to-replicate-yourself-across-the-team", "set-solution-criteria-have-the-team-solve-within-them"]
+sources: ["2022-10-26_Enjoy Over Manage", "2026-04-24_How to Delegate Without Micromanaging"]
 ---
 
 # Give the Parameters of Winning, Not the Method
@@ -87,6 +87,14 @@ The same posture for an executive: I want a company that's super successful. I w
 - [[tell-them-like-an-asshole]] is the diagnostic exercise that surfaces what the leader actually wants. Once the want is clear, this move turns it into delegable form.
 - [[no-doctrine-leadership]] is the related practice for stating the leader's actual position, including the "no" beneath the platitudes. The parameters of winning include the real "no" of what does not count as winning.
 - [[follow-the-demand]] is the upstream business principle. The parameters of winning come from understanding what is actually being asked for, not what the leader imagines should be asked for.
+- [[dont-try-to-replicate-yourself-across-the-team]] is the principle the move operationalizes. Without this move, the leader's only alternative to laissez-faire is replicating themselves through method-specification.
+- [[teach-them-how-to-win-with-you]] is the relational counterpart. Parameters-of-winning gives the work-criteria; the teaching-them-how-to-win-with-you move gives the relational-criteria. Together they make both layers of the relationship legible.
+
+## The Solution-Criteria Variant
+
+The "parameters of winning" move has a closely related expression in business-delegation contexts framed as setting *solution criteria*: the leader specifies the criteria a solution has to meet, the team finds a solution that meets those criteria, and the team can debate the criteria themselves but not unilaterally set them. See [[set-solution-criteria-have-the-team-solve-within-them]] for the dedicated treatment of this variant, including the three-problems-with-the-leader's-complete-plan diagnostic, the alignment-through-objections mechanism, and the binary-trap the move escapes between micromanagement and no-oversight.
+
+The relationship between the two moves: parameters-of-winning is the everyday delegation form (any task, any context); set-solution-criteria is the strategic-decision form (a problem the team needs to solve together). Both run on the same logic: the leader holds the constraints, the team holds the path. The vocabulary differs by domain.
 
 ## Tone
 
@@ -114,3 +122,4 @@ The plainness also includes not adding instructions afterward. The temptation, a
 ## Sources
 
 - 2022-10-26_Enjoy Over Manage
+- 2026-04-24_How to Delegate Without Micromanaging — cross-reference to the [[set-solution-criteria-have-the-team-solve-within-them]] move which is the strategic-decision variant of this everyday delegation form

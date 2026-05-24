@@ -4,7 +4,7 @@ id: attention-is-feeling
 title: "Attention Is Feeling (Refuse the Premise That They Can't Feel)"
 aliases: ["attention is feeling", "the attention-is-feeling reframe", "the if-you're-attending-isn't-that-feeling move", "if you're attending to it isn't that feeling", "what am I missing move", "the Socratic feeling sequence", "refuse the can't-feel premise", "feeling equals attention", "attention as feeling", "the feeling-is-just-attention reframe", "the right pinky move", "how do you know you're not feeling, the question form", "the not-feeling diagnostic question", "the hum-and-keep-the-place move", "hum then keep the attention there", "vocal cord access point", "the feel-the-vibration-then-keep-the-place sequence", "the body-place-attention-equivalence move", "I refuse to accept that you can't feel"]
 tags: ["moves", "body", "feeling", "attention", "head-dominant", "Socratic", "reframe", "live demonstration", "embodiment"]
-sources: ["2024-09-06_How Do I Feel My Body?"]
+sources: ["2024-09-06_How Do I Feel My Body?", "2026-04-14_I started listening to my body and cried for 10 days"]
 ---
 
 # Attention Is Feeling
@@ -93,6 +93,26 @@ The first step of the sequence is a small move worth naming on its own. Vocal co
 
 The vocal cord sequence is itself a small practice that can be assigned independently of the larger move. "Hum, feel the vibration, stop humming, keep feeling the place. Do that ten times today." The practice trains the attention-is-feeling wire by repetition.
 
+## The "Nothing Is Data" Self-Coaching Variant
+
+For the practitioner running this work on themselves rather than receiving the move from a coach, the same operational definition can be installed as a self-instruction. The reframe Tara Hawley uses: "If you don't feel anything, that's awesome." The not-feeling is treated as somatic information itself rather than as the verdict the move was set up to overturn.
+
+"If you don't feel anything, that's awesome. What's it like not to feel anything? And actually bring the attention to nothing and to the absence of feeling and explore that. If you think you don't feel anything, that's some, you're getting data somewhere that tells you you don't feel anything." -- Tara Hawley, I started listening to my body and cried for 10 days
+
+The self-coaching sequence in this variant:
+
+1. Drop attention into a body location (say the gut).
+2. Report internally: "I don't feel anything."
+3. Re-ask: "How do I know I don't feel anything?"
+4. Notice the data points that support the verdict. "Because it's quiet. Feels like a void. I don't sense anything. Everything just goes quiet."
+5. Recognize: that is somatic information. The quiet is something. The void is something. The going-quiet is something.
+
+The instruction Tara packages around this: "I like thinking of it as exploring the raw data." The mind's interpretation ("I don't feel anything") is replaced with the actual sensory report ("it is quiet, it is void, it is muffled"). The interpretation cannot be inquired into. The raw data can.
+
+This variant is the self-coaching mirror of the Socratic sequence above. The Socratic sequence forces the redefinition through external questions; this variant arrives at the same redefinition through self-directed exploration of the absence. Both produce the same operational definition: attention on a location is the felt experience of that location, and the quality of what is found (including the quality of "nothing") is the data.
+
+For the structured beginner's protocol that uses this as one of its central reframes, see [[progressive-somatic-awareness-build]].
+
 ## What Joe Does With the Response
 
 - **If the person locates the right pinky and accepts the framing:** continue to the belly button extension. The work is to scale up from the cheap instance to the emotionally loaded one.
@@ -169,3 +189,4 @@ The belly button moment — "whoa, what just happened there? Your face went—" 
 ## Sources
 
 - 2024-09-06_How Do I Feel My Body? — the central session where the move is deployed in full; the vocal-cord-then-humming sequence; the right-pinky cheap-instance; the "if you're attending to it, isn't that feeling" question form; the belly-button extension that produced a face change and the follow-up distinguishing can't-feel from active repression; the tennis-coach guest whose sport mastery became the template for transferring the felt-sense skill into life
+- 2026-04-14_I started listening to my body and cried for 10 days — Tara Hawley's "nothing is data" self-coaching variant of the move; the explicit reframe "if you don't feel anything, that's awesome" and the instruction to bring attention to the absence itself; the "exploring the raw data" framing as the operational alternative to the mind's verdict "I don't feel anything"; positioned as the self-directed mirror of the Socratic sequence the coach runs when present

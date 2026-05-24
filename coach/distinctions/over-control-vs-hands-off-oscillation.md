@@ -105,7 +105,11 @@ The work is not to perfect the third position. The work is to develop the sensit
 - Toward [[fear-triangle]] and [[binary-thinking-signals-fear]]: the framings that show the binary itself as the fear.
 - Toward [[development-as-corkscrew]]: the recognition that the work is iterative, not a one-time correction.
 - Toward [[love-requires-empowerment]] and [[love-vs-nice]]: the love that is fully engaged without taking responsibility for the outcome.
+- Toward [[get-the-minimal-information-you-need-to-feel-safe]]: the operational structural fix for the recovering over-controller that prevents the oscillation by giving the leader's legitimate information-need a defined channel.
+- Toward [[the-helper-trap]]: the broader pattern of which the over-control pole is the leadership-specific expression.
+- Toward [[uninvited-help-hands-them-your-fear]]: the underlying mechanism — the over-control pole is the leader handing their fear about the team's outcomes to the team through intervention.
 
 ## Sources
 
 - 2022-10-26_Jaime Waydo | Putting My Needs First
+- 2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear — the leadership-specific case of the over-control pole as the chronic-helper boss who feels alone in the company; the minimal-information channel as the structural fix that prevents the oscillation by addressing the leader's legitimate need-to-know without recreating the intrusion

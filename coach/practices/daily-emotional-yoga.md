@@ -5,7 +5,7 @@ title: "Daily Emotional Yoga"
 aliases: ["emotional yoga", "daily emotional practice", "20 minutes of emotion", "feeling practice", "scheduled emotional release"]
 tags: ["practice", "emotions", "embodiment", "daily practice", "feeling"]
 related: ["feeling-the-unfelt-emotion", "stages-of-emotional-development", "kinked-emotions", "emotions-live-in-muscles", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns", "2026-04-14_I started listening to my body and cried for 10 days"]
 ---
 
 # Daily Emotional Yoga
@@ -58,6 +58,28 @@ The practice is the operational form of [[feel-over-figure]]. By giving emotions
 
 Especially valuable in the early stages of emotional work, when there are years or decades of suppressed material to release. Less needed once emotions are flowing daily in real time, but still useful as a maintenance practice.
 
+## The Gym-Reps Approach: Short Sessions, Not All-Day Sits
+
+The practice is best built like physical training rather than like a sustained sit. Short reps. Frequent. Recovery between sessions. The standard failure mode for beginners is to attempt long sessions and burn out within a week. The standard correction is to scale the sessions to what the body can actually absorb at this stage.
+
+"Learning body awareness is like learning any new skill. It's like going to the gym, go once, do a few reps, take a break. Sometimes what people do is they come in and do it all day long. I encourage you to try it. Usually in the beginning, people get really bored because we're so used to being entertained by thoughts." -- Tara Hawley, I started listening to my body and cried for 10 days
+
+The same logic applies to emotional yoga as to body awareness building. Twenty to thirty minutes several times a week works because it is short enough that the body can recover between sessions, but long enough that real material gets to move. Hours-long sessions burn the nervous system out without producing more access; minutes-long sessions do not give the body time to drop into the work. The Goldilocks zone is the regular short-to-medium session.
+
+For the framing principle that determines whether the practice survives at all — should-driven practices fail; pleasure-driven practices last — see [[make-the-practice-juicy]]. The gym-reps approach is the structural form; the juicy framing is the motivational form. Both are needed.
+
+## Sustained Grief Can Take Days to Move (The 10-Day Cry)
+
+A specific phenomenon: when a practitioner has been sitting on years of suppressed grief, the first sustained engagement can produce days of nonstop crying. Tara Hawley reports that her first deep somatic exploration (during a Vipassana retreat) produced ten days of continuous crying.
+
+"This was my experience when I started doing this, it was at a Vipassana meditation and I started doing this, just exploring the body through awareness, and all I could do was cry. I cried for 10 days nonstop." -- Tara Hawley, I started listening to my body and cried for 10 days
+
+The phenomenon is the same as [[joes-crying-story]] — Joe cried for four days after fourteen years of suppression. The mechanism is the same. Years of held material releases in days when the conditions for release are finally present. The duration of the cry is proportional to the duration of the suppression and the depth of the access being granted.
+
+For the practitioner entering deep work for the first time, the implication is: the cry that arrives may be longer and bigger than expected. The instruction is not to manage or shorten the release. The instruction is to give it the space it needs, balanced with appropriate self-care (see [[one-to-one-grief-and-self-care]]). Days of crying are not a problem if they are well-supported. They are years of grief metabolizing on a timeline the body has chosen.
+
+For the structured beginner's protocol that this practice grows out of, see [[progressive-somatic-awareness-build]].
+
 ## The Two-Week Experiment Container
 
 For a person who has not yet begun the practice, Joe offers a low-overhead time-bounded experiment that compresses the daily emotional yoga commitment into a fourteen-day container. Each day, identify one emotion that has been avoided and bring it into emotional inquiry. That is the entire prescription.
@@ -99,3 +121,4 @@ Casual, practical. Joe presents this as something he just did, not as a sacred r
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the two-week experiment container: each day notice one avoided emotion and bring it into emotional inquiry; the low-overhead time-bounded framing as an entry point for someone new to the practice; the "notice how much your life changes" observational invitation rather than promised outcome)
+- 2026-04-14_I started listening to my body and cried for 10 days — Tara Hawley's gym-reps framing for the practice ("go once, do a few reps, take a break") and the rationale for short sessions over all-day sits; the boredom-as-protest mechanism that explains why beginners burn out on long sessions; Tara's 10-day-nonstop-cry during her first deep Vipassana exploration as the parallel example to Joe's 4-day-cry story, illustrating that years of suppression release in days when access is finally available; the call-out that days-long releases are not a problem if well-supported

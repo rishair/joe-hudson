@@ -72,6 +72,18 @@ The "forget you" moment is the inevitable terminus. The caretaker, having quietl
 
 The rupture is usually framed as the other's failure to appreciate. The actual cause is the unspoken contract the caretaker imposed.
 
+## The Helper-Trap Variant: "Why Am I At This Thing All Alone?"
+
+A specific signature of the caretaker's resentment in the work and leadership context: the lonely-noble framing. The helper is constantly stepping in to do things for others. They feel exhausted and unappreciated. Their resentment crystallizes around the question:
+
+"You'll have a boss who's constantly helping people, and then they are like, why am I at this thing all alone?" -- Joe Hudson, When You Help Others, You're Asking Them to Hold Your Fear
+
+The mistake the helper makes is to read the loneliness as evidence that others have failed to step up. The accurate reading: the others have learned not to step up because the helper always steps in first. The aloneness is the helper's own training of the system. The helper has occupied the spaces where others could have shown up.
+
+The same shape shows up in marriage ("I'm doing all the work in this marriage"), in parenting ("nobody appreciates what I do for this family"), and in friendships ("I'm always the one initiating"). In each case, the chronic helping has produced the configuration that justifies the resentment, which the helper then misreads as cause rather than effect.
+
+See [[the-helper-trap]] for the dedicated treatment of the work/leadership form and [[why-does-everybody-resent-me-when-all-i-do-is-help]] for the front-door concern article. The diagnostic move when this presentation appears: surface that the helper has been creating the aloneness through the helping.
+
 ## The Way Out
 
 The diagnostic points to the corrective. Stop the caretaking. Speak the truth. Set the [[boundary-with-vs-boundary-against]] that has been refused.
@@ -122,3 +134,4 @@ When a person describes being resented by someone they are caring for, the quest
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
 - 2025-03-10_What Causes Resentment in Relationships? (+ What to Do About It) (the disempower-by-helping mechanism named explicitly; the fridge story as the canonical instance of caretaking-produced resentment; the typical bind where the cared-for cannot express anger because the caretaker was "just trying to help"; the recognition that this form of resentment can persist even without overt blame between the partners)
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same disempower-by-helping mechanism restated alongside the diagnostic signals — "if you notice you don't want to come home, or you're bummed about when they're coming home, then the resentment has fully gotten in the relationship"; the same resentment-saturates-other-fights observation that the resentment from the caretaking will saturate every other fight the couple has)
+- 2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear (the helper-trap variant of the diagnostic: the lonely-noble "why am I at this thing all alone" framing of the chronic helper at work; the explicit framing that the helper's chronic intervention is producing the aloneness they then resent)

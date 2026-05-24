@@ -5,7 +5,7 @@ title: "Loving the Anxiety vs. Being With the Anxiety"
 aliases: ["loving vs being with", "be with anxiety vs love anxiety", "love it not just sit with it", "the be-with trap", "I can't wait to be anxious again", "looking forward to anxiety", "loving the emotion not just observing it", "I can't wait to be depressed again", "love the depression not just be with it", "loving the feared state vs being with it", "the welcoming-aloud test"]
 tags: ["anxiety", "loving", "welcoming", "meditation", "subtle management", "distinction", "depression", "feared states"]
 related: ["embrace-vs-brace", "trying-to-get-rid-of-the-emotion", "love-is-the-best-change-agent", "can-you-look-forward-to-feeling-it", "feeling-the-unfelt-emotion", "loving-to-transform", "anxiety-as-constricted-life-force", "observe-vs-move-emotion", "speak-the-welcoming-of-the-feared-state-aloud", "press-the-button-thought-experiment", "what-we-fear-we-invite"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2024-08-09_I'm Afraid I'll Get Depressed Again"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2024-08-09_I'm Afraid I'll Get Depressed Again", "2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe"]
 ---
 
 # Loving the Anxiety vs. Being With the Anxiety
@@ -95,6 +95,20 @@ The sentence is the same operational test of love-vs-be-with that Joe applies to
 
 The principle the generalization rests on: any state the person is bracing against is one they are being-with at best, regardless of how welcoming the language sounds. Bracing reveals the underlying posture. The brace dissolves only when the welcoming becomes lived rather than performed -- when the person would happily greet the state's return. The same diagnostic applies in every domain. The same closing move (speak the welcoming aloud) instantiates the shift in every domain.
 
+## The Breathe-Into-It-To-Enjoy-It Operational Form
+
+The principle has a specific in-session operational form: when the client has the feeling located in the body and is being with it, the instruction is "breathe into it and enjoy it" — with the explicit clarification that the breathing is not to make it leave.
+
+The full form Joe uses:
+
+"Now breathe really deeply into it and just enjoy the shit out of that anxiety for a minute... You feel around starting your business and your job isn't to breathe it away. Your job is to breathe into it and enjoy it... And you're breathing into it to enjoy it. You're not breathing into it to get rid of it." -- Joe Hudson, Getting Out of Your Own Way
+
+The instruction is the breath-level form of loving rather than being-with. The breath that goes into the anxiety with no removal-agenda is the body's version of "I can't wait to be anxious again." The body cannot say the sentence the way the mind can; the breath that savors rather than dissolves is what the body does that means the same thing.
+
+The instruction has to be repeated multiple times in a single session because the brain's default conversion of "breathe into it" is removal-mode. The conversion happens automatically. Each repetition of the clarification ("not to get rid of it, to enjoy it") re-closes the conversion. By the third or fourth repetition, the body has often started to understand what is being asked, signaled by warmth in the chest, a small smile, or the feeling transforming into what it actually was underneath (often excitement, when the original feeling was anxiety).
+
+See [[breathe-into-the-emotion-to-enjoy-it-not-to-get-rid-of-it]] for the dedicated principle article that operationalizes the distinction in this form. The principle is what loving-rather-than-being-with looks like at the level of in-session somatic instruction.
+
 ## How the Shift Happens
 
 The shift from being-with to loving is not produced by trying. Trying to love the anxiety produces a performance of love, which is just being-with in disguise.
@@ -131,3 +145,4 @@ Direct but unhurried. The distinction is offered without judgment of the being-w
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
 - 2024-08-09_I'm Afraid I'll Get Depressed Again (the distinction applied to depression: the depression case is structurally identical to the anxiety case in the original teaching; the same "I can't wait to be X again" sentence form is the operative diagnostic; the session ends on the guest speaking the welcoming aloud, the operational form of love-rather-than-be-with for the specific feared state)
+- 2026-04-16_Getting Out of Your Own Way ｜ Coaching with Joe — the breath-level operational form of the distinction; client has the anxiety located in body and Joe instructs "breathe really deeply into it and just enjoy the shit out of that anxiety for a minute"; client's brain converts the instruction into a removal-strategy producing sadness; Joe re-clarifies "your job isn't to breathe it away, your job is to breathe into it and enjoy it"; multiple re-clarifications produce the body shift (warmth in chest, smile, anxiety revealing itself as excitement); the principle of loving-rather-than-being-with operationalized as the breath-level somatic instruction "breathe into it to enjoy it, not to get rid of it"
