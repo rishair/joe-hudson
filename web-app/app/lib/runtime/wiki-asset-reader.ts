@@ -124,7 +124,11 @@ export function readWikiAssetSyncOrNull(relPath: string): string | null {
   const fs = require('node:fs') as typeof import('node:fs');
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   const path = require('node:path') as typeof import('node:path');
-  const root = process.env.WIKI_ROOT ?? path.join(process.cwd(), 'content', 'wiki');
+  // `turbopackIgnore` keeps Next's file tracer from walking the 2,379-file
+  // wiki content tree when bundling code paths that reference this fn.
+  const root =
+    process.env.WIKI_ROOT ??
+    path.join(/* turbopackIgnore: true */ process.cwd(), 'content', 'wiki');
   try {
     return fs.readFileSync(path.join(root, relPath), 'utf-8');
   } catch (err: unknown) {

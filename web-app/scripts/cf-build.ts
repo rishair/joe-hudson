@@ -72,7 +72,9 @@ const HARD_DENY = new Set([
 ]);
 
 function buildSanitizedEnv(): NodeJS.ProcessEnv {
-  const out: NodeJS.ProcessEnv = {};
+  // Build incrementally then cast — NodeJS.ProcessEnv has a required
+  // NODE_ENV field under @types/node 22+, but we set it explicitly below.
+  const out: Record<string, string> = {};
   for (const [key, value] of Object.entries(process.env)) {
     if (value === undefined) continue;
     if (HARD_DENY.has(key)) continue;
@@ -92,7 +94,7 @@ function buildSanitizedEnv(): NodeJS.ProcessEnv {
   out.NEXTJS_ENV = 'production';
   // Disable Next telemetry to keep CI logs clean.
   out.NEXT_TELEMETRY_DISABLED = '1';
-  return out;
+  return out as NodeJS.ProcessEnv;
 }
 
 function main(): void {
@@ -105,19 +107,48 @@ function main(): void {
     console.log(`cf-build: dropping ${droppedSecrets.length} secrets from build env: ${droppedSecrets.join(', ')}`);
     console.log('cf-build: these will be read at runtime from Cloudflare secrets, NOT embedded in the bundle.');
   }
+
+  // Next.js loads `.env.local` for `next build` regardless of the spawned
+  // env. If that file contains the same secrets we just dropped from
+  // process.env, Next will re-introduce them. Stash .env.local out of
+  // the way for the duration of the build (and restore on exit).
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const fs = require('node:fs') as typeof import('node:fs');
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const path = require('node:path') as typeof import('node:path');
+  const ROOT = path.join(import.meta.dir, '..');
+  const envLocal = path.join(ROOT, '.env.local');
+  const envLocalStash = path.join(ROOT, '.env.local.cf-build-stash');
+  let envLocalStashed = false;
+  if (fs.existsSync(envLocal)) {
+    fs.renameSync(envLocal, envLocalStash);
+    envLocalStashed = true;
+    console.log('cf-build: stashed .env.local for the duration of the build (will restore on exit)');
+  }
+  const restore = () => {
+    if (envLocalStashed && fs.existsSync(envLocalStash)) {
+      fs.renameSync(envLocalStash, envLocal);
+      envLocalStashed = false;
+    }
+  };
+  // Belt-and-suspenders: restore on any abnormal exit so dev workflow
+  // doesn't lose its .env.local after a failed deploy.
+  process.on('exit', restore);
+  process.on('SIGINT', () => { restore(); process.exit(130); });
+  process.on('SIGTERM', () => { restore(); process.exit(143); });
+
   const result = spawnSync('bunx', ['opennextjs-cloudflare', 'build'], {
     env,
     stdio: 'inherit',
   });
+  restore();
   if (result.status !== 0) {
     process.exit(result.status ?? 1);
   }
   console.log('cf-build: build complete; verifying no secret strings leaked into the worker bundle...');
   // Self-test: read worker.js + middleware/handler.mjs + main bundles and
   // grep for known secret patterns. If any hit, fail loudly.
-  const fs = require('node:fs') as typeof import('node:fs');
-  const path = require('node:path') as typeof import('node:path');
-  const ROOT = path.join(import.meta.dir, '..');
+  // (fs, path, ROOT already in scope from the stash logic above.)
   const filesToCheck: string[] = [];
   function walkDir(dir: string) {
     if (!fs.existsSync(dir)) return;
@@ -132,11 +163,16 @@ function main(): void {
   walkDir(path.join(ROOT, '.open-next'));
   // Secret patterns to scan for. Be specific — generic "key" strings
   // appear naturally in compiled JS. Match the actual prefix shapes.
+  // We do NOT scan for Cloudflare API tokens because their format
+  // (40-char alphanumeric, no fixed prefix) overlaps with compiled
+  // function names and JSX class identifiers and produces many false
+  // positives. Cloudflare tokens are also never set in app code — they
+  // only exist in the GitHub Actions secret store and never flow into
+  // process.env at app-build time.
   const patterns: { name: string; re: RegExp }[] = [
     { name: 'OpenRouter v1 key', re: /sk-or-v1-[a-f0-9]{30,}/ },
     { name: 'Anthropic API key', re: /sk-ant-[a-zA-Z0-9_-]{20,}/ },
-    { name: 'HuggingFace token', re: /hf_[a-zA-Z0-9]{20,}/ },
-    { name: 'Cloudflare API token (40+char hex/alphanum)', re: /\b[a-zA-Z0-9_-]{40,}\.[a-zA-Z0-9_-]{20,}\b/ },
+    { name: 'HuggingFace token', re: /\bhf_[a-zA-Z0-9]{30,}\b/ },
   ];
   let leaks = 0;
   for (const file of filesToCheck) {

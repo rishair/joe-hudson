@@ -1,0 +1,21 @@
+{
+  "name": "status-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "G-013 dashboard: live wiki state, agent activity, recent commits, checkpoints, backlog. Hono+Bun+JSX server-rendered with fetch-polling.",
+  "scripts": {
+    "start": "bun run server.tsx",
+    "dev": "bun run --hot server.tsx",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "hono": "^4.6.0",
+    "marked": "^18.0.4"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.13",
+    "typescript": "^5.6.3"
+  }
+}

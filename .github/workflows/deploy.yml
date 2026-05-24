@@ -1,0 +1,115 @@
+name: Deploy web-app to Cloudflare
+
+# Triggered on push to main (the canonical pipeline) and on workflow_dispatch
+# (manual trigger from the Actions tab) for ad-hoc redeploys without a commit.
+on:
+  push:
+    branches: [main]
+    paths:
+      # Only deploy when web-app/ or workflow itself changes.
+      # Coach absorption commits don't redeploy the app — the wiki content
+      # is re-ingested on the next deploy that touches web-app/.
+      - 'web-app/**'
+      - 'coach/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch: {}
+
+concurrency:
+  # Only one deploy at a time per branch. A second push while the first is
+  # in flight cancels the first to avoid stale artifacts overwriting fresh
+  # ones.
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Deploy to Cloudflare Workers
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.14
+
+      - name: Install dependencies
+        working-directory: web-app
+        run: bun install --frozen-lockfile
+
+      - name: Re-ingest coach/ -> content/wiki/
+        # E-039's ingestion script. Repeatable + manifest-driven; rebuilds
+        # the slug index, backlinks, and normalized link table from the
+        # current state of coach/ on the main branch. Idempotent if no
+        # coach/ changes since last deploy.
+        working-directory: web-app
+        run: bun run ingest
+
+      - name: Stage content/wiki for static-assets bundle
+        # Copies content/wiki/ into public/content/wiki/ so OpenNext's
+        # build picks it up into .open-next/assets/. Required because the
+        # 38 MiB content tree can't live in the 10 MiB Worker bundle.
+        working-directory: web-app
+        run: bun run prebuild:cf
+
+      - name: Typecheck
+        # Catches drift between the new runtime-wiki-asset-reader and any
+        # callers. The CI-run is the cheapest place to discover a broken
+        # signature.
+        working-directory: web-app
+        run: bun run typecheck
+
+      - name: Pre-flight checks
+        # Validates wrangler.jsonc, the asset bundle, the workflow file,
+        # and that the Node-mode asset reader can find _index.md and
+        # the manifest. Cheap; fails the build early on misconfig.
+        working-directory: web-app
+        run: bun run verify:e046:assets
+
+      - name: Deploy via wrangler-action
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # Use Bun for any package operations the action does internally.
+          packageManager: bun
+          # Run the OpenNext build + deploy. The wrangler-action invokes
+          # this command in the web-app/ directory.
+          workingDirectory: web-app
+          command: deploy:cf
+          # Pin wrangler to v4 so the deploy doesn't drift across minor
+          # versions. Bump deliberately when upgrading OpenNext.
+          wranglerVersion: '4'
+        env:
+          # Build-time env var picked up by next build for any
+          # NEXT_PUBLIC_* references (currently none — kept for future).
+          NEXTJS_ENV: production
+
+      - name: Post-deploy smoke
+        # After deploy, hit the public URL and assert the welcome flow
+        # HTML is reachable. Doesn't validate /api/chat (would burn
+        # OpenRouter quota on every push); a full vibe-check is REQ-001's
+        # responsibility.
+        env:
+          APP_URL: ${{ vars.APP_URL || 'https://joe-hudson-coach.workers.dev' }}
+        run: |
+          set -e
+          echo "Smoke-testing $APP_URL"
+          # Allow up to 60s for the new Worker to propagate.
+          for i in 1 2 3 4 5 6; do
+            if curl -sf "$APP_URL/" | grep -qi "Joe Hudson"; then
+              echo "Smoke pass: page reachable and contains Joe Hudson"
+              exit 0
+            fi
+            echo "Attempt $i: not ready yet, sleeping 10s..."
+            sleep 10
+          done
+          echo "Smoke FAILED — page did not become reachable within 60s"
+          curl -i "$APP_URL/" || true
+          exit 1

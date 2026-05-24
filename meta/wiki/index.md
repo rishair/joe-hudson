@@ -91,21 +91,21 @@
     - [x] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
     - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
-    - [~] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
+    - [ ] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
 - [ ] G-011 Maintain a regularly-updated OpenRouter model registry with eval/cost/throughput data
 - [ ] G-012 Hetzner personal-PaaS: project.play.ris.hair routing via Cloudflare Tunnel with Cloudflare Access
   - Research
-    - [ ] R-019 Cloudflare Tunnel + Access setup specifics for a multi-subdomain personal-PaaS
+    - [x] R-019 Cloudflare Tunnel + Access setup specifics for a multi-subdomain personal-PaaS
   - Experiments
     - [ ] E-047 Set up Cloudflare Tunnel + Access on Hetzner with a hello-world subdomain
-    - [ ] E-048 Build paas CLI tool: register / up / down / list / logs / remove with systemd user units
-    - [ ] E-049 Dogfood: register G-013 status dashboard via paas and verify end-to-end
+    - [ ] E-048 Build paas CLI tool: register / up / down / restart / list / logs / remove with systemd user units
+    - [-] E-049 Dogfood: register G-013 status dashboard via paas and verify end-to-end (ABANDONED — merged into E-051)
 - [ ] G-013 Project status dashboard at status.play.ris.hair: live wiki state, recent file changes, checkpoints
   - Research
-    - [ ] R-020 Status dashboard stack: Next.js per playbook vs simpler Bun-HTTP for a 4-section read-only view
+    - [x] R-020 Status dashboard stack: Next.js per playbook vs simpler Bun-HTTP for a 4-section read-only view
   - Experiments
-    - [ ] E-050 Build dashboard v1: 4 sections (wiki state, recent commits, checkpoints, backlog), single page, server-side filesystem reads
-    - [ ] E-051 Deploy dashboard via G-012 PaaS at status.play.ris.hair with Cloudflare Access auth
+    - [~] E-050 Build dashboard v1: pending-on-you, wiki state, agent activity, recent commits, checkpoints, backlog — Hono+Bun+JSX, fetch-polling
+    - [ ] E-051 Deploy dashboard via G-012 PaaS at status.play.ris.hair with Cloudflare Access auth (CLOSES G-012 AND G-013)
 
 ## Checkpoints
 

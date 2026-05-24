@@ -1,0 +1,6 @@
+subdomain: status
+port: 4001
+command: bun run server.tsx
+mode: built
+working_dir: /home/claude/joe-hudson/status-dashboard
+restart: always

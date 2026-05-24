@@ -1,0 +1,93 @@
+/* status-dashboard styles. Information density over chrome. */
+
+:root {
+  --bg: #f6f6f4;
+  --fg: #1a1a1a;
+  --muted: #6a6a6a;
+  --border: #d8d8d4;
+  --accent: #2563eb;
+  --accent-pending: #f59e0b;
+  --bg-pending: #fef3c7;
+  --bg-stale: #fee2e2;
+  --bg-error: #fecaca;
+  --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 16px;
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+}
+.topbar h1 { font-size: 16px; margin: 0; font-weight: 600; }
+.topbar .meta { display: flex; gap: 12px; align-items: center; font-size: 12px; color: var(--muted); }
+.topbar button { font: inherit; padding: 2px 8px; border: 1px solid var(--border); background: #fafafa; border-radius: 3px; cursor: pointer; }
+.topbar button:hover { background: #eee; }
+.topbar .generated { font-family: var(--mono); font-size: 11px; }
+.topbar .stale-indicator { color: #b91c1c; font-weight: 600; }
+
+main { max-width: 1100px; margin: 0 auto; padding: 12px 16px 60px; }
+
+.section { background: #fff; border: 1px solid var(--border); border-radius: 4px; padding: 12px 16px; margin-bottom: 12px; }
+.section h2 { font-size: 15px; margin: 0 0 8px; font-weight: 600; }
+.section h3 { font-size: 13px; margin: 12px 0 4px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.section .subtitle { font-size: 12px; color: var(--muted); font-weight: 400; }
+.section ul { margin: 4px 0; padding-left: 18px; }
+.section li { margin: 2px 0; }
+.empty-state { color: var(--muted); font-style: italic; margin: 4px 0; }
+
+.section-pending {
+  background: var(--bg-pending);
+  border-color: var(--accent-pending);
+  border-width: 2px;
+}
+.section-pending h2 { color: #92400e; }
+.section-pending .count { color: #92400e; font-weight: 700; }
+.section-pending .req-list { list-style: none; padding-left: 0; }
+.section-pending .req-list li { padding: 6px 8px; background: #fff; border-radius: 3px; margin: 4px 0; }
+
+code, pre, .id, .hash, .filename, .path, .type, .parent, .kind { font-family: var(--mono); }
+.id, .hash, .filename { font-weight: 600; }
+.parent, .type, .kind { color: var(--muted); font-size: 12px; }
+.title { color: var(--fg); }
+.created, .time, .age { color: var(--muted); font-size: 12px; }
+
+.counts { display: flex; flex-wrap: wrap; gap: 12px; font-size: 13px; color: var(--muted); margin: 6px 0 10px; }
+.counts strong { color: var(--fg); }
+.counts .blocked strong { color: #b91c1c; }
+
+.stale-warning { background: var(--bg-stale); padding: 8px 12px; border-radius: 3px; margin: 8px 0; border-left: 3px solid #b91c1c; }
+.stale-warning strong { color: #991b1b; }
+
+.inflight-list, .goals-list, .activity-list, .commit-list, .checkpoint-list, .wt-files { list-style: none; padding-left: 0; }
+.inflight-list li, .goals-list li, .activity-list li, .commit-list li, .checkpoint-list li { padding: 4px 6px; border-bottom: 1px solid #f0f0f0; }
+.inflight-list li.stale { background: var(--bg-stale); }
+.inflight-list .claim-meta { font-size: 11px; color: var(--muted); margin-left: 16px; }
+
+.activity-list .age { display: inline-block; min-width: 70px; }
+.activity-list .preview { color: var(--muted); font-size: 12px; margin-left: 80px; }
+
+.commit-list summary, .checkpoint-list summary { cursor: pointer; outline: none; list-style: revert; }
+.commit-list summary:hover, .checkpoint-list summary:hover { background: #f5f5f5; }
+.commit-body, .checkpoint-body { padding: 8px 12px; background: #fafaf8; border-radius: 3px; margin-top: 4px; }
+
+.diff { font-size: 12px; white-space: pre; overflow-x: auto; max-height: 600px; background: #1e1e1e; color: #d4d4d4; padding: 10px; border-radius: 3px; }
+.diff.truncated { border-bottom: 3px solid #f59e0b; }
+
+.checkpoint-content { font-size: 13px; }
+.checkpoint-content h1 { font-size: 16px; }
+.checkpoint-content h2 { font-size: 14px; }
+.checkpoint-content h3 { font-size: 13px; }
+
+.working-tree { background: #fef9c3; padding: 6px 10px; border-radius: 3px; margin-bottom: 8px; font-size: 13px; }
+.working-tree .status { color: #b45309; }
+
+.backlog-body { font-size: 13px; }
+.backlog-body h2 { margin-top: 12px; }
+
+.error { background: var(--bg-error); color: #7f1d1d; padding: 8px 12px; border-radius: 3px; }
+.error-detail { font-family: var(--mono); font-size: 11px; margin-top: 4px; opacity: 0.7; }
