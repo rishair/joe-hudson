@@ -4,8 +4,8 @@ id: love-as-deep-welcoming
 title: "Love as Deep Welcoming"
 aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract", "the feeling-toward-the-pet directed at yourself", "the reversal of the flow of love", "love as a direction of feeling not words", "find the feeling you have toward a dog and give it to yourself", "the somatic direction of welcoming"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer", "welcoming-is-somatic-not-verbal", "meditation-as-welcoming-not-management"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action", "every-no-contains-a-better-answer", "welcoming-is-somatic-not-verbal", "meditation-as-welcoming-not-management", "love-as-container-for-attachment-healing", "wisdom-of-each-emotion", "11-emotions-explained"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2024-03-11_How Do I Love The ＂No＂？", "2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
 ---
 
 # Love as Deep Welcoming
@@ -130,6 +130,14 @@ When someone is fighting a part of themselves, the welcoming is the path out of 
 
 When someone is in a conflict and getting harder, welcoming the other person does not require giving up the position. The boundary stays. The closed heart opens. The fight becomes more effective, not less.
 
+## The Relational Function: Container for Attachment Healing
+
+A related operational definition of love that pairs with the welcoming definition: love is the emotion that creates enough safety for the unfinished attachment work of childhood to surface and complete. The welcoming definition tells you what love IS; the container definition tells you what love DOES in a relationship.
+
+"Love is an emotion that allows us to feel so safe that we can play out and heal our attachment issues." -- Joe Hudson, 11 Human Emotions Explained
+
+The two definitions operate together. The welcoming is the internal posture each partner brings; the container is what their welcoming together creates. The relationship becomes the field inside which the old material can surface and be felt rather than continuing to organize the partners from below the surface. See [[love-as-container-for-attachment-healing]] for the dedicated treatment, including the setup-agreement action step ("our shit's gonna come up here and we're gonna use it as ways to heal").
+
 ## Welcoming the Opposing View (Without Becoming It)
 
 A specific live application: welcoming a worldview, opinion, or stance you actively disagree with — including in someone close to you, including in yourself.
@@ -192,3 +200,4 @@ The implication for the AI coach: never let "love is the answer" become a genera
 - 2023-04-28_How Love Gets Confused (love as practical action vs. love as fluffy concept; the four-part sequence of the action: find defense, feel heartbreak, expand definition, drop management; the rejection of self-brainwash as an alternative to the actual practice)
 - 2024-03-11_How Do I Love The "No"? (the "love the anti-capitalist in you, your wife, and this woman" framing as the case-application for welcoming an opposing view without abandoning your own; hypervigilance dissolving as the somatic confirmation of welcoming)
 - 2025-06-06_How Can I Feel Self-Love？ - Coaching Session Breakdown (the pet/child/crush reference as the operational access point for the felt direction of welcoming; the reversal-of-the-flow framing; the explicit "how do you love yourself is paramount to the question of how do you feel" articulation distinguishing the somatic mechanism from any verbal substitute)
+- 2026-04-07_The 11 Human Emotions Explained in 7 Minutes -- the source for the relational-function definition of love as the safety-container for attachment healing; the setup-agreement action step ("our shit's gonna come up here and we're gonna use it as ways to heal"); the structural pairing with welcoming as the internal posture and the container as what welcoming creates relationally; the dedicated treatment moved to [[love-as-container-for-attachment-healing]]

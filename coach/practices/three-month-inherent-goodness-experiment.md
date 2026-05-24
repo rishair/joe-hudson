@@ -4,7 +4,7 @@ id: three-month-inherent-goodness-experiment
 title: "Three-Month Inherent Goodness Experiment"
 aliases: ["three month inherent goodness experiment", "tell yourself you're inherently good", "the inherent goodness experiment", "say I'm inherently good for three months", "we become what we tell ourselves we are", "the inherent goodness self-talk experiment", "tell yourself you're good and see what happens", "three months of inherent goodness"]
 tags: ["practice", "inherent goodness", "shame", "self-talk", "experiment", "limiting beliefs", "I'm bad"]
-related: ["inherent-goodness", "three-keepers-of-stuck-beliefs", "shame-drives-behavior", "if-i-were-inherently-good", "seven-limiting-beliefs", "limiting-belief"]
+related: ["inherent-goodness", "three-keepers-of-stuck-beliefs", "shame-drives-behavior", "if-i-were-inherently-good", "seven-limiting-beliefs", "limiting-belief", "self-labeling-installs-the-identity", "every-trigger-with-your-kid-is-projection", "dont-shame-kids-the-behavior-wont-change", "two-person-gratitude-practice"]
 sources: ["2022-10-28_How to See Through Limiting Beliefs"]
 ---
 
@@ -104,6 +104,8 @@ Joe presents this lightly and as an experiment, not a prescription. The lightnes
 - Toward [[if-i-were-inherently-good]] for the moment-to-moment coaching question that pairs with this practice.
 - Toward [[seven-limiting-beliefs]] for the broader framework in which inherent goodness is the foundation.
 - Toward [[tell-yourself-you-love-yourself-in-a-mirror]] as a parallel practice on a related theme.
+- Toward [[self-labeling-installs-the-identity]] for the general principle this practice operationalizes for the "I'm bad" domain (the same mechanism applies to any self-label, not just goodness/badness).
+- Toward [[two-person-gratitude-practice]] for the parallel practice that uses the same self-labeling mechanism oriented at scarcity/abundance.
 
 ## Sources
 

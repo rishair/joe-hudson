@@ -4,7 +4,7 @@ id: how-do-i-lead-a-team-through-rapid-change
 title: "How do I lead a team through rapid change? / How do I keep up with AI-pace? / How do I keep my team aligned through constant pivots?"
 aliases: ["how do I lead through rapid change", "how do I keep up with AI", "how do I lead a company that has to change every quarter", "how do I keep my team aligned through constant pivots", "how do I run a company at the pace of AI", "the AI-pace company culture concern", "how do I keep my team from burning out in this", "how do I retain great talent in AI", "how do I lead through exponential change", "how do I keep my team aligned as we keep pivoting", "how do I handle 996 pressure", "the leader-in-fast-change concern", "the AI-pace founder concern", "the exponential-change leadership concern", "the constant-pivot concern", "how do I lead a team that keeps getting the rug pulled", "how do I keep up", "we're in an industry that's changing every six months", "the market is different every week and I have to lead through that"]
 tags: ["concern", "leadership", "company-culture", "AI", "exponential-change", "overwhelm", "alignment", "founder", "CEO", "pivots"]
-sources: ["2025-11-07_A Company Culture That Moves At The Pace of AI"]
+sources: ["2025-11-07_A Company Culture That Moves At The Pace of AI", "2026-03-27_How to Succeed in the Age of AI", "2026-03-27_AI and The Return to Being Human"]
 ---
 
 # How do I lead a team through rapid change?
@@ -84,6 +84,10 @@ The typical flow Joe follows from this concern. Not a script. A map of likely mo
 
 8. **Joe names the developmental opportunity.** Underneath the operational concern is usually a developmental edge for the leader. Joe will name [[company-as-fastest-self-development]] when the leader is ready to hear that the role is the practice, not just the job.
 
+9. **Joe names the structural shift in what matters.** In the AI era, the company that used to require ten thousand people now requires two or three hundred, and what differentiates those few people is not intelligence but wisdom -- the quality of decisions, the quality of relationships, the capacity to hold the team game. The leader's question of "how do I lead through this" is the question of how to build and hire for the [[the-three-games-outer-inner-team]] at the level the small high-stakes team requires. See [[intelligence-vs-wisdom]] for the era framing and [[you-can-hire-anything-except-being-yourself]] for the hiring principle.
+
 ## Sources
 
 - 2025-11-07_A Company Culture That Moves At The Pace of AI (the concern's clearest articulation in Johannes Langgraf's description of leading Ona through the AI-architecture pivot, the rename, and the 30% layoff in a market where new state-of-the-art models release weekly; Joe's articulated coaching response across all six of the principles named above)
+- 2026-03-27_How to Succeed in the Age of AI (the era framing of the concern: the company that used to require ten thousand people now requires two or three hundred, where the differentiator is wisdom rather than intelligence; the implication for what the AI-era leader must build and hire for, captured in [[the-three-games-outer-inner-team]] and [[you-can-hire-anything-except-being-yourself]])
+- 2026-03-27_AI and The Return to Being Human (companion/alternate cut of the same teaching; sharpens the leadership implication by adding the NBA-team analogy -- companies will look more like NBA teams than industrial-era corporations, with very few highly-leveraged people each costing a lot, where the differentiator becomes the quality of the relationships those few hold and the patterns they can read in themselves and others; see [[ai-as-equalizer-forces-honest-game]] for why the wisdom layer becomes load-bearing)

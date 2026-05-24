@@ -4,7 +4,7 @@ id: four-tactical-ways-to-feel-your-emotions
 title: "The Four Tactical Ways to Feel Your Emotions"
 aliases: ["4 tactical ways to feel your emotions", "four ways to feel your feelings", "the four tactical ways", "Joe's four ways to feel emotions", "recognize breathe feel express", "the public-facing emotion practice framework", "how to feel your feelings four steps", "the on-ramp to feeling", "the four entry points to feeling", "the four-step beginner framework", "the entry-level emotional practice", "the YouTube-video version of feeling work", "the four tactical entry points"]
 tags: ["framework", "emotions", "feeling", "beginner", "tactical", "on-ramp", "public-facing", "recognize", "breathe", "body", "expression"]
-related: ["binary-thinking-signals-fear", "emotions-live-in-muscles", "emotional-inquiry", "daily-emotional-yoga", "joes-crying-story", "actor-giving-most-convincing-performance", "fake-the-anger-to-let-it-move", "feeling-the-unfelt-emotion", "stages-of-emotional-development", "you-cant-let-go-of-emotions-only-thoughts", "overwhelm", "decisions-are-emotional", "chin-up-as-emotion-block"]
+related: ["binary-thinking-signals-fear", "emotions-live-in-muscles", "emotional-inquiry", "daily-emotional-yoga", "joes-crying-story", "actor-giving-most-convincing-performance", "fake-the-anger-to-let-it-move", "feeling-the-unfelt-emotion", "stages-of-emotional-development", "you-cant-let-go-of-emotions-only-thoughts", "overwhelm", "decisions-are-emotional", "chin-up-as-emotion-block", "11-emotions-explained", "wisdom-of-each-emotion"]
 sources: ["2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
@@ -150,8 +150,15 @@ The four tactical ways are the on-ramp version of:
 - [[daily-emotional-yoga]]: the scheduled dedicated practice (way 4 elaborated)
 - [[feeling-the-unfelt-emotion]]: the core healing mechanism (what the four ways produce over time)
 - [[stages-of-emotional-development]]: the longer arc (the four ways move a person from stage 2 or 4 toward stage 5)
+- [[11-emotions-explained]]: the parallel public-facing framework that covers eleven specific emotions one at a time with a definition and an action step per emotion
 
 The framework is not a substitute for these. It is the door. Once a person has been through the four ways enough times to trust the mechanism, the deeper teachings become available.
+
+## Complement With the 11-Emotions Framework
+
+The four-tactical-ways framework is the on-ramp to feeling any emotion (the general practice). The [[11-emotions-explained]] framework is the on-ramp to reading specific emotions (the catalog of what each one is and what to do with it). The two are designed to be used together.
+
+A person who has the four tactical ways can feel whatever arrives. A person who has the eleven one-liners can read what arrives. Combined: feel it, read it, respond. The first framework gives the somatic practice; the second framework gives the conceptual map of what the somatic practice is making available. The AI coach can deploy either one alone or both in sequence depending on what the person is missing.
 
 ## Tone
 

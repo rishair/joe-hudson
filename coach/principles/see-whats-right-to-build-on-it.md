@@ -5,7 +5,7 @@ title: "See What's Right and Build On It"
 aliases: ["see what's right", "build on what works", "two paths to solutions", "positive data not just negative data", "amplify what works", "scaling what's working", "build on functionality", "the build-on-strengths approach", "see the right see the wrong, both"]
 tags: ["problem-solving", "leadership", "teams", "principle", "negativity-bias", "positive-deviance"]
 related: ["gratitude-rounds-before-meetings", "gratitude-around-the-problem", "intelligence-amplifies-self-criticism", "vietnam-malnutrition-story", "honor-the-patterns-intent", "negative-bias-of-trauma-imprinting", "follow-the-demand"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team", "2026-03-31_Replace the Story You Tell Yourself 100 Times a Day | 7-Min Tool"]
 ---
 
 # See What's Right and Build On It
@@ -54,6 +54,16 @@ The non-selling product example: the customers are giving feedback (resource), t
 
 This is not reframing as denial. The product still is not selling. The second path adds data; it does not subtract.
 
+## Why This Doubles the Solution Set
+
+A direct consequence of running both paths instead of one: the person operating with both has twice the available solutions for any given problem. The first path generates the fix-what-is-wrong solutions. The second path generates the grow-what-is-right solutions. Running only one is volunteering to operate on half the solution space.
+
+"Oftentimes when we're solving problems, we think, 'what's wrong? How do I fix it?' And that's one way to solve a problem. It's a great way to solve a problem. But there's also 'what's right and how do I grow it?' And when you're practicing gratitude, what happens is, oh, I can grow that. I can get more of the thing that's right instead of, oh, this is what's missing, how do I go and get it? And so it gives you twice the solution set that you had when it was just 'what's wrong, how do I fix it?'" -- Joe Hudson, Replace the Story You Tell Yourself 100 Times a Day
+
+The framing has practical operating consequences. The person stuck on a problem -- in business, in a relationship, in self-development -- typically has been generating only fix-it solutions. The other half of the solution space, the grow-what-is-right solutions, has not been opened. Opening it routinely produces new options the person did not have access to from the deficit frame.
+
+This is also the operational link between this principle and the gratitude practice. Felt gratitude is the practice that opens the second path. Without gratitude, the second path is theoretically available but not actually accessed. With gratitude, the second path becomes a working operating mode. The same situation now has twice the solutions.
+
 ## The Application to Self
 
 The same principle applies inward. A person in a difficult emotional state who scans only for what is wrong sees a long list of personal deficits. A person who scans for what is right -- what is functioning, what survived, what was learned -- sees a different self.
@@ -101,3 +111,4 @@ Matter-of-fact. The principle is presented as a structural observation about how
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
 - 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)
+- 2026-03-31_Replace the Story You Tell Yourself 100 Times a Day | 7-Min Tool — the explicit "twice the solution set" formulation of why running both paths matters; the operational link to felt gratitude as the practice that opens the second path; the application of the principle inside a single individual's problem-solving (not just at team level)

@@ -5,7 +5,7 @@ title: "Grief as Identity Dismantling"
 aliases: ["grief is identity loss", "grief as the loss of who you were", "what grief actually is", "Joe's definition of grief", "grief means part of you is leaving", "grief as ego dissolution", "identity going away", "the part of you that's dying", "grief is the feeling of losing an identity", "grief is when a part of your identity goes away", "identity death feels like an event horizon", "every identity death is a singularity", "who-the-hell-will-I-be-if-that-happens", "the who-am-I-going-to-be question in every breakthrough", "the who-will-recognize-me question in grief", "the universal grief moment in every transformation", "the recurring grief gate in transformation work", "every breakthrough has a who-am-I-going-to-be moment", "if-I-let-this-in-nobody-will-recognize-me", "the recognition-loss fear in identity-shift", "the I'll-never-be-the-same fear in transformation", "the grief checkpoint in every shift", "grief becomes familiar over time", "the grief moment in every breakthrough"]
 tags: ["grief", "identity", "ego", "emotions", "loss", "transformation", "breakthrough", "recognition-loss"]
 related: ["identity", "grief-as-gateway-to-self-love", "unprocessed-grief-creates-conflict", "grief-is-many-emotions-not-just-sadness", "expanding-sense-of-self", "identity-extension-expands-fear", "undoing-not-doing", "without-grief-we-recreate-the-pattern", "stronger-story-stuckier-emotion", "every-identity-has-limits", "the-natural-integration-arc-after-breakthrough"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2022-10-26_The Beauty Of Grief", "2026-01-02_How I Learned To Stop Fighting Myself"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2022-10-26_The Beauty Of Grief", "2026-01-02_How I Learned To Stop Fighting Myself", "2026-04-02_I Want Connection with People I'm Afraid Will Judge Me ｜ Coaching with Joe"]
 ---
 
 # Grief as Identity Dismantling
@@ -127,6 +127,18 @@ This is why insight without grief is often insight without integration. The mind
 
 For the related principle of how this dynamic plays out in the larger arc of transformation, see [[identity]] and [[every-identity-has-limits]].
 
+## The Editor-Identity Application: Grieving the Constant Self-Editing
+
+A specific operational form of this principle: when a person starts to soften their chronic self-editing — the constant pre-translating of their natural expression into something acceptable to others — they enter a sustained grief process. The identity being dismantled is the identity-as-editor. See [[grieving-the-self-editor]] for the full account.
+
+What makes this form distinctive: the editor has been running continuously for years. Its dissolution is therefore not a single grief event but an ongoing wave-pattern that runs alongside daily life. Each time the person notices the editor in flight and lets it not fire, a small wave of grief surfaces. The grief is the editor's death being felt in miniature, repeated thousands of times across the process.
+
+Joe's framing of this in the live session: "What's occurring is that you're starting this grieving process of the constant self-editing. You're starting the grieving process of questioning whether people fucking like you, the self-judgment, whatever you wanna call the thing. And every time you notice you're doing it, the grief starts popping up. And it's like mourning a death. It's gonna be intense for a bit. You're gonna have big rides, but the waves will start doing this, and pretty soon you'll be able to hang out, touch that part of you, and not immediately start grieving it. But you don't get there without grieving it." -- Joe Hudson, I Want Connection with People I'm Afraid Will Judge Me
+
+The pattern is consistent with the general account of grief-as-identity-dismantling: the editor was a survival structure that has been organizing the person's self-presentation since childhood. Its death is real. The grief is the death being honored. The variant is significant because it shows the principle operating in a chronic-running-process form, not just in an event-triggered form (a death, a breakup, a job loss). The same mechanism that produces grief when a relationship ends produces grief when a long-running internal function starts to shut down.
+
+The coaching implication: a person who reports feeling unexpectedly emotional, sad, or grief-stricken in the wake of doing approval-seeking work is not regressing. They are in the predictable grief phase that accompanies the editor's dismantling. Naming the grief as part of the work prevents the person from interpreting it as a setback. See [[grieving-the-self-editor]] for the specific practices and instructions for this form.
+
 ## When Someone Experiences This
 
 When a person describes a loss and is surprised by how much it has shaken them, they are usually surprised because they did not realize how much of their identity was structured around what they lost.
@@ -162,3 +174,4 @@ When a person says "I should be over this by now," they are often holding an ide
 - 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
 - 2026-01-02_How I Learned To Stop Fighting Myself (the recurring "who the hell will I be if that happens?" gate at the threshold of every breakthrough; the two structural fears inside the gate — loss of self-recognition and loss of relational recognition; the maturation from "I don't want to dissolve and nobody can recognize me" to "yeah, cool, there's that grief moment"; grief as a predictable phase of every breakthrough, not as evidence the work is going wrong)
+- 2026-04-02_I Want Connection with People I'm Afraid Will Judge Me | Coaching with Joe (the editor-identity application; the grief that accompanies the dismantling of the constant-self-editor identity; the wave-pattern of the grief as it runs alongside daily life rather than as a single event; the framing of the grief as the structural cost of the freedom that becomes available on the other side; the instruction to find conditions where the grief can move ("if you feel really uncomfortable doing it in schools, then do it somewhere... at home"); the explicit framing that "you don't get there without grieving it")

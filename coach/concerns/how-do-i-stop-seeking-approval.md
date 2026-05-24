@@ -4,7 +4,7 @@ id: how-do-i-stop-seeking-approval
 title: "How do I stop seeking approval / I care too much what other people think of me"
 aliases: ["how do I stop seeking approval", "how do I stop chasing approval", "I want to stop needing approval", "I care too much what people think", "I care too much what other people think", "I keep seeking approval", "I'm a chronic approval seeker", "I'm always trying to be liked", "I need them to like me", "I'm always trying to get people's approval", "I'm always trying to be the good one", "I want everybody to like me", "I want to be liked by everyone", "I keep looking for approval", "I'm a people pleaser", "I'm always seeking validation", "the approval-seeking concern", "the people-pleasing concern", "I'm always wondering what they think of me", "I'm always worried about what they think", "I can't stop monitoring how I'm landing", "I want to know they approve", "I need their approval before I can move", "I keep waiting for someone to tell me I'm okay", "I keep performing for approval"]
 tags: ["approval", "people-pleasing", "external-validation", "self-abandonment", "shame", "concern"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues", "2025-03-14_How To Stop Seeking Approval", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)", "2025-08-12_You're Not Giving People the Chance to Love You", "2025-11-18_You're Pushing Away What You Most Want", "2026-02-10_Why Self-Possessed People Get Everything They Want"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues", "2025-03-14_How To Stop Seeking Approval", "2025-04-01_How Do I Stop Caring What Others Think？ (Coaching Session With Master Coach)", "2025-08-12_You're Not Giving People the Chance to Love You", "2025-11-18_You're Pushing Away What You Most Want", "2026-02-10_Why Self-Possessed People Get Everything They Want", "2026-04-02_I Want Connection with People I'm Afraid Will Judge Me ｜ Coaching with Joe"]
 ---
 
 # How do I stop seeking approval / I care too much what other people think of me
@@ -189,6 +189,36 @@ This move is paired with the present-moment cure because both require the same p
 
 For the approval-seeker, this move is particularly important because the chase has been organized around criticism-avoidance. Once criticism becomes a thing they can engage with rather than something they have to prevent, a large portion of the approval-seeking behavior loses its purpose. The engine reorganizes.
 
+## The Action-Is-the-Validation Variant (The "Winning" Frame)
+
+A specific operational form of the corrective shows up when the approval-seeking is presenting as the inability to do a specific concrete thing the person wants to do (approach someone, speak up, send the message, take the action). The corrective form: name the not-doing as the un-validation it is, and identify the action-toward-the-want as the validation it would be. See [[action-toward-what-you-want-is-the-self-validation]] for the principle.
+
+The vernacular form of this corrective that lands easily with some clients is the "winning" frame. A client in the source session articulated it himself: "I know I'm winning right now... I know I'm doing the thing I want to do." The winning is not contingent on outcome. The winning is contingent on whether you are doing the thing you actually want to do. The body knows when it is winning and when it is not.
+
+The structural insight that follows: every time the person wants to do something and does not do it, they are telling themselves they are not worthy. The not-doing IS the un-validation. The young man Joe was coaching had been waiting for the woman he wanted to date to give him validation that would let him approach her. The structure was self-defeating: every time he did not approach, he was already telling himself he was not worthy. No "you're worthy" from her could have outweighed the standing self-issued verdict from his own not-approaching.
+
+"And so there's no amount of validation that she's going to give you that's going to work if you're not giving the validation to yourself." -- Joe Hudson, I Want Connection with People I'm Afraid Will Judge Me
+
+The cure: do the thing you want to do, not for the validation, but because the doing IS the validation. The action-is-the-validation reframe is what makes the approval-seeking loop visible at the level of a specific behavior. Once visible, the loop becomes interruptible.
+
+The session move sequence for this variant:
+
+1. **Identify a specific instance.** A specific time the person wanted to do something and didn't. The work cannot proceed on a generic claim.
+
+2. **Refuse the cover story.** The person typically deflects ("I didn't want to," "I wasn't ready"). Refuse the deflection directly. See [[what-are-you-saying-to-yourself-if-you-dont-do-it]] for the question that operationalizes this.
+
+3. **Surface the self-message.** Push for what the not-doing has been communicating to the self. "What is it you're saying about yourself to yourself by not reaching out to the woman that you know you want to reach out to?" The surface message is usually "I'm scared, I'm not ready"; the underneath is "there's something about me I don't want to show."
+
+4. **Name the structural fact.** "On some level, you're not validating who you are in that moment by not approaching. You're not winning." The naming connects the specific behavior to the broader structural fact.
+
+5. **Operationalize self-validation as not-blocking-the-natural-flow.** The client's own articulation in the source session was the cleanest form: "My current guess at giving validation to myself is not blocking the natural flow of myself." Joe confirmed: "That's right." The definition is operational, not conceptual.
+
+6. **Pivot to the in-flight editing.** Once the principle is recognized, the same dynamic becomes visible in the session itself — every smile after an emotion, every thought after a feeling, every explanation after a spontaneous expression is the same un-validation move happening in miniature. See [[coming-alive-then-collapsing-back]] for the live read.
+
+7. **Name the grief that follows.** Once the person starts noticing the editing in real time, grief surfaces. The grief is the editor's death being felt. Frame it as a predictable phase, not as a setback. See [[grieving-the-self-editor]].
+
+This variant is particularly useful when the approval-seeking has crystallized around a specific person whose response the seeker is waiting for. The waiting is the un-validation. The action is the cure. The bypass-the-waiting move is the structural answer to the seeking dynamic in this form.
+
 ## Why Compliments Alone Won't Fix This
 
 A structural fact that often clarifies the work for the approval-seeker: external compliments cannot do the self-esteem-building work the approval-seeker has been hoping they would. The verdict that determines whether a compliment lands is internal, and external compliments get filtered through that internal verdict. This is why decades of seeking approval do not produce the felt-confidence the approval-seeker has been chasing. See [[compliments-dont-build-self-esteem-competence-does]] for the structural principle and [[chase-your-own-approval]] for the corrective relocation of the verdict.
@@ -218,3 +248,4 @@ The diagnostic question: "If you fully accepted this compliment, what would you 
 - 2025-08-12_You're Not Giving People the Chance to Love You (the foundational installation underneath the approval-seeking: the doing-to-be-valuable equation installed in childhood through chores/grades/college; the baby and 3-year-old test for intrinsic value; the prostitution metaphor for transactional love; the connection to the reputation-control engine; the experiment of turning love on oneself and asking what was done to deserve it)
 - 2025-11-18_You're Pushing Away What You Most Want (the structural reason compliments alone cannot solve the approval-seeking — external evidence gets filtered through the internal verdict the seeking was trying to fix, so the additive hypothesis the seeker has been running is structurally wrong; the responsibility-avoidance form of deflection as the residual deflection that survives the basic receiving work; the thousand-people-beautiful test as the crispest formulation of why external approval cannot substitute for internal verdict change; the explicit recognition that "underneath all of this deep wanting for appreciation is this deep wanting for your own appreciation" — the misdirection of the chase clarified)
 - 2026-02-10_Why Self-Possessed People Get Everything They Want (the present-moment cure: the explicit question "what do you need to do to be good with yourself right now?" with the present-moment constraint as the operational entry; the structural observation that the feeling chased through approval is identical to the feeling produced by being-good-with-self-right-now and is always available; the diagnostic that if you're not good with yourself right now your mind has gone into the future or the past; the engage-the-critic move with the operational questions "what do you mean? what's going on? what am I missing? what would you have me do?" as the relational form of the cure for the criticism-avoidance engine; the Connection Course frame that the relationship with self is the prerequisite to all the relational moves)
+- 2026-04-02_I Want Connection with People I'm Afraid Will Judge Me | Coaching with Joe (the action-is-the-validation variant: the "winning" frame the client himself surfaces; the structural observation that not-doing-the-thing-you-want IS the un-validation that no external approval can fix; the operational definition of self-validation as "not blocking the natural flow of myself"; the live demonstration of the same dynamic at the level of emotional expression — every smile after an emotion is the same un-validation in miniature; the framing of the grief that follows as the predictable death of the self-editor identity)

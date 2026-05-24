@@ -103,6 +103,10 @@ The typical flow:
 - Joe does not invite the client to articulate boundaries with the friend. The friend is not the issue. Boundaries with the friend would be more defense.
 - Joe does not ask about the client's childhood relationship with their parents until or unless that becomes the relevant thread. The thread here is the no-rejection, which is workable directly.
 
+## The Underlying Emotion-Reframe
+
+In addition to the no-rejection coaching path above, the underlying emotion itself has a direct reframe that often pairs with the work. Jealousy is structurally the simultaneous wanting of something and pushing it away. See [[jealousy]] for the concept-level treatment: the reframe (jealousy is a beautiful roadmap to what you want), the three-piece feel (longing, want, fear of loss), and the move away from buying the "I'm terrible for feeling this" story. The no-rejection path and the jealousy reframe complement each other; the no-rejection path addresses what the jealousy is structurally doing in the marriage, the jealousy reframe addresses what the felt emotion is signaling about the client's own unfelt want.
+
 ## When the Concern Is Actually About Something Else
 
 A few variations where the same words point to a different underlying issue:

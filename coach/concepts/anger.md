@@ -5,7 +5,7 @@ title: "Anger"
 aliases: ["the emotion of anger", "anger as energy", "anger as care", "beautiful energy of anger", "loving your anger", "what anger is", "healthy anger", "anger's three indicators", "the wisdom of anger"]
 tags: ["anger", "emotions", "care", "boundaries", "fear", "trauma", "energy", "empowerment"]
 related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story", "three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger-as-cover-for-deeper-emotion", "anger-is-love"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
 ---
 
 # Anger
@@ -185,6 +185,16 @@ He does not recommend getting angry at another person. Getting angry at someone 
 
 See [[dont-do-emotion-at-people]].
 
+## The Tube Metaphor: Clean Anger vs. Kinked Anger
+
+The most compressed image Joe uses to differentiate clean anger from the destructive forms is the tube. Anger is energy moving through a tube. When the tube is open, what comes out is clarity and determination. When the tube gets kinked or blocked, what comes out is the form people associate with anger as a problem: the passive jab, the explosion, the denial.
+
+"Anger at its core is clarity and determination. Think of it as a tube, and if that tube gets kinked or blocked, it might come out as, 'Nice dress,' or, 'You son of a da da da da da,' or it might turn out as, 'I'm not angry.' But unblocked, it's just clarity and determination." -- Joe Hudson, 11 Human Emotions Explained
+
+The three named kinks cover the operational territory: the passive-aggressive form ("nice dress"), the outward-explosive form ("you son of a..."), and the suppressed-denial form ("I'm not angry"). All three are the same energy with kinks at different points in the tube. The unkinked form is the small clear sentence about what will be done. See [[kinked-emotions]] and [[three-forms-of-anger-repression]] for the dedicated treatments.
+
+The tube metaphor is what makes the teaching durable for someone who has never thought about their anger this way. The image converts an abstract claim ("anger is information") into a concrete operational picture: you have a tube, the energy goes through it, the kinks are the destructive forms, the unkinking is the work.
+
 ## The Compressed Form: Anger Is Love
 
 The first indicator (something is cared about) has a compressed restatement that does specific reframing work on its own: anger is love. The compressed form changes what the anger IS rather than how to handle it. See [[anger-is-love]] for the dedicated treatment of this reframe and its uses, particularly for people who have organized their identity around being someone who does not get angry, or for whom gendered conditioning has made anger morally disqualifying.
@@ -240,3 +250,4 @@ Joe speaks of anger with affection. It is "beautiful," "amazing energy." When te
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (alternate version of the same conversation with the same compressed teaching)
 - 2024-05-20_How Anger Works (8-min Guide to Healthy Anger) -- compressed public-facing teaching that produced the symptom-map shortcut ("feeling stuck, depression, self-criticism, and raging at people are all forms of repressed anger") and the champagne-bottle framing of the early-phase release wave
 - 2026-03-24_If Others' Anger Makes You Feel You Did Something Wrong -- the compressed teaching on receiving others' anger; the source for the anger-as-vulnerability second compressed form (paired with anger-is-love); Joe's own discovery story (the therapist who told his wife "his anger is just his vulnerability"); the personal-history mechanism by which the vulnerability reframe produced self-compassion which produced the anger's dissipation
+- 2026-04-07_The 11 Human Emotions Explained in 7 Minutes -- the source for the tube-metaphor compressed delivery of clean anger vs. kinked anger; the three named kinks (the passive jab "nice dress," the outward explosion, the denial "I'm not angry"); the unkinked form as just "clarity and determination"; paired with the action step of reading the boundary that anger points at

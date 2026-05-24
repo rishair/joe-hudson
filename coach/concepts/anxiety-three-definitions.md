@@ -5,7 +5,7 @@ title: "Anxiety Defined Through Three Brains"
 aliases: ["three brains definition of anxiety", "head heart gut anxiety", "anxiety from head heart gut perspective", "what is anxiety", "anxiety as preparing for attack and unmet needs and life force constriction", "three definitions of anxiety", "the head heart gut framing of anxiety", "anxiety from three intelligences"]
 tags: ["anxiety", "definitions", "head", "heart", "gut", "three brains", "framework"]
 related: ["head-heart-gut", "fear-vs-anxiety", "anxiety-as-unarticulated-need", "anxiety-as-constricted-life-force", "fear-as-signal-of-care", "identity-extension-expands-fear"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
 ---
 
 # Anxiety Defined Through Three Brains
@@ -61,6 +61,26 @@ A more complete response works all three layers:
 
 When all three layers are addressed, the anxiety has nowhere left to hide. The signal has been received at every level it is being sent.
 
+## The Compressed Form: A Specific Thing Is Not Being Done
+
+The most compressed delivery of the anxiety teaching, from the eleven-emotions framework, inverts the cultural reading and collapses the three definitions into a single actionable framing:
+
+"Anxiety isn't that you have too much to do or that your life is overwhelming. It just means that there's something that you know needs doing and you're not doing it." -- Joe Hudson, 11 Human Emotions Explained
+
+The compressed form does specific reframing work. The default cultural picture of anxiety is "I have too much going on and the volume of it is producing the anxiety." The compressed form inverts: the volume is not the cause. The cause is a specific thing that is not being done. Find the specific thing; do it (or feel it); the anxiety releases.
+
+The action step expands the "thing that needs doing" beyond the obvious external case:
+
+"When anxiety comes up, it means taking that action step, finding out what's the thing you need to do to put the anxiety at rest. And it might be an action step around work. It might be an internal action step. In terms of what is it you need to feel, often there's a feeling of, I haven't been allowing my anger or my grief or my fear or other emotions under the anxiety. So the step can be an internal step. Sometimes it's, I'm just not allowing my authentic expression here and I'm not actually showing up as who I truly am. And sometimes it's, I'm not allowing myself to feel calm. Peace and bliss right now." -- Joe Hudson, 11 Human Emotions Explained
+
+The "thing that needs doing" can be:
+- **An external action.** The work that has been avoided. The conversation that needs to happen. The decision that has been deferred.
+- **An internal action — feeling an emotion that has been suppressed.** Anger, grief, fear, or other emotions held under the anxiety as the cap.
+- **An internal action — authentic expression.** Showing up as who you truly are rather than as the performance.
+- **An internal action — allowing positive states.** Letting yourself feel calm, peace, or bliss rather than blocking them.
+
+This four-form action step is the operational complement to the three-brain definition. The three-brain frame (head: preparing for attack; heart: unmet needs; gut: constricted life force) tells you what anxiety is across the three layers. The four-form action step tells you what to actually do when anxiety arrives. The "specific thing not being done" formulation is the single-sentence summary that points at all four forms at once.
+
 ## The Immediate-Action Advantage of the Heart View
 
 The heart definition (unmet needs) is highlighted as particularly important because it is the most immediately actionable. Asking "what need is this signaling?" gives the person something specific to do. The head definition (vigilance) tends to amplify itself if engaged head-on. The gut definition (life force constriction) requires somatic attention that takes practice.
@@ -98,3 +118,4 @@ Matter-of-fact. The three definitions are offered as tools, not as a hierarchy. 
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
+- 2026-04-07_The 11 Human Emotions Explained in 7 Minutes -- the source for the compressed inversion form ("anxiety isn't that you have too much to do, it's that there's something you know needs doing and you're not doing it"); the four-form action step expansion covering external action, suppressed emotion, authentic expression, and blocked positive states

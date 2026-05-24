@@ -10046,30 +10046,172 @@
       "absorbed_at": "2026-05-24T03:04:45Z"
     },
     {
-      "folder": "2026-03-27_AI and The Return to Being Human",
-      "status": "in-progress",
-      "claimed_at": "2026-05-24T02:58:33Z",
-      "articles_created": [],
-      "articles_updated": []
-    },
-    {
       "folder": "2026-03-27_How to Succeed in the Age of AI",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T03:02:17Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "intelligence-vs-wisdom",
+        "wisdom-as-being-human",
+        "you-can-hire-anything-except-being-yourself",
+        "the-three-games-outer-inner-team",
+        "raising-ai-as-raising-a-child",
+        "the-mirror-effect-of-ai",
+        "iterate-ai-interaction-toward-feeling-better",
+        "am-i-more-connected-or-more-isolated-test",
+        "dont-use-ai-self-development-in-isolation",
+        "feeling-better-after-vs-being-told-youre-good"
+      ],
+      "articles_updated": [
+        "how-do-i-navigate-this-uncertain-time",
+        "how-do-i-lead-a-team-through-rapid-change",
+        "emotional-cycling-as-superpower-in-exponential-change"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:15:00Z"
     },
     {
       "folder": "2026-03-31_Replace the Story You Tell Yourself 100 Times a Day \uff5c 7-Min Tool",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-24T03:03:11Z",
+      "articles_created": [
+        "self-labeling-installs-the-identity",
+        "i-dont-have-time-as-gratitude-sabotage",
+        "gratitude-as-chore-or-discipline",
+        "i-dont-have-enough-x"
+      ],
+      "articles_updated": [
+        "two-person-gratitude-practice",
+        "see-whats-right-to-build-on-it",
+        "gratitude-as-a-strategy-for-an-outcome"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:14:35Z"
+    },
+    {
+      "folder": "2026-04-02_I Want Connection with People I'm Afraid Will Judge Me \uff5c Coaching with Joe",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:05:47Z",
+      "articles_created": [
+        "i-want-connection-with-people-im-afraid-will-judge-me",
+        "what-are-you-saying-to-yourself-if-you-dont-do-it",
+        "action-toward-what-you-want-is-the-self-validation",
+        "grieving-the-self-editor",
+        "be-grateful-for-moments-of-presence-to-accelerate-the-work",
+        "dont-figure-out-when-you-can-feel-it-just-feel-it"
+      ],
+      "articles_updated": [
+        "coming-alive-then-collapsing-back",
+        "how-do-i-stop-seeking-approval",
+        "confidence-only-where-approval-isnt-needed",
+        "grief-as-identity-dismantling"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-24T03:21:42Z"
+    },
+    {
+      "folder": "2026-04-07_The 11 Human Emotions Explained in 7 Minutes",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:15:43Z",
+      "articles_created": [
+        "11-emotions-explained",
+        "guilt",
+        "sadness",
+        "jealousy",
+        "disgust",
+        "contempt",
+        "love-as-container-for-attachment-healing"
+      ],
+      "articles_updated": [
+        "wisdom-of-each-emotion",
+        "anger",
+        "fear-as-signal-of-care",
+        "anxiety-three-definitions",
+        "shame-as-disconnection",
+        "joy-as-matriarch",
+        "love-as-deep-welcoming",
+        "fear-vs-excitement",
+        "i-cant-stop-being-jealous-of-my-partners-friend",
+        "four-tactical-ways-to-feel-your-emotions"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:34:01Z"
+    },
+    {
+      "folder": "2026-04-10_How to Change Your Interpersonal Patterns",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:18:28Z",
+      "articles_created": [
+        "four-as-of-behavior-change",
+        "announce-widely-the-behavior-change",
+        "take-five-counter-actions-immediately",
+        "ask-for-specific-help-changing-behavior",
+        "dont-run-the-four-as-from-a-should",
+        "recognition-driven-vs-should-driven-change"
+      ],
+      "articles_updated": [
+        "upright-apology",
+        "change-behavior-to-change-consciousness",
+        "i-keep-running-into-the-same-wall",
+        "apologize-as-daily-practice-for-bad-habits",
+        "announce-the-behavior-change-as-meta-context"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:29:50Z"
+    },
+    {
+      "folder": "2026-03-27_AI and The Return to Being Human",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:22:36Z",
+      "articles_created": [
+        "ai-as-equalizer-forces-honest-game"
+      ],
+      "articles_updated": [
+        "wisdom-as-being-human",
+        "intelligence-vs-wisdom",
+        "the-mirror-effect-of-ai",
+        "raising-ai-as-raising-a-child",
+        "dont-use-ai-self-development-in-isolation",
+        "feeling-better-after-vs-being-told-youre-good",
+        "am-i-more-connected-or-more-isolated-test",
+        "iterate-ai-interaction-toward-feeling-better",
+        "you-can-hire-anything-except-being-yourself",
+        "the-three-games-outer-inner-team",
+        "how-do-i-navigate-this-uncertain-time",
+        "how-do-i-lead-a-team-through-rapid-change"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:30:15Z"
+    },
+    {
+      "folder": "2026-04-10_You see the pattern. Your life hasn't changed. Now what\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-24T03:30:29Z",
+      "articles_created": [],
+      "articles_updated": [
+        "four-as-of-behavior-change",
+        "announce-widely-the-behavior-change"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-24T03:34:02Z"
+    },
+    {
+      "folder": "2026-04-14_I started listening to my body and cried for 10 days",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T03:31:06Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2026-04-02_I Want Connection with People I'm Afraid Will Judge Me \uff5c Coaching with Joe",
+      "folder": "2026-04-16_Getting Out of Your Own Way \uff5c Coaching with Joe",
       "status": "in-progress",
-      "claimed_at": "2026-05-24T03:05:47Z",
+      "claimed_at": "2026-05-24T03:34:38Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2026-04-21_When You Help Others, You're Asking Them to Hold Your Fear",
+      "status": "in-progress",
+      "claimed_at": "2026-05-24T03:35:26Z",
       "articles_created": [],
       "articles_updated": []
     }

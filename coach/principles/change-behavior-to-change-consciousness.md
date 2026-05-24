@@ -123,6 +123,7 @@ For ordinary behavior change in a person with reasonable access to their interio
 - Toward [[embrace-intensity]]: another behavior to install via the 10-times experiment when the old behavior was avoidance.
 - Toward [[awareness-of-pain-stops-the-behavior]]: the complementary inside-out path that pairs with this outside-in one.
 - Toward [[everything-is-an-iteration]]: the meta-principle that holds the experimental orientation.
+- Toward [[four-as-of-behavior-change]]: the domain-specific operationalization of this principle for *interpersonal* patterns (where the social field also needs restructuring, not just the behavior itself). The 4 A's are this principle in a more elaborated form for the relational case.
 
 ## Tone
 

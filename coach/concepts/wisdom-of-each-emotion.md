@@ -2,10 +2,10 @@
 type: concept
 id: wisdom-of-each-emotion
 title: "Each Emotion Carries Its Own Wisdom"
-aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message", "three indicators of anger", "anger as care boundary fear"]
-tags: ["emotions", "wisdom", "anger", "sadness", "fear", "information", "signal"]
-related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure", "anger", "logic-vs-emotional-movement"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Stages Of Emotional Development", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
+aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message", "three indicators of anger", "anger as care boundary fear", "guilt as not-listening-to-wants signal", "jealousy as want-and-push-away signal", "disgust as forced-toxic-input signal", "contempt as shadow signal", "love as safety-container for attachment healing"]
+tags: ["emotions", "wisdom", "anger", "sadness", "fear", "information", "signal", "guilt", "jealousy", "disgust", "contempt", "love"]
+related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure", "anger", "logic-vs-emotional-movement", "11-emotions-explained", "guilt", "sadness", "jealousy", "disgust", "contempt", "shame-as-disconnection", "love-as-deep-welcoming"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Stages Of Emotional Development", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns", "2026-04-07_The 11 Human Emotions Explained in 7 Minutes"]
 ---
 
 # Each Emotion Carries Its Own Wisdom
@@ -48,6 +48,14 @@ A common specific form: fear signals that a need is not being met and is not bei
 
 Another form: fear is excitement that has not been allowed to be felt as excitement. The body is having the activation of excitement but the person is reading it as fear because they are not letting themselves be excited. See [[fear-vs-excitement]].
 
+## Guilt: A Want Has Been Ignored
+
+Guilt is the signal that the deepest wants have been overridden. Not a moral verdict on a behavior. A pointer at a want that has been stopped from being heard.
+
+"Guilt just means that we've stopped listening to our deepest wants." -- Joe Hudson, 11 Human Emotions Explained
+
+The reframe lifts guilt out of the moral register (where it loops endlessly between self-recrimination and apology) and into the diagnostic register (where it points at a specific want that has been ignored). The action step has two paired questions: "if I couldn't feel guilty right now, what else would I notice? What else do I want?" and "how do I want to do that thing differently next time?" The first surfaces the masked want. The second routes the energy of the guilt forward into a corrective intention. See [[guilt]] for the standalone article.
+
 ## Sadness: Change Has Happened or Wants to Happen, You Have Loved
 
 Sadness is the other side of joy. It shows up when something is changing or has changed, and it reveals the depth of what mattered. Sadness is evidence of love.
@@ -55,6 +63,56 @@ Sadness is the other side of joy. It shows up when something is changing or has 
 "Sadness shows us that there's a change that wants to happen or has happened. It shows us that we love and that we're in joy around things. And it's an amazing thing to think about why anybody would avoid heartbreak like that kind of sadness and grief, because it shows us how much we cared about something and that the transition is happening." -- Joe Hudson, Stages of Emotional Development
 
 Grief in particular -- which Joe often calls the deepest form of sadness -- reveals how much was loved. The intensity of grief is the measure of the love. A person who cannot grieve is also a person who cannot fully experience the love that grief reveals.
+
+The compressed form of the sadness teaching, from the eleven-emotions framework: "Sadness is closing the door. It's saying goodbye, and it's recognizing that there's something that isn't working for you anymore." -- Joe Hudson, 11 Human Emotions Explained. The action step is the simplest of the eleven: bring attention to the heart, honor what is happening, stay with it; the journey through the heart completes itself if not interrupted. See [[sadness]] for the standalone article.
+
+## Shame: Connection Is Broken
+
+Shame is the felt sense of disconnection, paired with the function of keeping the person inside the tribe's rules. The signal is asking for reconnection, not for self-punishment.
+
+"Shame is a felt sense of disconnection that makes us stay inside of the tribe's rules and often freezes our emotions." -- Joe Hudson, 11 Human Emotions Explained
+
+The compressed definition holds three pieces: shame is a connection signal (not a verdict on character), it functions as a tribe-rule enforcer (the evolutionary function), and it freezes other emotional movement (the stagnation mechanism that makes shame uniquely durable). The action step: find a connection somewhere first — to the heart, to the self, to a partner, to anyone or anything. Connection precedes everything else with shame. See [[shame-as-disconnection]] and [[shame-stagnates-emotion]] for the full treatments.
+
+## Jealousy: A Want With a Push-Away Attached
+
+Jealousy is the simultaneous wanting of something and pushing it away. The reach and the recoil on the same object. The structural signature is the doubled motion, which is what produces the felt awfulness specific to jealousy.
+
+"Jealousy is when you want something and you're pushing it away at the same time." -- Joe Hudson, 11 Human Emotions Explained
+
+The reframe takes jealousy out of the badness register and into the roadmap register: jealousy points at a real want that the person has been blocking themselves from having. The action step has three components — feel the longing, feel the want, feel the fear of loss underneath — which together dissolve the doubled-motion and make the underlying want legible. See [[jealousy]] for the standalone article.
+
+## Disgust: Toxic Material Has Been Taken In
+
+Disgust is the body reporting that something was forced inside that should not have been. The food-level form (rotten food, poisoned water) is the original; the conceptual form (ideology, witnessed abuse, force-fed cultural narrative, toxic relational dynamic) is the generalization.
+
+"Disgust happens when you're forced to swallow something that you didn't really want to take down." -- Joe Hudson, 11 Human Emotions Explained
+
+The diagnostic question — "what have I been force-fed that's toxic for me?" — opens the territory beyond food. The action step is removal: self-removal from the environment delivering the toxic input, or community-removal of the toxic thing from the field. The pairing of self-care and community-care inside the same action step is intentional. See [[disgust]] for the standalone article.
+
+## Contempt: A Disowned Trait Is Being Projected
+
+Contempt is the felt sense of being above another person, paired with the structural fact that at the level of essence no one is above anyone. The combination makes contempt a shadow signal: the trait being condemned in the other is the trait being disowned in the self.
+
+"Contempt is when you think you're better than somebody else, and hint, at your essence, you're not. And so what it's doing is it's showing you a blind spot." -- Joe Hudson, 11 Human Emotions Explained
+
+The action step is direct and uncomfortable: see how you have those exact traits of the person you have contempt for. The work is not to like the trait but to find it operating in your own life, usually in a different form. The finding dissolves the contempt. See [[contempt]] for the standalone article.
+
+## Anxiety: A Specific Thing Is Not Being Done
+
+Anxiety inverts the cultural reading. The story "I have too much to do" is the symptom; the underlying mechanism is "there is a specific thing I am not doing." The action step is to identify and do (or feel) the specific thing.
+
+"Anxiety isn't that you have too much to do or that your life is overwhelming. It just means that there's something that you know needs doing and you're not doing it." -- Joe Hudson, 11 Human Emotions Explained
+
+The "something that needs doing" can be an external action (the thing the person has been avoiding on their list), an internal action (the emotion that has been suppressed underneath the anxiety), or an authentic expression (the truth that has been held in). All three are valid forms of the same underlying signal. See [[anxiety-three-definitions]] and [[anxiety-as-unarticulated-need]] for the full treatments.
+
+## Love: A Container for Healing Attachment Work
+
+Love is the emotion that creates enough safety for the unfinished attachment work of childhood to surface and complete. The function is specific: love is the relational field inside which the old material gets to play out and heal.
+
+"Love is an emotion that allows us to feel so safe that we can play out and heal our attachment issues." -- Joe Hudson, 11 Human Emotions Explained
+
+The action step contains a setup move: agree with your partner and your friends and your community that "our shit's gonna come up here and we're gonna use it as ways to heal." The agreement converts the inevitable surfacing of attachment material from a sign that the relationship is failing into a sign that the relationship is working as designed. See [[love-as-deep-welcoming]] for the dedicated treatment.
 
 ## Joy and the Positive Emotions: Welcoming and Connection
 
@@ -124,9 +182,16 @@ Practical and respectful. Each emotion is presented as a colleague rather than a
 - Toward [[stages-of-emotional-development]]: the developmental arc through which the wisdom becomes accessible.
 - Toward [[joy-as-matriarch]]: the wisdom on the positive side.
 
+## The Compressed Form: The 11-Emotions Catalog
+
+The most compressed delivery of the wisdom-of-each-emotion principle is the eleven-emotions framework — a 7-minute public-facing teaching that walks through fear, anger, guilt, sadness, shame, jealousy, anxiety, disgust, contempt, joy, and love, providing one-line definition and one-line action step for each. The framework is the catalog-form of the principle in this article, designed to be remembered in full by someone watching a single video.
+
+See [[11-emotions-explained]] for the framework. The framework is the on-ramp; the per-emotion dedicated articles ([[fear-as-signal-of-care]], [[anger]], [[guilt]], [[sadness]], [[shame-as-disconnection]], [[jealousy]], [[anxiety-three-definitions]], [[disgust]], [[contempt]], [[joy-as-matriarch]], [[love-as-deep-welcoming]]) are the depth treatments.
+
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode)
 - 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the explicit "signal throughout all the noise" framing for each emotion's wisdom; the two specific signal-readings of anger-as-boundary-needed and anxiety-as-truth-being-held-in; the framing of welcoming as the move that makes the signal legible)
+- 2026-04-07_The 11 Human Emotions Explained in 7 Minutes (the compressed catalog-form of the principle covering eleven emotions in seven minutes; the source for the standalone one-line definitions of guilt as not-listening-to-deepest-wants, sadness as closing-the-door, shame as disconnection-and-tribe-rule-enforcer, jealousy as want-and-push-away, anxiety as a specific thing not being done, disgust as forced-toxic-intake, contempt as shadow signal, and love as the safety-container for attachment healing)

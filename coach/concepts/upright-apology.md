@@ -5,7 +5,7 @@ title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
 related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate", "five-triggers-projection-experiment", "projections", "trigger", "self-forgiveness-as-spoken-move", "list-who-you-subtly-blame", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This", "2024-07-05_Passive Aggression", "2025-03-17_How to Apologize in A Way That Transforms You", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This", "2024-07-05_Passive Aggression", "2025-03-17_How to Apologize in A Way That Transforms You", "2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships)", "2026-04-10_How to Change Your Interpersonal Patterns"]
 ---
 
 # The Upright Apology
@@ -165,6 +165,16 @@ The link between the upright form specifically and projection work: a shame apol
 
 For the full sequence (recognize the trigger, find the projection, love or forgive the trait, then apologize uprightly), see [[five-triggers-projection-experiment]]. The upright apology is the third step of that practice, and the practice is one of the main settings in which Joe assigns the upright apology by name.
 
+## The Upright Apology Inside the 4 A's
+
+In the [[four-as-of-behavior-change|4 A's]] framework for interpersonal behavior change, the upright apology is the second step (after the wide announcement and before the ask for help). The structural function here is specific: the upright apology releases the shame that was holding the pattern in place, which is what allows the subsequent steps (asking for help, taking counter-actions) to work without re-triggering the loop.
+
+A shame-form apology in this slot does the opposite — it reinstalls the identity ("I'm bad, I'm a screw-up") that has been driving the pattern. The behavior then loops right back.
+
+"If you're apologizing it with shame, then you're not feeling everything that comes along with having that apology. There's — it's actually quite a really good feeling to apologize in an upright way. You're just saying, oh, this isn't how I want to be. It's very empowering... If you're in shame, then it's like, oh, I'm bad. There's something wrong with me. And you're still in the identity of that you're screw-up... That's just looping you right back into the old behavior." -- Joe, How to Change Your Interpersonal Patterns
+
+The 4 A's setting also emphasizes the impact-acknowledgment dimension of the upright apology: the apology must acknowledge what the pattern was doing to the other person, not just acknowledge the speaker's own behavior. "It's not just, I'm sorry, but I acknowledge that this was shitty for you. And that's not how I want to be. And I don't want you to be in that shitty position. Acknowledging that is really useful because it kind of allows you to have the empathy of what it's been like on the other side of your behavior." The impact-acknowledgment is itself a feeling event for the speaker — and the felt empathy for the other is part of what closes the loop the pattern was running.
+
 ## The Upright Apology for Past Passive Aggression
 
 A specific application Joe assigns as an experiment after the teaching on passive aggression. Most people doing passive aggression have years of past acts they could apologize for: guilt trips, withheld love, talking behind backs, perpetual small-late-nesses for specific people. Going back and apologizing uprightly for these is one of the most powerful interventions for reducing one's ongoing passive aggression.
@@ -192,6 +202,7 @@ The diagnostic: the word "you" appears as the subject of the apology's content. 
 - When a person has been chronically over-apologizing as appeasement.
 - As the closing step of [[five-triggers-projection-experiment]] after a projection has been recognized and the shame around the disowned trait has been loosened.
 - After someone has done [[list-who-you-subtly-blame]] and has a list of past passive-aggressive acts that warrant repair.
+- As the second step of the [[four-as-of-behavior-change|4 A's]] for interpersonal behavior change, after the wide announcement and before the ask. In this setting the upright form is structurally critical: a shame-form apology in step 2 reinstalls the very identity-loop the framework is supposed to break.
 
 ## Downstream (Where This Leads)
 
@@ -227,3 +238,4 @@ It is also not a substitute for changed behavior. The apology is the surface eve
 - 2022-10-26_The Upright Apology
 - 2024-04-29_Triggered By Others？ Watch This (the upright apology as the closing third step of trigger-projection work; the explicit warning that doing it with shame makes things worse)
 - 2025-05-21_How to Transform Any Relationship (Toolkit For Healthy Relationships) (the same sitcom-tough-guy origin story; the therapist asking "what does fault have to do with an apology?"; the recognition that as-a-kid extracted apologies created the inherited form Joe resisted; the same look-forward-to-finding-a-place-to-apologize stance described as the mature practice; the same upright-form vs shame-form distinction with the upright-form-reduces-the-recurrence-of-the-behavior mechanism reiterated; the same solidarity-sorry second form discussed alongside the upright form)
+- 2026-04-10_How to Change Your Interpersonal Patterns (the upright apology as the structurally-critical second step of the 4 A's for interpersonal behavior change; the impact-acknowledgment dimension of the upright form when used inside the framework; the explicit warning that the shame form in this slot loops the pattern right back; the relief-vs-smallness diagnostic for distinguishing the upright form from the shame form)

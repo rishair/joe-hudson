@@ -81,6 +81,10 @@ The practice tends to produce two things:
 - Toward [[joes-pot-habit]] as the worked example of the principle.
 - Toward [[address-the-blocker-not-the-symptom]] when the practice reveals what is actually underneath the habit.
 
+## Boundary With the Interpersonal-Pattern Framework
+
+This practice is the bad-habit form, where the apology is to yourself and the daily container is the structure. The [[four-as-of-behavior-change|4 A's]] are a different structure entirely, for interpersonal patterns where the apology is to specific other people and the wide announcement restructures the relational field. Bad habits don't have the right shape for the 4 A's because the apology target is unclear and the action step doesn't fit (you can't take five immediate counter-actions to "exercise every day"; the bad habit needs a different operational form). The two practices are siblings — both use the upright apology mechanism — but they apply in different domains. See [[four-as-of-behavior-change]] for the interpersonal-pattern complement.
+
 ## Sources
 
 - 2022-06-24_The Upright Apology- Accountability Without Shame

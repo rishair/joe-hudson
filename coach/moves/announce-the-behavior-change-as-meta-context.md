@@ -85,6 +85,10 @@ Conversational, exploratory, light. The move works when it is delivered as "I wa
 - Toward [[state-the-want-not-the-action]] as the daily form the change takes
 - Toward [[wants-vs-partiality]] as the discipline that keeps the expressed wants clean
 
+## Related Announcement Move
+
+- [[announce-widely-the-behavior-change]] is the sibling move within the [[four-as-of-behavior-change|4 A's]]. The meta-context move (this article) is about *how* the receivers want the new behavior delivered. The wide-announcement move is about *exposure and identity restructuring* via maximum audience. Both are forms of bringing the change forward consciously; they answer different questions.
+
 ## Sources
 
 - 2021-11-19_What is Selfishness?

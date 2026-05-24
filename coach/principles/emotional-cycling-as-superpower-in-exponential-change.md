@@ -147,6 +147,7 @@ Pragmatic and matter-of-fact, with the structural authority of someone reporting
 - Toward [[reducing-overwhelm-in-organizations]] for the organizational application
 - Toward [[decisions-are-emotional]] for the link to decision quality
 - Toward [[tension-and-release-cycle]] for the underlying somatic principle
+- Toward [[the-three-games-outer-inner-team]] for the broader framework -- emotional cycling speed is the inner-game capacity specifically expressed in exponential environments
 
 ## Sources
 
