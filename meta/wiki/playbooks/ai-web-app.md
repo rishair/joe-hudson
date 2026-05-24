@@ -16,16 +16,20 @@ Patterns and conventions for building user-facing web apps that talk to LLMs. St
 ## OpenRouter usage
 
 ```typescript
-import { createOpenAI } from '@ai-sdk/openai';
+import { createOpenRouter } from '@openrouter/ai-sdk-provider';
 
-export const openrouter = createOpenAI({
-  baseURL: 'https://openrouter.ai/api/v1',
+export const openrouter = createOpenRouter({
   apiKey: process.env.OPENROUTER_API_KEY,
   headers: {
     'HTTP-Referer': process.env.APP_URL ?? 'http://localhost:3000',
     'X-Title': 'AppName',
   },
 });
+
+// Per R-016: use @openrouter/ai-sdk-provider, NOT @ai-sdk/openai with a custom baseURL.
+// The OpenAI-shape shim strips provider-specific options like Anthropic cacheControl,
+// which kills prompt caching for ~10x cost overhead. The OpenRouter package preserves
+// `providerOptions.openrouter.cacheControl` correctly.
 
 // Use anywhere
 const result = await streamText({
@@ -34,7 +38,7 @@ const result = await streamText({
 });
 ```
 
-Model IDs follow OpenRouter's `provider/model` convention. Anthropic: `anthropic/claude-opus-4-7`, `anthropic/claude-sonnet-4-6`, `anthropic/claude-haiku-4-5`. OpenAI: `openai/gpt-5`. Etc.
+Model IDs follow OpenRouter's `provider/model` convention. Anthropic uses **dot form** (not the dash form Anthropic's own SDK uses): `anthropic/claude-opus-4.7`, `anthropic/claude-sonnet-4.6`, `anthropic/claude-haiku-4.5`. OpenAI: `openai/gpt-5`. Etc. The dash form (`claude-sonnet-4-6`) is what `@anthropic-ai/sdk` accepts; OpenRouter's catalogue uses the dot form. Mixing them up returns a 404 from OpenRouter.
 
 Set the `HTTP-Referer` and `X-Title` headers so OpenRouter analytics distinguish your apps.
 

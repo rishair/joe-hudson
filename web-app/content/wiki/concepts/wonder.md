@@ -1,0 +1,187 @@
+---
+type: concept
+id: wonder
+title: "Wonder"
+aliases: ["W in VIEW", "awe", "being in the question", "open curiosity", "follow your wonder"]
+tags: ["VIEW", "curiosity", "presence", "openness", "fear", "knowing", "learning"]
+related: ["view", "wonder-vs-curiosity", "how-what-questions", "wonder-as-strategy", "questioning-assumptions", "right-question-over-right-answer"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW", "2022-10-26_Wonder", "2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It"]
+---
+
+# Wonder
+
+## Definition
+
+Wonder is like curiosity but without needing the answer. It is living in the openness of the question with awe. Curiosity can constrict into answer-seeking. Wonder stays open. It is curiosity and awe combined.
+
+"Wonder is that open, living in the openness of the question with awe. And curiosity can be that, but curiosity can also become very focused on, need the answer, need the answer, need the answer." -- Joe Hudson, Introduction to VIEW
+
+The awe component is essential. Awe carries a recognition that what you are facing is beyond your control, beyond your capacity to fully comprehend. Gratitude shares this quality. Both point toward something larger than the self.
+
+"It has awe because we acknowledge that there's something beyond our ability to even maybe recognize." -- Joe Hudson, Wonder
+
+## In Practice
+
+Wonder is the W in [[view]]. It dissolves fear. When someone stops and genuinely wonders, the fear response cannot coexist. Fear drives a specific chain: fear -> control -> resistance. When someone is scared, they push others into compliance, and others resist. "The drama of our life is our incapacity to love people as they are. And we are scared of something, and so we start trying to push them around." -- Joe Hudson, Introduction to VIEW (Connection Course). Wonder breaks this chain at the root.
+
+The lion/tiger visualization: you are running from a tiger, hearing its paws, knowing it will catch you, about to feel it pounce. Now ask: "I wonder how much it weighs?" The fear vanishes. The shift from flight to wonder interrupts the threat response entirely.
+
+"If you actually stop and say, what am I curious about? What do I have actual deep wonder for? Then the fear that you have dissipates." -- Joe Hudson, Introduction to VIEW
+
+"It's a crazy thing that our brain has a really hard time holding fear and stress when we're in wonder, when we are in awe of life or anything." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+Being with someone who is in genuine wonder about you, who does not need you to solve anything, produces a felt relaxation in the whole system.
+
+### Wonder Dissolves Defensiveness
+
+A specific application: when someone comes at you with an attack, wonder converts the moment from a fight into a question. "You're a complete asshole." From wonder, the answer is not defense — it is "Oh, how is that? How do you see that?" There is nothing to defend. The response begins with a question, which immediately makes the other person feel heard.
+
+The mechanism: defense and wonder are incompatible postures. Defense requires the position "I am being attacked and must protect." Wonder requires the position "this is information I do not yet have access to." The body cannot occupy both at once.
+
+"Somebody comes up to you and they say, 'You're a complete asshole.' And if you're in wonder, the answer is, 'Oh, how is that? How do you see that?' There's nothing to defend. You're actually starting with a question, which immediately makes the other person feel heard." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+The cascade is felt. The attacker, expecting defense, gets a question. The pressure drops in their system. Your own pressure drops because you are no longer in defense. The interaction that was going to be a fight becomes a collaboration. See [[ask-open-ended-non-judgmental-questions-when-triggered]] for the move-level treatment of this.
+
+### Defensiveness Is Itself Stressful
+
+A subtle but load-bearing point: defense itself is a stress. Being defensive is never relaxing. The defended posture requires constant muscular and attentional output. The act of dropping defense by entering wonder reduces the stress in your own system, independent of what happens with the other person.
+
+"Even being defensive is quite a stressful act. If you think about any time that you've been defensive, it's not like I was just relaxing while being defensive with somebody. It just never happens." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+So wonder takes pressure out of your system in two ways at once: it disables the fight-or-flight response to whatever is happening, and it disables the additional stress-cost of holding the defense itself. The effect is felt as a drop in stress that is larger than the situation would predict.
+
+### Wonder as Aperture for Stress Problem-Solving
+
+Under stress, the brain narrows. It runs the cached solutions: "I know I have these 6 things to do that everybody tells me to do in the marketing campaign, and I make my web page like this." The thinking is the inherited list, mechanically applied.
+
+Wonder opens the aperture. The same problems become: "I wonder what exercise would be the most enjoyable exercise." "What would be the exercise that I could do that I would want to do so bad that I would get up off of TikTok to go do it?" "How do I have a marketing campaign that makes me feel more connected to the people we're selling to?"
+
+The wonder-questions produce different solutions than the stress-questions. They are alive, specific, and personal in ways the inherited solutions cannot be.
+
+"Wonder is the thing that opens up the aperture to life, and it solves the problems that you think you need to resolve when you're under stress." -- Joe Hudson, Your Brain Has A Stress Reset Button
+
+For the structured pen-and-paper practice that operationalizes this on a specific stressor, see [[fifteen-unknowns-then-how-what-questions]].
+
+### Being in the Question
+
+Wonder means living in the question itself, not racing to resolve it. Joe spent ten years in a single question: "What am I?" He did not need to answer it. Answers would arise but were always context-dependent. The power was in remaining in the question.
+
+"I could come up with answers, but every answer was based on some context... And the power of that was being in the question. It wasn't never finding the answer to the question." -- Joe Hudson, Wonder
+
+The moment an answer arrives, the search stops. Staying in the question keeps the field open for more to be seen.
+
+### Wonder Propels Action
+
+Wonder does not produce passivity. It propels movement. "I'm really curious, how does this work?" leads to experiments, new approaches, deeper engagement. People in a state of genuine wonder take more action, not less. Depression and stuckness coexist with a lack of wonder, not with an excess of it.
+
+Wonder directed at depression itself begins to dissolve it: "What's making me depressed? What is depressed exactly? What part of me is depressed? What's the me that can see I'm depressed?" The depression is maintained by a critical voice in the head that has not been met with curiosity. Turn wonder toward that voice and movement returns.
+
+"You can just turn that curiosity right to the critical voice in the head and things will change pretty quickly if you can consistently have that state of wonder about the voice in your head." -- Joe Hudson, Wonder
+
+### Wonder Is an Undoing
+
+Effort makes wonder harder. Telling yourself "I have to be in wonder" constricts the very state it points toward. Wonder is not a doing but an undoing of everything that covers our natural curiosity. Children are in wonder constantly until it is trained out of them.
+
+"If I say, okay, now I have to go and do wonder and I have to be in a wonder state of mind, that immediately makes it harder to be in a wonder state of mind." -- Joe Hudson, Wonder
+
+Access wonder by noticing what is already wondrous. There is always something you do not know, even about the bedsheets in your room: who made them, what detergents touched them, how the company that made them came to exist.
+
+The natural reference point is a small child handling a frog for the first time. That posture, that attention, that openness is the same posture available to an adult looking at a business problem, a partner, or their own life.
+
+"It's really a point of view of looking at the world. Follow your wonder, like it's a trail, and just follow it in the conversation about the other person, about yourself, in the conversation, just follow it." -- Joe Hudson, Wonder
+
+A psychological study of infants found they smile most not in anticipation of being fed but when they are engaged in learning. Curiosity is the underlying nature. Wonder is the return to it.
+
+### The Harvest from Wandering
+
+Wonder includes the willingness to wander without a destination. Jeff Bezos described starting his day by wandering, in his mind and in space. The wandering is not idleness. There is a harvest from following wonder without trying to land it: you discover what was not visible to the search.
+
+This applies in business and relationships. Couples who think they know each other watch the relationship go dull. In wonder, the partner is a continuous discovery; the business is a continuous discovery.
+
+### Wonder Across Difference
+
+Wonder dissolves us-vs-them. When someone treats people they disagree with as if those people were ignorant or contemptible, the heart closes. Bringing wonder to the people on the other side, including those whose politics or values clash with yours, reopens the heart.
+
+The mechanism: wonder questions the certainty that the other side is simply wrong. It asks what circumstance produced their view, what wisdom might exist in their position, what it would feel like to look at the world through their eyes. The disagreement may remain. The closure does not.
+
+"They were just like, oh, I see how they would view things this way, given this circumstance, given this thing. Not that they agreed with it or disagreed with it anymore, but it was just this -- their heart opened up because they were in wonder about this whole situation." -- Joe Hudson, Wonder
+
+See [[political-signs-steakhouse-story]] for the worked example with Joe's daughters.
+
+### Certainty and Wonder Coexist
+
+Knowing the next step is compatible with being in wonder. Wonder does not produce indecisiveness. It stops you from thinking that you "know." You can be clear about your next action while remaining open to the possibility that a better path will appear, or that this step exists to teach you something unexpected.
+
+"I don't think that I know. I just know what the right next step is for me or for what I'm here to do." -- Joe Hudson, Wonder
+
+### The Opposite: Knowing
+
+The opposite of wonder is knowing, or wanting to be seen as knowing. Identifying with being right closes the field. No new information enters. A venture capitalist pitch where the founder comes in "knowing" offers a narrow chance of alignment. A founder who opens with wonder ("What do you need to see?") creates a wider channel for connection and success.
+
+The "problem person" in any organization is typically the one who thinks they are right about everything. There is no wonder in their system. No one wants to be on a journey with someone who has already decided where it ends.
+
+## When Someone Experiences This
+
+The absence of wonder shows up as needing to be right, needing to control the outcome, or needing to fix the problem. The person may feel constricted, urgent, tight.
+
+People who live past 100 share a common quality: they find the small things in life awe-inspiring. A meal, a walk, an ordinary day carries wonder for them. Research on dementia shows that people who are constantly learning and rewiring develop new neural pathways even as old ones degrade. Those who live in the same pathways see them break down over time.
+
+People in their 40s and 50s begin to feel a pull toward staying inside familiar neural pathways, inside routine. The pull takes the joy out of life. Wonder is what counters it. Without wonder, retirement becomes a slow stagnation. With wonder, exuberance remains available at any age.
+
+## Upstream (What Leads Here)
+
+- When a conversation is stuck in problem-solving mode.
+- When fear is driving someone to try to control an outcome.
+- When [[impartiality]] is hard to reach, wonder can be the doorway in.
+- When someone identifies with being right. See [[questioning-assumptions]].
+- When depression or stuckness is present, wonder directed at the inner critic opens movement.
+- When someone is in defense — wonder converts the defensive posture into a question. See [[defense]].
+- When someone presents with [[im-so-stressed-out]] and the cognitive narrowing is part of the load.
+- When the [[separation-wonder-reality-experiments-love]] arc is at the wonder stage and needs the engine.
+
+## Downstream (Where This Leads)
+
+- Wonder naturally produces [[how-what-questions]], open-ended questions that invite expansive responses.
+- Creates space for the other person to discover their own answers.
+- Dissolves the fear that blocks [[vulnerability]].
+- Leads to asking [[right-question-over-right-answer]] rather than seeking the right answer.
+- "Follow your wonder like a trail" in conversation. Seek what you don't know. See [[find-what-you-dont-know]] for the practice.
+- Across difference (political, cultural, generational), wonder reopens the heart without requiring agreement.
+- For stress reduction on a specific stressor, see [[fifteen-unknowns-then-how-what-questions]].
+- As the engine of the long arc from resistance to love, see [[separation-wonder-reality-experiments-love]].
+- When in a triggered conversation, see [[ask-open-ended-non-judgmental-questions-when-triggered]].
+
+## Questions Joe Asks
+
+- "What am I in wonder about right now?" (self-directed, 10 times a day as practice)
+- "What do I not know here?" (in conversation, after hearing someone's story)
+- "What's making you feel creeped out right now?" (when wonder is landing wrong and someone resists)
+- "How do you keep doing this? What is it that's working for you here?" (when someone is stuck in a loop)
+
+## Tone
+
+Joe talks about wonder with warmth and spaciousness. There is lightness in how he describes it. He often uses physical metaphors: a child holding a frog, the expansiveness in the body when a question opens. When describing the absence of wonder, his tone shifts to matter-of-fact: "Look at your friends who know what's right and wrong. How enjoyable is it to be around them?"
+
+## Anti-Patterns
+
+- [[wonder-as-strategy]]: Using questions strategically to avoid intimacy or to manipulate. Wonder as technique fails the same way all of VIEW as technique fails.
+- [[view-as-technique]]: Wonder must be a state, not a performance.
+
+## Distinctions
+
+- [[wonder-vs-curiosity]]: Wonder stays in the question. Curiosity can narrow toward needing the answer.
+
+## Boundary Conditions
+
+Disassociation is not wonder. Some people appear to live in perpetual wonder but are actually disconnected from life. They use a wonder-like state to avoid difficulty rather than to engage with it. Wonder in its genuine form produces movement and engagement, not retreat.
+
+If wonder is producing paralysis or avoidance, something else is happening. Genuine wonder leads to action, learning, and experimentation.
+
+## Sources
+
+- 2020-10-26_Introduction to VIEW
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2020-11-04_Wonder -- Connection Course Series #2
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2025-06-27_Your Brain Has A Stress Reset Button, Here's How to Use It (the tiger visualization as a more vivid retelling of the lion visualization; the "you're an asshole" -> "how is that" example of wonder dissolving defensiveness; the explicit statement that defense itself is stressful; the marketing-campaign and exercise examples of wonder-mode vs stress-mode problem solving; wonder as the aperture-opener for stress)

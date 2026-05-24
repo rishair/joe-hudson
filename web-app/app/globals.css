@@ -15,3 +15,12 @@ body {
 button {
   font: inherit;
 }
+
+/* E-045 welcome dialog backdrop. The ::backdrop pseudo-element is the
+   platform's overlay behind a <dialog> opened via showModal(). Default
+   browser styling is transparent or fully opaque depending on the engine;
+   set an explicit translucent dark layer for consistency. */
+dialog::backdrop {
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(2px);
+}

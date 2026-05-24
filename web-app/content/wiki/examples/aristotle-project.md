@@ -1,0 +1,106 @@
+---
+type: example
+id: aristotle-project
+title: "The Aristotle Project (Google's Team-Functionality Study)"
+aliases: ["Aristotle Project", "the Google teams study", "Google's Project Aristotle", "what made Google teams functional", "the Google team study", "teams functional through goal changes", "freedom to express themselves study", "say the contradictory thing study", "the two-critical-things study", "everyone's voice is heard contributors only", "safety is created by working through conflict", "the Aristotle Project as the elephant-naming evidence"]
+tags: ["teams", "research", "expression", "voice", "functionality", "Google", "example", "psychological-safety", "elephant-in-the-room"]
+related: ["functional-team", "trust-as-multifaceted", "sublimated-wants-become-politics", "everybody-wants-the-same-kind-of-team", "diagnose-the-meeting-live", "cia-sabotage-manual", "leaders-wants-are-the-organizations-wants", "listening", "listening-shapes-the-reality-that-comes-back", "the-last-to-speak-move", "being-heard", "the-elephant-in-the-room", "whats-the-scary-thing-youre-not-saying", "conflict-avoidance-prevents-healing"]
+sources: ["2022-10-26_Building A Functional Team", "2024-03-29_Listening", "2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say"]
+---
+
+# The Aristotle Project (Google's Team-Functionality Study)
+
+## The Study
+
+Google ran a multi-year internal research project, known as the Aristotle Project, to identify what made their teams functional. They studied many teams and tracked which ones consistently outperformed others.
+
+The most striking finding: the functional teams stayed functional even when their goals changed. You could move them from one project to another, switch their domain, change what they were working on, and the team would remain high-performing. The functionality lived in the team, not in the work.
+
+When the researchers asked what made these teams different, they found one consistent variable: in functional teams, people felt free to express themselves and everyone actually did express themselves.
+
+"There's a great study that Google did on this where they measured all their teams, and the study is called The Aristotle Project, I believe. They basically found that the teams that were most functional were functional even if they changed their goals. So they could switch their things and that team would still be functional. So they were like, what makes those teams functional? The things that they came up with were that people felt free to express themselves and everybody did express themselves. That's what they could measure that showed the functionality of the team." -- Joe Hudson, Building A Functional Team
+
+## What This Says
+
+The finding decouples team functionality from goal-specific expertise. The functional team is not a team that has been optimized for a specific task; it is a team that has been built around a specific dynamic. The dynamic — everyone freely expressing themselves, everyone actually doing so — is portable across goals.
+
+The implication for design: a leader who wants a high-performing team should not optimize primarily for skill matches to the current goal. They should optimize for the conditions under which everyone speaks. The skills follow the conditions. The team that can express itself can take on a new problem; the team that has been assembled for one problem cannot easily transfer.
+
+This is the empirical foundation for several principles:
+
+- [[trust-as-multifaceted]] in its communicative dimension: the trust that everyone can speak is the substrate the rest is built on
+- [[sublimated-wants-become-politics]]: where wants cannot be expressed, politics fill the gap. The Aristotle Project is the inverse demonstration — where expression is high, politics is low
+- [[leaders-wants-are-the-organizations-wants]]: the leader speaks first, modeling the expression that the principle requires of everyone
+
+## Joe's Subtlety: Voice Belongs to Contributors
+
+Joe extends the finding with an important nuance. The principle that everyone should express themselves applies inside the team, not outside it. People who are actually contributing to the work, who are putting in effort, who are trying to solve the problem — their voices should be heard. People who are standing on the outside and claiming the right to speak without being part of the work do not have the same standing.
+
+"I think people should all have their voice heard if they're willing to contribute and put effort and they're trying to solve the problem. But if you're just standing on the outside and you think you have the right for your voice to be heard and you're not actually addressing the problem, it's not your thing to do. It might be great for someone to get your advice, you might have great stuff, but you shouldn't have power over the project. So it gets really dysfunctional in teams when people want their voices heard and think that their voices should be heard, but they're actually not contributing to the solution." -- Joe Hudson, Building A Functional Team
+
+The distinction: input is welcome from many; decision authority belongs to those doing the work. Conflating these produces dysfunction. Refusing input from contributors produces a different dysfunction. The functional team has wide input from contributors and narrow decision authority among the people accountable for the outcome.
+
+This is the reconciliation with [[cia-sabotage-manual]], which warns against decisions by large committees. The Aristotle Project's "everyone expresses themselves" is about voice inside the work. The CIA manual's sabotage move is about decision authority by committee. Both can be true. The first should be high; the second should not be wide.
+
+## The Point Joe Uses It To Illustrate
+
+The Aristotle Project gives external validation to the principle that team functionality is built on expression and trust rather than on goal-specific skill assembly. The example is useful when:
+
+- A leader is overly focused on hiring for a current problem rather than building a durable team
+- A leader doubts that "soft" things like expression actually drive performance
+- A leader is convinced their team's silence is fine because everyone has the relevant skills
+- A team is functioning poorly and the leader is reorganizing structure rather than addressing the expression dynamic
+
+The study collapses the objection that expression is a nice-to-have. The largest internal research project at one of the most measurement-driven companies found that expression is the leading indicator of functionality. A leader who continues to ignore it has to argue against Google's own data.
+
+## The Mechanism Underneath Expression: Listening
+
+Joe later names what is being shown by this study. "Everyone expresses themselves" is the surface measurement; the underlying enabler is that people in the team *feel listened to*. People do not speak when they are not heard. They go quiet, or they perform, or they comply. The Aristotle finding is the visible outcome — when listening is present, expression happens; when listening is absent, the team goes silent or performative regardless of the talent in the room.
+
+"More functional teams, less likely to get duped in a deal, more likely to get a deal done... People don't feel heard. People feel pissed off. There's a lot more power struggles. Inefficiency abounds. Everybody's fighting to be heard or decided they can't be heard. You don't get the best ideas." -- Joe Hudson, Listening
+
+This is the operational link to [[listening]] and [[listening-shapes-the-reality-that-comes-back]]: the team's expression is the back-channel response to the team's listening. Change the listening; the expression follows. The leadership-level expression of this is [[the-last-to-speak-move]] — the speaking-order intervention that creates the conditions for the junior voices to enter.
+
+## When Joe Reaches For It
+
+- A conversation about what makes teams work, where the leader keeps reaching for the wrong variable
+- A discussion of trust that needs grounding in observable behavior (people actually speaking)
+- A leader trying to understand why their otherwise-talented team is underperforming
+- A coaching conversation about whether to invest in team dynamics versus goal-specific changes
+- A conversation about [[listening]] in business that needs concrete grounding in measurable outcomes
+
+## What This Does Not Argue
+
+The study does not say expression is sufficient. A team in which everyone speaks but the speech is performative, or where everyone speaks but no one decides, will still fail. Expression is a necessary condition, not a complete one.
+
+The study also does not say teams should be optimized for happiness or harmony. The conditions for expression often include uncomfortable conflict, hard truths, and disagreement. The functional team in the Aristotle finding is not a comfortable team; it is a team in which the discomfort can be voiced.
+
+## The Two Critical Things Restated (2024 Elephant in the Room Version)
+
+In the 2024 Elephant in the Room conversation, Joe restates the Aristotle Project finding in compressed form, naming the two specific variables he treats as the empirical ground for elephant-naming culture:
+
+"If you look at The Aristotle Project, which was done by Google about what makes functional teams. This is the one of the two most critical things about having a really functioning high capacity, having a very functioning high capacity team is that one, people can say the contradictory thing. They can say the hard thing. And the other one is that everybody's voice is heard that's sitting around the table. That doesn't mean Everybody gets an opinion. It just means that people who are actually working on the project are all contributing, right? Which is very different than Bob over from shipping comes in and tells you how to build a product and thinks that their voice is equal. That's not what I'm talking about." -- Joe Hudson, The Elephant in the Room
+
+The "say the contradictory thing" reframing is the direct empirical link to the elephant-in-the-room teaching. Functional teams are functional because they can say the hard, contradictory, unwelcome thing. The Aristotle finding is the data behind the elephant-naming practice.
+
+## Safety Is Created By Working Through Conflict, Not By Avoiding It
+
+The most common misreading of the Aristotle Project: "Google found that safety is what makes teams work, so create a safe team by avoiding conflict." Joe explicitly addresses and corrects this misreading in the 2024 conversation.
+
+Brett: "The Aristotle project is probably one of the most misunderstood, like, research results out there because it often is taken to mean Oh, teams that are safe, which means we're going to create safety, which means we're going to stifle conflict, which means we're going to actually create a really unsafe team. Right. That's people don't feel like they can actually bring up conflict and work through it."
+
+Joe: "Correct. Safety is created by working through conflict successfully. Safety is not created by avoiding conflict. And that's right. One of the most misunderstood things is that I can create a safe team by avoiding conflict. And that just does not work. It's about making that conflict super productive. And that is not managing the other people. It's keeping an open heart. It's acting from view. It's all those things." -- Joe Hudson, The Elephant in the Room
+
+This restatement matters because the conflict-avoidant version of "psychological safety" has become a common misuse of the research. A team where nobody disagrees is not a safe team; it is a team where the disagreements have gone underground. The Aristotle Project found the opposite of comfort: it found teams that could surface the difficult thing, not teams that avoided it.
+
+This connects directly to [[the-elephant-in-the-room]] and [[conflict-avoidance-prevents-healing]]. The elephant-naming culture is what produces the safety the Aristotle Project measured. The avoidance-of-conflict culture is what produces the absence of safety the team is trying to escape from.
+
+## Tone
+
+Joe delivers this as a reference to give weight to the underlying point. He admits he is not certain of the exact name but is confident in the finding. The function of the example is to provide external validation for what he is teaching; the example is not the teaching itself.
+
+## Sources
+
+- 2022-10-26_Building A Functional Team
+- 2024-03-29_Listening
+- 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say (Joe restates the two critical variables — saying the contradictory thing and everyone's voice being heard — and explicitly corrects the common misreading that the Aristotle finding endorses conflict avoidance; safety is created by working through conflict successfully, not by avoiding it)

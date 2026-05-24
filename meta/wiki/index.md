@@ -84,16 +84,17 @@
     - [x] R-017 What's the canonical pattern for resource-attribution UX in chat (subtle in-flow + modal deep-dive)?
     - [x] R-018 What link conventions exist in the current coach directory and what normalization is needed?
   - Experiments
-    - [ ] E-039 Build repeatable ingestion script copying coach to web app content dir with link normalization
-    - [~] E-040 Scaffold Next.js + AI SDK + OpenRouter minimal chat
-    - [ ] E-041 Add client-side SQLite for full-fidelity conversation persistence
-    - [ ] E-042 Build wiki view: routing, rendering, internal wikilinks
-    - [ ] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
+    - [x] E-039 Build repeatable ingestion script copying coach to web app content dir with link normalization
+    - [x] E-040 Scaffold Next.js + AI SDK + OpenRouter minimal chat
+    - [x] E-041 Add client-side SQLite for full-fidelity conversation persistence
+    - [x] E-042 Build wiki view: routing, rendering, internal wikilinks
+    - [~] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
     - [ ] E-044 Build resource-attribution modal split layout
-    - [ ] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
+    - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
 
 ## Checkpoints
 
 - 2026-05-24-wiki-start-kickoff
+- 2026-05-24-checkpoint-2
 - 2026-05-20-153000
 - 2026-05-20-034500

@@ -1,0 +1,159 @@
+---
+type: practice
+id: enjoy-this-just-a-little-bit-more
+title: "Enjoy This Just a Little Bit More (The Micro-Shift Practice)"
+aliases: ["enjoy this a little bit more", "the just-a-little-bit-more practice", "enjoy the moment a little bit more", "the micro-enjoyment shift", "the inward-shift practice", "the small enjoyment turn", "stop and enjoy this a little more", "the tiny enjoyment increment", "the nothing-has-to-change practice", "the small inward shift", "the take-a-breath-pay-attention enjoyment move", "the micro-practice for enjoyment", "enjoy this moment 10 percent more", "how do you enjoy this moment 10 percent more", "the 10 percent more variant", "the percentage version of the practice", "enjoy this moment 5 percent more", "the 5 percent more variant", "just enjoy yourself 5 percent more right now", "the smaller-than-10-percent variant"]
+tags: ["practice", "enjoyment", "presence", "micro-shift", "body", "now"]
+related: ["enjoyment-as-path", "apply-enjoy-to-whats-here", "enjoy-your-breath-for-five-minutes", "how-would-you-enjoy-x", "how-is-that-not-here-right-now", "i-keep-postponing-enjoyment", "efficiency-as-enjoyment", "if-you-really-understood-it-it-wouldve-changed", "offer-yourself-as-the-bad-boss-they-installed"]
+sources: ["2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson)", "2025-10-30_My body won't let me build what my brain knows I can (Coaching with Joe Hudson)"]
+---
+
+# Enjoy This Just a Little Bit More
+
+## The Practice
+
+Whatever you are doing right now, stop and enjoy this moment just a little bit more. Just a little. Nothing has to change outwardly. Something happens inwardly that is different.
+
+The instruction is exactly that small. Not "have a transcendent experience." Not "manufacture joy." Just: enjoy this, right now, a little bit more than you were a moment ago.
+
+"Whatever you're doing, stop and just enjoy this moment a little bit more. Just a little bit. And you notice nothing had to change outwardly, but something happened inwardly that was different." -- Joe Hudson, How To Enjoy Your Work
+
+## Why It Works
+
+The practice bypasses the entire apparatus that usually obstructs enjoyment. There is no goal to achieve, no future state to reach, no "right" version of the experience to produce. There is only a small increment in the relationship to what is already here.
+
+The smallness is the medicine. A larger instruction ("enjoy this fully," "be present with this") engages the trying mechanism, which is itself the resistance. See [[enjoyment-as-path]] on the trying-as-resistance failure mode. A "just a little bit more" instruction is small enough to slip past the trying.
+
+The inward-not-outward framing matters. The practice asserts that enjoyment is not contingent on the situation changing. The situation can stay exactly as it is. The change happens in the body's relationship to the situation. This is the operational form of [[enjoyment-as-path]] applied to ordinary moments.
+
+## The Mechanism: What Actually Shifts Inwardly
+
+Joe names several common forms the inward shift takes:
+
+- A breath. The breath slows or deepens slightly.
+- A small slowing. The pace of action decreases.
+- Attention to the body. Where the body had been ignored, it becomes available.
+- A different rhythm of action. If you were doing emails slowly, maybe pounding them out is enjoyable. If you were rushing, slowing down might be. Whichever shift produces more enjoyment is the one to follow.
+
+"Maybe you took a breath, maybe you slowed down, maybe you paid attention to your body. There's lots of little things we can do that help us enjoy just a little bit more. If you're doing emails and you're rushing, it might not be as enjoyable as doing it a little more slowly. Or doing a little more slowly might not be as enjoyable as just feeling like you're pounding them out." -- Joe Hudson, How To Enjoy Your Work
+
+The shift is idiosyncratic. The same task could be enjoyed faster, slower, with music, in silence, with a sip of coffee, with a stretch. The practice is to notice what would make this particular moment a little more enjoyable, and do that.
+
+## The Percentage Variant ("Enjoy This Moment 10% More")
+
+A close variant Joe uses in live coaching: instead of "a little bit more," ask for a specific small percentage. "How do you enjoy this moment 10% more?" The percentage form does the same work as the verbal "a little bit more" but is even more operationally precise — it gives the body a small, defined target instead of an open invitation.
+
+In a coaching session with a man who had been procrastinating chronically on his side hustle, Joe used the percentage version as an in-session redirect after the man had been intellectualizing his procrastination:
+
+> "How do you enjoy this moment 10% more?"
+>
+> "This moment right now?"
+>
+> "This moment right now. Yeah, that looks like you did it."
+>
+> "Mm, I just appreciate that I'm here."
+>
+> "Yeah."
+>
+> "On a call with you and all these these people."
+>
+> "Yeah, that's how you enjoy your work more too."
+
+Two things happened in this brief exchange. First, the question pulled the man out of analyzing his procrastination and into a felt experience of the present. Second, his answer — appreciating being on the call — was the demonstration. Joe noted "that looks like you did it" as soon as the man's body settled into the question. The smile and the small softening were the evidence the move had landed.
+
+Then Joe made the move transferable: "that's how you enjoy your work more too." The same micro-practice that just shifted the man's state in the coaching room is the practice he was being asked to take to his desk. The percentage form is portable. The man can ask himself the same question while building his website.
+
+The "10%" choice of number matters. 50% would invite the trying mechanism. 1% would feel trivial. 10% is small enough to be reachable, large enough to be detectable. Calibrate to the person; sometimes 5% or 20% fits better. The principle is the same: a small specific increment, not a transformation.
+
+## The 5% Variant (When the Client Has Just Lamented They Already Know This)
+
+A specific calibration that arises in a particular coaching moment: the client expresses frustration that they have studied the teaching, recognize the pattern, and still cannot embody it. In Joe's 2025-10-30 session, the client had a déjà vu — he realized he had watched Joe do this exact session online with another client and still had not changed his own behavior. Joe's response used the smaller 5% calibration:
+
+> "Yeah, so, so, right. So that I think there is a part you didn't learn, which is how do you enjoy yourself more right now? Just, I want you to enjoy yourself just 5% more right now. I don't want you to change anything you're doing. Just enjoy yourself 5% more right now."
+>
+> "Yeah, I can do that. Yeah."
+>
+> "So how hard was that?"
+>
+> "That was very easy. Yeah."
+>
+> "So that's how easy it is."
+
+Two structural moves are stacked in this brief exchange. First, Joe drops to 5% from his more common 10% — the smaller number is deliberately easier to reach. The client has been demoralized by the gap between knowing and doing; a 10% target risks being met with "I should be able to do that and clearly I can't." The 5% target removes that defense by being trivially small.
+
+Second, Joe completes the move with the meta-question: "So how hard was that?" The answer ("very easy") is the demonstration the client needed. The part they didn't learn from the prior video is precisely what they just did — enjoyed themselves a tiny bit more right now. The doing is the teaching. The teaching cannot be acquired by re-watching; it can only be acquired by doing the small thing in the present moment.
+
+Joe's compression: "So that's how easy it is." The whole frustration around "I've watched this teaching and nothing changed" collapses in five words. The doing was always available. The watching was the substitute for the doing. See [[if-you-really-understood-it-it-wouldve-changed]] — the variant of that principle this exchange operationalizes: the part that hasn't changed is the part that has only been thought about, not done. The 5% practice is the smallest possible unit of doing.
+
+The 5% calibration is the right one when:
+- The client has explicitly named that they have studied or watched this teaching before
+- The client is in the demoralized state of "I should already know how to do this"
+- The 10% version risks landing as another standard the client cannot meet
+- The session is closing and the move is being installed as a portable practice
+
+## When to Use It
+
+- Mid-task, when the work has become rote or mechanical.
+- During a transition between activities.
+- When emails, meetings, or chores have become joyless.
+- When the client reports being unable to feel joy in their day.
+- As a default orientation throughout the workday, not as a discrete event.
+- When a longer enjoyment practice (see [[enjoy-your-breath-for-five-minutes]]) feels too large for the moment.
+
+## How to Coach It
+
+The instruction is small enough that it can be delivered in the moment without explanation. The right delivery is light, almost incidental.
+
+- "Just for a second, see if you can enjoy this conversation a little bit more."
+- "Whatever you're doing right now, see if you can enjoy it just a little more."
+- "Don't change what you're doing. Just enjoy it a little bit more inwardly."
+
+If the person reports a result ("oh, that did something"), do not amplify. The smallness is the practice. Naming the result tends to install a new should ("I'm supposed to feel that"). Stay light.
+
+If the person reports nothing happened, that is also fine. The practice does not require an observable result. Sometimes the work is at the level of installing the habit of the small turn, not at the level of producing a felt change each time.
+
+## What It Is Not
+
+- Not a discipline. Not something you have to schedule.
+- Not a state to achieve. The "little bit more" is enough; no completion is implied.
+- Not manufactured cheerfulness. See [[manufacturing-the-feeling]] and the college-roommate version of it in [[enjoyment-as-path]].
+- Not a replacement for the longer practices. It is the version that fits in the cracks of a workday.
+
+## Why "A Little Bit More" Matters
+
+The instruction is calibrated to bypass the most common failure mode of enjoyment practices: aiming too high. Most people, asked to "enjoy this fully," will either grip toward enjoyment (which produces strain) or conclude they cannot do it (which produces shame).
+
+"A little bit more" is reachable from any starting state. The most miserable person can enjoy their current state slightly more. The most content person can enjoy their current state slightly more. The ceiling is not specified. The floor is removed. The only direction is the next small increment.
+
+This is also why the practice tends to compound. Each "little bit more" expands the capacity for the next "little bit more." Over time, the same task that was endured becomes enjoyed. The mechanism is the same as [[pleasure-capacity]]: the nervous system trains higher through small repeated touches, not through breakthrough experiences.
+
+## Connection to Work Productivity
+
+The practice is one of three ways Joe outlines to enjoy work more. The other two are stopping action-from-obligation (see [[find-the-want-behind-the-should]]) and using lack of enjoyment as a diagnostic (see [[lack-of-enjoyment-as-diagnostic]]). Of the three, this one is the most operational at the level of moment-to-moment experience. It does not require restructuring the work. It only requires noticing the relationship to the work.
+
+The downstream effect on productivity follows from [[efficiency-as-enjoyment]]: the small enjoyment increment lowers friction, which raises efficiency. The change is invisible from outside. The output is not.
+
+## Tone
+
+Light, almost casual. The practice loses its character when delivered with weight. Joe demonstrates the practice in passing, almost as if mentioning it in conversation. The smallness is in the delivery as much as in the instruction.
+
+## Upstream (What Leads Here)
+
+- When someone reports work has become rote, joyless, or grinding.
+- When someone is asking how to enjoy something they have to do anyway.
+- When a longer practice is not available in the moment.
+- When [[i-keep-postponing-enjoyment]] is showing up at the level of a workday.
+
+## Downstream (Where This Leads)
+
+- Toward [[enjoyment-as-path]]: the principle this practice serves.
+- Toward [[apply-enjoy-to-whats-here]]: the broader move this practice is a small version of.
+- Toward [[pleasure-capacity]]: the gradual expansion of the nervous system's ceiling.
+- Toward [[efficiency-as-enjoyment]]: the operational benefit at the work level.
+- Toward [[enjoy-your-breath-for-five-minutes]]: the longer, more deliberate version.
+
+## Sources
+
+- 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the three ways to enjoy your work more; the just-a-little-bit-more instruction; the nothing-has-to-change-outwardly framing; examples of inward shifts: breath, slowing, body attention, alternative rhythms; the email-pounding vs. email-slowing example showing the shift is idiosyncratic)
+- 2025-05-06_Watch Him Dissolve Procrastination In 11 Minutes (Coaching With Joe Hudson) (the "10% more" percentage variant of the practice; in-session use as a state-shifter while the person is mid-intellectualization; the explicit transfer move "that's how you enjoy your work more too" linking the in-session demonstration to the take-home practice)
+- 2025-10-30_My body won't let me build what my brain knows I can (Coaching with Joe Hudson) (the 5% variant calibrated for the demoralized "I've watched this teaching and nothing changed" client; the "I want you to enjoy yourself just 5% more right now, I don't want you to change anything you're doing" delivery; the meta-question close "so how hard was that?" with the client's "very easy" as the demonstration; Joe's compression "so that's how easy it is" landing the answer to the déjà vu of having studied the teaching without changing — the doing is the teaching, and the doing is trivially available in any present moment)

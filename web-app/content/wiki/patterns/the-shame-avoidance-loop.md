@@ -1,0 +1,129 @@
+---
+type: pattern
+id: the-shame-avoidance-loop
+title: "The Shame Avoidance Loop"
+aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox", "running away from shame creates more shame", "the addiction shame loop", "the doomscrolling shame loop", "the more I scroll the more I feel bad", "scrolling produces shame produces more scrolling", "the I-scroll-because-I-don't-want-to-feel-bad cycle"]
+tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing", "addiction", "doomscrolling"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato", "should-i-stop-drinking", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session", "i-cant-stop-doomscrolling", "joes-doomscrolling-story", "the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato", "2024-06-13_Do I Stop Drinking？", "2025-05-30_The Secret to Elite Doomscrolling： You Must Hate Yourself"]
+---
+
+# The Shame Avoidance Loop
+
+## The Trigger
+
+A person feels shame when they offend someone or when someone disconnects from them. The natural response: organize life to avoid that. Be less direct. Soften. Hedge. Perform what others want. Never let anyone be upset with you.
+
+## The Cycle
+
+The cycle has two arms that loop into each other.
+
+**Arm 1: The other person disconnects.** Someone gets upset, withdraws, gets angry. You feel shame (the felt sense of disconnection from them). You learn: avoid causing that.
+
+**Arm 2: You disconnect from yourself.** To avoid Arm 1, you stop being yourself. You hide your truth, soften your wants, perform what they want to hear. You feel shame (the felt sense of disconnection from yourself).
+
+Both arms produce the same body sensation. Both produce shame. Avoiding one arm sends you into the other.
+
+"If you get mad at me, then I feel disconnected. And if I don't be myself, I feel disconnected." -- Joe Hudson, Healing Shame by Being Ourselves
+
+"It's a lose-lose. That's why the problem when you showed up was how, like, I'm not being myself. That's the problem because that's disconnection." -- Joe Hudson, Healing Shame by Being Ourselves
+
+## How the Loop Tightens
+
+The strategy of avoiding Arm 1 fails reliably for three reasons:
+
+1. **It is impossible to never offend anyone.** "The most offensive people still have fans" and the least offensive people still offend somebody. Even saying "you have a blue sweater" can offend someone who insists it is periwinkle.
+
+2. **The strategy itself produces Arm 2 shame.** Each time you swallow your truth, you feel the disconnection from yourself. Each rehearsed sentence, each unspoken want, each careful hedge adds to the load.
+
+3. **Avoiding shame keeps it active.** Looking around the room trying to figure out how not to feel shame is itself a disconnection from yourself, which creates shame.
+
+"So you're either looking around the room trying to figure out how not to feel shame, which is a disconnection which creates shame, or, right, or you're saying something that's not true so that you don't get somebody upset so you can avoid shame. So that creates shame." -- Joe Hudson, Healing Shame by Being Ourselves
+
+## The Way Out Is Through
+
+The loop breaks not by getting better at avoiding shame but by stopping the avoidance. The person who embraces shame as [[shame-as-disconnection]] removes the engine of the loop.
+
+"Whereas if you embrace it, then what's to avoid? Then you just be yourself." -- Joe Hudson, Healing Shame by Being Ourselves
+
+The mechanism: if shame is welcome, there is no need to engineer life to avoid it. The behaviors organized around the avoidance fall away on their own. The person can be themselves because the cost of being themselves (potential shame) is no longer prohibitive.
+
+## When Someone Experiences This
+
+- You feel like you have to be a different person with different people, and the cost is exhausting.
+- You rehearse conversations in your head looking for the version that will not offend anyone.
+- You feel a vague sadness or emptiness after social interactions where you held back.
+- You alternate between "I should be more direct" and "but they couldn't handle it."
+- You experience the same loop with yourself: "I should have said it" + "but they would have been upset" + "but I should have said it."
+- You notice that the more you try to manage people's responses to you, the smaller you feel.
+
+## Upstream (What Leads Here)
+
+- [[im-afraid-of-offending-people]]: the presenting concern that almost always sits on top of this loop.
+- [[i-caretake-people]]: a closely related shame-avoidance pattern in the caretaking form.
+- [[childhood-imprinting]]: the loop is often installed early through love withdrawal as discipline.
+- Strong emotional reactions when others get upset, including from anonymous voices on the internet.
+
+## Downstream (Where Joe Goes From Here)
+
+- Toward [[shame-as-disconnection]]: the reframe that removes the threat from the shame signal.
+- Toward [[trigger-the-shame-live]]: producing the shame in the room so the person can encounter it experientially rather than abstractly.
+- Toward [[conflict-avoidance-prevents-healing]]: making the case that the loop has costs beyond personal misery.
+- Toward [[how-else-would-you-heal-your-shame]]: the question that exposes the loop's contradiction.
+- Toward [[feeling-the-unfelt-emotion]]: the actual prescription is to feel the shame, not avoid it.
+
+## Connection to Other Loops
+
+This pattern is a specific case of [[voice-creates-what-it-fears]]: the strategy that organizes life around avoiding an outcome produces that outcome. The voice that says "don't offend them or you'll feel shame" produces the shame the voice was warning against.
+
+It is also closely related to [[what-we-fear-we-invite]]: the avoidance creates the conditions for the feared thing.
+
+## The Interpersonal Sibling: The Shame Hot Potato
+
+The shame avoidance loop is the intrapersonal form of a structurally identical interpersonal pattern: the [[shame-hot-potato]]. The avoidance loop runs inside one person — the strategy to avoid shame produces shame. The hot potato runs between two or more people — each person's attempt to expel their shame onto another gives the other person shame to expel back.
+
+The two patterns are usually coupled. Inside each person, the avoidance loop is running. Between them, the hot potato is running, because each is using the throw at the other as one of the avoidance strategies. The two patterns reinforce each other.
+
+The exit moves are also paired. Internally, the work is to let shame be felt rather than avoided. Externally, the work is to drop the throw — receive the shame the other person is trying to install, feel it, and listen to what is actually true for them. See [[drop-the-hot-potato]].
+
+A diagnostic: chronic recurring fight (same fight, year after year, with partner or team or political opponent) is almost certainly running on the hot potato in addition to whatever else is happening. The signature of shame-driven dynamics is stagnation. Other emotions resolve. Shame does not. So shame-driven patterns persist.
+
+## The Addiction Variant: Substance Use as the Avoidance Strategy
+
+When the avoidance strategy is a substance (alcohol, cannabis, food, scrolling, shopping) the loop has a specific shape. The person feels shame and uses the substance to escape it. The substance use produces more shame (about using the substance, about not being able to stop, about doing it again). The new shame increases the want for the substance. The cycle tightens.
+
+Joe's compression of this in a live coaching session about drinking:
+
+"How does it feel to know that you've been running away from shame and guilt, and in the running away from it, creating more shame and guilt?" -- Joe Hudson, Do I Stop Drinking?
+
+The client recognized this immediately as the dynamic he was in: "That's where I am. It's just like a downward spiral."
+
+This variant is structurally the same as the social form (avoiding shame in relationship to others creates more shame). The only difference is that the substance plays the role the avoidance behavior plays in the social form. The exit is also the same: stop fighting the shame, welcome it, and the cycle loses its fuel. The substance use changes downstream of the welcoming, not through behavioral force. See [[shame-drives-behavior]] and [[joes-pot-habit]] for the mechanism, and [[do-i-stop-drinking-session]] for the compressed coaching demonstration.
+
+## The Doomscrolling Variant (And Joe's Own Personal Compression)
+
+The same loop runs with doomscrolling, often without anyone noticing because the substance is so socially normalized. Joe describes his own version of the loop in compressed form:
+
+"The whole thing of like what really drives me to doom scroll is that I don't want to feel like bad about myself. And then the more I doom scroll, the more I feel bad about myself. So the more reason I have to doom scroll so that I don't have to feel bad about myself." -- Joe Hudson, The Secret to Elite Doomscrolling
+
+The structural shape is identical to the drinking variant: the avoidance behavior produces the very shame the avoidance is organized around. Each round of scrolling installs the shame that fuels the next round. The cycle is sealed.
+
+The doomscrolling variant has two specific features that make it especially sticky compared to other substance variants:
+
+1. **No cap on the substance.** Unlike drinking, eating, or drugs, the phone does not impose a structural limit. The body can be in the avoidance all day, indefinitely. See [[bad-habits-are-the-avoidance-of-essential-self]] on the cap-less Stage-4 substance.
+
+2. **Built-in cognitive-dissonance reinforcement.** The scroller is typically alone in a room, which means they do not see the other scrollers doing exactly the same thing at the same time. The invisibility of peers reinforces the "I'm uniquely broken" belief that supplies the unique-defectiveness premise the shame is organized around. See [[the-secret-to-the-bad-habit-is-thinking-youre-uniquely-broken]] for the specific principle.
+
+The exit for the doomscrolling variant is the same as for the drinking variant: stop fighting the shame, welcome it, let the substance change downstream. The universalization-as-release form is especially relevant here — see [[its-a-human-thing-redirect]] and [[joes-doomscrolling-story]] for the personal example where the recognition that "other people are doing this too, this isn't personal to me" produced a spontaneous reduction in the behavior.
+
+## Tone
+
+Joe explains the loop methodically, often with examples and humor. The framing is not "you are caught in a tragedy" but "you are caught in a math problem." The lightness is part of the medicine: the loop feels less heavy when it is described as a structural absurdity rather than a personal failure.
+
+## Sources
+
+- 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
+- 2023-12-22_The Shame Hot Potato (the interpersonal sibling pattern and the coupling between the avoidance loop and the hot potato)
+- 2024-06-13_Do I Stop Drinking？ (the substance-use variant of the loop: Joe names the cycle explicitly — "you've been running away from shame and guilt, and in the running away from it, creating more shame and guilt"; the client recognizes the downward spiral form of the pattern)
+- 2025-05-30_The Secret to Elite Doomscrolling: You Must Hate Yourself — the doomscrolling variant of the loop with Joe's personal compression: "the more I doom scroll, the more I feel bad about myself, so the more reason I have to doom scroll"; the two specific features that make the doomscrolling variant especially sticky (no cap on the substance, built-in cognitive-dissonance reinforcement through the invisibility of fellow scrollers)
