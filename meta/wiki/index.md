@@ -112,9 +112,11 @@
 - [ ] G-014 Tune coach authority via in-app version selector and authority-spectrum variants
   - Experiments
     - [x] E-053 Define server-side coach-profile abstraction and author authority-spectrum prompt variants
-    - [~] E-054 Build web-app coach-version selector UI and wire selected profile through chat route; deploy
+    - [x] E-054 Build web-app coach-version selector UI and wire selected profile through chat route; deploy
       - [ ] Q-002 QA: QA: Coach-version selector: switching variants, behavior differs, persistence tags variant, deploy live
 - [ ] G-015 Redesign coach web app with a warm, somatic aesthetic
+  - Research
+    - [ ] R-021 Emotional-journey UX review of each app surface
   - Experiments
     - [ ] E-055 Implement warm-somatic redesign of the web app shell and fix mobile responsiveness
       - [ ] Q-003 QA: QA: Warm-somatic redesign: visual fidelity desktop+mobile, no functional regression, selector still works
