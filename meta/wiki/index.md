@@ -90,6 +90,7 @@
     - [x] E-042 Build wiki view: routing, rendering, internal wikilinks
     - [x] E-043 Wire v5b coach (graph-walk + Sonnet walker) into chat route handler
       - [ ] Q-001 QA: QA: Coach web-app: chat E2E, persistence, modal, mobile, streaming
+      - [x] E-052 Progressive streaming with retrieval progress events
     - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
     - [x] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
@@ -107,6 +108,15 @@
   - Experiments
     - [x] E-050 Build dashboard v1: pending-on-you, wiki state, agent activity, recent commits, checkpoints, backlog — Hono+Bun+JSX, fetch-polling
     - [ ] E-051 Deploy dashboard via G-012 PaaS at status.play.ris.hair with Cloudflare Access auth (CLOSES G-012 AND G-013)
+- [ ] G-014 Tune coach authority via in-app version selector and authority-spectrum variants
+  - Experiments
+    - [x] E-053 Define server-side coach-profile abstraction and author authority-spectrum prompt variants
+    - [ ] E-054 Build web-app coach-version selector UI and wire selected profile through chat route; deploy
+      - [ ] Q-002 QA: QA: Coach-version selector: switching variants, behavior differs, persistence tags variant, deploy live
+- [ ] G-015 Redesign coach web app with a warm, somatic aesthetic
+  - Experiments
+    - [ ] E-055 Implement warm-somatic redesign of the web app shell and fix mobile responsiveness
+      - [ ] Q-003 QA: QA: Warm-somatic redesign: visual fidelity desktop+mobile, no functional regression, selector still works
 
 ## Checkpoints
 

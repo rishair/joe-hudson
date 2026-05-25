@@ -352,6 +352,25 @@ Run it as a step in the workflow before the wrangler-action deploy. Catches misc
   ```
   Discovered live mid-QA of E-046 after the user reported "not loading" — server returned 200, hydration succeeded, but sqlocal couldn't spawn its Web Worker so the conversations list stayed in its loading state. To prevent: any app using OPFS-SQLite (or SharedArrayBuffer-based features like WASM threads, ffmpeg.wasm, etc.) on Cloudflare Workers MUST set both CORP and COEP on static chunks via `_headers`. Smoke-test post-deploy with a real headless browser: a `curl /` check ONLY confirms the SSR shell renders; OPFS init only fires client-side. The [[ai-web-app]] playbook should reference this section when picking the OPFS path.
 
+## SSE / progressive streaming through Workers
+
+Cloudflare Workers can serve Server-Sent Events without buffering — but only when the response body is a `ReadableStream` returned synchronously by the request handler. The two patterns:
+
+- **POST + `fetch()` streaming + AI SDK** — what the AI SDK's `createUIMessageStream` + `createUIMessageStreamResponse` produces. The Worker returns a `Response` with a streamed body; each `writer.write(...)` call inside the `execute` callback flushes to the client immediately. **Verified end-to-end** in E-052: first SSE byte arrives in ~400ms, walker step events stream incrementally over the next 30-40s, then text deltas land at the tail. No cloudflared buffering on this path.
+- **GET-based SSE (e.g., `EventSource` from the browser)** — Cloudflare historically buffered some GET responses through the cloudflared proxy layer; less battle-tested for SSE specifically. If you need GET-based SSE, verify with `curl -N` against the deploy before declaring success. The fix when buffering happens is usually to switch to `fetch()` streaming or to explicitly set `Cache-Control: no-cache, no-transform` plus `X-Accel-Buffering: no` (the latter is a hint that some intermediaries respect).
+
+**Post-deploy verification recipe** for any streaming endpoint:
+
+```bash
+curl -N -X POST https://<worker>.workers.dev/api/<endpoint> \
+  -H 'Content-Type: application/json' \
+  -d '{...}'
+```
+
+The `-N` flag (no buffer) is the key — without it, curl itself will buffer output and you'll see all the chunks arrive at the end even though they actually streamed correctly. With `-N`, lines should print to your terminal as they arrive over the wire. Measure first-byte latency by piping through `ts -i '%.s'` or by wrapping with `time` and watching when output starts (not just when it finishes).
+
+If your streaming UX includes progress indicators that need to render BEFORE a slow tail-task completes (E-052's pattern: emit `data-progress` parts while a 10-25s retrieval pipeline runs, then merge in the model's text stream), structure the handler so `createUIMessageStream` opens FIRST and the slow work runs INSIDE the `execute` callback. The naive ordering — finish-the-slow-work, THEN open the stream — produces a silent UX that defeats the whole point of streaming. Plumb a progress callback through to your slow code and emit `writer.write({type:'data-<key>',...})` from inside it.
+
 ## Resources to check
 
 - [OpenNext Cloudflare docs](https://opennext.js.org/cloudflare) — the canonical reference

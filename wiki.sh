@@ -771,7 +771,7 @@ case "$cmd" in
     is_resolved() {
       local dep_id="$1"
       local dep_file=""
-      for d in "$WIKI_DIR"/goals "$WIKI_DIR"/research "$WIKI_DIR"/experiments "$WIKI_DIR"/qa "$WIKI_DIR"/findings; do
+      for d in "$WIKI_DIR"/goals "$WIKI_DIR"/research "$WIKI_DIR"/experiments "$WIKI_DIR"/qa "$WIKI_DIR"/findings "$WIKI_DIR"/requests; do
         if [[ -f "$d/${dep_id}.md" ]]; then
           dep_file="$d/${dep_id}.md"
           break
@@ -781,7 +781,7 @@ case "$cmd" in
       local dep_status
       dep_status=$(grep '^status:' "$dep_file" | head -1 | sed 's/^status: *//')
       case "$dep_status" in
-        complete|completed|succeeded|failed|inconclusive|confirmed|refuted|abandoned) return 0 ;;
+        complete|completed|succeeded|failed|inconclusive|confirmed|refuted|abandoned|resolved) return 0 ;;
         *) return 1 ;;
       esac
     }
