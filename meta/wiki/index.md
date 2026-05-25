@@ -94,6 +94,7 @@
     - [x] E-044 Build resource-attribution modal split layout
     - [x] E-045 Build first-visit welcome flow explaining project, build, privacy, unaffiliation
     - [x] E-046 Deploy web-app to Cloudflare with automated GitHub pipeline
+    - [ ] E-056 Move web-app deploy to ris.hair account, rename to joebot, serve at joebot.ris.hair custom domain
 - [ ] G-011 Maintain a regularly-updated OpenRouter model registry with eval/cost/throughput data
 - [ ] G-012 Hetzner personal-PaaS: project.play.ris.hair routing via Cloudflare Tunnel with Cloudflare Access
   - Research
@@ -111,7 +112,7 @@
 - [ ] G-014 Tune coach authority via in-app version selector and authority-spectrum variants
   - Experiments
     - [x] E-053 Define server-side coach-profile abstraction and author authority-spectrum prompt variants
-    - [ ] E-054 Build web-app coach-version selector UI and wire selected profile through chat route; deploy
+    - [~] E-054 Build web-app coach-version selector UI and wire selected profile through chat route; deploy
       - [ ] Q-002 QA: QA: Coach-version selector: switching variants, behavior differs, persistence tags variant, deploy live
 - [ ] G-015 Redesign coach web app with a warm, somatic aesthetic
   - Experiments
