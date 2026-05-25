@@ -22,6 +22,7 @@ import {
   readFileBody,
   type SeedCatalogEntry,
 } from './graph-walk';
+import type { ProgressEvent } from './types';
 
 // ---------------- Walker pricing ----------------
 
@@ -398,6 +399,8 @@ export interface GuidedWalkRetrievalArgs {
   maxEdgesPerStep?: number;
   apiKey?: string;
   profile_id?: string;
+  /** Optional progress callback (E-047 progressive streaming). */
+  onProgress?: (event: ProgressEvent) => void;
 }
 
 export interface GuidedWalkRetrievalResult {
@@ -452,6 +455,16 @@ export async function retrieveByGuidedWalk(
     recentHistory: args.recentHistory,
     model: args.seedModel ?? 'claude-haiku-4-5',
     apiKey: args.apiKey,
+  });
+
+  // E-047: emit progress after seed-detection completes so the user sees
+  // we picked up starting points (even if 0 — the message is still useful).
+  args.onProgress?.({
+    stage: 'retrieving',
+    message:
+      seedResult.seeds.length === 0
+        ? 'No starting points found; using priors'
+        : `Found ${seedResult.seeds.length} starting point${seedResult.seeds.length === 1 ? '' : 's'}`,
   });
 
   const compendium = await loadCompendium();
@@ -515,6 +528,17 @@ export async function retrieveByGuidedWalk(
       stopReason = 'frontier_empty';
       break;
     }
+
+    // E-047: emit a walking progress event BEFORE the (slow) walker call. The
+    // user sees "Following thread 3 of 8" tick up as the loop progresses.
+    // total_steps is the step budget — actual count may end earlier (bundle
+    // full / frontier empty) but it's a useful upper bound.
+    args.onProgress?.({
+      stage: 'walking',
+      step: step + 1,
+      total_steps: walker.stepBudget,
+      message: `Following thread ${step + 1} of ${walker.stepBudget}`,
+    });
 
     const nextId = frontier.shift()!;
     inFrontier.delete(nextId);

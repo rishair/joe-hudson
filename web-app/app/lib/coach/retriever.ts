@@ -2,7 +2,7 @@ import 'server-only';
 
 import { retrieveByGuidedWalk } from './guided-walk';
 import { loadCompendium } from './graph-walk';
-import type { ResourceAttribution } from './types';
+import type { ProgressEvent, ResourceAttribution } from './types';
 
 // E-043 / R-016 Answer 1: thin replacement for eval/lib/retrieval-adapter.ts's
 // `buildGuidedWalkRetriever`. The multi-strategy switch is gone (the web-app
@@ -34,13 +34,25 @@ export interface RetrievalResult {
  * (matches eval/lib/retrieval-adapter.ts:139). Throws on infrastructure
  * failure (the route handler catches and logs telemetry per R-016 Answer 1
  * point 5).
+ *
+ * `onProgress` (E-047) is called inline as the pipeline advances:
+ *   - once with `{stage:'analyzing'}` BEFORE seed-detection starts
+ *   - once with `{stage:'retrieving', message:'Found N starting points'}` AFTER seed-detection
+ *   - per walker step with `{stage:'walking', step, total_steps}` as each step starts
+ *
+ * Callers feed these directly into a `data-progress` part on the streaming
+ * response so the user sees incremental feedback during the slow tail.
+ * Throwing inside the callback is the caller's problem; we don't catch.
  */
 export async function runRetrieval(args: {
   clientMessage: string;
   history: { role: 'client' | 'coach'; content: string }[];
+  onProgress?: (event: ProgressEvent) => void;
 }): Promise<RetrievalResult> {
   const t0 = Date.now();
   const recentHistory = args.history.slice(-4);
+  // First progress event: signal we're starting to look at what they wrote.
+  args.onProgress?.({ stage: 'analyzing', message: 'Reading what you wrote' });
   const result = await retrieveByGuidedWalk({
     clientMessage: args.clientMessage,
     recentHistory,
@@ -50,6 +62,7 @@ export async function runRetrieval(args: {
     kMax: V5B_CONFIG.kMax,
     stepBudget: V5B_CONFIG.stepBudget,
     maxEdgesPerStep: V5B_CONFIG.maxEdgesPerStep,
+    onProgress: args.onProgress,
   });
 
   const compendium = await loadCompendium();

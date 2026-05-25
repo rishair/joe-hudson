@@ -14,7 +14,13 @@ import type { UIMessage } from 'ai';
 import { useConversationState } from '@/app/lib/state/use-conversation-state';
 import { useResourceModal } from '@/app/lib/state/use-resource-modal';
 import type { ConversationMessage } from '@/app/lib/types/conversation';
-import type { CoachUIMessage } from '@/app/lib/coach/types';
+import type { CoachUIMessage, ProgressEvent, VariantTag } from '@/app/lib/coach/types';
+import {
+  COACH_PROFILE_META,
+  COACH_PROFILE_ORDER,
+  DEFAULT_COACH_PROFILE_ID,
+  type CoachProfileId,
+} from '@/app/lib/coach/profiles-meta';
 import { ChatScrollRestorer } from './components/chat-scroll-restorer';
 import { ResourceStrip } from './components/resource-strip';
 import { ResourceModal } from './components/resource-modal';
@@ -234,6 +240,19 @@ function HydratedChat({
 
   const [input, setInput] = useState('');
 
+  // E-054 (G-014): which coach variant answers this conversation. Defaults to
+  // the baseline `v5b`. State lives here (per-conversation; HydratedChat is
+  // remounted via `key={activeId}` when the user switches conversations, so
+  // each conversation starts at the baseline). Switching mid-conversation is
+  // allowed — the next turn picks up the new value because we read it at
+  // send time, not at mount. A ref mirrors the state so the submit callback
+  // always sees the latest value without re-subscribing.
+  const [coachProfile, setCoachProfile] = useState<CoachProfileId>(
+    DEFAULT_COACH_PROFILE_ID,
+  );
+  const coachProfileRef = useRef<CoachProfileId>(DEFAULT_COACH_PROFILE_ID);
+  coachProfileRef.current = coachProfile;
+
   // E-044: open the resource modal from a per-message strip click. The
   // hook lives here (not inside ResourceStrip) because Suspense + nuqs
   // requires the URL state hook to be available at a stable component
@@ -245,7 +264,14 @@ function HydratedChat({
       e.preventDefault();
       const text = input.trim();
       if (!text) return;
-      void sendMessage({ text });
+      // E-054: pass the selected coach variant in the per-call request body.
+      // The AI SDK merges this into the JSON the chat route receives, where
+      // `resolveCoachProfile` looks it up (unknown → v5b baseline). Read from
+      // the ref so the value is always the latest selection at send time.
+      void sendMessage(
+        { text },
+        { body: { coachProfile: coachProfileRef.current } },
+      );
       setInput('');
     },
     [input, sendMessage],
@@ -268,6 +294,31 @@ function HydratedChat({
           Local-first chat. Conversations live in browser SQLite (OPFS); only the message body
           leaves your machine, sent to OpenRouter for the coach reply.
         </p>
+        {/* E-054 (G-014): coach-variant selector. Switching applies to the
+            next turn in this conversation. */}
+        <div style={pageStyles.selectorRow}>
+          <label htmlFor="coach-variant" style={pageStyles.selectorLabel}>
+            Coach style
+          </label>
+          <select
+            id="coach-variant"
+            value={coachProfile}
+            onChange={(e) => setCoachProfile(e.target.value as CoachProfileId)}
+            disabled={isStreaming}
+            style={pageStyles.selector}
+            aria-label="Coach style"
+            title={COACH_PROFILE_META[coachProfile].blurb}
+          >
+            {COACH_PROFILE_ORDER.map((id) => (
+              <option key={id} value={id}>
+                {COACH_PROFILE_META[id].label}
+              </option>
+            ))}
+          </select>
+          <span style={pageStyles.selectorBlurb}>
+            {COACH_PROFILE_META[coachProfile].blurb}
+          </span>
+        </div>
       </header>
 
       <section
@@ -280,33 +331,57 @@ function HydratedChat({
             Say something to start the conversation.
           </p>
         )}
-        {messages.map((m) => (
-          <article
-            key={m.id}
-            // E-042: id allows ChatScrollRestorer to scroll to a specific
-            // message when returning from a wiki page via the
-            // ?scrollToMessage=<id> fallback path.
-            id={`msg-${m.id}`}
-            style={{
-              ...pageStyles.message,
-              background: m.role === 'user' ? '#e8f0fe' : '#fff',
-              alignSelf: m.role === 'user' ? 'flex-end' : 'flex-start',
-            }}
-          >
-            <div style={pageStyles.messageRole}>{m.role}</div>
-            {m.parts.map((part, i) =>
-              part.type === 'text' ? (
-                <span key={i}>{part.text}</span>
-              ) : null,
-            )}
-            {/* E-044: subtle resource strip on assistant messages only.
-                Renders null when there's no data-resources part or it's
-                empty (e.g., pre-retrieval intro messages). */}
-            {m.role === 'assistant' && (
-              <ResourceStrip message={m} onOpen={onOpenStrip} />
-            )}
-          </article>
-        ))}
+        {messages.map((m) => {
+          // E-047: extract the LATEST data-progress part on assistant messages.
+          // Render it as a small inline status line that fades once text-delta
+          // events start arriving (we detect that by checking whether any text
+          // part has non-empty content).
+          const latestProgress = m.role === 'assistant' ? extractLatestProgress(m) : null;
+          const hasText = hasAnyText(m);
+          const showProgress = latestProgress && !hasText;
+          // E-054: the variant tag the route attached to this assistant turn.
+          // Persisted inside parts, so it survives reload.
+          const variantTag = m.role === 'assistant' ? extractVariantTag(m) : null;
+          return (
+            <article
+              key={m.id}
+              // E-042: id allows ChatScrollRestorer to scroll to a specific
+              // message when returning from a wiki page via the
+              // ?scrollToMessage=<id> fallback path.
+              id={`msg-${m.id}`}
+              style={{
+                ...pageStyles.message,
+                background: m.role === 'user' ? '#e8f0fe' : '#fff',
+                alignSelf: m.role === 'user' ? 'flex-end' : 'flex-start',
+              }}
+            >
+              <div style={pageStyles.messageRole}>
+                {m.role}
+                {variantTag && (
+                  <span style={pageStyles.variantTag} title={`Answered by the "${variantTag.label}" coach variant`}>
+                    {variantTag.label}
+                  </span>
+                )}
+              </div>
+              {m.parts.map((part, i) =>
+                part.type === 'text' ? (
+                  <span key={i}>{part.text}</span>
+                ) : null,
+              )}
+              {showProgress && (
+                <div style={pageStyles.progressLine} aria-live="polite">
+                  {formatProgress(latestProgress)}
+                </div>
+              )}
+              {/* E-044: subtle resource strip on assistant messages only.
+                  Renders null when there's no data-resources part or it's
+                  empty (e.g., pre-retrieval intro messages). */}
+              {m.role === 'assistant' && (
+                <ResourceStrip message={m} onOpen={onOpenStrip} />
+              )}
+            </article>
+          );
+        })}
         {hydrationError && (
           <div style={pageStyles.errorBanner} role="alert">
             Couldn't load saved messages: {hydrationError}
@@ -348,6 +423,60 @@ function HydratedChat({
       <ResourceModal messages={messages} />
     </div>
   );
+}
+
+/**
+ * E-047 — pull the latest `data-progress` part out of a CoachUIMessage.
+ * Returns null if there isn't one (e.g., user messages, hydrated old messages
+ * from before progress was wired). Picks the LAST progress part because the
+ * server writes one per stage transition and we only render the most recent.
+ */
+function extractLatestProgress(
+  m: CoachUIMessage | UIMessage,
+): ProgressEvent | null {
+  let latest: ProgressEvent | null = null;
+  for (const part of m.parts) {
+    if (part.type !== 'data-progress') continue;
+    const data = (part as unknown as { data?: ProgressEvent }).data;
+    if (data) latest = data;
+  }
+  return latest;
+}
+
+/**
+ * E-054 — pull the `data-variant` tag the route attached to an assistant
+ * message (which coach profile produced it). Returns null on user messages or
+ * messages saved before the selector shipped. Picks the last variant part
+ * (there is only ever one per turn).
+ */
+function extractVariantTag(m: CoachUIMessage | UIMessage): VariantTag | null {
+  let tag: VariantTag | null = null;
+  for (const part of m.parts) {
+    if (part.type !== 'data-variant') continue;
+    const data = (part as unknown as { data?: VariantTag }).data;
+    if (data && typeof data.label === 'string') tag = data;
+  }
+  return tag;
+}
+
+/**
+ * Returns true if the message has any non-empty text part. Used to decide
+ * when to STOP rendering the progress line — once the coach starts streaming
+ * text deltas, the progress info is obsolete.
+ */
+function hasAnyText(m: CoachUIMessage | UIMessage): boolean {
+  for (const part of m.parts) {
+    if (part.type === 'text' && part.text.length > 0) return true;
+  }
+  return false;
+}
+
+/**
+ * Format a progress event for the inline status line. Includes the step
+ * counter when present (e.g., "Following thread 3 of 8").
+ */
+function formatProgress(p: ProgressEvent): string {
+  return p.message;
 }
 
 // Inline styles (consistent with E-040's deliberate barebones approach;
@@ -443,6 +572,44 @@ const pageStyles: Record<string, React.CSSProperties> = {
     color: '#666',
     margin: '4px 0 0',
   },
+  selectorRow: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: 8,
+    marginTop: 10,
+    flexWrap: 'wrap',
+  },
+  selectorLabel: {
+    fontSize: 12,
+    color: '#555',
+    fontWeight: 600,
+  },
+  selector: {
+    padding: '4px 8px',
+    fontSize: 13,
+    border: '1px solid #ccc',
+    borderRadius: 6,
+    background: '#fff',
+    cursor: 'pointer',
+  },
+  selectorBlurb: {
+    fontSize: 12,
+    color: '#888',
+    fontStyle: 'italic',
+    flex: '1 1 200px',
+    minWidth: 0,
+  },
+  variantTag: {
+    marginLeft: 8,
+    padding: '1px 6px',
+    fontSize: 10,
+    fontWeight: 600,
+    color: '#3367d6',
+    background: '#e8f0fe',
+    borderRadius: 4,
+    textTransform: 'none',
+    letterSpacing: 0,
+  },
   transcript: {
     flex: 1,
     display: 'flex',
@@ -469,6 +636,13 @@ const pageStyles: Record<string, React.CSSProperties> = {
     textTransform: 'uppercase',
     letterSpacing: 0.5,
     marginBottom: 4,
+  },
+  progressLine: {
+    marginTop: 4,
+    fontSize: 12,
+    color: '#888',
+    fontStyle: 'italic',
+    transition: 'opacity 0.2s',
   },
   errorBanner: {
     padding: '10px 14px',

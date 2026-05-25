@@ -5,10 +5,14 @@ import {
   streamText,
   type ModelMessage,
   type UIMessage,
+  type UIMessageStreamWriter,
 } from 'ai';
-import { openrouter, DEFAULT_COACH_MODEL } from '@/app/lib/openrouter';
-import { SYSTEM_PROMPT } from '@/app/lib/system-prompt';
+import { openrouter } from '@/app/lib/openrouter';
 import { runRetrieval } from '@/app/lib/coach/retriever';
+import {
+  resolveCoachProfile,
+  type CoachProfile,
+} from '@/app/lib/coach/profiles';
 import {
   preResponseScan,
   postResponseCheck,
@@ -16,7 +20,11 @@ import {
   SAFETY_FALLBACK_TEMPLATE,
 } from '@/app/lib/coach/safety';
 import { checkBudget, recordSpend, getSpentUsd, getBudgetCapUsd } from '@/app/lib/coach/cost-cap';
-import type { CoachUIMessage, ResourceAttribution } from '@/app/lib/coach/types';
+import type {
+  CoachUIMessage,
+  ProgressEvent,
+  ResourceAttribution,
+} from '@/app/lib/coach/types';
 
 // Node runtime explicitly — the lifted graph-walk module uses Node-native fs
 // and path. Edge would also break the @ai-sdk/anthropic dependency at the
@@ -30,6 +38,11 @@ export const maxDuration = 60;
 
 type ChatRequestBody = {
   messages: UIMessage[];
+  /** G-014 (E-054): which coach variant should answer this turn. Optional;
+   *  an unknown / missing id resolves to the `v5b` baseline via
+   *  `resolveCoachProfile`, so older clients and bad payloads degrade
+   *  gracefully rather than 500-ing. */
+  coachProfile?: unknown;
 };
 
 // Coach-side message-cost pricing for the running cap tally. Sonnet 4.6 via
@@ -136,6 +149,31 @@ async function buildModelMessages(args: {
 }
 
 /**
+ * Helper that wraps the progress emission so all stages share the same id
+ * shape (`progress-<timestamp>-<seq>`). Each `writer.write` of a `data-*`
+ * part is independent — having distinct ids per event makes the client a
+ * simple "show the latest progress part" rather than dealing with merging.
+ *
+ * E-047: this is the single place where progress flows out to the wire. The
+ * `runRetrieval` callback funnels here; safety-regen funnels here directly.
+ */
+function makeProgressEmitter(writer: UIMessageStreamWriter<CoachUIMessage>): {
+  emit: (event: ProgressEvent) => void;
+} {
+  let seq = 0;
+  return {
+    emit: (event: ProgressEvent) => {
+      seq += 1;
+      writer.write({
+        type: 'data-progress',
+        id: `progress-${Date.now()}-${seq}`,
+        data: event,
+      });
+    },
+  };
+}
+
+/**
  * Call streamText once, fully drain the resulting UI stream into a buffer,
  * and capture the final answer text + usage so we can post-check safety and
  * track spend. We DO NOT use this for the production stream-to-client path —
@@ -145,12 +183,13 @@ async function buildModelMessages(args: {
  */
 async function generateCoachAnswer(args: {
   modelMessages: ModelMessage[];
+  profile: CoachProfile;
 }): Promise<{ text: string; usd: number }> {
   const result = streamText({
-    model: openrouter(DEFAULT_COACH_MODEL),
+    model: openrouter(args.profile.coachModel),
     system: {
       role: 'system',
-      content: SYSTEM_PROMPT,
+      content: args.profile.systemPrompt,
       providerOptions: {
         // R-016 Answer 2: openrouter provider preserves Anthropic-style
         // cache_control. ~10x prompt-cost reduction at steady state.
@@ -182,7 +221,18 @@ export async function POST(req: Request): Promise<Response> {
     return new Response('messages must be an array', { status: 400 });
   }
 
-  // Cost-cap circuit breaker (E-043 method step 5).
+  // G-014 (E-054): pick the coach variant for this turn. `resolveCoachProfile`
+  // never throws — an unknown / missing id degrades to the `v5b` baseline, so
+  // the four selectable variants ALL flow through the same server path; the
+  // system prompt (and, in principle, coach model + retrieval params) is the
+  // only thing that changes between them. Retrieval is held at the v5b
+  // substrate for all four by construction (E-053: every profile's
+  // retrievalParams reference the same V5B_CONFIG), so `runRetrieval` is left
+  // unchanged and the prompt is provably the only variable.
+  const profile = resolveCoachProfile(body.coachProfile);
+
+  // Cost-cap circuit breaker (E-043 method step 5). Runs before the stream
+  // opens so a budget-exceeded user gets a fast 503 rather than a sad SSE.
   const budget = checkBudget();
   if (!budget.allowed) {
     return new Response(budget.reason, {
@@ -196,100 +246,119 @@ export async function POST(req: Request): Promise<Response> {
     return new Response('No user text to respond to', { status: 400 });
   }
 
-  // SAFETY pre-scan on the latest user message (cheap regex; runs first).
-  const triggers = preResponseScan(userText);
-  const safetyReminder = buildSafetyReminder(triggers);
-
-  // RETRIEVAL — graceful degradation per R-016 Answer 1 point 5. The history
-  // we pass excludes the latest user message (it's `clientMessage` instead).
-  let retrievalInjection = '';
-  let attribution: ResourceAttribution = {
-    resources: [],
-    seeds: [],
-    walker_model: 'claude-sonnet-4-6',
-    total_cost_usd: 0,
-    step_count: 0,
-    stop_reason: 'no_seeds',
-  };
-  let retrievalError: string | null = null;
-  try {
-    const history = uiMessagesToCoachHistory(body.messages);
-    // Drop the trailing client turn — it IS the clientMessage.
-    if (history.length > 0 && history[history.length - 1].role === 'client') {
-      history.pop();
-    }
-    const retrieval = await runRetrieval({
-      clientMessage: userText,
-      history,
-    });
-    retrievalInjection = retrieval.injection;
-    attribution = retrieval.attribution;
-    recordSpend(retrieval.costUsd);
-  } catch (err) {
-    retrievalError = err instanceof Error ? err.message : String(err);
-    // eslint-disable-next-line no-console
-    console.error('[chat] retrieval failed; degrading without injection:', retrievalError);
-  }
-
-  // Build coach messages (this is the augmented-user-message form; the
-  // persisted history on the client remains bare).
-  let modelMessages: ModelMessage[];
-  try {
-    modelMessages = await buildModelMessages({
-      uiMessages: body.messages,
-      retrievalInjection,
-      safetyReminder,
-      userText,
-    });
-  } catch (err) {
-    return new Response(
-      err instanceof Error ? err.message : 'Failed to build coach messages',
-      { status: 400 },
-    );
-  }
-
-  // ===========================================================================
-  // STREAMING PATH — happy case (no safety regen). The coach answer streams
-  // directly to the client. We attach the `data-resources` part BEFORE the
-  // text begins so the indicator appears with the message rather than after.
+  // E-047 — progressive streaming. The UI message stream opens NOW (before
+  // retrieval runs), so the first byte hits the wire in <500ms. Retrieval +
+  // safety + coach all run inside `execute`, emitting `data-progress` parts
+  // as they go.
   //
-  // Safety POST-check is only meaningful in the regeneration loop (it inspects
-  // the COMPLETE draft to decide whether to release it). For the streaming
-  // path we trust the v1 prompt + the SAFETY REMINDER appended above to
-  // produce a compliant answer. If triggers fired, we ALSO run the slow
-  // generate→check→regenerate path below as a second-line guard against
-  // crisis-non-recognition. This trades latency for safety on the small
-  // fraction of turns where triggers fire.
-  // ===========================================================================
-
-  if (triggers.length > 0) {
-    // SAFETY-CRITICAL PATH. We generate non-streaming so we can post-check
-    // before committing the answer to the client. Slower (~3-8s without
-    // streaming) but guarantees we can swap to a fallback if the draft fails
-    // the safety check.
-    return safetyRegenerationFlow({
-      modelMessages,
-      triggers,
-      attribution,
-      retrievalError,
-    });
-  }
-
-  // HAPPY PATH — stream to the client with attribution attached.
+  // Order on the wire:
+  //   1. data-progress (analyzing)
+  //   2. data-progress (retrieving)
+  //   3. data-progress (walking, step 1..N)
+  //   4. data-resources (final attribution)
+  //   5. data-progress (composing) — fires JUST before the text stream
+  //   6. text-start / text-delta* / text-end (coach answer)
+  //
+  // The client renders the LATEST progress part as an inline status line
+  // (small gray italic) that disappears once text-delta events arrive.
   const stream = createUIMessageStream<CoachUIMessage>({
     execute: async ({ writer }) => {
-      // Emit attribution FIRST so the client UI can render the indicator with
-      // the message (per R-016 Answer 3 order-of-emission note).
+      const { emit } = makeProgressEmitter(writer);
+
+      // SAFETY pre-scan on the latest user message (cheap regex; runs first).
+      const triggers = preResponseScan(userText);
+      const safetyReminder = buildSafetyReminder(triggers);
+
+      // RETRIEVAL — graceful degradation per R-016 Answer 1 point 5. The
+      // history we pass excludes the latest user message (it's clientMessage).
+      let retrievalInjection = '';
+      let attribution: ResourceAttribution = {
+        resources: [],
+        seeds: [],
+        walker_model: 'claude-sonnet-4-6',
+        total_cost_usd: 0,
+        step_count: 0,
+        stop_reason: 'no_seeds',
+      };
+      let retrievalError: string | null = null;
+      try {
+        const history = uiMessagesToCoachHistory(body.messages);
+        // Drop the trailing client turn — it IS the clientMessage.
+        if (history.length > 0 && history[history.length - 1].role === 'client') {
+          history.pop();
+        }
+        const retrieval = await runRetrieval({
+          clientMessage: userText,
+          history,
+          onProgress: emit,
+        });
+        retrievalInjection = retrieval.injection;
+        attribution = retrieval.attribution;
+        recordSpend(retrieval.costUsd);
+      } catch (err) {
+        retrievalError = err instanceof Error ? err.message : String(err);
+        // eslint-disable-next-line no-console
+        console.error('[chat] retrieval failed; degrading without injection:', retrievalError);
+      }
+
+      // Build coach messages (augmented-user-message form; the persisted
+      // history on the client remains bare).
+      let modelMessages: ModelMessage[];
+      try {
+        modelMessages = await buildModelMessages({
+          uiMessages: body.messages,
+          retrievalInjection,
+          safetyReminder,
+          userText,
+        });
+      } catch (err) {
+        // Emit a final progress-like signal and throw so onError formats it.
+        throw err instanceof Error ? err : new Error(String(err));
+      }
+
+      // Emit attribution BEFORE the text stream so the client UI can render
+      // the indicator with the message (per R-016 Answer 3 order-of-emission
+      // note). This stays AFTER the walking progress events but BEFORE the
+      // composing event, so the indicator appears just before the answer.
       writer.write({
         type: 'data-resources',
         id: `resources-${Date.now()}`,
         data: attribution,
       });
+
+      // G-014 (E-054) — persistence tagging. Emit which coach variant produced
+      // this answer as a `data-variant` part. It rides inside the assistant
+      // message's `parts`, so E-041's byte-equality round-trip persists it with
+      // no schema change; a reloaded conversation shows which variant replied.
+      writer.write({
+        type: 'data-variant',
+        id: `variant-${Date.now()}`,
+        data: { id: profile.id, label: profile.label },
+      });
+
+      if (triggers.length > 0) {
+        // SAFETY-CRITICAL PATH. We generate non-streaming so we can post-check
+        // before committing the answer to the client. Slower (~3-8s without
+        // streaming) but guarantees we can swap to a fallback if the draft
+        // fails the safety check.
+        await runSafetyRegenInline({
+          writer,
+          emit,
+          modelMessages,
+          triggers,
+          profile,
+        });
+        return;
+      }
+
+      // HAPPY PATH — final progress event, then merge in the coach stream.
+      emit({ stage: 'composing', message: 'Composing response' });
+
       const result = streamText({
-        model: openrouter(DEFAULT_COACH_MODEL),
+        model: openrouter(profile.coachModel),
         system: {
           role: 'system',
-          content: SYSTEM_PROMPT,
+          content: profile.systemPrompt,
           providerOptions: {
             openrouter: { cacheControl: { type: 'ephemeral' } },
           },
@@ -301,7 +370,8 @@ export async function POST(req: Request): Promise<Response> {
           const total = recordSpend(usd);
           // eslint-disable-next-line no-console
           console.log(
-            `[chat] turn done. coach=$${usd.toFixed(4)} ` +
+            `[chat] turn done. profile=${profile.id} ` +
+              `coach=$${usd.toFixed(4)} ` +
               `retrieval=$${attribution.total_cost_usd.toFixed(4)} ` +
               `total=$${total.toFixed(4)} / $${getBudgetCapUsd().toFixed(2)}`,
           );
@@ -320,28 +390,39 @@ export async function POST(req: Request): Promise<Response> {
 }
 
 /**
- * Safety regeneration flow: only invoked when preResponseScan returned at
- * least one trigger. We generate the answer non-streaming, post-check it,
- * regenerate once with a stronger reminder if it fails, and fall back to the
- * canned safety template if the regeneration also fails.
+ * Safety regeneration, inlined into the streaming writer so it emits
+ * progress events as it advances. Mirrors the standalone
+ * `safetyRegenerationFlow` shape but writes directly to `writer` instead of
+ * building a second Response.
  *
- * Latency cost on this branch is ~5-15s before the client sees text — but
- * this branch fires on <1% of turns, and the cost is paid to make sure the
- * crisis-recognition contract is met (G-008 hard-fail).
+ * Order on the wire (in addition to the analyzing/retrieving/walking events
+ * already emitted upstream of this call):
+ *   - data-progress (composing, 'Considering safety')
+ *   - data-progress (composing, 'Regenerating with stronger safety reminder') if first draft fails
+ *   - data-progress (composing, 'Serving safety fallback') if regen also fails
+ *   - text-start / text-delta (single block) / text-end
+ *
+ * The final answer is delivered as ONE text-delta (not token-by-token) — we
+ * already have the full text and the safety post-check is the load-bearing
+ * gate. Streaming token-by-token here would re-introduce the risk of
+ * partial-draft non-recognition that the post-check exists to prevent.
  */
-async function safetyRegenerationFlow(args: {
+async function runSafetyRegenInline(args: {
+  writer: UIMessageStreamWriter<CoachUIMessage>;
+  emit: (event: ProgressEvent) => void;
   modelMessages: ModelMessage[];
   triggers: ReturnType<typeof preResponseScan>;
-  attribution: ResourceAttribution;
-  retrievalError: string | null;
-}): Promise<Response> {
-  const { modelMessages, triggers, attribution } = args;
+  profile: CoachProfile;
+}): Promise<void> {
+  const { writer, emit, modelMessages, triggers, profile } = args;
+
+  emit({ stage: 'composing', message: 'Considering safety' });
+
   let answer: { text: string; usd: number } | null = null;
   let lastReason: string | null = null;
 
-  // First attempt — already has the SAFETY REMINDER injected in the user msg.
   try {
-    answer = await generateCoachAnswer({ modelMessages });
+    answer = await generateCoachAnswer({ modelMessages, profile });
   } catch (err) {
     lastReason = err instanceof Error ? err.message : String(err);
   }
@@ -350,7 +431,10 @@ async function safetyRegenerationFlow(args: {
     const check = postResponseCheck({ draft: answer.text, triggers });
     if (!check.ok) {
       lastReason = check.reason;
-      // Regenerate ONCE with an even stronger reminder.
+      emit({
+        stage: 'composing',
+        message: 'Regenerating with stronger safety reminder',
+      });
       const stronger: ModelMessage[] = [
         ...modelMessages,
         {
@@ -363,7 +447,7 @@ async function safetyRegenerationFlow(args: {
         },
       ];
       try {
-        answer = await generateCoachAnswer({ modelMessages: stronger });
+        answer = await generateCoachAnswer({ modelMessages: stronger, profile });
       } catch (err) {
         lastReason = err instanceof Error ? err.message : String(err);
         answer = null;
@@ -372,7 +456,7 @@ async function safetyRegenerationFlow(args: {
         const recheck = postResponseCheck({ draft: answer.text, triggers });
         if (!recheck.ok) {
           lastReason = recheck.reason;
-          // Fall back to the canned safety message.
+          emit({ stage: 'composing', message: 'Serving safety fallback' });
           const matched = triggers.map((t) => t.matched).join(', ');
           answer = { text: SAFETY_FALLBACK_TEMPLATE(matched), usd: 0 };
           // eslint-disable-next-line no-console
@@ -386,8 +470,7 @@ async function safetyRegenerationFlow(args: {
   }
 
   if (!answer) {
-    // Total generation failure — serve the canned template so the user is
-    // never left without the four required moves.
+    emit({ stage: 'composing', message: 'Serving safety fallback' });
     const matched = triggers.map((t) => t.matched).join(', ');
     answer = { text: SAFETY_FALLBACK_TEMPLATE(matched), usd: 0 };
     // eslint-disable-next-line no-console
@@ -398,31 +481,18 @@ async function safetyRegenerationFlow(args: {
   }
 
   const finalText = answer.text;
-  const stream = createUIMessageStream<CoachUIMessage>({
-    execute: async ({ writer }) => {
-      writer.write({
-        type: 'data-resources',
-        id: `resources-${Date.now()}`,
-        data: attribution,
-      });
-      // Synthesize a UI message stream that emits the entire answer as text.
-      // We bypass streamText here because we already have the final text and
-      // want to deliver it as a single block.
-      const assistantId = `msg-${Date.now()}`;
-      const partId = `text-${Date.now()}`;
-      writer.write({ type: 'start', messageId: assistantId } as never);
-      writer.write({ type: 'start-step' } as never);
-      writer.write({ type: 'text-start', id: partId } as never);
-      writer.write({ type: 'text-delta', id: partId, delta: finalText } as never);
-      writer.write({ type: 'text-end', id: partId } as never);
-      writer.write({ type: 'finish-step' } as never);
-      writer.write({ type: 'finish' } as never);
-      // eslint-disable-next-line no-console
-      console.log(
-        `[chat] safety-flow done. spent total $${getSpentUsd().toFixed(4)} / $${getBudgetCapUsd().toFixed(2)}`,
-      );
-    },
-    onError: (err) => (err instanceof Error ? err.message : 'Unknown error'),
-  });
-  return createUIMessageStreamResponse({ stream });
+  const assistantId = `msg-${Date.now()}`;
+  const partId = `text-${Date.now()}`;
+  writer.write({ type: 'start', messageId: assistantId } as never);
+  writer.write({ type: 'start-step' } as never);
+  writer.write({ type: 'text-start', id: partId } as never);
+  writer.write({ type: 'text-delta', id: partId, delta: finalText } as never);
+  writer.write({ type: 'text-end', id: partId } as never);
+  writer.write({ type: 'finish-step' } as never);
+  writer.write({ type: 'finish' } as never);
+
+  // eslint-disable-next-line no-console
+  console.log(
+    `[chat] safety-flow done. spent total $${getSpentUsd().toFixed(4)} / $${getBudgetCapUsd().toFixed(2)}`,
+  );
 }
